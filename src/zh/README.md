@@ -1,21 +1,25 @@
 ---
 home: true
 icon: home
-title: 项目主页
-heroImage: /logo.svg
+title: 首页
+heroImage: /logo2.svg
 bgImage: https://theme-hope-assets.vuejs.press/bg/6-light.svg
 bgImageDark: https://theme-hope-assets.vuejs.press/bg/6-dark.svg
 bgImageStyle:
   background-attachment: fixed
 heroText: Korepi
-tagline: 你可以在这里放置或是整个项目的描述。
+tagline: 实用爽用的多功能原神工具
 actions:
-  - text: 使用指南
+  - text: 下载
     icon: lightbulb
     link: ./demo/
     type: primary
 
+  - text: 快速开始
+    link: ./guide/
   - text: 文档
+    link: ./guide/
+  - text: 项目介绍
     link: ./guide/
 
 highlights:

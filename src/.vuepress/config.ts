@@ -21,62 +21,62 @@ export default defineUserConfig({
     },
   },
   plugins: [
-    // docsearchPlugin({
-    //   appId: "28CTGDOOQD",
-    //   apiKey: "72d7a9a0f9f0466218ea19988886dce8",
-    //   indexName: "hutao",
-    //   locales: {
-    //     "/zh/": {
-    //       placeholder: "搜索文档",
-    //       translations: {
-    //         button: {
-    //           buttonText: "搜索文档",
-    //           buttonAriaLabel: "搜索文档",
-    //         },
-    //         modal: {
-    //           searchBox: {
-    //             resetButtonTitle: "清除查询条件",
-    //             resetButtonAriaLabel: "清除查询条件",
-    //             cancelButtonText: "取消",
-    //             cancelButtonAriaLabel: "取消",
-    //           },
-    //           startScreen: {
-    //             recentSearchesTitle: "搜索历史",
-    //             noRecentSearchesText: "没有搜索历史",
-    //             saveRecentSearchButtonTitle: "保存至搜索历史",
-    //             removeRecentSearchButtonTitle: "从搜索历史中移除",
-    //             favoriteSearchesTitle: "收藏",
-    //             removeFavoriteSearchButtonTitle: "从收藏中移除",
-    //           },
-    //           errorScreen: {
-    //             titleText: "无法获取结果",
-    //             helpText: "你可能需要检查你的网络连接",
-    //           },
-    //           footer: {
-    //             selectText: "选择",
-    //             navigateText: "切换",
-    //             closeText: "关闭",
-    //             searchByText: "搜索提供者",
-    //           },
-    //           noResultsScreen: {
-    //             noResultsText: "无法找到相关结果",
-    //             suggestedQueryText: "你可以尝试查询",
-    //             reportMissingResultsText: "你认为该查询应该有结果？",
-    //             reportMissingResultsLinkText: "点击反馈",
-    //           },
-    //         },
-    //       },
-    //     },
-    //     "/en/": {
-    //       placeholder: "Search documents",
-    //       translations: {
-    //         button: {
-    //           buttonText: "Search documents",
-    //         },
-    //       },
-    //     },
-    //   },
-    // }),
+    docsearchPlugin({
+      appId: "ZZVQTTIXO9",
+      apiKey: "cecca2e60d98235e8287c8cabc745f1e",
+      indexName: "korepi-btxo",
+      locales: {
+        "/zh/": {
+          placeholder: "搜索文档",
+          translations: {
+            button: {
+              buttonText: "搜索文档",
+              buttonAriaLabel: "搜索文档",
+            },
+            modal: {
+              searchBox: {
+                resetButtonTitle: "清除查询条件",
+                resetButtonAriaLabel: "清除查询条件",
+                cancelButtonText: "取消",
+                cancelButtonAriaLabel: "取消",
+              },
+              startScreen: {
+                recentSearchesTitle: "搜索历史",
+                noRecentSearchesText: "没有搜索历史",
+                saveRecentSearchButtonTitle: "保存至搜索历史",
+                removeRecentSearchButtonTitle: "从搜索历史中移除",
+                favoriteSearchesTitle: "收藏",
+                removeFavoriteSearchButtonTitle: "从收藏中移除",
+              },
+              errorScreen: {
+                titleText: "无法获取结果",
+                helpText: "你可能需要检查你的网络连接",
+              },
+              footer: {
+                selectText: "选择",
+                navigateText: "切换",
+                closeText: "关闭",
+                searchByText: "搜索提供者",
+              },
+              noResultsScreen: {
+                noResultsText: "无法找到相关结果",
+                suggestedQueryText: "你可以尝试查询",
+                reportMissingResultsText: "你认为该查询应该有结果？",
+                reportMissingResultsLinkText: "点击反馈",
+              },
+            },
+          },
+        },
+        "/en/": {
+          placeholder: "Search documents",
+          translations: {
+            button: {
+              buttonText: "Search documents",
+            },
+          },
+        },
+      },
+    }),
     redirectPlugin({
       defaultLocale: "/en/",
       autoLocale: true,
@@ -87,11 +87,11 @@ export default defineUserConfig({
       },
     }),
     googleAnalyticsPlugin({
-      id: 'G-T5SPSB45H5',
+      id: 'G-D5RM42XS38',
     }),
     ]  ,
   theme,
 
   // Enable it with pwa
-  // shouldPrefetch: false,
+  shouldPrefetch: false,
 });
