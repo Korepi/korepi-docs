@@ -8,7 +8,7 @@ bgImageDark: https://theme-hope-assets.vuejs.press/bg/6-dark.svg
 bgImageStyle:
   background-attachment: fixed
 heroText: Korepi
-tagline: 实用爽用的多功能原神工具
+tagline: 实用爽用的多功能原神科技
 actions:
   - text: 下载
     icon: lightbulb
@@ -23,16 +23,16 @@ actions:
     link: ./guide/
 
 highlights:
-  - header: 易于安装
+  - header: 超人般的体验
     image: /assets/image/box.svg
     bgImage: https://theme-hope-assets.vuejs.press/bg/3-light.svg
     bgImageDark: https://theme-hope-assets.vuejs.press/bg/3-dark.svg
     highlights:
-      - title: 运行 <code>pnpm create vuepress-theme-hope hope-project</code> 以创建一个新的主题项目。
-      - title: 在已有项目根目录下运行 <code>pnpm create vuepress-theme-hope add .</code> 以在项目中添加主题。
+      - title: 快速解锁地图上未解锁的锚点
+      - title: 一键探索地图所有宝箱资源
 
-  - header: 在 Markdown 中添加你想要的内容
-    description: 我们扩展了标准的 CommonMark 规范，为你添加了成吨功能。
+  - header: 实用的原神多功能科技
+    description: 独家功能,任意使用
     image: /assets/image/markdown.svg
     bgImage: https://theme-hope-assets.vuejs.press/bg/2-light.svg
     bgImageDark: https://theme-hope-assets.vuejs.press/bg/2-dark.svg
@@ -40,14 +40,14 @@ highlights:
       background-repeat: repeat
       background-size: initial
     features:
-      - title: 链接检查
+      - title: 透视资源
         icon: clipboard-check
-        details: 检查 Markdown 链接
+        details: 瞬间找到需要的资源
         link: https://theme-hope.vuejs.press/zh/guide/markdown/others.html#link-check
 
-      - title: 自定义容器支持
+      - title: 快速移动
         icon: box-archive
-        details: 用样式装饰 Markdown 内容
+        details: 体验飞一般的感觉
         link: https://theme-hope.vuejs.press/zh/guide/markdown/container.html
 
       - title: 选项卡
