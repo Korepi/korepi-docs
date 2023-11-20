@@ -7,10 +7,10 @@ icon: lightbulb
 
 ### Bar
 
-- [baz](bar/baz.md)
+- [baz](src/en/guide/bar/baz.md)
 - ...
 
 ### Foo
 
-- [ray](foo/ray.md)
+- [ray](src/en/guide/foo/ray.md)
 - ...

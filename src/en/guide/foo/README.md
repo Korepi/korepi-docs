@@ -9,5 +9,5 @@ We support foo feature, ...
 
 ## Details
 
-- [ray](ray.md)
+- [ray](src/en/guide/foo/ray.md)
 - ...
