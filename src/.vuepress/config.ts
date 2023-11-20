@@ -22,9 +22,9 @@ export default defineUserConfig({
   },
   plugins: [
     docsearchPlugin({
-      appId: "ZZVQTTIXO9",
-      apiKey: "cecca2e60d98235e8287c8cabc745f1e",
-      indexName: "korepi-btxo",
+      appId: "NU9DPY3560",
+      apiKey: "7c97cf95706fe492fad67390ad3c401b",
+      indexName: "korepi",
       locales: {
         "/zh/": {
           placeholder: "搜索文档",
