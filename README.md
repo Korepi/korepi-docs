@@ -1,4 +1,4 @@
-# Snap.Hutao.Docs
+# Korepi Documentation
 
 Documents for https://github.com/Korepi/korepi. You can always view its live version at https://github.com/Korepi/korepi-docs
 
@@ -7,7 +7,7 @@ Documents for https://github.com/Korepi/korepi. You can always view its live ver
 
 ### Fist Time Installation
 
-- Install [NodeJS 18](https://nodejs.org/en/download/)
+- Install [NodeJS >=18](https://nodejs.org/en/download/)
 - Use [GitHub Desktop](https://desktop.github.com/) or Git command to clone this repository (`git clone`)
 - Run `pnpm install` in the root directory of the project
 
