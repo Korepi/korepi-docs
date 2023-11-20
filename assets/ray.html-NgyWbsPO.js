@@ -1,0 +1,1 @@
+import{_ as e}from"./plugin-vue_export-helper-x3n3nnut.js";import{o as t,c as o,a as r}from"./app-XK05BSDl.js";const a={},c=r("p",null,"Feature details here.",-1),s=[c];function _(n,l){return t(),o("div",null,s)}const f=e(a,[["render",_],["__file","ray.html.vue"]]);export{f as default};
