@@ -1,50 +1,54 @@
 ---
 home: true
 icon: home
-title: Project home 
-heroImage: /logo.svg
+title: Home
+heroImage: /logo2.svg
 bgImage: https://theme-hope-assets.vuejs.press/bg/6-light.svg
 bgImageDark: https://theme-hope-assets.vuejs.press/bg/6-dark.svg
 bgImageStyle:
-  background-attachment: fixed
-heroText: Project name
-tagline: You can place the description of the project here.
+background-attachment: fixed
+heroText: Korepi
+tagline: Practical and enjoyable multi-functional Genshin Impact technology
 actions:
-  - text: How to Use
+  - text: Download
     icon: lightbulb
     link: ./demo/
     type: primary
 
-  - text: Docs
+  - text: Quick Start
+    link: ./guide/
+  - text: Documentation
+    link: ./guide/
+  - text: Project Introduction
     link: ./guide/
 
 highlights:
-  - header: Easy to install
+  - header: Superhuman-like experience
     image: /assets/image/box.svg
     bgImage: https://theme-hope-assets.vuejs.press/bg/3-light.svg
     bgImageDark: https://theme-hope-assets.vuejs.press/bg/3-dark.svg
     highlights:
-      - title: Run <code>pnpm create vuepress-theme-hope hope-project</code> to create a new project with this theme.
-      - title: Run <code>pnpm create vuepress-theme-hope add .</code> in your project root to create a new project with this theme.
+      - title: Quickly unlock unexplored anchor points on the map
+      - title: Explore all chest resources on the map with one click
 
-  - header: Add things you want in markdown
-    description: We extended the standard commonMark specification and added tons of new features for you.
+  - header: Practical multi-functional Genshin Impact technology
+    description: Exclusive features, free to use
     image: /assets/image/markdown.svg
     bgImage: https://theme-hope-assets.vuejs.press/bg/2-light.svg
     bgImageDark: https://theme-hope-assets.vuejs.press/bg/2-dark.svg
     bgImageStyle:
-      background-repeat: repeat
-      background-size: initial
+    background-repeat: repeat
+    background-size: initial
     features:
-      - title: Links Check
+      - title: Resource Perspective
         icon: clipboard-check
-        details: Check markdown links
-        link: https://theme-hope.vuejs.press/guide/markdown/others.html#link-check
-
-      - title: Custom Container
+        details: Instantly find the resources you need
+        link: https://theme-hope.vuejs.press/en/guide/markdown/others.html#link-check
+  
+      - title: Fast Travel
         icon: box-archive
-        details: Decorate Markdown content with styles
-        link: https://theme-hope.vuejs.press/guide/markdown/container.html
+        details: Experience the feeling of flying
+        link: https://theme-hope.vuejs.press/en/guide/markdown/container.html
 
       - title: Tabs
         icon: table-columns
