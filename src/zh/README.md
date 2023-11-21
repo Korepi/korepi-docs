@@ -1,4 +1,4 @@
----
+﻿---
 home: true
 icon: home
 title: 首页
@@ -69,9 +69,9 @@ highlights:
         details: 怪物对你的伤害为0
         link: https://theme-hope.vuejs.press/zh/guide/markdown/attrs.html
 
-      - title: 待完成
+      - title: 多重攻击
         icon: superscript
-        details: 待完成
+        details: 怪物受到多倍攻击
         link: https://theme-hope.vuejs.press/zh/guide/markdown/sup-sub.html
 
       - title: 待完成
