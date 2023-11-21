@@ -64,9 +64,9 @@ highlights:
         details: 快速度过无聊的等待时间
         link: https://theme-hope.vuejs.press/zh/guide/markdown/align.html
 
-      - title: 待完成
+      - title: 无敌模式
         icon: code
-        details: 待完成
+        details: 怪物对你的伤害为0
         link: https://theme-hope.vuejs.press/zh/guide/markdown/attrs.html
 
       - title: 待完成
