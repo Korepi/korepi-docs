@@ -25,18 +25,9 @@ devDependencies:
   vuepress:
     specifier: 2.0.0-rc.0
     version: 2.0.0-rc.0(@vuepress/client@2.0.0-rc.0)(vue@3.3.8)
-  vuepress-plugin-autometa:
-    specifier: ^0.1.13
-    version: 0.1.13
-  vuepress-plugin-baidu-autopush:
-    specifier: ^1.0.1
-    version: 1.0.1
   vuepress-plugin-feed2:
     specifier: 2.0.0-rc.0
     version: 2.0.0-rc.0(vuepress@2.0.0-rc.0)
-  vuepress-plugin-sitemap:
-    specifier: ^2.3.1
-    version: 2.3.1(chalk@2.4.2)(commander@2.20.3)(esm@3.2.25)
   vuepress-theme-hope:
     specifier: 2.0.0-rc.0
     version: 2.0.0-rc.0(@types/js-yaml@4.0.9)(vuepress@2.0.0-rc.0)
@@ -3244,11 +3235,6 @@ packages:
     engines: {node: '>=0.8.0'}
     dev: true
 
-  /esm@3.2.25:
-    resolution: {integrity: sha512-U1suiZ2oDVWv4zPO56S0NcR5QriEahGtdN2OR6FiOG4WJvcjBVFB0qI4+eKoWFH483PKGuLuu6V8Z4T5g63UVA==}
-    engines: {node: '>=6'}
-    dev: true
-
   /esprima@4.0.1:
     resolution: {integrity: sha512-eGuFFw7Upda+g4p+QHvnW0RyTX/SVeJBDM/gCtMARO0cLuT2HcEKnTPvhjV6aGeqrCB/sbNop0Kszm0jsaWU4A==}
     engines: {node: '>=4'}
@@ -3861,40 +3847,12 @@ packages:
       p-locate: 4.1.0
     dev: true
 
-  /lodash.chunk@4.2.0:
-    resolution: {integrity: sha512-ZzydJKfUHJwHa+hF5X66zLFCBrWn5GeF28OHEr4WVWtNDXlQ/IjWKPBiikqKo2ne0+v6JgCgJ0GzJp8k8bHC7w==}
-    dev: true
-
   /lodash.debounce@4.0.8:
     resolution: {integrity: sha512-FT1yDzDYEoYWhnSGnpE/4Kj1fLZkDFyqRb7fNt6FdYOSxlUWAtp42Eh6Wb0rGIv/m9Bgo7x4GhQbm5Ys4SG5ow==}
     dev: true
 
-  /lodash.defaultsdeep@4.6.1:
-    resolution: {integrity: sha512-3j8wdDzYuWO3lM3Reg03MuQR957t287Rpcxp1njpEa8oDrikb+FwGdW3n+FELh/A6qib6yPit0j/pv9G/yeAqA==}
-    dev: true
-
-  /lodash.findindex@4.6.0:
-    resolution: {integrity: sha512-9er6Ccz6sEST3bHFtUrCFWk14nE8cdL/RoW1RRDV1BxqN3qsmsT56L14jhfctAqhVPVcdJw4MRxEaVoAK+JVvw==}
-    dev: true
-
-  /lodash.isempty@4.4.0:
-    resolution: {integrity: sha512-oKMuF3xEeqDltrGMfDxAPGIVMSSRv8tbRSODbrs4KGsRRLEhrW8N8Rd4DRgB2+621hY8A8XwwrTVhXWpxFvMzg==}
-    dev: true
-
-  /lodash.padstart@4.6.1:
-    resolution: {integrity: sha512-sW73O6S8+Tg66eY56DBk85aQzzUJDtpoXFBgELMd5P/SotAguo+1kYO6RuYgXxA4HJH3LFTFPASX6ET6bjfriw==}
-    dev: true
-
   /lodash.sortby@4.7.0:
     resolution: {integrity: sha512-HDWXG8isMntAyRF5vZ7xKuEvOhT4AhlRt/3czTSjvGUxjYCBVRQY48ViDHyfYz9VIoBkW4TMGQNapx+l3RUwdA==}
-    dev: true
-
-  /lodash.trimend@4.5.1:
-    resolution: {integrity: sha512-lsD+k73XztDsMBKPKvzHXRKFNMohTjoTKIIo4ADLn5dA65LZ1BqlAvSXhR2rPEC3BgAUQnzMnorqDtqn2z4IHA==}
-    dev: true
-
-  /lodash.trimstart@4.5.1:
-    resolution: {integrity: sha512-b/+D6La8tU76L/61/aN0jULWHkT0EeJCmVstPBn/K9MtD2qBW83AsBNrr63dKuWYwVMO7ucv13QNO/Ek/2RKaQ==}
     dev: true
 
   /lodash@4.17.21:
@@ -4294,10 +4252,6 @@ packages:
       jsesc: 0.5.0
     dev: true
 
-  /remove-markdown@0.3.0:
-    resolution: {integrity: sha512-5392eIuy1mhjM74739VunOlsOYKjsH82rQcTBlJ1bkICVC3dQ3ksQzTHh4jGHQFnM+1xzLzcFOMH+BofqXhroQ==}
-    dev: true
-
   /require-directory@2.1.1:
     resolution: {integrity: sha512-fGxEI7+wsG9xrvdjsrlmL22OMTTiHRwAMroiEeMgq8gzoLC/PQr7RsRDSTLUg/bZAZtF+TVIkHc6/4RIKrui+Q==}
     engines: {node: '>=0.10.0'}
@@ -4488,16 +4442,6 @@ packages:
     resolution: {integrity: sha512-bzyZ1e88w9O1iNJbKnOlvYTrWPDl46O1bG0D3XInv+9tkPrxrN8jUUTiFlDkkmKWgn1M6CfIA13SuGqOa9Korw==}
     engines: {node: '>=14'}
 
-  /sitemap@3.2.2:
-    resolution: {integrity: sha512-TModL/WU4m2q/mQcrDgNANn0P4LwprM9MMvG4hu5zP4c6IIKs2YLTu6nXXnNr8ODW/WFtxKggiJ1EGn2W0GNmg==}
-    engines: {node: '>=6.0.0', npm: '>=4.0.0'}
-    dependencies:
-      lodash.chunk: 4.2.0
-      lodash.padstart: 4.6.1
-      whatwg-url: 7.1.0
-      xmlbuilder: 13.0.2
-    dev: true
-
   /sitemap@7.1.1:
     resolution: {integrity: sha512-mK3aFtjz4VdJN0igpIJrinf3EO8U8mxOPsTBzSsy06UtjZQJ3YY3o3Xa7zSc5nMqcMrRwlChHZ18Kxg0caiPBg==}
     engines: {node: '>=12.0.0', npm: '>=5.6.0'}
@@ -4645,10 +4589,6 @@ packages:
   /strip-final-newline@3.0.0:
     resolution: {integrity: sha512-dOESqjYr96iWYylGObzd39EuNTa5VJxyvVAEm5Jnh7KGo75V43Hk1odPQkNDyXNmUR6k+gEiDVXnjB8HJ3crXw==}
     engines: {node: '>=12'}
-
-  /striptags@3.1.1:
-    resolution: {integrity: sha512-3HVl+cOkJOlNUDAYdoCAfGx/fzUzG53YvJAl3RYlTvAcBdPqSp1Uv4wrmHymm7oEypTijSQqcqplW8cz0/r/YA==}
-    dev: true
 
   /striptags@3.2.0:
     resolution: {integrity: sha512-g45ZOGzHDMe2bdYMdIvdAfCQkCTDMGBazSw1ypMowwGIee7ZQ5dU0rBJ8Jqgl+jAKIv4dbeE1jscZq9wid1Tkw==}
@@ -4948,23 +4888,6 @@ packages:
       - supports-color
       - typescript
       - vidstack
-    dev: true
-
-  /vuepress-plugin-autometa@0.1.13:
-    resolution: {integrity: sha512-yhd8smLhbCO0+gc3FRNjOyffdGl12gUkv60UqdtEUCojEy4s7APDJ2pt85cSLASMdnWaY7EcMibMRkqeUOVAKg==}
-    engines: {node: '>=8'}
-    dependencies:
-      lodash.defaultsdeep: 4.6.1
-      lodash.findindex: 4.6.0
-      lodash.isempty: 4.4.0
-      lodash.trimend: 4.5.1
-      lodash.trimstart: 4.5.1
-      remove-markdown: 0.3.0
-      striptags: 3.1.1
-    dev: true
-
-  /vuepress-plugin-baidu-autopush@1.0.1:
-    resolution: {integrity: sha512-KVQkrmMgPY+GG8dtI2wcRxUv1n2h5DM8aFs75ltsSlFBSS9C/vfLb2LmywXAsoCXk2EHya2p66cpn7BxofK+Mw==}
     dev: true
 
   /vuepress-plugin-blog2@2.0.0-rc.0(vuepress@2.0.0-rc.0):
@@ -5510,20 +5433,6 @@ packages:
       - typescript
     dev: true
 
-  /vuepress-plugin-sitemap@2.3.1(chalk@2.4.2)(commander@2.20.3)(esm@3.2.25):
-    resolution: {integrity: sha512-n+8lbukhrKrsI9H/EX0EBgkE1pn85LAQFvQ5dIvrZP4Kz6JxPOPPNTQmZMhahQV1tXbLZQCEN7A1WZH4x+arJQ==}
-    hasBin: true
-    peerDependencies:
-      chalk: ^2.0.0
-      commander: ^2.0.0
-      esm: ^3.0.0
-    dependencies:
-      chalk: 2.4.2
-      commander: 2.20.3
-      esm: 3.2.25
-      sitemap: 3.2.2
-    dev: true
-
   /vuepress-shared@2.0.0-rc.0(vuepress@2.0.0-rc.0):
     resolution: {integrity: sha512-Rr5n/A1o8qnyvZEWkrI8is9ktQhTc+6P56QjHM3bCI2XRDFfwnUNi8hCSl4KA0/MQOESMHmWnL4izRD7Jprh5A==}
     engines: {node: '>=18.16.0', npm: '>=8', pnpm: '>=7', yarn: '>=2'}
@@ -5896,11 +5805,6 @@ packages:
     hasBin: true
     dependencies:
       sax: 1.3.0
-    dev: true
-
-  /xmlbuilder@13.0.2:
-    resolution: {integrity: sha512-Eux0i2QdDYKbdbA6AM6xE4m6ZTZr4G4xF9kahI2ukSEMCzwce2eX9WlTI5J3s+NU7hpasFsr8hWIONae7LluAQ==}
-    engines: {node: '>=6.0'}
     dev: true
 
   /y18n@4.0.3:
