@@ -11,13 +11,18 @@ export default defineUserConfig({
   locales: {
     "/en/": {
       lang: "en-US",
-      title: "Docs Demo",
-      description: "A docs demo for vuepress-theme-hope",
+      title: "Korepi",
+      description: "Help on Korepi",
     },
     "/zh/": {
       lang: "zh-CN",
       title: "Korepi",
       description: "Korepi 中文文档介绍",
+    },
+    "/ru/": {
+      lang: "ru-RU",
+      title: "Korepi",
+      description: "Помощь по Korepi",
     },
   },
   plugins: [
@@ -68,10 +73,84 @@ export default defineUserConfig({
           },
         },
         "/en/": {
-          placeholder: "Search documents",
+          placeholder: "Search",
           translations: {
             button: {
-              buttonText: "Search documents",
+              buttonText: "Search",
+              buttonAriaLabel: "Search",
+            },
+            modal: {
+              searchBox: {
+                resetButtonTitle: "Clear Search Criteria",
+                resetButtonAriaLabel: "Clear Search Criteria",
+                cancelButtonText: "Back",
+                cancelButtonAriaLabel: "Back",
+              },
+              startScreen: {
+                recentSearchesTitle: "Search History",
+                noRecentSearchesText: "No search history",
+                saveRecentSearchButtonTitle: "Save to Search History",
+                removeRecentSearchButtonTitle: "Remove from Search History",
+                favoriteSearchesTitle: "Favorites",
+                removeFavoriteSearchButtonTitle: "Remove from Favorites",
+              },
+              errorScreen: {
+                titleText: "Failed to Retrieve Results",
+                helpText: "Check your internet connection and the requested resource.",
+              },
+              footer: {
+                selectText: "Select",
+                navigateText: "Toggle",
+                closeText: "Close",
+                searchByText: "We use search",
+              },
+              noResultsScreen: {
+                noResultsText: "Couldn't find anything for your query:",
+                suggestedQueryText: "You can try a different query",
+                reportMissingResultsText: "Do you think this query should yield some results :> ?",
+                reportMissingResultsLinkText: "Contact us",
+              },
+            },
+          },
+        },
+        "/ru/": {
+          placeholder: "Поиск",
+          translations: {
+            button: {
+              buttonText: "Поиск",
+              buttonAriaLabel: "Поиск",
+            },
+            modal: {
+              searchBox: {
+                resetButtonTitle: "Четкие критерии запроса",
+                resetButtonAriaLabel: "Четкие критерии запроса",
+                cancelButtonText: "Назад",
+                cancelButtonAriaLabel: "Назад",
+              },
+              startScreen: {
+                recentSearchesTitle: "История поиска",
+                noRecentSearchesText: "Нету истории поиска",
+                saveRecentSearchButtonTitle: "Сохранить в историю поиска",
+                removeRecentSearchButtonTitle: "Удалить из истории поиска",
+                favoriteSearchesTitle: "Закладки",
+                removeFavoriteSearchButtonTitle: "Удалить из закладок",
+              },
+              errorScreen: {
+                titleText: "Не удалось получить результат",
+                helpText: "Проверте свое подключение к Интернету, а так-же запрашиваемый ресурс",
+              },
+              footer: {
+                selectText: "Выбрать",
+                navigateText: "Переключить",
+                closeText: "Закрыть",
+                searchByText: "Мы используем поиск",
+              },
+              noResultsScreen: {
+                noResultsText: "Не удалось ничего найти по вашему запросу :",
+                suggestedQueryText: "Вы можете попробовать запрос",
+                reportMissingResultsText: "Как вы думаете, должен ли этот запрос давать какой-то результат :> ?",
+                reportMissingResultsLinkText: "Связаться с нами",
+              },
             },
           },
         },
@@ -84,12 +163,13 @@ export default defineUserConfig({
       localeConfig: {
         "/en/": ["en-US", "en-UK", "en"],
         "/zh/": ["zh-CN", "zh-TW", "zh"],
+        "/ru/": ["ru-RU", "ru-KZ", "ru-BY", "ru-UA", "ru-MD", "ru-LV", "tt-RU", "ru"],
       },
     }),
     googleAnalyticsPlugin({
       id: 'G-D5RM42XS38',
     }),
-    ]  ,
+  ],
   theme,
 
   // Enable it with pwa
