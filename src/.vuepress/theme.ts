@@ -34,7 +34,7 @@ export default hopeTheme({
         editLink: "Edit this page on GitHub",
       },
     },
-  
+
     "/ru/": {
       // navbar
       navbar: ruNavbar,
@@ -79,6 +79,11 @@ export default hopeTheme({
   // },
 
   plugins: {
+    feed:{
+      rss:true,
+      json:true,
+      atom:true
+    },
     // You should generate and use your own comment service
     comment: {
       provider: "Giscus",

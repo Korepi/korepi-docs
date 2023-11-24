@@ -6,13 +6,6 @@ import {docsearchPlugin} from "@vuepress/plugin-docsearch";
 // @ts-ignore
 import {googleAnalyticsPlugin} from '@vuepress/plugin-google-analytics'
 
-const autometa_options = {
-    site: {
-        name: 'korepi micah',
-        twitter: 'micah',
-    },
-    canonical_base: 'https://korepi.com',
-};
 export default defineUserConfig({
     base: "/",
 
@@ -34,16 +27,6 @@ export default defineUserConfig({
         },
     },
     plugins: [
-        ['sitemap', {
-            hostname: "https://korepi.com",
-            // 排除无实际内容的页面
-            exclude: ["/404.html"]
-        }
-        ],
-        ['autometa', autometa_options],
-        [
-            'vuepress-plugin-baidu-autopush'
-        ],
         docsearchPlugin({
             appId: "NU9DPY3560",
             apiKey: "7c97cf95706fe492fad67390ad3c401b",
