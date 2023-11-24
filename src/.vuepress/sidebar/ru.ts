@@ -1,16 +1,16 @@
 import { sidebar } from "vuepress-theme-hope";
 
-export const enSidebar = sidebar({
-  "/en/": [
+export const ruSidebar = sidebar({
+  "/ru/": [
     "",
     {
-      text: "Start",
+      text: "Начало",
       icon: "info-circle",
       prefix: "start/",
       children: "structure",
     },
     {
-      text: "Guides",
+      text: "Гайды",
       icon: "book",
       prefix: "guide/",
       children: "structure",

@@ -1,22 +1,22 @@
 import { navbar } from "vuepress-theme-hope";
 
-export const zhNavbar = navbar([
-  "/zh/",
-  "/zh/guide/",
-  "/zh/start/",
+export const ruNavbar = navbar([
+  "/ru/",
+  "/ru/guide/",
+  "/ru/start/",
   {
-    text: "指南",
+    text: "Гайды",
     icon: "lightbulb",
-    prefix: "/zh/",
+    prefix: "/ru/",
     children: [
       {
-        text: "开始",
+        text: "Начало",
         icon: "lightbulb",
         prefix: "start/",
         children: ["join", { text: "...", icon: "ellipsis", link: "#" }],
       },
       {
-        text: "指南",
+        text: "Гайды",
         icon: "lightbulb",
         prefix: "guide/",
         children: ["page", { text: "...", icon: "ellipsis", link: "#" }],

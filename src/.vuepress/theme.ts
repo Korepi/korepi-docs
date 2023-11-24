@@ -1,6 +1,6 @@
 import { hopeTheme } from "vuepress-theme-hope";
-import { enNavbar, zhNavbar } from "./navbar/index.js";
-import { enSidebar, zhSidebar } from "./sidebar/index.js";
+import { enNavbar, zhNavbar, ruNavbar } from "./navbar/index.js";
+import { enSidebar, zhSidebar, ruSidebar } from "./sidebar/index.js";
 
 export default hopeTheme({
   hostname: "https://korepi.com/",
@@ -26,7 +26,7 @@ export default hopeTheme({
       // sidebar
       sidebar: enSidebar,
 
-      footer: "Default footer",
+      footer: "Provides the best gaming experience for PC players in Genshin Impact.",
 
       displayFooter: true,
 
@@ -34,7 +34,22 @@ export default hopeTheme({
         editLink: "Edit this page on GitHub",
       },
     },
+  
+    "/ru/": {
+      // navbar
+      navbar: ruNavbar,
 
+      // sidebar
+      sidebar: ruSidebar,
+
+      footer: "Обеспечивает лучший игровой опыт для игроков на ПК в Genshin Impact",
+
+      displayFooter: true,
+
+      metaLocales: {
+        editLink: "Изменить эту страницу на GitHub",
+      },
+    },
     /**
      * Chinese locale config
      */
@@ -56,12 +71,12 @@ export default hopeTheme({
     },
   },
 
-  encrypt: {
-    config: {
-      "/en/demo/encrypt.html": ["1234"],
-      "/zh/demo/encrypt.html": ["1234"],
-    },
-  },
+  // encrypt: {
+  //   config: {
+  //     "/en/demo/encrypt.html": ["1234"],
+  //     "/zh/demo/encrypt.html": ["1234"],
+  //   },
+  // },
 
   plugins: {
     // You should generate and use your own comment service
