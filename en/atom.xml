@@ -1,0 +1,486 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="https://korepi.com/en/atom.xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US">
+  <id>https://korepi.com/en/</id>
+  <title>Korepi</title>
+  <subtitle>Help on Korepi</subtitle>
+  <updated>2023-11-24T18:09:26.098Z</updated>
+  <generator>vuepress-plugin-feed2</generator>
+  <link rel="self" href="https://korepi.com/en/atom.xml"/>
+  <link rel="alternate" href="https://korepi.com/en/"/>
+  <category term="Guide"/>
+  <contributor>
+    <name>QweRez</name>
+  </contributor>
+  <entry>
+    <title type="text">None</title>
+    <id>https://korepi.com/en/guide/page.html</id>
+    <link href="https://korepi.com/en/guide/page.html"/>
+    <updated>2023-11-24T14:31:46.000Z</updated>
+    <summary type="html"><![CDATA[<h2> Introduction</h2>
+<p>This section is empty.</p>
+]]></summary>
+    <content type="html"><![CDATA[<h2> Introduction</h2>
+<p>This section is empty.</p>
+]]></content>
+    <author>
+      <name>QweRez</name>
+    </author>
+    <category term="Guide"/>
+    <contributor>
+      <name>QweRez</name>
+    </contributor>
+    <published>2023-11-24T14:31:46.000Z</published>
+    <rights>Copyright by QweRez</rights>
+  </entry>
+  <entry>
+    <title type="text">Start</title>
+    <id>https://korepi.com/en/start/</id>
+    <link href="https://korepi.com/en/start/"/>
+    <updated>2023-11-24T14:31:46.000Z</updated>
+    <summary type="html"><![CDATA[<h2> Catalog</h2>
+<ul>
+<li>
+<p><a href="/en/start/join.html" target="blank">Joining the Server</a></p>
+</li>
+<li>
+<p><a href="/en/start/verify.html" target="blank">Verification</a></p>
+</li>
+<li>
+<p><a href="/en/start/sign-in.html" target="blank">Obtaining the Fans Role</a></p>
+</li>
+</ul>
+]]></summary>
+    <content type="html"><![CDATA[<h2> Catalog</h2>
+<ul>
+<li>
+<p><a href="/en/start/join.html" target="blank">Joining the Server</a></p>
+</li>
+<li>
+<p><a href="/en/start/verify.html" target="blank">Verification</a></p>
+</li>
+<li>
+<p><a href="/en/start/sign-in.html" target="blank">Obtaining the Fans Role</a></p>
+</li>
+</ul>
+]]></content>
+    <author>
+      <name>QweRez</name>
+    </author>
+    <category term="Guide"/>
+    <contributor>
+      <name>QweRez</name>
+    </contributor>
+    <published>2023-11-24T14:31:46.000Z</published>
+    <rights>Copyright by QweRez</rights>
+  </entry>
+  <entry>
+    <title type="text">Joining the Server</title>
+    <id>https://korepi.com/en/start/join.html</id>
+    <link href="https://korepi.com/en/start/join.html"/>
+    <updated>2023-11-24T14:31:46.000Z</updated>
+    <summary type="html"><![CDATA[<h2> Introduction</h2>
+<p>Welcome to our community! To join the Discord server and start using Korepi, follow these steps.</p>
+<h2> Step 1: Create a Discord Account</h2>
+<p>If you don't have a Discord account yet, start by creating a new one. Visit the <a href="https://discord.com/" target="_blank" rel="noopener noreferrer">official Discord website</a> and follow the registration instructions.</p>]]></summary>
+    <content type="html"><![CDATA[<h2> Introduction</h2>
+<p>Welcome to our community! To join the Discord server and start using Korepi, follow these steps.</p>
+<h2> Step 1: Create a Discord Account</h2>
+<p>If you don't have a Discord account yet, start by creating a new one. Visit the <a href="https://discord.com/" target="_blank" rel="noopener noreferrer">official Discord website</a> and follow the registration instructions.</p>
+<h2> Step 2: Download and Install Discord</h2>
+<p>After creating an account, download the <a href="https://discord.com/download" target="_blank" rel="noopener noreferrer">Discord client</a> for your operating system. Install the client following the on-screen instructions.</p>
+<h2> Step 3: Joining the Server</h2>
+<ol>
+<li>Copy the <a href="https://discord.gg/cottonbuds" target="_blank" rel="noopener noreferrer">invitation link</a> for the Discord server provided by the administrator.</li>
+<li>In the Discord client, click the "+" button in the bottom left corner.</li>
+<li>Select "Join a Server."</li>
+<li>Paste the invitation link and click "Join."</li>
+</ol>
+<p>If the invitation link is invalid, the server may be temporarily closed. Please wait for it to reopen. Now you can proceed to the next step.</p>
+]]></content>
+    <author>
+      <name>QweRez</name>
+    </author>
+    <category term="Guide"/>
+    <contributor>
+      <name>QweRez</name>
+    </contributor>
+    <published>2023-11-24T14:31:46.000Z</published>
+    <rights>Copyright by QweRez</rights>
+  </entry>
+  <entry>
+    <title type="text">Registration</title>
+    <id>https://korepi.com/en/start/sign-in.html</id>
+    <link href="https://korepi.com/en/start/sign-in.html"/>
+    <updated>2023-11-24T16:00:45.000Z</updated>
+    <summary type="html"><![CDATA[<h2> Introduction</h2>
+<p>Welcome to our community! To register and obtain the "Fans" role, follow these steps.</p>
+<h2> Step 1: Join our server and get the "Newcomer" role if you haven't already</h2>
+<p>If you are not on the server yet, please read the previous post, where it is described how to join the server and get the "Newcomer" role.</p>]]></summary>
+    <content type="html"><![CDATA[<h2> Introduction</h2>
+<p>Welcome to our community! To register and obtain the "Fans" role, follow these steps.</p>
+<h2> Step 1: Join our server and get the "Newcomer" role if you haven't already</h2>
+<p>If you are not on the server yet, please read the previous post, where it is described how to join the server and get the "Newcomer" role.</p>
+<h2> Step 2: Find the bot</h2>
+<p>Now you need to find the bot with the image of a goose and write to him in direct messages (micah-sign-bot#0245).</p>
+<h2> Step 3: Getting started</h2>
+<p>Write him the command <code>/sign-in</code>, solve the captcha. Note: if the bot does not respond to your captcha request, you probably entered it incorrectly. Try writing the captcha again (without the command). After successful input, the bot will send you the message "Consecutive &lt; days &gt; days".</p>
+<h2> Step 4: After receiving the "Newcomer" role</h2>
+<p>So now you need to enter this command every day for 7 days (every 24 hours). Note that if you make a mistake by a couple of hours, the bot will consider that you did not mark and reset your days. On the 7th day of check-ins, you will be given the "Fans" role, and you can stop checking in.</p>
+]]></content>
+    <author>
+      <name>QweRez</name>
+    </author>
+    <category term="Guide"/>
+    <contributor>
+      <name>QweRez</name>
+    </contributor>
+    <published>2023-11-24T14:31:46.000Z</published>
+    <rights>Copyright by QweRez</rights>
+  </entry>
+  <entry>
+    <title type="text">Verification</title>
+    <id>https://korepi.com/en/start/verify.html</id>
+    <link href="https://korepi.com/en/start/verify.html"/>
+    <updated>2023-11-24T14:31:46.000Z</updated>
+    <summary type="html"><![CDATA[<h2> Introduction</h2>
+<p>Welcome to our community! To pass the bot verification and obtain the "Newcomer" role, follow these steps.</p>
+<h2> Step 1: Join our server if you haven't already</h2>
+<p>If you are not on the server yet, please read the previous post, where it is described how to join the server.</p>]]></summary>
+    <content type="html"><![CDATA[<h2> Introduction</h2>
+<p>Welcome to our community! To pass the bot verification and obtain the "Newcomer" role, follow these steps.</p>
+<h2> Step 1: Join our server if you haven't already</h2>
+<p>If you are not on the server yet, please read the previous post, where it is described how to join the server.</p>
+<h2> Step 2: So, you are on the server</h2>
+<p>Now that you are on the server, choose the necessary channels and roles from the list, then go to the ★⋅rules⋅★ channel.</p>
+<h2> Step 3: ★⋅rules⋅★ channel</h2>
+<p>In the rules channel, familiarize yourself with the rules and undergo verification to confirm that you are not a bot. Find the "Verify" button, click on it, and the bot will send you a link that you need to follow and confirm that you are not a bot.</p>
+<h2> Step 4: After receiving the "Newcomer" role</h2>
+<p>After successful verification, the bot will assign you the "Newcomer" role. With this role, you will not be kicked by the bot without valid reasons. Now proceed to the next step.</p>
+]]></content>
+    <author>
+      <name>QweRez</name>
+    </author>
+    <category term="Guide"/>
+    <contributor>
+      <name>QweRez</name>
+    </contributor>
+    <published>2023-11-24T14:31:46.000Z</published>
+    <rights>Copyright by QweRez</rights>
+  </entry>
+  <entry>
+    <title type="text">Slide page</title>
+    <id>https://korepi.com/en/slides.html</id>
+    <link href="https://korepi.com/en/slides.html"/>
+    <updated>2023-11-24T11:45:01.000Z</updated>
+    <summary type="html"><![CDATA[<!-- markdownlint-disable MD024 MD051 -->
+<p>@slidestart</p>
+<!-- .slide: data-transition="slide" -->
+<h2> Slide Demo</h2>
+<!-- .element: class="r-fit-text" -->
+<p>A simple slide demo and useful hints.</p>
+<!-- .element: class="r-fit-text" -->
+<blockquote>
+<p>By Mr.Hope. Please scroll mouse wheel down to the next slide</p>
+</blockquote>]]></summary>
+    <content type="html"><![CDATA[<!-- markdownlint-disable MD024 MD051 -->
+<p>@slidestart</p>
+<!-- .slide: data-transition="slide" -->
+<h2> Slide Demo</h2>
+<!-- .element: class="r-fit-text" -->
+<p>A simple slide demo and useful hints.</p>
+<!-- .element: class="r-fit-text" -->
+<blockquote>
+<p>By Mr.Hope. Please scroll mouse wheel down to the next slide</p>
+</blockquote>
+<hr>
+<!-- .slide: data-transition="slide" data-auto-animate -->
+<h2> Marking Slides</h2>
+<!-- .element: class="r-fit-text" -->
+<p><a href="#/1/1">👇</a></p>
+<p>--</p>
+<!-- .slide: data-transition="slide" data-auto-animate -->
+<h2> Marking Slides</h2>
+<!-- .element: class="r-fit-text" -->
+<p>Use <code>---</code> to mark horizontal slides</p>
+<!-- .element: class="fragment fade-in" -->
+<p>Use <code>--</code> to separate vertical slides in a horizontal slide.</p>
+<!-- .element: class="fragment fade-in" -->
+<p>Use <code>&lt;!-- .slide: ... --&gt;</code> to add attributes to slide</p>
+<!-- .element: class="fragment fade-in" -->
+<p>Use <code>&lt;!-- .element: ... --&gt;</code> to add attributes to the previous html element</p>
+<!-- .element: class="fragment fade-in" -->
+<hr>
+<!-- .slide: data-transition="slide" data-auto-animate -->
+<h2> Markdown</h2>
+<!-- .element: class="r-fit-text" -->
+<p>You can use all kinds of markup in slides.</p>
+<!-- .element: class="r-fit-text" -->
+<p>--</p>
+<!-- .slide: data-auto-animate -->
+<h2> Markdown</h2>
+<p>You can use all kinds of markup in slides.</p>
+<h3> This is a H3</h3>
+<p>Headings will transform to UPPERCASE by default.</p>
+<p>Here is paragraph with some <strong>bold</strong>, <em>italic</em>, <s>strike-through</s> text and a <a href="https://mister-hope.com" target="_blank" rel="noopener noreferrer">link</a>, and it can auto break itself so you don't need to worry the length.</p>
+<p>--</p>
+<!-- .slide: data-auto-animate -->
+<h2> Markdown</h2>
+<p>You can use all kinds of markup in slides.</p>
+<p>List is <code>inline-block</code> by default.</p>
+<ul>
+<li>Item</li>
+<li>Item</li>
+<li>Item</li>
+</ul>
+<ol>
+<li>Item 1</li>
+<li>Item 2</li>
+<li>Item 3</li>
+</ol>
+<p>--</p>
+<!-- .slide: data-auto-animate -->
+<h2> Markdown</h2>
+<p>You can use all kinds of markup in slides.</p>
+<p>Code block will get auto highlight if you enable <code>highlight</code> plugin.</p>
+<div class="language-javascript line-numbers-mode" data-ext="js"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><p>--</p>
+<!-- .slide: data-auto-animate -->
+<h2> Markdown</h2>
+<p>You can use all kinds of markup in slides.</p>
+<p>You can also write math equation using tex syntax if you enable <code>math</code> plugin.</p>
+<p>$$
+J(\theta_0,\theta_1) = \sum_{i=0}
+$$</p>
+<p>--</p>
+<!-- .slide: data-auto-animate -->
+<h2> Markdown</h2>
+<p>You can use all kinds of markup in slides.</p>
+<p>⚠<strong>Note</strong>: Table, hr and other nonstandard Markdown syntax is not supported.</p>
+<hr>
+<!-- .slide: data-transition="slide" data-auto-animate -->
+<h2> Layout</h2>
+<!-- .element: class="r-fit-text" -->
+<p>--</p>
+<!-- .slide: data-auto-animate  -->
+<h2> Layout</h2>
+<!-- .element: class="r-fit-text" -->
+<p>👆 The <code>r-fit-text</code> class makes text as large as possible without overflowing the slide.</p>
+<p>--</p>
+<!-- .slide: data-auto-animate  -->
+<h2> Layout</h2>
+<figure><img src="/logo.svg" alt="Logo" tabindex="0" loading="lazy"><figcaption>Logo</figcaption></figure>
+<!-- .element: class="r-stretch" -->
+<p>👆 The <code>r-stretch</code> class helper lets you resize an element, like an image or video, to cover the remaining vertical space in a slide.</p>
+<p>--</p>
+<!-- .slide: data-auto-animate data-background-color="rgb(70, 70, 255)" -->
+<h2> Layout</h2>
+<h3> Background</h3>
+<p>Custom background by adding <code>data-background</code> attribute to slide.</p>
+<hr>
+<!-- .slide: data-auto-animate -->
+<h2> Fragment</h2>
+<!-- .element: class="r-fit-text" -->
+<p>--</p>
+<!-- .slide: data-auto-animate -->
+<h2> Fragment</h2>
+<!-- .element: class="r-fit-text" -->
+<p>Fragments are used to highlight or incrementally reveal individual elements on a slide.</p>
+<p>Add <code>fragment</code> and animation class to element.</p>
+<p>--</p>
+<!-- .slide: data-auto-animate -->
+<h2> Fragment</h2>
+<h3> Animation class</h3>
+<ul>
+<li><code>fade-in</code></li>
+</ul>
+<!-- .element: class="fragment fade-in" -->
+<ul>
+<li><code>fade-out</code></li>
+</ul>
+<!-- .element: class="fragment fade-out" -->
+<ul>
+<li><code>fade-up</code></li>
+</ul>
+<!-- .element: class="fragment fade-up" -->
+<!-- list break -->
+<ul>
+<li><code>fade-down</code></li>
+</ul>
+<!-- .element: class="fragment fade-down" -->
+<ul>
+<li><code>fade-left</code></li>
+</ul>
+<!-- .element: class="fragment fade-left" -->
+<ul>
+<li><code>fade-right</code></li>
+</ul>
+<!-- .element: class="fragment fade-right" -->
+<!-- list break -->
+<ul>
+<li><code>fade-in-then-out</code></li>
+</ul>
+<!-- .element: class="fragment fade-in-then-out" -->
+<ul>
+<li><code>fade-in-then-semi-out</code></li>
+</ul>
+<!-- .element: class="fragment fade-in-then-semi-out" -->
+<p>--</p>
+<!-- .slide: data-auto-animate -->
+<h2> Fragment</h2>
+<h3> Animation class</h3>
+<ul>
+<li><code>grow</code></li>
+</ul>
+<!-- .element: class="fragment grow" -->
+<ul>
+<li><code>shrink</code></li>
+</ul>
+<!-- .element: class="fragment shrink" -->
+<ul>
+<li><code>strike</code></li>
+</ul>
+<!-- .element: class="fragment strike" -->
+<!-- list break -->
+<ul>
+<li><code>highlight-red</code></li>
+</ul>
+<!-- .element: class="fragment highlight-red" -->
+<ul>
+<li><code>highlight-green</code></li>
+</ul>
+<!-- .element: class="fragment highlight-green" -->
+<ul>
+<li><code>highlight-blue</code></li>
+</ul>
+<!-- .element: class="fragment highlight-blue" -->
+<!-- list break -->
+<ul>
+<li><code>highlight-current-red</code></li>
+</ul>
+<!-- .element: class="fragment highlight-current-red" -->
+<ul>
+<li><code>highlight-current-green</code></li>
+</ul>
+<!-- .element: class="fragment highlight-current-green" -->
+<ul>
+<li><code>highlight-current-blue</code></li>
+</ul>
+<!-- .element: class="fragment highlight-current-blue" -->
+<p>--</p>
+<!-- .slide: data-auto-animate -->
+<h2> Fragment</h2>
+<h3> Multiple fragments</h3>
+<p>Multiple fragments can be applied to the same element sequentially by wrapping it</p>
+<span class="fragment fade-in">
+  <span class="fragment highlight-red">
+    <span class="fragment fade-out">
+      Fade in &gt; Turn red &gt; Fade out
+    </span>
+  </span>
+</span>
+<p>--</p>
+<!-- .slide: data-auto-animate -->
+<h2> Fragment</h2>
+<h3> Order</h3>
+<p>Order can be changed using the <code>data-fragment-index</code> attribute.</p>
+<p>Multiple elements can appear at the same index.</p>
+<ul>
+<li>Appears last</li>
+</ul>
+<!-- .element: class="fragment" data-fragment-index="3"-->
+<ul>
+<li>Appears second</li>
+</ul>
+<!-- .element: class="fragment" data-fragment-index="2"-->
+<!-- list break -->
+<ul>
+<li>Appears first</li>
+</ul>
+<!-- .element: class="fragment" data-fragment-index="1"-->
+<ul>
+<li>Appears second</li>
+</ul>
+<!-- .element: class="fragment" data-fragment-index="2"-->
+<hr>
+<!-- .slide: data-transition="slide" data-auto-animate -->
+<h2> Transition</h2>
+<!-- .element: class="r-fit-text" -->
+<p>--</p>
+<!-- .slide: data-transition="slide" data-auto-animate -->
+<h2> Transition</h2>
+<!-- .element: class="r-fit-text" -->
+<p>Transition can be changed by setting the <code>transition</code> config option globally or <code>data-transition</code> attribute on slide.</p>
+<p>Possible values:</p>
+<ul>
+<li>none</li>
+<li>fade</li>
+<li>slide</li>
+</ul>
+<!-- list break -->
+<ul>
+<li>convex</li>
+<li>concave</li>
+<li>zoom</li>
+</ul>
+<p>--</p>
+<!-- .slide: data-auto-animate -->
+<h2> Transition</h2>
+<!-- .element: class="r-fit-text" -->
+<h3> Auto animate</h3>
+<p><code>data-auto-animate</code> can be added on nearby slides to make an animation on unchanged elements.</p>
+<hr>
+<!-- .slide: data-transition="slide" data-auto-animate -->
+<h2> Functions</h2>
+<!-- .element: class="r-fit-text" -->
+<p>--</p>
+<!-- .slide: data-transition="slide" data-auto-animate -->
+<h2> Functions</h2>
+<!-- .element: class="r-fit-text" -->
+<h3> Code</h3>
+<p>By enabling <code>highlight</code> plugin, you can highlight code blocks.</p>
+<p>You can use <code>[a-b|c-d]</code> syntax to highlight lines by steps.</p>
+<div class="language-javascript line-numbers-mode" data-ext="js"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><p>--</p>
+<!-- .slide: data-transition="slide" data-auto-animate -->
+<h2> Functions</h2>
+<!-- .element: class="r-fit-text" -->
+<h3> Overview</h3>
+<p>Press <code>Esc</code> or <code>O</code> to enter overview mode when the presentation is active</p>
+<p>--</p>
+<!-- .slide: data-transition="slide" data-auto-animate -->
+<h2> Functions</h2>
+<!-- .element: class="r-fit-text" -->
+<h3> Full Screen</h3>
+<p>Press <code>F</code> or <code>F11</code> to enter fullscreen when the presentation is active</p>
+<p>--</p>
+<!-- .slide: data-transition="slide" data-auto-animate -->
+<h2> Functions</h2>
+<!-- .element: class="r-fit-text" -->
+<h3> Zoom</h3>
+<p>Hold down the <code>alt</code> key (<code>ctrl</code> in Linux) and click on any element to zoom towards it.</p>
+<p>Click again to zoom back out.</p>
+<hr>
+<!-- .element: class="r-fit-text" -->
+<h2> The End</h2>
+<p>@slideend</p>
+]]></content>
+    <published>2023-11-20T12:30:39.000Z</published>
+  </entry>
+  <entry>
+    <title type="text">Guides</title>
+    <id>https://korepi.com/en/guide/</id>
+    <link href="https://korepi.com/en/guide/"/>
+    <updated>2023-11-24T14:31:46.000Z</updated>
+    <summary type="html"><![CDATA[<p>This page is still under construction. Check back later, or contribute to filling in the content.</p>
+]]></summary>
+    <content type="html"><![CDATA[<p>This page is still under construction. Check back later, or contribute to filling in the content.</p>
+]]></content>
+    <author>
+      <name>QweRez</name>
+    </author>
+    <category term="Guide"/>
+    <contributor>
+      <name>QweRez</name>
+    </contributor>
+    <published>2023-11-20T12:30:39.000Z</published>
+    <rights>Copyright by QweRez</rights>
+  </entry>
+</feed>

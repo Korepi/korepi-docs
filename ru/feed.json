@@ -1,0 +1,157 @@
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": "Korepi",
+  "home_page_url": "https://korepi.com/ru/",
+  "feed_url": "https://korepi.com/ru/feed.json",
+  "description": "Помощь по Korepi",
+  "items": [
+    {
+      "title": "Гайды",
+      "url": "https://korepi.com/ru/guide/info/",
+      "id": "https://korepi.com/ru/guide/info/",
+      "summary": "Страница все еще создается.. загляните позже, или примите участие в заполнение страниц",
+      "content_html": "<p>Страница все еще создается.. загляните позже, или примите участие в заполнение страниц</p>\n",
+      "date_published": "2023-11-24T15:37:14.000Z",
+      "date_modified": "2023-11-24T15:37:14.000Z",
+      "authors": [
+        {
+          "name": "QweRez"
+        }
+      ],
+      "tags": [
+        "Гайд"
+      ]
+    },
+    {
+      "title": "Привет?",
+      "url": "https://korepi.com/ru/guide/info/page.html",
+      "id": "https://korepi.com/ru/guide/info/page.html",
+      "summary": "Введение Тут пусто",
+      "content_html": "<h2> Введение</h2>\n<p>Тут пусто</p>\n",
+      "date_published": "2023-11-24T15:37:14.000Z",
+      "date_modified": "2023-11-24T15:37:14.000Z",
+      "authors": [
+        {
+          "name": "QweRez"
+        }
+      ],
+      "tags": [
+        "Гайд"
+      ]
+    },
+    {
+      "title": "Привет?",
+      "url": "https://korepi.com/ru/guide/page.html",
+      "id": "https://korepi.com/ru/guide/page.html",
+      "summary": "Введение Тут пусто",
+      "content_html": "<h2> Введение</h2>\n<p>Тут пусто</p>\n",
+      "date_published": "2023-11-24T14:31:46.000Z",
+      "date_modified": "2023-11-24T15:37:14.000Z",
+      "authors": [
+        {
+          "name": "QweRez"
+        }
+      ],
+      "tags": [
+        "Гайд"
+      ]
+    },
+    {
+      "title": "Начало",
+      "url": "https://korepi.com/ru/start/",
+      "id": "https://korepi.com/ru/start/",
+      "summary": "Catalog\rПрисоединение к серверу (join.md); \rВерефикация (verify.md); \rПолучения роли Fans (sign-in.md);",
+      "content_html": "<h2> Catalog</h2>\n<ul>\n<li>\n<p><a href=\"/ru/start/join.html\" target=\"blank\">Присоединение к серверу</a></p>\n</li>\n<li>\n<p><a href=\"/ru/start/verify.html\" target=\"blank\">Верефикация</a></p>\n</li>\n<li>\n<p><a href=\"/ru/start/sign-in.html\" target=\"blank\">Получения роли Fans</a></p>\n</li>\n</ul>\n",
+      "date_published": "2023-11-24T14:31:46.000Z",
+      "date_modified": "2023-11-24T14:31:46.000Z",
+      "authors": [
+        {
+          "name": "QweRez"
+        }
+      ],
+      "tags": [
+        "Гайд"
+      ]
+    },
+    {
+      "title": "Присоединение к серверу",
+      "url": "https://korepi.com/ru/start/join.html",
+      "id": "https://korepi.com/ru/start/join.html",
+      "summary": "Введение Добро пожаловать в наше сообщество! Чтобы присоединиться к серверу Discord и начать пользоваться Korepi, выполните следующие шаги. Шаг 1: Создание аккаунта Discord Если...",
+      "content_html": "<h2> Введение</h2>\n<p>Добро пожаловать в наше сообщество! Чтобы присоединиться к серверу Discord и начать пользоваться Korepi, выполните следующие шаги.</p>\n<h2> Шаг 1: Создание аккаунта Discord</h2>\n<p>Если у вас еще нет аккаунта Discord, начните с создания нового аккаунта. Посетите <a href=\"https://discord.com/\" target=\"_blank\" rel=\"noopener noreferrer\">официальный сайт Discord</a> и следуйте инструкциям по регистрации.</p>\n<h2> Шаг 2: Загрузка и установка Discord</h2>\n<p>После создания аккаунта загрузите <a href=\"https://discord.com/download\" target=\"_blank\" rel=\"noopener noreferrer\">клиент Discord</a> для вашей операционной системы. Установите клиент, следуя инструкциям на экране.</p>\n<h2> Шаг 3: Присоединение к серверу</h2>\n<ol>\n<li>Скопируйте <a href=\"https://discord.gg/cottonbuds\" target=\"_blank\" rel=\"noopener noreferrer\">пригласительную ссылку</a> для сервера Discord, предоставленную администратором.</li>\n<li>В клиенте Discord нажмите кнопку \"+\" в левом нижнем углу.</li>\n<li>Выберите \"Присоединиться к серверу\".</li>\n<li>Вставьте пригласительную ссылку и нажмите \"Присоединиться\".</li>\n</ol>\n<p>Если пригласительная ссылка недействительна, возможно, сервер временно закрыт. Ожидайте его открытия.\nТеперь вы можете перейти к следующему пункту.</p>\n",
+      "date_published": "2023-11-24T14:31:46.000Z",
+      "date_modified": "2023-11-24T14:31:46.000Z",
+      "authors": [
+        {
+          "name": "QweRez"
+        }
+      ],
+      "tags": [
+        "Гайд"
+      ]
+    },
+    {
+      "title": "Регистрация",
+      "url": "https://korepi.com/ru/start/sign-in.html",
+      "id": "https://korepi.com/ru/start/sign-in.html",
+      "summary": "Введение Добро пожаловать в наше сообщество! Чтобы зарегистрироваться и получить роль \"Fans\", выполните следующие шаги. Шаг 1: Присоединение к нашему серверу и получение роли \"N...",
+      "content_html": "<h2> Введение</h2>\n<p>Добро пожаловать в наше сообщество! Чтобы зарегистрироваться и получить роль \"Fans\", выполните следующие шаги.</p>\n<h2> Шаг 1: Присоединение к нашему серверу и получение роли \"Newcomer\", если еще этого не сделали</h2>\n<p>Если вы еще не на сервере, пожалуйста, прочитайте предыдущий пост, где описано, как присоединиться к серверу и получить роль \"Newcomer\".</p>\n<h2> Шаг 2: Нахождение бота</h2>\n<p>Теперь вам нужно найти бота с изображением гуся и написать ему в личные сообщения (micah-sign-bot#0245).</p>\n<h2> Шаг 3: Начало</h2>\n<p>Напишите ему команду <code>/sign-in</code>, решите капчу. Примечание: если бот не отвечает на ваш запрос с капчей, вы, вероятно, ввели ее неверно. Попробуйте написать капчу еще раз (без команды). После успешного ввода бот отправит вам сообщение \"Consecutive &lt;количество дней&gt; days\".</p>\n<h2> Шаг 4: После получения роли \"Newcomer\"</h2>\n<p>Итак, теперь вам нужно вводить эту команду каждый день в течение 7 дней (каждые 24 часа). Учтите, что если вы ошибетесь на пару часов, бот посчитает, что вы не отмечались и сбросит ваши дни. На 7-й день отметок вам будет выдана роль \"Fans\", и вы можете прекратить отмечаться.</p>\n",
+      "date_published": "2023-11-24T14:31:46.000Z",
+      "date_modified": "2023-11-24T14:31:46.000Z",
+      "authors": [
+        {
+          "name": "QweRez"
+        }
+      ],
+      "tags": [
+        "Гайд"
+      ]
+    },
+    {
+      "title": "Верификация",
+      "url": "https://korepi.com/ru/start/verify.html",
+      "id": "https://korepi.com/ru/start/verify.html",
+      "summary": "Введение Добро пожаловать в наше сообщество! Чтобы пройти проверку на бота и получить роль \"Newcomer\", выполните следующие шаги. Шаг 1: Присоединитесь к нашему серверу, если еще...",
+      "content_html": "<h2> Введение</h2>\n<p>Добро пожаловать в наше сообщество! Чтобы пройти проверку на бота и получить роль \"Newcomer\", выполните следующие шаги.</p>\n<h2> Шаг 1: Присоединитесь к нашему серверу, если еще этого не сделали</h2>\n<p>Если вы еще не на сервере, пожалуйста, ознакомьтесь с предыдущим постом, где описано, как присоединиться к серверу.</p>\n<h2> Шаг 2: И так, вы на сервере</h2>\n<p>Теперь, когда вы на сервере, выберите необходимые каналы и роли из списка, затем перейдите в канал ★⋅rules⋅★.</p>\n<h2> Шаг 3: Канал ★⋅rules⋅★</h2>\n<p>В канале правил ознакомьтесь с правилами и пройдите проверку, чтобы подтвердить, что вы не бот. Найдите кнопку \"Verify\", нажмите на нее, после чего бот отправит вам ссылку, по которой вам нужно перейти и подтвердить, что вы не бот.</p>\n<h2> Шаг 4: После получения роли \"Newcomer\"</h2>\n<p>После успешной верификации, бот выдаст вам роль \"Newcomer\". С этой ролью вы не будете исключены ботом без объективных причин. Теперь переходите к следующему шагу.</p>\n",
+      "date_published": "2023-11-24T14:31:46.000Z",
+      "date_modified": "2023-11-24T14:31:46.000Z",
+      "authors": [
+        {
+          "name": "QweRez"
+        }
+      ],
+      "tags": [
+        "Гайд"
+      ]
+    },
+    {
+      "title": "Slide page",
+      "url": "https://korepi.com/ru/slides.html",
+      "id": "https://korepi.com/ru/slides.html",
+      "summary": "slidestart Slide Demo A simple slide demo and useful hints.\rПожалуйста, прокрутите колесо мыши до следующего слайда Marking Slides 👇 (#/1/1) -- Marking Slides Use --- to mark h...",
+      "content_html": "<!-- markdownlint-disable MD024 MD051 -->\n<p>@slidestart</p>\n<!-- .slide: data-transition=\"slide\" -->\n<h2> Slide Demo</h2>\n<!-- .element: class=\"r-fit-text\" -->\n<p>A simple slide demo and useful hints.</p>\n<!-- .element: class=\"r-fit-text\" -->\n<blockquote>\n<p>Пожалуйста, прокрутите колесо мыши до следующего слайда</p>\n</blockquote>\n<hr>\n<!-- .slide: data-transition=\"slide\" data-auto-animate -->\n<h2> Marking Slides</h2>\n<!-- .element: class=\"r-fit-text\" -->\n<p><a href=\"#/1/1\">👇</a></p>\n<p>--</p>\n<!-- .slide: data-transition=\"slide\" data-auto-animate -->\n<h2> Marking Slides</h2>\n<!-- .element: class=\"r-fit-text\" -->\n<p>Use <code>---</code> to mark horizontal slides</p>\n<!-- .element: class=\"fragment fade-in\" -->\n<p>Use <code>--</code> to separate vertical slides in a horizontal slide.</p>\n<!-- .element: class=\"fragment fade-in\" -->\n<p>Use <code>&lt;!-- .slide: ... --&gt;</code> to add attributes to slide</p>\n<!-- .element: class=\"fragment fade-in\" -->\n<p>Use <code>&lt;!-- .element: ... --&gt;</code> to add attributes to the previous html element</p>\n<!-- .element: class=\"fragment fade-in\" -->\n<hr>\n<!-- .slide: data-transition=\"slide\" data-auto-animate -->\n<h2> Markdown</h2>\n<!-- .element: class=\"r-fit-text\" -->\n<p>You can use all kinds of markup in slides.</p>\n<!-- .element: class=\"r-fit-text\" -->\n<p>--</p>\n<!-- .slide: data-auto-animate -->\n<h2> Markdown</h2>\n<p>You can use all kinds of markup in slides.</p>\n<h3> This is a H3</h3>\n<p>Headings will transform to UPPERCASE by default.</p>\n<p>Here is paragraph with some <strong>bold</strong>, <em>italic</em>, <s>strike-through</s> text and a <a href=\"https://mister-hope.com\" target=\"_blank\" rel=\"noopener noreferrer\">link</a>, and it can auto break itself so you don't need to worry the length.</p>\n<p>--</p>\n<!-- .slide: data-auto-animate -->\n<h2> Markdown</h2>\n<p>You can use all kinds of markup in slides.</p>\n<p>List is <code>inline-block</code> by default.</p>\n<ul>\n<li>Item</li>\n<li>Item</li>\n<li>Item</li>\n</ul>\n<ol>\n<li>Item 1</li>\n<li>Item 2</li>\n<li>Item 3</li>\n</ol>\n<p>--</p>\n<!-- .slide: data-auto-animate -->\n<h2> Markdown</h2>\n<p>You can use all kinds of markup in slides.</p>\n<p>Code block will get auto highlight if you enable <code>highlight</code> plugin.</p>\n<div class=\"language-javascript line-numbers-mode\" data-ext=\"js\"><div class=\"line-numbers\" aria-hidden=\"true\"><div class=\"line-number\"></div></div></div><p>--</p>\n<!-- .slide: data-auto-animate -->\n<h2> Markdown</h2>\n<p>You can use all kinds of markup in slides.</p>\n<p>You can also write math equation using tex syntax if you enable <code>math</code> plugin.</p>\n<p>$$\nJ(\\theta_0,\\theta_1) = \\sum_{i=0}\n$$</p>\n<p>--</p>\n<!-- .slide: data-auto-animate -->\n<h2> Markdown</h2>\n<p>You can use all kinds of markup in slides.</p>\n<p>⚠<strong>Note</strong>: Table, hr and other nonstandard Markdown syntax is not supported.</p>\n<hr>\n<!-- .slide: data-transition=\"slide\" data-auto-animate -->\n<h2> Layout</h2>\n<!-- .element: class=\"r-fit-text\" -->\n<p>--</p>\n<!-- .slide: data-auto-animate  -->\n<h2> Layout</h2>\n<!-- .element: class=\"r-fit-text\" -->\n<p>👆 The <code>r-fit-text</code> class makes text as large as possible without overflowing the slide.</p>\n<p>--</p>\n<!-- .slide: data-auto-animate  -->\n<h2> Layout</h2>\n<figure><img src=\"/logo.svg\" alt=\"Logo\" tabindex=\"0\" loading=\"lazy\"><figcaption>Logo</figcaption></figure>\n<!-- .element: class=\"r-stretch\" -->\n<p>👆 The <code>r-stretch</code> class helper lets you resize an element, like an image or video, to cover the remaining vertical space in a slide.</p>\n<p>--</p>\n<!-- .slide: data-auto-animate data-background-color=\"rgb(70, 70, 255)\" -->\n<h2> Layout</h2>\n<h3> Background</h3>\n<p>Custom background by adding <code>data-background</code> attribute to slide.</p>\n<hr>\n<!-- .slide: data-auto-animate -->\n<h2> Fragment</h2>\n<!-- .element: class=\"r-fit-text\" -->\n<p>--</p>\n<!-- .slide: data-auto-animate -->\n<h2> Fragment</h2>\n<!-- .element: class=\"r-fit-text\" -->\n<p>Fragments are used to highlight or incrementally reveal individual elements on a slide.</p>\n<p>Add <code>fragment</code> and animation class to element.</p>\n<p>--</p>\n<!-- .slide: data-auto-animate -->\n<h2> Fragment</h2>\n<h3> Animation class</h3>\n<ul>\n<li><code>fade-in</code></li>\n</ul>\n<!-- .element: class=\"fragment fade-in\" -->\n<ul>\n<li><code>fade-out</code></li>\n</ul>\n<!-- .element: class=\"fragment fade-out\" -->\n<ul>\n<li><code>fade-up</code></li>\n</ul>\n<!-- .element: class=\"fragment fade-up\" -->\n<!-- list break -->\n<ul>\n<li><code>fade-down</code></li>\n</ul>\n<!-- .element: class=\"fragment fade-down\" -->\n<ul>\n<li><code>fade-left</code></li>\n</ul>\n<!-- .element: class=\"fragment fade-left\" -->\n<ul>\n<li><code>fade-right</code></li>\n</ul>\n<!-- .element: class=\"fragment fade-right\" -->\n<!-- list break -->\n<ul>\n<li><code>fade-in-then-out</code></li>\n</ul>\n<!-- .element: class=\"fragment fade-in-then-out\" -->\n<ul>\n<li><code>fade-in-then-semi-out</code></li>\n</ul>\n<!-- .element: class=\"fragment fade-in-then-semi-out\" -->\n<p>--</p>\n<!-- .slide: data-auto-animate -->\n<h2> Fragment</h2>\n<h3> Animation class</h3>\n<ul>\n<li><code>grow</code></li>\n</ul>\n<!-- .element: class=\"fragment grow\" -->\n<ul>\n<li><code>shrink</code></li>\n</ul>\n<!-- .element: class=\"fragment shrink\" -->\n<ul>\n<li><code>strike</code></li>\n</ul>\n<!-- .element: class=\"fragment strike\" -->\n<!-- list break -->\n<ul>\n<li><code>highlight-red</code></li>\n</ul>\n<!-- .element: class=\"fragment highlight-red\" -->\n<ul>\n<li><code>highlight-green</code></li>\n</ul>\n<!-- .element: class=\"fragment highlight-green\" -->\n<ul>\n<li><code>highlight-blue</code></li>\n</ul>\n<!-- .element: class=\"fragment highlight-blue\" -->\n<!-- list break -->\n<ul>\n<li><code>highlight-current-red</code></li>\n</ul>\n<!-- .element: class=\"fragment highlight-current-red\" -->\n<ul>\n<li><code>highlight-current-green</code></li>\n</ul>\n<!-- .element: class=\"fragment highlight-current-green\" -->\n<ul>\n<li><code>highlight-current-blue</code></li>\n</ul>\n<!-- .element: class=\"fragment highlight-current-blue\" -->\n<p>--</p>\n<!-- .slide: data-auto-animate -->\n<h2> Fragment</h2>\n<h3> Multiple fragments</h3>\n<p>Multiple fragments can be applied to the same element sequentially by wrapping it</p>\n<span class=\"fragment fade-in\">\n  <span class=\"fragment highlight-red\">\n    <span class=\"fragment fade-out\">\n      Fade in &gt; Turn red &gt; Fade out\n    </span>\n  </span>\n</span>\n<p>--</p>\n<!-- .slide: data-auto-animate -->\n<h2> Fragment</h2>\n<h3> Order</h3>\n<p>Order can be changed using the <code>data-fragment-index</code> attribute.</p>\n<p>Multiple elements can appear at the same index.</p>\n<ul>\n<li>Appears last</li>\n</ul>\n<!-- .element: class=\"fragment\" data-fragment-index=\"3\"-->\n<ul>\n<li>Appears second</li>\n</ul>\n<!-- .element: class=\"fragment\" data-fragment-index=\"2\"-->\n<!-- list break -->\n<ul>\n<li>Appears first</li>\n</ul>\n<!-- .element: class=\"fragment\" data-fragment-index=\"1\"-->\n<ul>\n<li>Appears second</li>\n</ul>\n<!-- .element: class=\"fragment\" data-fragment-index=\"2\"-->\n<hr>\n<!-- .slide: data-transition=\"slide\" data-auto-animate -->\n<h2> Transition</h2>\n<!-- .element: class=\"r-fit-text\" -->\n<p>--</p>\n<!-- .slide: data-transition=\"slide\" data-auto-animate -->\n<h2> Transition</h2>\n<!-- .element: class=\"r-fit-text\" -->\n<p>Transition can be changed by setting the <code>transition</code> config option globally or <code>data-transition</code> attribute on slide.</p>\n<p>Possible values:</p>\n<ul>\n<li>none</li>\n<li>fade</li>\n<li>slide</li>\n</ul>\n<!-- list break -->\n<ul>\n<li>convex</li>\n<li>concave</li>\n<li>zoom</li>\n</ul>\n<p>--</p>\n<!-- .slide: data-auto-animate -->\n<h2> Transition</h2>\n<!-- .element: class=\"r-fit-text\" -->\n<h3> Auto animate</h3>\n<p><code>data-auto-animate</code> can be added on nearby slides to make an animation on unchanged elements.</p>\n<hr>\n<!-- .slide: data-transition=\"slide\" data-auto-animate -->\n<h2> Functions</h2>\n<!-- .element: class=\"r-fit-text\" -->\n<p>--</p>\n<!-- .slide: data-transition=\"slide\" data-auto-animate -->\n<h2> Functions</h2>\n<!-- .element: class=\"r-fit-text\" -->\n<h3> Code</h3>\n<p>By enabling <code>highlight</code> plugin, you can highlight code blocks.</p>\n<p>You can use <code>[a-b|c-d]</code> syntax to highlight lines by steps.</p>\n<div class=\"language-javascript line-numbers-mode\" data-ext=\"js\"><div class=\"line-numbers\" aria-hidden=\"true\"><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div></div></div><p>--</p>\n<!-- .slide: data-transition=\"slide\" data-auto-animate -->\n<h2> Functions</h2>\n<!-- .element: class=\"r-fit-text\" -->\n<h3> Overview</h3>\n<p>Press <code>Esc</code> or <code>O</code> to enter overview mode when the presentation is active</p>\n<p>--</p>\n<!-- .slide: data-transition=\"slide\" data-auto-animate -->\n<h2> Functions</h2>\n<!-- .element: class=\"r-fit-text\" -->\n<h3> Full Screen</h3>\n<p>Press <code>F</code> or <code>F11</code> to enter fullscreen when the presentation is active</p>\n<p>--</p>\n<!-- .slide: data-transition=\"slide\" data-auto-animate -->\n<h2> Functions</h2>\n<!-- .element: class=\"r-fit-text\" -->\n<h3> Zoom</h3>\n<p>Hold down the <code>alt</code> key (<code>ctrl</code> in Linux) and click on any element to zoom towards it.</p>\n<p>Click again to zoom back out.</p>\n<hr>\n<!-- .element: class=\"r-fit-text\" -->\n<h2> The End</h2>\n<p>@slideend</p>\n",
+      "image": "https://korepi.com/logo.svg",
+      "date_published": "2023-11-24T11:45:01.000Z",
+      "date_modified": "2023-11-24T14:31:46.000Z",
+      "authors": [],
+      "tags": []
+    },
+    {
+      "title": "Гайды",
+      "url": "https://korepi.com/ru/guide/",
+      "id": "https://korepi.com/ru/guide/",
+      "summary": "Страница все еще создается.. загляните позже, или примите участие в заполнение страниц",
+      "content_html": "<p>Страница все еще создается.. загляните позже, или примите участие в заполнение страниц</p>\n",
+      "date_published": "2023-11-24T11:45:01.000Z",
+      "date_modified": "2023-11-24T14:31:46.000Z",
+      "authors": [
+        {
+          "name": "QweRez"
+        }
+      ],
+      "tags": [
+        "Гайд"
+      ]
+    }
+  ]
+}
