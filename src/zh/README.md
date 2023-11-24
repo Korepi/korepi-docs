@@ -1,225 +1,131 @@
 ﻿---
 home: true
 icon: home
-title: 首页
+title: 主页
 heroImage: /logo2.svg
 bgImage: https://theme-hope-assets.vuejs.press/bg/6-light.svg
 bgImageDark: https://theme-hope-assets.vuejs.press/bg/6-dark.svg
 bgImageStyle:
   background-attachment: fixed
 heroText: Korepi
-tagline: 实用爽用的多功能原神科技
+tagline: 我们提供价格适中、高质量且易于使用的 Korepi 产品！
 actions:
   - text: 下载
     icon: lightbulb
-    link: ./demo/download.md
+    link: ./demo/
     type: primary
-
-  - text: 快速开始
+  - text: 快速入门
     link: ./guide/
-  - text: 文档
-    link: ./guide/
-  - text: 项目介绍
+  - text: 指南
     link: ./guide/
 
 highlights:
-  - header: 超人般的体验
+  - header: 超人类体验！
     image: /assets/image/box.svg
     bgImage: https://theme-hope-assets.vuejs.press/bg/3-light.svg
     bgImageDark: https://theme-hope-assets.vuejs.press/bg/3-dark.svg
     highlights:
-      - title: 快速解锁地图上未解锁的锚点
-      - title: 一键探索地图所有宝箱资源
-      - title: 瞬间击杀你打不过的怪物
+      - title: 解锁未探索的地点
+      - title: 仅需点击几下即可打开地图上的所有宝箱！
 
-  - header: 实用的原神多功能科技
-    description: 独家功能,任意使用
+  - header: 实用、便捷、与原神互动技术
+    description: 独特的功能，免费使用
     image: /assets/image/markdown.svg
+    bgImage: https://theme-hope-assets.vuejs.press/bg/2-light.svg
+    bgImageDark: https://theme-hope-assets.vuejs.press/bg/2-dark.svg
     bgImageStyle:
       background-repeat: repeat
       background-size: initial
     features:
-      - title: 透视资源
-        icon: clipboard-check
-        details: 瞬间找到需要的资源
-        link: https://theme-hope.vuejs.press/zh/guide/markdown/others.html#link-check
+      - title: 传送
+        icon: location-arrow
+        details: 在地图/标记/任务之间传送
+      - title: 上帝模式
+        icon: shield
+        details: 使角色无敌
+      - title: 攻击修改器（多重打击/目标/动画）
+        icon: sword
+        details: 允许修改攻击特性，包括多重打击、目标和动画
+      - title: 无冷却时间（技能/终极/冲刺/弓）
+        icon: clock
+        details: 消除各种动作的冷却时间，如技能、终极、冲刺和弓
+      - title: 无限体力
+        icon: battery-full
+        details: 允许角色无限制地使用体力
+      - title: 穿墙
+        icon: vector-square
+        details: 允许角色穿过物体，飞行
+      - title: 游戏速度
+        icon: tachometer-alt
+        details: 允许加快或减缓游戏中的时间流逝
+      - title: 愚蠢敌人
+        icon: skull
+        details: 使敌人变得愚蠢
+      - title: 冻结敌人
+        icon: snowflake
+        details: 将敌人冻结在原地
+      - title: 自动摧毁矿石/护盾/杂物/植物
+        icon: hammer
+        details: 自动摧毁环境中的各种物体
+      - title: 自动拾取/打开箱子
+        icon: chest
+        details: 自动收集战利品并打开箱子
+      - title: 拾取范围
+        icon: compass
+        details: 增加拾取物品的范围
+      - title: 自动与 NPC 对话
+        icon: comment
+        details: 启动与 NPC 的自动对话
+      - title: 自动砍树
+        icon: tree
+        details: 允许角色自动砍树
+      - title: 自动烹饪
+        icon: utensils
+        details: 无需玩家参与，自动烹饪食物
+      - title: 吸引怪物
+        icon: tornado
+        details: 吸引附近各种怪物
 
-      - title: 快速移动
-        icon: box-archive
-        details: 体验飞一般的感觉
-        link: https://theme-hope.vuejs.press/zh/guide/markdown/container.html
-
-      - title: 杀戮光环
-        icon: table-columns
-        details: 附近的怪物即将大爆特爆
-        link: https://theme-hope.vuejs.press/zh/guide/markdown/tabs.html
-
-      - title:  地图传送
-        icon: code
-        details:  传送神器, 让你瞬间到达目的地
-        link: https://theme-hope.vuejs.press/zh/guide/markdown/code-tabs.html
-
-      - title: 全局加速
-        icon: align-center
-        details: 快速度过无聊的等待时间
-        link: https://theme-hope.vuejs.press/zh/guide/markdown/align.html
-
-      - title: 无敌模式
-        icon: code
-        details: 怪物对你的伤害为0
-        link: https://theme-hope.vuejs.press/zh/guide/markdown/attrs.html
-
-      - title: 多重攻击
-        icon: superscript
-        details: 怪物受到多倍攻击
-        link: https://theme-hope.vuejs.press/zh/guide/markdown/sup-sub.html
-
-      - title: 待完成
-        icon: quote-left
-        details: 待完成
-        link: https://theme-hope.vuejs.press/zh/guide/markdown/footnote.html
-
-      - title: 待完成
-        icon: highlighter
-        details: 待完成
-        link: https://theme-hope.vuejs.press/zh/guide/markdown/mark.html
-
-      - title: 待完成
-        icon: square-check
-        details: 待完成
-        link: https://theme-hope.vuejs.press/zh/guide/markdown/tasklist.html
-
-      - title: 待完成
-        icon: image
-        details: 待完成
-        link: https://theme-hope.vuejs.press/zh/guide/markdown/image.html
-
-      
-
-  - header: 布局
-    description: 一个带有完整无障碍支持的响应式布局。
-    image: /assets/image/layout.svg
-    bgImage: https://theme-hope-assets.vuejs.press/bg/5-light.svg
-    bgImageDark: https://theme-hope-assets.vuejs.press/bg/5-dark.svg
-    highlights:
-      - title: 布局增强
-        icon: object-group
-        details: 添加路径导航、页脚、改进的导航栏、改进的页面导航等。
-        link: https://theme-hope.vuejs.press/zh/guide/layout/
-
-      - title: 深色模式
-        icon: circle-half-stroke
-        details: 可以自由切换浅色模式与深色模式
-        link: https://theme-hope.vuejs.press/zh/guide/interface/darkmode.html
-
-      - title: 主题色切换
-        icon: palette
-        details: 支持自定义主题色并允许用户在预设的主题颜色之间切换
-        link: https://theme-hope.vuejs.press/zh/guide/interface/theme-color.html
-
-      - title: 幻灯片页面
-        icon: person-chalkboard
-        details: 添加幻灯片页面以显示你喜欢的内容
-        link: https://theme-hope.vuejs.press/zh/guide/layout/slides
-
-      - title: 更多
-        icon: ellipsis
-        details: RTL 布局，打印支持，全局按钮等
-        link: https://theme-hope.vuejs.press/zh/guide/interface/others.html
-
-  - header: 新功能
+  - header: 最新 Bug 修复
     image: /assets/image/features.svg
     bgImage: https://theme-hope-assets.vuejs.press/bg/1-light.svg
     bgImageDark: https://theme-hope-assets.vuejs.press/bg/1-dark.svg
     features:
-      - title: 浏览量与评论
-        icon: comment-dots
-        details: 配合 Waline 来开启阅读量统计与评论支持
-        link: https://theme-hope.vuejs.press/zh/guide/feature/comment.html
+      - title: 自动选择对话现在稍快
+        icon: lightning-bolt
+        details: 加快了自动选择对话的速度
+      - title: 地图缩放
+        icon: search-plus
+        details: 增加了地图缩放功能
+      - title: 瞬间充能攻击（现在可配置）
+        icon: bolt
+        details: 现在可以配置瞬间充能攻击
+      - title: 跳过对话
+        icon: arrow-right
+        details: 瞬间跳过对话
+      - title: 召唤 NPC
+        icon: user
+        details: 修复了召唤 NPC 的问题
+      - title: 与雕像互动
+        icon: hands
+        details: 修复了雕像的问题
 
-      - title: 文章信息
-        icon: circle-info
-        details: 为你的文章添加作者、写作日期、预计阅读时间、字数统计等信息
-        link: https://theme-hope.vuejs.press/zh/guide/feature/page-info.html
-
-      - title: 文章加密
-        icon: lock
-        details: 你可以为你的特定页面或特定目录进行加密，以便陌生人不能随意访问它们
-        link: https://theme-hope.vuejs.press/zh/guide/feature/encrypt.html
-
-      - title: 搜索支持
-        icon: search
-        details: 支持 docsearch 和基于客户端的搜索
-        link: https://theme-hope.vuejs.press/zh/guide/feature/search.html
-
-      - title: 代码复制
-        icon: copy
-        details: 一键复制代码块中的代码
-        link: https://theme-hope.vuejs.press/zh/guide/feature/copy-code.html
-
-      - title: 图片预览
-        icon: image
-        details: 像相册一样允许你浏览、缩放并分享你的页面图片
-        link: https://theme-hope.vuejs.press/zh/guide/feature/photo-swipe.html
-
-  - header: 博客
-    description: 通过主题创建个人博客
+  - header: 我们的优势
+    description: 探索一些我们的
     image: /assets/image/blog.svg
     bgImage: https://theme-hope-assets.vuejs.press/bg/5-light.svg
     bgImageDark: https://theme-hope-assets.vuejs.press/bg/5-dark.svg
     highlights:
-      - title: 博客功能
-        icon: blog
-        details: 通过文章的日期、标签和分类展示文章
-        link: https://theme-hope.vuejs.press/zh/guide/blog/intro.html
-
-      - title: 博客主页
-        icon: home
-        details: 全新播客主页
-        link: https://theme-hope.vuejs.press/zh/guide/blog/home.html
-
-      - title: 博主信息
-        icon: home
-        details: 自定义名称、头像、座右铭和社交媒体链接
-        link: https://theme-hope.vuejs.press/zh/guide/blog/blogger.html
-
-      - title: 时间线
-        icon: home
-        details: 在时间线中浏览和通读博文
-        link: https://theme-hope.vuejs.press/zh/guide/blog/timeline.html
-
-  - header: 高级
-    description: 增强站点与用户体验的高级功能
-    image: /assets/image/advanced.svg
-    bgImage: https://theme-hope-assets.vuejs.press/bg/4-light.svg
-    bgImageDark: https://theme-hope-assets.vuejs.press/bg/4-dark.svg
-    highlights:
-      - title: SEO 增强
-        icon: dumbbell
-        details: 将最终生成的网页针对搜索引擎进行优化。
-        link: https://theme-hope.vuejs.press/zh/guide/advanced/seo.html
-
-      - title: Sitemap
-        icon: sitemap
-        details: 自动为你的网站生成 Sitemap
-        link: https://theme-hope.vuejs.press/zh/guide/advanced/sitemap.html
-
-      - title: Feed 支持
-        icon: rss
-        details: 生成你的 Feed，并通知你的用户订阅它
-        link: https://theme-hope.vuejs.press/zh/guide/advanced/feed.html
-
-      - title: PWA 支持
-        icon: mobile-screen
-        details: 让你的网站更像一个 APP
-        link: https://theme-hope.vuejs.press/zh/guide/advanced/pwa.html
+      - title: 响应式支持 24/7
+        icon: headsets
+        details: 我们随时为您提供帮助，白天和黑夜，提供可靠的 24/7 支持。
+      - title: 简单易用
+        icon: user-friends
+        details: 我们的产品设计简单易用，确保用户友好且舒适的体验。
+      - title: 安全性
+        icon: shield-alt
+        details: 我们重视安全性，确保安全访问并保护您的数据。
 
 copyright: false
-footer: 使用 <a href="https://theme-hope.vuejs.press/zh/" target="_blank">VuePress Theme Hope</a> 主题 | MIT 协议, 版权所有 © 2019-present Mr.Hope
+footer: 版权所有 © 2023 Micah && Kitten。保留所有权利。所有其他商标、截图、标志和版权均为其各自所有者的财产。
 ---
-
-这是项目主页的案例。你可以在这里放置你的主体内容。
-
-想要使用此布局，你需要在页面 front matter 中设置 `home: true`。
-
-配置项的相关说明详见 [项目主页配置](https://theme-hope.vuejs.press/zh/guide/layout/home/)。
