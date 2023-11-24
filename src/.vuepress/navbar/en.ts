@@ -7,19 +7,19 @@ export const enNavbar = navbar([
   {
     text: "Guide",
     icon: "lightbulb",
-    prefix: "/en/guide/",
+    prefix: "/en/",
     children: [
       {
-        text: "Bar",
+        text: "Getting Started",
         icon: "lightbulb",
-        prefix: "bar/",
-        children: ["baz", { text: "...", icon: "ellipsis", link: "#" }],
+        prefix: "start/",
+        children: ["join", { text: "...", icon: "ellipsis", link: "#" }],
       },
       {
-        text: "Foo",
+        text: "Guides",
         icon: "lightbulb",
-        prefix: "foo/",
-        children: ["ray", { text: "...", icon: "ellipsis", link: "#" }],
+        prefix: "guide/",
+        children: ["page", { text: "...", icon: "ellipsis", link: "#" }],
       },
     ],
   },

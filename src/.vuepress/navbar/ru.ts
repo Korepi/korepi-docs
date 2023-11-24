@@ -7,19 +7,19 @@ export const ruNavbar = navbar([
   {
     text: "Гайды",
     icon: "lightbulb",
-    prefix: "/ru/guide/",
+    prefix: "/ru/",
     children: [
       {
         text: "Начало",
         icon: "lightbulb",
         prefix: "start/",
-        children: ["start", { text: "...", icon: "ellipsis", link: "#" }],
+        children: ["join", { text: "...", icon: "ellipsis", link: "#" }],
       },
       {
         text: "Гайды",
         icon: "lightbulb",
         prefix: "guide/",
-        children: ["guide", { text: "...", icon: "ellipsis", link: "#" }],
+        children: ["page", { text: "...", icon: "ellipsis", link: "#" }],
       },
     ],
   },

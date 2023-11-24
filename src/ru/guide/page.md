@@ -1,5 +1,5 @@
 ---
-title: None
+title: Привет?
 icon: circle-info
 category:
   - Гайд
