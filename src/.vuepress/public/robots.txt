@@ -1,0 +1,3 @@
+Sitemap: https://korepi.com/sitemap.xml
+
+User-agent: *
