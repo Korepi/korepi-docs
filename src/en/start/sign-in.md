@@ -23,7 +23,7 @@ Now you need to find the bot with the image of a goose and write to him in direc
 
 ## Step 3: Getting started
 
-Write him the command `/sign-in`, solve the captcha. Note: if the bot does not respond to your captcha request, you probably entered it incorrectly. Try writing the captcha again (without the command). After successful input, the bot will send you the message "Consecutive <number of days> days".
+Write him the command `/sign-in`, solve the captcha. Note: if the bot does not respond to your captcha request, you probably entered it incorrectly. Try writing the captcha again (without the command). After successful input, the bot will send you the message "Consecutive < days > days".
 
 ## Step 4: After receiving the "Newcomer" role
 
