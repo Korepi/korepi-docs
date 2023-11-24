@@ -15,7 +15,7 @@ actions:
     link: ./demo/
     type: primary
   - text: Быстрый старт
-    link: ./guide/
+    link: ./start/
   - text: Гайды
     link: ./guide/
 

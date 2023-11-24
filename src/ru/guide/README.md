@@ -1,16 +1,11 @@
 ---
-title: Guide
-icon: lightbulb
+title: Гайды
+icon: circle-info
+category:
+  - Гайд
+tag:
+  - Начало
+author: QweRez
 ---
 
-## Highlight Features
-
-### Bar
-
-- [baz](/ru/guide/bar/baz.md)
-- ...
-
-### Foo
-
-- [ray](/ru/guide/foo/ray.md)
-- ...
+Страница все еще создается.. загляните позже, или примите участие в заполнение страниц
