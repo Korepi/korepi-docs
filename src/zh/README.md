@@ -14,8 +14,8 @@ actions:
     icon: lightbulb
     link: ./demo/
     type: primary
-  - text: 快速入门
-    link: ./guide/
+  - text: 快速开始
+    link: ./start/
   - text: 指南
     link: ./guide/
 

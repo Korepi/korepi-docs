@@ -15,7 +15,7 @@ actions:
     link: ./demo/
     type: primary
   - text: Quick Start
-    link: ./guide/
+    link: ./start/
   - text: Guides
     link: ./guide/
 
