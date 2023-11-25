@@ -106,9 +106,9 @@ highlights:
       - title: 召唤 NPC
         icon: user
         details: 修复了召唤 NPC 的问题
-      - title: 与雕像互动
+      - title: 与神像互动
         icon: hands
-        details: 修复了雕像的问题
+        details: 修复了神像的问题
 
   - header: 我们的优势
     description: 探索一些我们的
