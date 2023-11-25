@@ -7,6 +7,10 @@ tag:
   - Начало
 author: QweRez
 order: 1
+feed:
+  enable: true
+  title: Присоединение к серверу Korepi
+  content: Пока не придумал
 ---
 
 ## Введение

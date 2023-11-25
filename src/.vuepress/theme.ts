@@ -81,8 +81,6 @@ export default hopeTheme({
   plugins: {
     feed:{
       rss:true,
-      json:true,
-      atom:true
     },
     // You should generate and use your own comment service
     comment: {
