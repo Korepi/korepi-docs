@@ -15,3 +15,5 @@ author: QweRez
 - [Verification](verify.md)
 
 - [Obtaining the Fans Role](sign-in.md)
+
+- [Becoming a Sponsor](sponsor.md)
