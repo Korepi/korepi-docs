@@ -15,3 +15,5 @@ author: QweRez
 - [验证](verify.md)
 
 - [获取 Fans 角色](sign-in.md)
+
+- [捐赠](donate.md)

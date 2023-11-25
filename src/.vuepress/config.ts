@@ -1,10 +1,10 @@
-import {defineUserConfig} from "vuepress";
+import { defineUserConfig } from "vuepress";
 import theme from "./theme.js";
 // @ts-ignore
-import {redirectPlugin} from "vuepress-plugin-redirect";
-import {docsearchPlugin} from "@vuepress/plugin-docsearch";
+import { redirectPlugin } from "vuepress-plugin-redirect";
+import { docsearchPlugin } from "@vuepress/plugin-docsearch";
 // @ts-ignore
-import {googleAnalyticsPlugin} from '@vuepress/plugin-google-analytics'
+import { googleAnalyticsPlugin } from '@vuepress/plugin-google-analytics'
 
 export default defineUserConfig({
     base: "/",
