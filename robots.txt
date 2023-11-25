@@ -2,6 +2,12 @@ Sitemap: https://korepi.com/sitemap.xml
 
 User-agent: *
 
+# Разрешение индексации RSS-каналов для всех
+Allow: /ru/rss.xml
+Allow: /en/rss.xml
+Allow: /zh/rss.xml
+Allow: /rss.xml
+
 User-agent:*
 Disallow:
 

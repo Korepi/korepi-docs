@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="https://korepi.com/atom.xsl"?>
-<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US">
-  <id>https://korepi.com/</id>
-  <title/>
-  <updated>2023-11-24T18:09:26.098Z</updated>
-  <generator>vuepress-plugin-feed2</generator>
-  <link rel="self" href="https://korepi.com/atom.xml"/>
-  <link rel="alternate" href="https://korepi.com/"/>
-</feed>
