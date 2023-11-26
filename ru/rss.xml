@@ -6,8 +6,8 @@
     <link>https://korepi.com/ru/</link>
     <description>Помощь по Korepi</description>
     <language>ru-RU</language>
-    <pubDate>Sat, 25 Nov 2023 17:17:39 GMT</pubDate>
-    <lastBuildDate>Sat, 25 Nov 2023 17:17:39 GMT</lastBuildDate>
+    <pubDate>Sun, 26 Nov 2023 09:26:08 GMT</pubDate>
+    <lastBuildDate>Sun, 26 Nov 2023 09:26:08 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Гайд</category>
@@ -94,7 +94,7 @@
 <p>Теперь вам нужно найти бота с изображением гуся и написать ему в личные сообщения (micah-sign-bot#0245).</p>
 <h2> Шаг 3: Начало</h2>
 <p>Напишите ему команду <code>/sign-in</code>, решите капчу. Примечание: если бот не отвечает на ваш запрос с капчей, вы, вероятно, ввели ее неверно. Попробуйте написать капчу еще раз (без команды). После успешного ввода бот отправит вам сообщение "Consecutive &lt;количество дней&gt; days".</p>
-<h2> Шаг 4: После получения роли "Newcomer"</h2>
+<h2> Шаг 4: Предисловие</h2>
 <p>Итак, теперь вам нужно вводить эту команду каждый день в течение 7 дней (каждые 24 часа). Учтите, что если вы ошибетесь на пару часов, бот посчитает, что вы не отмечались и сбросит ваши дни. На 7-й день отметок вам будет выдана роль "Fans", и вы можете прекратить отмечаться.</p>
 ]]></content:encoded>
     </item>
