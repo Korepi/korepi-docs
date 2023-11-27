@@ -6,6 +6,7 @@ User-agent: *
 Allow: /ru/rss.xml
 Allow: /en/rss.xml
 Allow: /zh/rss.xml
+Allow: /id/rss.xml
 Allow: /rss.xml
 
 User-agent:*

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="https://korepi.com/id/rss.xsl"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <atom:link href="https://korepi.com/id/rss.xml" rel="self" type="application/rss+xml"/>
+    <title>Korepi</title>
+    <link>https://korepi.com/id/</link>
+    <description>Pertolongan Korepi</description>
+    <language>id-ID</language>
+    <pubDate>Mon, 27 Nov 2023 04:56:29 GMT</pubDate>
+    <lastBuildDate>Mon, 27 Nov 2023 04:56:29 GMT</lastBuildDate>
+    <generator>vuepress-plugin-feed2</generator>
+    <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+    <category>Panduan</category>
+    <item>
+      <title>Panduan</title>
+      <link>https://korepi.com/id/guide/</link>
+      <guid>https://korepi.com/id/guide/</guid>
+      <source url="https://korepi.com/id/rss.xml">Panduan</source>
+      <description>Bakal menyusul Kalo mau bantu gw bisa juga</description>
+      <category>Panduan</category>
+      <pubDate>Sun, 26 Nov 2023 15:29:27 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Bakal menyusul</h2>
+<p>Kalo mau bantu gw bisa juga ❤️</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>tiada judul</title>
+      <link>https://korepi.com/id/guide/page.html</link>
+      <guid>https://korepi.com/id/guide/page.html</guid>
+      <source url="https://korepi.com/id/rss.xml">tiada judul</source>
+      <description>Bakal menyusul Kalo mau bantu gw bisa juga</description>
+      <category>Panduan</category>
+      <pubDate>Sun, 26 Nov 2023 15:29:27 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Bakal menyusul</h2>
+<p>Kalo mau bantu gw bisa juga ❤️</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Buku Pemula</title>
+      <link>https://korepi.com/id/start/</link>
+      <guid>https://korepi.com/id/start/</guid>
+      <source url="https://korepi.com/id/rss.xml">Buku Pemula</source>
+      <description>Catalog Cara join server (join.md); Cara verifikasi akun (verify.md); Cara sign-in (sign-in.md);</description>
+      <category>Panduan</category>
+      <pubDate>Sun, 26 Nov 2023 15:29:27 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Catalog</h2>
+<ul>
+<li>
+<p><a href="/id/start/join.html" target="blank">Cara join server</a></p>
+</li>
+<li>
+<p><a href="/id/start/verify.html" target="blank">Cara verifikasi akun</a></p>
+</li>
+<li>
+<p><a href="/id/start/sign-in.html" target="blank">Cara sign-in</a></p>
+</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Cara join server</title>
+      <link>https://korepi.com/id/start/join.html</link>
+      <guid>https://korepi.com/id/start/join.html</guid>
+      <source url="https://korepi.com/id/rss.xml">Cara join server</source>
+      <description>Bakal menyusul</description>
+      <category>Panduan</category>
+      <pubDate>Sun, 26 Nov 2023 15:29:27 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Bakal menyusul</h2>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Cara sign-in</title>
+      <link>https://korepi.com/id/start/sign-in.html</link>
+      <guid>https://korepi.com/id/start/sign-in.html</guid>
+      <source url="https://korepi.com/id/rss.xml">Cara sign-in</source>
+      <description>Bakal menyusul</description>
+      <category>Panduan</category>
+      <pubDate>Sun, 26 Nov 2023 15:29:27 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Bakal menyusul</h2>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Cara verifikasi akun</title>
+      <link>https://korepi.com/id/start/verify.html</link>
+      <guid>https://korepi.com/id/start/verify.html</guid>
+      <source url="https://korepi.com/id/rss.xml">Cara verifikasi akun</source>
+      <description>Bakal menyusul</description>
+      <category>Panduan</category>
+      <pubDate>Sun, 26 Nov 2023 15:29:27 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Bakal menyusul</h2>
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>
