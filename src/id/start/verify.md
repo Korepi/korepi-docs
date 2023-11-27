@@ -6,7 +6,7 @@ category:
 tag:
   - Buku Pemula
 author: rekiihype
-order: 3
+order: 2
 ---
 
 ## Bakal menyusul
