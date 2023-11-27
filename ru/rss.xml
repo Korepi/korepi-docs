@@ -6,11 +6,31 @@
     <link>https://korepi.com/ru/</link>
     <description>Помощь по Korepi</description>
     <language>ru-RU</language>
-    <pubDate>Mon, 27 Nov 2023 04:56:29 GMT</pubDate>
-    <lastBuildDate>Mon, 27 Nov 2023 04:56:29 GMT</lastBuildDate>
+    <pubDate>Mon, 27 Nov 2023 07:18:16 GMT</pubDate>
+    <lastBuildDate>Mon, 27 Nov 2023 07:18:16 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Гайд</category>
+    <item>
+      <title>Спонсорство</title>
+      <link>https://korepi.com/ru/start/sponsor.html</link>
+      <guid>https://korepi.com/ru/start/sponsor.html</guid>
+      <source url="https://korepi.com/ru/rss.xml">Спонсорство</source>
+      <description>Шаг 1: Как стать спонсором? Чтобы стать спонсором, вам нужно сделать пожертвование в размере не менее 5 долларов или эквивалентной суммы. Шаг 2: Где сделать пожертвование? После...</description>
+      <category>Гайд</category>
+      <pubDate>Mon, 27 Nov 2023 07:17:28 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Шаг 1: Как стать спонсором?</h2>
+<p>Чтобы стать спонсором, вам нужно сделать пожертвование в размере не менее 5 долларов или эквивалентной суммы.</p>
+<h2> Шаг 2: Где сделать пожертвование?</h2>
+<p>После присоединения к серверу, перейдите в канал <a href="https://discord.com/channels/1069057220802781265/1097565269985071205" target="_blank" rel="noopener noreferrer">#sponsorship</a>. Выберите один из предложенных способов оплаты, который вам удобен.</p>
+<h2> Шаг 2.1: Альтернативный вариант</h2>
+<p>Если вам сложно разобраться с предыдущим шагом, или у вас нет времени, вы можете связаться с любым русскоязычным модератором, и он окажет вам помощь.
+Примеры:
+- qwerezon
+- butterbrodskiy
+- ezizfrostik</p>
+]]></content:encoded>
+    </item>
     <item>
       <title>Гайды</title>
       <link>https://korepi.com/ru/guide/info/</link>
@@ -51,7 +71,7 @@
       <link>https://korepi.com/ru/start/</link>
       <guid>https://korepi.com/ru/start/</guid>
       <source url="https://korepi.com/ru/rss.xml">Начало</source>
-      <description>CatalogПрисоединение к серверу (join.md); Верефикация (verify.md); Получения роли Fans (sign-in.md);</description>
+      <description>CatalogПрисоединение к серверу (join.md); Верефикация (verify.md); Получения роли Fans (sign-in.md); Становления спонсором (sponsor.md);</description>
       <category>Гайд</category>
       <pubDate>Fri, 24 Nov 2023 14:31:46 GMT</pubDate>
       <content:encoded><![CDATA[<h2> Catalog</h2>
@@ -65,18 +85,36 @@
 <li>
 <p><a href="/ru/start/sign-in.html" target="blank">Получения роли Fans</a></p>
 </li>
+<li>
+<p><a href="/ru/start/sponsor.html" target="blank">Становления спонсором</a></p>
+</li>
 </ul>
 ]]></content:encoded>
     </item>
     <item>
-      <title>Присоединение к серверу Korepi</title>
+      <title>Присоединение к серверу</title>
       <link>https://korepi.com/ru/start/join.html</link>
       <guid>https://korepi.com/ru/start/join.html</guid>
-      <source url="https://korepi.com/ru/rss.xml">Присоединение к серверу Korepi</source>
+      <source url="https://korepi.com/ru/rss.xml">Присоединение к серверу</source>
       <description>Введение Добро пожаловать в наше сообщество! Чтобы присоединиться к серверу Discord и начать пользоваться Korepi, выполните следующие шаги. Шаг 1: Создание аккаунта Discord Если...</description>
       <category>Гайд</category>
       <pubDate>Fri, 24 Nov 2023 14:31:46 GMT</pubDate>
-      <content:encoded><![CDATA[Пока не придумал]]></content:encoded>
+      <content:encoded><![CDATA[<h2> Введение</h2>
+<p>Добро пожаловать в наше сообщество! Чтобы присоединиться к серверу Discord и начать пользоваться Korepi, выполните следующие шаги.</p>
+<h2> Шаг 1: Создание аккаунта Discord</h2>
+<p>Если у вас еще нет аккаунта Discord, начните с создания нового аккаунта. Посетите <a href="https://discord.com/" target="_blank" rel="noopener noreferrer">официальный сайт Discord</a> и следуйте инструкциям по регистрации.</p>
+<h2> Шаг 2: Загрузка и установка Discord</h2>
+<p>После создания аккаунта загрузите <a href="https://discord.com/download" target="_blank" rel="noopener noreferrer">клиент Discord</a> для вашей операционной системы. Установите клиент, следуя инструкциям на экране.</p>
+<h2> Шаг 3: Присоединение к серверу</h2>
+<ol>
+<li>Скопируйте <a href="https://discord.gg/cottonbuds" target="_blank" rel="noopener noreferrer">пригласительную ссылку</a> для сервера Discord, предоставленную администратором.</li>
+<li>В клиенте Discord нажмите кнопку "+" в левом нижнем углу.</li>
+<li>Выберите "Присоединиться к серверу".</li>
+<li>Вставьте пригласительную ссылку и нажмите "Присоединиться".</li>
+</ol>
+<p>Если пригласительная ссылка недействительна, возможно, сервер временно закрыт. Ожидайте его открытия.
+Теперь вы можете перейти к следующему пункту.</p>
+]]></content:encoded>
     </item>
     <item>
       <title>Регистрация</title>
