@@ -6,8 +6,8 @@
     <link>https://korepi.com/ru/</link>
     <description>Помощь по Korepi</description>
     <language>ru-RU</language>
-    <pubDate>Mon, 27 Nov 2023 07:18:16 GMT</pubDate>
-    <lastBuildDate>Mon, 27 Nov 2023 07:18:16 GMT</lastBuildDate>
+    <pubDate>Mon, 27 Nov 2023 08:39:21 GMT</pubDate>
+    <lastBuildDate>Mon, 27 Nov 2023 08:39:21 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Гайд</category>
@@ -19,16 +19,21 @@
       <description>Шаг 1: Как стать спонсором? Чтобы стать спонсором, вам нужно сделать пожертвование в размере не менее 5 долларов или эквивалентной суммы. Шаг 2: Где сделать пожертвование? После...</description>
       <category>Гайд</category>
       <pubDate>Mon, 27 Nov 2023 07:17:28 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Шаг 1: Как стать спонсором?</h2>
+      <content:encoded><![CDATA[<h1> Спонсорство</h1>
+<h2> Шаг 1: Как стать спонсором?</h2>
 <p>Чтобы стать спонсором, вам нужно сделать пожертвование в размере не менее 5 долларов или эквивалентной суммы.</p>
 <h2> Шаг 2: Где сделать пожертвование?</h2>
 <p>После присоединения к серверу, перейдите в канал <a href="https://discord.com/channels/1069057220802781265/1097565269985071205" target="_blank" rel="noopener noreferrer">#sponsorship</a>. Выберите один из предложенных способов оплаты, который вам удобен.</p>
 <h2> Шаг 2.1: Альтернативный вариант</h2>
-<p>Если вам сложно разобраться с предыдущим шагом, или у вас нет времени, вы можете связаться с любым русскоязычным модератором, и он окажет вам помощь.
-Примеры:
-- qwerezon
-- butterbrodskiy
-- ezizfrostik</p>
+<p>Если вам сложно разобраться с предыдущим шагом, или у вас нет времени, вы можете связаться с любым русскоязычным модератором, и он окажет вам помощь.</p>
+<div class="hint-container tip">
+<p class="hint-container-title">Модераторы</p>
+<ul>
+<li>qwerezon</li>
+<li>butterbrodskiy</li>
+<li>ezizfrostik</li>
+</ul>
+</div>
 ]]></content:encoded>
     </item>
     <item>
@@ -71,22 +76,24 @@
       <link>https://korepi.com/ru/start/</link>
       <guid>https://korepi.com/ru/start/</guid>
       <source url="https://korepi.com/ru/rss.xml">Начало</source>
-      <description>CatalogПрисоединение к серверу (join.md); Верефикация (verify.md); Получения роли Fans (sign-in.md); Становления спонсором (sponsor.md);</description>
+      <description>Добро пожаловать в раздел &amp;quot;Начало&amp;quot;! Здесь вы найдете полезную информацию о том, как начать использовать наш Продукт. Разделы ниже помогут вам ознакомиться с основами и получить ...</description>
       <category>Гайд</category>
       <pubDate>Fri, 24 Nov 2023 14:31:46 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Catalog</h2>
+      <content:encoded><![CDATA[<h1> Начало</h1>
+<p>Добро пожаловать в раздел "Начало"! Здесь вы найдете полезную информацию о том, как начать использовать наш Продукт. Разделы ниже помогут вам ознакомиться с основами и получить доступ к различным возможностям.</p>
+<h2> Каталог</h2>
 <ul>
 <li>
-<p><a href="/ru/start/join.html" target="blank">Присоединение к серверу</a></p>
+<p><a href="/ru/start/join.html" target="blank">Присоединение к серверу</a>: Как присоединиться к нашему серверу и начать играть.</p>
 </li>
 <li>
-<p><a href="/ru/start/verify.html" target="blank">Верефикация</a></p>
+<p><a href="/ru/start/verify.html" target="blank">Верификация</a>: Процесс верификации для обеспечения безопасности на сервере.</p>
 </li>
 <li>
-<p><a href="/ru/start/sign-in.html" target="blank">Получения роли Fans</a></p>
+<p><a href="/ru/start/sign-in.html" target="blank">Получение роли Fans</a>: Инструкции по получению роли Fans на сервере.</p>
 </li>
 <li>
-<p><a href="/ru/start/sponsor.html" target="blank">Становления спонсором</a></p>
+<p><a href="/ru/start/sponsor.html" target="blank">Становление спонсором</a>: Информация о том, как поддержать нас и стать спонсором.</p>
 </li>
 </ul>
 ]]></content:encoded>
@@ -121,19 +128,21 @@
       <link>https://korepi.com/ru/start/sign-in.html</link>
       <guid>https://korepi.com/ru/start/sign-in.html</guid>
       <source url="https://korepi.com/ru/rss.xml">Регистрация</source>
-      <description>Введение Добро пожаловать в наше сообщество! Чтобы зарегистрироваться и получить роль &amp;quot;Fans&amp;quot;, выполните следующие шаги. Шаг 1: Присоединение к нашему серверу и получение роли &amp;quot;N...</description>
+      <description>Добро пожаловать в наше сообщество! Чтобы зарегистрироваться и получить роль &amp;quot;Fans&amp;quot;, выполните следующие шаги. Шаг 1: Присоединение к нашему серверу и получение роли &amp;quot;Newcomer&amp;quot; ...</description>
       <category>Гайд</category>
       <pubDate>Fri, 24 Nov 2023 14:31:46 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Введение</h2>
+      <content:encoded><![CDATA[<h1> Регистрация</h1>
 <p>Добро пожаловать в наше сообщество! Чтобы зарегистрироваться и получить роль "Fans", выполните следующие шаги.</p>
-<h2> Шаг 1: Присоединение к нашему серверу и получение роли "Newcomer", если еще этого не сделали</h2>
+<h2> Шаг 1: Присоединение к нашему серверу и получение роли "Newcomer"</h2>
 <p>Если вы еще не на сервере, пожалуйста, прочитайте предыдущий пост, где описано, как присоединиться к серверу и получить роль "Newcomer".</p>
-<h2> Шаг 2: Нахождение бота</h2>
+<h2> Шаг 2: Бот</h2>
 <p>Теперь вам нужно найти бота с изображением гуся и написать ему в личные сообщения (micah-sign-bot#0245).</p>
 <h2> Шаг 3: Начало</h2>
 <p>Напишите ему команду <code>/sign-in</code>, решите капчу. Примечание: если бот не отвечает на ваш запрос с капчей, вы, вероятно, ввели ее неверно. Попробуйте написать капчу еще раз (без команды). После успешного ввода бот отправит вам сообщение "Consecutive &lt;количество дней&gt; days".</p>
-<h2> Шаг 4: Предисловие</h2>
+<div class="hint-container tip">
+<p class="hint-container-title">Предисловие</p>
 <p>Итак, теперь вам нужно вводить эту команду каждый день в течение 7 дней (каждые 24 часа). Учтите, что если вы ошибетесь на пару часов, бот посчитает, что вы не отмечались и сбросит ваши дни. На 7-й день отметок вам будет выдана роль "Fans", и вы можете прекратить отмечаться.</p>
+</div>
 ]]></content:encoded>
     </item>
     <item>
@@ -144,7 +153,8 @@
       <description>Введение Добро пожаловать в наше сообщество! Чтобы пройти проверку на бота и получить роль &amp;quot;Newcomer&amp;quot;, выполните следующие шаги. Шаг 1: Присоединитесь к нашему серверу, если еще...</description>
       <category>Гайд</category>
       <pubDate>Fri, 24 Nov 2023 14:31:46 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Введение</h2>
+      <content:encoded><![CDATA[<h1> Верификация</h1>
+<h2> Введение</h2>
 <p>Добро пожаловать в наше сообщество! Чтобы пройти проверку на бота и получить роль "Newcomer", выполните следующие шаги.</p>
 <h2> Шаг 1: Присоединитесь к нашему серверу, если еще этого не сделали</h2>
 <p>Если вы еще не на сервере, пожалуйста, ознакомьтесь с предыдущим постом, где описано, как присоединиться к серверу.</p>
