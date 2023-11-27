@@ -25,6 +25,11 @@ export default defineUserConfig({
             title: "Korepi",
             description: "Помощь по Korepi",
         },
+        "/id/": {
+            lang: "id-ID",
+            title: "Korepi",
+            description: "Pertolongan Korepi"
+        }
     },
     plugins: [
         docsearchPlugin({
@@ -155,6 +160,47 @@ export default defineUserConfig({
                         },
                     },
                 },
+                "/id/": {
+                    placeholder: "Carian",
+                    translations: {
+                        button: {
+                            buttonText: "Carian",
+                            buttonAriaLabel: "Carian",
+                        },
+                        modal: {
+                            searchBox: {
+                                resetButtonTitle: "Padam Carian",
+                                resetButtonAriaLabel: "Padam Carian",
+                                cancelButtonText: "Balik",
+                                cancelButtonAriaLabel: "Balik",
+                            },
+                            startScreen: {
+                                recentSearchesTitle: "Sejarah Carian",
+                                noRecentSearchesText: "Tiada Sejarah Carian",
+                                saveRecentSearchButtonTitle: "Simpan ke Sejarah Carian",
+                                removeRecentSearchButtonTitle: "Buang dari Sejarah Carian",
+                                favoriteSearchesTitle: "Favorit",
+                                removeFavoriteSearchButtonTitle: "Buang dari Favorit",
+                            },
+                            errorScreen: {
+                                titleText: "Gagal mendapatkan hasil",
+                                helpText: "Periksa koneksi internet anda dan sumber daya yang diminta.",
+                            },
+                            footer: {
+                                selectText: "Pilih",
+                                navigateText: "Toggle",
+                                closeText: "Tutup",
+                                searchByText: "Pake carian",
+                            },
+                            noResultsScreen: {
+                                noResultsText: "Tidak dapat menemukan apa pun untuk pertanyaan anda:",
+                                suggestedQueryText: "Anda boleh mencoba pertanyaan yang lain",
+                                reportMissingResultsText: "Apakah menurut anda pertanyaan ini perlu menghasilkan beberapa jawaban :> ?",
+                                reportMissingResultsLinkText: "Hubungi kami",
+                            },
+                        },
+                    },
+                },
             },
         }),
         redirectPlugin({
@@ -165,6 +211,7 @@ export default defineUserConfig({
                 "/en/": ["en-US", "en-UK", "en"],
                 "/zh/": ["zh-CN", "zh-TW", "zh"],
                 "/ru/": ["ru-RU", "ru-KZ", "ru-BY", "ru-UA", "ru-MD", "ru-LV", "tt-RU", "ru"],
+                "/id/": ["id-ID", "id"],
             },
         }),
         googleAnalyticsPlugin({

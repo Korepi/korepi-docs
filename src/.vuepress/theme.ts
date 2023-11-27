@@ -1,6 +1,6 @@
 import { hopeTheme } from "vuepress-theme-hope";
-import { enNavbar, zhNavbar, ruNavbar } from "./navbar/index.js";
-import { enSidebar, zhSidebar, ruSidebar } from "./sidebar/index.js";
+import { enNavbar, zhNavbar, ruNavbar, idNavbar } from "./navbar/index.js";
+import { enSidebar, zhSidebar, ruSidebar, idSidebar } from "./sidebar/index.js";
 
 export default hopeTheme({
   hostname: "https://korepi.com/",
@@ -48,6 +48,22 @@ export default hopeTheme({
 
       metaLocales: {
         editLink: "Изменить эту страницу на GitHub",
+      },
+    },
+
+    "/id/": {
+      // navbar
+      navbar: idNavbar,
+
+      // sidebar
+      sidebar: idSidebar,
+
+      footer: "Memberikan pengalaman bermain game terbaik untuk pemain PC di Genshin Impact.",
+
+      displayFooter: true,
+
+      metaLocales: {
+        editLink: "Edit halaman ini di GitHub",
       },
     },
     /**
