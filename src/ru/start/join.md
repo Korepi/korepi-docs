@@ -1,6 +1,6 @@
 ---
 title: Присоединение к серверу
-icon: circle-info
+icon: server
 category:
   - Гайд
 tag:

@@ -217,7 +217,6 @@ export default defineUserConfig({
         googleAnalyticsPlugin({
             id: 'G-D5RM42XS38',
         }),
-        
     ],
     theme,
 

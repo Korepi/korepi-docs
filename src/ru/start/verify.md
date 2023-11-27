@@ -1,6 +1,6 @@
 ---
 title: Верификация
-icon: circle-info
+icon: lock
 category:
   - Гайд
 tag:
@@ -10,6 +10,8 @@ author:
   url: "https://github.com/qwerezon/"
 order: 2
 ---
+
+# Верификация
 
 ## Введение
 
