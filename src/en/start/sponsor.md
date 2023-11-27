@@ -6,7 +6,7 @@ category:
 tag:
     - Start
 author: rekiihype
-order: 5
+order: 4
 ---
 
 ## How to become a Sponsor?

@@ -7,7 +7,9 @@ tag:
   - Начало
   - Fans
 
-author: QweRez
+author: 
+  name: "QweRez"
+  url: "https://github.com/qwerezon/"
 ---
 
 ## Catalog
@@ -17,3 +19,5 @@ author: QweRez
 - [Верефикация](verify.md)
 
 - [Получения роли Fans](sign-in.md)
+
+- [Становления спонсором](sponsor.md)
