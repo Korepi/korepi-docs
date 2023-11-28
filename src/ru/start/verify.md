@@ -1,13 +1,17 @@
 ---
 title: Верификация
-icon: circle-info
+icon: lock
 category:
   - Гайд
 tag:
   - Начало
-author: QweRez
+author: 
+  name: "QweRez"
+  url: "https://github.com/qwerezon/"
 order: 2
 ---
+
+# Верификация
 
 ## Введение
 

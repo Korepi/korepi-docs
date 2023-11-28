@@ -18,4 +18,3 @@ Documents for https://github.com/Korepi/korepi. You can always view its live ver
 - Run `pnpm run docs:dev` in the root directory of the project
   - The document will run at `http://localhost:8080` by default
 
-

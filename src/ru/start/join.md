@@ -1,16 +1,14 @@
 ---
 title: Присоединение к серверу
-icon: circle-info
+icon: server
 category:
   - Гайд
 tag:
   - Начало
-author: QweRez
+author: 
+  name: "QweRez"
+  url: "https://github.com/qwerezon/"
 order: 1
-feed:
-  enable: true
-  title: Присоединение к серверу Korepi
-  content: Пока не придумал
 ---
 
 ## Введение

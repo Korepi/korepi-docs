@@ -5,7 +5,9 @@ category:
   - Гайд
 tag:
   - Начало
-author: QweRez
+author: 
+  name: "QweRez"
+  url: "https://github.com/qwerezon/"
 ---
 
 Страница все еще создается.. загляните позже, или примите участие в заполнение страниц
