@@ -1,5 +1,5 @@
 ---
-title: Buku Pemula
+title: Isi Kandungan
 icon: circle-info
 category:
   - Panduan
@@ -10,10 +10,10 @@ tag:
 author: rekiihype
 ---
 
-## Catalog
+- [Cara Join Server](join.md)
 
-- [Cara join server](join.md)
+- [Cara Verifikasi Akun](verify.md)
 
-- [Cara verifikasi akun](verify.md)
+- [Cara Mendapatkan Role Fans](sign-in.md)
 
-- [Cara sign-in](sign-in.md)
+- [Cara Sponsor](sponsor.md)

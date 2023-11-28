@@ -91,7 +91,7 @@ highlights:
     bgImage: https://theme-hope-assets.vuejs.press/bg/1-light.svg
     bgImageDark: https://theme-hope-assets.vuejs.press/bg/1-dark.svg
     features:
-      - title: Auto Select Dialog sekarang makin laju
+      - title: Auto Select Dialog sekarang makin cepat
         icon: lightning-bolt
         details: Meningkatkan kecepatan pemilihan dialog secara otomatis
       - title: Map Zoom
