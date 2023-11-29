@@ -1,6 +1,6 @@
 ---
 title: 验证
-icon: circle-info
+icon: lock
 category:
   - 指南
 tag:

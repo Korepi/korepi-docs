@@ -1,6 +1,6 @@
 ---
 title: Becoming a Sponsor
-icon: circle-info
+icon: credit-card
 category:
     - Guide
 tag:

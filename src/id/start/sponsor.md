@@ -1,6 +1,6 @@
 ---
 title: Cara Menjadi Sponsor
-icon: circle-info
+icon: credit-card
 category:
   - Panduan
 tag:

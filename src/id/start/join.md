@@ -1,6 +1,6 @@
 ---
 title: Cara Join Server
-icon: circle-info
+icon: server
 category:
   - Panduan
 tag:

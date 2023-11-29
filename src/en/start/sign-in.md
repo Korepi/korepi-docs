@@ -1,6 +1,6 @@
 ---
 title: Registration
-icon: circle-info
+icon: user-plus
 category:
   - Guide
 tag:

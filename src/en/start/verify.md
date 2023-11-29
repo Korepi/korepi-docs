@@ -1,6 +1,6 @@
 ---
 title: Verification
-icon: circle-info
+icon: lock
 category:
   - Guide
 tag:

@@ -1,6 +1,6 @@
 ---
 title: Joining the Server
-icon: circle-info
+icon: server
 category:
   - Guide
 tag:

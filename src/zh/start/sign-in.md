@@ -1,6 +1,6 @@
 ---
 title: 注册
-icon: circle-info
+icon: user-plus
 category:
   - 指南
 tag:

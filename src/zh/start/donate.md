@@ -1,6 +1,6 @@
 ---
 title: 如何捐赠及快速获取身份
-icon: circle-info
+icon: credit-card
 category:
   - 指南
 tag:

@@ -1,6 +1,6 @@
 ---
 title: 加入服务器
-icon: circle-info
+icon: server
 category:
   - 指南
 tag:

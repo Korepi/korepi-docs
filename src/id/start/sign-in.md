@@ -1,6 +1,6 @@
 ---
 title: Cara Mendapatkan Role Fans
-icon: circle-info
+icon: user-plus
 category:
   - Panduan
 tag:
