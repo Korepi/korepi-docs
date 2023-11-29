@@ -5,19 +5,19 @@ category:
   - Panduan
 tag:
   - Buku Pemula
-author: rekiihype
+author: rekiihype. Ikuyo
 order: 1
 ---
 
 Selamat datang di komunitas kami! Untuk bergabung dengan server Discord dan mulai menggunakan Korepi, ikuti langkah-langkah berikut
 
-## Step 1: Membuat akun Discord
+## Langkah 1: Membuat akun Discord
 
 Jika Anda belum memiliki akun Discord, lanjutkan dengan membuat akun baru. Kunjungi [situs web resmi Discord](https://discord.com/). Setelah membuat akun, unduh [Discord client](https://discord.com/download) untuk sistem operasi Anda.
 
-## Step 2: Bergabung ke Server
+## Langkah 2: Bergabung ke Server
 
-Untuk bergabung, anda bisa menggunakan kata kunci `cottonbuds`, atau klik sahaja [disini](https://discord.gg/cottonbuds) untuk langsung gabung ke server.
+Untuk bergabung, anda bisa menggunakan kata kunci `cottonbuds`, atau klik saja [disini](https://discord.gg/cottonbuds) untuk langsung gabung ke server.
 
 Jika anda gagal bergabung dengan server, itu berarti server ditutup buat sementara waktu. Silahkan tunggu sampai server dibuka kembali.
 
@@ -39,4 +39,4 @@ Jika anda gagal bergabung dengan server, itu berarti server ditutup buat sementa
    
    [![](https://i.postimg.cc/9FNPXTYD/join4.png)](https://postimg.cc/XpdBQrhW)
 
-Setelah selesai bergabung ke server, lanjut ke proses seterusnya --> [Cara Verifikasi Akun](verify.md)
+Setelah selesai bergabung ke server, lanjut ke tahap selanjutnya --> [Cara Verifikasi Akun](verify.md)
