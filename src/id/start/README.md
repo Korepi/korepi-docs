@@ -1,5 +1,5 @@
 ---
-title: Isi Kandungan
+title: Daftar isi
 icon: circle-info
 category:
   - Panduan
@@ -7,7 +7,7 @@ tag:
   - Buku Pemula
   - Fans
 
-author: rekiihype
+author: rekiihype, Ikuyo
 ---
 
 - [Cara Join Server](join.md)

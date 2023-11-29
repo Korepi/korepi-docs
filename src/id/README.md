@@ -10,7 +10,7 @@ bgImageStyle:
 heroText: Korepi
 tagline: Kami menawarkan produk Korepi yang mudah didapati, berkualitas tinggi, dan mudah digunakan!
 actions:
-  - text: Muat Turun
+  - text: Unduh
     icon: lightbulb
     link: ./demo/
     type: primary

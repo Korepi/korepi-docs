@@ -5,13 +5,13 @@ category:
   - Panduan
 tag:
   - Buku Pemula
-author: rekiihype
+author: rekiihype, Ikuyo
 order: 3
 ---
 
 Untuk mendapat akses Korepi, anda perlu mempunyai role `Fans`. Ada dua cara bagi anda untuk mendapatkan role `Fans`.
 
-## 1. Melalui Sponsor
+## 1. Dengan menjadi Sponsor
 
 Anda bisa mendapatkan role `Fans` secara instan jika anda membeli role `Sponsor`. Dengan ini, Anda tidak perlu melakukan sign-in harian untuk mendapatkan role `Fans`. Membeli role `Sponsor` juga memberikan banyak keuntungan. Untuk info lebih lanjut, Anda bisa mengunjungi [Cara Menjadi Sponsor](sponsor.md).
 
@@ -35,4 +35,4 @@ Melalui cara ini, anda bisa mendapatkan role `Fans` secara gratis tanpa membeli 
 
 [![](https://i.postimg.cc/Nf07wbmh/signin4.png)](https://postimg.cc/t7LV33BD)
 
-Tahniah, anda telah berjaya mendapatkan role `Fans`.
+Selamat, anda telah berhasil mendapatkan role `Fans`.
