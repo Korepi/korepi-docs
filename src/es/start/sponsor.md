@@ -27,7 +27,7 @@ Si ya has donado, puedes enviarle las pruebas a cualquiera de los moderadores di
 
 Si eres un sponsor y no tienes el rol de Fans, puedes saltarte el sign-in de 7 días y reclamar el rol instantáneamente
 
-### Paso 1: Abre un ticker
+### Paso 1: Abre un ticket
 
 Para hacer eso, necesitas ir al canal de #ticket-start (Solo visible cuando ya tienes Sponsor).
 
