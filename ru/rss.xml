@@ -6,11 +6,32 @@
     <link>https://korepi.com/ru/</link>
     <description>Помощь по Korepi</description>
     <language>ru-RU</language>
-    <pubDate>Wed, 29 Nov 2023 18:18:18 GMT</pubDate>
-    <lastBuildDate>Wed, 29 Nov 2023 18:18:18 GMT</lastBuildDate>
+    <pubDate>Wed, 29 Nov 2023 18:45:40 GMT</pubDate>
+    <lastBuildDate>Wed, 29 Nov 2023 18:45:40 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Гайд</category>
+    <item>
+      <title>Скачать</title>
+      <link>https://korepi.com/ru/start/download.html</link>
+      <guid>https://korepi.com/ru/start/download.html</guid>
+      <source url="https://korepi.com/ru/rss.xml">Скачать</source>
+      <description>Введение Добро пожаловать в наше сообщество! Чтобы пройти проверку на бота и получить роль &amp;quot;Newcomer&amp;quot;, выполните следующие шаги. Шаг 1: Присоединение к нашему серверу и получени...</description>
+      <category>Гайд</category>
+      <pubDate>Wed, 29 Nov 2023 18:44:10 GMT</pubDate>
+      <content:encoded><![CDATA[<h1> Скачивание</h1>
+<h2> Введение</h2>
+<p>Добро пожаловать в наше сообщество! Чтобы пройти проверку на бота и получить роль "Newcomer", выполните следующие шаги.</p>
+<h2> Шаг 1: Присоединение к нашему серверу и получение роли "Newcomer" и "Fans"</h2>
+<p>Если вы еще не на сервере, пожалуйста, прочтите предыдущий пост, где описано, как присоединиться к серверу и получить роль "Newcomer".</p>
+<h2> Шаг 2: Перейдите в канал "★⋅korepi-version-roles⋅★"</h2>
+<p>Найдите канал <code>★⋅korepi-version-roles⋅★</code> и получите роль F или V версии. Мы рекомендуем выбрать роль F.</p>
+<h2> Шаг 3: Скачайте необходимые ресурсы</h2>
+<p>После этого вам откроется доступ к соответствующему каналу для скачивания: <code>★⋅f-download⋅★</code> или <code>★⋅v-download⋅★</code>.</p>
+<h2> Шаг 4: Готово к участию!</h2>
+<p>В канале вы найдете ссылку на актуальную версию и пароль от архива. Удачи!</p>
+]]></content:encoded>
+    </item>
     <item>
       <title>Спонсорство</title>
       <link>https://korepi.com/ru/start/sponsor.html</link>
@@ -94,6 +115,9 @@
 </li>
 <li>
 <p><a href="/ru/start/sponsor.html" target="blank">Становление спонсором</a>: Информация о том, как поддержать нас и стать спонсором.</p>
+</li>
+<li>
+<p><a href="/ru/start/download.html" target="blank">Скачивание</a>: Информация о том, как поддержать нас и стать спонсором.</p>
 </li>
 </ul>
 ]]></content:encoded>
