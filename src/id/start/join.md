@@ -1,11 +1,11 @@
 ---
 title: Cara Join Server
-icon: circle-info
+icon: server
 category:
   - Panduan
 tag:
   - Buku Pemula
-author: rekiihype. Ikuyo
+author: rekiihype, Ikuyo
 order: 1
 ---
 

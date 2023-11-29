@@ -1,6 +1,6 @@
 ---
 title: Cara Verifikasi Akun
-icon: circle-info
+icon: lock
 category:
   - Panduan
 tag:
