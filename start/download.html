@@ -11,8 +11,8 @@
     const anchor = hash.substring(1);
 
     const localeConfig = {"0":["/en/",["en-US","en-UK","en"]],"1":["/zh/",["zh-CN","zh-TW","zh"]],"2":["/ru/",["ru-RU","ru-KZ","ru-BY","ru-UA","ru-MD","ru-LV","tt-RU","ru"]],"3":["/id/",["id-ID","id"]],"4":["/es/",["es-ES","es"]],"/en/":["en-US"],"/zh/":["zh-CN"],"/ru/":["ru-RU"],"/id/":["id-ID"],"/es/":["es-ES"]};
-    const availableLocales = ["/ru/"];
-    const defaultLocale = availableLocales.pop();
+    const availableLocales = ["/en/","/id/","/es/","/ru/","/zh/"];
+    const defaultLocale = "/en/";
     const defaultBehavior = "defaultLocale"
 
     let matchedLocalePath = null;

@@ -6,8 +6,8 @@
     <link>https://korepi.com/ru/</link>
     <description>Помощь по Korepi</description>
     <language>ru-RU</language>
-    <pubDate>Thu, 30 Nov 2023 10:00:45 GMT</pubDate>
-    <lastBuildDate>Thu, 30 Nov 2023 10:00:45 GMT</lastBuildDate>
+    <pubDate>Thu, 30 Nov 2023 11:02:47 GMT</pubDate>
+    <lastBuildDate>Thu, 30 Nov 2023 11:02:47 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Гайд</category>
@@ -16,15 +16,15 @@
       <link>https://korepi.com/ru/start/download.html</link>
       <guid>https://korepi.com/ru/start/download.html</guid>
       <source url="https://korepi.com/ru/rss.xml">Скачать</source>
-      <description>Введение Добро пожаловать в наше сообщество! Чтобы пройти проверку на бота и получить роль &amp;quot;Newcomer&amp;quot;, выполните следующие шаги. Шаг 1: Присоединение к нашему серверу и получени...</description>
+      <description>Введение Добро пожаловать в наше сообщество! Чтобы пройти проверку на бота и получить роль Newcomer, выполните следующие шаги. Шаг 1: Присоединение к нашему серверу и получение ...</description>
       <category>Гайд</category>
       <pubDate>Wed, 29 Nov 2023 18:44:10 GMT</pubDate>
       <content:encoded><![CDATA[<h1> Скачивание</h1>
 <h2> Введение</h2>
-<p>Добро пожаловать в наше сообщество! Чтобы пройти проверку на бота и получить роль "Newcomer", выполните следующие шаги.</p>
-<h2> Шаг 1: Присоединение к нашему серверу и получение роли "Newcomer" и "Fans"</h2>
-<p>Если вы еще не на сервере, пожалуйста, прочтите предыдущий пост, где описано, как присоединиться к серверу и получить роль "Newcomer".</p>
-<h2> Шаг 2: Перейдите в канал "★⋅korepi-version-roles⋅★"</h2>
+<p>Добро пожаловать в наше сообщество! Чтобы пройти проверку на бота и получить роль <code>Newcomer</code>, выполните следующие шаги.</p>
+<h2> Шаг 1: Присоединение к нашему серверу и получение роли <code>Newcomer</code> и <code>Fans</code></h2>
+<p>Если вы еще не на сервере, пожалуйста, прочтите предыдущий пост, где описано, как присоединиться к серверу и получить роль <code>Newcomer</code>.</p>
+<h2> Шаг 2: Перейдите в канал <code>★⋅korepi-version-roles⋅★</code></h2>
 <p>Найдите канал <code>★⋅korepi-version-roles⋅★</code> и получите роль F или V версии. Мы рекомендуем выбрать роль F.</p>
 <h2> Шаг 3: Скачайте необходимые ресурсы</h2>
 <p>После этого вам откроется доступ к соответствующему каналу для скачивания: <code>★⋅f-download⋅★</code> или <code>★⋅v-download⋅★</code>.</p>
@@ -93,16 +93,14 @@
 ]]></content:encoded>
     </item>
     <item>
-      <title>Начало</title>
+      <title>Каталог</title>
       <link>https://korepi.com/ru/start/</link>
       <guid>https://korepi.com/ru/start/</guid>
-      <source url="https://korepi.com/ru/rss.xml">Начало</source>
-      <description>Добро пожаловать в раздел &amp;quot;Начало&amp;quot;! Здесь вы найдете полезную информацию о том, как начать использовать наш Продукт. Разделы ниже помогут вам ознакомиться с основами и получить ...</description>
+      <source url="https://korepi.com/ru/rss.xml">Каталог</source>
+      <description>КаталогПрисоединение к серверу (join.md): Как присоединиться к нашему серверу и начать играть.; Верификация (verify.md): Процесс верификации для обеспечения безопасности на се...</description>
       <category>Гайд</category>
       <pubDate>Fri, 24 Nov 2023 14:31:46 GMT</pubDate>
-      <content:encoded><![CDATA[<h1> Начало</h1>
-<p>Добро пожаловать в раздел "Начало"! Здесь вы найдете полезную информацию о том, как начать использовать наш Продукт. Разделы ниже помогут вам ознакомиться с основами и получить доступ к различным возможностям.</p>
-<h2> Каталог</h2>
+      <content:encoded><![CDATA[<h2> Каталог</h2>
 <ul>
 <li>
 <p><a href="/ru/start/join.html" target="blank">Присоединение к серверу</a>: Как присоединиться к нашему серверу и начать играть.</p>

@@ -6,11 +6,32 @@
     <link>https://korepi.com/id/</link>
     <description>Pertolongan Korepi</description>
     <language>id-ID</language>
-    <pubDate>Thu, 30 Nov 2023 10:00:45 GMT</pubDate>
-    <lastBuildDate>Thu, 30 Nov 2023 10:00:45 GMT</lastBuildDate>
+    <pubDate>Thu, 30 Nov 2023 11:02:47 GMT</pubDate>
+    <lastBuildDate>Thu, 30 Nov 2023 11:02:47 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Panduan</category>
+    <item>
+      <title>Unduh</title>
+      <link>https://korepi.com/id/start/download.html</link>
+      <guid>https://korepi.com/id/start/download.html</guid>
+      <source url="https://korepi.com/id/rss.xml">Unduh</source>
+      <description>Pengantar Selamat datang di komunitas kami! Untuk lulus pemeriksaan bot dan mendapatkan peran Newcomer, ikuti langkah-langkah berikut. Langkah 1: Bergabunglah dengan server kami...</description>
+      <category>Panduan</category>
+      <pubDate>Thu, 30 Nov 2023 10:24:26 GMT</pubDate>
+      <content:encoded><![CDATA[<h1> Unduh</h1>
+<h2> Pengantar</h2>
+<p>Selamat datang di komunitas kami! Untuk lulus pemeriksaan bot dan mendapatkan peran <code>Newcomer</code>, ikuti langkah-langkah berikut.</p>
+<h2> Langkah 1: Bergabunglah dengan server kami dan dapatkan peran <code>Newcomer</code> dan <code>Fans</code></h2>
+<p>Jika Anda belum bergabung dengan server, harap baca pos verifikasi, yang menjelaskan cara bergabung dengan server dan mendapatkan peran <code>Newcomer</code> dan <code>Fans</code>.</p>
+<h2> Langkah 2: Pergi ke saluran <code>★⋅korepi-version-roles⋅★</code></h2>
+<p>Temukan saluran <code>★⋅korepi-version-roles⋅★</code> dan pilih peran versi F atau V. Kami merekomendasikan memilih peran F.</p>
+<h2> Langkah 3: Unduh sumber daya yang diperlukan</h2>
+<p>Setelah itu, Anda akan memiliki akses ke saluran unduhan yang sesuai: <code>★⋅f-download⋅★</code> atau <code>★⋅v-download⋅★</code>.</p>
+<h2> Langkah 4: Siap!</h2>
+<p>Di saluran, Anda akan menemukan tautan ke versi terbaru dan kata sandi dari arsip. Semoga sukses!</p>
+]]></content:encoded>
+    </item>
     <item>
       <title>Sponsor Exclusive Fitur</title>
       <link>https://korepi.com/id/start/sponsor-exclusive(BACKUP).html</link>
@@ -106,11 +127,11 @@
 ]]></content:encoded>
     </item>
     <item>
-      <title>Daftar isi</title>
+      <title>Katalog</title>
       <link>https://korepi.com/id/start/</link>
       <guid>https://korepi.com/id/start/</guid>
-      <source url="https://korepi.com/id/rss.xml">Daftar isi</source>
-      <description>Cara Join Server (join.md); Cara Verifikasi Akun (verify.md); Cara Mendapatkan Role Fans (sign-in.md); Cara Sponsor (sponsor.md);</description>
+      <source url="https://korepi.com/id/rss.xml">Katalog</source>
+      <description>Cara Join Server (join.md); Cara Verifikasi Akun (verify.md); Cara Mendapatkan Role Fans (sign-in.md); Cara Sponsor (sponsor.md); Cara Download (download.md);</description>
       <category>Panduan</category>
       <pubDate>Sun, 26 Nov 2023 15:29:27 GMT</pubDate>
       <content:encoded><![CDATA[<ul>
@@ -125,6 +146,9 @@
 </li>
 <li>
 <p><a href="/id/start/sponsor.html" target="blank">Cara Sponsor</a></p>
+</li>
+<li>
+<p><a href="/id/start/download.html" target="blank">Cara Download</a></p>
 </li>
 </ul>
 ]]></content:encoded>

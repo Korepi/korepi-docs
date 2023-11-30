@@ -6,11 +6,32 @@
     <link>https://korepi.com/zh/</link>
     <description>Korepi 中文文档介绍</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 30 Nov 2023 10:00:45 GMT</pubDate>
-    <lastBuildDate>Thu, 30 Nov 2023 10:00:45 GMT</lastBuildDate>
+    <pubDate>Thu, 30 Nov 2023 11:02:47 GMT</pubDate>
+    <lastBuildDate>Thu, 30 Nov 2023 11:02:47 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>指南</category>
+    <item>
+      <title>下载</title>
+      <link>https://korepi.com/zh/start/download.html</link>
+      <guid>https://korepi.com/zh/start/download.html</guid>
+      <source url="https://korepi.com/zh/rss.xml">下载</source>
+      <description>介绍 欢迎来到我们的社区！要通过机器人检查并获得Newcomer角色，请按照以下步骤进行。 步骤 1：加入我们的服务器并获得Newcomer和`Fans角色 如果您还没有加入服务器，请阅读验证帖子，了解如何加入服务器并获得Newcomer和Fans角色。 步骤 2：进入频道 ★⋅korepi-version-roles⋅★ 找到频道 ★⋅korepi-...</description>
+      <category>指南</category>
+      <pubDate>Thu, 30 Nov 2023 10:24:26 GMT</pubDate>
+      <content:encoded><![CDATA[<h1> 下载</h1>
+<h2> 介绍</h2>
+<p>欢迎来到我们的社区！要通过机器人检查并获得<code>Newcomer</code>角色，请按照以下步骤进行。</p>
+<h2> 步骤 1：加入我们的服务器并获得<code>Newcomer</code>和<code>Fans</code>角色</h2>
+<p>如果您还没有加入服务器，请阅读验证帖子，了解如何加入服务器并获得<code>Newcomer</code>和<code>Fans</code>角色。</p>
+<h2> 步骤 2：进入频道 <code>★⋅korepi-version-roles⋅★</code></h2>
+<p>找到频道 <code>★⋅korepi-version-roles⋅★</code> 并选择 F 或 V 版本的角色。我们建议选择 V 角色。</p>
+<h2> 步骤 3：下载必要的资源</h2>
+<p>之后，您将获得访问相应下载频道的权限：<code>★⋅f-download⋅★</code> 或 <code>★⋅v-download⋅★</code>。</p>
+<h2> 步骤 4：准备好！</h2>
+<p>在频道中，您将找到指向当前版本和存档密码的链接。祝好运！</p>
+]]></content:encoded>
+    </item>
     <item>
       <title>如何捐赠及快速获取身份</title>
       <link>https://korepi.com/zh/start/donate.html</link>
@@ -89,7 +110,7 @@
       <link>https://korepi.com/zh/start/</link>
       <guid>https://korepi.com/zh/start/</guid>
       <source url="https://korepi.com/zh/rss.xml">开始</source>
-      <description>目录加入服务器 (join.md); 验证 (verify.md); 获取 Fans 角色 (sign-in.md); 捐赠 (donate.md);</description>
+      <description>目录加入服务器 (join.md); 验证 (verify.md); 获取 Fans 角色 (sign-in.md); 捐赠 (donate.md); 下载 (download.md);</description>
       <category>指南</category>
       <pubDate>Fri, 24 Nov 2023 14:31:46 GMT</pubDate>
       <content:encoded><![CDATA[<h2> 目录</h2>
@@ -105,6 +126,9 @@
 </li>
 <li>
 <p><a href="/zh/start/donate.html" target="blank">捐赠</a></p>
+</li>
+<li>
+<p><a href="/zh/start/download.html" target="blank">下载</a></p>
 </li>
 </ul>
 ]]></content:encoded>

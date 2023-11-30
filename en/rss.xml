@@ -6,11 +6,32 @@
     <link>https://korepi.com/en/</link>
     <description>Help on Korepi</description>
     <language>en-US</language>
-    <pubDate>Thu, 30 Nov 2023 10:00:45 GMT</pubDate>
-    <lastBuildDate>Thu, 30 Nov 2023 10:00:45 GMT</lastBuildDate>
+    <pubDate>Thu, 30 Nov 2023 11:02:47 GMT</pubDate>
+    <lastBuildDate>Thu, 30 Nov 2023 11:02:47 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Guide</category>
+    <item>
+      <title>Download</title>
+      <link>https://korepi.com/en/start/download.html</link>
+      <guid>https://korepi.com/en/start/download.html</guid>
+      <source url="https://korepi.com/en/rss.xml">Download</source>
+      <description>Introduction Welcome to our community! To pass the bot check and receive the Newcomer role, follow these steps. Step 1: Join our server and obtain the Newcomer and Fans roles If...</description>
+      <category>Guide</category>
+      <pubDate>Thu, 30 Nov 2023 10:24:26 GMT</pubDate>
+      <content:encoded><![CDATA[<h1> Download</h1>
+<h2> Introduction</h2>
+<p>Welcome to our community! To pass the bot check and receive the <code>Newcomer</code> role, follow these steps.</p>
+<h2> Step 1: Join our server and obtain the <code>Newcomer</code> and <code>Fans</code> roles</h2>
+<p>If you haven't joined the server yet, please read the verification post, which describes how to join the server and obtain the <code>Newcomer</code> and <code>Fans</code> roles.</p>
+<h2> Step 2: Go to the channel <code>★⋅korepi-version-roles⋅★</code></h2>
+<p>Locate the channel <code>★⋅korepi-version-roles⋅★</code> and choose either the F or V version role. We recommend selecting the F role.</p>
+<h2> Step 3: Download the necessary resources</h2>
+<p>Once you've done that, you will gain access to the corresponding download channel: <code>★⋅f-download⋅★</code> or <code>★⋅v-download⋅★</code>.</p>
+<h2> Step 4: Ready!</h2>
+<p>In the channel, you will find a link to the current version and the password for the archive. Good luck!</p>
+]]></content:encoded>
+    </item>
     <item>
       <title>Becoming a Sponsor</title>
       <link>https://korepi.com/en/start/sponsor.html</link>
@@ -55,11 +76,11 @@
 ]]></content:encoded>
     </item>
     <item>
-      <title>Start</title>
+      <title>Catalog</title>
       <link>https://korepi.com/en/start/</link>
       <guid>https://korepi.com/en/start/</guid>
-      <source url="https://korepi.com/en/rss.xml">Start</source>
-      <description>CatalogJoining the Server (join.md); Verification (verify.md); Obtaining the Fans Role (sign-in.md); Becoming a Sponsor (sponsor.md);</description>
+      <source url="https://korepi.com/en/rss.xml">Catalog</source>
+      <description>CatalogJoining the Server (join.md); Verification (verify.md); Obtaining the Fans Role (sign-in.md); Becoming a Sponsor (sponsor.md); Download (download.md);</description>
       <category>Guide</category>
       <pubDate>Fri, 24 Nov 2023 14:31:46 GMT</pubDate>
       <content:encoded><![CDATA[<h2> Catalog</h2>
@@ -75,6 +96,9 @@
 </li>
 <li>
 <p><a href="/en/start/sponsor.html" target="blank">Becoming a Sponsor</a></p>
+</li>
+<li>
+<p><a href="/en/start/download.html" target="blank">Download</a></p>
 </li>
 </ul>
 ]]></content:encoded>
