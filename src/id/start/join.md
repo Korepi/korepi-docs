@@ -5,7 +5,7 @@ category:
   - Panduan
 tag:
   - Buku Pemula
-author: rekiihype. Ikuyo
+author: rekiihype, Ikuyo
 order: 1
 ---
 
