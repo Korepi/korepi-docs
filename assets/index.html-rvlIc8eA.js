@@ -1,1 +1,0 @@
-import{_ as e}from"./plugin-vue_export-helper-x3n3nnut.js";import{o,c as t,a as n}from"./app-lSEH3mI_.js";const a={},c=n("p",null,"Esta pagina aun esta bajo construcción. Vuelve más tarde, o contribuye añadiendo contenido.",-1),s=[c];function r(_,i){return o(),t("div",null,s)}const u=e(a,[["render",r],["__file","index.html.vue"]]);export{u as default};
