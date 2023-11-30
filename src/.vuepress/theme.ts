@@ -100,6 +100,21 @@ export default hopeTheme({
         editLink: "Edita esta pagina en GitHub",
       },
     },
+    "/vi/": {
+      // navbar
+      navbar: viNavbar,
+
+      // sidebar
+      sidebar: viSidebar,
+
+      footer: "Cung cấp trải nghiệm chơi game tốt nhất cho người chơi Genshin Impact trên PC.",
+
+      displayFooter: true,
+
+      metaLocales: {
+        editLink: "Chỉnh sửa trang này trên GitHub",
+      },
+    },
   },
 
   // encrypt: {
