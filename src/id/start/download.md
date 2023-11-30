@@ -1,5 +1,6 @@
+---
 title: Unduh
-icon: unduh
+icon: download
 category:
   - Panduan
 tag:

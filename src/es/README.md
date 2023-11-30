@@ -12,7 +12,7 @@ tagline: Ofrecemos un producto asequible, de alta calidad y fácil de usar de Ko
 actions:
   - text: Descargar
     icon: lightbulb
-    link: ./demo/
+    link: ./start/download
     type: primary
   - text: Como Empezar
     link: ./start/

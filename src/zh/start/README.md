@@ -17,3 +17,6 @@ author: QweRez
 - [获取 Fans 角色](sign-in.md)
 
 - [捐赠](donate.md)
+
+- [下载](download.md)
+

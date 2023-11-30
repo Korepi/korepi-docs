@@ -12,7 +12,7 @@ tagline: Мы предлагаем доступный, высококачест�
 actions:
   - text: Скачать
     icon: lightbulb
-    link: ./demo/
+    link: ./start/download
     type: primary
   - text: Быстрый старт
     link: ./start/

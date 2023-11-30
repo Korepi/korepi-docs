@@ -12,7 +12,7 @@ tagline: We offer an affordable, high-quality, and easy-to-use Korepi product!
 actions:
   - text: Download
     icon: lightbulb
-    link: ./demo/
+    link: ./start/download
     type: primary
   - text: Quick Start
     link: ./start/

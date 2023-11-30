@@ -17,3 +17,5 @@ author: Schvis
 - [Obteniendo el rol de Fans](sign-in.md)
 
 - [Convertirse en Sponsor](sponsor.md)
+
+- [Descargar](download.md)

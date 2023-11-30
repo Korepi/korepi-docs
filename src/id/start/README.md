@@ -1,5 +1,5 @@
 ---
-title: Daftar isi
+title: Katalog
 icon: circle-info
 category:
   - Panduan
@@ -17,3 +17,5 @@ author: rekiihype, Ikuyo
 - [Cara Mendapatkan Role Fans](sign-in.md)
 
 - [Cara Sponsor](sponsor.md)
+
+- [Cara Download](download.md)

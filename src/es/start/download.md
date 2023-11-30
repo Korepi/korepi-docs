@@ -1,18 +1,18 @@
 ---
-title: Descargar
-icon: descargar
+title: Cargargar
+icon: download
 category:
   - Guía
 tag:
   - Inicio
-  - Descargar
+  - Cargar
 author:
   name: "QweRez"
   url: "https://github.com/qwerezon/"
 order: 5
 ---
 
-# Descargar
+# Cargar
 
 ## Introducción
 
@@ -26,10 +26,11 @@ Si aún no te has unido al servidor, por favor, lee el mensaje de verificación,
 
 Localiza el canal `★⋅korepi-version-roles⋅★` y elige el rol de versión F o V. Recomendamos seleccionar el rol F.
 
-## Paso 3: Descarga los recursos necesarios
+## Paso 3: Cargar los recursos necesarios
 
-Después de hacer eso, tendrás acceso al canal de descarga correspondiente: `★⋅f-download⋅★` o `★⋅v-download⋅★`.
+Después de hacer eso, tendrás acceso al canal de cargar correspondiente: `★⋅f-download⋅★` o `★⋅v-download⋅★`.
 
 ## Paso 4: ¡Listo!
 
 En el canal encontrarás un enlace a la versión actual y la contraseña del archivo. ¡Buena suerte!
+

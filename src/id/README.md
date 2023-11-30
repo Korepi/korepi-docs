@@ -11,8 +11,8 @@ heroText: Korepi
 tagline: Kami menawarkan produk Korepi yang mudah didapati, berkualitas tinggi, dan mudah digunakan!
 actions:
   - text: Unduh
-    icon: lightbulb
-    link: ./demo/
+    icon: download
+    link: ./start/download
     type: primary
   - text: Buku Pemula
     link: ./start/

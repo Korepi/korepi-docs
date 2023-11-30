@@ -1,5 +1,6 @@
+---
 title: 下载
-icon: 下载
+icon: download
 category:
   - 指南
 tag:
@@ -23,7 +24,7 @@ order: 5
 
 ## 步骤 2：进入频道 `★⋅korepi-version-roles⋅★`
 
-找到频道 `★⋅korepi-version-roles⋅★` 并选择 F 或 V 版本的角色。我们建议选择 F 角色。
+找到频道 `★⋅korepi-version-roles⋅★` 并选择 F 或 V 版本的角色。我们建议选择 V 角色。
 
 ## 步骤 3：下载必要的资源
 

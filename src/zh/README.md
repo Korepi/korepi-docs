@@ -11,8 +11,8 @@ heroText: Korepi
 tagline: 我们提供价格适中、高质量且易于使用的 Korepi 产品！
 actions:
   - text: 下载
-    icon: lightbulb
-    link: ./demo/
+    icon: download
+    link: ./start/download
     type: primary
   - text: 快速开始
     link: ./start/
