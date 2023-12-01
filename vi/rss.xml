@@ -6,8 +6,8 @@
     <link>https://korepi.com/vi/</link>
     <description>Trợ giúp về Korepi</description>
     <language>vi-VN</language>
-    <pubDate>Fri, 01 Dec 2023 03:58:21 GMT</pubDate>
-    <lastBuildDate>Fri, 01 Dec 2023 03:58:21 GMT</lastBuildDate>
+    <pubDate>Fri, 01 Dec 2023 16:22:46 GMT</pubDate>
+    <lastBuildDate>Fri, 01 Dec 2023 16:22:46 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Hướng dẫn</category>
@@ -68,11 +68,11 @@
       <link>https://korepi.com/vi/start/download.html</link>
       <guid>https://korepi.com/vi/start/download.html</guid>
       <source url="https://korepi.com/vi/rss.xml">Tải xuống</source>
-      <description>Introduction Chào mừng đến với cộng đồng của chúng tôi! Để tải xuống công cụ này, hãy làm theo các bước sau. Bước 1: Tham gia vào server và lấy Role &amp;quot;Newcomer&amp;quot;, &amp;quot;Fans&amp;quot; nếu bạn c...</description>
+      <description>Giới thiệu Chào mừng đến với cộng đồng của chúng tôi! Để tải xuống công cụ này, hãy làm theo các bước sau. Bước 1: Tham gia vào server và lấy Role &amp;quot;Newcomer&amp;quot;, &amp;quot;Fans&amp;quot; nếu bạn chư...</description>
       <category>Hướng dẫn</category>
       <pubDate>Thu, 30 Nov 2023 15:50:40 GMT</pubDate>
       <content:encoded><![CDATA[<h1> Tải xuống</h1>
-<h2> Introduction</h2>
+<h2> Giới thiệu</h2>
 <p>Chào mừng đến với cộng đồng của chúng tôi! Để tải xuống công cụ này, hãy làm theo các bước sau.</p>
 <h2> Bước 1: Tham gia vào server và lấy Role "Newcomer", "Fans" nếu bạn chưa có</h2>
 <p>Nếu bạn chưa có mặt trên máy chủ, vui lòng đọc những bài trước đó, nơi nó được mô tả cách tham gia máy chủ và lấy Role <strong>Newcomer</strong> và <strong>Fans</strong>.</p>
@@ -81,7 +81,7 @@
 <h2> Bước 3: Tải các tài nguyên cần thiết</h2>
 <p>Một khi bạn đã làm được điều đó, bạn sẽ có quyền truy cập vào kênh tải xuống tương ứng: <code>★⋅f-download⋅★</code> hoặc <code>★⋅v-download⋅★</code>.</p>
 <h2> Bước 4: Sẵn sàng!</h2>
-<p>Ở trong kênh này, bạn sẽ tìm thấy link dẫn đến phiên bản hiện tại và mật khẩu của tệp tin. Chúc may mắn</p>
+<p>Ở trong kênh này, bạn sẽ tìm thấy link dẫn đến phiên bản hiện tại và mật khẩu của tệp tin. Chúc may mắn!</p>
 ]]></content:encoded>
     </item>
     <item>
@@ -184,8 +184,7 @@ Vào ngày thứ 7 khi bạn đã điểm danh thành công, bạn sẽ được
 <p>Nhấn vào nút <strong>Verify</strong> như hình bên dưới.</p>
 <figure><figcaption></figcaption></figure>
 <p>Bot sẽ gửi cho bạn một đường link mà bạn cần làm theo và xác nhận rằng bạn không phải là Robot</p>
-<h2> Step 4: After receiving the "Newcomer" role</h2>
-<p>After successful verification, the bot will assign you the "Newcomer" role. With this role, you will not be kicked by the bot without valid reasons. Now proceed to the next step.</p>
+<h2> Step 4: Sau khi nhận được Role "Newcomer"</h2>
 <p>Sau khi đã xác thực thành công, bot sẽ tự động gắn cho bạn Role "Newcomer". Với Role này, bạn sẽ không bị đá ra khỏi máy chủ mà không có bất cứ lí do nào. Giờ hãy đến với bước tiếp theo.</p>
 ]]></content:encoded>
     </item>
