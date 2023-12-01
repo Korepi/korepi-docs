@@ -31,8 +31,6 @@ Nhấn vào nút **Verify** như hình bên dưới.
 
 Bot sẽ gửi cho bạn một đường link mà bạn cần làm theo và xác nhận rằng bạn không phải là Robot
 
-## Step 4: After receiving the "Newcomer" role
-
-After successful verification, the bot will assign you the "Newcomer" role. With this role, you will not be kicked by the bot without valid reasons. Now proceed to the next step.
+## Step 4: Sau khi nhận được Role "Newcomer"
 
 Sau khi đã xác thực thành công, bot sẽ tự động gắn cho bạn Role "Newcomer". Với Role này, bạn sẽ không bị đá ra khỏi máy chủ mà không có bất cứ lí do nào. Giờ hãy đến với bước tiếp theo.
