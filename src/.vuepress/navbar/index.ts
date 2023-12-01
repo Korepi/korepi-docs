@@ -3,3 +3,4 @@ export * from "./zh.js";
 export * from "./ru.js";
 export * from "./id.js";
 export * from "./es.js";
+export * from "./vi.js";
