@@ -14,7 +14,7 @@ order: 5
 
 # Tải xuống
 
-## Introduction
+## Giới thiệu
 
 Chào mừng đến với cộng đồng của chúng tôi! Để tải xuống công cụ này, hãy làm theo các bước sau.
 
@@ -32,4 +32,4 @@ Một khi bạn đã làm được điều đó, bạn sẽ có quyền truy c�
 
 ## Bước 4: Sẵn sàng!
 
-Ở trong kênh này, bạn sẽ tìm thấy link dẫn đến phiên bản hiện tại và mật khẩu của tệp tin. Chúc may mắn
+Ở trong kênh này, bạn sẽ tìm thấy link dẫn đến phiên bản hiện tại và mật khẩu của tệp tin. Chúc may mắn!
