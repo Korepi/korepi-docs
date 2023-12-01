@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="https://korepi.com/vi/rss.xsl"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <atom:link href="https://korepi.com/vi/rss.xml" rel="self" type="application/rss+xml"/>
+    <title>Korepi</title>
+    <link>https://korepi.com/vi/</link>
+    <description>Trợ giúp về Korepi</description>
+    <language>vi-VN</language>
+    <pubDate>Fri, 01 Dec 2023 03:58:21 GMT</pubDate>
+    <lastBuildDate>Fri, 01 Dec 2023 03:58:21 GMT</lastBuildDate>
+    <generator>vuepress-plugin-feed2</generator>
+    <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+    <category>Hướng dẫn</category>
+    <category>Guide</category>
+    <item>
+      <title>Hướng dẫn</title>
+      <link>https://korepi.com/vi/guide/</link>
+      <guid>https://korepi.com/vi/guide/</guid>
+      <source url="https://korepi.com/vi/rss.xml">Hướng dẫn</source>
+      <description>This page is still under construction. Check back later, or contribute to filling in the content.</description>
+      <category>Hướng dẫn</category>
+      <pubDate>Thu, 30 Nov 2023 15:50:40 GMT</pubDate>
+      <content:encoded><![CDATA[<p>This page is still under construction. Check back later, or contribute to filling in the content.</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>None</title>
+      <link>https://korepi.com/vi/guide/page.html</link>
+      <guid>https://korepi.com/vi/guide/page.html</guid>
+      <source url="https://korepi.com/vi/rss.xml">None</source>
+      <description>Introduction This section is empty.</description>
+      <category>Guide</category>
+      <pubDate>Thu, 30 Nov 2023 15:50:40 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Introduction</h2>
+<p>This section is empty.</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Bắt đầu</title>
+      <link>https://korepi.com/vi/start/</link>
+      <guid>https://korepi.com/vi/start/</guid>
+      <source url="https://korepi.com/vi/rss.xml">Bắt đầu</source>
+      <description>Catalog Tham gia vào máy chủ (join.md); Xác thực (verify.md); Nhận Role Fan (sign-in.md); Trở thành nhà tài trợ (Sponsor) (sponsor.md); Tải xuống (download.md);</description>
+      <category>Hướng dẫn</category>
+      <pubDate>Thu, 30 Nov 2023 15:50:40 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Catalog</h2>
+<ul>
+<li>
+<p><a href="/vi/start/join.html" target="blank">Tham gia vào máy chủ</a></p>
+</li>
+<li>
+<p><a href="/vi/start/verify.html" target="blank">Xác thực</a></p>
+</li>
+<li>
+<p><a href="/vi/start/sign-in.html" target="blank">Nhận Role Fan</a></p>
+</li>
+<li>
+<p><a href="/vi/start/sponsor.html" target="blank">Trở thành nhà tài trợ (Sponsor)</a></p>
+</li>
+<li>
+<p><a href="/vi/start/download.html" target="blank">Tải xuống</a></p>
+</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Tải xuống</title>
+      <link>https://korepi.com/vi/start/download.html</link>
+      <guid>https://korepi.com/vi/start/download.html</guid>
+      <source url="https://korepi.com/vi/rss.xml">Tải xuống</source>
+      <description>Introduction Chào mừng đến với cộng đồng của chúng tôi! Để tải xuống công cụ này, hãy làm theo các bước sau. Bước 1: Tham gia vào server và lấy Role &amp;quot;Newcomer&amp;quot;, &amp;quot;Fans&amp;quot; nếu bạn c...</description>
+      <category>Hướng dẫn</category>
+      <pubDate>Thu, 30 Nov 2023 15:50:40 GMT</pubDate>
+      <content:encoded><![CDATA[<h1> Tải xuống</h1>
+<h2> Introduction</h2>
+<p>Chào mừng đến với cộng đồng của chúng tôi! Để tải xuống công cụ này, hãy làm theo các bước sau.</p>
+<h2> Bước 1: Tham gia vào server và lấy Role "Newcomer", "Fans" nếu bạn chưa có</h2>
+<p>Nếu bạn chưa có mặt trên máy chủ, vui lòng đọc những bài trước đó, nơi nó được mô tả cách tham gia máy chủ và lấy Role <strong>Newcomer</strong> và <strong>Fans</strong>.</p>
+<h2> Bước 2: Tìm đến kênh <code>★⋅korepi-version-roles⋅★</code></h2>
+<p>Tìm đến kênh <code>★⋅korepi-version-roles⋅★</code> và chọn một trong hai giữa F và V. Chúng tôi khuyến khích bạn lựa chọn Role <strong>F</strong></p>
+<h2> Bước 3: Tải các tài nguyên cần thiết</h2>
+<p>Một khi bạn đã làm được điều đó, bạn sẽ có quyền truy cập vào kênh tải xuống tương ứng: <code>★⋅f-download⋅★</code> hoặc <code>★⋅v-download⋅★</code>.</p>
+<h2> Bước 4: Sẵn sàng!</h2>
+<p>Ở trong kênh này, bạn sẽ tìm thấy link dẫn đến phiên bản hiện tại và mật khẩu của tệp tin. Chúc may mắn</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Tham gia vào Server</title>
+      <link>https://korepi.com/vi/start/join.html</link>
+      <guid>https://korepi.com/vi/start/join.html</guid>
+      <source url="https://korepi.com/vi/rss.xml">Tham gia vào Server</source>
+      <description>Giới thiệu Chào mừng đến với cộng đồng của chúng tôi! Để tham gia vào máy chủ Discord và bắt đầu sử dụng Korepi, hãy làm theo các bước sau. Bước 1: Tạo tài khoản Discord nếu bạn...</description>
+      <category>Hướng dẫn</category>
+      <pubDate>Thu, 30 Nov 2023 15:50:40 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Giới thiệu</h2>
+<p>Chào mừng đến với cộng đồng của chúng tôi! Để tham gia vào máy chủ Discord và bắt đầu sử dụng Korepi, hãy làm theo các bước sau.</p>
+<h2> Bước 1: Tạo tài khoản Discord nếu bạn chưa có</h2>
+<p>Nếu bạn chưa có tài khoản Disord, hãy bắt đầu bằng cách tạo một tài khoản mới. Truy cập [trang Discord chính thức] (https://discord.com/) và làm theo hướng dẫn đăng ký.</p>
+<h2> Bước 2: Tải và cài đặt Discord</h2>
+<p>Sau khi tạo tài khoản, hãy tải <a href="https://discord.com/download" target="_blank" rel="noopener noreferrer">Discord</a> cho hệ điều hành của bạn. Cài đặt Discord theo hướng dẫn trên màn hình.</p>
+<h2> Bước 3: Tham gia Server</h2>
+<ol>
+<li>Sao chép <a href="https://discord.gg/cottonbuds" target="_blank" rel="noopener noreferrer">link mời</a> sau</li>
+<li>Trong client Discord, nhấp vào nút "+" ở góc dưới bên trái</li>
+<li>Chọn  "Tham gia máy chủ"</li>
+<li>Dán link mời vào ô trống và nhấn vào nút "Tham gia".</li>
+</ol>
+<p>Nếu link mời không tồn tại, có thể server đang tạm đóng. Vui lòng đợi cho tới khi chúng tôi mở lại. Giờ bạn có thể tiến hành bước tiếp theo.</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Điểm danh</title>
+      <link>https://korepi.com/vi/start/sign-in.html</link>
+      <guid>https://korepi.com/vi/start/sign-in.html</guid>
+      <source url="https://korepi.com/vi/rss.xml">Điểm danh</source>
+      <description>Giới thiệu Chào mừng đến với cộng đồng của chúng tôi! Để đăng kí và lấy được Role &amp;quot;Fans&amp;quot;, hãy làm theo các bước sau. Bước 1: Tham gia vào server và lấy Role &amp;quot;Newcomer&amp;quot; nếu bạn c...</description>
+      <category>Hướng dẫn</category>
+      <pubDate>Thu, 30 Nov 2023 15:50:40 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Giới thiệu</h2>
+<p>Chào mừng đến với cộng đồng của chúng tôi! Để đăng kí và lấy được Role "Fans", hãy làm theo các bước sau.</p>
+<h2> Bước 1: Tham gia vào server và lấy Role "Newcomer" nếu bạn chưa có</h2>
+<p>Nếu bạn chưa có mặt trên máy chủ, vui lòng đọc những bài trước đó, nơi nó được mô tả cách tham gia máy chủ và lấy Role "Newcomer".</p>
+<h2> Bước 2: Tìm đến bot</h2>
+<p>Giờ bạn cần tìm đến bot với ảnh đại diện là một con ngỗng và viết tin nhắn trực tiếp cho nó (micah-sign-bot#0245)</p>
+<figure><figcaption></figcaption></figure>
+<h2> Bước 3: Điểm danh</h2>
+<p>Viết lệnh <code>/sign-in</code> và giải captcha.
+Lưu ý: nếu như bot không phải hồi với mã captcha bạn yêu cầu, có thể là bạn đã nhập sai. Hãy thử viết lại captcha.</p>
+<p>Sau khi nhập thành công, bot sẽ gửi cho bạn thông báo <code>"Consecutive &lt;days&gt; days"</code> như ảnh dưới
+</p>
+<h2> Bước 4: Sau khi nhận Role "Fans"</h2>
+<p>Như vậy bây giờ bạn cần nhập lệnh này hằng ngày trong vòng 7 ngày (mỗi 24 giờ).
+<strong>Lưu ý</strong> rằng nếu bạn chỉ cần trễ vài giờ, thì bot sẽ coi như bạn không điểm danh vào ngày hôm đó và bạn sẽ phải bắt lại từ đầu.
+Vào ngày thứ 7 khi bạn đã điểm danh thành công, bạn sẽ được nhận Role "Fans", và bạn có thể dừng điểm danh.</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Trở thành nhà tài trợ</title>
+      <link>https://korepi.com/vi/start/sponsor.html</link>
+      <guid>https://korepi.com/vi/start/sponsor.html</guid>
+      <source url="https://korepi.com/vi/rss.xml">Trở thành nhà tài trợ</source>
+      <description>How to become a Sponsor? To becoming a Sponsor, you need to donate atleast $5 or equivalent if you are using another currency. Where to donate? Once you already in the server, p...</description>
+      <category>Hướng dẫn</category>
+      <pubDate>Thu, 30 Nov 2023 15:50:40 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> How to become a Sponsor?</h2>
+<p>To becoming a Sponsor, you need to donate atleast $5 or equivalent if you are using another currency.</p>
+<h2> Where to donate?</h2>
+<p>Once you already in the server, please go to <a href="https://discord.com/channels/1069057220802781265/1097565269985071205" target="_blank" rel="noopener noreferrer">#sponsorship</a> channel. Choose one of the links you prefer to donate. Please make sure to screenshot the process as proof for the next step.</p>
+<h2> What to do after I done donated?</h2>
+<p>If you already donated, you can send your proof to any available moderators. Please make sure to provide screenshots or donation link as proof.</p>
+<figure><a href="https://postimg.cc/MnTYS5cN" target="_blank" rel="noopener noreferrer"><img src="https://i.postimg.cc/3xjf2b38/proof.png" alt="" tabindex="0" loading="lazy"></a><figcaption></figcaption></figure>
+<h2> (FOR NON-FANS) How to claim Fans role after donation?</h2>
+<p>If you are a Sponsor and do not have Fans role, you can skip the 7-days sign-in and claim the role instantly</p>
+<h3> Step 1: Open a ticket</h3>
+<p>To do that, you need to go to #ticket-start channel (only visible when you already have Sponsor).</p>
+<figure><a href="https://postimg.cc/dLD6D8jC" target="_blank" rel="noopener noreferrer"><img src="https://i.postimg.cc/NfkzJDyd/openticket1.png" alt="" tabindex="0" loading="lazy"></a><figcaption></figcaption></figure>
+<p>Once you click on 'open', you will see a new channel under the ticket channel.</p>
+<figure><a href="https://postimg.cc/sMhJ4s8D" target="_blank" rel="noopener noreferrer"><img src="https://i.postimg.cc/Vk7H1NWM/openticket2.png" alt="" tabindex="0" loading="lazy"></a><figcaption></figcaption></figure>
+<h3> Step 2: Answer short survey</h3>
+<p>Press the 'form link' button to answer the survey.</p>
+<figure><a href="https://postimg.cc/mzbN4Mrt" target="_blank" rel="noopener noreferrer"><img src="https://i.postimg.cc/qRKm8xVX/openticket4.png" alt="" tabindex="0" loading="lazy"></a><figcaption></figcaption></figure>
+<p>Once you are done with the survey, do not forget to press 'Submit' button.</p>
+<figure><a href="https://postimg.cc/GBnxM6wP" target="_blank" rel="noopener noreferrer"><img src="https://i.postimg.cc/GpHgp1Xf/openticket5.png" alt="" tabindex="0" loading="lazy"></a><figcaption></figcaption></figure>
+<p>After that, just wait patiently for the staffs to check your survey. Once you get your Fans role, then you are good to go.</p>
+]]></content:encoded>
+      <enclosure url="https://i.postimg.cc/3xjf2b38/proof.png" type="image/png"/>
+    </item>
+    <item>
+      <title>Xác thực</title>
+      <link>https://korepi.com/vi/start/verify.html</link>
+      <guid>https://korepi.com/vi/start/verify.html</guid>
+      <source url="https://korepi.com/vi/rss.xml">Xác thực</source>
+      <description>Giới thiệu Chào mừng đến với cộng đồng của chúng tôi! Để vượt qua quá trình xác minh bot và lấy Role &amp;quot;Newcomer&amp;quot;, hãy làm theo các bước sau. Bước 1: Tham gia vào server của chúng...</description>
+      <category>Hướng dẫn</category>
+      <pubDate>Thu, 30 Nov 2023 15:50:40 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Giới thiệu</h2>
+<p>Chào mừng đến với cộng đồng của chúng tôi! Để vượt qua quá trình xác minh bot và lấy Role "Newcomer", hãy làm theo các bước sau.</p>
+<h2> Bước 1: Tham gia vào server của chúng nếu như bạn chưa tham gia</h2>
+<p>Nếu bạn chưa có mặt trên máy chủ, vui lòng đọc <a href="/vi/start/join.html" target="blank">bài trước đó</a>, nơi nó được mô tả cách tham gia máy chủ.</p>
+<h2> Bước 2: Bạn đã ở trong server</h2>
+<p>Bây giờ bạn đang ở trên máy chủ, hãy chọn các kênh và role cần thiết từ danh sách, sau đó chuyển sang kênh <strong>★⋅rules⋅★</strong></p>
+<h2> Bước 3: Kênh ★⋅rules⋅★</h2>
+<p>Trong kênh <strong>★⋅rules⋅★</strong> , hãy làm quen với các luật và trải qua quá trình xác minh để xác nhận rằng bạn không phải là robot.</p>
+<p>Nhấn vào nút <strong>Verify</strong> như hình bên dưới.</p>
+<figure><figcaption></figcaption></figure>
+<p>Bot sẽ gửi cho bạn một đường link mà bạn cần làm theo và xác nhận rằng bạn không phải là Robot</p>
+<h2> Step 4: After receiving the "Newcomer" role</h2>
+<p>After successful verification, the bot will assign you the "Newcomer" role. With this role, you will not be kicked by the bot without valid reasons. Now proceed to the next step.</p>
+<p>Sau khi đã xác thực thành công, bot sẽ tự động gắn cho bạn Role "Newcomer". Với Role này, bạn sẽ không bị đá ra khỏi máy chủ mà không có bất cứ lí do nào. Giờ hãy đến với bước tiếp theo.</p>
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>
