@@ -15,6 +15,5 @@ export const ruSidebar = sidebar({
       prefix: "guide/",
       children: "structure",
     },
-    "slides",
   ],
 });

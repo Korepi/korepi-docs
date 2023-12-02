@@ -15,6 +15,5 @@ export const idSidebar = sidebar({
       prefix: "guide/",
       children: "structure",
     },
-    "slides",
   ],
 });

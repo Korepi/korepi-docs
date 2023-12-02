@@ -15,6 +15,5 @@ export const viSidebar = sidebar({
       prefix: "guide/",
       children: "structure",
     },
-    "slides",
   ],
 });

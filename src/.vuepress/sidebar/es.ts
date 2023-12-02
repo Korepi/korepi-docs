@@ -15,6 +15,5 @@ export const esSidebar = sidebar({
       prefix: "guide/",
       children: "structure",
     },
-    "slides",
   ],
 });
