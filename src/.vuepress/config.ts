@@ -265,7 +265,7 @@ export default defineUserConfig({
                 "/ru/": ["ru-RU", "ru-KZ", "ru-BY", "ru-UA", "ru-MD", "ru-LV", "tt-RU", "ru"],
                 "/id/": ["id-ID", "id"],
                 "/es/": ["es-ES", "es"],
-                "/vi/": ["vi-VN", "vi"]
+                "/vi/": ["vi-VN", "vi"],
             },
         }),
         googleAnalyticsPlugin({
