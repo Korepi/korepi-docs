@@ -10,6 +10,8 @@ tag:
 author: rekiihype, Ikuyo
 ---
 
+##  Katalog
+
 - [Cara Join Server](join.md)
 
 - [Cara Verifikasi Akun](verify.md)
@@ -17,5 +19,7 @@ author: rekiihype, Ikuyo
 - [Cara Mendapatkan Role Fans](sign-in.md)
 
 - [Cara Sponsor](sponsor.md)
-
+ 
+- [Fitur Eksklusif Sponsor](sponsor-exclusive(BACKUP).md)
+  
 - [Cara Download](download.md)

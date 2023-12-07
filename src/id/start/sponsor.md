@@ -11,9 +11,9 @@ order: 4
 
 ### Bagaimana cara menjadi Sponsor?
 
-Untuk menjadi Sponsor, Anda harus berdonasi setidaknya 50k Rupiah atau 1 pizza jika donasi melalui Trakteer.
+Untuk menjadi Sponsor, Anda harus berdonasi setidaknya 50k Rupiah atau 1 pizza jika donasi melalui [Trakteer](https://trakteer.id/strigger).
 
-### Di mana saya bisa berdonasi?
+### Di mana saya dapat berdonasi?
 
 Setelah Anda berada di server, silakan masuk ke [#sponsorship](https://discord.com/channels/1069057220802781265/1097565269985071205) channel. Pilih salah satu tautan yang Anda inginkan untuk berdonasi.
 
@@ -25,11 +25,11 @@ Jika anda telah berdonasi, Anda bisa mengirimkan bukti donasi anda ke moderator 
 
 ## (BAGI NON-FANS) Bagaimana cara mengklaim role Fans setelah mendapatkan role Sponsor?
 
-Jika anda seorang Sponsor dan tidak memiliki role Fans, Anda dapat mengabaikan proses sign-in selama 7 hari dan langsung mengklaim role fans tersebut.
+Jika anda seorang Sponsor dan tidak memiliki role Fans, Anda dapat mengabaikan proses sign-in selama 7 hari dan langsung mengklaim role fans tersebut. Anda dapat melihat video [Tutorial ini](https://www.youtube.com/watch?v=cHRC7XdsKQo&list=PL5eI1Tb64p56Mp6JqoR_o3BYk9UFTbOQI&index=1&pp=iAQB) atau dengan mengikuti langkah-langkah sebagai berikut.
 
 ### Langkah 1: Buka tiket
 
-Untuk melakukannya, Anda harus masuk ke channel #ticket-start (hanya dapat dilihat jika anda sudah memiliki Sponsor).
+Untuk melakukannya, Anda harus masuk ke channel [#ticket-start](https://discord.com/channels/1069057220802781265/1152887509517344870) (hanya dapat dilihat jika anda sudah memiliki Sponsor).
 
 [![](https://i.postimg.cc/NfkzJDyd/openticket1.png)](https://postimg.cc/dLD6D8jC)
 

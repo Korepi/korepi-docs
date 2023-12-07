@@ -16,20 +16,20 @@ order: 5
 
 ## Pengantar
 
-Selamat datang di komunitas kami! Untuk lulus pemeriksaan bot dan mendapatkan peran `Newcomer`, ikuti langkah-langkah berikut.
+Selamat datang dikomunitas kami! Untuk lolos dari pemeriksaan bot dan mendapatkan role `Newcomer`, silakan untuk menonton video [Tutorial ini](https://youtu.be/4gm6JzAnq4w?si=DS00t4anVCT4O_4I) atau ikuti langkah-langkah berikut.
 
-## Langkah 1: Bergabunglah dengan server kami dan dapatkan peran `Newcomer` dan `Fans`
+## Langkah 1: Bergabunglah dengan server kami dan dapatkan role `Newcomer` dan `Fans`
 
-Jika Anda belum bergabung dengan server, harap baca pos verifikasi, yang menjelaskan cara bergabung dengan server dan mendapatkan peran `Newcomer` dan `Fans`.
+Jika Anda belum bergabung dengan server, harap baca saluran verifikasi, yang menjelaskan cara bergabung dengan server dan mendapatkan role `Newcomer` dan `Fans`.
 
 ## Langkah 2: Pergi ke saluran `★⋅korepi-version-roles⋅★`
 
-Temukan saluran `★⋅korepi-version-roles⋅★` dan pilih peran versi F atau V. Kami merekomendasikan memilih peran F.
+Temukan saluran `★⋅korepi-version-roles⋅★` dan pilih role versi F-Auth atau V-Auth. Kami menyarankan untuk memilih role F-Auth.
 
-## Langkah 3: Unduh sumber daya yang diperlukan
+## Langkah 3: Unduh berkas yang diperlukan
 
 Setelah itu, Anda akan memiliki akses ke saluran unduhan yang sesuai: `★⋅f-download⋅★` atau `★⋅v-download⋅★`.
 
 ## Langkah 4: Siap!
 
-Di saluran, Anda akan menemukan tautan ke versi terbaru dan kata sandi dari arsip. Semoga sukses!
+Di saluran, Anda akan menemukan tautan ke versi terbaru dan kata sandi untuk berkas. Semoga beruntung!
