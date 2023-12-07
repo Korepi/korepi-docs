@@ -9,7 +9,7 @@ author: rekiihype, Ikuyo
 order: 1
 ---
 
-Selamat datang di komunitas kami! Untuk bergabung dengan server Discord dan mulai menggunakan Korepi, ikuti langkah-langkah berikut
+Selamat datang dikomunitas kami! Untuk bergabung dengan server Discord dan mulai menggunakan Korepi, ikuti langkah-langkah berikut.
 
 ## Langkah 1: Membuat akun Discord
 
@@ -19,7 +19,7 @@ Jika Anda belum memiliki akun Discord, lanjutkan dengan membuat akun baru. Kunju
 
 Untuk bergabung, anda bisa menggunakan kata kunci `cottonbuds`, atau klik saja [disini](https://discord.gg/cottonbuds) untuk langsung gabung ke server.
 
-Jika anda gagal bergabung dengan server, itu berarti server ditutup buat sementara waktu. Silahkan tunggu sampai server dibuka kembali.
+Jika Anda gagal bergabung dengan server, itu berarti server sedang ditutup untuk sementara waktu. Silahkan tunggu sampai server dibuka kembali.
 
 ### Bergabung menggunakan kata kunci `cottonbuds`
 

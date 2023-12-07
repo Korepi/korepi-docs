@@ -9,7 +9,7 @@ author: rekiihype, Ikuyo
 order: 3
 ---
 
-Untuk mendapat akses Korepi, anda perlu mempunyai role `Fans`. Ada dua cara bagi anda untuk mendapatkan role `Fans`.
+Untuk mendapat akses Korepi, Anda perlu mempunyai role `Fans`. Ada dua cara bagi Anda untuk mendapatkan role `Fans`.
 
 ## 1. Dengan menjadi Sponsor
 
@@ -19,7 +19,7 @@ Anda bisa mendapatkan role `Fans` secara instan jika anda membeli role `Sponsor`
 
 Melalui cara ini, anda bisa mendapatkan role `Fans` secara gratis tanpa membeli role `Sponsor`.
 
-1. DM @micah-sign-bot
+1. Chat pribadi @micah-sign-bot
 
 [![](https://i.postimg.cc/KcfrVCKr/signin1.png)](https://postimg.cc/grwZLSHn)
 
@@ -35,4 +35,4 @@ Melalui cara ini, anda bisa mendapatkan role `Fans` secara gratis tanpa membeli 
 
 [![](https://i.postimg.cc/Nf07wbmh/signin4.png)](https://postimg.cc/t7LV33BD)
 
-Selamat, anda telah berhasil mendapatkan role `Fans`.
+Selamat, Anda telah berhasil mendapatkan role `Fans`.

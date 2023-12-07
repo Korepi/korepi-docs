@@ -118,11 +118,11 @@ highlights:
     highlights:
       - title: Bantuan Responsif 24/7
         icon: headsets
-        details: Kami siap membantu Anda kapan saja, siang atau malam, dengan menyediakan dukungan 24/7 yang dipercayai.
-      - title: Mesra-Pengguna
+        details: Kami siap membantu Anda kapan saja, siang maupun malam, dengan menyediakan bantuan 24/7 yang dipercayai.
+      - title: Ramah Pengguna
         icon: user-friends
         details: Produk kami dirancang untuk kemudahan penggunaan, memastikan pengalaman yang ramah pengguna dan nyaman.
-      - title: Keselamatan
+      - title: Keamanan
         icon: shield-alt
         details: Kami memprioritaskan keamanan, memastikan akses yang aman dan melindungi data anda.
 
