@@ -10,6 +10,5 @@ author: QweRez
 
 ## Catalog
 
-- [How to reset HWID Network(F)](hwid-f.md)
-- [How to reset HWID Local(V)(Sponsor)](hwid-v.md)
+- [How to reset HWID Network(F)](resethwid.md)
 - [How to Multi-instance](multi-instance.md)
