@@ -20,13 +20,13 @@ actions:
     link: ./guide/
 
 highlights:
-  - header: 超人类体验！
+  - header: 超人般的体验！
     image: /assets/image/box.svg
     bgImage: https://theme-hope-assets.vuejs.press/bg/3-light.svg
     bgImageDark: https://theme-hope-assets.vuejs.press/bg/3-dark.svg
     highlights:
       - title: 解锁未探索的地点
-      - title: 仅需点击几下即可打开地图上的所有宝箱！
+      - title: 可自动探索宝箱！
 
   - header: 实用、便捷、与原神互动技术
     description: 独特的功能，免费使用
@@ -58,9 +58,9 @@ highlights:
       - title: 游戏速度
         icon: tachometer-alt
         details: 允许加快或减缓游戏中的时间流逝
-      - title: 愚蠢敌人
+      - title: 敌人变傻
         icon: skull
-        details: 使敌人变得愚蠢
+        details: 让敌人变得愚蠢
       - title: 冻结敌人
         icon: snowflake
         details: 将敌人冻结在原地
@@ -116,9 +116,9 @@ highlights:
     bgImage: https://theme-hope-assets.vuejs.press/bg/5-light.svg
     bgImageDark: https://theme-hope-assets.vuejs.press/bg/5-dark.svg
     highlights:
-      - title: 响应式支持 24/7
+      - title: 24小时响应提供服务
         icon: headsets
-        details: 我们随时为您提供帮助，白天和黑夜，提供可靠的 24/7 支持。
+        details: 我们随时为您提供帮助，白天和黑夜，提供可靠的 24小时服务。
       - title: 简单易用
         icon: user-friends
         details: 我们的产品设计简单易用，确保用户友好且舒适的体验。
