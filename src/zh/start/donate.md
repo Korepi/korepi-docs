@@ -8,20 +8,29 @@ tag:
 author: micah
 order: 5
 ---
+---
 
 # 赞助者身份获取途径
-https://afdian.net/a/micah
 
-①通过以上链接赞助 一次性35RMB
+ [Micah的赞助链接](https://afdian.net/a/micah.md) 
 
-如果显示的是未认证作者那只是爱发电日常发癫，只要确保链接是上方提供的就行
-自选金额一次性/1个月 35RMB 即可__
-![Alt text](images/image.png)
+ [strigger的赞助链接](https://afdian.net/a/strigger)
 
-②复制订单号（忘了在赞助时复制的人，能到订单处找出来）
-![Alt text](images/image-1.png)
-③ @micah-sign-bot 私信鸭子发送 /donate，再回复订单号 即可获得赞助者身份
-![Alt text](images/image-2.png)
+---
+
+## ①通过以上链接赞助 一次性35RMB
+
+ 如果显示的是未认证作者那只是爱发电日常发癫，只要确保链接是上方提供的就行自选金额一次性/1个月 35RMB 即可
+ ![Alt text](images/image.png)
+
+## ②复制订单号（忘了在赞助时复制的人，能到订单处找出来）
+
+ ![Alt text](images/image-1.png)
+
+## ③ @micah-sign-bot 私信鸭子发送 /donate，再回复订单号 即可获得赞助者身份
+
+ ![Alt text](images/image-2.png)
+
 ——————————————
 
 赞助者解锁科技额外功能并且能通过填表单 快速获得Fan身份**
