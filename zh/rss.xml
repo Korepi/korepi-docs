@@ -6,8 +6,8 @@
     <link>https://korepi.com/zh/</link>
     <description>Korepi 中文文档介绍</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 08 Dec 2023 02:32:06 GMT</pubDate>
-    <lastBuildDate>Fri, 08 Dec 2023 02:32:06 GMT</lastBuildDate>
+    <pubDate>Fri, 08 Dec 2023 13:05:48 GMT</pubDate>
+    <lastBuildDate>Fri, 08 Dec 2023 13:05:48 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>指南</category>
@@ -37,20 +37,22 @@
       <link>https://korepi.com/zh/start/donate.html</link>
       <guid>https://korepi.com/zh/start/donate.html</guid>
       <source url="https://korepi.com/zh/rss.xml">如何捐赠及快速获取身份</source>
-      <description>https://afdian.net/a/micah ①通过以上链接赞助 一次性35RMB 如果显示的是未认证作者那只是爱发电日常发癫，只要确保链接是上方提供的就行 自选金额一次性/1个月 35RMB 即可__ Alt text ②复制订单号（忘了在赞助时复制的人，能到订单处找出来） Alt text ③ @micah-sign-bot 私信鸭子发送 ...</description>
+      <description>Micah的赞助链接 (https://afdian.net/a/micah.md) strigger的赞助链接 (https://afdian.net/a/strigger) ①通过以上链接赞助 一次性35RMB 如果显示的是未认证作者那只是爱发电日常发癫，只要确保链接是上方提供的就行自选金额一次性/1个月 35RMB 即可 Alt text ②复制...</description>
       <category>指南</category>
       <pubDate>Sat, 25 Nov 2023 10:06:41 GMT</pubDate>
-      <content:encoded><![CDATA[<h1> 赞助者身份获取途径</h1>
-<p>https://afdian.net/a/micah</p>
-<p>①通过以上链接赞助 一次性35RMB</p>
-<p>如果显示的是未认证作者那只是爱发电日常发癫，只要确保链接是上方提供的就行
-自选金额一次性/1个月 35RMB 即可__
+      <content:encoded><![CDATA[<hr>
+<h1> 赞助者身份获取途径</h1>
+<p><a href="https://afdian.net/a/micah.md" target="_blank" rel="noopener noreferrer">Micah的赞助链接</a></p>
+<p><a href="https://afdian.net/a/strigger" target="_blank" rel="noopener noreferrer">strigger的赞助链接</a></p>
+<hr>
+<h2> ①通过以上链接赞助 一次性35RMB</h2>
+<p>如果显示的是未认证作者那只是爱发电日常发癫，只要确保链接是上方提供的就行自选金额一次性/1个月 35RMB 即可
 </p>
-<p>②复制订单号（忘了在赞助时复制的人，能到订单处找出来）
-
-③ @micah-sign-bot 私信鸭子发送 /donate，再回复订单号 即可获得赞助者身份
-
-——————————————</p>
+<h2> ②复制订单号（忘了在赞助时复制的人，能到订单处找出来）</h2>
+<figure><figcaption>Alt text</figcaption></figure>
+<h2> ③ @micah-sign-bot 私信鸭子发送 /donate，再回复订单号 即可获得赞助者身份</h2>
+<figure><figcaption>Alt text</figcaption></figure>
+<p>——————————————</p>
 <p>赞助者解锁科技额外功能并且能通过填表单 快速获得Fan身份**
 👇🏻 👇🏻 👇🏻 👇🏻
 #ticket-start</p>
