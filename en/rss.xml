@@ -6,8 +6,8 @@
     <link>https://korepi.com/en/</link>
     <description>Help on Korepi</description>
     <language>en-US</language>
-    <pubDate>Fri, 08 Dec 2023 13:51:59 GMT</pubDate>
-    <lastBuildDate>Fri, 08 Dec 2023 13:51:59 GMT</lastBuildDate>
+    <pubDate>Fri, 08 Dec 2023 15:47:02 GMT</pubDate>
+    <lastBuildDate>Fri, 08 Dec 2023 15:47:02 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Guide</category>
@@ -245,13 +245,12 @@ Warning: Don't do anything yet.</p>
       <link>https://korepi.com/en/guide/</link>
       <guid>https://korepi.com/en/guide/</guid>
       <source url="https://korepi.com/en/rss.xml">Guides</source>
-      <description>CatalogHow to reset HWID Network(F) (hwid-f.md); How to reset HWID Local(V)(Sponsor) (hwid-v.md); How to Multi-instance (multi-instance.md);</description>
+      <description>CatalogHow to reset HWID Network(F) (resethwid.md); How to Multi-instance (multi-instance.md);</description>
       <category>Guide</category>
       <pubDate>Mon, 20 Nov 2023 12:30:39 GMT</pubDate>
       <content:encoded><![CDATA[<h2> Catalog</h2>
 <ul>
-<li><a href="/en/guide/hwid-f.html" target="blank">How to reset HWID Network(F)</a></li>
-<li><a href="/en/guide/hwid-v.html" target="blank">How to reset HWID Local(V)(Sponsor)</a></li>
+<li><a href="/en/guide/resethwid.html" target="blank">How to reset HWID Network(F)</a></li>
 <li><a href="/en/guide/multi-instance.html" target="blank">How to Multi-instance</a></li>
 </ul>
 ]]></content:encoded>
