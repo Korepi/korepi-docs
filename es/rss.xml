@@ -6,11 +6,93 @@
     <link>https://korepi.com/es/</link>
     <description>Ayuda en Korepi</description>
     <language>es-ES</language>
-    <pubDate>Thu, 07 Dec 2023 07:32:05 GMT</pubDate>
-    <lastBuildDate>Thu, 07 Dec 2023 07:32:05 GMT</lastBuildDate>
+    <pubDate>Fri, 08 Dec 2023 02:32:06 GMT</pubDate>
+    <lastBuildDate>Fri, 08 Dec 2023 02:32:06 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Guía</category>
+    <item>
+      <title>Multi-Instancia</title>
+      <link>https://korepi.com/es/guide/multi-instance.html</link>
+      <guid>https://korepi.com/es/guide/multi-instance.html</guid>
+      <source url="https://korepi.com/es/rss.xml">Multi-Instancia</source>
+      <description>Como usar Multi-Instancia (Abrir 2 juegos al mismo tiempo)</description>
+      <category>Guía</category>
+      <pubDate>Fri, 08 Dec 2023 00:39:01 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Como usar Multi-Instancia (Abrir 2 juegos al mismo tiempo)</h2>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/pSAxKoneT64" title="Multi-Instance V (Updated)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Como restablecer HWID</title>
+      <link>https://korepi.com/es/guide/resethwid.html</link>
+      <guid>https://korepi.com/es/guide/resethwid.html</guid>
+      <source url="https://korepi.com/es/rss.xml">Como restablecer HWID</source>
+      <description>Restablecer HWID: Network(F) Paso 1: Entra a la pagina de Korepi Ve a Korepi Login Page (https://keyauth.cc/panel/Strigger/Korepi) Aviso: No hagas nada aun!! Paso 2: Encuentra t...</description>
+      <category>Guía</category>
+      <pubDate>Fri, 08 Dec 2023 00:39:01 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Restablecer HWID: Network(F)</h2>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/DRSEmYsl4F4" title="how to change hwid for F" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+<h2> Paso 1: Entra a la pagina de Korepi</h2>
+<p>Ve a <a href="https://keyauth.cc/panel/Strigger/Korepi" target="_blank" rel="noopener noreferrer">Korepi Login Page</a></p>
+<p>Aviso: No hagas nada aun!!</p>
+<h2> Paso 2: Encuentra tu key</h2>
+<p>Consigue tu key en <code>license.json</code> o ve a <code>★⋅micah-bot-verify⋅★</code> y dale click a  <code>F: Getkey</code> para conseguir tu key actual.</p>
+<h2> Paso 3: Inicia sesión en Korepi</h2>
+<p>Después de conseguir tu key ve a <a href="https://keyauth.cc/panel/Strigger/Korepi" target="_blank" rel="noopener noreferrer">Korepi Login Page</a>, y pega tu key en ambos recuadros, inicia sesión y después dale a <code>Reset HWID</code>.</p>
+<h2> Paso 4: Abre el mod</h2>
+<p>Después de restablecer tu HWID vuelve al mod y pega tu llave de nuevo.</p>
+<p>Disfruta de Korepi de nuevo!</p>
+<h2> Restablecer HWID: Local(V) (Sponsor)</h2>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/q0G9UZHErrg?list=PL5eI1Tb64p56Mp6JqoR_o3BYk9UFTbOQI" title="How to reset Local V HWID" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+<h2> Step 1: Encuentra tu HWID</h2>
+<p>Para conseguir tu HWID actual deberás abrir tu <code>Local(V) injector</code>, y copiara tu HWID automaticamente a tu portapapeles.</p>
+<h2> Step 2: Encuentra el canal de <code>★⋅micah-bot-verify⋅★</code></h2>
+<p>Después de encontrar <code>★⋅micah-bot-verify⋅★</code>, dale click a <code>V:Change HWID</code>, una ventana aparecerá, pega tu HWID y dale a <code>Submit</code>.</p>
+<h2> Step 3: Consigue tu nuevo <code>enc.json</code></h2>
+<p>Después de restablecer tu HWID dale click a <code>V:Verify</code> y pega tu nuevo HWID en la ventana y dale a <code>Submit</code>. Ahora descarga el nuevo <code>enc.json</code> y cámbialo en tu carpeta de Korepi.</p>
+<p>Nota: Recuerda que el nombre del archivo tiene que ser <code>enc.json</code>.</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Funciones Exclusivas de Sponsor</title>
+      <link>https://korepi.com/es/start/sponsor-exclusive.html</link>
+      <guid>https://korepi.com/es/start/sponsor-exclusive.html</guid>
+      <source url="https://korepi.com/es/rss.xml">Funciones Exclusivas de Sponsor</source>
+      <description>Jugador Probabilidad de critico (https://www.youtube.com/watch?v=ByucMEL7pXM&amp;list=PL5eI1Tb64p54t7LyUaudX0ume6HbS4ikD&amp;index=1&amp;pp=iAQB); Movimientos Extra (https://www.youtube.com...</description>
+      <category>Guía</category>
+      <pubDate>Fri, 08 Dec 2023 00:39:01 GMT</pubDate>
+      <content:encoded><![CDATA[<h3> Jugador</h3>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=ByucMEL7pXM&amp;list=PL5eI1Tb64p54t7LyUaudX0ume6HbS4ikD&amp;index=1&amp;pp=iAQB" target="_blank" rel="noopener noreferrer">Probabilidad de critico</a></li>
+<li><a href="https://www.youtube.com/watch?v=wMd9icqhFQg&amp;list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa&amp;index=5&amp;pp=iAQB" target="_blank" rel="noopener noreferrer">Movimientos Extra</a></li>
+<li><a href="https://youtu.be/42utUUYNHRE?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa&amp;t=16" target="_blank" rel="noopener noreferrer">Muertos Viviente (Modo Dios)</a></li>
+<li><a href="https://www.youtube.com/watch?v=XGztUEy82sE&amp;list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa&amp;index=12&amp;pp=iAQB" target="_blank" rel="noopener noreferrer">Utilidad Remota</a>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=Ggnvh8ORJZU&amp;list=PL5eI1Tb64p54t7LyUaudX0ume6HbS4ikD&amp;index=3&amp;pp=iAQB" target="_blank" rel="noopener noreferrer">Reclamar Recompensas de Comisiones Diarias</a></li>
+<li><a href="https://www.youtube.com/watch?v=HZuyD6b-qYc&amp;list=PL5eI1Tb64p54t7LyUaudX0ume6HbS4ikD&amp;index=4&amp;pp=iAQB" target="_blank" rel="noopener noreferrer">Hacer resina condensada</a></li>
+<li><a href="https://youtu.be/XGztUEy82sE?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa&amp;t=62" target="_blank" rel="noopener noreferrer">Funciones de Invocación</a></li>
+</ul>
+</li>
+<li><a href="https://www.youtube.com/watch?v=Gh2GX23E6dw&amp;list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa&amp;index=21&amp;pp=iAQB" target="_blank" rel="noopener noreferrer">Salto de conejo</a></li>
+</ul>
+<h3> Mundo</h3>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=qstBErr9mJ0&amp;list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa&amp;index=22&amp;pp=iAQB" target="_blank" rel="noopener noreferrer">Auto Activar Teletransportes</a></li>
+<li><a href="https://www.youtube.com/watch?v=v95_NOxc4do&amp;list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa&amp;index=31&amp;pp=iAQB" target="_blank" rel="noopener noreferrer">Auto Madera</a></li>
+<li><a href="https://www.youtube.com/watch?v=FskTJiknOgQ&amp;list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa&amp;index=32&amp;pp=iAQB" target="_blank" rel="noopener noreferrer">Aura Elemental</a></li>
+<li><a href="https://www.youtube.com/watch?v=fF6LC552cvY&amp;list=PL5eI1Tb64p54t7LyUaudX0ume6HbS4ikD&amp;index=2&amp;pp=iAQB" target="_blank" rel="noopener noreferrer">Saltar Dialogo (Más seguro que Dialogo Rápido)</a></li>
+</ul>
+<h3> Visual</h3>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=S9-g5weE9l8&amp;list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa&amp;index=37&amp;pp=iAQB" target="_blank" rel="noopener noreferrer">Modificador de Constelaciones</a></li>
+<li><a href="https://youtu.be/EtRT95qEW6Y?si=v2AoRfRnjYrR93J5" target="_blank" rel="noopener noreferrer">Esconder Interfaz</a></li>
+<li><a href="https://youtu.be/AjkJ8S8NHsI?si=pZ3FDJXHcmfpe7Ee&amp;t=101" target="_blank" rel="noopener noreferrer">Sin Desenfoque de Cámara</a></li>
+<li><a href="https://youtu.be/AjkJ8S8NHsI?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa&amp;t=102" target="_blank" rel="noopener noreferrer">Sin Movimiento de Cámara</a></li>
+<li>Sin Huellas</li>
+</ul>
+]]></content:encoded>
+    </item>
     <item>
       <title>Descargar</title>
       <link>https://korepi.com/es/start/download.html</link>
@@ -37,22 +119,14 @@
       <link>https://korepi.com/es/guide/</link>
       <guid>https://korepi.com/es/guide/</guid>
       <source url="https://korepi.com/es/rss.xml">Guías</source>
-      <description>Esta pagina aun esta bajo construcción. Vuelve más tarde, o contribuye añadiendo contenido.</description>
+      <description>Catalogo Restablecer HWID (resethwid.md); Como usar Multi-Instancia (multi-instance.md);</description>
       <category>Guía</category>
       <pubDate>Wed, 29 Nov 2023 17:50:00 GMT</pubDate>
-      <content:encoded><![CDATA[<p>Esta pagina aun esta bajo construcción. Vuelve más tarde, o contribuye añadiendo contenido.</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>None</title>
-      <link>https://korepi.com/es/guide/page.html</link>
-      <guid>https://korepi.com/es/guide/page.html</guid>
-      <source url="https://korepi.com/es/rss.xml">None</source>
-      <description>Introduction Esta sección esta vacía.</description>
-      <category>Guía</category>
-      <pubDate>Wed, 29 Nov 2023 17:50:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Introduction</h2>
-<p>Esta sección esta vacía.</p>
+      <content:encoded><![CDATA[<h2> Catalogo</h2>
+<ul>
+<li><a href="/es/guide/resethwid.html" target="blank">Restablecer HWID</a></li>
+<li><a href="/es/guide/multi-instance.html" target="blank">Como usar Multi-Instancia</a></li>
+</ul>
 ]]></content:encoded>
     </item>
     <item>
@@ -60,7 +134,7 @@
       <link>https://korepi.com/es/start/</link>
       <guid>https://korepi.com/es/start/</guid>
       <source url="https://korepi.com/es/rss.xml">Comienzo</source>
-      <description>Catalogo Unirse al Servidor (join.md); Verificación (verify.md); Obteniendo el rol de Fans (sign-in.md); Convertirse en Sponsor (sponsor.md); Descargar (download.md);</description>
+      <description>Catalogo Unirse al Servidor (join.md); Verificación (verify.md); Obteniendo el rol de Fans (sign-in.md); Convertirse en Sponsor (sponsor.md); Funciones Exclusivas de Sponsor (sp...</description>
       <category>Guía</category>
       <pubDate>Wed, 29 Nov 2023 17:50:00 GMT</pubDate>
       <content:encoded><![CDATA[<h2> Catalogo</h2>
@@ -76,6 +150,9 @@
 </li>
 <li>
 <p><a href="/es/start/sponsor.html" target="blank">Convertirse en Sponsor</a></p>
+</li>
+<li>
+<p><a href="/es/start/sponsor-exclusive.html" target="blank">Funciones Exclusivas de Sponsor</a></p>
 </li>
 <li>
 <p><a href="/es/start/download.html" target="blank">Descargar</a></p>

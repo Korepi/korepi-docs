@@ -6,11 +6,50 @@
     <link>https://korepi.com/id/</link>
     <description>Pertolongan Korepi</description>
     <language>id-ID</language>
-    <pubDate>Thu, 07 Dec 2023 07:32:05 GMT</pubDate>
-    <lastBuildDate>Thu, 07 Dec 2023 07:32:05 GMT</lastBuildDate>
+    <pubDate>Fri, 08 Dec 2023 02:32:06 GMT</pubDate>
+    <lastBuildDate>Fri, 08 Dec 2023 02:32:06 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Panduan</category>
+    <item>
+      <title>Fitur Eksklusif Sponsor</title>
+      <link>https://korepi.com/id/start/sponsor-exclusive.html</link>
+      <guid>https://korepi.com/id/start/sponsor-exclusive.html</guid>
+      <source url="https://korepi.com/id/rss.xml">Fitur Eksklusif Sponsor</source>
+      <description>Player Critical Hit Rate Probabilities (https://www.youtube.com/watch?v=ByucMEL7pXM&amp;list=PL5eI1Tb64p54t7LyUaudX0ume6HbS4ikD&amp;index=1&amp;pp=iAQB); Extra Movement (https://www.youtube...</description>
+      <category>Panduan</category>
+      <pubDate>Fri, 08 Dec 2023 00:39:01 GMT</pubDate>
+      <content:encoded><![CDATA[<h3> Player</h3>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=ByucMEL7pXM&amp;list=PL5eI1Tb64p54t7LyUaudX0ume6HbS4ikD&amp;index=1&amp;pp=iAQB" target="_blank" rel="noopener noreferrer">Critical Hit Rate Probabilities</a></li>
+<li><a href="https://www.youtube.com/watch?v=wMd9icqhFQg&amp;list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa&amp;index=5&amp;pp=iAQB" target="_blank" rel="noopener noreferrer">Extra Movement</a></li>
+<li><a href="https://youtu.be/42utUUYNHRE?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa&amp;t=16" target="_blank" rel="noopener noreferrer">Undead ( Godmode )</a></li>
+<li><a href="https://www.youtube.com/watch?v=XGztUEy82sE&amp;list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa&amp;index=12&amp;pp=iAQB" target="_blank" rel="noopener noreferrer">Remote Utility</a>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=Ggnvh8ORJZU&amp;list=PL5eI1Tb64p54t7LyUaudX0ume6HbS4ikD&amp;index=3&amp;pp=iAQB" target="_blank" rel="noopener noreferrer">Claim Daily Commission everywhere</a></li>
+<li><a href="https://www.youtube.com/watch?v=HZuyD6b-qYc&amp;list=PL5eI1Tb64p54t7LyUaudX0ume6HbS4ikD&amp;index=4&amp;pp=iAQB" target="_blank" rel="noopener noreferrer">Make Condensed Resin</a></li>
+<li><a href="https://youtu.be/XGztUEy82sE?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa&amp;t=62" target="_blank" rel="noopener noreferrer">Summon Features</a></li>
+</ul>
+</li>
+<li><a href="https://www.youtube.com/watch?v=Gh2GX23E6dw&amp;list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa&amp;index=21&amp;pp=iAQB" target="_blank" rel="noopener noreferrer">Bunny Hop</a></li>
+</ul>
+<h3> World</h3>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=qstBErr9mJ0&amp;list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa&amp;index=22&amp;pp=iAQB" target="_blank" rel="noopener noreferrer">Auto Activate Waypoint</a></li>
+<li><a href="https://www.youtube.com/watch?v=v95_NOxc4do&amp;list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa&amp;index=31&amp;pp=iAQB" target="_blank" rel="noopener noreferrer">Auto Tree Farm</a></li>
+<li><a href="https://www.youtube.com/watch?v=FskTJiknOgQ&amp;list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa&amp;index=32&amp;pp=iAQB" target="_blank" rel="noopener noreferrer">Elemental Aura</a></li>
+<li><a href="https://www.youtube.com/watch?v=fF6LC552cvY&amp;list=PL5eI1Tb64p54t7LyUaudX0ume6HbS4ikD&amp;index=2&amp;pp=iAQB" target="_blank" rel="noopener noreferrer">Skip Dialog (Safer than Fast Dialog)</a></li>
+</ul>
+<h3> Visual</h3>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=S9-g5weE9l8&amp;list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa&amp;index=37&amp;pp=iAQB" target="_blank" rel="noopener noreferrer">Constellation Modifier</a></li>
+<li><a href="https://youtu.be/EtRT95qEW6Y?si=v2AoRfRnjYrR93J5" target="_blank" rel="noopener noreferrer">Hide UI</a></li>
+<li><a href="https://youtu.be/AjkJ8S8NHsI?si=pZ3FDJXHcmfpe7Ee&amp;t=101" target="_blank" rel="noopener noreferrer">No Camera Blur</a></li>
+<li><a href="https://youtu.be/AjkJ8S8NHsI?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa&amp;t=102" target="_blank" rel="noopener noreferrer">No Camera Shake</a></li>
+<li>No Footprints</li>
+</ul>
+]]></content:encoded>
+    </item>
     <item>
       <title>Unduh</title>
       <link>https://korepi.com/id/start/download.html</link>
@@ -30,45 +69,6 @@
 <p>Setelah itu, Anda akan memiliki akses ke saluran unduhan yang sesuai: <code>★⋅f-download⋅★</code> atau <code>★⋅v-download⋅★</code>.</p>
 <h2> Langkah 4: Siap!</h2>
 <p>Di saluran, Anda akan menemukan tautan ke versi terbaru dan kata sandi untuk berkas. Semoga beruntung!</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Fitur Eksklusif Sponsor</title>
-      <link>https://korepi.com/id/start/sponsor-exclusive(BACKUP).html</link>
-      <guid>https://korepi.com/id/start/sponsor-exclusive(BACKUP).html</guid>
-      <source url="https://korepi.com/id/rss.xml">Fitur Eksklusif Sponsor</source>
-      <description>Player Critical Hit Rate Probabilities (https://www.youtube.com/watch?v=ByucMEL7pXM&amp;list=PL5eI1Tb64p54t7LyUaudX0ume6HbS4ikD&amp;index=1&amp;pp=iAQB); Extra Movement (https://www.youtube...</description>
-      <category>Panduan</category>
-      <pubDate>Wed, 29 Nov 2023 18:56:47 GMT</pubDate>
-      <content:encoded><![CDATA[<h3> Player</h3>
-<ul>
-<li><a href="https://www.youtube.com/watch?v=ByucMEL7pXM&amp;list=PL5eI1Tb64p54t7LyUaudX0ume6HbS4ikD&amp;index=1&amp;pp=iAQB" target="_blank" rel="noopener noreferrer">Critical Hit Rate Probabilities</a></li>
-<li><a href="https://www.youtube.com/watch?v=wMd9icqhFQg&amp;list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa&amp;index=5&amp;pp=iAQB" target="_blank" rel="noopener noreferrer">Extra Movement</a></li>
-<li>Undead ( Godmode )</li>
-<li><a href="https://www.youtube.com/watch?v=XGztUEy82sE&amp;list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa&amp;index=12&amp;pp=iAQB" target="_blank" rel="noopener noreferrer">Remote Utility</a>
-<ul>
-<li><a href="https://www.youtube.com/watch?v=Ggnvh8ORJZU&amp;list=PL5eI1Tb64p54t7LyUaudX0ume6HbS4ikD&amp;index=3&amp;pp=iAQB" target="_blank" rel="noopener noreferrer">Claim Daily Commission everywhere</a></li>
-<li><a href="https://www.youtube.com/watch?v=HZuyD6b-qYc&amp;list=PL5eI1Tb64p54t7LyUaudX0ume6HbS4ikD&amp;index=4&amp;pp=iAQB" target="_blank" rel="noopener noreferrer">Make Condensed Resin</a></li>
-<li>Summon Features</li>
-</ul>
-</li>
-<li><a href="https://www.youtube.com/watch?v=Gh2GX23E6dw&amp;list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa&amp;index=21&amp;pp=iAQB" target="_blank" rel="noopener noreferrer">Bunny Hop</a></li>
-</ul>
-<h3> World</h3>
-<ul>
-<li><a href="https://www.youtube.com/watch?v=qstBErr9mJ0&amp;list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa&amp;index=22&amp;pp=iAQB" target="_blank" rel="noopener noreferrer">Auto Activate Waypoint</a></li>
-<li><a href="https://www.youtube.com/watch?v=v95_NOxc4do&amp;list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa&amp;index=31&amp;pp=iAQB" target="_blank" rel="noopener noreferrer">Auto Tree Farm</a></li>
-<li><a href="https://www.youtube.com/watch?v=FskTJiknOgQ&amp;list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa&amp;index=32&amp;pp=iAQB" target="_blank" rel="noopener noreferrer">Elemental Aura</a></li>
-<li><a href="https://www.youtube.com/watch?v=fF6LC552cvY&amp;list=PL5eI1Tb64p54t7LyUaudX0ume6HbS4ikD&amp;index=2&amp;pp=iAQB" target="_blank" rel="noopener noreferrer">Skip Dialog (Safer than Fast Dialog)</a></li>
-</ul>
-<h3> Visual</h3>
-<ul>
-<li><a href="https://www.youtube.com/watch?v=S9-g5weE9l8&amp;list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa&amp;index=37&amp;pp=iAQB" target="_blank" rel="noopener noreferrer">Constellation Modifier</a></li>
-<li>Hide UI</li>
-<li><a href="https://youtu.be/AjkJ8S8NHsI?si=pZ3FDJXHcmfpe7Ee&amp;t=101" target="_blank" rel="noopener noreferrer">No Camera Blur</a></li>
-<li>No Camera Shake</li>
-<li>No Footprints</li>
-</ul>
 ]]></content:encoded>
     </item>
     <item>
@@ -149,7 +149,7 @@
 <p><a href="/id/start/sponsor.html" target="blank">Cara Sponsor</a></p>
 </li>
 <li>
-<p><a href="/id/start/sponsor-exclusive(BACKUP).html" target="blank">Fitur Eksklusif Sponsor</a></p>
+<p><a href="/id/start/sponsor-exclusive.html" target="blank">Fitur Eksklusif Sponsor</a></p>
 </li>
 <li>
 <p><a href="/id/start/download.html" target="blank">Cara Download</a></p>

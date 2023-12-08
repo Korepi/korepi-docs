@@ -6,11 +6,93 @@
     <link>https://korepi.com/en/</link>
     <description>Help on Korepi</description>
     <language>en-US</language>
-    <pubDate>Thu, 07 Dec 2023 07:32:05 GMT</pubDate>
-    <lastBuildDate>Thu, 07 Dec 2023 07:32:05 GMT</lastBuildDate>
+    <pubDate>Fri, 08 Dec 2023 02:32:06 GMT</pubDate>
+    <lastBuildDate>Fri, 08 Dec 2023 02:32:06 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Guide</category>
+    <item>
+      <title>How to Multi-Instance</title>
+      <link>https://korepi.com/en/guide/multi-instance.html</link>
+      <guid>https://korepi.com/en/guide/multi-instance.html</guid>
+      <source url="https://korepi.com/en/rss.xml">How to Multi-Instance</source>
+      <description>How to Multi-instance (Open 2 game window at the same time)</description>
+      <category>Guide</category>
+      <pubDate>Fri, 08 Dec 2023 00:39:01 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> How to Multi-instance (Open 2 game window at the same time)</h2>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/pSAxKoneT64" title="Multi-Instance V (Updated)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>How to reset HWID</title>
+      <link>https://korepi.com/en/guide/resethwid.html</link>
+      <guid>https://korepi.com/en/guide/resethwid.html</guid>
+      <source url="https://korepi.com/en/rss.xml">How to reset HWID</source>
+      <description>Reset HWID: Network(F) Step 1: Enter Korepi login page Please head to Korepi Login Page (https://keyauth.cc/panel/Strigger/Korepi) Warning: Don&amp;apos;t do anything yet. Step 2: Get yo...</description>
+      <category>Guide</category>
+      <pubDate>Fri, 08 Dec 2023 00:39:01 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Reset HWID: Network(F)</h2>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/DRSEmYsl4F4" title="how to change hwid for F" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+<h2> Step 1: Enter Korepi login page</h2>
+<p>Please head to <a href="https://keyauth.cc/panel/Strigger/Korepi" target="_blank" rel="noopener noreferrer">Korepi Login Page</a>
+Warning: Don't do anything yet.</p>
+<h2> Step 2: Get your key</h2>
+<p>Get your key from your <code>license.json</code> or head to <code>★⋅micah-bot-verify⋅★</code> and click on <code>F: Getkey</code> to get your current key.</p>
+<h2> Step 3: Login in Korepi</h2>
+<p>After getting your key, head to <a href="https://keyauth.cc/panel/Strigger/Korepi" target="_blank" rel="noopener noreferrer">Korepi Login Page</a>, and paste your key on both fields, click on login, after that, click on <code>Reset HWID</code>.</p>
+<h2> Step 4: Open Injector</h2>
+<p>After your HWID reset, head to your injector and paste your key once again.</p>
+<p>Enjoy Korepi again!</p>
+<h2> Reset HWID: Local(V) (Sponsor)</h2>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/q0G9UZHErrg?list=PL5eI1Tb64p56Mp6JqoR_o3BYk9UFTbOQI" title="How to reset Local V HWID" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+<h2> Step 1: Get your current HWID</h2>
+<p>To get your current HWID, you will need to open your <code>Local(V) injector</code>, and it will automatically copy your HWID into your clipboard.</p>
+<h2> Step 2: Find <code>★⋅micah-bot-verify⋅★</code> channel</h2>
+<p>After finding <code>★⋅micah-bot-verify⋅★</code>, click on <code>V:Change HWID</code>, a window will pop up asking for your current HWID, paste it and click <code>Submit</code>.</p>
+<h2> Step 3: Get your new <code>enc.json</code></h2>
+<p>After your HWID reset, click on <code>V:Verify</code> and paste your current HWID into the window and click <code>Submit</code>. Now download the new <code>enc.json</code> and replace the file in your Korepi folder.</p>
+<p>Note: Remember that the file name has to be <code>enc.json</code>.</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Sponsor Exclusive Features</title>
+      <link>https://korepi.com/en/start/sponsor-exclusive.html</link>
+      <guid>https://korepi.com/en/start/sponsor-exclusive.html</guid>
+      <source url="https://korepi.com/en/rss.xml">Sponsor Exclusive Features</source>
+      <description>Player Critical Hit Rate Probabilities (https://www.youtube.com/watch?v=ByucMEL7pXM&amp;list=PL5eI1Tb64p54t7LyUaudX0ume6HbS4ikD&amp;index=1&amp;pp=iAQB); Extra Movement (https://www.youtube...</description>
+      <category>Guide</category>
+      <pubDate>Fri, 08 Dec 2023 00:39:01 GMT</pubDate>
+      <content:encoded><![CDATA[<h3> Player</h3>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=ByucMEL7pXM&amp;list=PL5eI1Tb64p54t7LyUaudX0ume6HbS4ikD&amp;index=1&amp;pp=iAQB" target="_blank" rel="noopener noreferrer">Critical Hit Rate Probabilities</a></li>
+<li><a href="https://www.youtube.com/watch?v=wMd9icqhFQg&amp;list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa&amp;index=5&amp;pp=iAQB" target="_blank" rel="noopener noreferrer">Extra Movement</a></li>
+<li><a href="https://youtu.be/42utUUYNHRE?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa&amp;t=16" target="_blank" rel="noopener noreferrer">Undead ( Godmode )</a></li>
+<li><a href="https://www.youtube.com/watch?v=XGztUEy82sE&amp;list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa&amp;index=12&amp;pp=iAQB" target="_blank" rel="noopener noreferrer">Remote Utility</a>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=Ggnvh8ORJZU&amp;list=PL5eI1Tb64p54t7LyUaudX0ume6HbS4ikD&amp;index=3&amp;pp=iAQB" target="_blank" rel="noopener noreferrer">Claim Daily Commission everywhere</a></li>
+<li><a href="https://www.youtube.com/watch?v=HZuyD6b-qYc&amp;list=PL5eI1Tb64p54t7LyUaudX0ume6HbS4ikD&amp;index=4&amp;pp=iAQB" target="_blank" rel="noopener noreferrer">Make Condensed Resin</a></li>
+<li><a href="https://youtu.be/XGztUEy82sE?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa&amp;t=62" target="_blank" rel="noopener noreferrer">Summon Features</a></li>
+</ul>
+</li>
+<li><a href="https://www.youtube.com/watch?v=Gh2GX23E6dw&amp;list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa&amp;index=21&amp;pp=iAQB" target="_blank" rel="noopener noreferrer">Bunny Hop</a></li>
+</ul>
+<h3> World</h3>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=qstBErr9mJ0&amp;list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa&amp;index=22&amp;pp=iAQB" target="_blank" rel="noopener noreferrer">Auto Activate Waypoint</a></li>
+<li><a href="https://www.youtube.com/watch?v=v95_NOxc4do&amp;list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa&amp;index=31&amp;pp=iAQB" target="_blank" rel="noopener noreferrer">Auto Tree Farm</a></li>
+<li><a href="https://www.youtube.com/watch?v=FskTJiknOgQ&amp;list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa&amp;index=32&amp;pp=iAQB" target="_blank" rel="noopener noreferrer">Elemental Aura</a></li>
+<li><a href="https://www.youtube.com/watch?v=fF6LC552cvY&amp;list=PL5eI1Tb64p54t7LyUaudX0ume6HbS4ikD&amp;index=2&amp;pp=iAQB" target="_blank" rel="noopener noreferrer">Skip Dialog (Safer than Fast Dialog)</a></li>
+</ul>
+<h3> Visual</h3>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=S9-g5weE9l8&amp;list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa&amp;index=37&amp;pp=iAQB" target="_blank" rel="noopener noreferrer">Constellation Modifier</a></li>
+<li><a href="https://youtu.be/EtRT95qEW6Y?si=v2AoRfRnjYrR93J5" target="_blank" rel="noopener noreferrer">Hide UI</a></li>
+<li><a href="https://youtu.be/AjkJ8S8NHsI?si=pZ3FDJXHcmfpe7Ee&amp;t=101" target="_blank" rel="noopener noreferrer">No Camera Blur</a></li>
+<li><a href="https://youtu.be/AjkJ8S8NHsI?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa&amp;t=102" target="_blank" rel="noopener noreferrer">No Camera Shake</a></li>
+<li>No Footprints</li>
+</ul>
+]]></content:encoded>
+    </item>
     <item>
       <title>Download</title>
       <link>https://korepi.com/en/start/download.html</link>
@@ -64,23 +146,11 @@
       <enclosure url="https://i.postimg.cc/3xjf2b38/proof.png" type="image/png"/>
     </item>
     <item>
-      <title>None</title>
-      <link>https://korepi.com/en/guide/page.html</link>
-      <guid>https://korepi.com/en/guide/page.html</guid>
-      <source url="https://korepi.com/en/rss.xml">None</source>
-      <description>Introduction This section is empty.</description>
-      <category>Guide</category>
-      <pubDate>Fri, 24 Nov 2023 14:31:46 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Introduction</h2>
-<p>This section is empty.</p>
-]]></content:encoded>
-    </item>
-    <item>
       <title>Catalog</title>
       <link>https://korepi.com/en/start/</link>
       <guid>https://korepi.com/en/start/</guid>
       <source url="https://korepi.com/en/rss.xml">Catalog</source>
-      <description>CatalogJoining the Server (join.md); Verification (verify.md); Obtaining the Fans Role (sign-in.md); Becoming a Sponsor (sponsor.md); Download (download.md);</description>
+      <description>CatalogJoining the Server (join.md); Verification (verify.md); Obtaining the Fans Role (sign-in.md); Becoming a Sponsor (sponsor.md); Sponsor Exclusive Features (sponsor-ex...</description>
       <category>Guide</category>
       <pubDate>Fri, 24 Nov 2023 14:31:46 GMT</pubDate>
       <content:encoded><![CDATA[<h2> Catalog</h2>
@@ -96,6 +166,9 @@
 </li>
 <li>
 <p><a href="/en/start/sponsor.html" target="blank">Becoming a Sponsor</a></p>
+</li>
+<li>
+<p><a href="/en/start/sponsor-exclusive.html" target="blank">Sponsor Exclusive Features</a></p>
 </li>
 <li>
 <p><a href="/en/start/download.html" target="blank">Download</a></p>
@@ -172,10 +245,15 @@
       <link>https://korepi.com/en/guide/</link>
       <guid>https://korepi.com/en/guide/</guid>
       <source url="https://korepi.com/en/rss.xml">Guides</source>
-      <description>This page is still under construction. Check back later, or contribute to filling in the content.</description>
+      <description>CatalogHow to reset HWID Network(F) (hwid-f.md); How to reset HWID Local(V)(Sponsor) (hwid-v.md); How to Multi-instance (multi-instance.md);</description>
       <category>Guide</category>
       <pubDate>Mon, 20 Nov 2023 12:30:39 GMT</pubDate>
-      <content:encoded><![CDATA[<p>This page is still under construction. Check back later, or contribute to filling in the content.</p>
+      <content:encoded><![CDATA[<h2> Catalog</h2>
+<ul>
+<li><a href="/en/guide/hwid-f.html" target="blank">How to reset HWID Network(F)</a></li>
+<li><a href="/en/guide/hwid-v.html" target="blank">How to reset HWID Local(V)(Sponsor)</a></li>
+<li><a href="/en/guide/multi-instance.html" target="blank">How to Multi-instance</a></li>
+</ul>
 ]]></content:encoded>
     </item>
   </channel>
