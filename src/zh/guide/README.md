@@ -5,7 +5,7 @@ category:
   - 指南
 tag:
   - 开始
-author: QweRez
+author: Micah
 ---
 
-此页面仍在建设中。请稍后再来，或者参与填写内容。
+[配置文件的切换](config-change.md)
