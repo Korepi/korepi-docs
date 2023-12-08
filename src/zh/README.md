@@ -8,7 +8,7 @@ bgImageDark: https://theme-hope-assets.vuejs.press/bg/6-dark.svg
 bgImageStyle:
   background-attachment: fixed
 heroText: Korepi
-tagline: 我们提供价格适中、高质量且易于使用的 Korepi 产品！
+tagline: 我们提供高质量且易于使用的 Korepi 便捷工具！
 actions:
   - text: 下载
     icon: download
@@ -27,6 +27,8 @@ highlights:
     highlights:
       - title: 解锁未探索的地点
       - title: 可自动探索宝箱！
+      - title: 探索模式，让你更专注于游戏！
+      - title: 支持不同语言！
 
   - header: 实用、便捷、与原神互动技术
     description: 独特的功能，免费使用
