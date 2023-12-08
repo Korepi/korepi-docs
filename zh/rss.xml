@@ -6,11 +6,44 @@
     <link>https://korepi.com/zh/</link>
     <description>Korepi 中文文档介绍</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 08 Dec 2023 13:22:15 GMT</pubDate>
-    <lastBuildDate>Fri, 08 Dec 2023 13:22:15 GMT</lastBuildDate>
+    <pubDate>Fri, 08 Dec 2023 13:36:57 GMT</pubDate>
+    <lastBuildDate>Fri, 08 Dec 2023 13:36:57 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>指南</category>
+    <item>
+      <title>配置文件的切换与绑定</title>
+      <link>https://korepi.com/zh/guide/config-change.html</link>
+      <guid>https://korepi.com/zh/guide/config-change.html</guid>
+      <source url="https://korepi.com/zh/rss.xml">配置文件的切换与绑定</source>
+      <description>配置文件的切换 开启辅助后在功能界面的左上方切换配置（默认配置是 A，您应该可以找到 A 这个字母） img.png 如果您不想每一次上号都进行一次切换配置，那么您可以对配置文件进行绑定 img_1.png</description>
+      <category>指南</category>
+      <pubDate>Fri, 08 Dec 2023 13:35:25 GMT</pubDate>
+      <content:encoded><![CDATA[<h1> 配置文件的切换与绑定</h1>
+<h1> 配置文件的切换</h1>
+<p>配置文件的切换 开启辅助后在功能界面的左上方切换配置（默认配置是 A，您应该可以找到 A 这个字母）</p>
+<figure><figcaption>img.png</figcaption></figure>
+<h1> 配置文件的绑定</h1>
+<p>如果您不想每一次上号都进行一次切换配置，那么您可以对配置文件进行绑定
+</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>esp调配设置</title>
+      <link>https://korepi.com/zh/guide/esp-setting.html</link>
+      <guid>https://korepi.com/zh/guide/esp-setting.html</guid>
+      <source url="https://korepi.com/zh/rss.xml">esp调配设置</source>
+      <description>可以通过各种方式定位并绘制到你面前矩阵的物品(可设置); img.png</description>
+      <category>指南</category>
+      <pubDate>Fri, 08 Dec 2023 13:35:25 GMT</pubDate>
+      <content:encoded><![CDATA[<h1> esp介绍</h1>
+<ul>
+<li>可以通过各种方式定位并绘制到你面前矩阵的物品<code>(可设置)</code></li>
+</ul>
+<figure><figcaption>img.png</figcaption></figure>
+<h1> 待补充</h1>
+]]></content:encoded>
+    </item>
     <item>
       <title>下载</title>
       <link>https://korepi.com/zh/start/download.html</link>
@@ -92,18 +125,6 @@
 <p>部分功能需到科技内
 〖设定→其他，勾选启用危险功能〗
 才会显示（有时需要重复勾选/取消几次 危险功能才会显示出来</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>无</title>
-      <link>https://korepi.com/zh/guide/page.html</link>
-      <guid>https://korepi.com/zh/guide/page.html</guid>
-      <source url="https://korepi.com/zh/rss.xml">无</source>
-      <description>介绍 此部分为空。</description>
-      <category>指南</category>
-      <pubDate>Fri, 24 Nov 2023 14:31:46 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> 介绍</h2>
-<p>此部分为空。</p>
 ]]></content:encoded>
     </item>
     <item>
@@ -203,10 +224,10 @@
       <link>https://korepi.com/zh/guide/</link>
       <guid>https://korepi.com/zh/guide/</guid>
       <source url="https://korepi.com/zh/rss.xml">指南</source>
-      <description>此页面仍在建设中。请稍后再来，或者参与填写内容。</description>
+      <description>配置文件的切换 (config-change.md)</description>
       <category>指南</category>
       <pubDate>Mon, 20 Nov 2023 11:28:37 GMT</pubDate>
-      <content:encoded><![CDATA[<p>此页面仍在建设中。请稍后再来，或者参与填写内容。</p>
+      <content:encoded><![CDATA[<p><a href="/zh/guide/config-change.html" target="blank">配置文件的切换</a></p>
 ]]></content:encoded>
     </item>
   </channel>
