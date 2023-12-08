@@ -18,4 +18,6 @@ author: Schvis
 
 - [Convertirse en Sponsor](sponsor.md)
 
+- [Funciones Exclusivas de Sponsor](sponsor-exclusive.md)
+
 - [Descargar](download.md)

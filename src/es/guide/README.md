@@ -8,4 +8,7 @@ tag:
 author: Schvis
 ---
 
-Esta pagina aun esta bajo construcción. Vuelve más tarde, o contribuye añadiendo contenido.
+## Catalogo
+
+- [Restablecer HWID](resethwid.md)
+- [Como usar Multi-Instancia](multi-instance.md)
