@@ -8,4 +8,8 @@ tag:
 author: QweRez
 ---
 
-This page is still under construction. Check back later, or contribute to filling in the content.
+## Catalog
+
+- [How to reset HWID Network(F)](hwid-f.md)
+- [How to reset HWID Local(V)(Sponsor)](hwid-v.md)
+- [How to Multi-instance](multi-instance.md)

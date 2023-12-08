@@ -18,4 +18,6 @@ author: QweRez
 
 - [Becoming a Sponsor](sponsor.md)
 
+- [Sponsor Exclusive Features](sponsor-exclusive.md)
+
 - [Download](download.md)

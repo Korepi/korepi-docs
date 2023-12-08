@@ -20,6 +20,6 @@ author: rekiihype, Ikuyo
 
 - [Cara Sponsor](sponsor.md)
  
-- [Fitur Eksklusif Sponsor](sponsor-exclusive(BACKUP).md)
+- [Fitur Eksklusif Sponsor](sponsor-exclusive.md)
   
 - [Cara Download](download.md)
