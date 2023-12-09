@@ -6,11 +6,50 @@
     <link>https://korepi.com/zh/</link>
     <description>Korepi 中文文档介绍</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 08 Dec 2023 15:47:02 GMT</pubDate>
-    <lastBuildDate>Fri, 08 Dec 2023 15:47:02 GMT</lastBuildDate>
+    <pubDate>Sat, 09 Dec 2023 08:16:02 GMT</pubDate>
+    <lastBuildDate>Sat, 09 Dec 2023 08:16:02 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>指南</category>
+    <item>
+      <title>Korepi与3DM同时运行教程</title>
+      <link>https://korepi.com/zh/guide/3DM-tutorial.html</link>
+      <guid>https://korepi.com/zh/guide/3DM-tutorial.html</guid>
+      <source url="https://korepi.com/zh/rss.xml">Korepi与3DM同时运行教程</source>
+      <description>3DM链接 (https://d3dxskinmanage.numlinka.com/#/downloads/d3dx-skin-manage) Alt text Alt text Alt text Alt text Alt text Alt text 备注:出现Now run the game 代表运行成功。如果没有出现dll位置，请在文件夹里找到d...</description>
+      <category>指南</category>
+      <pubDate>Sat, 09 Dec 2023 07:33:42 GMT</pubDate>
+      <content:encoded><![CDATA[<hr>
+<h1> 1.下载3dm，下载地址和具体使用教程：</h1>
+<p><a href="https://d3dxskinmanage.numlinka.com/#/downloads/d3dx-skin-manage" target="_blank" rel="noopener noreferrer">3DM链接</a></p>
+<h1> 2.打开3dm并且运行，如下图：</h1>
+<figure><figcaption>Alt text</figcaption></figure>
+<h1> 3.选择原神图标并且点击Login加载。</h1>
+<figure><figcaption>Alt text</figcaption></figure>
+<h1> 4.进入后，找到运行环境，并且点击</h1>
+<figure><figcaption>Alt text</figcaption></figure>
+<h1> 5.找到用户设置，先设置3dm版本，建议使用playing版本，然后设置游戏路径，点击文件选择工具选择自己的原神文件夹位置。最后在自定义选项中选择korepi的文件位置。</h1>
+<figure><figcaption>Alt text</figcaption></figure>
+<h1> 6.点击启动3dm。</h1>
+<figure><figcaption>Alt text</figcaption></figure>
+<h1> 7.打开后，复制以下内容。</h1>
+<p>
+备注:出现Now run the game   代表运行成功。如果没有出现dll位置，请在文件夹里找到d3dll.dll，并且通过属性复制所在位置。</p>
+<h1> 8.打开korepi的cfg.ini文件（文本形式打开）</h1>
+<figure><figcaption>Alt text</figcaption></figure>
+<h1> 9.将复制的内容粘贴在DllPath =之后，保存即可。</h1>
+<figure><figcaption>Alt text</figcaption></figure>
+<p>备注：如果没有上图部分内容请复制：</p>
+<ul>
+<li>ADll =</li>
+<li>DDll =</li>
+<li>DllPath =
+保存即可。</li>
+</ul>
+<h1> 10.打开korepi注入器。即可运行3dm。</h1>
+<p>备注：之后3dm可以不需要打开，直接用korepi即可自动打开。如果mod没开启，先去把3dm打开，再开korepi。加mod可以直接看第一点的教程。</p>
+]]></content:encoded>
+    </item>
     <item>
       <title>自定义传送的使用指南</title>
       <link>https://korepi.com/zh/guide/custom-tp-setting.html</link>
@@ -248,12 +287,13 @@
       <link>https://korepi.com/zh/guide/</link>
       <guid>https://korepi.com/zh/guide/</guid>
       <source url="https://korepi.com/zh/rss.xml">指南</source>
-      <description>配置文件的切换 (config-change.md); esp调配设置 (esp-setting.md);</description>
+      <description>配置文件的切换 (config-change.md); esp调配设置 (esp-setting.md); Korepi与3DM同时运行教程 (3DM-tutorial.md);</description>
       <category>指南</category>
       <pubDate>Mon, 20 Nov 2023 11:28:37 GMT</pubDate>
       <content:encoded><![CDATA[<ul>
 <li><a href="/zh/guide/config-change.html" target="blank">配置文件的切换</a></li>
 <li><a href="/zh/guide/esp-setting.html" target="blank">esp调配设置</a></li>
+<li><a href="/zh/guide/3DM-tutorial.html" target="blank">Korepi与3DM同时运行教程</a></li>
 </ul>
 ]]></content:encoded>
     </item>
