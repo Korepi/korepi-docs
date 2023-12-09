@@ -10,4 +10,5 @@ author: Micah
 
 - [配置文件的切换](config-change.md)
 - [esp调配设置](esp-setting.md)
+- [Korepi与3DM同时运行教程](3DM-tutorial.md)
 
