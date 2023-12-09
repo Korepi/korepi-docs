@@ -28,7 +28,7 @@ highlights:
       - title: 解锁未探索的地点
       - title: 可自动探索宝箱！
       - title: 探索模式，让你更专注于游戏！
-      - title: 支持不同语言！
+      - title: 支持多种语言！
 
   - header: 实用、便捷、与原神互动技术
     description: 独特的功能，免费使用
@@ -84,9 +84,9 @@ highlights:
       - title: 自动烹饪
         icon: utensils
         details: 无需玩家参与，自动烹饪食物
-      - title: 吸引怪物
+      - title: 吸附怪物
         icon: tornado
-        details: 吸引附近各种怪物
+        details: 吸附附近各种怪物
 
   - header: 最新 Bug 修复
     image: /assets/image/features.svg
