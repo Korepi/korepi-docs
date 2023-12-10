@@ -4,7 +4,7 @@ export const esSidebar = sidebar({
   "/es/": [
     "",
     {
-      text: "Comienzo",
+      text: "Inicio",
       icon: "info-circle",
       prefix: "start/",
       children: "structure",
