@@ -6,11 +6,92 @@
     <link>https://korepi.com/en/</link>
     <description>Help on Korepi</description>
     <language>en-US</language>
-    <pubDate>Sat, 09 Dec 2023 08:16:02 GMT</pubDate>
-    <lastBuildDate>Sat, 09 Dec 2023 08:16:02 GMT</lastBuildDate>
+    <pubDate>Sun, 10 Dec 2023 07:31:34 GMT</pubDate>
+    <lastBuildDate>Sun, 10 Dec 2023 07:31:34 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Guide</category>
+    <item>
+      <title>Install Skins</title>
+      <link>https://korepi.com/en/guide/3DM-skin.html</link>
+      <guid>https://korepi.com/en/guide/3DM-skin.html</guid>
+      <source url="https://korepi.com/en/rss.xml">Install Skins</source>
+      <description>How to install custom Skins in GIMI Step 1: Download the Skin Head to Gamebanana (https://gamebanana.com/games/8552) and download a skin of your choice. Step 2: Install the Skin...</description>
+      <category>Guide</category>
+      <pubDate>Sun, 10 Dec 2023 01:50:24 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> How to install custom Skins in <code>GIMI</code></h2>
+<h2> Step 1: Download the Skin</h2>
+<p>Head to <a href="https://gamebanana.com/games/8552" target="_blank" rel="noopener noreferrer">Gamebanana</a> and download a skin of your choice.</p>
+<h2> Step 2: Install the Skin</h2>
+<p>We will head to our <code>GIMI</code> folder and look for <code>Mods</code> folder, inside that folder we will extract the file we just downloaded.</p>
+<h2> Step 3: Apply the skin</h2>
+<p>If we are already inside the game we will use <code>F10</code> to reload the Skins, if not, we will open the game following the <a href="/en/guide/3DM-tutorial.html" target="blank">last post</a> and the skin should be applied.</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>How to use custom skins</title>
+      <link>https://korepi.com/en/guide/3DM-tutorial.html</link>
+      <guid>https://korepi.com/en/guide/3DM-tutorial.html</guid>
+      <source url="https://korepi.com/en/rss.xml">How to use custom skins</source>
+      <description>How to use custom Skins in Korepi In order to use custom skins in we will need to download: 3DMigoto(GIMI). Method 1 Step 1: Download GIMI Download GIMI in their oficial Github ...</description>
+      <category>Guide</category>
+      <pubDate>Sun, 10 Dec 2023 01:50:24 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> How to use custom Skins in Korepi</h2>
+<p>
+In order to use custom skins in we will need to download:</p>
+<p><code>3DMigoto(GIMI)</code>.</p>
+<h2> Method 1</h2>
+<h2> Step 1: Download <code>GIMI</code></h2>
+<p>Download <code>GIMI</code> in their oficial <a href="https://github.com/SilentNightSound/GI-Model-Importer/releases/tag/v7.0" target="_blank" rel="noopener noreferrer">Github</a> and download the file named: <code>3dmigoto-GIMI-for-playing-mods.zip</code>.</p>
+<figure><figcaption></figcaption></figure>
+<h2> Step 2: Extract <code>GIMI</code> into a folder</h2>
+<p>After downloading <code>GIMI</code>, we will need to extract it into any folder of your choice, inside that folder you will find <code>d3d11.dll</code>, we will copy the path and add <code>/d3d11.dll</code> to the end, for example:</p>
+<p><code>"path/d3d11.dll"</code></p>
+<h2> Step 3: Add <code>GIMI</code> to Korepi</h2>
+<p>To do this we will need to add the next lines in <code>cfg.ini</code> inside korepi folder.</p>
+<figure><figcaption></figcaption></figure>
+<p>On <code>DllPath</code> we will paste the path we copied in the last step.</p>
+<figure><figcaption></figcaption></figure>
+<h2> Step 4: Open Korepi</h2>
+<p>If you followed the steps right, Korepi should launch with <code>GIMI</code> every time.</p>
+<h2> Method 2</h2>
+<h2> Step 1: Download <code>GIMI</code></h2>
+<p>Download <code>GIMI</code> in their oficial <a href="https://github.com/SilentNightSound/GI-Model-Importer/releases/tag/v7.0" target="_blank" rel="noopener noreferrer">Github</a> and download the file named: <code>3dmigoto-GIMI-for-playing-mods.zip</code>.</p>
+<figure><figcaption></figcaption></figure>
+<h2> Step 2: Extract <code>GIMI</code> into a folder</h2>
+<p>After downloading <code>GIMI</code>, we will need to extract it into any folder of your choice, inside that folder you will find <code>3DMigoto Loader.exe</code>, we will run this file first.</p>
+<h2> Step 4: Open Korepi</h2>
+<p>After running <code>GIMI</code>, we will run Korepi, <code>GIMI</code> will be loaded with Korepi after this, you will need to repeat these steps every time you want to launch Korepi with <code>GIMI</code>.</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>How to use Custom TP</title>
+      <link>https://korepi.com/en/guide/custom-tp-setting.html</link>
+      <guid>https://korepi.com/en/guide/custom-tp-setting.html</guid>
+      <source url="https://korepi.com/en/rss.xml">How to use Custom TP</source>
+      <description>How to use custom TP Step 1: Settings to use We will use the following settings. The recommended delay time is &amp;gt;15s. Step 2: Download the .json files for the custom tp We can fi...</description>
+      <category>Guide</category>
+      <pubDate>Sun, 10 Dec 2023 01:50:24 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> How to use custom TP</h2>
+<h2> Step 1: Settings to use</h2>
+<p>We will use the following settings.</p>
+<figure><figcaption></figcaption></figure>
+<p>The recommended delay time is &gt;15s.</p>
+<h2> Step 2: Download the <code>.json</code> files for the custom tp</h2>
+<p>We can find these files in <code>community-share</code> pinned post in the server. Download the ones that suits your needs.</p>
+<h2> Step 3: Select the tp files</h2>
+<p>Head to custom tp settings and go to this section:</p>
+<figure><figcaption></figcaption></figure>
+<p>Click on select path and select the folder containing the tp files you want to use.</p>
+<h2> Step 4: How to start the tps</h2>
+<p>After selecting the folder, check this checkbox:</p>
+<figure><figcaption></figcaption></figure>
+<p>After that we click on <code>Select</code>:</p>
+<figure><figcaption></figcaption></figure>
+<h2> Step 5: Enjoy the ride</h2>
+<p>The TPs will start automatically, if you got <a href="/en/start/sponsor.html" target="blank">Sponsor</a>, you will be able to see the progress and remaining time.</p>
+]]></content:encoded>
+    </item>
     <item>
       <title>How to Multi-Instance</title>
       <link>https://korepi.com/en/guide/multi-instance.html</link>
@@ -245,13 +326,16 @@ Warning: Don't do anything yet.</p>
       <link>https://korepi.com/en/guide/</link>
       <guid>https://korepi.com/en/guide/</guid>
       <source url="https://korepi.com/en/rss.xml">Guides</source>
-      <description>CatalogHow to reset HWID Network(F) (resethwid.md); How to Multi-instance (multi-instance.md);</description>
+      <description>CatalogHow to reset HWID (resethwid.md); How to Multi-instance (multi-instance.md); How to use custom skins (3DM-tutorial.md); How to download skins (3DM-skin.md); How to u...</description>
       <category>Guide</category>
       <pubDate>Mon, 20 Nov 2023 12:30:39 GMT</pubDate>
       <content:encoded><![CDATA[<h2> Catalog</h2>
 <ul>
-<li><a href="/en/guide/resethwid.html" target="blank">How to reset HWID Network(F)</a></li>
+<li><a href="/en/guide/resethwid.html" target="blank">How to reset HWID</a></li>
 <li><a href="/en/guide/multi-instance.html" target="blank">How to Multi-instance</a></li>
+<li><a href="/en/guide/3DM-tutorial.html" target="blank">How to use custom skins</a></li>
+<li><a href="/en/guide/3DM-skin.html" target="blank">How to download skins</a></li>
+<li><a href="/en/guide/custom-tp-setting.html" target="blank">How to use custom TP</a></li>
 </ul>
 ]]></content:encoded>
     </item>

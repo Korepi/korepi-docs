@@ -6,11 +6,92 @@
     <link>https://korepi.com/es/</link>
     <description>Ayuda en Korepi</description>
     <language>es-ES</language>
-    <pubDate>Sat, 09 Dec 2023 08:16:02 GMT</pubDate>
-    <lastBuildDate>Sat, 09 Dec 2023 08:16:02 GMT</lastBuildDate>
+    <pubDate>Sun, 10 Dec 2023 07:31:34 GMT</pubDate>
+    <lastBuildDate>Sun, 10 Dec 2023 07:31:34 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Guía</category>
+    <item>
+      <title>Instalar Skins</title>
+      <link>https://korepi.com/es/guide/3DM-skin.html</link>
+      <guid>https://korepi.com/es/guide/3DM-skin.html</guid>
+      <source url="https://korepi.com/es/rss.xml">Instalar Skins</source>
+      <description>Como instalar skins personalizadas en GIMI Paso 1: Descargar la skin Para esto deberemos ir a Gamebanana (https://gamebanana.com/games/8552) y seleccionar la skin que queremos y...</description>
+      <category>Guía</category>
+      <pubDate>Sun, 10 Dec 2023 01:50:24 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Como instalar skins personalizadas en <code>GIMI</code></h2>
+<h2> Paso 1: Descargar la skin</h2>
+<p>Para esto deberemos ir a <a href="https://gamebanana.com/games/8552" target="_blank" rel="noopener noreferrer">Gamebanana</a> y seleccionar la skin que queremos y descargarla</p>
+<h2> Paso 2: Instalar la skin</h2>
+<p>Iremos a nuestra carpeta de <code>GIMI</code> y buscaremos la carpeta de <code>Mods</code>, dentro de esta carpeta extraeremos nuestra skin.</p>
+<h2> Paso 3: Aplicar la skin</h2>
+<p>Si estamos dentro del juego le daremos a <code>F10</code> para recargar los mods, si no, abriremos el juego siguiendo la <a href="/es/guide/3DM-tutorial.html" target="blank">publicación anterior</a> y la skin ya estará aplicada.</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Skins Personalizadas</title>
+      <link>https://korepi.com/es/guide/3DM-tutorial.html</link>
+      <guid>https://korepi.com/es/guide/3DM-tutorial.html</guid>
+      <source url="https://korepi.com/es/rss.xml">Skins Personalizadas</source>
+      <description>Como usar skins personalizadas en Korepi Para poder usar skins personalizadas en Korepi tendremos que descargar la aplicación de 3DMigoto(GIMI). Método 1 Paso 1: Descargar GIMI ...</description>
+      <category>Guía</category>
+      <pubDate>Sun, 10 Dec 2023 01:50:24 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Como usar skins personalizadas en Korepi</h2>
+<p>
+Para poder usar skins personalizadas en Korepi tendremos que descargar la aplicación de</p>
+<p><code>3DMigoto(GIMI)</code>.</p>
+<h2> Método 1</h2>
+<h2> Paso 1: Descargar <code>GIMI</code></h2>
+<p>Descarga <code>GIMI</code> desde su <a href="https://github.com/SilentNightSound/GI-Model-Importer/releases/tag/v7.0" target="_blank" rel="noopener noreferrer">Github</a> oficial, descarga el archivo llamado <code>3dmigoto-GIMI-for-playing-mods.zip</code>.</p>
+<figure><figcaption></figcaption></figure>
+<h2> Paso 2: Extraer la carpeta de <code>GIMI</code></h2>
+<p>Después de descargar <code>GIMI</code>, lo extraemos en cualquier carpeta en el escritorio, dentro de esa carpeta encontraremos un archivo llamado <code>d3d11.dll</code>, copiaremos el directorio y añadiremos <code>/d3d11.dll</code>.</p>
+<p><code>"directorio/d3d11.dll"</code></p>
+<h2> Paso 3: Añadir <code>GIMI</code> a Korepi</h2>
+<p>Para esto tendremos que añadir las siguientes lineas al archivo llamado <code>cfg.ini</code> dentro de la carpeta de Korepi.</p>
+<figure><figcaption></figcaption></figure>
+<p>En <code>DllPath</code> pegaremos nuestro directorio mencionado en el paso anterior.</p>
+<figure><figcaption></figcaption></figure>
+<h2> Paso 4: Abrir Korepi</h2>
+<p>Después de realizar los pasos mencionados, GIMI se abrirá junto a Korepi cada vez que abras Korepi.</p>
+<h2> Método 2</h2>
+<h2> Paso 1: Descargar <code>GIMI</code></h2>
+<p>Descarga <code>GIMI</code> desde su <a href="https://github.com/SilentNightSound/GI-Model-Importer/releases/tag/v7.0" target="_blank" rel="noopener noreferrer">Github</a> oficial, descarga el archivo llamado <code>3dmigoto-GIMI-for-playing-mods.zip</code>.</p>
+<figure><figcaption></figcaption></figure>
+<h2> Paso 2: Extraer la carpeta de <code>GIMI</code></h2>
+<p>Después de descargar <code>GIMI</code>, lo extraemos en cualquier carpeta en el escritorio, dentro de esa carpeta encontraremos un archivo llamado <code>3DMigoto Loader.exe</code>, lo abriremos primero.</p>
+<h2> Paso 3: Abrir Korepi</h2>
+<p>Abriremos Korepi después de abrir <code>GIMI</code>, y se ejecutaran los dos juntos, tendrás que hacer el paso 2 cada vez que quieras usar <code>GIMI</code>.</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Teletransportes personalizados</title>
+      <link>https://korepi.com/es/guide/custom-tp-setting.html</link>
+      <guid>https://korepi.com/es/guide/custom-tp-setting.html</guid>
+      <source url="https://korepi.com/es/rss.xml">Teletransportes personalizados</source>
+      <description>Como usar Teletransportes personalizados Paso 1: Configuración Lo configuraremos de la siguiente manera: El tiempo de retraso recomendado es de &amp;gt;15s. Paso 2: Descargar los archi...</description>
+      <category>Guía</category>
+      <pubDate>Sun, 10 Dec 2023 01:50:24 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Como usar Teletransportes personalizados</h2>
+<h2> Paso 1: Configuración</h2>
+<p>Lo configuraremos de la siguiente manera:</p>
+<figure><figcaption></figcaption></figure>
+<p>El tiempo de retraso recomendado es de &gt;15s.</p>
+<h2> Paso 2: Descargar los archivos <code>.json</code> para los teletransportes</h2>
+<p>Para ello podremos encontrarlo en el canal de <code>community-share</code> en la publicación fijada. Lo descargaremos y lo extraemos en cualquier carpeta.</p>
+<h2> Paso 3: Seleccionar los teletransportes deseados</h2>
+<p>Entraremos en los ajustes dentro de Korepi de nuevo e iremos a la siguiente sección:</p>
+<figure><figcaption></figcaption></figure>
+<p>Le daremos click a select path, y elegiremos la carpeta de los teletransportes que deseamos utilizar.</p>
+<h2> Paso 4: Empezar los teletransportes</h2>
+<p>Después de seleccionar los teletransportes deberemos de darle a la siguiente casilla:</p>
+<figure><figcaption></figcaption></figure>
+<p>La activamos y le damos a <code>Seleccionar Botón0</code>:</p>
+<figure><figcaption></figcaption></figure>
+<h2> Paso 5: Disfrutar</h2>
+<p>Ahora los teletransportes empezaran, si tienes <a href="/es/start/sponsor.html" target="blank">Sponsor</a> habrá un contador del tiempo que tardara.</p>
+]]></content:encoded>
+    </item>
     <item>
       <title>Multi-Instancia</title>
       <link>https://korepi.com/es/guide/multi-instance.html</link>
@@ -119,21 +200,24 @@
       <link>https://korepi.com/es/guide/</link>
       <guid>https://korepi.com/es/guide/</guid>
       <source url="https://korepi.com/es/rss.xml">Guías</source>
-      <description>Catalogo Restablecer HWID (resethwid.md); Como usar Multi-Instancia (multi-instance.md);</description>
+      <description>Catalogo Restablecer HWID (resethwid.md); Como usar Multi-Instancia (multi-instance.md); Como usar Skins Personalizadas (3DM-tutorial.md); Como descargar Skins en GIMI (3DM-skin...</description>
       <category>Guía</category>
       <pubDate>Wed, 29 Nov 2023 17:50:00 GMT</pubDate>
       <content:encoded><![CDATA[<h2> Catalogo</h2>
 <ul>
 <li><a href="/es/guide/resethwid.html" target="blank">Restablecer HWID</a></li>
 <li><a href="/es/guide/multi-instance.html" target="blank">Como usar Multi-Instancia</a></li>
+<li><a href="/es/guide/3DM-tutorial.html" target="blank">Como usar Skins Personalizadas</a></li>
+<li><a href="/es/guide/3DM-skin.html" target="blank">Como descargar Skins en GIMI</a></li>
+<li><a href="/es/guide/custom-tp-setting.html" target="blank">Como usar teletransportes personalizados</a></li>
 </ul>
 ]]></content:encoded>
     </item>
     <item>
-      <title>Comienzo</title>
+      <title>Inicio</title>
       <link>https://korepi.com/es/start/</link>
       <guid>https://korepi.com/es/start/</guid>
-      <source url="https://korepi.com/es/rss.xml">Comienzo</source>
+      <source url="https://korepi.com/es/rss.xml">Inicio</source>
       <description>Catalogo Unirse al Servidor (join.md); Verificación (verify.md); Obteniendo el rol de Fans (sign-in.md); Convertirse en Sponsor (sponsor.md); Funciones Exclusivas de Sponsor (sp...</description>
       <category>Guía</category>
       <pubDate>Wed, 29 Nov 2023 17:50:00 GMT</pubDate>
