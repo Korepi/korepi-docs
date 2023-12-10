@@ -4,9 +4,9 @@ icon: circle-info
 category:
   - Guía
 tag:
-  - Comienzo
+  - Inicio
 author: Schvis
-order: 3
+order: 2
 ---
 
 ## Como usar Multi-Instancia (Abrir 2 juegos al mismo tiempo)

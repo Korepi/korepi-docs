@@ -4,7 +4,8 @@ icon: credit-card
 category:
     - Guía
 tag:
-    - Start
+    - Inicio
+    - Sponsor
 author: Schvis
 order: 4
 ---

@@ -1,10 +1,10 @@
 ---
-title: Comienzo
+title: Inicio
 icon: circle-info
 category:
   - Guía
 tag:
-  - Comienzo
+  - Inicio
 author: Schvis
 ---
 

@@ -5,6 +5,7 @@ category:
   - Guide
 tag:
   - Start
+  - Sponsor
 author: Kaede, Ikuyo
 order: 5
 ---
