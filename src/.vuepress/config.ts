@@ -8,7 +8,9 @@ import { googleAnalyticsPlugin } from '@vuepress/plugin-google-analytics'
 
 export default defineUserConfig({
     base: "/",
-
+    head: [
+        ['meta', { name: 'baidu-site-verification', content: 'codeva-GnP8DZ1yQi' }]
+    ],
     locales: {
         "/en/": {
             lang: "en-US",
