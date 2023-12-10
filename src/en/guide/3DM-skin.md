@@ -2,9 +2,9 @@
 title: Install Skins
 icon: circle-info
 category:
-  - Guía
+  - Guide
 tag:
-  - Comienzo
+  - Start
 author: Schvis
 order: 4
 ---
