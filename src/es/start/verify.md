@@ -4,7 +4,7 @@ icon: lock
 category:
   - Guía
 tag:
-  - Comienzo
+  - Inicio
 author: Schvis
 order: 2
 ---

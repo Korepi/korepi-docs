@@ -4,7 +4,7 @@ icon: circle-info
 category:
   - Guía
 tag:
-  - Comienzo
+  - Inicio
 author: Schvis
 ---
 

@@ -4,7 +4,8 @@ icon: circle-info
 category:
   - Guía
 tag:
-  - Comienzo
+  - Inicio
+  - Teletransportes
 author: Schvis
 order: 5
 ---

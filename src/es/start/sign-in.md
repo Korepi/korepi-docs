@@ -4,7 +4,7 @@ icon: user-plus
 category:
   - Guía
 tag:
-  - Comienzo
+  - Inicio
 author: Schvis
 order: 3
 ---

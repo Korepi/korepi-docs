@@ -4,7 +4,7 @@ icon: server
 category:
   - Guía
 tag:
-  - Comienzo
+  - Inicio
 author: Schvis
 order: 1
 ---

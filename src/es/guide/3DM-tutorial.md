@@ -4,7 +4,8 @@ icon: circle-info
 category:
   - Guía
 tag:
-  - Comienzo
+  - Inicio
+  - Skins
 author: Schvis
 order: 3
 ---

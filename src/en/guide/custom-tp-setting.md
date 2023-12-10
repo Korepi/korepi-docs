@@ -5,6 +5,7 @@ category:
   - Guide
 tag:
   - Start
+  - Teleports
 author: Schvis
 order: 5
 ---
