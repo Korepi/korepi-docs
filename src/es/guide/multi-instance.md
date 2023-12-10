@@ -6,7 +6,7 @@ category:
 tag:
   - Comienzo
 author: Schvis
-order: 3
+order: 2
 ---
 
 ## Como usar Multi-Instancia (Abrir 2 juegos al mismo tiempo)
