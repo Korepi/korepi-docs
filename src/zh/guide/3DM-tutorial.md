@@ -18,35 +18,35 @@ order: 5
 
 # 2.打开3dm并且运行，如下图：
 
- ![Alt text](images\3dm-2.png)
+ ![](images\3dm-2.png)
 
 # 3.选择原神图标并且点击Login加载。
 
- ![Alt text](images\3dm-3.png)
+ ![](images\3dm-3.png)
 
 # 4.进入后，找到运行环境，并且点击
 
- ![Alt text](images\3dm-4.png)
+ ![](images\3dm-4.png)
 
 # 5.找到用户设置，先设置3dm版本，建议使用playing版本，然后设置游戏路径，点击文件选择工具选择自己的原神文件夹位置。最后在自定义选项中选择korepi的文件位置。
 
- ![Alt text](images\3dm-5.png)
+ ![](images\3dm-5.png)
  
 # 6.点击启动3dm。
 
- ![Alt text](images\3dm-6.png)
+ ![](images\3dm-6.png)
 
 # 7.打开后，复制以下内容。
- ![Alt text](images\3dm-7.png)
+ ![](images\3dm-7.png)
  备注:出现Now run the game   代表运行成功。如果没有出现dll位置，请在文件夹里找到d3dll.dll，并且通过属性复制所在位置。
 
 # 8.打开korepi的cfg.ini文件（文本形式打开）
 
- ![Alt text](images\3dm-8.png)
+ ![](images\3dm-8.png)
 
 # 9.将复制的内容粘贴在DllPath =之后，保存即可。
 
- ![Alt text](images\3dm-9.png)
+ ![](images\3dm-9.png)
 
  备注：如果没有上图部分内容请复制：
  - ADll = 

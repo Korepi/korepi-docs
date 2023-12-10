@@ -22,15 +22,15 @@ order: 5
 ## ①通过以上链接赞助 一次性35RMB
 
  如果显示的是未认证作者那只是爱发电日常发癫，只要确保链接是上方提供的就行自选金额一次性/1个月 35RMB 即可
- ![Alt text](images/image.png)
+ ![](images/image.png)
 
 ## ②复制订单号（忘了在赞助时复制的人，能到订单处找出来）
 
- ![Alt text](images/image-1.png)
+ ![](images/image-1.png)
 
 ## ③ @micah-sign-bot 私信鸭子发送 /donate，再回复订单号 即可获得赞助者身份
 
- ![Alt text](images/image-2.png)
+ ![](images/image-2.png)
 
 ---
 
