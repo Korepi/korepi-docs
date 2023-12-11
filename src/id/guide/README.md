@@ -8,7 +8,7 @@ tag:
 author: rekiihype, Ikuyo, Natsume
 ---
 
-## Catalog
+## Katalog
 
 - [Cara Reset HWID](resethwid.md)
 - [Cara Multi-instance](multi-instance.md)
