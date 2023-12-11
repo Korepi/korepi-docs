@@ -1,49 +1,47 @@
 ---
-title: How to use Custom TP
+title: Cara Menggunakan TP Kustom
 icon: circle-info
 category:
-  - Guide
+  - Panduan
 tag:
-  - Start
+  - Buku Pemula
   - Teleports
-author: Schvis
+author: Schvis, Natsume
 order: 5
 ---
 
-## How to use custom TP
+## Cara Menggunakan Teleportasi Kustom
 
-## Step 1: Settings to use
+## Langkah 1: Pengaturan yang Diperlukan
 
-We will use the following settings.
+Gunakan pengaturan berikut.
 
 ![](images/teleport1.png)
 
-The recommended delay time is >15s.
+`Delay Time` yang direkomendasikan adalah >15 detik.
 
-## Step 2: Download the `.json` files for the custom tp
+## Langkah 2: Unduh Berkas `.json` untuk Teleportasi kustom
 
-We can find these files in `community-share` pinned post in the server. Download the ones that suits your needs.
+Kamu bisa menemukan filenya di postingan yang di `pin` pada `community-share` di server. Unduh yang sesuai dengan kebutuhanmu.
 
-## Step 3: Select the tp files
+## Langkah 3: Pilih file Teleportasi
 
-Head to custom tp settings and go to this section:
+Pergi ke pengaturan TP kustom/`custom tp settings` dan masuk ke bagian ini:
 
 ![](images/teleport2.png)
 
-Click on select path and select the folder containing the tp files you want to use.
+Klik pada pilihan `.json path` dan pilih folder yang berisi berkas TP yang ingin kamu gunakan.
 
-## Step 4: How to start the tps
+## Langkah 4: Cara Memulai TP
 
-After selecting the folder, check this checkbox:
+Setelah memilih folder, centang kotak ini:
 
 ![](images/teleport3.png)
 
-After that we click on `Select`:
+Setelah itu, klik `Select`:
 
 ![](images/teleport4.png)
 
-## Step 5: Enjoy the ride
+## Langkah 5: Nikmati Perjalanan
 
-The TPs will start automatically, if you got [Sponsor](../start/sponsor.md), you will be able to see the progress and remaining time.
-
-
+TP akan dimulai secara otomatis. Jika kamu memiliki [Sponsor](../start/sponsor.md), kamu akan dapat melihat progress dan waktu yang tersisa.
