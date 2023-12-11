@@ -1,62 +1,60 @@
 ---
-title: How to use custom skins
+title: Cara Menggunakan Skins Kustom
 icon: circle-info
 category:
-  - Guide
+  - Panduan
 tag:
-  - Start
+  - Mulai
   - Skins
-author: Schvis
+author: Schvis, Natsume
 order: 3
 ---
 
-## How to use custom Skins in Korepi
+## Cara Menggunakan Skins Kustom di Korepi
 
 ![](images/example.png)
-In order to use custom skins in we will need to download:
 
-`3DMigoto(GIMI)`.
-## Method 1
-## Step 1: Download `GIMI`
+Untuk menggunakan skins kustom di sini, kita perlu unduh:
 
-Download `GIMI` in their oficial [Github](https://github.com/SilentNightSound/GI-Model-Importer/releases/tag/v7.0) and download the file named: `3dmigoto-GIMI-for-playing-mods.zip`.
+`3DMigoto (GIMI)`.
+## Metode 1
+## Langkah 1: Unduh `GIMI`
+
+Unduh `GIMI` di [Github resminya](https://github.com/SilentNightSound/GI-Model-Importer/releases/tag/v7.0) dan unduh file yang namanya: `3dmigoto-GIMI-for-playing-mods.zip`.
 
 ![](images/3dm-1.png)
 
-## Step 2: Extract `GIMI` into a folder
+## Langkah 2: Ekstrak `GIMI` ke dalam folder
 
-After downloading `GIMI`, we will need to extract it into any folder of your choice, inside that folder you will find `d3d11.dll`, we will copy the path and add `/d3d11.dll` to the end, for example:
+Setelah mengunduh `GIMI`, ekstrak ke folder pilihanmu, di dalamnya ada `d3d11.dll`, salin path folder dan tambahkan `/d3d11.dll` di ujungnya, contohnya:
 
 `"path/d3d11.dll"`
 
-## Step 3: Add `GIMI` to Korepi
+## Langkah 3: Tambahkan `GIMI` ke Korepi
 
-To do this we will need to add the next lines in `cfg.ini` inside korepi folder.
+Untuk melakukannya, tambahkan baris berikut di `cfg.ini` dalam folder Korepi.
 
 ![](images/3dm-2.png)
 
-On `DllPath` we will paste the path we copied in the last step.
+Di bagian `DllPath`, tempelkan path yang tadi kita salin.
 
 ![](images/3dm-3.png)
 
-## Step 4: Open Korepi
+## Langkah 4: Buka Korepi
 
-If you followed the steps right, Korepi should launch with `GIMI` every time.
+Jika langkah-langkah ini diikuti dengan benar, Korepi seharusnya akan terbuka dengan `GIMI` setiap kali dijalankan.
 
-## Method 2
-## Step 1: Download `GIMI`
+## Metode 2
+## Langkah 1: Unduh `GIMI`
 
-Download `GIMI` in their oficial [Github](https://github.com/SilentNightSound/GI-Model-Importer/releases/tag/v7.0) and download the file named: `3dmigoto-GIMI-for-playing-mods.zip`.
+Unduh `GIMI` di [Github resminya](https://github.com/SilentNightSound/GI-Model-Importer/releases/tag/v7.0) dan ambil file yang namanya: `3dmigoto-GIMI-for-playing-mods.zip`.
 
 ![](images/3dm-1.png)
 
-## Step 2: Extract `GIMI` into a folder
+## Langkah 2: Ekstrak `GIMI` ke dalam folder
 
-After downloading `GIMI`, we will need to extract it into any folder of your choice, inside that folder you will find `3DMigoto Loader.exe`, we will run this file first.
+Setelah mengunduh `GIMI`, ekstrak ke folder pilihanmu, di dalamnya ada `3DMigoto Loader.exe`, kita akan menjalankan file ini terlebih dahulu.
 
-## Step 4: Open Korepi
+## Langkah 3: Buka Korepi
 
-After running `GIMI`, we will run Korepi, `GIMI` will be loaded with Korepi after this, you will need to repeat these steps every time you want to launch Korepi with `GIMI`.
-
-
-
+Setelah menjalankan `GIMI`, buka Korepi, `GIMI` akan terbuka dengan Korepi. Catatan, kamu perlu mengulangi langkah-langkah ini setiap kali ingin membuka Korepi dengan `GIMI`.
