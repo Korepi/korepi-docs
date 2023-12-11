@@ -32,4 +32,4 @@ Setelah itu, Anda akan mendapatkan akses ke saluran unduhan yang sesuai: `★⋅
 
 ## Langkah 4: Siap untuk Mulai!
 
-Di saluran tersebut, Anda akan menemukan tautan ke versi terbaru dan kata sandi untuk mengunduh panduan. Semoga berhasil!
+Di channel tersebut, Anda akan menemukan link untuk pergi ke versi terbaru dan kata sandi untuk membuka file arsipnya. Semoga berhasil!
