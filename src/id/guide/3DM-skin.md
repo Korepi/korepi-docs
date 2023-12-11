@@ -1,25 +1,25 @@
 ---
-title: Install Skins
+title: Pemasangan Skin
 icon: circle-info
 category:
-  - Guide
+  - Panduan
 tag:
-  - Start
+  - Mulai
   - Skins
-author: Schvis
+author: Schvis, Natsume
 order: 4
 ---
 
-## How to install custom Skins in `GIMI`
+## Cara Memasang Skins Kustom di `GIMI`
 
-## Step 1: Download the Skin
+## Langkah 1: Unduh Skin
 
-Head to [Gamebanana](https://gamebanana.com/games/8552) and download a skin of your choice.
+Buka [Gamebanana](https://gamebanana.com/games/8552) dan unduh skin pilihanmu.
 
-## Step 2: Install the Skin
+## Langkah 2: Pamasangan Skin
 
-We will head to our `GIMI` folder and look for `Mods` folder, inside that folder we will extract the file we just downloaded.
+Buka folder `GIMI` dan cari folder `Mods`, di dalamnya ekstrak file yang baru saja diunduh.
 
-## Step 3: Apply the skin
+## Langkah 3: Terapkan Skin
 
-If we are already inside the game we will use `F10` to reload the Skins, if not, we will open the game following the [last post](3DM-tutorial.md) and the skin should be applied.
+Jika sudah berada di dalam permainan, tekan `F10` untuk me-reload Skins. Jika belum, buka permainan sesuai dengan [posting sebelumnya](3DM-tutorial.md), dan skin akan terpasang.
