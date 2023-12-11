@@ -1,5 +1,5 @@
 ---
-title: Cara Mendapatkan Peran Fans
+title: Cara Mendapatkan Role Fans
 icon: user-plus
 category:
   - Panduan
@@ -9,15 +9,15 @@ author: rekiihype, Ikuyo, Natsume
 order: 3
 ---
 
-Untuk bisa mengakses Korepi, Anda perlu memiliki peran sebagai `Fans`. Ada dua cara yang dapat Anda tempuh untuk mendapatkan peran ini.
+Untuk bisa mengakses Korepi, Anda perlu memiliki role sebagai `Fans`. Ada dua cara yang dapat Anda tempuh untuk mendapatkan role ini.
 
 ## 1. Menjadi Sponsor
 
-Anda bisa langsung memperoleh peran `Fans` dengan cara menjadi Sponsor. Melalui langkah ini, Anda tidak perlu melakukan log-in setiap hari untuk mendapatkan peran `Fans`. Keuntungan lainnya juga akan Anda dapatkan dengan menjadi Sponsor. Untuk informasi lebih lengkap, silakan kunjungi [Cara Menjadi Sponsor](sponsor.md).
+Anda bisa langsung memperoleh role `Fans` dengan cara menjadi Sponsor. Melalui langkah ini, Anda tidak perlu melakukan log-in setiap hari untuk mendapatkan role `Fans`. Keuntungan lainnya juga akan Anda dapatkan dengan menjadi Sponsor. Untuk informasi lebih lengkap, silakan kunjungi [Cara Menjadi Sponsor](sponsor.md).
 
 ## 2. Melalui Log-in Setiap Hari Selama 7 Hari
 
-Alternatifnya, Anda bisa mendapatkan peran `Fans` secara gratis tanpa harus menjadi Sponsor.
+Alternatifnya, Anda bisa mendapatkan role `Fans` secara gratis tanpa harus menjadi Sponsor.
 
 1. Mulailah percakapan pribadi dengan @micah-sign-bot
 
@@ -35,4 +35,4 @@ Alternatifnya, Anda bisa mendapatkan peran `Fans` secara gratis tanpa harus menj
 
 [![](https://i.postimg.cc/Nf07wbmh/signin4.png)](https://postimg.cc/t7LV33BD)
 
-Selamat, Anda kini telah berhasil mendapatkan peran sebagai `Fans`.
+Selamat, Anda kini telah berhasil mendapatkan role sebagai `Fans`.
