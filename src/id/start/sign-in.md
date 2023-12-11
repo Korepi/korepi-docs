@@ -13,9 +13,9 @@ Untuk bisa mengakses Korepi, Anda perlu memiliki role sebagai `Fans`. Ada dua ca
 
 ## 1. Menjadi Sponsor
 
-Anda bisa langsung memperoleh role `Fans` dengan cara menjadi Sponsor. Melalui langkah ini, Anda tidak perlu melakukan log-in setiap hari untuk mendapatkan role `Fans`. Keuntungan lainnya juga akan Anda dapatkan dengan menjadi Sponsor. Untuk informasi lebih lengkap, silakan kunjungi [Cara Menjadi Sponsor](sponsor.md).
+Anda bisa langsung memperoleh role `Fans` dengan cara menjadi Sponsor. Melalui langkah ini, Anda tidak perlu melakukan sign-in setiap hari untuk mendapatkan role `Fans`. Keuntungan lainnya juga akan Anda dapatkan dengan menjadi Sponsor. Untuk informasi lebih lengkap, silakan kunjungi [Cara Menjadi Sponsor](sponsor.md).
 
-## 2. Melalui Log-in Setiap Hari Selama 7 Hari
+## 2. Melalui Sign-in Setiap Hari Selama 7 Hari
 
 Alternatifnya, Anda bisa mendapatkan role `Fans` secara gratis tanpa harus menjadi Sponsor.
 
