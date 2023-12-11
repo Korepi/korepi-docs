@@ -6,8 +6,8 @@
     <link>https://korepi.com/id/</link>
     <description>Pertolongan Korepi</description>
     <language>id-ID</language>
-    <pubDate>Sun, 10 Dec 2023 15:17:56 GMT</pubDate>
-    <lastBuildDate>Sun, 10 Dec 2023 15:17:56 GMT</lastBuildDate>
+    <pubDate>Mon, 11 Dec 2023 13:36:38 GMT</pubDate>
+    <lastBuildDate>Mon, 11 Dec 2023 13:36:38 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Panduan</category>
@@ -28,30 +28,30 @@
       <link>https://korepi.com/id/guide/resethwid.html</link>
       <guid>https://korepi.com/id/guide/resethwid.html</guid>
       <source url="https://korepi.com/id/rss.xml">Cara melakukan reset HWID</source>
-      <description>Reset HWID: Network(F) Langkah 1: Masuk ke website Korepi Login Silakan masuk ke Korepi Login (https://keyauth.cc/panel/Strigger/Korepi) Peringatan: jangan melakukan apapun terl...</description>
+      <description>Reset HWID: Network(F) Langkah 1: Masuk ke Website Korepi Login Silakan masuk ke Korepi Login (https://keyauth.cc/panel/Strigger/Korepi) Peringatan: Jangan lakukan apapun terleb...</description>
       <category>Panduan</category>
       <pubDate>Fri, 08 Dec 2023 03:42:59 GMT</pubDate>
       <content:encoded><![CDATA[<h2> Reset HWID: Network(F)</h2>
 <iframe width="640" height="360" src="https://www.youtube.com/embed/DRSEmYsl4F4" title="how to change hwid for F" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
-<h2> Langkah 1: Masuk ke website Korepi Login</h2>
+<h3> Langkah 1: Masuk ke Website Korepi Login</h3>
 <p>Silakan masuk ke <a href="https://keyauth.cc/panel/Strigger/Korepi" target="_blank" rel="noopener noreferrer">Korepi Login</a>
-Peringatan: jangan melakukan apapun terlebih dahulu.</p>
-<h2> Langkah 2: Ambil key Anda</h2>
-<p>Ambil key Anda pada berkas <code>license.json</code> Anda atau menuju ke <code>★⋅micah-bot-verify⋅★</code> dan klik pada <code>F: Getkey</code> untuk mengambil key Anda.</p>
-<h2> Langkah 3: Login di Korepi</h2>
-<p>Setelah mendapatkan key Anda, pergi ke <a href="https://keyauth.cc/panel/Strigger/Korepi" target="_blank" rel="noopener noreferrer">Korepi Login</a>, dan tempelkan Key Anda pada sisi username dan password, klik login, setelah itu, klik <code>Reset HWID</code>.</p>
-<h2> Langkah 4: Buka Injector</h2>
-<p>Setelah Anda reset HWID, Buka injector Anda dan tempelkan key anda lagi.</p>
-<p>Enjoy Korepi again!</p>
+Peringatan: Jangan lakukan apapun terlebih dahulu.</p>
+<h3> Langkah 2: Ambil Key Anda</h3>
+<p>Ambil key Anda dari berkas <code>license.json</code> atau pergi ke <code>★⋅micah-bot-verify⋅★</code> dan klik <code>F: Getkey</code> untuk mengambil key Anda.</p>
+<h3> Langkah 3: Login di Korepi</h3>
+<p>Setelah mendapatkan key Anda, pergi ke <a href="https://keyauth.cc/panel/Strigger/Korepi" target="_blank" rel="noopener noreferrer">Korepi Login</a>, tempelkan Key Anda pada kolom username dan password, klik login, lalu klik <code>Reset HWID</code>.</p>
+<h3> Langkah 4: Buka Injector</h3>
+<p>Setelah mereset HWID, buka injector Anda dan tempelkan kembali key Anda.</p>
+<p>Nikmati Korepi kembali!</p>
 <h2> Reset HWID: Local(V) (Sponsor)</h2>
 <iframe width="640" height="360" src="https://www.youtube.com/embed/q0G9UZHErrg?list=PL5eI1Tb64p56Mp6JqoR_o3BYk9UFTbOQI" title="How to reset Local V HWID" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
-<h2> Langkah 1: Ambil HWID Anda</h2>
-<p>Untuk mendapatkan HWID, Anda harus membuka  <code>Local(V) injector</code>, dan HWID akan secara otomatis tersalin.</p>
-<h2> Langkah 2: Cari channel <code>★⋅micah-bot-verify⋅★</code></h2>
-<p>Setelah menemukan <code>★⋅micah-bot-verify⋅★</code>, klik pada tombol <code>V:Change HWID</code>, sebuah jendela akan muncul dan meminta Anda memasukkan HWID Anda, tempelkan dan klik <code>submit</code>.</p>
-<h2> Langkah 3: Ambil berkas <code>enc.json</code> baru Anda</h2>
-<p>Setelah selesai melakukan <code>V:change HWID</code>. Sekarang unduh berkas <code>enc.json</code> baru dan gantikan berkas tersebut dalam folder Korepi Anda.</p>
-<p>Catatan: Ingat bahwa berkas tersebut harus bernama <code>enc.json</code>.</p>
+<h3> Langkah 1: Ambil HWID Anda</h3>
+<p>Buka <code>Local(V) injector</code> untuk mendapatkan HWID, yang akan otomatis tersalin.</p>
+<h3> Langkah 2: Cari channel <code>★⋅micah-bot-verify⋅★</code></h3>
+<p>Temukan <code>★⋅micah-bot-verify⋅★</code>, klik <code>V:Change HWID</code>, lalu masukkan HWID Anda pada jendela yang muncul, tempelkan dan klik <code>submit</code>.</p>
+<h3> Langkah 3: Ambil Berkas <code>enc.json</code> Baru Anda</h3>
+<p>Setelah melakukan <code>V:change HWID</code>, unduh berkas <code>enc.json</code> baru dan gantikan berkas tersebut dalam folder Korepi Anda.
+Catatan: Pastikan berkas tersebut bernama <code>enc.json</code>.</p>
 ]]></content:encoded>
     </item>
     <item>
@@ -94,54 +94,54 @@ Peringatan: jangan melakukan apapun terlebih dahulu.</p>
 ]]></content:encoded>
     </item>
     <item>
-      <title>Unduh</title>
+      <title>Panduan Download</title>
       <link>https://korepi.com/id/start/download.html</link>
       <guid>https://korepi.com/id/start/download.html</guid>
-      <source url="https://korepi.com/id/rss.xml">Unduh</source>
-      <description>Pengantar Selamat datang dikomunitas kami! Untuk lolos dari pemeriksaan bot dan mendapatkan role Newcomer, silakan untuk menonton video Tutorial ini (https://youtu.be/4gm6JzAnq4...</description>
+      <source url="https://korepi.com/id/rss.xml">Panduan Download</source>
+      <description>Selamat Datang! Hai, selamat bergabung di komunitas kami! Untuk bisa masuk dan mendapatkan role Newcomer, pastikan untuk menonton video Tutorial ini (https://youtu.be/4gm6JzAnq4...</description>
       <category>Panduan</category>
       <pubDate>Thu, 30 Nov 2023 10:24:26 GMT</pubDate>
-      <content:encoded><![CDATA[<h1> Unduh</h1>
-<h2> Pengantar</h2>
-<p>Selamat datang dikomunitas kami! Untuk lolos dari pemeriksaan bot dan mendapatkan role <code>Newcomer</code>, silakan untuk menonton video <a href="https://youtu.be/4gm6JzAnq4w?si=DS00t4anVCT4O_4I" target="_blank" rel="noopener noreferrer">Tutorial ini</a> atau ikuti langkah-langkah berikut.</p>
-<h2> Langkah 1: Bergabunglah dengan server kami dan dapatkan role <code>Newcomer</code> dan <code>Fans</code></h2>
-<p>Jika Anda belum bergabung dengan server, harap baca saluran verifikasi, yang menjelaskan cara bergabung dengan server dan mendapatkan role <code>Newcomer</code> dan <code>Fans</code>.</p>
-<h2> Langkah 2: Pergi ke saluran <code>★⋅korepi-version-roles⋅★</code></h2>
-<p>Temukan saluran <code>★⋅korepi-version-roles⋅★</code> dan pilih role versi F-Auth atau V-Auth. Kami menyarankan untuk memilih role F-Auth.</p>
-<h2> Langkah 3: Unduh berkas yang diperlukan</h2>
-<p>Setelah itu, Anda akan memiliki akses ke saluran unduhan yang sesuai: <code>★⋅f-download⋅★</code> atau <code>★⋅v-download⋅★</code>.</p>
-<h2> Langkah 4: Siap!</h2>
-<p>Di saluran, Anda akan menemukan tautan ke versi terbaru dan kata sandi untuk berkas. Semoga beruntung!</p>
+      <content:encoded><![CDATA[<h1> Panduan Unduh</h1>
+<h2> Selamat Datang!</h2>
+<p>Hai, selamat bergabung di komunitas kami! Untuk bisa masuk dan mendapatkan role <code>Newcomer</code>, pastikan untuk menonton video <a href="https://youtu.be/4gm6JzAnq4w?si=DS00t4anVCT4O_4I" target="_blank" rel="noopener noreferrer">Tutorial ini</a> atau ikuti langkah-langkah di bawah ini.</p>
+<h2> Langkah 1: Bergabung di Server Kami!</h2>
+<p>Jika Anda belum bergabung, silakan baca instruksi di saluran verifikasi tentang cara bergabung di server dan mendapatkan role <code>Newcomer</code> dan <code>Fans</code>.</p>
+<h2> Langkah 2: Pilih role di <code>★⋅korepi-version-roles⋅★</code></h2>
+<p>Cari dan pilih role versi F-Auth atau V-Auth di saluran <code>★⋅korepi-version-roles⋅★</code>. Kami merekomendasikan memilih peran F-Auth.</p>
+<h2> Langkah 3: Download Panduan yang Dibutuhkan</h2>
+<p>Setelah itu, Anda akan mendapatkan akses ke saluran unduhan yang sesuai: <code>★⋅f-download⋅★</code> atau <code>★⋅v-download⋅★</code>.</p>
+<h2> Langkah 4: Siap untuk Mulai!</h2>
+<p>Di saluran tersebut, Anda akan menemukan tautan ke versi terbaru dan kata sandi untuk mengunduh panduan. Semoga berhasil!</p>
 ]]></content:encoded>
     </item>
     <item>
-      <title>Cara Menjadi Sponsor</title>
+      <title>Panduan Menjadi Sponsor</title>
       <link>https://korepi.com/id/start/sponsor.html</link>
       <guid>https://korepi.com/id/start/sponsor.html</guid>
-      <source url="https://korepi.com/id/rss.xml">Cara Menjadi Sponsor</source>
-      <description>Bagaimana cara menjadi Sponsor? Untuk menjadi Sponsor, Anda harus berdonasi setidaknya 50k Rupiah atau 1 pizza jika donasi melalui Trakteer (https://trakteer.id/strigger). Di ma...</description>
+      <source url="https://korepi.com/id/rss.xml">Panduan Menjadi Sponsor</source>
+      <description>Bagaimana Cara Menjadi Sponsor? Untuk menjadi Sponsor, Anda hanya perlu berdonasi minimal 50.000 Rupiah atau setara dengan 1 pizza jika donasi dilakukan melalui Trakteer (https:...</description>
       <category>Panduan</category>
       <pubDate>Tue, 28 Nov 2023 17:13:32 GMT</pubDate>
-      <content:encoded><![CDATA[<h3> Bagaimana cara menjadi Sponsor?</h3>
-<p>Untuk menjadi Sponsor, Anda harus berdonasi setidaknya 50k Rupiah atau 1 pizza jika donasi melalui <a href="https://trakteer.id/strigger" target="_blank" rel="noopener noreferrer">Trakteer</a>.</p>
-<h3> Di mana saya dapat berdonasi?</h3>
-<p>Setelah Anda berada di server, silakan masuk ke <a href="https://discord.com/channels/1069057220802781265/1097565269985071205" target="_blank" rel="noopener noreferrer">#sponsorship</a> channel. Pilih salah satu tautan yang Anda inginkan untuk berdonasi.</p>
-<h3> Apa yang harus dilakukan setelah saya selesai berdonasi?</h3>
-<p>Jika anda telah berdonasi, Anda bisa mengirimkan bukti donasi anda ke moderator yang tersedia. Pastikan anda menyertakan tangkapan layar atau tautan donasi sebagai bukti.</p>
-<figure><a href="https://postimg.cc/MnTYS5cN" target="_blank" rel="noopener noreferrer"><img src="https://i.postimg.cc/3xjf2b38/proof.png" alt="" tabindex="0" loading="lazy"></a><figcaption></figcaption></figure>
-<h2> (BAGI NON-FANS) Bagaimana cara mengklaim role Fans setelah mendapatkan role Sponsor?</h2>
-<p>Jika anda seorang Sponsor dan tidak memiliki role Fans, Anda dapat mengabaikan proses sign-in selama 7 hari dan langsung mengklaim role fans tersebut. Anda dapat melihat video <a href="https://www.youtube.com/watch?v=cHRC7XdsKQo&amp;list=PL5eI1Tb64p56Mp6JqoR_o3BYk9UFTbOQI&amp;index=1&amp;pp=iAQB" target="_blank" rel="noopener noreferrer">Tutorial ini</a> atau dengan mengikuti langkah-langkah sebagai berikut.</p>
-<h3> Langkah 1: Buka tiket</h3>
-<p>Untuk melakukannya, Anda harus masuk ke channel <a href="https://discord.com/channels/1069057220802781265/1152887509517344870" target="_blank" rel="noopener noreferrer">#ticket-start</a> (hanya dapat dilihat jika anda sudah memiliki Sponsor).</p>
-<figure><a href="https://postimg.cc/dLD6D8jC" target="_blank" rel="noopener noreferrer"><img src="https://i.postimg.cc/NfkzJDyd/openticket1.png" alt="" tabindex="0" loading="lazy"></a><figcaption></figcaption></figure>
-<p>Setelah anda mengklik 'open', Anda akan melihat channel baru di bawah channel tiket.</p>
-<figure><a href="https://postimg.cc/sMhJ4s8D" target="_blank" rel="noopener noreferrer"><img src="https://i.postimg.cc/Vk7H1NWM/openticket2.png" alt="" tabindex="0" loading="lazy"></a><figcaption></figcaption></figure>
-<h3> Langkah 2: Jawab survei singkat</h3>
-<p>Klik tombol 'form link' untuk menjawab survei.</p>
-<figure><a href="https://postimg.cc/mzbN4Mrt" target="_blank" rel="noopener noreferrer"><img src="https://i.postimg.cc/qRKm8xVX/openticket4.png" alt="" tabindex="0" loading="lazy"></a><figcaption></figcaption></figure>
-<p>Setelah anda selesai mengisi survei, jangan lupa untuk klik tombol 'Submit'.</p>
-<figure><a href="https://postimg.cc/GBnxM6wP" target="_blank" rel="noopener noreferrer"><img src="https://i.postimg.cc/GpHgp1Xf/openticket5.png" alt="" tabindex="0" loading="lazy"></a><figcaption></figcaption></figure>
-<p>Setelah itu, harap tunggu saja dengan sabar sampai staf memeriksa survei Anda. Setelah anda mendapatkan role Fans, maka anda dapat mengikuti tahap selanjutnya.</p>
+      <content:encoded><![CDATA[<h3> Bagaimana Cara Menjadi Sponsor?</h3>
+<p>Untuk menjadi Sponsor, Anda hanya perlu berdonasi minimal 50.000 Rupiah atau setara dengan 1 pizza jika donasi dilakukan melalui <a href="https://trakteer.id/strigger" target="_blank" rel="noopener noreferrer">Trakteer</a>.</p>
+<h3> Di Mana Saya Dapat Berdonasi?</h3>
+<p>Setelah bergabung di server, silakan masuk ke kanal <a href="https://discord.com/channels/1069057220802781265/1097565269985071205" target="_blank" rel="noopener noreferrer">#sponsorship</a>. Pilih salah satu tautan yang tersedia untuk melakukan donasi.</p>
+<h3> Apa yang Harus Dilakukan Setelah Selesai Berdonasi?</h3>
+<p>Jika Anda sudah berdonasi, kirimkan bukti donasi Anda kepada moderator. Pastikan menyertakan tangkapan layar (screenshot) atau tautan donasi sebagai bukti.</p>
+<figure><a href="https://postimg.cc/MnTYS5cN" target="_blank" rel="noopener noreferrer"><img src="https://i.postimg.cc/3xjf2b38/proof.png" alt="Bukti Donasi" tabindex="0" loading="lazy"></a><figcaption>Bukti Donasi</figcaption></figure>
+<h2> (Bagi Non-Fans) Bagaimana Cara Mengklaim role Fans setelah Menjadi role Sponsor?</h2>
+<p>Jika Anda sudah menjadi Sponsor dan belum mendapatkan role Fans, Anda bisa mengabaikan proses sign-in selama 7 hari dan langsung mengklaim peran Fans. Lihat video <a href="https://www.youtube.com/watch?v=cHRC7XdsKQo&amp;list=PL5eI1Tb64p56Mp6JqoR_o3BYk9UFTbOQI&amp;index=1&amp;pp=iAQB" target="_blank" rel="noopener noreferrer">tutorial ini</a> atau ikuti langkah-langkah berikut.</p>
+<h3> Langkah 1: Buka Tiket</h3>
+<p>Masuk ke kanal <a href="https://discord.com/channels/1069057220802781265/1152887509517344870" target="_blank" rel="noopener noreferrer">#ticket-start</a> (hanya terlihat jika Anda sudah menjadi Sponsor).</p>
+<figure><a href="https://postimg.cc/dLD6D8jC" target="_blank" rel="noopener noreferrer"><img src="https://i.postimg.cc/NfkzJDyd/openticket1.png" alt="Buka Tiket" tabindex="0" loading="lazy"></a><figcaption>Buka Tiket</figcaption></figure>
+<p>Setelah klik 'open', Anda akan melihat kanal baru di bawah kanal tiket.</p>
+<figure><a href="https://postimg.cc/sMhJ4s8D" target="_blank" rel="noopener noreferrer"><img src="https://i.postimg.cc/Vk7H1NWM/openticket2.png" alt="Buka Tiket" tabindex="0" loading="lazy"></a><figcaption>Buka Tiket</figcaption></figure>
+<h3> Langkah 2: Jawab Survei Singkat</h3>
+<p>Klik tombol 'form link' untuk mengisi survei singkat.</p>
+<figure><a href="https://postimg.cc/mzbN4Mrt" target="_blank" rel="noopener noreferrer"><img src="https://i.postimg.cc/qRKm8xVX/openticket4.png" alt="Jawab Survei" tabindex="0" loading="lazy"></a><figcaption>Jawab Survei</figcaption></figure>
+<p>Setelah selesai mengisi survei, jangan lupa klik 'Submit'.</p>
+<figure><a href="https://postimg.cc/GBnxM6wP" target="_blank" rel="noopener noreferrer"><img src="https://i.postimg.cc/GpHgp1Xf/openticket5.png" alt="Submit Survei" tabindex="0" loading="lazy"></a><figcaption>Submit Survei</figcaption></figure>
+<p>Tunggu dengan sabar sampai staf memeriksa survei Anda. Setelah mendapatkan peran Fans, Anda bisa melanjutkan ke tahap selanjutnya.</p>
 ]]></content:encoded>
       <enclosure url="https://i.postimg.cc/3xjf2b38/proof.png" type="image/png"/>
     </item>
@@ -189,39 +189,39 @@ Peringatan: jangan melakukan apapun terlebih dahulu.</p>
 ]]></content:encoded>
     </item>
     <item>
-      <title>Cara Join Server</title>
+      <title>Cara Bergabung di Server</title>
       <link>https://korepi.com/id/start/join.html</link>
       <guid>https://korepi.com/id/start/join.html</guid>
-      <source url="https://korepi.com/id/rss.xml">Cara Join Server</source>
-      <description>Selamat datang dikomunitas kami! Untuk bergabung dengan server Discord dan mulai menggunakan Korepi, ikuti langkah-langkah berikut. Langkah 1: Membuat akun Discord Jika Anda bel...</description>
+      <source url="https://korepi.com/id/rss.xml">Cara Bergabung di Server</source>
+      <description>Selamat datang di komunitas kami! Agar dapat bergabung dengan server Discord dan mulai menggunakan Korepi, ikuti langkah-langkah berikut ini. Langkah 1: Membuat Akun Discord Jik...</description>
       <category>Panduan</category>
       <pubDate>Sun, 26 Nov 2023 15:29:27 GMT</pubDate>
-      <content:encoded><![CDATA[<p>Selamat datang dikomunitas kami! Untuk bergabung dengan server Discord dan mulai menggunakan Korepi, ikuti langkah-langkah berikut.</p>
-<h2> Langkah 1: Membuat akun Discord</h2>
-<p>Jika Anda belum memiliki akun Discord, lanjutkan dengan membuat akun baru. Kunjungi <a href="https://discord.com/" target="_blank" rel="noopener noreferrer">situs web resmi Discord</a>. Setelah membuat akun, unduh <a href="https://discord.com/download" target="_blank" rel="noopener noreferrer">Discord client</a> untuk sistem operasi Anda.</p>
-<h2> Langkah 2: Bergabung ke Server</h2>
-<p>Untuk bergabung, anda bisa menggunakan kata kunci <code>cottonbuds</code>, atau klik saja <a href="https://discord.gg/cottonbuds" target="_blank" rel="noopener noreferrer">disini</a> untuk langsung gabung ke server.</p>
-<p>Jika Anda gagal bergabung dengan server, itu berarti server sedang ditutup untuk sementara waktu. Silahkan tunggu sampai server dibuka kembali.</p>
-<h3> Bergabung menggunakan kata kunci <code>cottonbuds</code></h3>
+      <content:encoded><![CDATA[<p>Selamat datang di komunitas kami! Agar dapat bergabung dengan server Discord dan mulai menggunakan Korepi, ikuti langkah-langkah berikut ini.</p>
+<h2> Langkah 1: Membuat Akun Discord</h2>
+<p>Jika Anda belum punya akun Discord, pertama-tama buatlah akun baru. Kunjungi <a href="https://discord.com/" target="_blank" rel="noopener noreferrer">situs web resmi Discord</a>. Setelah membuat akun, unduh <a href="https://discord.com/download" target="_blank" rel="noopener noreferrer">Discord client</a> sesuai dengan sistem operasi Anda.</p>
+<h2> Langkah 2: Bergabung di Server</h2>
+<p>Untuk bergabung, Anda dapat menggunakan kata kunci <code>cottonbuds</code>, atau cukup klik <a href="https://discord.gg/cottonbuds" target="_blank" rel="noopener noreferrer">di sini</a> untuk langsung bergabung ke server.</p>
+<p>Jika Anda mengalami kesulitan bergabung dengan server, mungkin server sedang ditutup untuk sementara waktu. Silakan tunggu sampai server dibuka kembali.</p>
+<h3> Cara Bergabung dengan Kata Kunci <code>cottonbuds</code></h3>
 <ol>
 <li>
-<p>klik pada '+'</p>
+<p>Klik tanda '+' di menu sebelah kiri.</p>
 <figure><a href="https://postimg.cc/rd84dqfk" target="_blank" rel="noopener noreferrer"><img src="https://i.postimg.cc/KYTDHzLR/join1.png" alt="" tabindex="0" loading="lazy"></a><figcaption></figcaption></figure>
 </li>
 <li>
-<p>klik pada 'Join a Server'</p>
+<p>Pilih 'Join a Server'.</p>
 <figure><a href="https://postimg.cc/0M4KHDPk" target="_blank" rel="noopener noreferrer"><img src="https://i.postimg.cc/7hH1hnR2/join2.png" alt="" tabindex="0" loading="lazy"></a><figcaption></figcaption></figure>
 </li>
 <li>
-<p>Isikan <code>cottonbuds</code> pada kotak Invite Link</p>
+<p>Masukkan kata kunci <code>cottonbuds</code> pada kotak Invite Link.</p>
 <figure><a href="https://postimg.cc/67YvnFPG" target="_blank" rel="noopener noreferrer"><img src="https://i.postimg.cc/NMwkqc7b/join3.png" alt="" tabindex="0" loading="lazy"></a><figcaption></figcaption></figure>
 </li>
 <li>
-<p>Silahkan baca peraturan server dan setuju</p>
+<p>Baca peraturan server dan setujui.</p>
 <figure><a href="https://postimg.cc/XpdBQrhW" target="_blank" rel="noopener noreferrer"><img src="https://i.postimg.cc/9FNPXTYD/join4.png" alt="" tabindex="0" loading="lazy"></a><figcaption></figcaption></figure>
 </li>
 </ol>
-<p>Setelah selesai bergabung ke server, lanjut ke tahap selanjutnya --&gt; <a href="/id/start/verify.html" target="blank">Cara Verifikasi Akun</a></p>
+<p>Setelah berhasil bergabung di server, lanjutkan ke langkah berikutnya --&gt; <a href="/id/start/verify.html" target="blank">Cara Verifikasi Akun</a></p>
 ]]></content:encoded>
       <enclosure url="https://i.postimg.cc/KYTDHzLR/join1.png" type="image/png"/>
     </item>
@@ -230,60 +230,67 @@ Peringatan: jangan melakukan apapun terlebih dahulu.</p>
       <link>https://korepi.com/id/start/sign-in.html</link>
       <guid>https://korepi.com/id/start/sign-in.html</guid>
       <source url="https://korepi.com/id/rss.xml">Cara Mendapatkan Role Fans</source>
-      <description>Untuk mendapat akses Korepi, Anda perlu mempunyai role Fans. Ada dua cara bagi Anda untuk mendapatkan role Fans. 1. Dengan menjadi Sponsor Anda bisa mendapatkan role Fans secara...</description>
+      <description>Untuk bisa mengakses Korepi, Anda perlu memiliki role sebagai Fans. Ada dua cara yang dapat Anda tempuh untuk mendapatkan role ini. 1. Menjadi Sponsor Anda bisa langsung mempero...</description>
       <category>Panduan</category>
       <pubDate>Sun, 26 Nov 2023 15:29:27 GMT</pubDate>
-      <content:encoded><![CDATA[<p>Untuk mendapat akses Korepi, Anda perlu mempunyai role <code>Fans</code>. Ada dua cara bagi Anda untuk mendapatkan role <code>Fans</code>.</p>
-<h2> 1. Dengan menjadi Sponsor</h2>
-<p>Anda bisa mendapatkan role <code>Fans</code> secara instan jika anda membeli role <code>Sponsor</code>. Dengan ini, Anda tidak perlu melakukan sign-in harian untuk mendapatkan role <code>Fans</code>. Membeli role <code>Sponsor</code> juga memberikan banyak keuntungan. Untuk info lebih lanjut, Anda bisa mengunjungi <a href="/id/start/sponsor.html" target="blank">Cara Menjadi Sponsor</a>.</p>
-<h2> 2. Melalui sign-in Selama 7 Hari</h2>
-<p>Melalui cara ini, anda bisa mendapatkan role <code>Fans</code> secara gratis tanpa membeli role <code>Sponsor</code>.</p>
+      <content:encoded><![CDATA[<p>Untuk bisa mengakses Korepi, Anda perlu memiliki role sebagai <code>Fans</code>. Ada dua cara yang dapat Anda tempuh untuk mendapatkan role ini.</p>
+<h2> 1. Menjadi Sponsor</h2>
+<p>Anda bisa langsung memperoleh role <code>Fans</code> dengan cara menjadi Sponsor. Melalui langkah ini, Anda tidak perlu melakukan log-in setiap hari untuk mendapatkan role <code>Fans</code>. Keuntungan lainnya juga akan Anda dapatkan dengan menjadi Sponsor. Untuk informasi lebih lengkap, silakan kunjungi <a href="/id/start/sponsor.html" target="blank">Cara Menjadi Sponsor</a>.</p>
+<h2> 2. Melalui Log-in Setiap Hari Selama 7 Hari</h2>
+<p>Alternatifnya, Anda bisa mendapatkan role <code>Fans</code> secara gratis tanpa harus menjadi Sponsor.</p>
 <ol>
-<li>Chat pribadi @micah-sign-bot</li>
+<li>Mulailah percakapan pribadi dengan @micah-sign-bot</li>
 </ol>
 <figure><a href="https://postimg.cc/grwZLSHn" target="_blank" rel="noopener noreferrer"><img src="https://i.postimg.cc/KcfrVCKr/signin1.png" alt="" tabindex="0" loading="lazy"></a><figcaption></figcaption></figure>
 <ol start="2">
-<li>ketik /sign-in</li>
+<li>Ketik perintah /sign-in</li>
 </ol>
 <figure><a href="https://postimg.cc/QKWKLCdp" target="_blank" rel="noopener noreferrer"><img src="https://i.postimg.cc/fy8c904g/signin2.png" alt="" tabindex="0" loading="lazy"></a><figcaption></figcaption></figure>
 <ol start="3">
-<li>Selesaikan Captcha</li>
+<li>Selesaikan tantangan Captcha</li>
 </ol>
 <figure><a href="https://postimg.cc/FdzJZDtC" target="_blank" rel="noopener noreferrer"><img src="https://i.postimg.cc/ZRFFJMwm/signin3.png" alt="" tabindex="0" loading="lazy"></a><figcaption></figcaption></figure>
 <ol start="4">
-<li>Ulangi selama 7 hari berturut-turut</li>
+<li>Lakukan langkah ini setiap hari selama 7 hari berturut-turut</li>
 </ol>
 <figure><a href="https://postimg.cc/t7LV33BD" target="_blank" rel="noopener noreferrer"><img src="https://i.postimg.cc/Nf07wbmh/signin4.png" alt="" tabindex="0" loading="lazy"></a><figcaption></figcaption></figure>
-<p>Selamat, Anda telah berhasil mendapatkan role <code>Fans</code>.</p>
+<p>Selamat, Anda kini telah berhasil mendapatkan role sebagai <code>Fans</code>.</p>
 ]]></content:encoded>
       <enclosure url="https://i.postimg.cc/KcfrVCKr/signin1.png" type="image/png"/>
     </item>
     <item>
-      <title>Cara Verifikasi Akun</title>
+      <title>Panduan Verifikasi Akun untuk Keamanan Server</title>
       <link>https://korepi.com/id/start/verify.html</link>
       <guid>https://korepi.com/id/start/verify.html</guid>
-      <source url="https://korepi.com/id/rss.xml">Cara Verifikasi Akun</source>
-      <description>Untuk memastikan keamanan server, anda harus melakukan verifikasi akun anda pada bot server atau akun anda akan ditendang dari server oleh bot secara otomatis jika masih tidak m...</description>
+      <source url="https://korepi.com/id/rss.xml">Panduan Verifikasi Akun untuk Keamanan Server</source>
+      <description>Untuk menjaga keamanan server, sangat penting bagi Anda untuk melakukan verifikasi akun pada bot server. Jika tidak, akun Anda dapat diusir dari server secara otomatis oleh bot ...</description>
       <category>Panduan</category>
       <pubDate>Sun, 26 Nov 2023 15:29:27 GMT</pubDate>
-      <content:encoded><![CDATA[<p>Untuk memastikan keamanan server, anda harus melakukan verifikasi akun anda pada bot server atau akun anda akan ditendang dari server oleh bot secara otomatis jika masih tidak melakukan verifikasi dalam waktu yang ditentukan.</p>
+      <content:encoded><![CDATA[<p>Untuk menjaga keamanan server, sangat penting bagi Anda untuk melakukan verifikasi akun pada bot server. Jika tidak, akun Anda dapat diusir dari server secara otomatis oleh bot jika tidak diverifikasi dalam waktu yang ditentukan.</p>
+<h3> Langkah-langkah Verifikasi Akun:</h3>
 <ol>
-<li>Klik pada rules channel</li>
-</ol>
+<li>
+<p><strong>Buka Channel Rules</strong></p>
+<p>Klik pada channel rules di server.</p>
 <figure><a href="https://postimg.cc/fVstFwn9" target="_blank" rel="noopener noreferrer"><img src="https://i.postimg.cc/2SbQ1602/verify1.png" alt="" tabindex="0" loading="lazy"></a><figcaption></figcaption></figure>
-<ol>
-<li>Klik pada tombol 'verify' , kemudian akan muncul satu pesan dari bot, klik pada 'click here'</li>
-</ol>
+</li>
+<li>
+<p><strong>Klik Tombol 'Verify'</strong></p>
+<p>Setelah membuka channel rules, klik tombol 'verify'. Kemudian, akan muncul pesan dari bot, klik 'click here'.</p>
 <figure><a href="https://postimg.cc/21xbNPrX" target="_blank" rel="noopener noreferrer"><img src="https://i.postimg.cc/9Q6GZhSV/verify2.png" alt="" tabindex="0" loading="lazy"></a><figcaption></figcaption></figure>
-<ol>
-<li>Klik 'login to verify'</li>
-</ol>
+</li>
+<li>
+<p><strong>Klik 'Login to Verify'</strong></p>
+<p>Klik 'login to verify' untuk melanjutkan proses.</p>
 <figure><a href="https://postimg.cc/1g5gmJzR" target="_blank" rel="noopener noreferrer"><img src="https://i.postimg.cc/tgFFzcQ6/verify3.png" alt="" tabindex="0" loading="lazy"></a><figcaption></figcaption></figure>
-<ol>
-<li>Disini, anda harus tahan tombolnya sampai keluar pesan bahwa anda telah sukses verify</li>
-</ol>
+</li>
+<li>
+<p><strong>Tahan Tombol Verifikasi</strong></p>
+<p>Di halaman selanjutnya, tahan tombol verifikasi sampai muncul pesan yang menyatakan bahwa Anda telah berhasil melakukan verifikasi.</p>
 <figure><a href="https://postimg.cc/3ySkdmyX" target="_blank" rel="noopener noreferrer"><img src="https://i.postimg.cc/85DMXbN0/verify4.png" alt="" tabindex="0" loading="lazy"></a><figcaption></figcaption></figure>
-<p>Setelah verifikasi berhasil, bot akan memberi anda role <code>Newcomer</code>. Dengan role ini, anda tidak akan dikeluarkan oleh bot tanpa alasan yang sah. Silahkan lanjut ke langkah berikutnya.</p>
+</li>
+</ol>
+<p>Setelah berhasil diverifikasi, bot akan memberikan Anda role <code>Newcomer</code>. Dengan peran ini, Anda tidak akan diusir oleh bot tanpa alasan yang jelas. Silakan lanjut ke langkah berikutnya.</p>
 ]]></content:encoded>
       <enclosure url="https://i.postimg.cc/2SbQ1602/verify1.png" type="image/png"/>
     </item>
