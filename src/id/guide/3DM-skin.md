@@ -4,7 +4,7 @@ icon: circle-info
 category:
   - Panduan
 tag:
-  - Mulai
+  - Buku Pemula
   - Skins
 author: Schvis, Natsume
 order: 4
