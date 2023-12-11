@@ -19,7 +19,7 @@ author: rekiihype, Ikuyo
 - [Cara Mendapatkan Role Fans](sign-in.md)
 
 - [Cara Sponsor](sponsor.md)
- 
+
 - [Fitur Eksklusif Sponsor](sponsor-exclusive.md)
-  
+
 - [Cara Download](download.md)
