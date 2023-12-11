@@ -7,7 +7,7 @@ tag:
   - Start
   - Teleports
 author: Schvis
-order: 5
+order: 6
 ---
 
 ## How to use custom TP

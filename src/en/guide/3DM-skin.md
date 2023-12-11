@@ -7,7 +7,7 @@ tag:
   - Start
   - Skins
 author: Schvis
-order: 4
+order: 5
 ---
 
 ## How to install custom Skins in `GIMI`
