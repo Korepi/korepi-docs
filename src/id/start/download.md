@@ -1,5 +1,5 @@
 ---
-title: Download Panduan
+title: Panduan Download
 icon: download
 category:
   - Panduan
