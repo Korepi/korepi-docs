@@ -5,12 +5,14 @@ category:
   - Guide
 tag:
   - Start
-  - Skins
+  - License
 author: Schvis
 order: 1
 ---
 
 ## How to get key for Network(F)
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/-9bXOMH0-WM" title="Korepi - How to get V key" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### Step 1: Get F Auth role
 

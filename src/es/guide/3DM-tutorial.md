@@ -7,7 +7,7 @@ tag:
   - Inicio
   - Skins
 author: Schvis
-order: 3
+order: 4
 ---
 
 ## Como usar skins personalizadas en Korepi

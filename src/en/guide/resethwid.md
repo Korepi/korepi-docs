@@ -5,6 +5,7 @@ category:
   - Guide
 tag:
   - Start
+  - License
 author: Schvis
 order: 2
 ---
@@ -31,6 +32,19 @@ After getting your key, head to [Korepi Login Page](https://keyauth.cc/panel/Str
 After your HWID reset, head to your injector and paste your key once again.
 
 Enjoy Korepi again!
+## Reset HWID: Network(F) (Sponsor)
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/WCuRAyqWMHg" title="Reset HWID F version (Sponsor)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+### Step 1: Head to `★⋅micah-bot-verify⋅★` channel
+
+Head to `★⋅micah-bot-verify⋅★` channel and click on `F:Reset Key`, after that click on `F:Getkey` to recieve your new key.
+
+### Step 2: Replace your old key
+
+Go to your korepi folder and delete `license.json`, after that open Korepi and paste in the new key you got.
+
+Enjoy Korepi!
 
 ## Reset HWID: Local(V) (Sponsor)
 <iframe width="640" height="360" src="https://www.youtube.com/embed/q0G9UZHErrg?list=PL5eI1Tb64p56Mp6JqoR_o3BYk9UFTbOQI" title="How to reset Local V HWID" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
