@@ -6,11 +6,92 @@
     <link>https://korepi.com/id/</link>
     <description>Pertolongan Korepi</description>
     <language>id-ID</language>
-    <pubDate>Tue, 12 Dec 2023 12:41:52 GMT</pubDate>
-    <lastBuildDate>Tue, 12 Dec 2023 12:41:52 GMT</lastBuildDate>
+    <pubDate>Tue, 12 Dec 2023 12:42:15 GMT</pubDate>
+    <lastBuildDate>Tue, 12 Dec 2023 12:42:15 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Panduan</category>
+    <item>
+      <title>Pemasangan Skin</title>
+      <link>https://korepi.com/id/guide/3DM-skin.html</link>
+      <guid>https://korepi.com/id/guide/3DM-skin.html</guid>
+      <source url="https://korepi.com/id/rss.xml">Pemasangan Skin</source>
+      <description>Cara Memasang Skins Kustom di GIMI Langkah 1: Unduh Skin Buka Gamebanana (https://gamebanana.com/games/8552) dan unduh skin pilihanmu. Langkah 2: Pamasangan Skin Buka folder GIM...</description>
+      <category>Panduan</category>
+      <pubDate>Mon, 11 Dec 2023 16:32:17 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Cara Memasang Skins Kustom di <code>GIMI</code></h2>
+<h2> Langkah 1: Unduh Skin</h2>
+<p>Buka <a href="https://gamebanana.com/games/8552" target="_blank" rel="noopener noreferrer">Gamebanana</a> dan unduh skin pilihanmu.</p>
+<h2> Langkah 2: Pamasangan Skin</h2>
+<p>Buka folder <code>GIMI</code> dan cari folder <code>Mods</code>, di dalamnya ekstrak file yang baru saja diunduh.</p>
+<h2> Langkah 3: Terapkan Skin</h2>
+<p>Jika sudah berada di dalam permainan, tekan <code>F10</code> untuk me-reload Skins. Jika belum, buka permainan sesuai dengan <a href="/id/guide/3DM-tutorial.html" target="blank">posting sebelumnya</a>, dan skin akan terpasang.</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Cara Menggunakan Skins Kustom</title>
+      <link>https://korepi.com/id/guide/3DM-tutorial.html</link>
+      <guid>https://korepi.com/id/guide/3DM-tutorial.html</guid>
+      <source url="https://korepi.com/id/rss.xml">Cara Menggunakan Skins Kustom</source>
+      <description>Cara Menggunakan Skins Kustom di Korepi Untuk menggunakan skins kustom di sini, kita perlu unduh: 3DMigoto (GIMI). Metode 1 Langkah 1: Unduh GIMI Unduh GIMI di Github resminya (...</description>
+      <category>Panduan</category>
+      <pubDate>Mon, 11 Dec 2023 16:32:17 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Cara Menggunakan Skins Kustom di Korepi</h2>
+<figure><figcaption></figcaption></figure>
+<p>Untuk menggunakan skins kustom di sini, kita perlu unduh:</p>
+<p><code>3DMigoto (GIMI)</code>.</p>
+<h2> Metode 1</h2>
+<h2> Langkah 1: Unduh <code>GIMI</code></h2>
+<p>Unduh <code>GIMI</code> di <a href="https://github.com/SilentNightSound/GI-Model-Importer/releases/tag/v7.0" target="_blank" rel="noopener noreferrer">Github resminya</a> dan unduh file yang namanya: <code>3dmigoto-GIMI-for-playing-mods.zip</code>.</p>
+<figure><figcaption></figcaption></figure>
+<h2> Langkah 2: Ekstrak <code>GIMI</code> ke dalam folder</h2>
+<p>Setelah mengunduh <code>GIMI</code>, ekstrak ke folder pilihanmu, di dalamnya ada <code>d3d11.dll</code>, salin path folder dan tambahkan <code>/d3d11.dll</code> di ujungnya, contohnya:</p>
+<p><code>"path/d3d11.dll"</code></p>
+<h2> Langkah 3: Tambahkan <code>GIMI</code> ke Korepi</h2>
+<p>Untuk melakukannya, tambahkan baris berikut di <code>cfg.ini</code> dalam folder Korepi.</p>
+<figure><figcaption></figcaption></figure>
+<p>Di bagian <code>DllPath</code>, tempelkan path yang tadi kita salin.</p>
+<figure><figcaption></figcaption></figure>
+<h2> Langkah 4: Buka Korepi</h2>
+<p>Jika langkah-langkah ini diikuti dengan benar, Korepi seharusnya akan terbuka dengan <code>GIMI</code> setiap kali dijalankan.</p>
+<h2> Metode 2</h2>
+<h2> Langkah 1: Unduh <code>GIMI</code></h2>
+<p>Unduh <code>GIMI</code> di <a href="https://github.com/SilentNightSound/GI-Model-Importer/releases/tag/v7.0" target="_blank" rel="noopener noreferrer">Github resminya</a> dan ambil file yang namanya: <code>3dmigoto-GIMI-for-playing-mods.zip</code>.</p>
+<figure><figcaption></figcaption></figure>
+<h2> Langkah 2: Ekstrak <code>GIMI</code> ke dalam folder</h2>
+<p>Setelah mengunduh <code>GIMI</code>, ekstrak ke folder pilihanmu, di dalamnya ada <code>3DMigoto Loader.exe</code>, kita akan menjalankan file ini terlebih dahulu.</p>
+<h2> Langkah 3: Buka Korepi</h2>
+<p>Setelah menjalankan <code>GIMI</code>, buka Korepi, <code>GIMI</code> akan terbuka dengan Korepi. Catatan, kamu perlu mengulangi langkah-langkah ini setiap kali ingin membuka Korepi dengan <code>GIMI</code>.</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Cara Menggunakan TP Kustom</title>
+      <link>https://korepi.com/id/guide/custom-tp-setting.html</link>
+      <guid>https://korepi.com/id/guide/custom-tp-setting.html</guid>
+      <source url="https://korepi.com/id/rss.xml">Cara Menggunakan TP Kustom</source>
+      <description>Cara Menggunakan Teleportasi Kustom Langkah 1: Pengaturan yang Diperlukan Gunakan pengaturan berikut. Delay Time yang direkomendasikan adalah &amp;gt;15 detik. Langkah 2: Unduh Berkas ...</description>
+      <category>Panduan</category>
+      <pubDate>Mon, 11 Dec 2023 16:32:17 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Cara Menggunakan Teleportasi Kustom</h2>
+<h2> Langkah 1: Pengaturan yang Diperlukan</h2>
+<p>Gunakan pengaturan berikut.</p>
+<figure><figcaption></figcaption></figure>
+<p><code>Delay Time</code> yang direkomendasikan adalah &gt;15 detik.</p>
+<h2> Langkah 2: Unduh Berkas <code>.json</code> untuk Teleportasi kustom</h2>
+<p>Kamu bisa menemukan filenya di postingan yang di <code>pin</code> pada <code>community-share</code> di server. Unduh yang sesuai dengan kebutuhanmu.</p>
+<h2> Langkah 3: Pilih file Teleportasi</h2>
+<p>Pergi ke pengaturan TP kustom/<code>custom tp settings</code> dan masuk ke bagian ini:</p>
+<figure><figcaption></figcaption></figure>
+<p>Klik pada pilihan <code>.json path</code> dan pilih folder yang berisi berkas TP yang ingin kamu gunakan.</p>
+<h2> Langkah 4: Cara Memulai TP</h2>
+<p>Setelah memilih folder, centang kotak ini:</p>
+<figure><figcaption></figcaption></figure>
+<p>Setelah itu, klik <code>Select</code>:</p>
+<figure><figcaption></figcaption></figure>
+<h2> Langkah 5: Nikmati Perjalanan</h2>
+<p>TP akan dimulai secara otomatis. Jika kamu memiliki <a href="/id/start/sponsor.html" target="blank">Sponsor</a>, kamu akan dapat melihat progress dan waktu yang tersisa.</p>
+]]></content:encoded>
+    </item>
     <item>
       <title>Cara melakukan Multi-Instance</title>
       <link>https://korepi.com/id/guide/multi-instance.html</link>
@@ -111,7 +192,7 @@ Catatan: Pastikan berkas tersebut bernama <code>enc.json</code>.</p>
 <h3> Langkah 3: Download Panduan yang Dibutuhkan</h3>
 <p>Setelah itu, Anda akan mendapatkan akses ke saluran unduhan yang sesuai: <code>★⋅f-download⋅★</code> atau <code>★⋅v-download⋅★</code>.</p>
 <h3> Langkah 4: Siap untuk Mulai!</h3>
-<p>Di saluran tersebut, Anda akan menemukan tautan ke versi terbaru dan kata sandi untuk mengunduh panduan. Semoga berhasil!</p>
+<p>Di channel tersebut, Anda akan menemukan link untuk pergi ke versi terbaru dan kata sandi untuk membuka file arsipnya. Semoga berhasil!</p>
 ]]></content:encoded>
     </item>
     <item>
@@ -150,11 +231,17 @@ Catatan: Pastikan berkas tersebut bernama <code>enc.json</code>.</p>
       <link>https://korepi.com/id/guide/</link>
       <guid>https://korepi.com/id/guide/</guid>
       <source url="https://korepi.com/id/rss.xml">Panduan</source>
-      <description>Bakal menyusul Kalo mau bantu gw bisa juga</description>
+      <description>Katalog Cara Reset HWID (resethwid.md); Cara Multi-instance (multi-instance.md); Cara Menggunakan Skin Kustom (3DM-tutorial.md); Cara Mengunduh Skin Kustom (3DM-skin.md); Cara M...</description>
       <category>Panduan</category>
       <pubDate>Sun, 26 Nov 2023 15:29:27 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Bakal menyusul</h2>
-<p>Kalo mau bantu gw bisa juga ❤️</p>
+      <content:encoded><![CDATA[<h2> Katalog</h2>
+<ul>
+<li><a href="/id/guide/resethwid.html" target="blank">Cara Reset HWID</a></li>
+<li><a href="/id/guide/multi-instance.html" target="blank">Cara Multi-instance</a></li>
+<li><a href="/id/guide/3DM-tutorial.html" target="blank">Cara Menggunakan Skin Kustom</a></li>
+<li><a href="/id/guide/3DM-skin.html" target="blank">Cara Mengunduh Skin Kustom</a></li>
+<li><a href="/id/guide/custom-tp-setting.html" target="blank">Cara Menggunakan TP Kustom</a></li>
+</ul>
 ]]></content:encoded>
     </item>
     <item>
@@ -235,8 +322,8 @@ Catatan: Pastikan berkas tersebut bernama <code>enc.json</code>.</p>
       <pubDate>Sun, 26 Nov 2023 15:29:27 GMT</pubDate>
       <content:encoded><![CDATA[<p>Untuk bisa mengakses Korepi, Anda perlu memiliki role sebagai <code>Fans</code>. Ada dua cara yang dapat Anda tempuh untuk mendapatkan role ini.</p>
 <h2> 1. Menjadi Sponsor</h2>
-<p>Anda bisa langsung memperoleh role <code>Fans</code> dengan cara menjadi Sponsor. Melalui langkah ini, Anda tidak perlu melakukan log-in setiap hari untuk mendapatkan role <code>Fans</code>. Keuntungan lainnya juga akan Anda dapatkan dengan menjadi Sponsor. Untuk informasi lebih lengkap, silakan kunjungi <a href="/id/start/sponsor.html" target="blank">Cara Menjadi Sponsor</a>.</p>
-<h2> 2. Melalui Log-in Setiap Hari Selama 7 Hari</h2>
+<p>Anda bisa langsung memperoleh role <code>Fans</code> dengan cara menjadi Sponsor. Melalui langkah ini, Anda tidak perlu melakukan sign-in setiap hari untuk mendapatkan role <code>Fans</code>. Keuntungan lainnya juga akan Anda dapatkan dengan menjadi Sponsor. Untuk informasi lebih lengkap, silakan kunjungi <a href="/id/start/sponsor.html" target="blank">Cara Menjadi Sponsor</a>.</p>
+<h2> 2. Melalui Sign-in Setiap Hari Selama 7 Hari</h2>
 <p>Alternatifnya, Anda bisa mendapatkan role <code>Fans</code> secara gratis tanpa harus menjadi Sponsor.</p>
 <ol>
 <li>Mulailah percakapan pribadi dengan @micah-sign-bot</li>
