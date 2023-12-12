@@ -6,8 +6,8 @@
     <link>https://korepi.com/id/</link>
     <description>Pertolongan Korepi</description>
     <language>id-ID</language>
-    <pubDate>Mon, 11 Dec 2023 13:36:38 GMT</pubDate>
-    <lastBuildDate>Mon, 11 Dec 2023 13:36:38 GMT</lastBuildDate>
+    <pubDate>Tue, 12 Dec 2023 12:41:52 GMT</pubDate>
+    <lastBuildDate>Tue, 12 Dec 2023 12:41:52 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Panduan</category>
@@ -104,13 +104,13 @@ Catatan: Pastikan berkas tersebut bernama <code>enc.json</code>.</p>
       <content:encoded><![CDATA[<h1> Panduan Unduh</h1>
 <h2> Selamat Datang!</h2>
 <p>Hai, selamat bergabung di komunitas kami! Untuk bisa masuk dan mendapatkan role <code>Newcomer</code>, pastikan untuk menonton video <a href="https://youtu.be/4gm6JzAnq4w?si=DS00t4anVCT4O_4I" target="_blank" rel="noopener noreferrer">Tutorial ini</a> atau ikuti langkah-langkah di bawah ini.</p>
-<h2> Langkah 1: Bergabung di Server Kami!</h2>
+<h3> Langkah 1: Bergabung di Server Kami!</h3>
 <p>Jika Anda belum bergabung, silakan baca instruksi di saluran verifikasi tentang cara bergabung di server dan mendapatkan role <code>Newcomer</code> dan <code>Fans</code>.</p>
-<h2> Langkah 2: Pilih role di <code>★⋅korepi-version-roles⋅★</code></h2>
+<h3> Langkah 2: Pilih role di <code>★⋅korepi-version-roles⋅★</code></h3>
 <p>Cari dan pilih role versi F-Auth atau V-Auth di saluran <code>★⋅korepi-version-roles⋅★</code>. Kami merekomendasikan memilih peran F-Auth.</p>
-<h2> Langkah 3: Download Panduan yang Dibutuhkan</h2>
+<h3> Langkah 3: Download Panduan yang Dibutuhkan</h3>
 <p>Setelah itu, Anda akan mendapatkan akses ke saluran unduhan yang sesuai: <code>★⋅f-download⋅★</code> atau <code>★⋅v-download⋅★</code>.</p>
-<h2> Langkah 4: Siap untuk Mulai!</h2>
+<h3> Langkah 4: Siap untuk Mulai!</h3>
 <p>Di saluran tersebut, Anda akan menemukan tautan ke versi terbaru dan kata sandi untuk mengunduh panduan. Semoga berhasil!</p>
 ]]></content:encoded>
     </item>

@@ -6,11 +6,41 @@
     <link>https://korepi.com/en/</link>
     <description>Help on Korepi</description>
     <language>en-US</language>
-    <pubDate>Mon, 11 Dec 2023 13:36:38 GMT</pubDate>
-    <lastBuildDate>Mon, 11 Dec 2023 13:36:38 GMT</lastBuildDate>
+    <pubDate>Tue, 12 Dec 2023 12:41:52 GMT</pubDate>
+    <lastBuildDate>Tue, 12 Dec 2023 12:41:52 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Guide</category>
+    <item>
+      <title>How to get key</title>
+      <link>https://korepi.com/en/guide/getkey.html</link>
+      <guid>https://korepi.com/en/guide/getkey.html</guid>
+      <source url="https://korepi.com/en/rss.xml">How to get key</source>
+      <description>How to get key for Network(F) Step 1: Get F Auth role Head to ★⋅korepi-version-roles⋅★ on the server and click on F Auth to get the role. Step 2: Get your key Head to ⁠★⋅micah-b...</description>
+      <category>Guide</category>
+      <pubDate>Mon, 11 Dec 2023 23:46:39 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> How to get key for Network(F)</h2>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/-9bXOMH0-WM" title="Korepi - How to get V key" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+<h3> Step 1: Get F Auth role</h3>
+<p>Head to <code>★⋅korepi-version-roles⋅★</code> on the server and click on <code>F Auth</code> to get the role.</p>
+<h3> Step 2: Get your key</h3>
+<p>Head to <code>⁠★⋅micah-bot-verify⋅★</code> and click on <code>F:Getkey</code>, the bot will reply with some information including the key, copy it.</p>
+<h3> Step 3: Use your key</h3>
+<p>Open Korepi, when it asks for your key, paste it and press enter, complete the steps mentioned by the injector and you should be good to go.</p>
+<p>Enjoy Koprepi!</p>
+<h2> How to get key for Local(V)</h2>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/OTCSboZdexc" title="Korepi - How to get V key" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+<h3> Step 1: Get V Auth role</h3>
+<p>Head to <code>★⋅korepi-version-roles⋅★</code> on the server and click on <code>V Auth</code> to get the role.</p>
+<h3> Step 2: Get your <code>HWID</code></h3>
+<p>To get your <code>HWID</code> you will need to open <code>Local(V) Injector</code> once, and it will copy it to your clipboard</p>
+<h3> Step 3: Get your <code>enc.json</code></h3>
+<p>Head to <code>⁠★⋅micah-bot-verify⋅★</code> and click on <code>V:Verify</code>, a pop up will ask you for your <code>HWID</code> paste and click <code>Submit</code>, and download the file sent by the bot</p>
+<h3> Step 4: Place your file with Korepi</h3>
+<p>After getting the file, place it on your Korepi folder, keep in mind that the file should be name <code>enc.json</code> in order to work, open Korepi and then:</p>
+<p>Enjoy Korepi!</p>
+]]></content:encoded>
+    </item>
     <item>
       <title>Install Skins</title>
       <link>https://korepi.com/en/guide/3DM-skin.html</link>
@@ -20,11 +50,11 @@
       <category>Guide</category>
       <pubDate>Sun, 10 Dec 2023 01:50:24 GMT</pubDate>
       <content:encoded><![CDATA[<h2> How to install custom Skins in <code>GIMI</code></h2>
-<h2> Step 1: Download the Skin</h2>
+<h3> Step 1: Download the Skin</h3>
 <p>Head to <a href="https://gamebanana.com/games/8552" target="_blank" rel="noopener noreferrer">Gamebanana</a> and download a skin of your choice.</p>
-<h2> Step 2: Install the Skin</h2>
+<h3> Step 2: Install the Skin</h3>
 <p>We will head to our <code>GIMI</code> folder and look for <code>Mods</code> folder, inside that folder we will extract the file we just downloaded.</p>
-<h2> Step 3: Apply the skin</h2>
+<h3> Step 3: Apply the skin</h3>
 <p>If we are already inside the game we will use <code>F10</code> to reload the Skins, if not, we will open the game following the <a href="/en/guide/3DM-tutorial.html" target="blank">last post</a> and the skin should be applied.</p>
 ]]></content:encoded>
     </item>
@@ -41,26 +71,26 @@
 In order to use custom skins in we will need to download:</p>
 <p><code>3DMigoto(GIMI)</code>.</p>
 <h2> Method 1</h2>
-<h2> Step 1: Download <code>GIMI</code></h2>
+<h3> Step 1: Download <code>GIMI</code></h3>
 <p>Download <code>GIMI</code> in their oficial <a href="https://github.com/SilentNightSound/GI-Model-Importer/releases/tag/v7.0" target="_blank" rel="noopener noreferrer">Github</a> and download the file named: <code>3dmigoto-GIMI-for-playing-mods.zip</code>.</p>
 <figure><figcaption></figcaption></figure>
-<h2> Step 2: Extract <code>GIMI</code> into a folder</h2>
+<h3> Step 2: Extract <code>GIMI</code> into a folder</h3>
 <p>After downloading <code>GIMI</code>, we will need to extract it into any folder of your choice, inside that folder you will find <code>d3d11.dll</code>, we will copy the path and add <code>/d3d11.dll</code> to the end, for example:</p>
 <p><code>"path/d3d11.dll"</code></p>
-<h2> Step 3: Add <code>GIMI</code> to Korepi</h2>
+<h3> Step 3: Add <code>GIMI</code> to Korepi</h3>
 <p>To do this we will need to add the next lines in <code>cfg.ini</code> inside korepi folder.</p>
 <figure><figcaption></figcaption></figure>
 <p>On <code>DllPath</code> we will paste the path we copied in the last step.</p>
 <figure><figcaption></figcaption></figure>
-<h2> Step 4: Open Korepi</h2>
+<h3> Step 4: Open Korepi</h3>
 <p>If you followed the steps right, Korepi should launch with <code>GIMI</code> every time.</p>
 <h2> Method 2</h2>
-<h2> Step 1: Download <code>GIMI</code></h2>
+<h3> Step 1: Download <code>GIMI</code></h3>
 <p>Download <code>GIMI</code> in their oficial <a href="https://github.com/SilentNightSound/GI-Model-Importer/releases/tag/v7.0" target="_blank" rel="noopener noreferrer">Github</a> and download the file named: <code>3dmigoto-GIMI-for-playing-mods.zip</code>.</p>
 <figure><figcaption></figcaption></figure>
-<h2> Step 2: Extract <code>GIMI</code> into a folder</h2>
+<h3> Step 2: Extract <code>GIMI</code> into a folder</h3>
 <p>After downloading <code>GIMI</code>, we will need to extract it into any folder of your choice, inside that folder you will find <code>3DMigoto Loader.exe</code>, we will run this file first.</p>
-<h2> Step 4: Open Korepi</h2>
+<h3> Step 4: Open Korepi</h3>
 <p>After running <code>GIMI</code>, we will run Korepi, <code>GIMI</code> will be loaded with Korepi after this, you will need to repeat these steps every time you want to launch Korepi with <code>GIMI</code>.</p>
 ]]></content:encoded>
     </item>
@@ -73,22 +103,22 @@ In order to use custom skins in we will need to download:</p>
       <category>Guide</category>
       <pubDate>Sun, 10 Dec 2023 01:50:24 GMT</pubDate>
       <content:encoded><![CDATA[<h2> How to use custom TP</h2>
-<h2> Step 1: Settings to use</h2>
+<h3> Step 1: Settings to use</h3>
 <p>We will use the following settings.</p>
 <figure><figcaption></figcaption></figure>
 <p>The recommended delay time is &gt;15s.</p>
-<h2> Step 2: Download the <code>.json</code> files for the custom tp</h2>
+<h3> Step 2: Download the <code>.json</code> files for the custom tp</h3>
 <p>We can find these files in <code>community-share</code> pinned post in the server. Download the ones that suits your needs.</p>
-<h2> Step 3: Select the tp files</h2>
+<h3> Step 3: Select the tp files</h3>
 <p>Head to custom tp settings and go to this section:</p>
 <figure><figcaption></figcaption></figure>
 <p>Click on select path and select the folder containing the tp files you want to use.</p>
-<h2> Step 4: How to start the tps</h2>
+<h3> Step 4: How to start the tps</h3>
 <p>After selecting the folder, check this checkbox:</p>
 <figure><figcaption></figcaption></figure>
 <p>After that we click on <code>Select</code>:</p>
 <figure><figcaption></figcaption></figure>
-<h2> Step 5: Enjoy the ride</h2>
+<h3> Step 5: Enjoy the ride</h3>
 <p>The TPs will start automatically, if you got <a href="/en/start/sponsor.html" target="blank">Sponsor</a>, you will be able to see the progress and remaining time.</p>
 ]]></content:encoded>
     </item>
@@ -97,10 +127,14 @@ In order to use custom skins in we will need to download:</p>
       <link>https://korepi.com/en/guide/multi-instance.html</link>
       <guid>https://korepi.com/en/guide/multi-instance.html</guid>
       <source url="https://korepi.com/en/rss.xml">How to Multi-Instance</source>
-      <description>How to Multi-instance (Open 2 game window at the same time)</description>
+      <description>How to Multi-instance (Open 2 game window at the same time) Note: Only works with Local(V) version</description>
       <category>Guide</category>
       <pubDate>Fri, 08 Dec 2023 00:39:01 GMT</pubDate>
       <content:encoded><![CDATA[<h2> How to Multi-instance (Open 2 game window at the same time)</h2>
+<blockquote>
+<p>Note:
+Only works with Local(V) version</p>
+</blockquote>
 <iframe width="640" height="360" src="https://www.youtube.com/embed/pSAxKoneT64" title="Multi-Instance V (Updated)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 ]]></content:encoded>
     </item>
@@ -114,23 +148,30 @@ In order to use custom skins in we will need to download:</p>
       <pubDate>Fri, 08 Dec 2023 00:39:01 GMT</pubDate>
       <content:encoded><![CDATA[<h2> Reset HWID: Network(F)</h2>
 <iframe width="640" height="360" src="https://www.youtube.com/embed/DRSEmYsl4F4" title="how to change hwid for F" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
-<h2> Step 1: Enter Korepi login page</h2>
+<h3> Step 1: Enter Korepi login page</h3>
 <p>Please head to <a href="https://keyauth.cc/panel/Strigger/Korepi" target="_blank" rel="noopener noreferrer">Korepi Login Page</a>
 Warning: Don't do anything yet.</p>
-<h2> Step 2: Get your key</h2>
+<h3> Step 2: Get your key</h3>
 <p>Get your key from your <code>license.json</code> or head to <code>★⋅micah-bot-verify⋅★</code> and click on <code>F: Getkey</code> to get your current key.</p>
-<h2> Step 3: Login in Korepi</h2>
+<h3> Step 3: Login in Korepi</h3>
 <p>After getting your key, head to <a href="https://keyauth.cc/panel/Strigger/Korepi" target="_blank" rel="noopener noreferrer">Korepi Login Page</a>, and paste your key on both fields, click on login, after that, click on <code>Reset HWID</code>.</p>
-<h2> Step 4: Open Injector</h2>
+<h3> Step 4: Open Injector</h3>
 <p>After your HWID reset, head to your injector and paste your key once again.</p>
 <p>Enjoy Korepi again!</p>
+<h2> Reset HWID: Network(F) (Sponsor)</h2>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/WCuRAyqWMHg" title="Reset HWID F version (Sponsor)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+<h3> Step 1: Head to <code>★⋅micah-bot-verify⋅★</code> channel</h3>
+<p>Head to <code>★⋅micah-bot-verify⋅★</code> channel and click on <code>F:Reset Key</code>, after that click on <code>F:Getkey</code> to recieve your new key.</p>
+<h3> Step 2: Replace your old key</h3>
+<p>Go to your korepi folder and delete <code>license.json</code>, after that open Korepi and paste in the new key you got.</p>
+<p>Enjoy Korepi!</p>
 <h2> Reset HWID: Local(V) (Sponsor)</h2>
 <iframe width="640" height="360" src="https://www.youtube.com/embed/q0G9UZHErrg?list=PL5eI1Tb64p56Mp6JqoR_o3BYk9UFTbOQI" title="How to reset Local V HWID" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
-<h2> Step 1: Get your current HWID</h2>
+<h3> Step 1: Get your current HWID</h3>
 <p>To get your current HWID, you will need to open your <code>Local(V) injector</code>, and it will automatically copy your HWID into your clipboard.</p>
-<h2> Step 2: Find <code>★⋅micah-bot-verify⋅★</code> channel</h2>
+<h3> Step 2: Find <code>★⋅micah-bot-verify⋅★</code> channel</h3>
 <p>After finding <code>★⋅micah-bot-verify⋅★</code>, click on <code>V:Change HWID</code>, a window will pop up asking for your current HWID, paste it and click <code>Submit</code>.</p>
-<h2> Step 3: Get your new <code>enc.json</code></h2>
+<h3> Step 3: Get your new <code>enc.json</code></h3>
 <p>After your HWID reset, click on <code>V:Verify</code> and paste your current HWID into the window and click <code>Submit</code>. Now download the new <code>enc.json</code> and replace the file in your Korepi folder.</p>
 <p>Note: Remember that the file name has to be <code>enc.json</code>.</p>
 ]]></content:encoded>
@@ -185,13 +226,13 @@ Warning: Don't do anything yet.</p>
       <content:encoded><![CDATA[<h1> Download</h1>
 <h2> Introduction</h2>
 <p>Welcome to our community! To pass the bot check and receive the <code>Newcomer</code> role, follow these steps.</p>
-<h2> Step 1: Join our server and obtain the <code>Newcomer</code> and <code>Fans</code> roles</h2>
+<h3> Step 1: Join our server and obtain the <code>Newcomer</code> and <code>Fans</code> roles</h3>
 <p>If you haven't joined the server yet, please read the verification post, which describes how to join the server and obtain the <code>Newcomer</code> and <code>Fans</code> roles.</p>
-<h2> Step 2: Go to the channel <code>★⋅korepi-version-roles⋅★</code></h2>
+<h3> Step 2: Go to the channel <code>★⋅korepi-version-roles⋅★</code></h3>
 <p>Locate the channel <code>★⋅korepi-version-roles⋅★</code> and choose either the F or V version role. We recommend selecting the F role.</p>
-<h2> Step 3: Download the necessary resources</h2>
+<h3> Step 3: Download the necessary resources</h3>
 <p>Once you've done that, you will gain access to the corresponding download channel: <code>★⋅f-download⋅★</code> or <code>★⋅v-download⋅★</code>.</p>
-<h2> Step 4: Ready!</h2>
+<h3> Step 4: Ready!</h3>
 <p>In the channel, you will find a link to the current version and the password for the archive. Good luck!</p>
 ]]></content:encoded>
     </item>
@@ -267,11 +308,11 @@ Warning: Don't do anything yet.</p>
       <pubDate>Fri, 24 Nov 2023 14:31:46 GMT</pubDate>
       <content:encoded><![CDATA[<h2> Introduction</h2>
 <p>Welcome to our community! To join the Discord server and start using Korepi, follow these steps.</p>
-<h2> Step 1: Create a Discord Account</h2>
+<h3> Step 1: Create a Discord Account</h3>
 <p>If you don't have a Discord account yet, start by creating a new one. Visit the <a href="https://discord.com/" target="_blank" rel="noopener noreferrer">official Discord website</a> and follow the registration instructions.</p>
-<h2> Step 2: Download and Install Discord</h2>
+<h3> Step 2: Download and Install Discord</h3>
 <p>After creating an account, download the <a href="https://discord.com/download" target="_blank" rel="noopener noreferrer">Discord client</a> for your operating system. Install the client following the on-screen instructions.</p>
-<h2> Step 3: Joining the Server</h2>
+<h3> Step 3: Joining the Server</h3>
 <ol>
 <li>Copy the <a href="https://discord.gg/cottonbuds" target="_blank" rel="noopener noreferrer">invitation link</a> for the Discord server provided by the administrator.</li>
 <li>In the Discord client, click the "+" button in the bottom left corner.</li>
@@ -291,13 +332,13 @@ Warning: Don't do anything yet.</p>
       <pubDate>Fri, 24 Nov 2023 14:31:46 GMT</pubDate>
       <content:encoded><![CDATA[<h2> Introduction</h2>
 <p>Welcome to our community! To register and obtain the "Fans" role, follow these steps.</p>
-<h2> Step 1: Join our server and get the "Newcomer" role if you haven't already</h2>
+<h3> Step 1: Join our server and get the "Newcomer" role if you haven't already</h3>
 <p>If you are not on the server yet, please read the previous post, where it is described how to join the server and get the "Newcomer" role.</p>
-<h2> Step 2: Find the bot</h2>
+<h3> Step 2: Find the bot</h3>
 <p>Now you need to find the bot with the image of a goose and write to him in direct messages (micah-sign-bot#0245).</p>
-<h2> Step 3: Getting started</h2>
+<h3> Step 3: Getting started</h3>
 <p>Write him the command <code>/sign-in</code>, solve the captcha. Note: if the bot does not respond to your captcha request, you probably entered it incorrectly. Try writing the captcha again (without the command). After successful input, the bot will send you the message "Consecutive &lt; days &gt; days".</p>
-<h2> Step 4: After receiving the "Fans" role</h2>
+<h3> Step 4: After receiving the "Fans" role</h3>
 <p>So now you need to enter this command every day for 7 days (every 24 hours). Note that if you make a mistake by a couple of hours, the bot will consider that you did not mark and reset your days. On the 7th day of check-ins, you will be given the "Fans" role, and you can stop checking in.</p>
 ]]></content:encoded>
     </item>
@@ -311,13 +352,13 @@ Warning: Don't do anything yet.</p>
       <pubDate>Fri, 24 Nov 2023 14:31:46 GMT</pubDate>
       <content:encoded><![CDATA[<h2> Introduction</h2>
 <p>Welcome to our community! To pass the bot verification and obtain the "Newcomer" role, follow these steps.</p>
-<h2> Step 1: Join our server if you haven't already</h2>
+<h3> Step 1: Join our server if you haven't already</h3>
 <p>If you are not on the server yet, please read the previous post, where it is described how to join the server.</p>
-<h2> Step 2: So, you are on the server</h2>
+<h3> Step 2: So, you are on the server</h3>
 <p>Now that you are on the server, choose the necessary channels and roles from the list, then go to the ★⋅rules⋅★ channel.</p>
-<h2> Step 3: ★⋅rules⋅★ channel</h2>
+<h3> Step 3: ★⋅rules⋅★ channel</h3>
 <p>In the rules channel, familiarize yourself with the rules and undergo verification to confirm that you are not a bot. Find the "Verify" button, click on it, and the bot will send you a link that you need to follow and confirm that you are not a bot.</p>
-<h2> Step 4: After receiving the "Newcomer" role</h2>
+<h3> Step 4: After receiving the "Newcomer" role</h3>
 <p>After successful verification, the bot will assign you the "Newcomer" role. With this role, you will not be kicked by the bot without valid reasons. Now proceed to the next step.</p>
 ]]></content:encoded>
     </item>
@@ -326,16 +367,29 @@ Warning: Don't do anything yet.</p>
       <link>https://korepi.com/en/guide/</link>
       <guid>https://korepi.com/en/guide/</guid>
       <source url="https://korepi.com/en/rss.xml">Guides</source>
-      <description>CatalogHow to reset HWID (resethwid.md); How to Multi-instance (multi-instance.md); How to use custom skins (3DM-tutorial.md); How to download skins (3DM-skin.md); How to u...</description>
+      <description>CatalogHow to get key (getkey.md); How to reset HWID (resethwid.md); How to Multi-instance (multi-instance.md); How to use custom skins (3DM-tutorial.md); How to download s...</description>
       <category>Guide</category>
       <pubDate>Mon, 20 Nov 2023 12:30:39 GMT</pubDate>
       <content:encoded><![CDATA[<h2> Catalog</h2>
 <ul>
-<li><a href="/en/guide/resethwid.html" target="blank">How to reset HWID</a></li>
-<li><a href="/en/guide/multi-instance.html" target="blank">How to Multi-instance</a></li>
-<li><a href="/en/guide/3DM-tutorial.html" target="blank">How to use custom skins</a></li>
-<li><a href="/en/guide/3DM-skin.html" target="blank">How to download skins</a></li>
-<li><a href="/en/guide/custom-tp-setting.html" target="blank">How to use custom TP</a></li>
+<li>
+<p><a href="/en/guide/getkey.html" target="blank">How to get key</a></p>
+</li>
+<li>
+<p><a href="/en/guide/resethwid.html" target="blank">How to reset HWID</a></p>
+</li>
+<li>
+<p><a href="/en/guide/multi-instance.html" target="blank">How to Multi-instance</a></p>
+</li>
+<li>
+<p><a href="/en/guide/3DM-tutorial.html" target="blank">How to use custom skins</a></p>
+</li>
+<li>
+<p><a href="/en/guide/3DM-skin.html" target="blank">How to download skins</a></p>
+</li>
+<li>
+<p><a href="/en/guide/custom-tp-setting.html" target="blank">How to use custom TP</a></p>
+</li>
 </ul>
 ]]></content:encoded>
     </item>

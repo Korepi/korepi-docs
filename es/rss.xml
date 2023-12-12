@@ -6,11 +6,41 @@
     <link>https://korepi.com/es/</link>
     <description>Ayuda en Korepi</description>
     <language>es-ES</language>
-    <pubDate>Mon, 11 Dec 2023 13:36:38 GMT</pubDate>
-    <lastBuildDate>Mon, 11 Dec 2023 13:36:38 GMT</lastBuildDate>
+    <pubDate>Tue, 12 Dec 2023 12:41:52 GMT</pubDate>
+    <lastBuildDate>Tue, 12 Dec 2023 12:41:52 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Guía</category>
+    <item>
+      <title>Como conseguir la Key</title>
+      <link>https://korepi.com/es/guide/getkey.html</link>
+      <guid>https://korepi.com/es/guide/getkey.html</guid>
+      <source url="https://korepi.com/es/rss.xml">Como conseguir la Key</source>
+      <description>Como conseguir la key para Network(F) Paso 1: Consigue el rol de F Auth Ve al canal de ★⋅korepi-version-roles⋅★ en el servidor y dale click a F Auth para conseguir el rol. Paso ...</description>
+      <category>Guía</category>
+      <pubDate>Tue, 12 Dec 2023 01:00:59 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Como conseguir la key para Network(F)</h2>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/-9bXOMH0-WM" title="Korepi - How to get V key" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+<h3> Paso 1: Consigue el rol de F Auth</h3>
+<p>Ve al canal de <code>★⋅korepi-version-roles⋅★</code> en el servidor y dale click a <code>F Auth</code> para conseguir el rol.</p>
+<h3> Paso 2: Consigue tu key</h3>
+<p>Ve al canal de <code>⁠★⋅micah-bot-verify⋅★</code> y dale click a <code>F:Getkey</code>, el bot te mandara una tabla con información, copia la de Key.</p>
+<h3> Paso 3: Usa tu key</h3>
+<p>Abre Korepi, cuando te pida la licencia, pega la key que conseguiste y sigue los pasos que se mencione en el mod.</p>
+<p>Disfruta de Korepi!</p>
+<h2> Como conseguir key para Local(V)</h2>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/OTCSboZdexc" title="Korepi - How to get V key" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+<h3> Paso 1: Consigue el rol de V Auth</h3>
+<p>Ve al canal de <code>★⋅korepi-version-roles⋅★</code> en el servidor y dale click a <code>V Auth</code> para conseguir el rol.</p>
+<h3> Paso 2: Consigue tu <code>HWID</code></h3>
+<p>Para conseguir tu <code>HWID</code> deberas abrir el mod <code>Local(V)</code> una vez, y se te copiara el <code>HWID</code> en el portapapeles.</p>
+<h3> Paso 3: Consigue tu <code>enc.json</code></h3>
+<p>Ve al canal de <code>⁠★⋅micah-bot-verify⋅★</code> y dale click a <code>V:Verify</code>, saldra una ventana preguntandote por tu <code>HWID</code>, pegalo y dale click a <code>Submit</code>, después descarga el archivo que te envie el bot.</p>
+<h3> Paso 4: Pon tu archivo junto a Korepi</h3>
+<p>Depués de conseguir tu archivo, ponlo junto a korepi dentro de tu carpeta, abre el mod de nuevo y podras usarlo. Recuerda que el nombre debe de ser <code>enc.json</code>.</p>
+<p>Disfruta de Korepi!</p>
+]]></content:encoded>
+    </item>
     <item>
       <title>Instalar Skins</title>
       <link>https://korepi.com/es/guide/3DM-skin.html</link>
@@ -20,11 +50,11 @@
       <category>Guía</category>
       <pubDate>Sun, 10 Dec 2023 01:50:24 GMT</pubDate>
       <content:encoded><![CDATA[<h2> Como instalar skins personalizadas en <code>GIMI</code></h2>
-<h2> Paso 1: Descargar la skin</h2>
+<h3> Paso 1: Descargar la skin</h3>
 <p>Para esto deberemos ir a <a href="https://gamebanana.com/games/8552" target="_blank" rel="noopener noreferrer">Gamebanana</a> y seleccionar la skin que queremos y descargarla</p>
-<h2> Paso 2: Instalar la skin</h2>
+<h3> Paso 2: Instalar la skin</h3>
 <p>Iremos a nuestra carpeta de <code>GIMI</code> y buscaremos la carpeta de <code>Mods</code>, dentro de esta carpeta extraeremos nuestra skin.</p>
-<h2> Paso 3: Aplicar la skin</h2>
+<h3> Paso 3: Aplicar la skin</h3>
 <p>Si estamos dentro del juego le daremos a <code>F10</code> para recargar los mods, si no, abriremos el juego siguiendo la <a href="/es/guide/3DM-tutorial.html" target="blank">publicación anterior</a> y la skin ya estará aplicada.</p>
 ]]></content:encoded>
     </item>
@@ -41,26 +71,26 @@
 Para poder usar skins personalizadas en Korepi tendremos que descargar la aplicación de</p>
 <p><code>3DMigoto(GIMI)</code>.</p>
 <h2> Método 1</h2>
-<h2> Paso 1: Descargar <code>GIMI</code></h2>
+<h3> Paso 1: Descargar <code>GIMI</code></h3>
 <p>Descarga <code>GIMI</code> desde su <a href="https://github.com/SilentNightSound/GI-Model-Importer/releases/tag/v7.0" target="_blank" rel="noopener noreferrer">Github</a> oficial, descarga el archivo llamado <code>3dmigoto-GIMI-for-playing-mods.zip</code>.</p>
 <figure><figcaption></figcaption></figure>
-<h2> Paso 2: Extraer la carpeta de <code>GIMI</code></h2>
+<h3> Paso 2: Extraer la carpeta de <code>GIMI</code></h3>
 <p>Después de descargar <code>GIMI</code>, lo extraemos en cualquier carpeta en el escritorio, dentro de esa carpeta encontraremos un archivo llamado <code>d3d11.dll</code>, copiaremos el directorio y añadiremos <code>/d3d11.dll</code>.</p>
 <p><code>"directorio/d3d11.dll"</code></p>
-<h2> Paso 3: Añadir <code>GIMI</code> a Korepi</h2>
+<h3> Paso 3: Añadir <code>GIMI</code> a Korepi</h3>
 <p>Para esto tendremos que añadir las siguientes lineas al archivo llamado <code>cfg.ini</code> dentro de la carpeta de Korepi.</p>
 <figure><figcaption></figcaption></figure>
 <p>En <code>DllPath</code> pegaremos nuestro directorio mencionado en el paso anterior.</p>
 <figure><figcaption></figcaption></figure>
-<h2> Paso 4: Abrir Korepi</h2>
+<h3> Paso 4: Abrir Korepi</h3>
 <p>Después de realizar los pasos mencionados, GIMI se abrirá junto a Korepi cada vez que abras Korepi.</p>
 <h2> Método 2</h2>
-<h2> Paso 1: Descargar <code>GIMI</code></h2>
+<h3> Paso 1: Descargar <code>GIMI</code></h3>
 <p>Descarga <code>GIMI</code> desde su <a href="https://github.com/SilentNightSound/GI-Model-Importer/releases/tag/v7.0" target="_blank" rel="noopener noreferrer">Github</a> oficial, descarga el archivo llamado <code>3dmigoto-GIMI-for-playing-mods.zip</code>.</p>
 <figure><figcaption></figcaption></figure>
-<h2> Paso 2: Extraer la carpeta de <code>GIMI</code></h2>
+<h3> Paso 2: Extraer la carpeta de <code>GIMI</code></h3>
 <p>Después de descargar <code>GIMI</code>, lo extraemos en cualquier carpeta en el escritorio, dentro de esa carpeta encontraremos un archivo llamado <code>3DMigoto Loader.exe</code>, lo abriremos primero.</p>
-<h2> Paso 3: Abrir Korepi</h2>
+<h3> Paso 3: Abrir Korepi</h3>
 <p>Abriremos Korepi después de abrir <code>GIMI</code>, y se ejecutaran los dos juntos, tendrás que hacer el paso 2 cada vez que quieras usar <code>GIMI</code>.</p>
 ]]></content:encoded>
     </item>
@@ -73,22 +103,22 @@ Para poder usar skins personalizadas en Korepi tendremos que descargar la aplica
       <category>Guía</category>
       <pubDate>Sun, 10 Dec 2023 01:50:24 GMT</pubDate>
       <content:encoded><![CDATA[<h2> Como usar Teletransportes personalizados</h2>
-<h2> Paso 1: Configuración</h2>
+<h3> Paso 1: Configuración</h3>
 <p>Lo configuraremos de la siguiente manera:</p>
 <figure><figcaption></figcaption></figure>
 <p>El tiempo de retraso recomendado es de &gt;15s.</p>
-<h2> Paso 2: Descargar los archivos <code>.json</code> para los teletransportes</h2>
+<h3> Paso 2: Descargar los archivos <code>.json</code> para los teletransportes</h3>
 <p>Para ello podremos encontrarlo en el canal de <code>community-share</code> en la publicación fijada. Lo descargaremos y lo extraemos en cualquier carpeta.</p>
-<h2> Paso 3: Seleccionar los teletransportes deseados</h2>
+<h3> Paso 3: Seleccionar los teletransportes deseados</h3>
 <p>Entraremos en los ajustes dentro de Korepi de nuevo e iremos a la siguiente sección:</p>
 <figure><figcaption></figcaption></figure>
 <p>Le daremos click a select path, y elegiremos la carpeta de los teletransportes que deseamos utilizar.</p>
-<h2> Paso 4: Empezar los teletransportes</h2>
+<h3> Paso 4: Empezar los teletransportes</h3>
 <p>Después de seleccionar los teletransportes deberemos de darle a la siguiente casilla:</p>
 <figure><figcaption></figcaption></figure>
 <p>La activamos y le damos a <code>Seleccionar Botón0</code>:</p>
 <figure><figcaption></figcaption></figure>
-<h2> Paso 5: Disfrutar</h2>
+<h3> Paso 5: Disfrutar</h3>
 <p>Ahora los teletransportes empezaran, si tienes <a href="/es/start/sponsor.html" target="blank">Sponsor</a> habrá un contador del tiempo que tardara.</p>
 ]]></content:encoded>
     </item>
@@ -97,10 +127,14 @@ Para poder usar skins personalizadas en Korepi tendremos que descargar la aplica
       <link>https://korepi.com/es/guide/multi-instance.html</link>
       <guid>https://korepi.com/es/guide/multi-instance.html</guid>
       <source url="https://korepi.com/es/rss.xml">Multi-Instancia</source>
-      <description>Como usar Multi-Instancia (Abrir 2 juegos al mismo tiempo)</description>
+      <description>Como usar Multi-Instancia (Abrir 2 juegos al mismo tiempo) Nota: Solo funciona con la version Local(V)</description>
       <category>Guía</category>
       <pubDate>Fri, 08 Dec 2023 00:39:01 GMT</pubDate>
       <content:encoded><![CDATA[<h2> Como usar Multi-Instancia (Abrir 2 juegos al mismo tiempo)</h2>
+<blockquote>
+<p>Nota:
+Solo funciona con la version Local(V)</p>
+</blockquote>
 <iframe width="640" height="360" src="https://www.youtube.com/embed/pSAxKoneT64" title="Multi-Instance V (Updated)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 ]]></content:encoded>
     </item>
@@ -114,23 +148,30 @@ Para poder usar skins personalizadas en Korepi tendremos que descargar la aplica
       <pubDate>Fri, 08 Dec 2023 00:39:01 GMT</pubDate>
       <content:encoded><![CDATA[<h2> Restablecer HWID: Network(F)</h2>
 <iframe width="640" height="360" src="https://www.youtube.com/embed/DRSEmYsl4F4" title="how to change hwid for F" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
-<h2> Paso 1: Entra a la pagina de Korepi</h2>
+<h3> Paso 1: Entra a la pagina de Korepi</h3>
 <p>Ve a <a href="https://keyauth.cc/panel/Strigger/Korepi" target="_blank" rel="noopener noreferrer">Korepi Login Page</a></p>
 <p>Aviso: No hagas nada aun!!</p>
-<h2> Paso 2: Encuentra tu key</h2>
+<h3> Paso 2: Encuentra tu key</h3>
 <p>Consigue tu key en <code>license.json</code> o ve a <code>★⋅micah-bot-verify⋅★</code> y dale click a  <code>F: Getkey</code> para conseguir tu key actual.</p>
-<h2> Paso 3: Inicia sesión en Korepi</h2>
+<h3> Paso 3: Inicia sesión en Korepi</h3>
 <p>Después de conseguir tu key ve a <a href="https://keyauth.cc/panel/Strigger/Korepi" target="_blank" rel="noopener noreferrer">Korepi Login Page</a>, y pega tu key en ambos recuadros, inicia sesión y después dale a <code>Reset HWID</code>.</p>
-<h2> Paso 4: Abre el mod</h2>
+<h3> Paso 4: Abre el mod</h3>
 <p>Después de restablecer tu HWID vuelve al mod y pega tu llave de nuevo.</p>
 <p>Disfruta de Korepi de nuevo!</p>
+<h2> Restablecer HWID: Network(F) (Sponsor)</h2>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/WCuRAyqWMHg" title="Reset HWID F version (Sponsor)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+<h3> Paso 1: Ve al canal de <code>★⋅micah-bot-verify⋅★</code></h3>
+<p>Ve al canal de  <code>★⋅micah-bot-verify⋅★</code> y dale click a  <code>F:Reset Key</code>, después dale click a <code>F:Getkey</code> para recibir la nueva key.</p>
+<h3> Paso 2: Reemplaza tu vieja key</h3>
+<p>Ve a tu carpeta de Korepi y borra <code>license.json</code>, después de eso pega tu nueva key.</p>
+<p>Disfruta de Korepi!</p>
 <h2> Restablecer HWID: Local(V) (Sponsor)</h2>
 <iframe width="640" height="360" src="https://www.youtube.com/embed/q0G9UZHErrg?list=PL5eI1Tb64p56Mp6JqoR_o3BYk9UFTbOQI" title="How to reset Local V HWID" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
-<h2> Step 1: Encuentra tu HWID</h2>
+<h3> Step 1: Encuentra tu HWID</h3>
 <p>Para conseguir tu HWID actual deberás abrir tu <code>Local(V) injector</code>, y copiara tu HWID automaticamente a tu portapapeles.</p>
-<h2> Step 2: Encuentra el canal de <code>★⋅micah-bot-verify⋅★</code></h2>
+<h3> Step 2: Encuentra el canal de <code>★⋅micah-bot-verify⋅★</code></h3>
 <p>Después de encontrar <code>★⋅micah-bot-verify⋅★</code>, dale click a <code>V:Change HWID</code>, una ventana aparecerá, pega tu HWID y dale a <code>Submit</code>.</p>
-<h2> Step 3: Consigue tu nuevo <code>enc.json</code></h2>
+<h3> Step 3: Consigue tu nuevo <code>enc.json</code></h3>
 <p>Después de restablecer tu HWID dale click a <code>V:Verify</code> y pega tu nuevo HWID en la ventana y dale a <code>Submit</code>. Ahora descarga el nuevo <code>enc.json</code> y cámbialo en tu carpeta de Korepi.</p>
 <p>Nota: Recuerda que el nombre del archivo tiene que ser <code>enc.json</code>.</p>
 ]]></content:encoded>
@@ -185,13 +226,13 @@ Para poder usar skins personalizadas en Korepi tendremos que descargar la aplica
       <content:encoded><![CDATA[<h1> Descargar</h1>
 <h2> Introducción</h2>
 <p>¡Bienvenid@ a nuestra comunidad! Para pasar la verificación del bot y recibir el rol de <code>Newcomer</code>, sigue los siguientes pasos.</p>
-<h2> Paso 1: Únete a nuestro servidor y obtén los roles de <code>Newcomer</code> y <code>Fans</code></h2>
+<h3> Paso 1: Únete a nuestro servidor y obtén los roles de <code>Newcomer</code> y <code>Fans</code></h3>
 <p>Si aún no te has unido al servidor, por favor, lee la publicación de verificacion, que explica cómo unirse al servidor y obtener los roles de <code>Newcomer</code> y <code>Fans</code>.</p>
-<h2> Paso 2: Ve al canal de <code>★⋅korepi-version-roles⋅★</code></h2>
+<h3> Paso 2: Ve al canal de <code>★⋅korepi-version-roles⋅★</code></h3>
 <p>Localiza el canal <code>★⋅korepi-version-roles⋅★</code> y elige el rol correspondiente a la versión F o V. Recomendamos seleccionar el rol F.</p>
-<h2> Paso 3: Descargar los recursos necesarios</h2>
+<h3> Paso 3: Descargar los recursos necesarios</h3>
 <p>Después de hacer esto, tendrás acceso al canal de descarga, dependiendo de que rol hayas escogido <code>★⋅f-download⋅★</code> o <code>★⋅v-download⋅★</code>.</p>
-<h2> Paso 4: ¡Listo!</h2>
+<h3> Paso 4: ¡Listo!</h3>
 <p>En el canal encontrarás un enlace a la versión actual y la contraseña del archivo. ¡Buena suerte!</p>
 ]]></content:encoded>
     </item>
@@ -200,16 +241,29 @@ Para poder usar skins personalizadas en Korepi tendremos que descargar la aplica
       <link>https://korepi.com/es/guide/</link>
       <guid>https://korepi.com/es/guide/</guid>
       <source url="https://korepi.com/es/rss.xml">Guías</source>
-      <description>Catalogo Restablecer HWID (resethwid.md); Como usar Multi-Instancia (multi-instance.md); Como usar Skins Personalizadas (3DM-tutorial.md); Como descargar Skins en GIMI (3DM-skin...</description>
+      <description>Catalogo Como conseguir la key (getkey.md); Restablecer HWID (resethwid.md); Como usar Multi-Instancia (multi-instance.md); Como usar Skins Personalizadas (3DM-tutorial.md); Com...</description>
       <category>Guía</category>
       <pubDate>Wed, 29 Nov 2023 17:50:00 GMT</pubDate>
       <content:encoded><![CDATA[<h2> Catalogo</h2>
 <ul>
-<li><a href="/es/guide/resethwid.html" target="blank">Restablecer HWID</a></li>
-<li><a href="/es/guide/multi-instance.html" target="blank">Como usar Multi-Instancia</a></li>
-<li><a href="/es/guide/3DM-tutorial.html" target="blank">Como usar Skins Personalizadas</a></li>
-<li><a href="/es/guide/3DM-skin.html" target="blank">Como descargar Skins en GIMI</a></li>
-<li><a href="/es/guide/custom-tp-setting.html" target="blank">Como usar teletransportes personalizados</a></li>
+<li>
+<p><a href="/es/guide/getkey.html" target="blank">Como conseguir la key</a></p>
+</li>
+<li>
+<p><a href="/es/guide/resethwid.html" target="blank">Restablecer HWID</a></p>
+</li>
+<li>
+<p><a href="/es/guide/multi-instance.html" target="blank">Como usar Multi-Instancia</a></p>
+</li>
+<li>
+<p><a href="/es/guide/3DM-tutorial.html" target="blank">Como usar Skins Personalizadas</a></p>
+</li>
+<li>
+<p><a href="/es/guide/3DM-skin.html" target="blank">Como descargar Skins en GIMI</a></p>
+</li>
+<li>
+<p><a href="/es/guide/custom-tp-setting.html" target="blank">Como usar teletransportes personalizados</a></p>
+</li>
 </ul>
 ]]></content:encoded>
     </item>
@@ -254,11 +308,11 @@ Para poder usar skins personalizadas en Korepi tendremos que descargar la aplica
       <pubDate>Wed, 29 Nov 2023 17:50:00 GMT</pubDate>
       <content:encoded><![CDATA[<h2> Introducción</h2>
 <p>Bienvenid@ a nuestra comunidad! Sigue estas instrucciones para poder unirte al servidor de Korepi.</p>
-<h2> Paso 1: Crea una cuenta de Discord</h2>
+<h3> Paso 1: Crea una cuenta de Discord</h3>
 <p>Si aun no tienes una cuenta de Discord, empieza creado una nueva. Visita la <a href="https://discord.com/" target="_blank" rel="noopener noreferrer">Pagina oficial de Discord</a> y sigue las instrucciones.</p>
-<h2> Paso 2: Descarga e Instala Discord</h2>
+<h3> Paso 2: Descarga e Instala Discord</h3>
 <p>Después de crear una cuenta, descarga el <a href="https://discord.com/download" target="_blank" rel="noopener noreferrer">Cliente de Discord</a> para tu sistema operativo. Instala el cliente siguiendo las instrucciones en pantalla.</p>
-<h2> Paso 3: Unirse al Servidor</h2>
+<h3> Paso 3: Unirse al Servidor</h3>
 <ol>
 <li>Copia el <a href="https://discord.gg/cottonbuds" target="_blank" rel="noopener noreferrer">enlace de invitación</a> para el Discord que se ha dado por el admin.</li>
 <li>En el cliente de Discord, dale click a "+" abajo en la esquina izquierda.</li>
@@ -278,13 +332,13 @@ Para poder usar skins personalizadas en Korepi tendremos que descargar la aplica
       <pubDate>Wed, 29 Nov 2023 17:50:00 GMT</pubDate>
       <content:encoded><![CDATA[<h2> Introducción</h2>
 <p>Bienvenid@ a nuestra comunidad! Para registrarte y obtener el rol de "Fans", sigue estos pasos</p>
-<h2> Paso 1: Únete a nuestro servidor y consigue el rol de "Newcomer" is aun no lo has hecho</h2>
+<h3> Paso 1: Únete a nuestro servidor y consigue el rol de "Newcomer" is aun no lo has hecho</h3>
 <p>Si aun no estas en el servido, por favor lee la publicación anterior, donde se explica como se une al servidor y conseguir el rol de "Newcomer".</p>
-<h2> Paso 2: Encuentra al bot</h2>
+<h3> Paso 2: Encuentra al bot</h3>
 <p>Ahora necesitas encontrar al bot con la imagen de un ganso y mandarle un mensaje directo (micah-sign-bot#0245).</p>
-<h2> Paso 3: Como empezar</h2>
+<h3> Paso 3: Como empezar</h3>
 <p>Envíale el comando <code>/sign-in</code>, resuelve el captcha. Nota: si el bot no te responde al la solución del captcha, seguramente lo haya hecho incorrectamente. Prueba a escribir el captcha de nuevo (sin el comando). Si es correcto, el bot te mandara el siguiente mensaje "Consecutive &lt; days &gt; days".</p>
-<h2> Paso 4: Después de recibir el rol de "Fans"</h2>
+<h3> Paso 4: Después de recibir el rol de "Fans"</h3>
 <p>Tiene que usar este comando durante 7 días (cada 24 horas). Si te retrasas por unas cuantas horas, el bot considerara que no lo has hecho diario y te restablecerá tus días. En el 7mo dia de check-ins, recibirás el rol de "Fans", y ya podrás parar.</p>
 ]]></content:encoded>
     </item>
@@ -329,13 +383,13 @@ Para poder usar skins personalizadas en Korepi tendremos que descargar la aplica
       <pubDate>Wed, 29 Nov 2023 17:50:00 GMT</pubDate>
       <content:encoded><![CDATA[<h2> Introducción</h2>
 <p>Bienvenid@ a nuestra comunidad! Para completar la verificación del bot y obtener el rol de "Fans", sigue los siguientes pasos.</p>
-<h2> Paso 1: Únete a nuestro servidor si aun no lo has hecho</h2>
+<h3> Paso 1: Únete a nuestro servidor si aun no lo has hecho</h3>
 <p>Si aun no estas en nuestro servidor, por favor lee la publicación anterior, donde se explica como se puede unir al servidor.</p>
-<h2> Paso 2: Asi que estas en el servidor</h2>
+<h3> Paso 2: Asi que estas en el servidor</h3>
 <p>Ahora que estas ene el servidor, elige los canales y roles necesarios de la lista, después ve al canal de ★⋅rules⋅★./</p>
-<h2> Paso 3: Canal de ★⋅rules⋅★</h2>
+<h3> Paso 3: Canal de ★⋅rules⋅★</h3>
 <p>En el canal de reglas, deberás familiarizarte con las reglas y con la verificación para confirmar de que no eres un bot. Encuentra el botón de "Verify", dale click, y el bot the enviara un link que tendrás que seguir y confirmar de que no eres un bot</p>
-<h2> Paso 4: Después de recibir el rol de "Newcomer"</h2>
+<h3> Paso 4: Después de recibir el rol de "Newcomer"</h3>
 <p>Después de la verificación exitosa, el bot the dara el rol de "Newcomer". Con este rol, no seras echado del servidor sin razones validad. Ahora sigue al siguiente paso.</p>
 ]]></content:encoded>
     </item>
