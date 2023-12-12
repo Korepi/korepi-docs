@@ -5,11 +5,13 @@ category:
   - Guide
 tag:
   - Start
-author: QweRez
+author: QweRez, Schvis
 ---
 
 ## Catalog
 
+- [How to get key](getkey.md)
+  
 - [How to reset HWID](resethwid.md)
 
 - [How to Multi-instance](multi-instance.md)

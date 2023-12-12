@@ -10,6 +10,8 @@ author: Schvis
 
 ## Catalogo
 
+- [Como conseguir la key](getkey.md)
+  
 - [Restablecer HWID](resethwid.md)
 
 - [Como usar Multi-Instancia](multi-instance.md)
