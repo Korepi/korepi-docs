@@ -16,7 +16,7 @@ order: 1
 
 ### Step 1: Get F Auth role
 
-Head to `★⋅korepi-version-roles⋅★ ` on the server and click on `F Auth` to get the role.
+Head to `★⋅korepi-version-roles⋅★` on the server and click on `F Auth` to get the role.
 
 ### Step 2: Get your key
 
@@ -34,7 +34,7 @@ Enjoy Koprepi!
 
 ### Step 1: Get V Auth role
 
-Head to `★⋅korepi-version-roles⋅★ ` on the server and click on `V Auth` to get the role.
+Head to `★⋅korepi-version-roles⋅★` on the server and click on `V Auth` to get the role.
 
 ### Step 2: Get your `HWID`
 
