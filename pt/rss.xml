@@ -1,14 +1,511 @@
 <?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="https://korepi.com/pt/rss.xsl"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <atom:link href="https://korepi.com/pt/rss.xml" rel="self" type="application/rss+xml"/>
     <title>Korepi</title>
     <link>https://korepi.com/pt/</link>
     <description>Ayuda en Korepi</description>
     <language>pt-PT</language>
-    <pubDate>Wed, 13 Dec 2023 16:01:03 GMT</pubDate>
-    <lastBuildDate>Wed, 13 Dec 2023 16:01:03 GMT</lastBuildDate>
+    <pubDate>Wed, 13 Dec 2023 16:40:32 GMT</pubDate>
+    <lastBuildDate>Wed, 13 Dec 2023 16:40:32 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+    <category>Guía</category>
+    <category>Errores</category>
+    <item>
+      <title>Instalar Skins</title>
+      <link>https://korepi.com/pt/guide/3DM-skin.html</link>
+      <guid>https://korepi.com/pt/guide/3DM-skin.html</guid>
+      <source url="https://korepi.com/pt/rss.xml">Instalar Skins</source>
+      <description>Como instalar skins personalizadas en GIMI Paso 1: Descargar la skin Para esto deberemos ir a Gamebanana (https://gamebanana.com/games/8552) y seleccionar la skin que queremos y...</description>
+      <category>Guía</category>
+      <pubDate>Wed, 13 Dec 2023 16:37:40 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Como instalar skins personalizadas en <code>GIMI</code></h2>
+<h3> Paso 1: Descargar la skin</h3>
+<p>Para esto deberemos ir a <a href="https://gamebanana.com/games/8552" target="_blank" rel="noopener noreferrer">Gamebanana</a> y seleccionar la skin que queremos y descargarla</p>
+<h3> Paso 2: Instalar la skin</h3>
+<p>Iremos a nuestra carpeta de <code>GIMI</code> y buscaremos la carpeta de <code>Mods</code>, dentro de esta carpeta extraeremos nuestra skin.</p>
+<h3> Paso 3: Aplicar la skin</h3>
+<p>Si estamos dentro del juego le daremos a <code>F10</code> para recargar los mods, si no, abriremos el juego siguiendo la <a href="/pt/guide/3DM-tutorial.html" target="blank">publicación anterior</a> y la skin ya estará aplicada.</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Skins Personalizadas</title>
+      <link>https://korepi.com/pt/guide/3DM-tutorial.html</link>
+      <guid>https://korepi.com/pt/guide/3DM-tutorial.html</guid>
+      <source url="https://korepi.com/pt/rss.xml">Skins Personalizadas</source>
+      <description>Nota: Si en el cmd de GIMI sale echo off puedes presionar Numpad 0 para quitarlo o editar d3dx.ini y buscar hunting= y cambialo a 0. Como usar skins personalizadas en Korepi Par...</description>
+      <category>Guía</category>
+      <pubDate>Wed, 13 Dec 2023 16:37:40 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Nota:</h2>
+<h3> Si en el cmd de GIMI sale <code>echo off</code> puedes presionar <code>Numpad 0</code> para quitarlo o</h3>
+<h3> editar <code>d3dx.ini</code> y buscar <code>hunting=</code> y cambialo a <code>0</code>.</h3>
+<h2> Como usar skins personalizadas en Korepi</h2>
+<p><img src="/assets/images/docs/202312/example.png" alt="" loading="lazy">
+Para poder usar skins personalizadas en Korepi tendremos que descargar la aplicación de</p>
+<p><code>3DMigoto(GIMI)</code>.</p>
+<h2> Método 1</h2>
+<h3> Paso 1: Descargar <code>GIMI</code></h3>
+<p>Descarga <code>GIMI</code> desde su <a href="https://github.com/SilentNightSound/GI-Model-Importer/releases/tag/v7.0" target="_blank" rel="noopener noreferrer">Github</a> oficial, descarga el archivo llamado <code>3dmigoto-GIMI-for-playing-mods.zip</code>.</p>
+<p><img src="/assets/images/docs/202312/3dm-1.png" alt="" loading="lazy"></p>
+<h3> Paso 2: Extraer la carpeta de <code>GIMI</code></h3>
+<p>Después de descargar <code>GIMI</code>, lo extraemos en cualquier carpeta en el escritorio, dentro de esa carpeta encontraremos un archivo llamado <code>d3d11.dll</code>, copiaremos el directorio y añadiremos <code>/d3d11.dll</code>.</p>
+<p><code>"directorio/d3d11.dll"</code></p>
+<h3> Paso 3: Añadir <code>GIMI</code> a Korepi</h3>
+<p>Para esto tendremos que añadir las siguientes lineas al archivo llamado <code>cfg.ini</code> dentro de la carpeta de Korepi.</p>
+<p><img src="/assets/images/docs/202312/3dm-2.png" alt="" loading="lazy"></p>
+<p>En <code>DllPath</code> pegaremos nuestro directorio mencionado en el paso anterior.</p>
+<p><img src="/assets/images/docs/202312/3dm-3.png" alt="" loading="lazy"></p>
+<h3> Paso 4: Abrir Korepi</h3>
+<p>Después de realizar los pasos mencionados, GIMI se abrirá junto a Korepi cada vez que abras Korepi.</p>
+<h2> Método 2</h2>
+<h3> Paso 1: Descargar <code>GIMI</code></h3>
+<p>Descarga <code>GIMI</code> desde su <a href="https://github.com/SilentNightSound/GI-Model-Importer/releases/tag/v7.0" target="_blank" rel="noopener noreferrer">Github</a> oficial, descarga el archivo llamado <code>3dmigoto-GIMI-for-playing-mods.zip</code>.</p>
+<p><img src="/assets/images/docs/202312/3dm-1.png" alt="" loading="lazy"></p>
+<h3> Paso 2: Extraer la carpeta de <code>GIMI</code></h3>
+<p>Después de descargar <code>GIMI</code>, lo extraemos en cualquier carpeta en el escritorio, dentro de esa carpeta encontraremos un archivo llamado <code>3DMigoto Loader.exe</code>, lo abriremos primero.</p>
+<h3> Paso 3: Abrir Korepi</h3>
+<p>Abriremos Korepi después de abrir <code>GIMI</code>, y se ejecutaran los dos juntos, tendrás que hacer el paso 2 cada vez que quieras usar <code>GIMI</code>.</p>
+]]></content:encoded>
+      <enclosure url="https://korepi.com/assets/images/docs/202312/example.png" type="image/png"/>
+    </item>
+    <item>
+      <title>Guías</title>
+      <link>https://korepi.com/pt/guide/</link>
+      <guid>https://korepi.com/pt/guide/</guid>
+      <source url="https://korepi.com/pt/rss.xml">Guías</source>
+      <description>Catalogo Como conseguir la key (getkey.md); Restablecer HWID (resethwid.md); Como usar Multi-Instancia (multi-instance.md); Como usar Skins Personalizadas (3DM-tutorial.md); Com...</description>
+      <category>Guía</category>
+      <pubDate>Wed, 13 Dec 2023 16:37:40 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Catalogo</h2>
+<ul>
+<li>
+<p><a href="/pt/guide/getkey.html" target="blank">Como conseguir la key</a></p>
+</li>
+<li>
+<p><a href="/pt/guide/resethwid.html" target="blank">Restablecer HWID</a></p>
+</li>
+<li>
+<p><a href="/pt/guide/multi-instance.html" target="blank">Como usar Multi-Instancia</a></p>
+</li>
+<li>
+<p><a href="/pt/guide/3DM-tutorial.html" target="blank">Como usar Skins Personalizadas</a></p>
+</li>
+<li>
+<p><a href="/pt/guide/3DM-skin.html" target="blank">Como descargar Skins en GIMI</a></p>
+</li>
+<li>
+<p><a href="/pt/guide/custom-tp-setting.html" target="blank">Como usar teletransportes personalizados</a></p>
+</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Teletransportes personalizados</title>
+      <link>https://korepi.com/pt/guide/custom-tp-setting.html</link>
+      <guid>https://korepi.com/pt/guide/custom-tp-setting.html</guid>
+      <source url="https://korepi.com/pt/rss.xml">Teletransportes personalizados</source>
+      <description>Como usar Teletransportes personalizados Paso 1: Configuración Lo configuraremos de la siguiente manera: El tiempo de retraso recomendado es de &amp;gt;15s. Paso 2: Descargar los archi...</description>
+      <category>Guía</category>
+      <pubDate>Wed, 13 Dec 2023 16:37:40 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Como usar Teletransportes personalizados</h2>
+<h3> Paso 1: Configuración</h3>
+<p>Lo configuraremos de la siguiente manera:</p>
+<p><img src="/assets/images/docs/202312/teleport1.png" alt="" loading="lazy"></p>
+<p>El tiempo de retraso recomendado es de &gt;15s.</p>
+<h3> Paso 2: Descargar los archivos <code>.json</code> para los teletransportes</h3>
+<p>Para ello podremos encontrarlo en el canal de <code>community-share</code> en la publicación fijada. Lo descargaremos y lo extraemos en cualquier carpeta.</p>
+<h3> Paso 3: Seleccionar los teletransportes deseados</h3>
+<p>Entraremos en los ajustes dentro de Korepi de nuevo e iremos a la siguiente sección:</p>
+<p><img src="/assets/images/docs/202312/teleport2.png" alt="" loading="lazy"></p>
+<p>Le daremos click a select path, y elegiremos la carpeta de los teletransportes que deseamos utilizar.</p>
+<h3> Paso 4: Empezar los teletransportes</h3>
+<p>Después de seleccionar los teletransportes deberemos de darle a la siguiente casilla:</p>
+<p><img src="/assets/images/docs/202312/teleport3.png" alt="" loading="lazy"></p>
+<p>La activamos y le damos a <code>Select</code>:</p>
+<p><img src="/assets/images/docs/202312/teleport4.png" alt="" loading="lazy"></p>
+<h3> Paso 5: Disfrutar</h3>
+<p>Ahora los teletransportes empezaran, si tienes <a href="/pt/start/sponsor.html" target="blank">Sponsor</a> habrá un contador del tiempo que tardara.</p>
+]]></content:encoded>
+      <enclosure url="https://korepi.com/assets/images/docs/202312/teleport1.png" type="image/png"/>
+    </item>
+    <item>
+      <title>Como conseguir la Key</title>
+      <link>https://korepi.com/pt/guide/getkey.html</link>
+      <guid>https://korepi.com/pt/guide/getkey.html</guid>
+      <source url="https://korepi.com/pt/rss.xml">Como conseguir la Key</source>
+      <description>Como conseguir la key para Network(F) Paso 1: Consigue el rol de F Auth Ve al canal de ★⋅korepi-version-roles⋅★ en el servidor y dale click a F Auth para conseguir el rol. Nota:...</description>
+      <category>Guía</category>
+      <pubDate>Wed, 13 Dec 2023 16:37:40 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Como conseguir la key para Network(F)</h2>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/-9bXOMH0-WM" title="Korepi - How to get V key" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+<h3> Paso 1: Consigue el rol de F Auth</h3>
+<p>Ve al canal de <code>★⋅korepi-version-roles⋅★</code> en el servidor y dale click a <code>F Auth</code> para conseguir el rol.</p>
+<p><code>Nota: Comprueba si tienes el rol, si no lo tienes dale click a F Auth de nuevo</code></p>
+<h3> Paso 2: Consigue tu key</h3>
+<p>Ve al canal de <code>⁠★⋅micah-bot-verify⋅★</code> y dale click a <code>F:Getkey</code>, el bot te mandara una tabla con información, copia la de Key.</p>
+<h3> Paso 3: Usa tu key</h3>
+<p>Abre Korepi, cuando te pida la licencia, pega la key que conseguiste y sigue los pasos que se mencione en el mod.</p>
+<p>Disfruta de Korepi!</p>
+<h2> Como conseguir key para Local(V)</h2>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/OTCSboZdexc" title="Korepi - How to get V key" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+<h3> Paso 1: Consigue el rol de V Auth</h3>
+<p>Ve al canal de <code>★⋅korepi-version-roles⋅★</code> en el servidor y dale click a <code>V Auth</code> para conseguir el rol.</p>
+<p><code>Nota: Comprueba si tienes el rol, si no lo tienes dale click a V Auth de nuevo</code></p>
+<h3> Paso 2: Consigue tu <code>HWID</code></h3>
+<p>Para conseguir tu <code>HWID</code> deberas abrir el mod <code>Local(V)</code> una vez, y se te copiara el <code>HWID</code> en el portapapeles.</p>
+<h3> Paso 3: Consigue tu <code>enc.json</code></h3>
+<p>Ve al canal de <code>⁠★⋅micah-bot-verify⋅★</code> y dale click a <code>V:Verify</code>, saldra una ventana preguntandote por tu <code>HWID</code>, pegalo y dale click a <code>Submit</code>, después descarga el archivo que te envie el bot.</p>
+<h3> Paso 4: Pon tu archivo junto a Korepi</h3>
+<p>Depués de conseguir tu archivo, ponlo junto a korepi dentro de tu carpeta, abre el mod de nuevo y podras usarlo. Recuerda que el nombre debe de ser <code>enc.json</code>.</p>
+<p>Disfruta de Korepi!</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Multi-Instancia</title>
+      <link>https://korepi.com/pt/guide/multi-instance.html</link>
+      <guid>https://korepi.com/pt/guide/multi-instance.html</guid>
+      <source url="https://korepi.com/pt/rss.xml">Multi-Instancia</source>
+      <description>Como usar Multi-Instancia (Abrir 2 juegos al mismo tiempo) Nota: Solo funciona con la version Local(V)</description>
+      <category>Guía</category>
+      <pubDate>Wed, 13 Dec 2023 16:37:40 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Como usar Multi-Instancia (Abrir 2 juegos al mismo tiempo)</h2>
+<blockquote>
+<p>Nota:
+Solo funciona con la version Local(V)</p>
+</blockquote>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/pSAxKoneT64" title="Multi-Instance V (Updated)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Como restablecer HWID</title>
+      <link>https://korepi.com/pt/guide/resethwid.html</link>
+      <guid>https://korepi.com/pt/guide/resethwid.html</guid>
+      <source url="https://korepi.com/pt/rss.xml">Como restablecer HWID</source>
+      <description>Restablecer HWID: Network(F) Paso 1: Entra a la pagina de Korepi Ve a Korepi Login Page (https://keyauth.cc/panel/Strigger/Korepi) Aviso: No hagas nada aun!! Paso 2: Encuentra t...</description>
+      <category>Guía</category>
+      <pubDate>Wed, 13 Dec 2023 16:37:40 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Restablecer HWID: Network(F)</h2>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/DRSEmYsl4F4" title="how to change hwid for F" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+<h3> Paso 1: Entra a la pagina de Korepi</h3>
+<p>Ve a <a href="https://keyauth.cc/panel/Strigger/Korepi" target="_blank" rel="noopener noreferrer">Korepi Login Page</a></p>
+<p>Aviso: No hagas nada aun!!</p>
+<h3> Paso 2: Encuentra tu key</h3>
+<p>Consigue tu key en <code>license.json</code> o ve a <code>★⋅micah-bot-verify⋅★</code> y dale click a  <code>F: Getkey</code> para conseguir tu key actual.</p>
+<h3> Paso 3: Inicia sesión en Korepi</h3>
+<p>Después de conseguir tu key ve a <a href="https://keyauth.cc/panel/Strigger/Korepi" target="_blank" rel="noopener noreferrer">Korepi Login Page</a>, y pega tu key en ambos recuadros, inicia sesión y después dale a <code>Reset HWID</code>.</p>
+<h3> Paso 4: Abre el mod</h3>
+<p>Después de restablecer tu HWID vuelve al mod y pega tu llave de nuevo.</p>
+<p>Disfruta de Korepi de nuevo!</p>
+<h2> Restablecer HWID: Network(F) (Sponsor)</h2>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/WCuRAyqWMHg" title="Reset HWID F version (Sponsor)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+<h3> Paso 1: Ve al canal de <code>★⋅micah-bot-verify⋅★</code></h3>
+<p>Ve al canal de  <code>★⋅micah-bot-verify⋅★</code> y dale click a  <code>F:Reset Key</code>, después dale click a <code>F:Getkey</code> para recibir la nueva key.</p>
+<h3> Paso 2: Reemplaza tu vieja key</h3>
+<p>Ve a tu carpeta de Korepi y borra <code>license.json</code>, después de eso pega tu nueva key.</p>
+<p>Disfruta de Korepi!</p>
+<h2> Restablecer HWID: Local(V) (Sponsor)</h2>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/q0G9UZHErrg?list=PL5eI1Tb64p56Mp6JqoR_o3BYk9UFTbOQI" title="How to reset Local V HWID" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+<h3> Step 1: Encuentra tu HWID</h3>
+<p>Para conseguir tu HWID actual deberás abrir tu <code>Local(V) injector</code>, y copiara tu HWID automaticamente a tu portapapeles.</p>
+<h3> Step 2: Encuentra el canal de <code>★⋅micah-bot-verify⋅★</code></h3>
+<p>Después de encontrar <code>★⋅micah-bot-verify⋅★</code>, dale click a <code>V:Change HWID</code>, una ventana aparecerá, pega tu HWID y dale a <code>Submit</code>.</p>
+<h3> Step 3: Consigue tu nuevo <code>enc.json</code></h3>
+<p>Después de restablecer tu HWID dale click a <code>V:Verify</code> y pega tu nuevo HWID en la ventana y dale a <code>Submit</code>. Ahora descarga el nuevo <code>enc.json</code> y cámbialo en tu carpeta de Korepi.</p>
+<p>Nota: Recuerda que el nombre del archivo tiene que ser <code>enc.json</code>.</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Inicio</title>
+      <link>https://korepi.com/pt/start/</link>
+      <guid>https://korepi.com/pt/start/</guid>
+      <source url="https://korepi.com/pt/rss.xml">Inicio</source>
+      <description>Catalogo Unirse al Servidor (join.md); Verificación (verify.md); Obteniendo el rol de Fans (sign-in.md); Convertirse en Sponsor (sponsor.md); Funciones Exclusivas de Sponsor (sp...</description>
+      <category>Guía</category>
+      <pubDate>Wed, 13 Dec 2023 16:37:40 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Catalogo</h2>
+<ul>
+<li>
+<p><a href="/pt/start/join.html" target="blank">Unirse al Servidor</a></p>
+</li>
+<li>
+<p><a href="/pt/start/verify.html" target="blank">Verificación</a></p>
+</li>
+<li>
+<p><a href="/pt/start/sign-in.html" target="blank">Obteniendo el rol de Fans</a></p>
+</li>
+<li>
+<p><a href="/pt/start/sponsor.html" target="blank">Convertirse en Sponsor</a></p>
+</li>
+<li>
+<p><a href="/pt/start/sponsor-exclusive.html" target="blank">Funciones Exclusivas de Sponsor</a></p>
+</li>
+<li>
+<p><a href="/pt/start/download.html" target="blank">Descargar</a></p>
+</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Descargar</title>
+      <link>https://korepi.com/pt/start/download.html</link>
+      <guid>https://korepi.com/pt/start/download.html</guid>
+      <source url="https://korepi.com/pt/rss.xml">Descargar</source>
+      <description>Introducción ¡Bienvenid@ a nuestra comunidad! Para pasar la verificación del bot y recibir el rol de Newcomer, sigue los siguientes pasos. Paso 1: Únete a nuestro servidor y obt...</description>
+      <category>Guía</category>
+      <pubDate>Wed, 13 Dec 2023 16:37:40 GMT</pubDate>
+      <content:encoded><![CDATA[<h1> Descargar</h1>
+<h2> Introducción</h2>
+<p>¡Bienvenid@ a nuestra comunidad! Para pasar la verificación del bot y recibir el rol de <code>Newcomer</code>, sigue los siguientes pasos.</p>
+<h3> Paso 1: Únete a nuestro servidor y obtén los roles de <code>Newcomer</code> y <code>Fans</code></h3>
+<p>Si aún no te has unido al servidor, por favor, lee la publicación de verificacion, que explica cómo unirse al servidor y obtener los roles de <code>Newcomer</code> y <code>Fans</code>.</p>
+<h3> Paso 2: Ve al canal de <code>★⋅korepi-version-roles⋅★</code></h3>
+<p>Localiza el canal <code>★⋅korepi-version-roles⋅★</code> y elige el rol correspondiente a la versión F o V. Recomendamos seleccionar el rol F.</p>
+<h3> Paso 3: Descargar los recursos necesarios</h3>
+<p>Después de hacer esto, tendrás acceso al canal de descarga, dependiendo de que rol hayas escogido <code>★⋅f-download⋅★</code> o <code>★⋅v-download⋅★</code>.</p>
+<h3> Paso 4: ¡Listo!</h3>
+<p>En el canal encontrarás un enlace a la versión actual y la contraseña del archivo. ¡Buena suerte!</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Unirse al Servidor</title>
+      <link>https://korepi.com/pt/start/join.html</link>
+      <guid>https://korepi.com/pt/start/join.html</guid>
+      <source url="https://korepi.com/pt/rss.xml">Unirse al Servidor</source>
+      <description>Introducción Bienvenid@ a nuestra comunidad! Sigue estas instrucciones para poder unirte al servidor de Korepi. Paso 1: Crea una cuenta de Discord Si aun no tienes una cuenta de...</description>
+      <category>Guía</category>
+      <pubDate>Wed, 13 Dec 2023 16:37:40 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Introducción</h2>
+<p>Bienvenid@ a nuestra comunidad! Sigue estas instrucciones para poder unirte al servidor de Korepi.</p>
+<h3> Paso 1: Crea una cuenta de Discord</h3>
+<p>Si aun no tienes una cuenta de Discord, empieza creado una nueva. Visita la <a href="https://discord.com/" target="_blank" rel="noopener noreferrer">Pagina oficial de Discord</a> y sigue las instrucciones.</p>
+<h3> Paso 2: Descarga e Instala Discord</h3>
+<p>Después de crear una cuenta, descarga el <a href="https://discord.com/download" target="_blank" rel="noopener noreferrer">Cliente de Discord</a> para tu sistema operativo. Instala el cliente siguiendo las instrucciones en pantalla.</p>
+<h3> Paso 3: Unirse al Servidor</h3>
+<ol>
+<li>Copia el <a href="https://discord.gg/cottonbuds" target="_blank" rel="noopener noreferrer">enlace de invitación</a> para el Discord que se ha dado por el admin.</li>
+<li>En el cliente de Discord, dale click a "+" abajo en la esquina izquierda.</li>
+<li>Selecciona "Unirse a un Servidor".</li>
+<li>Pega el enlace de invitación y dale click a "Unirse".</li>
+</ol>
+<p>Si el enlace de invitación es invalido, el servidor puede que este temporalmente cerrado. Por favor espera a que se abra de nuevo. Ahora puedes ir al siguiente paso.</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Registro</title>
+      <link>https://korepi.com/pt/start/sign-in.html</link>
+      <guid>https://korepi.com/pt/start/sign-in.html</guid>
+      <source url="https://korepi.com/pt/rss.xml">Registro</source>
+      <description>Introducción Bienvenid@ a nuestra comunidad! Para registrarte y obtener el rol de &amp;quot;Fans&amp;quot;, sigue estos pasos Paso 1: Únete a nuestro servidor y consigue el rol de &amp;quot;Newcomer&amp;quot; is a...</description>
+      <category>Guía</category>
+      <pubDate>Wed, 13 Dec 2023 16:37:40 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Introducción</h2>
+<p>Bienvenid@ a nuestra comunidad! Para registrarte y obtener el rol de "Fans", sigue estos pasos</p>
+<h3> Paso 1: Únete a nuestro servidor y consigue el rol de "Newcomer" is aun no lo has hecho</h3>
+<p>Si aun no estas en el servido, por favor lee la publicación anterior, donde se explica como se une al servidor y conseguir el rol de "Newcomer".</p>
+<h3> Paso 2: Encuentra al bot</h3>
+<p>Ahora necesitas encontrar al bot con la imagen de un ganso y mandarle un mensaje directo (micah-sign-bot#0245).</p>
+<h3> Paso 3: Como empezar</h3>
+<p>Envíale el comando <code>/sign-in</code>, resuelve el captcha. Nota: si el bot no te responde al la solución del captcha, seguramente lo haya hecho incorrectamente. Prueba a escribir el captcha de nuevo (sin el comando). Si es correcto, el bot te mandara el siguiente mensaje "Consecutive &lt; days &gt; days".</p>
+<h3> Paso 4: Después de recibir el rol de "Fans"</h3>
+<p>Tiene que usar este comando durante 7 días (cada 24 horas). Si te retrasas por unas cuantas horas, el bot considerara que no lo has hecho diario y te restablecerá tus días. En el 7mo dia de check-ins, recibirás el rol de "Fans", y ya podrás parar.</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Funciones Exclusivas de Sponsor</title>
+      <link>https://korepi.com/pt/start/sponsor-exclusive.html</link>
+      <guid>https://korepi.com/pt/start/sponsor-exclusive.html</guid>
+      <source url="https://korepi.com/pt/rss.xml">Funciones Exclusivas de Sponsor</source>
+      <description>Jugador Probabilidad de critico (https://www.youtube.com/watch?v=ByucMEL7pXM&amp;list=PL5eI1Tb64p54t7LyUaudX0ume6HbS4ikD&amp;index=1&amp;pp=iAQB); Movimientos Extra (https://www.youtube.com...</description>
+      <category>Guía</category>
+      <pubDate>Wed, 13 Dec 2023 16:37:40 GMT</pubDate>
+      <content:encoded><![CDATA[<h3> Jugador</h3>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=ByucMEL7pXM&amp;list=PL5eI1Tb64p54t7LyUaudX0ume6HbS4ikD&amp;index=1&amp;pp=iAQB" target="_blank" rel="noopener noreferrer">Probabilidad de critico</a></li>
+<li><a href="https://www.youtube.com/watch?v=wMd9icqhFQg&amp;list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa&amp;index=5&amp;pp=iAQB" target="_blank" rel="noopener noreferrer">Movimientos Extra</a></li>
+<li><a href="https://youtu.be/42utUUYNHRE?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa&amp;t=16" target="_blank" rel="noopener noreferrer">Muertos Viviente (Modo Dios)</a></li>
+<li><a href="https://www.youtube.com/watch?v=XGztUEy82sE&amp;list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa&amp;index=12&amp;pp=iAQB" target="_blank" rel="noopener noreferrer">Utilidad Remota</a>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=Ggnvh8ORJZU&amp;list=PL5eI1Tb64p54t7LyUaudX0ume6HbS4ikD&amp;index=3&amp;pp=iAQB" target="_blank" rel="noopener noreferrer">Reclamar Recompensas de Comisiones Diarias</a></li>
+<li><a href="https://www.youtube.com/watch?v=HZuyD6b-qYc&amp;list=PL5eI1Tb64p54t7LyUaudX0ume6HbS4ikD&amp;index=4&amp;pp=iAQB" target="_blank" rel="noopener noreferrer">Hacer resina condensada</a></li>
+<li><a href="https://youtu.be/XGztUEy82sE?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa&amp;t=62" target="_blank" rel="noopener noreferrer">Funciones de Invocación</a></li>
+</ul>
+</li>
+<li><a href="https://www.youtube.com/watch?v=Gh2GX23E6dw&amp;list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa&amp;index=21&amp;pp=iAQB" target="_blank" rel="noopener noreferrer">Salto de conejo</a></li>
+</ul>
+<h3> Mundo</h3>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=qstBErr9mJ0&amp;list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa&amp;index=22&amp;pp=iAQB" target="_blank" rel="noopener noreferrer">Auto Activar Teletransportes</a></li>
+<li><a href="https://www.youtube.com/watch?v=v95_NOxc4do&amp;list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa&amp;index=31&amp;pp=iAQB" target="_blank" rel="noopener noreferrer">Auto Madera</a></li>
+<li><a href="https://www.youtube.com/watch?v=FskTJiknOgQ&amp;list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa&amp;index=32&amp;pp=iAQB" target="_blank" rel="noopener noreferrer">Aura Elemental</a></li>
+<li><a href="https://www.youtube.com/watch?v=fF6LC552cvY&amp;list=PL5eI1Tb64p54t7LyUaudX0ume6HbS4ikD&amp;index=2&amp;pp=iAQB" target="_blank" rel="noopener noreferrer">Saltar Dialogo (Más seguro que Dialogo Rápido)</a></li>
+</ul>
+<h3> Visual</h3>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=S9-g5weE9l8&amp;list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa&amp;index=37&amp;pp=iAQB" target="_blank" rel="noopener noreferrer">Modificador de Constelaciones</a></li>
+<li><a href="https://youtu.be/EtRT95qEW6Y?si=v2AoRfRnjYrR93J5" target="_blank" rel="noopener noreferrer">Esconder Interfaz</a></li>
+<li><a href="https://youtu.be/AjkJ8S8NHsI?si=pZ3FDJXHcmfpe7Ee&amp;t=101" target="_blank" rel="noopener noreferrer">Sin Desenfoque de Cámara</a></li>
+<li><a href="https://youtu.be/AjkJ8S8NHsI?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa&amp;t=102" target="_blank" rel="noopener noreferrer">Sin Movimiento de Cámara</a></li>
+<li>Sin Huellas</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Convertirse en Sponsor</title>
+      <link>https://korepi.com/pt/start/sponsor.html</link>
+      <guid>https://korepi.com/pt/start/sponsor.html</guid>
+      <source url="https://korepi.com/pt/rss.xml">Convertirse en Sponsor</source>
+      <description>Como convertirse en Sponsor? Para convertirte en Sponsor, deberás donar al menos 5$ o el equivalente si estas usando otra moneda. Donde donar? Cuando ya estés en el servidor, po...</description>
+      <category>Guía</category>
+      <pubDate>Wed, 13 Dec 2023 16:37:40 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Como convertirse en Sponsor?</h2>
+<p>Para convertirte en Sponsor, deberás donar al menos 5$ o el equivalente si estas usando otra moneda.</p>
+<h2> Donde donar?</h2>
+<p>Cuando ya estés en el servidor, por favor ve al canal de <a href="https://discord.com/channels/1069057220802781265/1097565269985071205" target="_blank" rel="noopener noreferrer">#sponsorship</a>. Selecciona el link que prefieras usar para hacer la donación. Por favor asegúrate de hacer una captura de pantalla para el siguiente paso.</p>
+<h2> Que hago después de haber donado?</h2>
+<p>Si ya has donado, puedes enviarle las pruebas a cualquiera de los moderadores disponibles. Por favor asegúrate de enseñar las capturas o el enlace de donación como prueba</p>
+<p><a href="https://postimg.cc/MnTYS5cN" target="_blank" rel="noopener noreferrer"><img src="https://i.postimg.cc/3xjf2b38/proof.png" alt="" loading="lazy"></a></p>
+<h2> (PARA NO-FANS) Como reclamar el rol de Fans después de la donación?</h2>
+<p>Si eres un sponsor y no tienes el rol de Fans, puedes saltarte el sign-in de 7 días y reclamar el rol instantáneamente</p>
+<h3> Paso 1: Abre un ticket</h3>
+<p>Para hacer eso, necesitas ir al canal de #ticket-start (Solo visible cuando ya tienes Sponsor).</p>
+<p><a href="https://postimg.cc/dLD6D8jC" target="_blank" rel="noopener noreferrer"><img src="https://i.postimg.cc/NfkzJDyd/openticket1.png" alt="" loading="lazy"></a></p>
+<p>Cuando le des click a 'open', veras un canal nuevo debajo del canal de tickets.</p>
+<p><a href="https://postimg.cc/sMhJ4s8D" target="_blank" rel="noopener noreferrer"><img src="https://i.postimg.cc/Vk7H1NWM/openticket2.png" alt="" loading="lazy"></a></p>
+<h3> Paso 2: Rellena el formulario</h3>
+<p>Dale a; botón de 'form link' para rellenar el formulario</p>
+<p><a href="https://postimg.cc/mzbN4Mrt" target="_blank" rel="noopener noreferrer"><img src="https://i.postimg.cc/qRKm8xVX/openticket4.png" alt="" loading="lazy"></a></p>
+<p>Una vez terminado el formulario, no te olvides de darle al botón de 'Submit'/</p>
+<p><a href="https://postimg.cc/GBnxM6wP" target="_blank" rel="noopener noreferrer"><img src="https://i.postimg.cc/GpHgp1Xf/openticket5.png" alt="" loading="lazy"></a></p>
+<p>Después de eso, espera pacientemente hasta que los staffs revisen tu formulario. Una vez que consigas el rol de Fans, ya estas listo</p>
+]]></content:encoded>
+      <enclosure url="https://i.postimg.cc/3xjf2b38/proof.png" type="image/png"/>
+    </item>
+    <item>
+      <title>Verificación</title>
+      <link>https://korepi.com/pt/start/verify.html</link>
+      <guid>https://korepi.com/pt/start/verify.html</guid>
+      <source url="https://korepi.com/pt/rss.xml">Verificación</source>
+      <description>Introducción Bienvenid@ a nuestra comunidad! Para completar la verificación del bot y obtener el rol de &amp;quot;Fans&amp;quot;, sigue los siguientes pasos. Paso 1: Únete a nuestro servidor si a...</description>
+      <category>Guía</category>
+      <pubDate>Wed, 13 Dec 2023 16:37:40 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Introducción</h2>
+<p>Bienvenid@ a nuestra comunidad! Para completar la verificación del bot y obtener el rol de "Fans", sigue los siguientes pasos.</p>
+<h3> Paso 1: Únete a nuestro servidor si aun no lo has hecho</h3>
+<p>Si aun no estas en nuestro servidor, por favor lee la publicación anterior, donde se explica como se puede unir al servidor.</p>
+<h3> Paso 2: Asi que estas en el servidor</h3>
+<p>Ahora que estas ene el servidor, elige los canales y roles necesarios de la lista, después ve al canal de ★⋅rules⋅★./</p>
+<h3> Paso 3: Canal de ★⋅rules⋅★</h3>
+<p>En el canal de reglas, deberás familiarizarte con las reglas y con la verificación para confirmar de que no eres un bot. Encuentra el botón de "Verify", dale click, y el bot the enviara un link que tendrás que seguir y confirmar de que no eres un bot</p>
+<h3> Paso 4: Después de recibir el rol de "Newcomer"</h3>
+<p>Después de la verificación exitosa, el bot the dara el rol de "Newcomer". Con este rol, no seras echado del servidor sin razones validad. Ahora sigue al siguiente paso.</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Error 31-4302</title>
+      <link>https://korepi.com/pt/troubleshoot/31-4302.html</link>
+      <guid>https://korepi.com/pt/troubleshoot/31-4302.html</guid>
+      <source url="https://korepi.com/pt/rss.xml">Error 31-4302</source>
+      <description>Como solucionar el error 31-4302 Metodo 1 Comprueba que tu juego contenga solo archivos originales, si hay alguno que no lo es, sacalo de la carpeta, como el siguiente ejemplo: ...</description>
+      <category>Guía</category>
+      <pubDate>Wed, 13 Dec 2023 16:37:40 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Como solucionar el error <code>31-4302</code></h2>
+<p><img src="/assets/images/docs/202312/31-4302.png" alt="" loading="lazy"></p>
+<h3> Metodo 1</h3>
+<p>Comprueba que tu juego contenga solo archivos originales, si hay alguno que no lo es, sacalo de la carpeta, como el siguiente ejemplo:</p>
+<p><img src="/assets/images/docs/202312/launcher.png" alt="" loading="lazy"></p>
+<p><img src="/assets/images/docs/202312/folder1.png" alt="" loading="lazy"></p>
+<p>Si sigues teniendo el error sigue leyendo.</p>
+<h3> Metodo 2</h3>
+<p>Ve a Korepi y ve a <code>Settings --&gt; Other</code>.</p>
+<p><img src="/assets/images/docs/202312/settings1.png" alt="" loading="lazy"></p>
+<p>Encuentra <code>Bypass Intengrity</code> y deshabilita la opción.</p>
+<p><img src="/assets/images/docs/202312/settings2.png" alt="" loading="lazy"></p>
+<p>El error deberia desaparecer.</p>
+<h2> Que hago si no puedo entrar a Korepi?</h2>
+<p>Ve a tu carpeta de Korepi y encuentra <code>cfg.json</code>, usa <code>CTRL + F</code>, y escribe <code>bypass</code> y le das a buscar, cambia el valor a <code>false</code> y abre Korepi de nuevo.</p>
+<h2> Que hago si no funciona</h2>
+<p>Tendras que reinstalar el juego completamente.</p>
+]]></content:encoded>
+      <enclosure url="https://korepi.com/assets/images/docs/202312/31-4302.png" type="image/png"/>
+    </item>
+    <item>
+      <title>Lista de errores</title>
+      <link>https://korepi.com/pt/troubleshoot/</link>
+      <guid>https://korepi.com/pt/troubleshoot/</guid>
+      <source url="https://korepi.com/pt/rss.xml">Lista de errores</source>
+      <description>Catalogo Lista de errores frecuentes (faq-error.md); Como solucionar el error 31-4302 (31-4302.md);</description>
+      <category>Errores</category>
+      <pubDate>Wed, 13 Dec 2023 16:37:40 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Catalogo</h2>
+<ul>
+<li>
+<p><a href="/pt/troubleshoot/faq-error.html" target="blank">Lista de errores frecuentes</a></p>
+</li>
+<li>
+<p><a href="/pt/troubleshoot/31-4302.html" target="blank">Como solucionar el error 31-4302</a></p>
+</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Errores Frecuentes</title>
+      <link>https://korepi.com/pt/troubleshoot/faq-error.html</link>
+      <guid>https://korepi.com/pt/troubleshoot/faq-error.html</guid>
+      <source url="https://korepi.com/pt/rss.xml">Errores Frecuentes</source>
+      <description>Lista de errores frecuentes Por qué mi Korepi desaparece? Deshabilita el anti-virus y crea una carpeta nueva, pon korepi dentro y añadelo a exclusiones dentro del anti-virus: Ab...</description>
+      <category>Errores</category>
+      <pubDate>Wed, 13 Dec 2023 16:37:40 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Lista de errores frecuentes</h2>
+<h2> Por qué mi Korepi desaparece?</h2>
+<p>Deshabilita el anti-virus y crea una carpeta nueva, pon korepi dentro y añadelo a exclusiones dentro del anti-virus:</p>
+<p><img src="/assets/images/docs/202312/virus.png" alt="" loading="lazy"></p>
+<p>Abre Korepi depuès de haber completado este paso.</p>
+<h2> Status: No active subscribtion(s) found, Invalid license key</h2>
+<p>Necesitas <a href="/pt/guide/getkey.html" target="blank">conseguir una nueva key</a> en <code>⁠★⋅micah-bot-verify⋅★</code>, si no puedes conseguir una key o si no te funciona la key tendras que esperar hasta que se caduque.</p>
+<p><code>Los Sponsors pueden usar F:Reset Key para conseguir una nueva.</code></p>
+<h2> [DLL injection]  Process crashed, exit code 0xc000005</h2>
+<p>Abre el cmd como administrador y escribe lo siguiente:</p>
+<p><code>sfc /scannow</code></p>
+<p>Si se encontraron errores, reinicia el ordenador y comprueba si funciona.</p>
+<p>Si al reiniciar no funciona o si no se encontró errores, prueba lo siguiente:</p>
+<p><code>DISM.exe /Online /Cleanup-Image /RestoreHealth</code></p>
+<p>Después de completar ese paso, reinicia el ordenador y comprueba si funciona, si no funciona tendras que reisntalar windows.</p>
+<h2> ImGUI: DirectX11 backend initialized successfully.</h2>
+<p>Este error ocurre por los temas instalados, borra tu carpeta de <code>themes</code>.</p>
+<h2> El sistema no detecto MSVCP140.dll</h2>
+<p>Actualiza o Instala <a href="https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170#visual-studio-2015-2017-2019-and-2022" target="_blank" rel="noopener noreferrer">Microsoft Visual Studio C++</a>.</p>
+<p>Actualiza o Instala <a href="https://www.microsoft.com/en-us/download/details.aspx?id=35" target="_blank" rel="noopener noreferrer">DirectX</a>.</p>
+<h2> El Archivo está corrupto! ¡Este programa ha sido manipulado!</h2>
+<p><img src="/assets/images/docs/202312/virus2.png" alt="" loading="lazy"></p>
+<p>En este caso deberas instalar <code>Malware Bytes</code> o <code>Dr.Web</code> y hacer un escaneo completo, si se encuentra un virus, borralo, y reinicia el ordenador, si no funciono, deberas reinstalar windows.</p>
+<h2> Timeout was reached</h2>
+<p><img src="/assets/images/docs/202312/error1.png" alt="" loading="lazy"></p>
+<p>Reinicia tu router.</p>
+<p>Asegúrate de que ninguna aplicación te esté bloqueando la conexión como el antivirus.</p>
+<h2> DLL Injection failed</h2>
+<p>Reinstala el mod.</p>
+<h2> Windows cannot access the specified device, path, or file</h2>
+<p><img src="/assets/images/docs/202312/error2.png" alt="" loading="lazy"></p>
+<p>Prueba <a href="https://www.minitool.com/es/respaldar-datos/windows-no-tiene-acceso-al-dispositivo-especificado.html" target="_blank" rel="noopener noreferrer">esto</a> primero.</p>
+<p>Haz un escaneo de virus.</p>
+<p>Si no funciona abre <code>cmd</code> como administrado y escribe <code>sfc /scannow</code>.</p>
+<p>Si se encontraron errores, reinicia el ordenador y comprueba si funciona.</p>
+<p>Si al reiniciar no funciona o si no se encontró errores, prueba lo siguiente:</p>
+<p><code>DISM.exe /Online /Cleanup-Image /RestoreHealth</code></p>
+<p>Después de completar ese paso, reinicia el ordenador y comprueba si funciona, si no funciona tendras que reisntalar windows.</p>
+<h2> Signature checksum failed</h2>
+<p><img src="/assets/images/docs/202312/checksum.png" alt="" loading="lazy"></p>
+<p>Los servidores están caídos, espera a que vuelvan.</p>
+<h2> Failed to create game process with Error 5</h2>
+<p><img src="/assets/images/docs/202312/error3.png" alt="" loading="lazy"></p>
+<p>Borra <code>cfg.ini</code>.</p>
+<h2> SSL connect error</h2>
+<p><img src="/assets/images/docs/202312/error4.png" alt="" loading="lazy"></p>
+<p>Reinicia tu router y ordenador.</p>
+<p>Usa un VPN si sigue sin funcionar.</p>
+]]></content:encoded>
+      <enclosure url="https://korepi.com/assets/images/docs/202312/virus.png" type="image/png"/>
+    </item>
   </channel>
 </rss>
