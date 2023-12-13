@@ -1,4 +1,3 @@
-// @ts-ignore
 import {hopeTheme} from "vuepress-theme-hope";
 import {enNavbar, zhNavbar, ruNavbar, idNavbar, esNavbar, viNavbar, ptNavbar} from "./navbar/index.js";
 import {enSidebar, zhSidebar, ruSidebar, idSidebar, esSidebar, viSidebar, ptSidebar} from "./sidebar/index.js";
