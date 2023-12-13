@@ -9,7 +9,7 @@ author: Schvis
 order: 1
 ---
 
-## List of frequent errors
+## Lista de errores frecuentes
 
 ## Por qué mi Korepi desaparece?
 

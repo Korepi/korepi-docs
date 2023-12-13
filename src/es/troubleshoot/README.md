@@ -8,6 +8,8 @@ tag:
 author: Schvis
 ---
 
-## Catalog
+## Catalogo
 
-- [How to solve error 31-4302](31-4302.md)
+- [Lista de errores frecuentes](faq-error.md)
+  
+- [Como solucionar el error 31-4302](31-4302.md)
