@@ -20,10 +20,7 @@ export default defineUserConfig({
         "/zh/": {
             lang: "zh-CN",
             title: "Korepi",
-            description: "Korepi 中文文档介绍",
-            head: [
-                ['meta', { name: 'baidu-site-verification', content: 'codeva-GnP8DZ1yQi' }]
-            ]
+            description: "Korepi 中文文档介绍"
         },
         "/ru/": {
             lang: "ru-RU",
