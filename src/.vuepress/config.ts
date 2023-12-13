@@ -43,7 +43,7 @@ export default defineUserConfig({
             description: "Trợ giúp về Korepi",
         },
         "/pt/": {
-            lang: "pt-PT",
+            lang: "pt-BR",
             title: "Korepi",
             description: "Ayuda en Korepi"
         },
