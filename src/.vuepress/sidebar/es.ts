@@ -15,5 +15,11 @@ export const esSidebar = sidebar({
       prefix: "guide/",
       children: "structure",
     },
+    {
+      text: "Errores",
+      icon: "info-circle",
+      prefix: "troubleshoot/",
+      children: "structure",
+    },
   ],
 });
