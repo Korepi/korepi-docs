@@ -23,7 +23,7 @@ Abre Korepi depuès de haber completado este paso.
 
 Necesitas [conseguir una nueva key](../guide/getkey.md) en `⁠★⋅micah-bot-verify⋅★`, si no puedes conseguir una key o si no te funciona la key tendras que esperar hasta que se caduque.
 
-`Los Sponsors pueden usar F:Reset Key para conseguir una nueva`
+`Los Sponsors pueden usar F:Reset Key para conseguir una nueva.`
 
 ## [DLL injection]  Process crashed, exit code 0xc000005
 
@@ -41,13 +41,13 @@ Después de completar ese paso, reinicia el ordenador y comprueba si funciona, s
 
 ## ImGUI: DirectX11 backend initialized successfully.
 
-Este error ocurre por los temas instalados, borra tu carpeta de `themes`
+Este error ocurre por los temas instalados, borra tu carpeta de `themes`.
 
 ## El sistema no detecto MSVCP140.dll
 
-Actualiza o Instala [Microsoft Visual Studio C++](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170#visual-studio-2015-2017-2019-and-2022)
+Actualiza o Instala [Microsoft Visual Studio C++](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170#visual-studio-2015-2017-2019-and-2022).
 
-Actualiza o Instala [DirectX](https://www.microsoft.com/en-us/download/details.aspx?id=35)
+Actualiza o Instala [DirectX](https://www.microsoft.com/en-us/download/details.aspx?id=35).
 
 ## El Archivo está corrupto! ¡Este programa ha sido manipulado!
 
@@ -59,13 +59,13 @@ En este caso deberas instalar `Malware Bytes` o `Dr.Web` y hacer un escaneo comp
 
 ![](images/error1.png)
 
-Reinicia tu router
+Reinicia tu router.
 
-Asegúrate de que ninguna aplicación te esté bloqueando la conexión como el antivirus
+Asegúrate de que ninguna aplicación te esté bloqueando la conexión como el antivirus.
 
 ## DLL Injection failed
 
-Reinstala el mod
+Reinstala el mod.
 
 ## Windows cannot access the specified device, path, or file
 
@@ -95,7 +95,7 @@ Los servidores están caídos, espera a que vuelvan.
 
 ![](images/error3.png)
 
-Borra `cfg.ini`
+Borra `cfg.ini`.
 
 ## SSL connect error
 

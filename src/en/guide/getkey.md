@@ -18,6 +18,8 @@ order: 1
 
 Head to `★⋅korepi-version-roles⋅★` on the server and click on `F Auth` to get the role.
 
+`Note: Check if you got the role, if you didn't click on F Auth again`
+
 ### Step 2: Get your key
 
 Head to `⁠★⋅micah-bot-verify⋅★` and click on `F:Getkey`, the bot will reply with some information including the key, copy it.
@@ -35,6 +37,8 @@ Enjoy Koprepi!
 ### Step 1: Get V Auth role
 
 Head to `★⋅korepi-version-roles⋅★` on the server and click on `V Auth` to get the role.
+
+`Note: Check if you got the role, if you didn't click on V Auth again`
 
 ### Step 2: Get your `HWID`
 

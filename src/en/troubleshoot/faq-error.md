@@ -37,6 +37,7 @@ If after restarting it did not help or no errors were found, write this command:
 `DISM.exe /Online /Cleanup-Image /RestoreHealth`
 
 After completing the checks, restart the computer and check.
+
 If it doesn't work, reinstall Windows.
 
 ## ImGUI: DirectX11 backend initialized successfully.
@@ -53,7 +54,7 @@ Update [DirectX](https://www.microsoft.com/en-us/download/details.aspx?id=35)
 
 ![](images/virus2.png)
 
-In this case, you can try using `Malware Bytes` or `Dr.Web` to do a full scan, if any virus is found, remove them, restart and try again. If it doesn't work, reinstall Windows is the easiest way to solve this issue
+In this case, you can try using `Malware Bytes` or `Dr.Web` to do a full scan, if any virus is found, remove them, restart and try again. If it doesn't work, reinstall Windows is the easiest way to solve this issue.
 
 ## Timeout was reached
 
@@ -65,7 +66,7 @@ An antivirus may be blocking the connection, make sure it is not in the Task Man
 
 ## DLL Injection failed
 
-Uninstall colorpicker folder and download colorpicker again
+Uninstall colorpicker folder and download colorpicker again.
 
 ## Windows cannot access the specified device, path, or file
 
@@ -84,19 +85,20 @@ If after restarting it didn't help or no errors were found, write this command:
 `DISM.exe /Online /Cleanup-Image /RestoreHealth`
 
 After completing the checks, restart the computer and check.
+
 If it doesn't work, reinstall Windows.
 
 ## Signature checksum failed
 
 ![](images/checksum.png)
 
-Servers are down or shut down, wait for servers to come back online
+Servers are down or shut down, wait for servers to come back online.
 
 ## Failed to create game process with Error 5
 
 ![](images/error3.png)
 
-Delete `cfg.ini`
+Delete `cfg.ini`.
 
 ## SSL connect error
 
