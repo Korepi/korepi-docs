@@ -1,6 +1,6 @@
 ---
 title: Errores Frecuentes
-icon: server
+icon: info
 category:
   - Errores
 tag:
