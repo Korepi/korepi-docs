@@ -6,8 +6,8 @@
     <link>https://korepi.com/id/</link>
     <description>Pertolongan Korepi</description>
     <language>id-ID</language>
-    <pubDate>Wed, 13 Dec 2023 15:12:47 GMT</pubDate>
-    <lastBuildDate>Wed, 13 Dec 2023 15:12:47 GMT</lastBuildDate>
+    <pubDate>Wed, 13 Dec 2023 15:54:41 GMT</pubDate>
+    <lastBuildDate>Wed, 13 Dec 2023 15:54:41 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Panduan</category>
@@ -37,32 +37,33 @@
       <category>Panduan</category>
       <pubDate>Mon, 11 Dec 2023 16:32:17 GMT</pubDate>
       <content:encoded><![CDATA[<h2> Cara Menggunakan Skins Kustom di Korepi</h2>
-<figure><figcaption></figcaption></figure>
+<p><img src="/assets/images/doc/example.png" alt="" loading="lazy"></p>
 <p>Untuk menggunakan skins kustom di sini, kita perlu unduh:</p>
 <p><code>3DMigoto (GIMI)</code>.</p>
 <h2> Metode 1</h2>
 <h2> Langkah 1: Unduh <code>GIMI</code></h2>
 <p>Unduh <code>GIMI</code> di <a href="https://github.com/SilentNightSound/GI-Model-Importer/releases/tag/v7.0" target="_blank" rel="noopener noreferrer">Github resminya</a> dan unduh file yang namanya: <code>3dmigoto-GIMI-for-playing-mods.zip</code>.</p>
-<figure><figcaption></figcaption></figure>
+<p><img src="/assets/images/doc/3dm-1.png" alt="" loading="lazy"></p>
 <h2> Langkah 2: Ekstrak <code>GIMI</code> ke dalam folder</h2>
 <p>Setelah mengunduh <code>GIMI</code>, ekstrak ke folder pilihanmu, di dalamnya ada <code>d3d11.dll</code>, salin path folder dan tambahkan <code>/d3d11.dll</code> di ujungnya, contohnya:</p>
 <p><code>"path/d3d11.dll"</code></p>
 <h2> Langkah 3: Tambahkan <code>GIMI</code> ke Korepi</h2>
 <p>Untuk melakukannya, tambahkan baris berikut di <code>cfg.ini</code> dalam folder Korepi.</p>
-<figure><figcaption></figcaption></figure>
+<p><img src="/assets/images/doc/3dm-2.png" alt="" loading="lazy"></p>
 <p>Di bagian <code>DllPath</code>, tempelkan path yang tadi kita salin.</p>
-<figure><figcaption></figcaption></figure>
+<p><img src="/assets/images/doc/3dm-3.png" alt="" loading="lazy"></p>
 <h2> Langkah 4: Buka Korepi</h2>
 <p>Jika langkah-langkah ini diikuti dengan benar, Korepi seharusnya akan terbuka dengan <code>GIMI</code> setiap kali dijalankan.</p>
 <h2> Metode 2</h2>
 <h2> Langkah 1: Unduh <code>GIMI</code></h2>
 <p>Unduh <code>GIMI</code> di <a href="https://github.com/SilentNightSound/GI-Model-Importer/releases/tag/v7.0" target="_blank" rel="noopener noreferrer">Github resminya</a> dan ambil file yang namanya: <code>3dmigoto-GIMI-for-playing-mods.zip</code>.</p>
-<figure><figcaption></figcaption></figure>
+<p><img src="/assets/images/doc/3dm-1.png" alt="" loading="lazy"></p>
 <h2> Langkah 2: Ekstrak <code>GIMI</code> ke dalam folder</h2>
 <p>Setelah mengunduh <code>GIMI</code>, ekstrak ke folder pilihanmu, di dalamnya ada <code>3DMigoto Loader.exe</code>, kita akan menjalankan file ini terlebih dahulu.</p>
 <h2> Langkah 3: Buka Korepi</h2>
 <p>Setelah menjalankan <code>GIMI</code>, buka Korepi, <code>GIMI</code> akan terbuka dengan Korepi. Catatan, kamu perlu mengulangi langkah-langkah ini setiap kali ingin membuka Korepi dengan <code>GIMI</code>.</p>
 ]]></content:encoded>
+      <enclosure url="https://korepi.com/assets/images/doc/example.png" type="image/png"/>
     </item>
     <item>
       <title>Cara Menggunakan TP Kustom</title>
@@ -75,22 +76,23 @@
       <content:encoded><![CDATA[<h2> Cara Menggunakan Teleportasi Kustom</h2>
 <h2> Langkah 1: Pengaturan yang Diperlukan</h2>
 <p>Gunakan pengaturan berikut.</p>
-<figure><figcaption></figcaption></figure>
+<p><img src="/assets/images/doc/teleport1.png" alt="" loading="lazy"></p>
 <p><code>Delay Time</code> yang direkomendasikan adalah &gt;15 detik.</p>
 <h2> Langkah 2: Unduh Berkas <code>.json</code> untuk Teleportasi kustom</h2>
 <p>Kamu bisa menemukan filenya di postingan yang di <code>pin</code> pada <code>community-share</code> di server. Unduh yang sesuai dengan kebutuhanmu.</p>
 <h2> Langkah 3: Pilih file Teleportasi</h2>
 <p>Pergi ke pengaturan TP kustom/<code>custom tp settings</code> dan masuk ke bagian ini:</p>
-<figure><figcaption></figcaption></figure>
+<p><img src="/assets/images/doc/teleport2.png" alt="" loading="lazy"></p>
 <p>Klik pada pilihan <code>.json path</code> dan pilih folder yang berisi berkas TP yang ingin kamu gunakan.</p>
 <h2> Langkah 4: Cara Memulai TP</h2>
 <p>Setelah memilih folder, centang kotak ini:</p>
-<figure><figcaption></figcaption></figure>
+<p><img src="/assets/images/doc/teleport3.png" alt="" loading="lazy"></p>
 <p>Setelah itu, klik <code>Select</code>:</p>
-<figure><figcaption></figcaption></figure>
+<p><img src="/assets/images/doc/teleport4.png" alt="" loading="lazy"></p>
 <h2> Langkah 5: Nikmati Perjalanan</h2>
 <p>TP akan dimulai secara otomatis. Jika kamu memiliki <a href="/id/start/sponsor.html" target="blank">Sponsor</a>, kamu akan dapat melihat progress dan waktu yang tersisa.</p>
 ]]></content:encoded>
+      <enclosure url="https://korepi.com/assets/images/doc/teleport1.png" type="image/png"/>
     </item>
     <item>
       <title>Cara melakukan Multi-Instance</title>
@@ -209,19 +211,19 @@ Catatan: Pastikan berkas tersebut bernama <code>enc.json</code>.</p>
 <p>Setelah bergabung di server, silakan masuk ke kanal <a href="https://discord.com/channels/1069057220802781265/1097565269985071205" target="_blank" rel="noopener noreferrer">#sponsorship</a>. Pilih salah satu tautan yang tersedia untuk melakukan donasi.</p>
 <h3> Apa yang Harus Dilakukan Setelah Selesai Berdonasi?</h3>
 <p>Jika Anda sudah berdonasi, kirimkan bukti donasi Anda kepada moderator. Pastikan menyertakan tangkapan layar (screenshot) atau tautan donasi sebagai bukti.</p>
-<figure><a href="https://postimg.cc/MnTYS5cN" target="_blank" rel="noopener noreferrer"><img src="https://i.postimg.cc/3xjf2b38/proof.png" alt="Bukti Donasi" tabindex="0" loading="lazy"></a><figcaption>Bukti Donasi</figcaption></figure>
+<p><a href="https://postimg.cc/MnTYS5cN" target="_blank" rel="noopener noreferrer"><img src="https://i.postimg.cc/3xjf2b38/proof.png" alt="Bukti Donasi" loading="lazy"></a></p>
 <h2> (Bagi Non-Fans) Bagaimana Cara Mengklaim role Fans setelah Menjadi role Sponsor?</h2>
 <p>Jika Anda sudah menjadi Sponsor dan belum mendapatkan role Fans, Anda bisa mengabaikan proses sign-in selama 7 hari dan langsung mengklaim peran Fans. Lihat video <a href="https://www.youtube.com/watch?v=cHRC7XdsKQo&amp;list=PL5eI1Tb64p56Mp6JqoR_o3BYk9UFTbOQI&amp;index=1&amp;pp=iAQB" target="_blank" rel="noopener noreferrer">tutorial ini</a> atau ikuti langkah-langkah berikut.</p>
 <h3> Langkah 1: Buka Tiket</h3>
 <p>Masuk ke kanal <a href="https://discord.com/channels/1069057220802781265/1152887509517344870" target="_blank" rel="noopener noreferrer">#ticket-start</a> (hanya terlihat jika Anda sudah menjadi Sponsor).</p>
-<figure><a href="https://postimg.cc/dLD6D8jC" target="_blank" rel="noopener noreferrer"><img src="https://i.postimg.cc/NfkzJDyd/openticket1.png" alt="Buka Tiket" tabindex="0" loading="lazy"></a><figcaption>Buka Tiket</figcaption></figure>
+<p><a href="https://postimg.cc/dLD6D8jC" target="_blank" rel="noopener noreferrer"><img src="https://i.postimg.cc/NfkzJDyd/openticket1.png" alt="Buka Tiket" loading="lazy"></a></p>
 <p>Setelah klik 'open', Anda akan melihat kanal baru di bawah kanal tiket.</p>
-<figure><a href="https://postimg.cc/sMhJ4s8D" target="_blank" rel="noopener noreferrer"><img src="https://i.postimg.cc/Vk7H1NWM/openticket2.png" alt="Buka Tiket" tabindex="0" loading="lazy"></a><figcaption>Buka Tiket</figcaption></figure>
+<p><a href="https://postimg.cc/sMhJ4s8D" target="_blank" rel="noopener noreferrer"><img src="https://i.postimg.cc/Vk7H1NWM/openticket2.png" alt="Buka Tiket" loading="lazy"></a></p>
 <h3> Langkah 2: Jawab Survei Singkat</h3>
 <p>Klik tombol 'form link' untuk mengisi survei singkat.</p>
-<figure><a href="https://postimg.cc/mzbN4Mrt" target="_blank" rel="noopener noreferrer"><img src="https://i.postimg.cc/qRKm8xVX/openticket4.png" alt="Jawab Survei" tabindex="0" loading="lazy"></a><figcaption>Jawab Survei</figcaption></figure>
+<p><a href="https://postimg.cc/mzbN4Mrt" target="_blank" rel="noopener noreferrer"><img src="https://i.postimg.cc/qRKm8xVX/openticket4.png" alt="Jawab Survei" loading="lazy"></a></p>
 <p>Setelah selesai mengisi survei, jangan lupa klik 'Submit'.</p>
-<figure><a href="https://postimg.cc/GBnxM6wP" target="_blank" rel="noopener noreferrer"><img src="https://i.postimg.cc/GpHgp1Xf/openticket5.png" alt="Submit Survei" tabindex="0" loading="lazy"></a><figcaption>Submit Survei</figcaption></figure>
+<p><a href="https://postimg.cc/GBnxM6wP" target="_blank" rel="noopener noreferrer"><img src="https://i.postimg.cc/GpHgp1Xf/openticket5.png" alt="Submit Survei" loading="lazy"></a></p>
 <p>Tunggu dengan sabar sampai staf memeriksa survei Anda. Setelah mendapatkan peran Fans, Anda bisa melanjutkan ke tahap selanjutnya.</p>
 ]]></content:encoded>
       <enclosure url="https://i.postimg.cc/3xjf2b38/proof.png" type="image/png"/>
@@ -303,19 +305,19 @@ Catatan: Pastikan berkas tersebut bernama <code>enc.json</code>.</p>
 <ol>
 <li>
 <p>Klik tanda '+' di menu sebelah kiri.</p>
-<figure><a href="https://postimg.cc/rd84dqfk" target="_blank" rel="noopener noreferrer"><img src="https://i.postimg.cc/KYTDHzLR/join1.png" alt="" tabindex="0" loading="lazy"></a><figcaption></figcaption></figure>
+<p><a href="https://postimg.cc/rd84dqfk" target="_blank" rel="noopener noreferrer"><img src="https://i.postimg.cc/KYTDHzLR/join1.png" alt="" loading="lazy"></a></p>
 </li>
 <li>
 <p>Pilih 'Join a Server'.</p>
-<figure><a href="https://postimg.cc/0M4KHDPk" target="_blank" rel="noopener noreferrer"><img src="https://i.postimg.cc/7hH1hnR2/join2.png" alt="" tabindex="0" loading="lazy"></a><figcaption></figcaption></figure>
+<p><a href="https://postimg.cc/0M4KHDPk" target="_blank" rel="noopener noreferrer"><img src="https://i.postimg.cc/7hH1hnR2/join2.png" alt="" loading="lazy"></a></p>
 </li>
 <li>
 <p>Masukkan kata kunci <code>cottonbuds</code> pada kotak Invite Link.</p>
-<figure><a href="https://postimg.cc/67YvnFPG" target="_blank" rel="noopener noreferrer"><img src="https://i.postimg.cc/NMwkqc7b/join3.png" alt="" tabindex="0" loading="lazy"></a><figcaption></figcaption></figure>
+<p><a href="https://postimg.cc/67YvnFPG" target="_blank" rel="noopener noreferrer"><img src="https://i.postimg.cc/NMwkqc7b/join3.png" alt="" loading="lazy"></a></p>
 </li>
 <li>
 <p>Baca peraturan server dan setujui.</p>
-<figure><a href="https://postimg.cc/XpdBQrhW" target="_blank" rel="noopener noreferrer"><img src="https://i.postimg.cc/9FNPXTYD/join4.png" alt="" tabindex="0" loading="lazy"></a><figcaption></figcaption></figure>
+<p><a href="https://postimg.cc/XpdBQrhW" target="_blank" rel="noopener noreferrer"><img src="https://i.postimg.cc/9FNPXTYD/join4.png" alt="" loading="lazy"></a></p>
 </li>
 </ol>
 <p>Setelah berhasil bergabung di server, lanjutkan ke langkah berikutnya --&gt; <a href="/id/start/verify.html" target="blank">Cara Verifikasi Akun</a></p>
@@ -338,19 +340,19 @@ Catatan: Pastikan berkas tersebut bernama <code>enc.json</code>.</p>
 <ol>
 <li>Mulailah percakapan pribadi dengan @micah-sign-bot</li>
 </ol>
-<figure><a href="https://postimg.cc/grwZLSHn" target="_blank" rel="noopener noreferrer"><img src="https://i.postimg.cc/KcfrVCKr/signin1.png" alt="" tabindex="0" loading="lazy"></a><figcaption></figcaption></figure>
+<p><a href="https://postimg.cc/grwZLSHn" target="_blank" rel="noopener noreferrer"><img src="https://i.postimg.cc/KcfrVCKr/signin1.png" alt="" loading="lazy"></a></p>
 <ol start="2">
 <li>Ketik perintah /sign-in</li>
 </ol>
-<figure><a href="https://postimg.cc/QKWKLCdp" target="_blank" rel="noopener noreferrer"><img src="https://i.postimg.cc/fy8c904g/signin2.png" alt="" tabindex="0" loading="lazy"></a><figcaption></figcaption></figure>
+<p><a href="https://postimg.cc/QKWKLCdp" target="_blank" rel="noopener noreferrer"><img src="https://i.postimg.cc/fy8c904g/signin2.png" alt="" loading="lazy"></a></p>
 <ol start="3">
 <li>Selesaikan tantangan Captcha</li>
 </ol>
-<figure><a href="https://postimg.cc/FdzJZDtC" target="_blank" rel="noopener noreferrer"><img src="https://i.postimg.cc/ZRFFJMwm/signin3.png" alt="" tabindex="0" loading="lazy"></a><figcaption></figcaption></figure>
+<p><a href="https://postimg.cc/FdzJZDtC" target="_blank" rel="noopener noreferrer"><img src="https://i.postimg.cc/ZRFFJMwm/signin3.png" alt="" loading="lazy"></a></p>
 <ol start="4">
 <li>Lakukan langkah ini setiap hari selama 7 hari berturut-turut</li>
 </ol>
-<figure><a href="https://postimg.cc/t7LV33BD" target="_blank" rel="noopener noreferrer"><img src="https://i.postimg.cc/Nf07wbmh/signin4.png" alt="" tabindex="0" loading="lazy"></a><figcaption></figcaption></figure>
+<p><a href="https://postimg.cc/t7LV33BD" target="_blank" rel="noopener noreferrer"><img src="https://i.postimg.cc/Nf07wbmh/signin4.png" alt="" loading="lazy"></a></p>
 <p>Selamat, Anda kini telah berhasil mendapatkan role sebagai <code>Fans</code>.</p>
 ]]></content:encoded>
       <enclosure url="https://i.postimg.cc/KcfrVCKr/signin1.png" type="image/png"/>
@@ -369,22 +371,22 @@ Catatan: Pastikan berkas tersebut bernama <code>enc.json</code>.</p>
 <li>
 <p><strong>Buka Channel Rules</strong></p>
 <p>Klik pada channel rules di server.</p>
-<figure><a href="https://postimg.cc/fVstFwn9" target="_blank" rel="noopener noreferrer"><img src="https://i.postimg.cc/2SbQ1602/verify1.png" alt="" tabindex="0" loading="lazy"></a><figcaption></figcaption></figure>
+<p><a href="https://postimg.cc/fVstFwn9" target="_blank" rel="noopener noreferrer"><img src="https://i.postimg.cc/2SbQ1602/verify1.png" alt="" loading="lazy"></a></p>
 </li>
 <li>
 <p><strong>Klik Tombol 'Verify'</strong></p>
 <p>Setelah membuka channel rules, klik tombol 'verify'. Kemudian, akan muncul pesan dari bot, klik 'click here'.</p>
-<figure><a href="https://postimg.cc/21xbNPrX" target="_blank" rel="noopener noreferrer"><img src="https://i.postimg.cc/9Q6GZhSV/verify2.png" alt="" tabindex="0" loading="lazy"></a><figcaption></figcaption></figure>
+<p><a href="https://postimg.cc/21xbNPrX" target="_blank" rel="noopener noreferrer"><img src="https://i.postimg.cc/9Q6GZhSV/verify2.png" alt="" loading="lazy"></a></p>
 </li>
 <li>
 <p><strong>Klik 'Login to Verify'</strong></p>
 <p>Klik 'login to verify' untuk melanjutkan proses.</p>
-<figure><a href="https://postimg.cc/1g5gmJzR" target="_blank" rel="noopener noreferrer"><img src="https://i.postimg.cc/tgFFzcQ6/verify3.png" alt="" tabindex="0" loading="lazy"></a><figcaption></figcaption></figure>
+<p><a href="https://postimg.cc/1g5gmJzR" target="_blank" rel="noopener noreferrer"><img src="https://i.postimg.cc/tgFFzcQ6/verify3.png" alt="" loading="lazy"></a></p>
 </li>
 <li>
 <p><strong>Tahan Tombol Verifikasi</strong></p>
 <p>Di halaman selanjutnya, tahan tombol verifikasi sampai muncul pesan yang menyatakan bahwa Anda telah berhasil melakukan verifikasi.</p>
-<figure><a href="https://postimg.cc/3ySkdmyX" target="_blank" rel="noopener noreferrer"><img src="https://i.postimg.cc/85DMXbN0/verify4.png" alt="" tabindex="0" loading="lazy"></a><figcaption></figcaption></figure>
+<p><a href="https://postimg.cc/3ySkdmyX" target="_blank" rel="noopener noreferrer"><img src="https://i.postimg.cc/85DMXbN0/verify4.png" alt="" loading="lazy"></a></p>
 </li>
 </ol>
 <p>Setelah berhasil diverifikasi, bot akan memberikan Anda role <code>Newcomer</code>. Dengan peran ini, Anda tidak akan diusir oleh bot tanpa alasan yang jelas. Silakan lanjut ke langkah berikutnya.</p>

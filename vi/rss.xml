@@ -6,8 +6,8 @@
     <link>https://korepi.com/vi/</link>
     <description>Trợ giúp về Korepi</description>
     <language>vi-VN</language>
-    <pubDate>Wed, 13 Dec 2023 15:12:47 GMT</pubDate>
-    <lastBuildDate>Wed, 13 Dec 2023 15:12:47 GMT</lastBuildDate>
+    <pubDate>Wed, 13 Dec 2023 15:54:41 GMT</pubDate>
+    <lastBuildDate>Wed, 13 Dec 2023 15:54:41 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Hướng dẫn</category>
@@ -122,7 +122,7 @@
 <p>Nếu bạn chưa có mặt trên máy chủ, vui lòng đọc những bài trước đó, nơi nó được mô tả cách tham gia máy chủ và lấy Role "Newcomer".</p>
 <h2> Bước 2: Tìm đến bot</h2>
 <p>Giờ bạn cần tìm đến bot với ảnh đại diện là một con ngỗng và viết tin nhắn trực tiếp cho nó (micah-sign-bot#0245)</p>
-<figure><figcaption></figcaption></figure>
+<p></p>
 <h2> Bước 3: Điểm danh</h2>
 <p>Viết lệnh <code>/sign-in</code> và giải captcha.
 Lưu ý: nếu như bot không phải hồi với mã captcha bạn yêu cầu, có thể là bạn đã nhập sai. Hãy thử viết lại captcha.</p>
@@ -151,20 +151,20 @@ Nếu bạn có Visa, Paypal hoặc bất cứ thanh toán quốc tế nào bạ
 <p>##Sau khi donate xong thì phải làm gì?</p>
 <p>Nếu bạn đã donate, bạn có thể gửi ảnh chụp màn hình thanh toán của mình cho bất kỳ Mod nào có sẵn. Vui lòng đảm bảo cung cấp ảnh chụp màn hình hoặc liên kết donate làm bằng chứng.
 Nếu bạn đã nhờ donate thì có thể bỏ qua bước này</p>
-<figure><a href="https://postimg.cc/cg0tHKzz" target="_blank" rel="noopener noreferrer"><img src="https://i.postimg.cc/nzQ43BGn/Screenshot-2023-12-02-213543.png" alt="Screenshot-2023-12-02-213543.png" tabindex="0" loading="lazy"></a><figcaption>Screenshot-2023-12-02-213543.png</figcaption></figure>
+<p><a href="https://postimg.cc/cg0tHKzz" target="_blank" rel="noopener noreferrer"><img src="https://i.postimg.cc/nzQ43BGn/Screenshot-2023-12-02-213543.png" alt="Screenshot-2023-12-02-213543.png" loading="lazy"></a></p>
 <h2> (Dành cho người chưa có FANS) Làm thế nào để nhận vai trò Người hâm mộ sau khi quyên góp?</h2>
 <p>Nếu bạn là Nhà tài trợ và không có vai trò Người hâm mộ, bạn có thể bỏ qua quá trình đăng nhập 7 ngày và nhận vai trò này ngay lập tức</p>
 <p>Hoặc điểm danh 3 ngày nếu bạn thích</p>
 <h3> Bước 1: Mở Đơn</h3>
 <p>Để làm được điều đó, bạn cần vào kênh #ticket-start (chỉ hiển thị khi bạn đã có Nhà tài trợ).</p>
-<figure><a href="https://postimg.cc/dLD6D8jC" target="_blank" rel="noopener noreferrer"><img src="https://i.postimg.cc/NfkzJDyd/openticket1.png" alt="" tabindex="0" loading="lazy"></a><figcaption></figcaption></figure>
+<p><a href="https://postimg.cc/dLD6D8jC" target="_blank" rel="noopener noreferrer"><img src="https://i.postimg.cc/NfkzJDyd/openticket1.png" alt="" loading="lazy"></a></p>
 <p>Sau khi nhấp vào 'mở', bạn sẽ thấy một kênh mới bên dưới kênh ticket.</p>
-<figure><a href="https://postimg.cc/sMhJ4s8D" target="_blank" rel="noopener noreferrer"><img src="https://i.postimg.cc/Vk7H1NWM/openticket2.png" alt="" tabindex="0" loading="lazy"></a><figcaption></figcaption></figure>
+<p><a href="https://postimg.cc/sMhJ4s8D" target="_blank" rel="noopener noreferrer"><img src="https://i.postimg.cc/Vk7H1NWM/openticket2.png" alt="" loading="lazy"></a></p>
 <h3> Bước 2: Trả lời khảo sát ngắn</h3>
 <p>Nhấn nút 'form link' để trả lời khảo sát. Nếu không hiểu hãy dùng Google dịch để làm.</p>
-<figure><a href="https://postimg.cc/mzbN4Mrt" target="_blank" rel="noopener noreferrer"><img src="https://i.postimg.cc/qRKm8xVX/openticket4.png" alt="" tabindex="0" loading="lazy"></a><figcaption></figcaption></figure>
+<p><a href="https://postimg.cc/mzbN4Mrt" target="_blank" rel="noopener noreferrer"><img src="https://i.postimg.cc/qRKm8xVX/openticket4.png" alt="" loading="lazy"></a></p>
 <p>Sau khi hoàn thành khảo sát, đừng quên nhấn nút 'Submit'.</p>
-<figure><a href="https://postimg.cc/GBnxM6wP" target="_blank" rel="noopener noreferrer"><img src="https://i.postimg.cc/GpHgp1Xf/openticket5.png" alt="" tabindex="0" loading="lazy"></a><figcaption></figcaption></figure>
+<p><a href="https://postimg.cc/GBnxM6wP" target="_blank" rel="noopener noreferrer"><img src="https://i.postimg.cc/GpHgp1Xf/openticket5.png" alt="" loading="lazy"></a></p>
 <p>Sau đó, bạn chỉ cần kiên nhẫn chờ MOD kiểm tra khảo sát của mình. Khoảng 1-10p<br>
 Sau khi bạn nhận được vai trò Fans của mình, bạn đã sẵn sàng để bắt đầu.</p>
 ]]></content:encoded>
@@ -187,7 +187,7 @@ Sau khi bạn nhận được vai trò Fans của mình, bạn đã sẵn sàng 
 <h2> Bước 3: Kênh ★⋅rules⋅★</h2>
 <p>Trong kênh <strong>★⋅rules⋅★</strong> , hãy làm quen với các luật và trải qua quá trình xác minh để xác nhận rằng bạn không phải là robot.</p>
 <p>Nhấn vào nút <strong>Verify</strong> như hình bên dưới.</p>
-<figure><figcaption></figcaption></figure>
+<p></p>
 <p>Bot sẽ gửi cho bạn một đường link mà bạn cần làm theo và xác nhận rằng bạn không phải là Robot</p>
 <h2> Step 4: Sau khi nhận được Role "Newcomer"</h2>
 <p>Sau khi đã xác thực thành công, bot sẽ tự động gắn cho bạn Role "Newcomer". Với Role này, bạn sẽ không bị đá ra khỏi máy chủ mà không có bất cứ lí do nào. Giờ hãy đến với bước tiếp theo.</p>
