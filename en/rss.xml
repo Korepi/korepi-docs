@@ -6,23 +6,132 @@
     <link>https://korepi.com/en/</link>
     <description>Help on Korepi</description>
     <language>en-US</language>
-    <pubDate>Tue, 12 Dec 2023 12:42:15 GMT</pubDate>
-    <lastBuildDate>Tue, 12 Dec 2023 12:42:15 GMT</lastBuildDate>
+    <pubDate>Wed, 13 Dec 2023 14:54:28 GMT</pubDate>
+    <lastBuildDate>Wed, 13 Dec 2023 14:54:28 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Guide</category>
+    <category>Troubleshoot</category>
+    <item>
+      <title>Error 31-4302</title>
+      <link>https://korepi.com/en/troubleshoot/31-4302.html</link>
+      <guid>https://korepi.com/en/troubleshoot/31-4302.html</guid>
+      <source url="https://korepi.com/en/rss.xml">Error 31-4302</source>
+      <description>How to solve the error 31-4302 Method 1 If your game folder contains non-original files, this prompt might appear for you. Check that theres only original files like the next ex...</description>
+      <category>Guide</category>
+      <pubDate>Wed, 13 Dec 2023 02:00:05 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> How to solve the error <code>31-4302</code></h2>
+<figure><figcaption></figcaption></figure>
+<h3> Method 1</h3>
+<p>If your game folder contains non-original files, this prompt might appear for you. Check that theres only original files like the next example:</p>
+<figure><figcaption></figcaption></figure>
+<figure><figcaption></figcaption></figure>
+<p>If you keep getting the error in-game even after deleting the files continue reading.</p>
+<h3> Method 2</h3>
+<p>Go to your Korepi, go to <code>Settings --&gt; Other</code>.</p>
+<figure><figcaption></figcaption></figure>
+<p>Find <code>Bypass Intengrity</code> and uncheck it.</p>
+<figure><figcaption></figcaption></figure>
+<p>Now the error should disapear.</p>
+<h2> What if i can't enter Korepi</h2>
+<p>Head to your Korepi folder and find <code>cfg.json</code>, and click <code>CTRL + F</code>, type <code>bypass</code> and search, set the value to <code>false</code> and open Korepi.</p>
+<h2> What if nothing works?</h2>
+<p>You have to reinstall the game.</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>List of Errors</title>
+      <link>https://korepi.com/en/troubleshoot/</link>
+      <guid>https://korepi.com/en/troubleshoot/</guid>
+      <source url="https://korepi.com/en/rss.xml">List of Errors</source>
+      <description>Catalog List of frequent errors (faq-error.md); How to solve error 31-4302 (31-4302.md);</description>
+      <category>Troubleshoot</category>
+      <pubDate>Wed, 13 Dec 2023 02:00:05 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Catalog</h2>
+<ul>
+<li>
+<p><a href="/en/troubleshoot/faq-error.html" target="blank">List of frequent errors</a></p>
+</li>
+<li>
+<p><a href="/en/troubleshoot/31-4302.html" target="blank">How to solve error 31-4302</a></p>
+</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Frequent Errors</title>
+      <link>https://korepi.com/en/troubleshoot/faq-error.html</link>
+      <guid>https://korepi.com/en/troubleshoot/faq-error.html</guid>
+      <source url="https://korepi.com/en/rss.xml">Frequent Errors</source>
+      <description>List of frequent errors Why my korepi dissapears? Make sure you got your anti-virus disabled, create a new folder and add it to exclusions. Extract korepi inside the excluded fo...</description>
+      <category>Guide</category>
+      <pubDate>Wed, 13 Dec 2023 02:00:05 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> List of frequent errors</h2>
+<h2> Why my korepi dissapears?</h2>
+<p>Make sure you got your anti-virus disabled, create a new folder and add it to exclusions.</p>
+<figure><figcaption></figcaption></figure>
+<p>Extract korepi inside the excluded folder and run again.</p>
+<h2> Status: No active subscribtion(s) found, Invalid license key</h2>
+<p>You need to <a href="/en/guide/getkey.html" target="blank">get a new key</a> from <code>⁠★⋅micah-bot-verify⋅★</code>, if you can't get a key or if the key doesn't work, you have to wait till key expiration.</p>
+<p><code>Sponsors can use F:Reset Key instead</code></p>
+<h2> [DLL injection]  Process crashed, exit code 0xc000005</h2>
+<p>Open cmd as administrator and write the following commands:</p>
+<p><code>sfc /scannow</code></p>
+<p>After that, if errors were found, restart the computer and check.
+If after restarting it did not help or no errors were found, write this command:</p>
+<p><code>DISM.exe /Online /Cleanup-Image /RestoreHealth</code></p>
+<p>After completing the checks, restart the computer and check.</p>
+<p>If it doesn't work, reinstall Windows.</p>
+<h2> ImGUI: DirectX11 backend initialized successfully.</h2>
+<p>Error occurs because of themes, clear the themes folder.</p>
+<h2> The system did not detect MSVCP140.dll</h2>
+<p>Update <a href="https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170#visual-studio-2015-2017-2019-and-2022" target="_blank" rel="noopener noreferrer">Microsoft Visual Studio C++</a></p>
+<p>Update <a href="https://www.microsoft.com/en-us/download/details.aspx?id=35" target="_blank" rel="noopener noreferrer">DirectX</a></p>
+<h2> File corrupted! This program has been manipulated and maybe it's infected.</h2>
+<figure><figcaption></figcaption></figure>
+<p>In this case, you can try using <code>Malware Bytes</code> or <code>Dr.Web</code> to do a full scan, if any virus is found, remove them, restart and try again. If it doesn't work, reinstall Windows is the easiest way to solve this issue.</p>
+<h2> Timeout was reached</h2>
+<figure><figcaption></figcaption></figure>
+<p>Reboot your router.
+Turn off all applications that affect the firewall. If all else fails, then you have some problems with the network.
+An antivirus may be blocking the connection, make sure it is not in the Task Manager.</p>
+<h2> DLL Injection failed</h2>
+<p>Uninstall colorpicker folder and download colorpicker again.</p>
+<h2> Windows cannot access the specified device, path, or file</h2>
+<figure><figcaption></figcaption></figure>
+<p>At first go to <a href="https://support.microsoft.com/en-us/topic/-windows-cannot-access-the-specified-device-path-or-file-error-when-you-try-to-install-update-or-start-a-program-or-file-46361133-47ed-6967-c13e-e75d3cc29657" target="_blank" rel="noopener noreferrer">HERE</a> and follow the steps on that post.</p>
+<p>Also after going to the solutions below download an antivirus and run a full system check!</p>
+<p>If it doesn't help open cmd as administrator and write <code>sfc /scannow</code></p>
+<p>After that, if errors were found, restart the computer and check.</p>
+<p>If after restarting it didn't help or no errors were found, write this command:</p>
+<p><code>DISM.exe /Online /Cleanup-Image /RestoreHealth</code></p>
+<p>After completing the checks, restart the computer and check.</p>
+<p>If it doesn't work, reinstall Windows.</p>
+<h2> Signature checksum failed</h2>
+<figure><figcaption></figcaption></figure>
+<p>Servers are down or shut down, wait for servers to come back online.</p>
+<h2> Failed to create game process with Error 5</h2>
+<figure><figcaption></figcaption></figure>
+<p>Delete <code>cfg.ini</code>.</p>
+<h2> SSL connect error</h2>
+<figure><figcaption></figcaption></figure>
+<p>Restart your PC, restart your router.</p>
+<p>Try using a VPN if it doesn't work.</p>
+]]></content:encoded>
+    </item>
     <item>
       <title>How to get key</title>
       <link>https://korepi.com/en/guide/getkey.html</link>
       <guid>https://korepi.com/en/guide/getkey.html</guid>
       <source url="https://korepi.com/en/rss.xml">How to get key</source>
-      <description>How to get key for Network(F) Step 1: Get F Auth role Head to ★⋅korepi-version-roles⋅★ on the server and click on F Auth to get the role. Step 2: Get your key Head to ⁠★⋅micah-b...</description>
+      <description>How to get key for Network(F) Step 1: Get F Auth role Head to ★⋅korepi-version-roles⋅★ on the server and click on F Auth to get the role. Note: Check if you got the role, if you...</description>
       <category>Guide</category>
       <pubDate>Mon, 11 Dec 2023 23:46:39 GMT</pubDate>
       <content:encoded><![CDATA[<h2> How to get key for Network(F)</h2>
 <iframe width="640" height="360" src="https://www.youtube.com/embed/-9bXOMH0-WM" title="Korepi - How to get V key" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 <h3> Step 1: Get F Auth role</h3>
 <p>Head to <code>★⋅korepi-version-roles⋅★</code> on the server and click on <code>F Auth</code> to get the role.</p>
+<p><code>Note: Check if you got the role, if you didn't click on F Auth again</code></p>
 <h3> Step 2: Get your key</h3>
 <p>Head to <code>⁠★⋅micah-bot-verify⋅★</code> and click on <code>F:Getkey</code>, the bot will reply with some information including the key, copy it.</p>
 <h3> Step 3: Use your key</h3>
@@ -32,6 +141,7 @@
 <iframe width="640" height="360" src="https://www.youtube.com/embed/OTCSboZdexc" title="Korepi - How to get V key" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 <h3> Step 1: Get V Auth role</h3>
 <p>Head to <code>★⋅korepi-version-roles⋅★</code> on the server and click on <code>V Auth</code> to get the role.</p>
+<p><code>Note: Check if you got the role, if you didn't click on V Auth again</code></p>
 <h3> Step 2: Get your <code>HWID</code></h3>
 <p>To get your <code>HWID</code> you will need to open <code>Local(V) Injector</code> once, and it will copy it to your clipboard</p>
 <h3> Step 3: Get your <code>enc.json</code></h3>
@@ -63,14 +173,17 @@
       <link>https://korepi.com/en/guide/3DM-tutorial.html</link>
       <guid>https://korepi.com/en/guide/3DM-tutorial.html</guid>
       <source url="https://korepi.com/en/rss.xml">How to use custom skins</source>
-      <description>How to use custom Skins in Korepi In order to use custom skins in we will need to download: 3DMigoto(GIMI). Method 1 Step 1: Download GIMI Download GIMI in their oficial Github ...</description>
+      <description>Note: If GIMI shows echo off on the cmd, you can just press Numpad 0 to remove it, you can also edit d3dx.ini and search for hunting= and set to 0. How to use custom Skins in Ko...</description>
       <category>Guide</category>
       <pubDate>Sun, 10 Dec 2023 01:50:24 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> How to use custom Skins in Korepi</h2>
+      <content:encoded><![CDATA[<h2> Note:</h2>
+<h3> If GIMI shows <code>echo off</code> on the cmd, you can just press <code>Numpad 0</code> to remove it,</h3>
+<h3> you can also edit <code>d3dx.ini</code> and search for <code>hunting=</code> and set to <code>0</code>.</h3>
+<h2> How to use custom Skins in Korepi</h2>
 <p>
 In order to use custom skins in we will need to download:</p>
 <p><code>3DMigoto(GIMI)</code>.</p>
-<h2> Method 1</h2>
+<h2> Method</h2>
 <h3> Step 1: Download <code>GIMI</code></h3>
 <p>Download <code>GIMI</code> in their oficial <a href="https://github.com/SilentNightSound/GI-Model-Importer/releases/tag/v7.0" target="_blank" rel="noopener noreferrer">Github</a> and download the file named: <code>3dmigoto-GIMI-for-playing-mods.zip</code>.</p>
 <figure><figcaption></figcaption></figure>

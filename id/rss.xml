@@ -6,8 +6,8 @@
     <link>https://korepi.com/id/</link>
     <description>Pertolongan Korepi</description>
     <language>id-ID</language>
-    <pubDate>Tue, 12 Dec 2023 12:42:15 GMT</pubDate>
-    <lastBuildDate>Tue, 12 Dec 2023 12:42:15 GMT</lastBuildDate>
+    <pubDate>Wed, 13 Dec 2023 14:54:28 GMT</pubDate>
+    <lastBuildDate>Wed, 13 Dec 2023 14:54:28 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Panduan</category>
@@ -236,11 +236,21 @@ Catatan: Pastikan berkas tersebut bernama <code>enc.json</code>.</p>
       <pubDate>Sun, 26 Nov 2023 15:29:27 GMT</pubDate>
       <content:encoded><![CDATA[<h2> Katalog</h2>
 <ul>
-<li><a href="/id/guide/resethwid.html" target="blank">Cara Reset HWID</a></li>
-<li><a href="/id/guide/multi-instance.html" target="blank">Cara Multi-instance</a></li>
-<li><a href="/id/guide/3DM-tutorial.html" target="blank">Cara Menggunakan Skin Kustom</a></li>
-<li><a href="/id/guide/3DM-skin.html" target="blank">Cara Mengunduh Skin Kustom</a></li>
-<li><a href="/id/guide/custom-tp-setting.html" target="blank">Cara Menggunakan TP Kustom</a></li>
+<li>
+<p><a href="/id/guide/resethwid.html" target="blank">Cara Reset HWID</a></p>
+</li>
+<li>
+<p><a href="/id/guide/multi-instance.html" target="blank">Cara Multi-instance</a></p>
+</li>
+<li>
+<p><a href="/id/guide/3DM-tutorial.html" target="blank">Cara Menggunakan Skin Kustom</a></p>
+</li>
+<li>
+<p><a href="/id/guide/3DM-skin.html" target="blank">Cara Mengunduh Skin Kustom</a></p>
+</li>
+<li>
+<p><a href="/id/guide/custom-tp-setting.html" target="blank">Cara Menggunakan TP Kustom</a></p>
+</li>
 </ul>
 ]]></content:encoded>
     </item>
