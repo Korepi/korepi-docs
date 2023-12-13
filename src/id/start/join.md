@@ -17,9 +17,9 @@ Jika Anda belum punya akun Discord, pertama-tama buatlah akun baru. Kunjungi [si
 
 ## Langkah 2: Bergabung di Server
 
-Untuk bergabung, Anda dapat menggunakan kata kunci `cottonbuds`, atau cukup klik [di sini](https://discord.gg/cottonbuds) untuk langsung bergabung ke server.
+Untuk bergabung, Anda dapat menggunakan kata kunci `cottonbuds`, atau cukup klik [di sini](https://discord.gg/cottonbuds) untuk langsung bergabung di server.
 
-Jika Anda mengalami kesulitan bergabung dengan server, mungkin server sedang ditutup untuk sementara waktu. Silakan tunggu sampai server dibuka kembali.
+Jika Anda tidak berhasil bergabung dengan server, kemungkinan server sedang ditutup untuk sementara waktu. Silakan tunggu sampai server dibuka kembali.
 
 ### Cara Bergabung dengan Kata Kunci `cottonbuds`
 

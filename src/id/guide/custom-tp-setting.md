@@ -6,7 +6,7 @@ category:
 tag:
   - Buku Pemula
   - Teleports
-author: Schvis, Natsume
+author: Schvis, Natsume, Ikuyo
 order: 5
 ---
 
@@ -20,19 +20,19 @@ Gunakan pengaturan berikut.
 
 `Delay Time` yang direkomendasikan adalah >15 detik.
 
-## Langkah 2: Unduh Berkas `.json` untuk Teleportasi kustom
+## Langkah 2: Unduh Berkas `.json` untuk Teleportasi Kustom
 
-Kamu bisa menemukan filenya di postingan yang di `pin` pada `community-share` di server. Unduh yang sesuai dengan kebutuhanmu.
+Kamu bisa menemukan berkasnya dipostingan yang di `pin` pada `community-share` di server. Unduh yang sesuai dengan kebutuhanmu.
 
-## Langkah 3: Pilih file Teleportasi
+## Langkah 3: Pilih Berkas Teleportasi
 
-Pergi ke pengaturan TP kustom/`custom tp settings` dan masuk ke bagian ini:
+Pergi ke pengaturan teleportasi kustom/`custom tp settings` dan masuk ke bagian ini:
 
 ![](/assets/images/docs/202312/teleport2.png)
 
-Klik pada pilihan `.json path` dan pilih folder yang berisi berkas TP yang ingin kamu gunakan.
+Klik pada pilihan `.json path` dan pilih folder yang berisi berkas teleportasi yang ingin kamu gunakan.
 
-## Langkah 4: Cara Memulai TP
+## Langkah 4: Cara Memulai Teleportasi
 
 Setelah memilih folder, centang kotak ini:
 
@@ -44,4 +44,4 @@ Setelah itu, klik `Select`:
 
 ## Langkah 5: Nikmati Perjalanan
 
-TP akan dimulai secara otomatis. Jika kamu memiliki [Sponsor](../start/sponsor.md), kamu akan dapat melihat progress dan waktu yang tersisa.
+Teleportasi akan dimulai secara otomatis. Jika kamu memiliki [Sponsor](../start/sponsor.md), kamu akan dapat melihat progress dan waktu yang tersisa.
