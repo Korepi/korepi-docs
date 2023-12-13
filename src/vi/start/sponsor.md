@@ -25,8 +25,7 @@ Nếu không có thì bạn có thể nhờ những người sau [Duong](https:/
 Nếu bạn đã donate, bạn có thể gửi ảnh chụp màn hình thanh toán của mình cho bất kỳ Mod nào có sẵn. Vui lòng đảm bảo cung cấp ảnh chụp màn hình hoặc liên kết donate làm bằng chứng.
 Nếu bạn đã nhờ donate thì có thể bỏ qua bước này 
 
-
-[![Screenshot-2023-12-02-213543.png](https://i.postimg.cc/nzQ43BGn/Screenshot-2023-12-02-213543.png)](https://postimg.cc/cg0tHKzz)
+![](/assets/images/docs/202312/proofVI.png)
 ## (Dành cho người chưa có FANS) Làm thế nào để nhận vai trò Người hâm mộ sau khi quyên góp?
 
 Nếu bạn là Nhà tài trợ và không có vai trò Người hâm mộ, bạn có thể bỏ qua quá trình đăng nhập 7 ngày và nhận vai trò này ngay lập tức
@@ -36,21 +35,21 @@ Hoặc điểm danh 3 ngày nếu bạn thích
 
 Để làm được điều đó, bạn cần vào kênh #ticket-start (chỉ hiển thị khi bạn đã có Nhà tài trợ). 
 
-[![](https://i.postimg.cc/NfkzJDyd/openticket1.png)](https://postimg.cc/dLD6D8jC)
+![](/assets/images/docs/202312/openticket1.png)
 
 Sau khi nhấp vào 'mở', bạn sẽ thấy một kênh mới bên dưới kênh ticket.
 
-[![](https://i.postimg.cc/Vk7H1NWM/openticket2.png)](https://postimg.cc/sMhJ4s8D)
+![](/assets/images/docs/202312/openticket2.png)
 
 ### Bước 2: Trả lời khảo sát ngắn
 
 Nhấn nút 'form link' để trả lời khảo sát. Nếu không hiểu hãy dùng Google dịch để làm.
 
-[![](https://i.postimg.cc/qRKm8xVX/openticket4.png)](https://postimg.cc/mzbN4Mrt)
+![](/assets/images/docs/202312/openticket3.png)
 
 Sau khi hoàn thành khảo sát, đừng quên nhấn nút 'Submit'.
 
-[![](https://i.postimg.cc/GpHgp1Xf/openticket5.png)](https://postimg.cc/GBnxM6wP)
+![](/assets/images/docs/202312/openticket4.png)
 
 Sau đó, bạn chỉ cần kiên nhẫn chờ MOD kiểm tra khảo sát của mình. Khoảng 1-10p  
 Sau khi bạn nhận được vai trò Fans của mình, bạn đã sẵn sàng để bắt đầu.

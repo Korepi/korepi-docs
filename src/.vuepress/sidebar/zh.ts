@@ -15,5 +15,11 @@ export const zhSidebar = sidebar({
       prefix: "guide/",
       children: "structure",
     },
+    {
+      text: "故障排除",
+      icon: "info-circle",
+      prefix: "troubleshoot/",
+      children: "structure",
+    }
   ],
 });

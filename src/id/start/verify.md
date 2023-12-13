@@ -17,24 +17,24 @@ Untuk menjaga keamanan server, sangat penting bagi Anda untuk melakukan verifika
 
    Klik pada channel rules di server.
 
-   [![](https://i.postimg.cc/2SbQ1602/verify1.png)](https://postimg.cc/fVstFwn9)
+   ![Verify](/assets/images/docs/202312/verify1.png)
 
 2. **Klik Tombol 'Verify'**
 
    Setelah membuka channel rules, klik tombol 'verify'. Kemudian, akan muncul pesan dari bot, klik 'click here'.
 
-   [![](https://i.postimg.cc/9Q6GZhSV/verify2.png)](https://postimg.cc/21xbNPrX)
+   ![Verify](/assets/images/docs/202312/verify2.png)
 
 3. **Klik 'Login to Verify'**
 
    Klik 'login to verify' untuk melanjutkan proses.
 
-   [![](https://i.postimg.cc/tgFFzcQ6/verify3.png)](https://postimg.cc/1g5gmJzR)
+   ![Verify](/assets/images/docs/202312/verify3.png)
 
 4. **Tahan Tombol Verifikasi**
 
    Di halaman selanjutnya, tahan tombol verifikasi sampai muncul pesan yang menyatakan bahwa Anda telah berhasil melakukan verifikasi.
 
-   [![](https://i.postimg.cc/85DMXbN0/verify4.png)](https://postimg.cc/3ySkdmyX)
+   ![Verify](/assets/images/docs/202312/verify4.png)
 
 Setelah berhasil diverifikasi, bot akan memberikan Anda role `Newcomer`. Dengan peran ini, Anda tidak akan diusir oleh bot tanpa alasan yang jelas. Silakan lanjut ke langkah berikutnya.
