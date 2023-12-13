@@ -16,7 +16,7 @@ order: 5
 
 Gunakan pengaturan berikut.
 
-![](../../images/teleport1.png)
+![](../../.vuepress/images/teleport1.png)
 
 `Delay Time` yang direkomendasikan adalah >15 detik.
 
@@ -28,7 +28,7 @@ Kamu bisa menemukan filenya di postingan yang di `pin` pada `community-share` di
 
 Pergi ke pengaturan TP kustom/`custom tp settings` dan masuk ke bagian ini:
 
-![](../../images/teleport2.png)
+![](../../.vuepress/images/teleport2.png)
 
 Klik pada pilihan `.json path` dan pilih folder yang berisi berkas TP yang ingin kamu gunakan.
 
@@ -36,11 +36,11 @@ Klik pada pilihan `.json path` dan pilih folder yang berisi berkas TP yang ingin
 
 Setelah memilih folder, centang kotak ini:
 
-![](../../images/teleport3.png)
+![](../../.vuepress/images/teleport3.png)
 
 Setelah itu, klik `Select`:
 
-![](../../images/teleport4.png)
+![](../../.vuepress/images/teleport4.png)
 
 ## Langkah 5: Nikmati Perjalanan
 

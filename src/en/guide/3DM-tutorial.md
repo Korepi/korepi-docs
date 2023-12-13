@@ -18,16 +18,16 @@ order: 4
 
 ## How to use custom Skins in Korepi
 
-![](../../images/example.png)
-In order to use custom skins in we will need to download:
+![](../../.vuepress/images/example.png)
+In order to use custom skins in we will need to download: 
 
 `3DMigoto(GIMI)`.
-## Method 1
+## Method 
 ### Step 1: Download `GIMI`
 
 Download `GIMI` in their oficial [Github](https://github.com/SilentNightSound/GI-Model-Importer/releases/tag/v7.0) and download the file named: `3dmigoto-GIMI-for-playing-mods.zip`.
 
-![](../../images/3dm-1.png)
+![](../../.vuepress/images/3dm-1.png)
 
 ### Step 2: Extract `GIMI` into a folder
 
@@ -39,11 +39,11 @@ After downloading `GIMI`, we will need to extract it into any folder of your cho
 
 To do this we will need to add the next lines in `cfg.ini` inside korepi folder.
 
-![](../../images/3dm-2.png)
+![](../../.vuepress/images/3dm-2.png)
 
 On `DllPath` we will paste the path we copied in the last step.
 
-![](../../images/3dm-3.png)
+![](../../.vuepress/images/3dm-3.png)
 
 ### Step 4: Open Korepi
 
@@ -54,7 +54,7 @@ If you followed the steps right, Korepi should launch with `GIMI` every time.
 
 Download `GIMI` in their oficial [Github](https://github.com/SilentNightSound/GI-Model-Importer/releases/tag/v7.0) and download the file named: `3dmigoto-GIMI-for-playing-mods.zip`.
 
-![](../../images/3dm-1.png)
+![](../../.vuepress/images/3dm-1.png)
 
 ### Step 2: Extract `GIMI` into a folder
 
