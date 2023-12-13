@@ -21,7 +21,7 @@ actions:
 
 highlights:
   - header: Trải nghiệm siêu phàm!
-    image: /assets/image/box.svg
+    image: /assets/images/web/box.svg
     bgImage: https://theme-hope-assets.vuejs.press/bg/3-light.svg
     bgImageDark: https://theme-hope-assets.vuejs.press/bg/3-dark.svg
     highlights:
@@ -31,7 +31,7 @@ highlights:
 
   - header: Công cụ thiết thực, tiện lợi và tương tác với Genshin Impact
     description: Tính năng độc đáo, sử dụng miễn phí
-    image: /assets/image/markdown.svg
+    image: /assets/images/web/markdown.svg
     bgImage: https://theme-hope-assets.vuejs.press/bg/2-light.svg
     bgImageDark: https://theme-hope-assets.vuejs.press/bg/2-dark.svg
     bgImageStyle:
@@ -88,7 +88,7 @@ highlights:
         details: Thu hút nhiều quái vật gần đó
 
   - header: Sửa lỗi mới nhất
-    image: /assets/image/features.svg
+    image: /assets/images/web/features.svg
     bgImage: https://theme-hope-assets.vuejs.press/bg/1-light.svg
     bgImageDark: https://theme-hope-assets.vuejs.press/bg/1-dark.svg
     features:
@@ -113,7 +113,7 @@ highlights:
 
   - header: Lợi thế của chúng tôi
     description: Khám phá một số lợi thế của chúng tôi
-    image: /assets/image/blog.svg
+    image: /assets/images/web/blog.svg
     bgImage: https://theme-hope-assets.vuejs.press/bg/5-light.svg
     bgImageDark: https://theme-hope-assets.vuejs.press/bg/5-dark.svg
     highlights:

@@ -21,7 +21,7 @@ actions:
 
 highlights:
   - header: 超人般的体验！
-    image: /assets/image/box.svg
+    image: /assets/images/web/box.svg
     bgImage: https://theme-hope-assets.vuejs.press/bg/3-light.svg
     bgImageDark: https://theme-hope-assets.vuejs.press/bg/3-dark.svg
     highlights:
@@ -32,7 +32,7 @@ highlights:
 
   - header: 实用、便捷、与原神互动技术
     description: 独特的功能，免费使用
-    image: /assets/image/markdown.svg
+    image: /assets/images/web/markdown.svg
     bgImage: https://theme-hope-assets.vuejs.press/bg/2-light.svg
     bgImageDark: https://theme-hope-assets.vuejs.press/bg/2-dark.svg
     bgImageStyle:
@@ -46,7 +46,7 @@ highlights:
         icon: shield
         details: 使角色无敌
       - title: 攻击修改器（多重打击/目标/动画）
-        icon: sword
+        icon: gun
         details: 允许修改攻击特性，包括多重打击、目标和动画
       - title: 无冷却时间（技能/终极/冲刺/弓）
         icon: clock
@@ -70,7 +70,7 @@ highlights:
         icon: hammer
         details: 自动摧毁环境中的各种物体
       - title: 自动拾取/打开箱子
-        icon: chest
+        icon: box
         details: 自动收集战利品并打开箱子
       - title: 拾取范围
         icon: compass
@@ -89,12 +89,12 @@ highlights:
         details: 吸附附近各种怪物
 
   - header: 最新 Bug 修复
-    image: /assets/image/features.svg
+    image: /assets/images/web/features.svg
     bgImage: https://theme-hope-assets.vuejs.press/bg/1-light.svg
     bgImageDark: https://theme-hope-assets.vuejs.press/bg/1-dark.svg
     features:
       - title: 自动选择对话现在稍快
-        icon: lightning-bolt
+        icon: comment
         details: 加快了自动选择对话的速度
       - title: 地图缩放
         icon: search-plus
@@ -114,12 +114,12 @@ highlights:
 
   - header: 我们的优势
     description: 探索一些我们的
-    image: /assets/image/blog.svg
+    image: /assets/images/web/blog.svg
     bgImage: https://theme-hope-assets.vuejs.press/bg/5-light.svg
     bgImageDark: https://theme-hope-assets.vuejs.press/bg/5-dark.svg
     highlights:
       - title: 24小时响应提供服务
-        icon: headsets
+        icon: wind
         details: 我们随时为您提供帮助，白天和黑夜，提供可靠的 24小时服务。
       - title: 简单易用
         icon: user-friends

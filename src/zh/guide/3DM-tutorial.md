@@ -1,6 +1,6 @@
 ---
 title: Korepi与3DM同时运行教程
-icon: circle-info
+icon: lemon
 category:
   - 指南
 tag:
@@ -8,7 +8,7 @@ tag:
   - 配置文件
   - 教程
 author: Double
-order: 5
+order: 3
 ---
 ---
 

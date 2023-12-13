@@ -1,6 +1,6 @@
 ---
 title: esp调配设置
-icon: circle-info
+icon: bomb
 category:
   - 指南
 tag:

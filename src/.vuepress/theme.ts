@@ -140,8 +140,26 @@ export default hopeTheme({
   // },
 
   plugins: {
+    components: {
+      components: ["Badge", "BiliBili"],
+      rootComponents: {
+        notice: [
+          {
+            path: "/zh/",
+            title: "贡献力量",
+            content:
+                "如果你有<b>网页前端</b>，<b>文档管理</b>的经验，并希望将其施展于当前文档项目中，欢迎<a href='https://github.com/Korepi/korepi-docs'>参与文档编写</a>",
+            fullscreen: false,
+            showOnce: false,
+          },
+        ],
+      },
+    },
     feed:{
       rss:true,
+    },
+    sitemap: {
+      changefreq: "weekly",
     },
     // You should generate and use your own comment service
     comment: {
@@ -155,81 +173,21 @@ export default hopeTheme({
     // All features are enabled for demo, only preserve features you need here
     mdEnhance: {
       align: true,
-      attrs: true,
-
-      // install chart.js before enabling it
-      // chart: true,
-
-      codetabs: true,
-
-      // insert component easily
-      // component: true,
-
-      demo: true,
-
-      // install echarts before enabling it
-      // echarts: true,
-
-      figure: true,
-
-      // install flowchart.ts before enabling it
-      // flowchart: true,
-
-      // gfm requires mathjax-full to provide tex support
-      // gfm: true,
-
+      footnote: true,
       imgLazyload: true,
-      imgSize: true,
       include: true,
-
-      // install katex before enabling it
-      // katex: true,
-
-      // install mathjax-full before enabling it
-      // mathjax: true,
-
-      mark: true,
-
-      // install mermaid before enabling it
-      // mermaid: true,
-
-      playground: {
-        presets: ["ts", "vue"],
-      },
-
-      // install reveal.js before enabling it
-      // revealJs: {
-      //   plugins: ["highlight", "math", "search", "notes", "zoom"],
-      // },
-
-      stylize: [
-        {
-          matcher: "Recommended",
-          replacer: ({ tag }) => {
-            if (tag === "em")
-              return {
-                tag: "Badge",
-                attrs: { type: "tip" },
-                content: "Recommended",
-              };
-          },
-        },
-      ],
-      sub: true,
-      sup: true,
       tabs: true,
-      vPre: true,
-
-      // install @vue/repl before enabling it
-      // vuePlayground: true,
+      tasklist: true,
     },
 
     // uncomment these if you want a pwa
     pwa: {
       favicon: "/favicon.ico",
-      cacheHTML: true,
+      cacheHTML: false,
       cachePic: true,
       appendBase: true,
+      themeColor: "#63a7ef",
+      update: "hint",
       apple: {
         icon: "/assets/icon/144.png",
         statusBarColor: "black",

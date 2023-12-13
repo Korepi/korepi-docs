@@ -1,6 +1,6 @@
 ---
 title: 配置文件的切换与绑定
-icon: circle-info
+icon: gear
 category:
   - 指南
 tag:
@@ -8,7 +8,7 @@ tag:
   - 配置文件
   - 教程
 author: Micah
-order: 5
+order: 2
 ---
 
 # 配置文件的切换与绑定

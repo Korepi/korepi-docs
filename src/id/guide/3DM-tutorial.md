@@ -12,7 +12,7 @@ order: 3
 
 ## Cara Menggunakan Skins Kustom di Korepi
 
-![](../../.vuepress/images/example.png)
+![](/assets/images/doc/example.png)
 
 Untuk menggunakan skins kustom di sini, kita perlu unduh:
 
@@ -22,7 +22,7 @@ Untuk menggunakan skins kustom di sini, kita perlu unduh:
 
 Unduh `GIMI` di [Github resminya](https://github.com/SilentNightSound/GI-Model-Importer/releases/tag/v7.0) dan unduh file yang namanya: `3dmigoto-GIMI-for-playing-mods.zip`.
 
-![](../../.vuepress/images/3dm-1.png)
+![](/assets/images/doc/3dm-1.png)
 
 ## Langkah 2: Ekstrak `GIMI` ke dalam folder
 
@@ -34,11 +34,11 @@ Setelah mengunduh `GIMI`, ekstrak ke folder pilihanmu, di dalamnya ada `d3d11.dl
 
 Untuk melakukannya, tambahkan baris berikut di `cfg.ini` dalam folder Korepi.
 
-![](../../.vuepress/images/3dm-2.png)
+![](/assets/images/doc/3dm-2.png)
 
 Di bagian `DllPath`, tempelkan path yang tadi kita salin.
 
-![](../../.vuepress/images/3dm-3.png)
+![](/assets/images/doc/3dm-3.png)
 
 ## Langkah 4: Buka Korepi
 
@@ -49,7 +49,7 @@ Jika langkah-langkah ini diikuti dengan benar, Korepi seharusnya akan terbuka de
 
 Unduh `GIMI` di [Github resminya](https://github.com/SilentNightSound/GI-Model-Importer/releases/tag/v7.0) dan ambil file yang namanya: `3dmigoto-GIMI-for-playing-mods.zip`.
 
-![](../../.vuepress/images/3dm-1.png)
+![](/assets/images/doc/3dm-1.png)
 
 ## Langkah 2: Ekstrak `GIMI` ke dalam folder
 

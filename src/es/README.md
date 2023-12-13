@@ -21,7 +21,7 @@ actions:
 
 highlights:
   - header: Experiencia Super-Humana
-    image: /assets/image/box.svg
+    image: /assets/images/web/box.svg
     bgImage: https://theme-hope-assets.vuejs.press/bg/3-light.svg
     bgImageDark: https://theme-hope-assets.vuejs.press/bg/3-dark.svg
     highlights:
@@ -30,7 +30,7 @@ highlights:
 
   - header: Practico, Conveniente, Interacción de Genshin Tecnológica
     description: Funcionalidades exclusivas, gratis para usar
-    image: /assets/image/markdown.svg
+    image: /assets/images/web/markdown.svg
     bgImage: https://theme-hope-assets.vuejs.press/bg/2-light.svg
     bgImageDark: https://theme-hope-assets.vuejs.press/bg/2-dark.svg
     bgImageStyle:
@@ -87,7 +87,7 @@ highlights:
         details: Atrae diferentes mobs cercanos
 
   - header: Últimos Arreglos
-    image: /assets/image/features.svg
+    image: /assets/images/web/features.svg
     bgImage: https://theme-hope-assets.vuejs.press/bg/1-light.svg
     bgImageDark: https://theme-hope-assets.vuejs.press/bg/1-dark.svg
     features:
@@ -112,7 +112,7 @@ highlights:
 
   - header: Nuestras Ventajas
     description: Explora alguna de nuestras
-    image: /assets/image/blog.svg
+    image: /assets/images/web/blog.svg
     bgImage: https://theme-hope-assets.vuejs.press/bg/5-light.svg
     bgImageDark: https://theme-hope-assets.vuejs.press/bg/5-dark.svg
     highlights:

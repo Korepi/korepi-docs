@@ -1,13 +1,13 @@
 ---
 title: 如何获取并使用密钥
-icon: circle-info
+icon: key
 category:
   - 指南
 tag:
   - 开始
   - 教程
 author: Double
-order: 5
+order: 1
 ---
 ---
 # 1.在频道中找到links下的 ★korepi-verison-roles★ 频道，点击并进入。
