@@ -15,7 +15,7 @@ order: 1
 
 Make sure you got your anti-virus disabled, create a new folder and add it to exclusions.
 
-![](/assets/images/doc/virus.png)
+![](/assets/images/docs/202312/virus.png)
 
 Extract korepi inside the excluded folder and run again.
 
@@ -52,13 +52,13 @@ Update [DirectX](https://www.microsoft.com/en-us/download/details.aspx?id=35)
 
 ## File corrupted! This program has been manipulated and maybe it's infected.
 
-![](/assets/images/doc/virus2.png)
+![](/assets/images/docs/202312/virus2.png)
 
 In this case, you can try using `Malware Bytes` or `Dr.Web` to do a full scan, if any virus is found, remove them, restart and try again. If it doesn't work, reinstall Windows is the easiest way to solve this issue.
 
 ## Timeout was reached
 
-![](/assets/images/doc/error1.png)
+![](/assets/images/docs/202312/error1.png)
 
 Reboot your router.
 Turn off all applications that affect the firewall. If all else fails, then you have some problems with the network.
@@ -70,7 +70,7 @@ Uninstall colorpicker folder and download colorpicker again.
 
 ## Windows cannot access the specified device, path, or file
 
-![](/assets/images/doc/error2.png)
+![](/assets/images/docs/202312/error2.png)
 
 At first go to [HERE](https://support.microsoft.com/en-us/topic/-windows-cannot-access-the-specified-device-path-or-file-error-when-you-try-to-install-update-or-start-a-program-or-file-46361133-47ed-6967-c13e-e75d3cc29657) and follow the steps on that post.
 
@@ -90,19 +90,19 @@ If it doesn't work, reinstall Windows.
 
 ## Signature checksum failed
 
-![](/assets/images/doc/checksum.png)
+![](/assets/images/docs/202312/checksum.png)
 
 Servers are down or shut down, wait for servers to come back online.
 
 ## Failed to create game process with Error 5
 
-![](/assets/images/doc/error3.png)
+![](/assets/images/docs/202312/error3.png)
 
 Delete `cfg.ini`.
 
 ## SSL connect error
 
-![](/assets/images/doc/error4.png)
+![](/assets/images/docs/202312/error4.png)
 
 Restart your PC, restart your router.
 

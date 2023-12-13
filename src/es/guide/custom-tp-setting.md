@@ -16,7 +16,7 @@ order: 6
 
 Lo configuraremos de la siguiente manera:
 
-![](/assets/images/doc/teleport1.png)
+![](/assets/images/docs/202312/teleport1.png)
 
 El tiempo de retraso recomendado es de >15s.
 
@@ -28,7 +28,7 @@ Para ello podremos encontrarlo en el canal de `community-share` en la publicaci�
 
 Entraremos en los ajustes dentro de Korepi de nuevo e iremos a la siguiente sección:
 
-![](/assets/images/doc/teleport2.png)
+![](/assets/images/docs/202312/teleport2.png)
 
 Le daremos click a select path, y elegiremos la carpeta de los teletransportes que deseamos utilizar.
 
@@ -36,11 +36,11 @@ Le daremos click a select path, y elegiremos la carpeta de los teletransportes q
 
 Después de seleccionar los teletransportes deberemos de darle a la siguiente casilla:
 
-![](/assets/images/doc/teleport3.png)
+![](/assets/images/docs/202312/teleport3.png)
 
 La activamos y le damos a `Select`: 
 
-![](/assets/images/doc/teleport4.png)
+![](/assets/images/docs/202312/teleport4.png)
 
 ### Paso 5: Disfrutar
 

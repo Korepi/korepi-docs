@@ -16,7 +16,7 @@ order: 6
 
 We will use the following settings.
 
-![](/assets/images/doc/teleport1.png)
+![](/assets/images/docs/202312/teleport1.png)
 
 The recommended delay time is >15s.
 
@@ -28,7 +28,7 @@ We can find these files in `community-share` pinned post in the server. Download
 
 Head to custom tp settings and go to this section:
 
-![](/assets/images/doc/teleport2.png)
+![](/assets/images/docs/202312/teleport2.png)
 
 Click on select path and select the folder containing the tp files you want to use.
 
@@ -36,11 +36,11 @@ Click on select path and select the folder containing the tp files you want to u
 
 After selecting the folder, check this checkbox:
 
-![](/assets/images/doc/teleport3.png)
+![](/assets/images/docs/202312/teleport3.png)
 
 After that we click on `Select`:
 
-![](/assets/images/doc/teleport4.png)
+![](/assets/images/docs/202312/teleport4.png)
 
 ### Step 5: Enjoy the ride
 

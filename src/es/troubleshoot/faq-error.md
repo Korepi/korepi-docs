@@ -15,7 +15,7 @@ order: 1
 
 Deshabilita el anti-virus y crea una carpeta nueva, pon korepi dentro y añadelo a exclusiones dentro del anti-virus:
 
-![](/assets/images/doc/virus.png)
+![](/assets/images/docs/202312/virus.png)
 
 Abre Korepi depuès de haber completado este paso.
 
@@ -51,13 +51,13 @@ Actualiza o Instala [DirectX](https://www.microsoft.com/en-us/download/details.a
 
 ## El Archivo está corrupto! ¡Este programa ha sido manipulado!
 
-![](/assets/images/doc/virus2.png)
+![](/assets/images/docs/202312/virus2.png)
 
 En este caso deberas instalar `Malware Bytes` o `Dr.Web` y hacer un escaneo completo, si se encuentra un virus, borralo, y reinicia el ordenador, si no funciono, deberas reinstalar windows.
 
 ## Timeout was reached
 
-![](/assets/images/doc/error1.png)
+![](/assets/images/docs/202312/error1.png)
 
 Reinicia tu router.
 
@@ -69,7 +69,7 @@ Reinstala el mod.
 
 ## Windows cannot access the specified device, path, or file
 
-![](/assets/images/doc/error2.png)
+![](/assets/images/docs/202312/error2.png)
 
 Prueba [esto](https://www.minitool.com/es/respaldar-datos/windows-no-tiene-acceso-al-dispositivo-especificado.html) primero.
 
@@ -87,19 +87,19 @@ Después de completar ese paso, reinicia el ordenador y comprueba si funciona, s
 
 ## Signature checksum failed
 
-![](/assets/images/doc/checksum.png)
+![](/assets/images/docs/202312/checksum.png)
 
 Los servidores están caídos, espera a que vuelvan.
 
 ## Failed to create game process with Error 5
 
-![](/assets/images/doc/error3.png)
+![](/assets/images/docs/202312/error3.png)
 
 Borra `cfg.ini`.
 
 ## SSL connect error
 
-![](/assets/images/doc/error4.png)
+![](/assets/images/docs/202312/error4.png)
 
 Reinicia tu router y ordenador.
 
