@@ -19,7 +19,7 @@ export const idNavbar = navbar([
         text: "Panduan",
         icon: "lightbulb",
         prefix: "guide/",
-        children: ["page", { text: "...", icon: "ellipsis", link: "#" }],
+        children: ["resethwid", { text: "...", icon: "ellipsis", link: "#" }],
       },
     ],
   },

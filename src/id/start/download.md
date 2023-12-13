@@ -1,5 +1,5 @@
 ---
-title: Unduh
+title: Panduan Download
 icon: download
 category:
   - Panduan
@@ -12,24 +12,24 @@ author:
 order: 5
 ---
 
-# Unduh
+# Panduan Unduh
 
-## Pengantar
+## Selamat Datang!
 
-Selamat datang dikomunitas kami! Untuk lolos dari pemeriksaan bot dan mendapatkan role `Newcomer`, silakan untuk menonton video [Tutorial ini](https://youtu.be/4gm6JzAnq4w?si=DS00t4anVCT4O_4I) atau ikuti langkah-langkah berikut.
+Hai, selamat bergabung di komunitas kami! Untuk bisa masuk dan mendapatkan role `Newcomer`, pastikan untuk menonton video [Tutorial ini](https://youtu.be/4gm6JzAnq4w?si=DS00t4anVCT4O_4I) atau ikuti langkah-langkah di bawah ini.
 
-## Langkah 1: Bergabunglah dengan server kami dan dapatkan role `Newcomer` dan `Fans`
+### Langkah 1: Bergabung di Server Kami!
 
-Jika Anda belum bergabung dengan server, harap baca saluran verifikasi, yang menjelaskan cara bergabung dengan server dan mendapatkan role `Newcomer` dan `Fans`.
+Jika Anda belum bergabung, silakan baca instruksi di saluran verifikasi tentang cara bergabung di server dan mendapatkan role `Newcomer` dan `Fans`.
 
-## Langkah 2: Pergi ke saluran `★⋅korepi-version-roles⋅★`
+### Langkah 2: Pilih role di `★⋅korepi-version-roles⋅★`
 
-Temukan saluran `★⋅korepi-version-roles⋅★` dan pilih role versi F-Auth atau V-Auth. Kami menyarankan untuk memilih role F-Auth.
+Cari dan pilih role versi F-Auth atau V-Auth di saluran `★⋅korepi-version-roles⋅★`. Kami merekomendasikan memilih peran F-Auth.
 
-## Langkah 3: Unduh berkas yang diperlukan
+### Langkah 3: Download Panduan yang Dibutuhkan
 
-Setelah itu, Anda akan memiliki akses ke saluran unduhan yang sesuai: `★⋅f-download⋅★` atau `★⋅v-download⋅★`.
+Setelah itu, Anda akan mendapatkan akses ke saluran unduhan yang sesuai: `★⋅f-download⋅★` atau `★⋅v-download⋅★`.
 
-## Langkah 4: Siap!
+### Langkah 4: Siap untuk Mulai!
 
-Di saluran, Anda akan menemukan tautan ke versi terbaru dan kata sandi untuk berkas. Semoga beruntung!
+Di channel tersebut, Anda akan menemukan link untuk pergi ke versi terbaru dan kata sandi untuk membuka file arsipnya. Semoga berhasil!

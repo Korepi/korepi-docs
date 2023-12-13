@@ -1,50 +1,56 @@
 ---
-title: Cara Menjadi Sponsor
+title: Panduan Menjadi Sponsor
+
 icon: credit-card
+
 category:
   - Panduan
+
 tag:
   - Buku Pemula
-author: rekiihype, Ikuyo
+
+author: rekiihype, Ikuyo, Natsume
+
 order: 4
+
 ---
 
-### Bagaimana cara menjadi Sponsor?
+### Bagaimana Cara Menjadi Sponsor?
 
-Untuk menjadi Sponsor, Anda harus berdonasi setidaknya 50k Rupiah atau 1 pizza jika donasi melalui [Trakteer](https://trakteer.id/strigger).
+Untuk menjadi Sponsor, Anda hanya perlu berdonasi minimal 50.000 Rupiah atau setara dengan 1 pizza jika donasi dilakukan melalui [Trakteer](https://trakteer.id/strigger).
 
-### Di mana saya dapat berdonasi?
+### Di Mana Saya Dapat Berdonasi?
 
-Setelah Anda berada di server, silakan masuk ke [#sponsorship](https://discord.com/channels/1069057220802781265/1097565269985071205) channel. Pilih salah satu tautan yang Anda inginkan untuk berdonasi.
+Setelah bergabung di server, silakan masuk ke kanal [#sponsorship](https://discord.com/channels/1069057220802781265/1097565269985071205). Pilih salah satu tautan yang tersedia untuk melakukan donasi.
 
-### Apa yang harus dilakukan setelah saya selesai berdonasi?
+### Apa yang Harus Dilakukan Setelah Selesai Berdonasi?
 
-Jika anda telah berdonasi, Anda bisa mengirimkan bukti donasi anda ke moderator yang tersedia. Pastikan anda menyertakan tangkapan layar atau tautan donasi sebagai bukti.
+Jika Anda sudah berdonasi, kirimkan bukti donasi Anda kepada moderator. Pastikan menyertakan tangkapan layar (screenshot) atau tautan donasi sebagai bukti.
 
-[![](https://i.postimg.cc/3xjf2b38/proof.png)](https://postimg.cc/MnTYS5cN)
+[![Bukti Donasi](https://i.postimg.cc/3xjf2b38/proof.png)](https://postimg.cc/MnTYS5cN)
 
-## (BAGI NON-FANS) Bagaimana cara mengklaim role Fans setelah mendapatkan role Sponsor?
+## (Bagi Non-Fans) Bagaimana Cara Mengklaim role Fans setelah Menjadi role Sponsor?
 
-Jika anda seorang Sponsor dan tidak memiliki role Fans, Anda dapat mengabaikan proses sign-in selama 7 hari dan langsung mengklaim role fans tersebut. Anda dapat melihat video [Tutorial ini](https://www.youtube.com/watch?v=cHRC7XdsKQo&list=PL5eI1Tb64p56Mp6JqoR_o3BYk9UFTbOQI&index=1&pp=iAQB) atau dengan mengikuti langkah-langkah sebagai berikut.
+Jika Anda sudah menjadi Sponsor dan belum mendapatkan role Fans, Anda bisa mengabaikan proses sign-in selama 7 hari dan langsung mengklaim peran Fans. Lihat video [tutorial ini](https://www.youtube.com/watch?v=cHRC7XdsKQo&list=PL5eI1Tb64p56Mp6JqoR_o3BYk9UFTbOQI&index=1&pp=iAQB) atau ikuti langkah-langkah berikut.
 
-### Langkah 1: Buka tiket
+### Langkah 1: Buka Tiket
 
-Untuk melakukannya, Anda harus masuk ke channel [#ticket-start](https://discord.com/channels/1069057220802781265/1152887509517344870) (hanya dapat dilihat jika anda sudah memiliki Sponsor).
+Masuk ke kanal [#ticket-start](https://discord.com/channels/1069057220802781265/1152887509517344870) (hanya terlihat jika Anda sudah menjadi Sponsor).
 
-[![](https://i.postimg.cc/NfkzJDyd/openticket1.png)](https://postimg.cc/dLD6D8jC)
+[![Buka Tiket](https://i.postimg.cc/NfkzJDyd/openticket1.png)](https://postimg.cc/dLD6D8jC)
 
-Setelah anda mengklik 'open', Anda akan melihat channel baru di bawah channel tiket.
+Setelah klik 'open', Anda akan melihat kanal baru di bawah kanal tiket.
 
-[![](https://i.postimg.cc/Vk7H1NWM/openticket2.png)](https://postimg.cc/sMhJ4s8D)
+[![Buka Tiket](https://i.postimg.cc/Vk7H1NWM/openticket2.png)](https://postimg.cc/sMhJ4s8D)
 
-### Langkah 2: Jawab survei singkat
+### Langkah 2: Jawab Survei Singkat
 
-Klik tombol 'form link' untuk menjawab survei.
+Klik tombol 'form link' untuk mengisi survei singkat.
 
-[![](https://i.postimg.cc/qRKm8xVX/openticket4.png)](https://postimg.cc/mzbN4Mrt)
+[![Jawab Survei](https://i.postimg.cc/qRKm8xVX/openticket4.png)](https://postimg.cc/mzbN4Mrt)
 
-Setelah anda selesai mengisi survei, jangan lupa untuk klik tombol 'Submit'.
+Setelah selesai mengisi survei, jangan lupa klik 'Submit'.
 
-[![](https://i.postimg.cc/GpHgp1Xf/openticket5.png)](https://postimg.cc/GBnxM6wP)
+[![Submit Survei](https://i.postimg.cc/GpHgp1Xf/openticket5.png)](https://postimg.cc/GBnxM6wP)
 
-Setelah itu, harap tunggu saja dengan sabar sampai staf memeriksa survei Anda. Setelah anda mendapatkan role Fans, maka anda dapat mengikuti tahap selanjutnya.
+Tunggu dengan sabar sampai staf memeriksa survei Anda. Setelah mendapatkan peran Fans, Anda bisa melanjutkan ke tahap selanjutnya.

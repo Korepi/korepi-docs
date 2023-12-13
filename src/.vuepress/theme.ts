@@ -1,6 +1,6 @@
 import { hopeTheme } from "vuepress-theme-hope";
-import { enNavbar, zhNavbar, ruNavbar, idNavbar, esNavbar, viNavbar } from "./navbar/index.js";
-import { enSidebar, zhSidebar, ruSidebar, idSidebar, esSidebar, viSidebar } from "./sidebar/index.js";
+import { enNavbar, zhNavbar, ruNavbar, idNavbar, esNavbar, viNavbar, ptNavbar } from "./navbar/index.js";
+import { enSidebar, zhSidebar, ruSidebar, idSidebar, esSidebar, viSidebar, ptSidebar } from "./sidebar/index.js";
 
 export default hopeTheme({
   hostname: "https://korepi.com/",
@@ -113,6 +113,21 @@ export default hopeTheme({
 
       metaLocales: {
         editLink: "Chỉnh sửa trang này trên GitHub",
+      },
+    },
+    "/pt/": {
+      // navbar
+      navbar: ptNavbar,
+
+      // sidebar
+      sidebar: ptSidebar,
+
+      footer: "Proporciona la mejor experiencia de juego para jugadores de PC en Genshin Impact.",
+
+      displayFooter: true,
+
+      metaLocales: {
+        editLink: "Edita esta pagina en GitHub",
       },
     },
   },

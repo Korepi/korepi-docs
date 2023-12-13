@@ -8,4 +8,6 @@ Allow: /en/rss.xml
 Allow: /zh/rss.xml
 Allow: /id/rss.xml
 Allow: /es/rss.xml
+Allow: /vi/rss.xml
+Allow: /pt/rss.xml
 Allow: /rss.xml

@@ -19,7 +19,7 @@ export const esNavbar = navbar([
         text: "Guías",
         icon: "lightbulb",
         prefix: "guide/",
-        children: ["page", { text: "...", icon: "ellipsis", link: "#" }],
+        children: ["getkey", { text: "...", icon: "ellipsis", link: "#" }],
       },
     ],
   },
