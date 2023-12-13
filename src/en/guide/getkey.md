@@ -1,6 +1,6 @@
 ---
 title: How to get key
-icon: circle-info
+icon: key
 category:
   - Guide
 tag:

@@ -1,6 +1,6 @@
 ---
 title: Skins Personalizadas
-icon: circle-info
+icon: magic-wand-sparkles
 category:
   - Guía
 tag:

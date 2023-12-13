@@ -1,6 +1,6 @@
 ---
 title: How to Multi-Instance
-icon: circle-info
+icon: clone
 category:
   - Guide
 tag:

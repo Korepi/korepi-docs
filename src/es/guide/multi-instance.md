@@ -1,6 +1,6 @@
 ---
 title: Multi-Instancia
-icon: circle-info
+icon: clone 
 category:
   - Guía
 tag:

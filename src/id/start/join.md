@@ -25,18 +25,18 @@ Jika Anda mengalami kesulitan bergabung dengan server, mungkin server sedang dit
 
 1. Klik tanda '+' di menu sebelah kiri.
 
-   [![](https://i.postimg.cc/KYTDHzLR/join1.png)](https://postimg.cc/rd84dqfk)
+   ![Join Server](/assets/images/docs/202312/join1.png)
 
 2. Pilih 'Join a Server'.
 
-   [![](https://i.postimg.cc/7hH1hnR2/join2.png)](https://postimg.cc/0M4KHDPk)
+   ![Join Server](/assets/images/docs/202312/join2.png)
 
 3. Masukkan kata kunci `cottonbuds` pada kotak Invite Link.
 
-   [![](https://i.postimg.cc/NMwkqc7b/join3.png)](https://postimg.cc/67YvnFPG)
+   ![Join Server](/assets/images/docs/202312/join3.png)
 
 4. Baca peraturan server dan setujui.
 
-   [![](https://i.postimg.cc/9FNPXTYD/join4.png)](https://postimg.cc/XpdBQrhW)
+   ![Join Server](/assets/images/docs/202312/join4.png)
 
 Setelah berhasil bergabung di server, lanjutkan ke langkah berikutnya --> [Cara Verifikasi Akun](verify.md)

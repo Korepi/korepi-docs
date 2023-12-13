@@ -1,6 +1,6 @@
 ---
 title: How to use Custom TP
-icon: circle-info
+icon: running
 category:
   - Guide
 tag:

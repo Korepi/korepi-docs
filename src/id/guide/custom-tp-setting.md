@@ -1,6 +1,6 @@
 ---
 title: Cara Menggunakan TP Kustom
-icon: circle-info
+icon: running
 category:
   - Panduan
 tag:

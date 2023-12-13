@@ -1,6 +1,6 @@
 ---
 title: Teletransportes personalizados
-icon: circle-info
+icon: running
 category:
   - Guía
 tag:

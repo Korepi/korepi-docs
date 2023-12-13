@@ -1,6 +1,6 @@
 ---
 title: Panduan
-icon: circle-info
+icon: book
 category:
   - Panduan
 tag:

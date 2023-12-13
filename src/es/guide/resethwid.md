@@ -1,6 +1,6 @@
 ---
 title: Como restablecer HWID
-icon: circle-info
+icon: lock
 category:
   - Guía
 tag:

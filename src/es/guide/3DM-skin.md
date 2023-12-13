@@ -1,6 +1,6 @@
 ---
 title: Instalar Skins
-icon: circle-info
+icon: magic-wand-sparkles
 category:
   - Guía
 tag:
