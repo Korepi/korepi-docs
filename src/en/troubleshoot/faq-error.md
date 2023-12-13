@@ -112,3 +112,7 @@ Restart your PC, restart your router.
 
 Try using a VPN if it doesn't work.
 
+## Failed to detect game version
+
+Update your injector, follow the steps [here](../start/download.md)
+
