@@ -1,6 +1,6 @@
 ---
 title: Guías
-icon: circle-info
+icon: book
 category:
   - Guía
 tag:

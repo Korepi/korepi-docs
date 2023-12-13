@@ -1,6 +1,6 @@
 ---
 title: Lista de errores
-icon: circle-info
+icon: book
 category:
   - Errores
 tag:

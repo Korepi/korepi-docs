@@ -1,6 +1,6 @@
 ---
 title: Cara melakukan reset HWID
-icon: circle-info
+icon: lock
 category:
   - Panduan
 tag:

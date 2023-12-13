@@ -1,6 +1,6 @@
 ---
 title: Inicio
-icon: circle-info
+icon: book
 category:
   - Guía
 tag:

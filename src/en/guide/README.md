@@ -1,6 +1,6 @@
 ---
 title: Guides
-icon: circle-info
+icon: book
 category:
   - Guide
 tag:

@@ -1,6 +1,6 @@
 ---
 title: List of Errors
-icon: circle-info
+icon: book
 category:
   - Troubleshoot
 tag:

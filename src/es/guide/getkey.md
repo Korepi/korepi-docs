@@ -1,6 +1,6 @@
 ---
 title: Como conseguir la Key
-icon: circle-info
+icon: key
 category:
   - Guía
 tag:

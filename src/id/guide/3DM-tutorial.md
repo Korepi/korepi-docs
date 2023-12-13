@@ -1,6 +1,6 @@
 ---
 title: Cara Menggunakan Skins Kustom
-icon: circle-info
+icon: magic-wand-sparkles
 category:
   - Panduan
 tag:
