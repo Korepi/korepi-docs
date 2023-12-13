@@ -1,6 +1,6 @@
 ---
 title: Katalog
-icon: circle-info
+icon: book
 category:
   - Panduan
 tag:

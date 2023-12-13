@@ -1,6 +1,6 @@
 ---
 title: Catalog
-icon: circle-info
+icon: book
 category:
   - Guide
 tag:

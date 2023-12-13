@@ -1,6 +1,6 @@
 ---
 title: Frequent Errors
-icon: server
+icon: info
 category:
   - Guide
 tag:

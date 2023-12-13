@@ -1,6 +1,6 @@
 ---
 title: Cara melakukan Multi-Instance
-icon: circle-info
+icon: clone
 category:
   - Panduan
 tag:

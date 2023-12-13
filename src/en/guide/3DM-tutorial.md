@@ -1,6 +1,6 @@
 ---
 title: How to use custom skins
-icon: circle-info
+icon: magic-wand-sparkles
 category:
   - Guide
 tag:
