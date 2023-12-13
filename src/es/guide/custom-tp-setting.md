@@ -16,7 +16,7 @@ order: 6
 
 Lo configuraremos de la siguiente manera:
 
-![](../../.vuepress/images/teleport.png)
+![](../../.vuepress/images/teleport1.png)
 
 El tiempo de retraso recomendado es de >15s.
 
