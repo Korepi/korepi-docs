@@ -1,5 +1,5 @@
 ---
-title: Frequent Errors
+title: Errores Frecuentes
 icon: server
 category:
   - Errores
