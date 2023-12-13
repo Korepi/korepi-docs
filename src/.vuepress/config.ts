@@ -45,6 +45,11 @@ export default defineUserConfig({
             title: "Korepi",
             description: "Trợ giúp về Korepi",
         },
+        "/pt/": {
+            lang: "pt-PT",
+            title: "Korepi",
+            description: "Ayuda en Korepi"
+        },
     },
     plugins: [
         docsearchPlugin({
@@ -257,7 +262,47 @@ export default defineUserConfig({
                         },
                     },
                 },
-
+                "/pt/": {
+                    placeholder: "Buscar",
+                    translations: {
+                        button: {
+                            buttonText: "Buscar",
+                            buttonAriaLabel: "Buscar",
+                        },
+                        modal: {
+                            searchBox: {
+                                resetButtonTitle: "Limpiar Criterio de Busqueda",
+                                resetButtonAriaLabel: "Limpiar Criterio de Busqueda",
+                                cancelButtonText: "Volver",
+                                cancelButtonAriaLabel: "Volver",
+                            },
+                            startScreen: {
+                                recentSearchesTitle: "Historial de Busqueda",
+                                noRecentSearchesText: "No hay historial de busqueda",
+                                saveRecentSearchButtonTitle: "Guardar en historial de busqueda",
+                                removeRecentSearchButtonTitle: "Quitar del historial de busqueda",
+                                favoriteSearchesTitle: "Favoritos",
+                                removeFavoriteSearchButtonTitle: "Quitar de Favoritos",
+                            },
+                            errorScreen: {
+                                titleText: "No se pudieron recuperar los resultados",
+                                helpText: "Compureba tu conexion de internet y recursos solicitados.",
+                            },
+                            footer: {
+                                selectText: "Seleccionar",
+                                navigateText: "Activar",
+                                closeText: "Cerrar",
+                                searchByText: "Usamos Busqueda",
+                            },
+                            noResultsScreen: {
+                                noResultsText: "No se pudo encontrar nada para su consulta:",
+                                suggestedQueryText: "Puedes pruabr una consulta diferente",
+                                reportMissingResultsText: "¿Crees que esta consulta debería arrojar algunos resultados :> ?",
+                                reportMissingResultsLinkText: "Contactanos",
+                            },
+                        },
+                    },
+                },
             },
         }),
         redirectPlugin({
@@ -271,6 +316,7 @@ export default defineUserConfig({
                 "/id/": ["id-ID", "id"],
                 "/es/": ["es-ES", "es"],
                 "/vi/": ["vi-VN", "vi"],
+                "/pt/": ["pt-PT", "pt-BR", "pt"],
             },
         }),
         googleAnalyticsPlugin({
