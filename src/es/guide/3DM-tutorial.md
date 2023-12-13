@@ -10,6 +10,12 @@ author: Schvis
 order: 4
 ---
 
+## Nota:
+
+### Si en el cmd de GIMI sale `echo off` puedes presionar `Numpad 0` para quitarlo o
+
+### editar `d3dx.ini` y buscar `hunting=` y cambialo a `0`.
+
 ## Como usar skins personalizadas en Korepi
 
 ![](images/example.png)
