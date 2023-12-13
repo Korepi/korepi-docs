@@ -25,8 +25,7 @@ Nếu không có thì bạn có thể nhờ những người sau [Duong](https:/
 Nếu bạn đã donate, bạn có thể gửi ảnh chụp màn hình thanh toán của mình cho bất kỳ Mod nào có sẵn. Vui lòng đảm bảo cung cấp ảnh chụp màn hình hoặc liên kết donate làm bằng chứng.
 Nếu bạn đã nhờ donate thì có thể bỏ qua bước này 
 
-
-[![Screenshot-2023-12-02-213543.png](https://i.postimg.cc/nzQ43BGn/Screenshot-2023-12-02-213543.png)](https://postimg.cc/cg0tHKzz)
+![](/assets/images/docs/202312/proofVI.png)
 ## (Dành cho người chưa có FANS) Làm thế nào để nhận vai trò Người hâm mộ sau khi quyên góp?
 
 Nếu bạn là Nhà tài trợ và không có vai trò Người hâm mộ, bạn có thể bỏ qua quá trình đăng nhập 7 ngày và nhận vai trò này ngay lập tức
