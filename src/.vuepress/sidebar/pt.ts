@@ -1,7 +1,7 @@
 import { sidebar } from "vuepress-theme-hope";
 
-export const esSidebar = sidebar({
-  "/es/": [
+export const ptSidebar = sidebar({
+  "/pt/": [
     "",
     {
       text: "Inicio",
@@ -13,12 +13,6 @@ export const esSidebar = sidebar({
       text: "Guías",
       icon: "book",
       prefix: "guide/",
-      children: "structure",
-    },
-    {
-      text: "Errores",
-      icon: "info-circle",
-      prefix: "troubleshoot/",
       children: "structure",
     },
   ],

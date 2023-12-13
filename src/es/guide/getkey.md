@@ -18,6 +18,8 @@ order: 1
 
 Ve al canal de `★⋅korepi-version-roles⋅★` en el servidor y dale click a `F Auth` para conseguir el rol.
 
+`Nota: Comprueba si tienes el rol, si no lo tienes dale click a F Auth de nuevo`
+
 ### Paso 2: Consigue tu key
 
 Ve al canal de `⁠★⋅micah-bot-verify⋅★` y dale click a `F:Getkey`, el bot te mandara una tabla con información, copia la de Key.
@@ -35,6 +37,8 @@ Disfruta de Korepi!
 ### Paso 1: Consigue el rol de V Auth
 
 Ve al canal de `★⋅korepi-version-roles⋅★` en el servidor y dale click a `V Auth` para conseguir el rol.
+
+`Nota: Comprueba si tienes el rol, si no lo tienes dale click a V Auth de nuevo`
 
 ### Paso 2: Consigue tu `HWID`
 
