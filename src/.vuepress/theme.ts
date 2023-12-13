@@ -152,6 +152,14 @@ export default hopeTheme({
             fullscreen: false,
             showOnce: false,
           },
+          {
+            path: "/en/",
+            title: "Contribute Your Skills",
+            content:
+                "If you have experience in <b>web front-end development</b> and <b>document management</b>, and would like to apply it to this documentation project, you are welcome to <a href='https://github.com/Korepi/korepi-docs'>join us in writing the documentation</a>",
+            fullscreen: false,
+            showOnce: false,
+          }
         ],
       },
     },
