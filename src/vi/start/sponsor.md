@@ -36,21 +36,21 @@ Hoặc điểm danh 3 ngày nếu bạn thích
 
 Để làm được điều đó, bạn cần vào kênh #ticket-start (chỉ hiển thị khi bạn đã có Nhà tài trợ). 
 
-[![](https://i.postimg.cc/NfkzJDyd/openticket1.png)](https://postimg.cc/dLD6D8jC)
+![](/assets/images/docs/202312/openticket1.png)
 
 Sau khi nhấp vào 'mở', bạn sẽ thấy một kênh mới bên dưới kênh ticket.
 
-[![](https://i.postimg.cc/Vk7H1NWM/openticket2.png)](https://postimg.cc/sMhJ4s8D)
+![](/assets/images/docs/202312/openticket2.png)
 
 ### Bước 2: Trả lời khảo sát ngắn
 
 Nhấn nút 'form link' để trả lời khảo sát. Nếu không hiểu hãy dùng Google dịch để làm.
 
-[![](https://i.postimg.cc/qRKm8xVX/openticket4.png)](https://postimg.cc/mzbN4Mrt)
+![](/assets/images/docs/202312/openticket3.png)
 
 Sau khi hoàn thành khảo sát, đừng quên nhấn nút 'Submit'.
 
-[![](https://i.postimg.cc/GpHgp1Xf/openticket5.png)](https://postimg.cc/GBnxM6wP)
+![](/assets/images/docs/202312/openticket4.png)
 
 Sau đó, bạn chỉ cần kiên nhẫn chờ MOD kiểm tra khảo sát của mình. Khoảng 1-10p  
 Sau khi bạn nhận được vai trò Fans của mình, bạn đã sẵn sàng để bắt đầu.

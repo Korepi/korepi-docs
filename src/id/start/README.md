@@ -10,7 +10,7 @@ tag:
 author: rekiihype, Ikuyo
 ---
 
-##  Katalog
+## Katalog
 
 - [Cara Join Server](join.md)
 

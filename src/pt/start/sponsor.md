@@ -22,7 +22,7 @@ Cuando ya estés en el servidor, por favor ve al canal de [#sponsorship](https:/
 
 Si ya has donado, puedes enviarle las pruebas a cualquiera de los moderadores disponibles. Por favor asegúrate de enseñar las capturas o el enlace de donación como prueba
 
-[![](https://i.postimg.cc/3xjf2b38/proof.png)](https://postimg.cc/MnTYS5cN)
+![](/assets/images/docs/202312/proof.png)
 
 ## (PARA NO-FANS) Como reclamar el rol de Fans después de la donación?
 
@@ -32,20 +32,20 @@ Si eres un sponsor y no tienes el rol de Fans, puedes saltarte el sign-in de 7 d
 
 Para hacer eso, necesitas ir al canal de #ticket-start (Solo visible cuando ya tienes Sponsor).
 
-[![](https://i.postimg.cc/NfkzJDyd/openticket1.png)](https://postimg.cc/dLD6D8jC)
+![](/assets/images/docs/202312/openticket1.png)
 
 Cuando le des click a 'open', veras un canal nuevo debajo del canal de tickets.
 
-[![](https://i.postimg.cc/Vk7H1NWM/openticket2.png)](https://postimg.cc/sMhJ4s8D)
+![](/assets/images/docs/202312/openticket2.png)
 
 ### Paso 2: Rellena el formulario
 
 Dale a; botón de 'form link' para rellenar el formulario
 
-[![](https://i.postimg.cc/qRKm8xVX/openticket4.png)](https://postimg.cc/mzbN4Mrt)
+![](/assets/images/docs/202312/openticket3.png)
 
 Una vez terminado el formulario, no te olvides de darle al botón de 'Submit'/
 
-[![](https://i.postimg.cc/GpHgp1Xf/openticket5.png)](https://postimg.cc/GBnxM6wP)
+![](/assets/images/docs/202312/openticket4.png)
 
 Después de eso, espera pacientemente hasta que los staffs revisen tu formulario. Una vez que consigas el rol de Fans, ya estas listo
