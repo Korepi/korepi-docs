@@ -25,7 +25,7 @@ export const enNavbar = navbar([
         text: "Available Features",
         icon: "sitemap",
         prefix: "features/",
-        children: ["", { text: "...", icon: "ellipsis", link: "#" }],
+        children: ["", { text: "", icon: "ellipsis", link: "#" }],
       },
     ],
   },
