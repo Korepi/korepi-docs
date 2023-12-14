@@ -72,14 +72,21 @@ export default hopeTheme({
     "/zh/": {
       // navbar
       navbar: zhNavbar,
-
       // sidebar
       sidebar: zhSidebar,
-
       footer: "为原神 PC 端玩家带来最好的游戏体验",
-
       displayFooter: true,
+      navbarLocales: {
+        /**
+         * 语言下拉列表的无障碍标签
+         */
+        selectLangAriaLabel: "简体中文",
 
+        /**
+         * 当前语言的名称
+         */
+        langName: "简体中文",
+      },
       // page meta
       metaLocales: {
         editLink: "在 GitHub 上编辑此页",
