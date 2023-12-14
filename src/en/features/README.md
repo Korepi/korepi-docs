@@ -14,8 +14,8 @@ author: Schvis
 
 ### - [Auto Activate Teleport (Sponsor)](../feature/aa-tp.md)
 ### - [Auto Challenge](../feature/a-challenge.md)
-### - Auto Cook
-### - Auto Destroy Objects
+### - [Auto Cook](../feature/a-cook.md)
+### - [Auto Destroy Objects](../feature/a-destroy)
 ### - Auto Fish
 ### - Auto Talk
 ### - Auto Tree Farm

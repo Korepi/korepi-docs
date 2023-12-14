@@ -4,7 +4,7 @@ icon: sitemap
 category:
   - Features
 tag:
-  - Start
+  - Auto Activate Teleport
 author: Schvis
 ---
 ## Sponsor Only
