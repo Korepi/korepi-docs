@@ -27,7 +27,7 @@ Anda harus [Ambil Key baru](../guide/getkey.md) di `⁠★⋅micah-bot-verify⋅
 
 ## [DLL injection]  Process crashed, exit code 0xc000005
 
-buka cmd sebagai administrator dan ketik perintah berikut:
+buka `cmd` sebagai administrator dan ketik perintah berikut:
 
 `sfc /scannow`
 
@@ -42,7 +42,7 @@ Jika tidak berhasil, pasang ulang windows.
 
 ## ImGUI: DirectX11 backend initialized successfully.
 
-Masalah terjadi dikarenakan tema, Bersihkan folder tema.
+Masalah terjadi dikarenakan tema, Bersihkan folder `themes`.
 
 ## The system did not detect MSVCP140.dll
 
@@ -74,7 +74,7 @@ Hapus folder colorpicker dan unduh colorpicker lagi.
 
 Pertama pergi ke [SINI](https://support.microsoft.com/en-us/topic/-windows-cannot-access-the-specified-device-path-or-file-error-when-you-try-to-install-update-or-start-a-program-or-file-46361133-47ed-6967-c13e-e75d3cc29657) dan ikuti langkah-lngkah pada website tersebut.
 
-Lalu setelah pergi ke website, unduh anti-virus dan jalankan pemeriksaan penuh sistem!
+Lalu setelah pergi ke website, unduh anti-virus seperti `Dr.Web` atau `Malware bytes` dan jalankan pemeriksaan penuh sistem!
 Jika tidak berhasil, buka cmd sebagai administrator dan ketik `sfc /scannow`
 
 Setelah itu, jika masalah ditemukan, ulang buka komputer dan periksa.
