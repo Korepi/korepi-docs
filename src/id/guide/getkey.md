@@ -1,5 +1,5 @@
 ---
-title: How to get key
+title: Cara Get-Key
 icon: key
 category:
   - Panduan
