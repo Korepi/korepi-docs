@@ -6,15 +6,15 @@ category:
 tag:
   - Buku Pemula
   - Skins
-author: Schvis, Natsume
+author: Schvis, Natsume, Ikuyo
 order: 3
 ---
 
-## Cara Menggunakan Skins Kustom di Korepi
+## Cara Menggunakan Skin Kustom di Korepi
 
 ![](/assets/images/docs/202312/example.png)
 
-Untuk menggunakan skins kustom di sini, kita perlu unduh:
+Untuk menggunakan skin kustom di sini, kita perlu unduh:
 
 `3DMigoto (GIMI)`.
 ## Metode 1
@@ -24,7 +24,7 @@ Unduh `GIMI` di [Github resminya](https://github.com/SilentNightSound/GI-Model-I
 
 ![](/assets/images/docs/202312/3dm-1.png)
 
-## Langkah 2: Ekstrak `GIMI` ke dalam folder
+## Langkah 2: Ekstrak `GIMI` ke Dalam Folder
 
 Setelah mengunduh `GIMI`, ekstrak ke folder pilihanmu, di dalamnya ada `d3d11.dll`, salin path folder dan tambahkan `/d3d11.dll` di ujungnya, contohnya:
 
@@ -47,14 +47,14 @@ Jika langkah-langkah ini diikuti dengan benar, Korepi seharusnya akan terbuka de
 ## Metode 2
 ## Langkah 1: Unduh `GIMI`
 
-Unduh `GIMI` di [Github resminya](https://github.com/SilentNightSound/GI-Model-Importer/releases/tag/v7.0) dan ambil file yang namanya: `3dmigoto-GIMI-for-playing-mods.zip`.
+Unduh `GIMI` di [Github resminya](https://github.com/SilentNightSound/GI-Model-Importer/releases/tag/v7.0) dan ambil berkas yang namanya: `3dmigoto-GIMI-for-playing-mods.zip`.
 
 ![](/assets/images/docs/202312/3dm-1.png)
 
-## Langkah 2: Ekstrak `GIMI` ke dalam folder
+## Langkah 2: Ekstrak `GIMI` ke Dalam Folder
 
-Setelah mengunduh `GIMI`, ekstrak ke folder pilihanmu, di dalamnya ada `3DMigoto Loader.exe`, kita akan menjalankan file ini terlebih dahulu.
+Setelah mengunduh `GIMI`, ekstrak ke folder pilihanmu, di dalamnya ada `3DMigoto Loader.exe`, kita akan menjalankan berkas ini terlebih dahulu.
 
 ## Langkah 3: Buka Korepi
 
-Setelah menjalankan `GIMI`, buka Korepi, `GIMI` akan terbuka dengan Korepi. Catatan, kamu perlu mengulangi langkah-langkah ini setiap kali ingin membuka Korepi dengan `GIMI`.
+Setelah menjalankan `GIMI`, buka Korepi, `GIMI` akan terbuka dengan Korepi. Catatan, kamu perlu mengulangi langkah ini setiap kali ingin membuka Korepi dengan `GIMI`.
