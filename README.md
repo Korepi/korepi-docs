@@ -4,7 +4,7 @@
 - You can always view its live version at https://github.com/Korepi/korepi-docs
 
 # Display address
-[address](https://korepi.com/)
+[address click me](https://korepi.com/)
 
 ## How to Test
 
