@@ -4,6 +4,7 @@ icon: lock
 category:
   - Panduan
 tag:
+  - Buku Pemula
   - Reset HWID
 author: Schvis, Ikuyo, Natsume
 order: 1
@@ -39,7 +40,7 @@ Nikmati Korepi kembali!
 
 Buka `Local(V) injector` untuk mendapatkan HWID, yang akan otomatis tersalin.
 
-### Langkah 2: Cari channel `★⋅micah-bot-verify⋅★`
+### Langkah 2: Cari Saluran `★⋅micah-bot-verify⋅★`
 
 Temukan `★⋅micah-bot-verify⋅★`, klik `V:Change HWID`, lalu masukkan HWID Anda pada jendela yang muncul, tempelkan dan klik `submit`.
 
