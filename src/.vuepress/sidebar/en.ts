@@ -16,6 +16,12 @@ export const enSidebar = sidebar({
       children: "structure",
     },
     {
+      text: "Features",
+      icon: "sitemap",
+      prefix: "features/",
+      children: "structure",
+    },
+    {
       text: "Troubleshoot",
       icon: "info-circle",
       prefix: "troubleshoot/",
