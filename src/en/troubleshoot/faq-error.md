@@ -27,7 +27,7 @@ You need to [get a new key](../guide/getkey.md) from `⁠★⋅micah-bot-verify�
 
 ## [DLL injection]  Process crashed, exit code 0xc000005
 
-Open cmd as administrator and write the following commands:
+Open `cmd` as administrator and write the following command:
 
 `sfc /scannow`
 
@@ -42,7 +42,7 @@ If it doesn't work, reinstall Windows.
 
 ## ImGUI: DirectX11 backend initialized successfully.
 
-Error occurs because of themes, clear the themes folder.
+Error occurs because of themes installed, clear the `themes` folder.
 
 ## The system did not detect MSVCP140.dll
 
@@ -61,8 +61,12 @@ In this case, you can try using `Malware Bytes` or `Dr.Web` to do a full scan, i
 ![](/assets/images/docs/202312/error1.png)
 
 Reboot your router.
-Turn off all applications that affect the firewall. If all else fails, then you have some problems with the network.
-An antivirus may be blocking the connection, make sure it is not in the Task Manager.
+
+An antivirus may be blocking the connection, make sure that is not in the Task Manager.
+
+Use a VPN and try again.
+
+Turn off all applications that affect the firewall. If nothing works, then you might have some problems with the network.
 
 ## DLL Injection failed
 
@@ -74,7 +78,7 @@ Uninstall colorpicker folder and download colorpicker again.
 
 At first go to [HERE](https://support.microsoft.com/en-us/topic/-windows-cannot-access-the-specified-device-path-or-file-error-when-you-try-to-install-update-or-start-a-program-or-file-46361133-47ed-6967-c13e-e75d3cc29657) and follow the steps on that post.
 
-Also after going to the solutions below download an antivirus and run a full system check!
+Also after going to the solutions on the post, download an antivirus like `Dr.Web` or `Malware bytes` and run a full system check!
 
 If it doesn't help open cmd as administrator and write `sfc /scannow`
 
@@ -84,7 +88,7 @@ If after restarting it didn't help or no errors were found, write this command:
 
 `DISM.exe /Online /Cleanup-Image /RestoreHealth`
 
-After completing the checks, restart the computer and check.
+After completing the checks, restart the computer and check again.
 
 If it doesn't work, reinstall Windows.
 
@@ -107,4 +111,8 @@ Delete `cfg.ini`.
 Restart your PC, restart your router.
 
 Try using a VPN if it doesn't work.
+
+## Failed to detect game version
+
+Update your injector, follow the steps [here](../start/download.md)
 

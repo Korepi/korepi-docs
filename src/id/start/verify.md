@@ -37,4 +37,4 @@ Untuk menjaga keamanan server, sangat penting bagi Anda untuk melakukan verifika
 
    ![Verify](/assets/images/docs/202312/verify4.png)
 
-Setelah berhasil diverifikasi, bot akan memberikan Anda role `Newcomer`. Dengan peran ini, Anda tidak akan diusir oleh bot tanpa alasan yang jelas. Silakan lanjut ke langkah berikutnya.
+Setelah berhasil diverifikasi, bot akan memberikan Anda role `Newcomer`. Dengan role ini, Anda tidak akan diusir oleh bot tanpa alasan yang jelas. Silakan lanjut ke langkah berikutnya.

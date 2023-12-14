@@ -105,3 +105,6 @@ Reinicia tu router y ordenador.
 
 Usa un VPN si sigue sin funcionar.
 
+## Failed to detect game version
+
+Actualiza tu mod siguiendo [estos](../start/download.md) pasos.
