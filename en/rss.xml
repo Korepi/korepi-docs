@@ -6,8 +6,8 @@
     <link>https://korepi.com/en/</link>
     <description>Help on Korepi</description>
     <language>en-US</language>
-    <pubDate>Thu, 14 Dec 2023 09:19:22 GMT</pubDate>
-    <lastBuildDate>Thu, 14 Dec 2023 09:19:22 GMT</lastBuildDate>
+    <pubDate>Thu, 14 Dec 2023 09:19:27 GMT</pubDate>
+    <lastBuildDate>Thu, 14 Dec 2023 09:19:27 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Guide</category>
@@ -76,7 +76,7 @@
 <p>You need to <a href="/en/guide/getkey.html" target="blank">get a new key</a> from <code>⁠★⋅micah-bot-verify⋅★</code>, if you can't get a key or if the key doesn't work, you have to wait till key expiration.</p>
 <p><code>Sponsors can use F:Reset Key instead</code></p>
 <h2> [DLL injection]  Process crashed, exit code 0xc000005</h2>
-<p>Open cmd as administrator and write the following commands:</p>
+<p>Open <code>cmd</code> as administrator and write the following command:</p>
 <p><code>sfc /scannow</code></p>
 <p>After that, if errors were found, restart the computer and check.
 If after restarting it did not help or no errors were found, write this command:</p>
@@ -84,7 +84,7 @@ If after restarting it did not help or no errors were found, write this command:
 <p>After completing the checks, restart the computer and check.</p>
 <p>If it doesn't work, reinstall Windows.</p>
 <h2> ImGUI: DirectX11 backend initialized successfully.</h2>
-<p>Error occurs because of themes, clear the themes folder.</p>
+<p>Error occurs because of themes installed, clear the <code>themes</code> folder.</p>
 <h2> The system did not detect MSVCP140.dll</h2>
 <p>Update <a href="https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170#visual-studio-2015-2017-2019-and-2022" target="_blank" rel="noopener noreferrer">Microsoft Visual Studio C++</a></p>
 <p>Update <a href="https://www.microsoft.com/en-us/download/details.aspx?id=35" target="_blank" rel="noopener noreferrer">DirectX</a></p>
@@ -93,20 +93,21 @@ If after restarting it did not help or no errors were found, write this command:
 <p>In this case, you can try using <code>Malware Bytes</code> or <code>Dr.Web</code> to do a full scan, if any virus is found, remove them, restart and try again. If it doesn't work, reinstall Windows is the easiest way to solve this issue.</p>
 <h2> Timeout was reached</h2>
 <p><img src="/assets/images/docs/202312/error1.png" alt="" loading="lazy"></p>
-<p>Reboot your router.
-Turn off all applications that affect the firewall. If all else fails, then you have some problems with the network.
-An antivirus may be blocking the connection, make sure it is not in the Task Manager.</p>
+<p>Reboot your router.</p>
+<p>An antivirus may be blocking the connection, make sure that is not in the Task Manager.</p>
+<p>Use a VPN and try again.</p>
+<p>Turn off all applications that affect the firewall. If nothing works, then you might have some problems with the network.</p>
 <h2> DLL Injection failed</h2>
 <p>Uninstall colorpicker folder and download colorpicker again.</p>
 <h2> Windows cannot access the specified device, path, or file</h2>
 <p><img src="/assets/images/docs/202312/error2.png" alt="" loading="lazy"></p>
 <p>At first go to <a href="https://support.microsoft.com/en-us/topic/-windows-cannot-access-the-specified-device-path-or-file-error-when-you-try-to-install-update-or-start-a-program-or-file-46361133-47ed-6967-c13e-e75d3cc29657" target="_blank" rel="noopener noreferrer">HERE</a> and follow the steps on that post.</p>
-<p>Also after going to the solutions below download an antivirus and run a full system check!</p>
+<p>Also after going to the solutions on the post, download an antivirus like <code>Dr.Web</code> or <code>Malware bytes</code> and run a full system check!</p>
 <p>If it doesn't help open cmd as administrator and write <code>sfc /scannow</code></p>
 <p>After that, if errors were found, restart the computer and check.</p>
 <p>If after restarting it didn't help or no errors were found, write this command:</p>
 <p><code>DISM.exe /Online /Cleanup-Image /RestoreHealth</code></p>
-<p>After completing the checks, restart the computer and check.</p>
+<p>After completing the checks, restart the computer and check again.</p>
 <p>If it doesn't work, reinstall Windows.</p>
 <h2> Signature checksum failed</h2>
 <p><img src="/assets/images/docs/202312/checksum.png" alt="" loading="lazy"></p>
@@ -118,6 +119,8 @@ An antivirus may be blocking the connection, make sure it is not in the Task Man
 <p><img src="/assets/images/docs/202312/error4.png" alt="" loading="lazy"></p>
 <p>Restart your PC, restart your router.</p>
 <p>Try using a VPN if it doesn't work.</p>
+<h2> Failed to detect game version</h2>
+<p>Update your injector, follow the steps <a href="/en/start/download.html" target="blank">here</a></p>
 ]]></content:encoded>
       <enclosure url="https://korepi.com/assets/images/docs/202312/virus.png" type="image/png"/>
     </item>

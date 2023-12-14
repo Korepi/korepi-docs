@@ -6,8 +6,8 @@
     <link>https://korepi.com/es/</link>
     <description>Ayuda en Korepi</description>
     <language>es-ES</language>
-    <pubDate>Thu, 14 Dec 2023 09:19:22 GMT</pubDate>
-    <lastBuildDate>Thu, 14 Dec 2023 09:19:22 GMT</lastBuildDate>
+    <pubDate>Thu, 14 Dec 2023 09:19:27 GMT</pubDate>
+    <lastBuildDate>Thu, 14 Dec 2023 09:19:27 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Guía</category>
@@ -115,6 +115,8 @@
 <p><img src="/assets/images/docs/202312/error4.png" alt="" loading="lazy"></p>
 <p>Reinicia tu router y ordenador.</p>
 <p>Usa un VPN si sigue sin funcionar.</p>
+<h2> Failed to detect game version</h2>
+<p>Actualiza tu mod siguiendo <a href="/es/start/download.html" target="blank">estos</a> pasos.</p>
 ]]></content:encoded>
       <enclosure url="https://korepi.com/assets/images/docs/202312/virus.png" type="image/png"/>
     </item>
