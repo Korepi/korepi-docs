@@ -6,12 +6,44 @@
     <link>https://korepi.com/id/</link>
     <description>Pertolongan Korepi</description>
     <language>id-ID</language>
-    <pubDate>Thu, 14 Dec 2023 09:19:27 GMT</pubDate>
-    <lastBuildDate>Thu, 14 Dec 2023 09:19:27 GMT</lastBuildDate>
+    <pubDate>Thu, 14 Dec 2023 14:18:45 GMT</pubDate>
+    <lastBuildDate>Thu, 14 Dec 2023 14:18:45 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-    <category>Solusi</category>
     <category>Panduan</category>
+    <category>Solusi</category>
+    <item>
+      <title>Cara Get-Key</title>
+      <link>https://korepi.com/id/guide/getkey.html</link>
+      <guid>https://korepi.com/id/guide/getkey.html</guid>
+      <source url="https://korepi.com/id/rss.xml">Cara Get-Key</source>
+      <description>Cara Get-Key untuk Online Auth (F) Langkah 1: Dapatkan Role F Auth Buka menu ★⋅korepi-version-roles⋅★ di server dan klik F Auth untuk mendapatkan role tersebut. Catatan: Periksa...</description>
+      <category>Panduan</category>
+      <pubDate>Thu, 14 Dec 2023 11:12:15 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Cara Get-Key untuk Online Auth (F)</h2>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/-9bXOMH0-WM" title="Korepi - Cara Mendapatkan Kunci V" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+<h3> Langkah 1: Dapatkan Role F Auth</h3>
+<p>Buka menu <code>★⋅korepi-version-roles⋅★</code> di server dan klik <code>F Auth</code> untuk mendapatkan role tersebut.</p>
+<p><code>Catatan: Periksa apakah Anda mendapatkan role tersebut; jika tidak, klik F Auth lagi.</code></p>
+<h3> Langkah 2: Dapatkan Key Anda</h3>
+<p>Buka menu <code>⁠★⋅micah-bot-verify⋅★</code> dan klik <code>F:Getkey</code>, bot akan membalas dengan beberapa informasi termasuk kunci, salin <code>Key</code> tersebut.</p>
+<h3> Langkah 3: Gunakan Key Anda</h3>
+<p>Buka Korepi, saat diminta untuk <code>key</code>, tempelkan <code>key</code> tersebut dan tekan enter. Ikuti langkah-langkah yang disebutkan oleh injector, dan seharusnya Anda siap menggunakan Korepi.</p>
+<p>Nikmati Korepi!</p>
+<h2> Cara Get-Key untuk Lokal Auth (V)</h2>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/OTCSboZdexc" title="Korepi - Cara Mendapatkan Kunci V" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+<h3> Langkah 1: Dapatkan Role V Auth</h3>
+<p>Buka menu <code>★⋅korepi-version-roles⋅★</code> di server dan klik <code>V Auth</code> untuk mendapatkan role tersebut.</p>
+<p><code>Catatan: Periksa apakah Anda mendapatkan role tersebut; jika tidak, klik V Auth lagi.</code></p>
+<h3> Langkah 2: Dapatkan <code>HWID</code> Anda</h3>
+<p>Untuk mendapatkan <code>HWID</code> Anda, buka <code>Local(V) Injector</code> sekali, dan itu akan menyalinnya ke clipboard Anda.</p>
+<h3> Langkah 3: Dapatkan <code>enc.json</code> Anda</h3>
+<p>Buka menu <code>⁠★⋅micah-bot-verify⋅★</code> dan klik <code>V:Verify</code>, sebuah popup akan meminta <code>HWID</code> Anda, tempelkan dan klik <code>Submit</code>, lalu unduh file yang dikirim oleh bot.</p>
+<h3> Langkah 4: Tempatkan file Anda di Korepi</h3>
+<p>Setelah mendapatkan file, letakkan di folder Korepi Anda. Ingatlah bahwa file tersebut harus dinamai <code>enc.json</code> agar berfungsi. Buka Korepi dan kemudian:</p>
+<p>Nikmati Korepi!</p>
+]]></content:encoded>
+    </item>
     <item>
       <title>Masalah 31-4302</title>
       <link>https://korepi.com/id/troubleshoot/31-4302.html</link>
@@ -343,11 +375,14 @@ Catatan: Pastikan berkas tersebut bernama <code>enc.json</code>.</p>
       <link>https://korepi.com/id/guide/</link>
       <guid>https://korepi.com/id/guide/</guid>
       <source url="https://korepi.com/id/rss.xml">Panduan</source>
-      <description>Katalog Cara Reset HWID (resethwid.md); Cara Multi-instance (multi-instance.md); Cara Menggunakan Skin Kustom (3DM-tutorial.md); Cara Mengunduh Skin Kustom (3DM-skin.md); Cara M...</description>
+      <description>Katalog Cara Get-Key (getkey.md); Cara Reset HWID (resethwid.md); Cara Multi-instance (multi-instance.md); Cara Menggunakan Skin Kustom (3DM-tutorial.md); Cara Mengunduh Skin Ku...</description>
       <category>Panduan</category>
       <pubDate>Sun, 26 Nov 2023 15:29:27 GMT</pubDate>
       <content:encoded><![CDATA[<h2> Katalog</h2>
 <ul>
+<li>
+<p><a href="/id/guide/getkey.html" target="blank">Cara Get-Key</a></p>
+</li>
 <li>
 <p><a href="/id/guide/resethwid.html" target="blank">Cara Reset HWID</a></p>
 </li>
