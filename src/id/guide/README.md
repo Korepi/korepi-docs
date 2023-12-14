@@ -10,6 +10,8 @@ author: rekiihype, Ikuyo, Natsume
 
 ## Katalog
 
+- [Cara Get-Key](getkey.md)
+
 - [Cara Reset HWID](resethwid.md)
 
 - [Cara Multi-instance](multi-instance.md)
