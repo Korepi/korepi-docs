@@ -35,4 +35,4 @@ Alternatifnya, Anda bisa mendapatkan role `Fans` secara gratis tanpa harus menja
 
 ![Sign-in](/assets/images/docs/202312/signin4.png)
 
-Selamat, Anda kini telah berhasil mendapatkan role sebagai `Fans`.
+Selamat, Anda kini telah berhasil mendapatkan role `Fans`.
