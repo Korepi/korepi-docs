@@ -6,8 +6,8 @@
     <link>https://korepi.com/zh/</link>
     <description>Korepi 中文文档介绍</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 14 Dec 2023 17:00:22 GMT</pubDate>
-    <lastBuildDate>Thu, 14 Dec 2023 17:00:22 GMT</lastBuildDate>
+    <pubDate>Fri, 15 Dec 2023 05:23:12 GMT</pubDate>
+    <lastBuildDate>Fri, 15 Dec 2023 05:23:12 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Guide</category>
@@ -65,7 +65,7 @@
       <link>https://korepi.com/zh/troubleshoot/faq-error.html</link>
       <guid>https://korepi.com/zh/troubleshoot/faq-error.html</guid>
       <source url="https://korepi.com/zh/rss.xml">常见错误列表</source>
-      <description>常见错误列表 为什么我的Korepi消失了？ 确保您的防病毒软件已停用，创建一个新文件夹并将其添加到排除列表中。 在排除列表中解压Korepi并重新运行。 状态：未发现活跃订阅，无效的许可密钥 您需要从“⁠★⋅micah-bot-verify⋅★”处获取一个新密钥 (../guide/getkey.md)，如果无法获取密钥或密钥无效，您必须等待密钥到期...</description>
+      <description>常见错误列表 为什么我的Korepi消失了？ 确保您的防病毒软件已停用，创建一个新文件夹并将其添加到排除列表中。 在排除列表中解压Korepi并重新运行。 状态：未发现活跃订阅，无效的许可密钥 您需要从“⁠★⋅micah-bot-verify⋅★”处获取一个新密钥 (../guide/key-use.md)，如果无法获取密钥或密钥无效，您必须等待密钥到...</description>
       <category>Guide</category>
       <pubDate>Wed, 13 Dec 2023 18:38:23 GMT</pubDate>
       <content:encoded><![CDATA[<h2> 常见错误列表</h2>
@@ -74,7 +74,7 @@
 <p><img src="/assets/images/docs/202312/virus.png" alt="" loading="lazy"></p>
 <p>在排除列表中解压Korepi并重新运行。</p>
 <h2> 状态：未发现活跃订阅，无效的许可密钥</h2>
-<p>您需要从“⁠★⋅micah-bot-verify⋅★”处<a href="/zh/guide/getkey.html" target="blank">获取一个新密钥</a>，如果无法获取密钥或密钥无效，您必须等待密钥到期。</p>
+<p>您需要从“⁠★⋅micah-bot-verify⋅★”处<a href="/zh/guide/key-use.html" target="blank">获取一个新密钥</a>，如果无法获取密钥或密钥无效，您必须等待密钥到期。</p>
 <p><code>赞助商可以使用 F:Reset Key 代替</code></p>
 <h2> [DLL注入] 进程崩溃，退出码为0xc000005</h2>
 <p>以管理员身份打开命令提示符并输入以下命令：</p>

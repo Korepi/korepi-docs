@@ -6,12 +6,290 @@
     <link>https://korepi.com/es/</link>
     <description>Ayuda en Korepi</description>
     <language>es-ES</language>
-    <pubDate>Thu, 14 Dec 2023 17:00:22 GMT</pubDate>
-    <lastBuildDate>Thu, 14 Dec 2023 17:00:22 GMT</lastBuildDate>
+    <pubDate>Fri, 15 Dec 2023 05:23:12 GMT</pubDate>
+    <lastBuildDate>Fri, 15 Dec 2023 05:23:12 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+    <category>Funciones</category>
     <category>Guía</category>
     <category>Errores</category>
+    <item>
+      <title>Auto Activar Teletransporte</title>
+      <link>https://korepi.com/es/features/Mundo/auto-activate-tp.html</link>
+      <guid>https://korepi.com/es/features/Mundo/auto-activate-tp.html</guid>
+      <source url="https://korepi.com/es/rss.xml">Auto Activar Teletransporte</source>
+      <description>Solo para Sponsor Auto Activar Teletransporte, activa teletransportes cercanos hasta 50 metros, mira el siguiente video como ejemplo:</description>
+      <category>Funciones</category>
+      <pubDate>Fri, 15 Dec 2023 01:56:25 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Solo para Sponsor</h2>
+<h3> Auto Activar Teletransporte, activa teletransportes cercanos hasta 50 metros, mira el siguiente video como ejemplo:</h3>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/qstBErr9mJ0?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - AutoActivateTP (Sponsor)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Auto Desafió</title>
+      <link>https://korepi.com/es/features/Mundo/auto-challenge.html</link>
+      <guid>https://korepi.com/es/features/Mundo/auto-challenge.html</guid>
+      <source url="https://korepi.com/es/rss.xml">Auto Desafió</source>
+      <description>Auto Desafió completa los desafiós de tiempo activos con un rango personalizado y retreaso personalizado, mira el siguiente video como ejemplo: Nota: No se recomienda usar con r...</description>
+      <category>Funciones</category>
+      <pubDate>Fri, 15 Dec 2023 01:56:25 GMT</pubDate>
+      <content:encoded><![CDATA[<h3> Auto Desafió completa los desafiós de tiempo activos con un rango personalizado y retreaso personalizado, mira el siguiente video como ejemplo:</h3>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/7JNegfQiK2U?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Challenge" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+<blockquote>
+<p>Nota: No se recomienda usar con retrasos bajos y rangos altos.</p>
+</blockquote>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Auto Cocinar</title>
+      <link>https://korepi.com/es/features/Mundo/auto-cook.html</link>
+      <guid>https://korepi.com/es/features/Mundo/auto-cook.html</guid>
+      <source url="https://korepi.com/es/rss.xml">Auto Cocinar</source>
+      <description>Auto Cocinar deja que cocines automaticamente la cantidad deseada de la comida seleccionada, puedes elegir calidad, cantidad y completar la maestría, mira el siguiente video com...</description>
+      <category>Funciones</category>
+      <pubDate>Fri, 15 Dec 2023 01:56:25 GMT</pubDate>
+      <content:encoded><![CDATA[<h3> Auto Cocinar deja que cocines automaticamente la cantidad deseada de la comida seleccionada, puedes elegir calidad, cantidad y completar la maestría, mira el siguiente video como ejemplo:</h3>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/T_X13AXiAiY?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Cook" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>]]></content:encoded>
+    </item>
+    <item>
+      <title>Auto Destruir Objetos</title>
+      <link>https://korepi.com/es/features/Mundo/auto-destroy.html</link>
+      <guid>https://korepi.com/es/features/Mundo/auto-destroy.html</guid>
+      <source url="https://korepi.com/es/rss.xml">Auto Destruir Objetos</source>
+      <description>Auto Destruir Objetos te permite destruir objetos como cofres, plantas, escudos, minerales y más automaticamente con rangos personalizados. Video de Ejemplo: Note: Recommended v...</description>
+      <category>Funciones</category>
+      <pubDate>Fri, 15 Dec 2023 01:56:25 GMT</pubDate>
+      <content:encoded><![CDATA[<h3> Auto Destruir Objetos te permite destruir objetos como cofres, plantas, escudos, minerales y más automaticamente con rangos personalizados.</h3>
+<h2> Video de Ejemplo:</h2>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/3ML6s3SR8nE?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Destroy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+<blockquote>
+<p>Note: Recommended value is below <code>20m</code>, not recommended to use at max range (<code>40m</code>)</p>
+</blockquote>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Auto Pescar</title>
+      <link>https://korepi.com/es/features/Mundo/auto-fish.html</link>
+      <guid>https://korepi.com/es/features/Mundo/auto-fish.html</guid>
+      <source url="https://korepi.com/es/rss.xml">Auto Pescar</source>
+      <description>Auto Pescar permite que te saltes la animación de pesca, mira el siguiente video como ejemplo: Nota: Auto Re-lanza caña no funciona por ahora.</description>
+      <category>Funciones</category>
+      <pubDate>Fri, 15 Dec 2023 01:56:25 GMT</pubDate>
+      <content:encoded><![CDATA[<h3> Auto Pescar permite que te saltes la animación de pesca, mira el siguiente video como ejemplo:</h3>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/K_l4Tg-81iQ?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Fish" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+<blockquote>
+<p>Nota: Auto Re-lanza caña no funciona por ahora.</p>
+</blockquote>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Auto Recoger</title>
+      <link>https://korepi.com/es/features/Mundo/auto-loot.html</link>
+      <guid>https://korepi.com/es/features/Mundo/auto-loot.html</guid>
+      <source url="https://korepi.com/es/rss.xml">Auto Recoger</source>
+      <description>Auto Recoger te permite recoger materiales como plantas, cofres, drops y más con rangos y retrasos personalizados, mira el siguiente video como ejemplo: Nota: Se recomienda usar...</description>
+      <category>Funciones</category>
+      <pubDate>Fri, 15 Dec 2023 01:56:25 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Auto Recoger te permite recoger materiales como plantas, cofres, drops y más con rangos y retrasos personalizados, mira el siguiente video como ejemplo:</h2>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/wUyI2XO_Z4E?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Loot" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+<blockquote>
+<p>Nota: Se recomienda usar por debajo de <code>10m</code> para uso normal y menos de <code>20m</code> si usas teletransportes personalizados.
+Nota 2: Mayor la distancia mayor el retraso.</p>
+</blockquote>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Auto Seelie</title>
+      <link>https://korepi.com/es/features/Mundo/auto-seelie.html</link>
+      <guid>https://korepi.com/es/features/Mundo/auto-seelie.html</guid>
+      <source url="https://korepi.com/es/rss.xml">Auto Seelie</source>
+      <description>Auto Seelie quita la necesidad de seguir al seelie hasta su estatua, ira sola cuando te acerques, mira el siguiente video como ejemplo:</description>
+      <category>Funciones</category>
+      <pubDate>Fri, 15 Dec 2023 01:56:25 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Auto Seelie quita la necesidad de seguir al seelie hasta su estatua, ira sola cuando te acerques, mira el siguiente video como ejemplo:</h2>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/uETIJ4KS39M?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Seelie" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>]]></content:encoded>
+    </item>
+    <item>
+      <title>Auto Conversar</title>
+      <link>https://korepi.com/es/features/Mundo/auto-talk.html</link>
+      <guid>https://korepi.com/es/features/Mundo/auto-talk.html</guid>
+      <source url="https://korepi.com/es/rss.xml">Auto Conversar</source>
+      <description>Auto Conversar: Habla automaticamente con los NPCs Dialogo Rápido: Acelera el juego haciendo que el dialogo sea más rápido.; Nota: No se recomienda por encima de 5. Saltar Dialo...</description>
+      <category>Funciones</category>
+      <pubDate>Fri, 15 Dec 2023 01:56:25 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Auto Conversar: Habla automaticamente con los NPCs</h2>
+<h3> Dialogo Rápido:</h3>
+<ul>
+<li>Acelera el juego haciendo que el dialogo sea más rápido.</li>
+</ul>
+<blockquote>
+<p>Nota: No se recomienda por encima de <code>5</code>.</p>
+</blockquote>
+<h3> Saltar Dialogo (Sponsor):</h3>
+<ul>
+<li>Salta el dialogo con un retraso personalizado. Es más seguro que Dialogo Rápido.</li>
+</ul>
+<blockquote>
+<p>Nota: No se recomienda user por debajo de <code>200ms</code></p>
+</blockquote>
+<h3> Escenas Rápidas:</h3>
+<ul>
+<li>Acelera el juego haciendo que la escena sea más rápida.</li>
+</ul>
+<blockquote>
+<p>Nota: No se recomienda usar por encima de <code>5</code>.</p>
+</blockquote>
+<h3> Saltar Conversaciones:</h3>
+<ul>
+<li>Salta las escenas de conversacion en curso o cuando empiezan.</li>
+</ul>
+<blockquote>
+<p>Nota: Puede dar pantalla negra a veces.</p>
+</blockquote>
+<h3> Saltar Escenas:</h3>
+<ul>
+<li>Salta las escenas de video en curso o cuando empiezan.</li>
+</ul>
+<blockquote>
+<p>Nota: Puede dar pantalla negra a veces.</p>
+</blockquote>
+<h2> Video de Ejemplo:</h2>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/IS0BvLLO1xc?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - AutoTalk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Auto Madera</title>
+      <link>https://korepi.com/es/features/Mundo/auto-tree-farm.html</link>
+      <guid>https://korepi.com/es/features/Mundo/auto-tree-farm.html</guid>
+      <source url="https://korepi.com/es/rss.xml">Auto Madera</source>
+      <description>Auto Madera permite golpear arboles cercanos para conseguir madera con rango, golpes y retraso personalizado, mira el siguiente video como ejemplo: Nota: No se recomienda cambia...</description>
+      <category>Funciones</category>
+      <pubDate>Fri, 15 Dec 2023 01:56:25 GMT</pubDate>
+      <content:encoded><![CDATA[<h3> Auto Madera permite golpear arboles cercanos para conseguir madera con rango, golpes y retraso personalizado, mira el siguiente video como ejemplo:</h3>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/v95_NOxc4do?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Tree Farm" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+<blockquote>
+<p>Nota: No se recomienda cambiar los valores.</p>
+</blockquote>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Aura Elemental</title>
+      <link>https://korepi.com/es/features/Mundo/elemental-aura.html</link>
+      <guid>https://korepi.com/es/features/Mundo/elemental-aura.html</guid>
+      <source url="https://korepi.com/es/rss.xml">Aura Elemental</source>
+      <description>Solo para Sponsor Aura Elemental aplica elementos a ti mismo, monstruos u objetos cercanos, tanto los elementos, el rango y el retraso se pueden personalizar, se puede usar más ...</description>
+      <category>Funciones</category>
+      <pubDate>Fri, 15 Dec 2023 01:56:25 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Solo para Sponsor</h2>
+<h3> Aura Elemental aplica elementos a ti mismo, monstruos u objetos cercanos, tanto los elementos, el rango y el retraso se pueden personalizar, se puede usar más de un elemento, mira el siguiente video como ejemplo:</h3>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/FskTJiknOgQ?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Elemental Aura (Sponsor)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+<blockquote>
+<p>Nota: Un retraso bajo aumentara la probabilidad de detección.</p>
+</blockquote>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Velocidad del Juego</title>
+      <link>https://korepi.com/es/features/Mundo/game-speed.html</link>
+      <guid>https://korepi.com/es/features/Mundo/game-speed.html</guid>
+      <source url="https://korepi.com/es/rss.xml">Velocidad del Juego</source>
+      <description>Velocidad del Juego. Acelera o ralentiza el juego. No me lo esperaba. Note: Not recommended to use outside of menus, or in general. Video de Ejemplo:</description>
+      <category>Funciones</category>
+      <pubDate>Fri, 15 Dec 2023 01:56:25 GMT</pubDate>
+      <content:encoded><![CDATA[<h3> Velocidad del Juego. Acelera o ralentiza el juego. No me lo esperaba.</h3>
+<blockquote>
+<p>Note: Not recommended to use outside of menus, or in general.</p>
+</blockquote>
+<h2> Video de Ejemplo:</h2>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/MzXhudYkaDg?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Game Speed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>]]></content:encoded>
+    </item>
+    <item>
+      <title>Kill Aura</title>
+      <link>https://korepi.com/es/features/Mundo/kill-aura.html</link>
+      <guid>https://korepi.com/es/features/Mundo/kill-aura.html</guid>
+      <source url="https://korepi.com/es/rss.xml">Kill Aura</source>
+      <description>Kill Aura: Inflige daño a los enemigos cercanos Modo de daño de caida: Inflige daño a los enemigos cercanos con rangos, retrasos y daños personalizados.; Nota: No se recomienda ...</description>
+      <category>Funciones</category>
+      <pubDate>Fri, 15 Dec 2023 01:56:25 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Kill Aura: Inflige daño a los enemigos cercanos</h2>
+<h1> Nota: Esta función tiene alto riesgo de ban.</h1>
+<h3> Modo de daño de caida:</h3>
+<ul>
+<li>Inflige daño a los enemigos cercanos con rangos, retrasos y daños personalizados.</li>
+</ul>
+<blockquote>
+<p>Nota: No se recomienda usar valores muy altos.</p>
+</blockquote>
+<h3> Modo Porcentaje:</h3>
+<ul>
+<li>Numero de golpes que se necesita para matar a un enemigo.</li>
+</ul>
+<blockquote>
+<p>Nota: Se recomienda usar <code>3</code> o más.</p>
+</blockquote>
+<h3> Vida Restante:</h3>
+<ul>
+<li>Elegir si dejar al enemigo con vida o no.</li>
+</ul>
+<h3> Modo de Muerte Instantánea:</h3>
+<ul>
+<li>Intentara ejecutar al enemigo.</li>
+</ul>
+<blockquote>
+<p>Nota: Might get buggy with some bosses.
+Nota 2: No se recomienda usar.</p>
+</blockquote>
+<h3> Solo Agresivos:</h3>
+<ul>
+<li>Elegir si atacar solo a enemigos agresivos o a todos</li>
+</ul>
+<h2> Video de Ejemplo:</h2>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/NiAh00VBy-w?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Kill Aura" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Succión de Mobs</title>
+      <link>https://korepi.com/es/features/Mundo/mob-vacuum.html</link>
+      <guid>https://korepi.com/es/features/Mundo/mob-vacuum.html</guid>
+      <source url="https://korepi.com/es/rss.xml">Succión de Mobs</source>
+      <description>Succión de Mobs acerca a los enemigos con un rango y velocidad personalizados, mira el siguiente video como ejemplo: Nota: Se recomienda usar por debajo de 20m.</description>
+      <category>Funciones</category>
+      <pubDate>Fri, 15 Dec 2023 01:56:25 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Succión de Mobs acerca a los enemigos con un rango y velocidad personalizados, mira el siguiente video como ejemplo:</h2>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/KNzVgG_V10I?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Mob Vacuum" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+<blockquote>
+<p>Nota: Se recomienda usar por debajo de <code>20m</code>.</p>
+</blockquote>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Succión de Botín</title>
+      <link>https://korepi.com/es/features/Mundo/vacuum-loot.html</link>
+      <guid>https://korepi.com/es/features/Mundo/vacuum-loot.html</guid>
+      <source url="https://korepi.com/es/rss.xml">Succión de Botín</source>
+      <description>Succión de Botín acerca a los drops con un rango y velocidad personalizados, mira el siguiente video como ejemplo: Nota: Se recomienda usar por debajo de 20m.</description>
+      <category>Funciones</category>
+      <pubDate>Fri, 15 Dec 2023 01:56:25 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Succión de Botín acerca a los drops con un rango y velocidad personalizados, mira el siguiente video como ejemplo:</h2>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/iMElTsNF77c?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Vacuum Loot" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+<blockquote>
+<p>Nota: Se recomienda usar por debajo de <code>20m</code>.</p>
+</blockquote>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Lista de Funciones</title>
+      <link>https://korepi.com/es/features/</link>
+      <guid>https://korepi.com/es/features/</guid>
+      <source url="https://korepi.com/es/rss.xml">Lista de Funciones</source>
+      <description>Lista de Funciones disponibles En la proxima sección podremos encontrar las funciones disponibles hasta el momento con videos incluidos.</description>
+      <category>Funciones</category>
+      <pubDate>Fri, 15 Dec 2023 01:52:31 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Lista de Funciones disponibles</h2>
+<h3> En la proxima sección podremos encontrar las funciones disponibles hasta el momento con videos incluidos.</h3>
+]]></content:encoded>
+    </item>
     <item>
       <title>Error 31-4302</title>
       <link>https://korepi.com/es/troubleshoot/31-4302.html</link>
