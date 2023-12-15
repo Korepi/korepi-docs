@@ -19,7 +19,7 @@ author: Schvis
 ### Left HP:
 - Whether or not to leave the specified amount of HP to surrounding enemies.
 ### Instant Death Mode:
-- Will try yo make the enemy disappear
+- Will try to make the enemy disappear
 > Note: Might get buggy with some bosses.
 > Note 2: Not recommended to use.
 ### Only Hostile/Aggro:

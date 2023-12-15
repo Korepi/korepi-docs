@@ -14,7 +14,7 @@ author: rekiihype, Ikuyo, Natsume
 
 - [Cara Reset HWID](resethwid.md)
 
-- [Cara Multi-instance](multi-instance.md)
+- [Cara Multi-Instance](multi-instance.md)
 
 - [Cara Menggunakan Skin Kustom](3DM-tutorial.md)
 
