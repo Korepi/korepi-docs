@@ -1,10 +1,10 @@
 ---
-title: List of Features
+title: Lista de Funciones
 icon: sitemap
 category:
-  - Features
+  - Funciones
 tag:
-  - Start
+  - Inicio
 author: Schvis
 ---
 
