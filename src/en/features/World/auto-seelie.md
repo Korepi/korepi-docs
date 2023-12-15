@@ -1,10 +1,10 @@
 ---
-title: Auto Loot
+title: Auto Seelie
 icon: sitemap
 category:
   - Features
 tag:
-  - Auto Loot
+  - Auto Seelie
 author: Schvis
 ---
 
