@@ -6,8 +6,8 @@
     <link>https://korepi.com/id/</link>
     <description>Pertolongan Korepi</description>
     <language>id-ID</language>
-    <pubDate>Fri, 15 Dec 2023 05:23:12 GMT</pubDate>
-    <lastBuildDate>Fri, 15 Dec 2023 05:23:12 GMT</lastBuildDate>
+    <pubDate>Fri, 15 Dec 2023 18:29:05 GMT</pubDate>
+    <lastBuildDate>Fri, 15 Dec 2023 18:29:05 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Panduan</category>
@@ -17,31 +17,31 @@
       <link>https://korepi.com/id/guide/getkey.html</link>
       <guid>https://korepi.com/id/guide/getkey.html</guid>
       <source url="https://korepi.com/id/rss.xml">Cara Get-Key</source>
-      <description>Cara Get-Key untuk Online Auth (F) Langkah 1: Dapatkan Role F Auth Buka menu ★⋅korepi-version-roles⋅★ di server dan klik F Auth untuk mendapatkan role tersebut. Catatan: Periksa...</description>
+      <description>Cara Get-Key untuk Online Auth (F) Langkah 1: Dapatkan Role F Auth Pergi ke saluran ★⋅korepi-version-roles⋅★ di server dan klik F Auth untuk mendapatkan role tersebut. Catatan: ...</description>
       <category>Panduan</category>
       <pubDate>Thu, 14 Dec 2023 11:12:15 GMT</pubDate>
       <content:encoded><![CDATA[<h2> Cara Get-Key untuk Online Auth (F)</h2>
 <iframe width="640" height="360" src="https://www.youtube.com/embed/-9bXOMH0-WM" title="Korepi - Cara Mendapatkan Kunci V" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 <h3> Langkah 1: Dapatkan Role F Auth</h3>
-<p>Buka menu <code>★⋅korepi-version-roles⋅★</code> di server dan klik <code>F Auth</code> untuk mendapatkan role tersebut.</p>
+<p>Pergi ke saluran <code>★⋅korepi-version-roles⋅★</code> di server dan klik <code>F Auth</code> untuk mendapatkan role tersebut.</p>
 <p><code>Catatan: Periksa apakah Anda mendapatkan role tersebut; jika tidak, klik F Auth lagi.</code></p>
 <h3> Langkah 2: Dapatkan Key Anda</h3>
-<p>Buka menu <code>⁠★⋅micah-bot-verify⋅★</code> dan klik <code>F:Getkey</code>, bot akan membalas dengan beberapa informasi termasuk kunci, salin <code>Key</code> tersebut.</p>
+<p>Pergi ke saluran <code>⁠★⋅micah-bot-verify⋅★</code> dan klik <code>F:Get Key</code>, bot akan membalas dengan beberapa informasi termasuk kunci, salin <code>Key</code> tersebut.</p>
 <h3> Langkah 3: Gunakan Key Anda</h3>
-<p>Buka Korepi, saat diminta untuk <code>key</code>, tempelkan <code>key</code> tersebut dan tekan enter. Ikuti langkah-langkah yang disebutkan oleh injector, dan seharusnya Anda siap menggunakan Korepi.</p>
-<p>Nikmati Korepi!</p>
+<p>Buka Korepi, saat diminta untuk <code>key</code>, tempelkan <code>key</code> tersebut dan tekan <code>enter</code>. Ikuti langkah-langkah yang disebutkan oleh injector, dan seharusnya Anda siap menggunakan Korepi.</p>
+<p>Selamat menikmati Korepi!</p>
 <h2> Cara Get-Key untuk Lokal Auth (V)</h2>
 <iframe width="640" height="360" src="https://www.youtube.com/embed/OTCSboZdexc" title="Korepi - Cara Mendapatkan Kunci V" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 <h3> Langkah 1: Dapatkan Role V Auth</h3>
-<p>Buka menu <code>★⋅korepi-version-roles⋅★</code> di server dan klik <code>V Auth</code> untuk mendapatkan role tersebut.</p>
+<p>Pergi ke saluran <code>★⋅korepi-version-roles⋅★</code> di server dan klik <code>V Auth</code> untuk mendapatkan role tersebut.</p>
 <p><code>Catatan: Periksa apakah Anda mendapatkan role tersebut; jika tidak, klik V Auth lagi.</code></p>
 <h3> Langkah 2: Dapatkan <code>HWID</code> Anda</h3>
-<p>Untuk mendapatkan <code>HWID</code> Anda, buka <code>Local(V) Injector</code> sekali, dan itu akan menyalinnya ke clipboard Anda.</p>
+<p>Untuk mendapatkan <code>HWID</code> Anda, buka <code>Local(V) Injector</code> sekali, dan HWID akan secara otomatis menyalinnya ke clipboard Anda.</p>
 <h3> Langkah 3: Dapatkan <code>enc.json</code> Anda</h3>
-<p>Buka menu <code>⁠★⋅micah-bot-verify⋅★</code> dan klik <code>V:Verify</code>, sebuah popup akan meminta <code>HWID</code> Anda, tempelkan dan klik <code>Submit</code>, lalu unduh file yang dikirim oleh bot.</p>
-<h3> Langkah 4: Tempatkan file Anda di Korepi</h3>
-<p>Setelah mendapatkan file, letakkan di folder Korepi Anda. Ingatlah bahwa file tersebut harus dinamai <code>enc.json</code> agar berfungsi. Buka Korepi dan kemudian:</p>
-<p>Nikmati Korepi!</p>
+<p>Pergi ke saluran <code>⁠★⋅micah-bot-verify⋅★</code> dan klik <code>V:Verify</code>, sebuah jendela akan meminta Anda memasukkan <code>HWID</code>, tempelkan dan klik <code>Submit</code>, lalu unduh berkas yang dikirim oleh bot.</p>
+<h3> Langkah 4: Tempatkan Berkas Anda di Korepi</h3>
+<p>Setelah mendapatkan berkas, letakkan di folder Korepi Anda. Ingatlah bahwa berkas tersebut harus bernama <code>enc.json</code> agar berfungsi, buka Korepi kembali.</p>
+<p>Selamat menikmati Korepi!</p>
 ]]></content:encoded>
     </item>
     <item>
