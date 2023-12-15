@@ -6,8 +6,8 @@
     <link>https://korepi.com/en/</link>
     <description>Help on Korepi</description>
     <language>en-US</language>
-    <pubDate>Fri, 15 Dec 2023 18:29:21 GMT</pubDate>
-    <lastBuildDate>Fri, 15 Dec 2023 18:29:21 GMT</lastBuildDate>
+    <pubDate>Fri, 15 Dec 2023 18:29:40 GMT</pubDate>
+    <lastBuildDate>Fri, 15 Dec 2023 18:29:40 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Features</category>
@@ -30,10 +30,10 @@ Note 2: Higher the distance higher delay should be used.</p>
 ]]></content:encoded>
     </item>
     <item>
-      <title>Auto Loot</title>
+      <title>Auto Seelie</title>
       <link>https://korepi.com/en/features/World/auto-seelie.html</link>
       <guid>https://korepi.com/en/features/World/auto-seelie.html</guid>
-      <source url="https://korepi.com/en/rss.xml">Auto Loot</source>
+      <source url="https://korepi.com/en/rss.xml">Auto Seelie</source>
       <description>Auto Seelie removes the necesity of the player to follow the seelie constantly, seelie with go to the designed destination when the player gets close, check out the next video f...</description>
       <category>Features</category>
       <pubDate>Fri, 15 Dec 2023 00:02:48 GMT</pubDate>

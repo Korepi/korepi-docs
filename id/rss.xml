@@ -6,12 +6,291 @@
     <link>https://korepi.com/id/</link>
     <description>Pertolongan Korepi</description>
     <language>id-ID</language>
-    <pubDate>Fri, 15 Dec 2023 18:29:21 GMT</pubDate>
-    <lastBuildDate>Fri, 15 Dec 2023 18:29:21 GMT</lastBuildDate>
+    <pubDate>Fri, 15 Dec 2023 18:29:40 GMT</pubDate>
+    <lastBuildDate>Fri, 15 Dec 2023 18:29:40 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+    <category>Fitur</category>
     <category>Panduan</category>
     <category>Solusi</category>
+    <item>
+      <title>Daftar Fitur</title>
+      <link>https://korepi.com/id/features/</link>
+      <guid>https://korepi.com/id/features/</guid>
+      <source url="https://korepi.com/id/rss.xml">Daftar Fitur</source>
+      <description>Daftar Fitur Di bagian berikut, Anda akan menemukan daftar fitur yang dibagi berdasarkan kategori, dengan video contoh dan rekomendasi.</description>
+      <category>Fitur</category>
+      <pubDate>Fri, 15 Dec 2023 14:22:50 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Daftar Fitur</h2>
+<h3> Di bagian berikut, Anda akan menemukan daftar fitur yang dibagi berdasarkan kategori, dengan video contoh dan rekomendasi.</h3>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Auto Activated Waypoints</title>
+      <link>https://korepi.com/id/features/World/auto-activate-tp.html</link>
+      <guid>https://korepi.com/id/features/World/auto-activate-tp.html</guid>
+      <source url="https://korepi.com/id/rss.xml">Auto Activated Waypoints</source>
+      <description>Hanya Untuk Sponsor! Auto Activated Waypoints mengaktifkan teleport waypoints terdekat hingga jarak 50m, lihat video berikut untuk melihat cara kerjanya:</description>
+      <category>Fitur</category>
+      <pubDate>Fri, 15 Dec 2023 14:22:50 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Hanya Untuk Sponsor!</h2>
+<h3> Auto Activated Waypoints mengaktifkan teleport waypoints terdekat hingga jarak 50m, lihat video berikut untuk melihat cara kerjanya:</h3>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/qstBErr9mJ0?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - AutoActivateTP (Sponsor)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>]]></content:encoded>
+    </item>
+    <item>
+      <title>Auto Challenge</title>
+      <link>https://korepi.com/id/features/World/auto-challenge.html</link>
+      <guid>https://korepi.com/id/features/World/auto-challenge.html</guid>
+      <source url="https://korepi.com/id/rss.xml">Auto Challenge</source>
+      <description>Auto Challenge memungkinkan Anda menyelesaikan tantangan dengan waktu tertentu yang sedang aktif dalam rentang jarak dan waktu tunda yang telah ditentukan, Anda dapat mengkonfig...</description>
+      <category>Fitur</category>
+      <pubDate>Fri, 15 Dec 2023 14:22:50 GMT</pubDate>
+      <content:encoded><![CDATA[<h3> Auto Challenge memungkinkan Anda menyelesaikan tantangan dengan waktu tertentu yang sedang aktif dalam rentang jarak dan waktu tunda yang telah ditentukan, Anda dapat mengkonfigurasikan ini sesuai keinginan, lihat video berikut untuk contohnya:</h3>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/7JNegfQiK2U?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Challenge" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+<blockquote>
+<p>Catatan: Tidak disarankan untuk digunakan dengan waktu penundaan yang rendah dan rentang jarak yang jauh!.</p>
+</blockquote>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Auto Cook</title>
+      <link>https://korepi.com/id/features/World/auto-cook.html</link>
+      <guid>https://korepi.com/id/features/World/auto-cook.html</guid>
+      <source url="https://korepi.com/id/rss.xml">Auto Cook</source>
+      <description>Auto Cook memungkinkan Anda untuk memasak dalam jumlah dan kualitas makanan yang dipilih secara otomatis di halaman memasak, dilengkapi dengan keahlian otomatis (Auto unlock aut...</description>
+      <category>Fitur</category>
+      <pubDate>Fri, 15 Dec 2023 14:22:50 GMT</pubDate>
+      <content:encoded><![CDATA[<h3> Auto Cook memungkinkan Anda untuk memasak dalam jumlah dan kualitas makanan yang dipilih secara otomatis di halaman memasak, dilengkapi dengan keahlian otomatis (Auto unlock auto cook) bawaan. Lihat video berikut untuk contohnya:</h3>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/T_X13AXiAiY?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Cook" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>]]></content:encoded>
+    </item>
+    <item>
+      <title>Auto Destroy Objects</title>
+      <link>https://korepi.com/id/features/World/auto-destroy.html</link>
+      <guid>https://korepi.com/id/features/World/auto-destroy.html</guid>
+      <source url="https://korepi.com/id/rss.xml">Auto Destroy Objects</source>
+      <description>Auto Destroy Objects memungkinkan Anda menghancurkan objek yang dapat disesuaikan dalam jangkauan tertentu, termasuk bahan tambang, tanaman, tumpukan batu, peti, objek khusus, p...</description>
+      <category>Fitur</category>
+      <pubDate>Fri, 15 Dec 2023 14:22:50 GMT</pubDate>
+      <content:encoded><![CDATA[<h3> Auto Destroy Objects memungkinkan Anda menghancurkan objek yang dapat disesuaikan dalam jangkauan tertentu, termasuk bahan tambang, tanaman, tumpukan batu, peti, objek khusus, perisai, dan lainnya.</h3>
+<h2> Video contoh:</h2>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/3ML6s3SR8nE?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Destroy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+<blockquote>
+<p>Catatan: Angka yang direkomendasikan adalah di bawah 20m, tidak disarankan untuk menggunakan jarak jangkau diatas maksimal (40m).</p>
+</blockquote>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Auto Fish</title>
+      <link>https://korepi.com/id/features/World/auto-fish.html</link>
+      <guid>https://korepi.com/id/features/World/auto-fish.html</guid>
+      <source url="https://korepi.com/id/rss.xml">Auto Fish</source>
+      <description>Auto fish memungkinkan Anda untuk melewati animasi menangkap ikan, yang pasti akan mengurangi waktu yang dibutuhkan untuk menangkap ikan. Lihat video berikut untuk contohnya: Ca...</description>
+      <category>Fitur</category>
+      <pubDate>Fri, 15 Dec 2023 14:22:50 GMT</pubDate>
+      <content:encoded><![CDATA[<h3> Auto fish memungkinkan Anda untuk melewati animasi menangkap ikan, yang pasti akan mengurangi waktu yang dibutuhkan untuk menangkap ikan. Lihat video berikut untuk contohnya:</h3>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/K_l4Tg-81iQ?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Fish" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+<blockquote>
+<p>Catatan: Auto Recast tidak berfungsi saat pembuatan catatan ini.</p>
+</blockquote>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Auto Loot</title>
+      <link>https://korepi.com/id/features/World/auto-loot.html</link>
+      <guid>https://korepi.com/id/features/World/auto-loot.html</guid>
+      <source url="https://korepi.com/id/rss.xml">Auto Loot</source>
+      <description>Auto loot memungkinkan Anda mengumpulkan barang jarahan secara otomatis dalam jangkauan dan waktu jeda yang dipilih. Jarahan yang akan dikumpulkan dapat disesuaikan, termasuk pe...</description>
+      <category>Fitur</category>
+      <pubDate>Fri, 15 Dec 2023 14:22:50 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Auto loot memungkinkan Anda mengumpulkan barang jarahan secara otomatis dalam jangkauan dan waktu jeda yang dipilih. Jarahan yang akan dikumpulkan dapat disesuaikan, termasuk peti, hasil kematian musuh, dan lainnya. Lihat video berikut untuk contohnya:</h2>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/wUyI2XO_Z4E?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Loot" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+<blockquote>
+<p>catatan: Disarankan jarak dibawah  <code>10m</code> untuk penggunaan normal dan <code>20m</code> jika menggunakan <code>custom tp</code>.
+Catatan 2: Jika menggunakan jarak yang jauh maka waktu jeda yang lama juga di perlukan!.</p>
+</blockquote>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Auto Seelie</title>
+      <link>https://korepi.com/id/features/World/auto-seelie.html</link>
+      <guid>https://korepi.com/id/features/World/auto-seelie.html</guid>
+      <source url="https://korepi.com/id/rss.xml">Auto Seelie</source>
+      <description>Auto Seelie menghilangkan kebutuhan pemain untuk terus mengikuti Seelie. Seelie akan menuju tujuan yang ditentukan saat pemain mendekat. Lihat video berikut untuk contohnya: Cat...</description>
+      <category>Fitur</category>
+      <pubDate>Fri, 15 Dec 2023 14:22:50 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Auto Seelie menghilangkan kebutuhan pemain untuk terus mengikuti Seelie. Seelie akan menuju tujuan yang ditentukan saat pemain mendekat. Lihat video berikut untuk contohnya:</h2>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/uETIJ4KS39M?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Seelie" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+<blockquote>
+<p>Catatan: Jarak jangkau antara Pemain dan Seelie adalah <code>100m</code>.</p>
+</blockquote>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Auto Talk</title>
+      <link>https://korepi.com/id/features/World/auto-talk.html</link>
+      <guid>https://korepi.com/id/features/World/auto-talk.html</guid>
+      <source url="https://korepi.com/id/rss.xml">Auto Talk</source>
+      <description>Auto Talk: Fitur Berdialog dengan NPC secara otomatis Fast Dialog: Mempercepat game dengan pilihan angka tertentu yang akan membuat dialog lebih cepat.; Catatan: Tidak disaranka...</description>
+      <category>Fitur</category>
+      <pubDate>Fri, 15 Dec 2023 14:22:50 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Auto Talk: Fitur Berdialog dengan NPC secara otomatis</h2>
+<h3> Fast Dialog:</h3>
+<ul>
+<li>Mempercepat game dengan pilihan angka tertentu yang akan membuat dialog lebih cepat.</li>
+</ul>
+<blockquote>
+<p>Catatan: Tidak disarankan menggunakan nilai diatas <code>5</code>.</p>
+</blockquote>
+<h3> Skip Dialog (Sponsor!):</h3>
+<ul>
+<li>Melewati dialog dengan waktu jeda yang telah di tentukan. Lebih aman dari pada <code>Fast Dialog</code>.</li>
+</ul>
+<blockquote>
+<p>Catatan: Tidak disarankan menggunakan nilai dibawah <code>200ms</code>.</p>
+</blockquote>
+<h3> Fast Cutscene:</h3>
+<ul>
+<li>Mempercepat game dengan pilihan angka tertentu yang akan membuat cutscene lebih cepat.</li>
+</ul>
+<blockquote>
+<p>Catatan: Tidak disarankan menggunakan nilai diatas <code>5</code>.</p>
+</blockquote>
+<h3> Skip Talk Scenes:</h3>
+<ul>
+<li>Melewati adegan percakapan jika tertrigger atau sedang berlangsung.</li>
+</ul>
+<blockquote>
+<p>Catatan: Blackscreen kemungkinan akan terjadi jika menggunakan fitur ini.</p>
+</blockquote>
+<h3> Skip Cutscene:</h3>
+<ul>
+<li>Melewati cutscene jika tertrigger atau sedang berlangsung.</li>
+</ul>
+<blockquote>
+<p>Catatan: Blackscreen kemungkinan akan terjadi jika menggunakan fitur ini.</p>
+</blockquote>
+<h2> Video Contoh:</h2>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/IS0BvLLO1xc?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - AutoTalk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>]]></content:encoded>
+    </item>
+    <item>
+      <title>Auto Tree Farm</title>
+      <link>https://korepi.com/id/features/World/auto-tree-farm.html</link>
+      <guid>https://korepi.com/id/features/World/auto-tree-farm.html</guid>
+      <source url="https://korepi.com/id/rss.xml">Auto Tree Farm</source>
+      <description>Auto Tree Farm memungkinkan Anda untuk memukul pohon-pohon di sekitar secara otomatis dengan nilai dan waktu jeda yang dipilih, sehingga mendapatkan kayu secara otomatis dari po...</description>
+      <category>Fitur</category>
+      <pubDate>Fri, 15 Dec 2023 14:22:50 GMT</pubDate>
+      <content:encoded><![CDATA[<h3> Auto Tree Farm memungkinkan Anda untuk memukul pohon-pohon di sekitar secara otomatis dengan nilai dan waktu jeda yang dipilih, sehingga mendapatkan kayu secara otomatis dari pohon-pohon di sekitar. Lihat video berikut untuk contohnya:</h3>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/v95_NOxc4do?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Tree Farm" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+<blockquote>
+<p>Catatan: Tidak disarankan mengubah nilai bawaan.</p>
+</blockquote>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Elemental Aura</title>
+      <link>https://korepi.com/id/features/World/elemental-aura.html</link>
+      <guid>https://korepi.com/id/features/World/elemental-aura.html</guid>
+      <source url="https://korepi.com/id/rss.xml">Elemental Aura</source>
+      <description>Hanya Untuk Sponsor! Elemental Aura menerapkan elemen dengan elemen tertentu, jarak jangkau, dan waktu jeda yang ditentukan ke target, objek, atau diri Anda sendiri. Beberapa el...</description>
+      <category>Fitur</category>
+      <pubDate>Fri, 15 Dec 2023 14:22:50 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Hanya Untuk Sponsor!</h2>
+<h3> Elemental Aura menerapkan elemen dengan elemen tertentu, jarak jangkau, dan waktu jeda yang ditentukan ke target, objek, atau diri Anda sendiri. Beberapa elemen dapat diterapkan pada target terdekat. Lihat video berikut sebagai contoh:</h3>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/FskTJiknOgQ?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Elemental Aura (Sponsor)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+<blockquote>
+<p>Catatan: Waktu jeda yang rendah akan meningkatkan peluang anda terdeteksi!.</p>
+</blockquote>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Game Speed</title>
+      <link>https://korepi.com/id/features/World/game-speed.html</link>
+      <guid>https://korepi.com/id/features/World/game-speed.html</guid>
+      <source url="https://korepi.com/id/rss.xml">Game Speed</source>
+      <description>Game Speed. Mempercepat atau memperlambat game. Tak terduga!. Catatan: Tidak disarankan untuk digunakan di luar menu atau secara umum. Video Contoh:</description>
+      <category>Fitur</category>
+      <pubDate>Fri, 15 Dec 2023 14:22:50 GMT</pubDate>
+      <content:encoded><![CDATA[<h3> Game Speed. Mempercepat atau memperlambat game. Tak terduga!.</h3>
+<blockquote>
+<p>Catatan: Tidak disarankan untuk digunakan di luar menu atau secara umum.</p>
+</blockquote>
+<h2> Video Contoh:</h2>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/MzXhudYkaDg?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Game Speed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>]]></content:encoded>
+    </item>
+    <item>
+      <title>Kill Aura</title>
+      <link>https://korepi.com/id/features/World/kill-aura.html</link>
+      <guid>https://korepi.com/id/features/World/kill-aura.html</guid>
+      <source url="https://korepi.com/id/rss.xml">Kill Aura</source>
+      <description>Kill Aura: Memberikan kerusakan kepada musuh di sekitar. Crash Damage mode: Memberikan fall damage kepada musuh di sekitar dengan nilai, waktu jeda, dan jarak jangkau tertentu.;...</description>
+      <category>Fitur</category>
+      <pubDate>Fri, 15 Dec 2023 14:22:50 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Kill Aura: Memberikan kerusakan kepada musuh di sekitar.</h2>
+<h1> Catatan: Fitur ini memiliki risiko tinggi terkena ban.</h1>
+<h3> Crash Damage mode:</h3>
+<ul>
+<li>Memberikan fall damage kepada musuh di sekitar dengan nilai, waktu jeda, dan jarak jangkau tertentu.</li>
+</ul>
+<blockquote>
+<p>Catatan: Tidak disarankan menggunakan nilai yang sangat tinggi.</p>
+</blockquote>
+<h3> Percent Mode:</h3>
+<ul>
+<li>Jumlah hit yang diperlukan untuk membunuh musuh.</li>
+</ul>
+<blockquote>
+<p>Catatan: Disarankan menggunakan nilai 3 atau lebih tinggi.</p>
+</blockquote>
+<h3> Left HP:</h3>
+<ul>
+<li>Menentukan apakah akan menyisakan jumlah HP tertentu kepada musuh di sekitar.</li>
+</ul>
+<h3> Instant Death Mode:</h3>
+<ul>
+<li>Akan mencoba membuat musuh menghilang</li>
+</ul>
+<blockquote>
+<p>Catatan: Mungkin bermasalah dengan beberapa boss.
+Catatan 2: Tidak disarankan untuk digunakan.</p>
+</blockquote>
+<h3> Only Hostile/Aggro:</h3>
+<ul>
+<li>Menentukan apakah hanya menargetkan hostile mobs.</li>
+</ul>
+<h2> Video Contoh:</h2>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/NiAh00VBy-w?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Kill Aura" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>]]></content:encoded>
+    </item>
+    <item>
+      <title>Mob Vacuum</title>
+      <link>https://korepi.com/id/features/World/mob-vacuum.html</link>
+      <guid>https://korepi.com/id/features/World/mob-vacuum.html</guid>
+      <source url="https://korepi.com/id/rss.xml">Mob Vacuum</source>
+      <description>Mob Vacuum memindahkan makhluk hidup yang dekat ke pemain dengan kecepatan dan jarak jangkau yang dipilih, makhluk hidup yang akan terpengaruh dapat disesuaikan. Lihat video ber...</description>
+      <category>Fitur</category>
+      <pubDate>Fri, 15 Dec 2023 14:22:50 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Mob Vacuum memindahkan makhluk hidup yang dekat ke pemain dengan kecepatan dan jarak jangkau yang dipilih, makhluk hidup yang akan terpengaruh dapat disesuaikan. Lihat video berikut sebagai contoh:</h2>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/KNzVgG_V10I?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Mob Vacuum" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+<blockquote>
+<p>Catatan: Disarankan di bawah <code>20m</code>.</p>
+</blockquote>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Vacuum Loot</title>
+      <link>https://korepi.com/id/features/World/vacuum-loot.html</link>
+      <guid>https://korepi.com/id/features/World/vacuum-loot.html</guid>
+      <source url="https://korepi.com/id/rss.xml">Vacuum Loot</source>
+      <description>Vacuum Loot memindahkan drop-item di sekitar ke pemain dengan jarak jangkau dan waktu jeda yang ditentukan. Lihat video berikut sebagai contoh: Catatan: Disarankan di bawah 20m.</description>
+      <category>Fitur</category>
+      <pubDate>Fri, 15 Dec 2023 14:22:50 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Vacuum Loot memindahkan drop-item di sekitar ke pemain dengan jarak jangkau dan waktu jeda yang ditentukan. Lihat video berikut sebagai contoh:</h2>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/iMElTsNF77c?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Vacuum Loot" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+<blockquote>
+<p>Catatan: Disarankan di bawah <code>20m</code>.</p>
+</blockquote>
+]]></content:encoded>
+    </item>
     <item>
       <title>Cara Get-Key</title>
       <link>https://korepi.com/id/guide/getkey.html</link>
