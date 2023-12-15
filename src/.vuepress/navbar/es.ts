@@ -21,6 +21,12 @@ export const esNavbar = navbar([
         prefix: "guide/",
         children: ["getkey", { text: "...", icon: "ellipsis", link: "#" }],
       },
+      {
+        text: "Funciones Disponibles",
+        icon: "sitemap",
+        prefix: "features/",
+        children: ["", { text: "", icon: "ellipsis", link: "#" }],
+      },
     ],
   },
 ]);

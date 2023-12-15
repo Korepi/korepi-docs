@@ -16,6 +16,12 @@ export const esSidebar = sidebar({
       children: "structure",
     },
     {
+      text: "Lista de Funciones",
+      icon: "info-circle",
+      prefix: "features/",
+      children: "structure",
+    },
+    {
       text: "Errores",
       icon: "info-circle",
       prefix: "troubleshoot/",
