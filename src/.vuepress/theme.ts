@@ -113,7 +113,10 @@ export default hopeTheme({
 
       // sidebar
       sidebar: viSidebar,
+      selectLangAriaLabel: "Tiếng Việt",
 
+
+      langName: "Tiếng Việt",
       footer: "Cung cấp trải nghiệm chơi game tốt nhất cho người chơi Genshin Impact trên PC.",
 
       displayFooter: true,
