@@ -6,22 +6,403 @@
     <link>https://korepi.com/en/</link>
     <description>Help on Korepi</description>
     <language>en-US</language>
-    <pubDate>Fri, 15 Dec 2023 18:29:40 GMT</pubDate>
-    <lastBuildDate>Fri, 15 Dec 2023 18:29:40 GMT</lastBuildDate>
+    <pubDate>Sat, 16 Dec 2023 04:36:14 GMT</pubDate>
+    <lastBuildDate>Sat, 16 Dec 2023 04:36:14 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Features</category>
     <category>Guide</category>
     <category>Troubleshoot</category>
     <item>
+      <title>Bunny Hop</title>
+      <link>https://korepi.com/en/features/Player/bunny-hop.html</link>
+      <guid>https://korepi.com/en/features/Player/bunny-hop.html</guid>
+      <source url="https://korepi.com/en/rss.xml">Bunny Hop</source>
+      <description>Sponsor Only Bunny Hop will jump automatically after first jump when enabled. Example Video:</description>
+      <category>Features</category>
+      <pubDate>Sat, 16 Dec 2023 02:00:44 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Sponsor Only</h2>
+<h2> Bunny Hop will jump automatically after first jump when enabled.</h2>
+<h2> Example Video:</h2>
+<iframe width="640" height="369" src="https://www.youtube.com/embed/Gh2GX23E6dw?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Bunnyhop (Sponsor)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>]]></content:encoded>
+    </item>
+    <item>
+      <title>Attack Effects</title>
+      <link>https://korepi.com/en/features/Player/attack-effects.html</link>
+      <guid>https://korepi.com/en/features/Player/attack-effects.html</guid>
+      <source url="https://korepi.com/en/rss.xml">Attack Effects</source>
+      <description>Attack Effects: Modifications for your attacks Multi-Hit Mode: One Punch Mode: Tries to kill the target with 1 hit.; Note: Not recommended to use. Modifies the number of attacks...</description>
+      <category>Features</category>
+      <pubDate>Sat, 16 Dec 2023 01:57:57 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Attack Effects: Modifications for your attacks</h2>
+<h3> Multi-Hit Mode:</h3>
+<ul>
+<li>One Punch Mode: Tries to kill the target with 1 hit.</li>
+</ul>
+<blockquote>
+<p>Note: Not recommended to use.</p>
+</blockquote>
+<ul>
+<li>Modifies the number of attacks recieved by the target.</li>
+</ul>
+<blockquote>
+<p>Note: Not recommended to go above <code>5</code>.</p>
+</blockquote>
+<h3> Multi-Target:</h3>
+<ul>
+<li>Hit all the targets within the selected radius from the target hit.</li>
+</ul>
+<blockquote>
+<p>Note: Not recommended to change default settings.</p>
+</blockquote>
+<h3> Multi-Animation:</h3>
+<ul>
+<li>Modifies the number of times the character does an action.</li>
+</ul>
+<blockquote>
+<p>Note: Not recommended to use.</p>
+</blockquote>
+<h3> Attack Speed:</h3>
+<ul>
+<li>Modifies the speed of the normal attacks from the player.</li>
+</ul>
+<blockquote>
+<p>Note: Not recommended to use above <code>1.5</code>.</p>
+</blockquote>
+<h3> Custom Element:</h3>
+<ul>
+<li>Modifies the element of all outcoming attacks.</li>
+</ul>
+<h3> Infuse Element:</h3>
+<ul>
+<li>Modifies the element of normal attacks from sword, polearm and claymore.</li>
+</ul>
+<h3> Auto Weakspot:</h3>
+<ul>
+<li>Hits target weakspot therefore criting, only works with bow users.</li>
+</ul>
+<h3> Critical Hit (Sponsor):</h3>
+<ul>
+<li>Changes the probability of critical hits.</li>
+</ul>
+<h3> Nullify Incoming Element:</h3>
+<ul>
+<li>Will nullify any incoming element converting it to physical damage instead.</li>
+</ul>
+<h2> Example Video:</h2>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/1BdKwxBjWyg?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Attack Effects" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>]]></content:encoded>
+    </item>
+    <item>
+      <title>Auto Run</title>
+      <link>https://korepi.com/en/features/Player/auto-run.html</link>
+      <guid>https://korepi.com/en/features/Player/auto-run.html</guid>
+      <source url="https://korepi.com/en/rss.xml">Auto Run</source>
+      <description>Auto Run will move the player to the direction the player is facing automatically. Example Video:</description>
+      <category>Features</category>
+      <pubDate>Sat, 16 Dec 2023 01:57:57 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Auto Run will move the player to the direction the player is facing automatically.</h2>
+<h2> Example Video:</h2>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/BLDhPBMs7Es?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Run" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Cooldown Effects</title>
+      <link>https://korepi.com/en/features/Player/cooldown-effects.html</link>
+      <guid>https://korepi.com/en/features/Player/cooldown-effects.html</guid>
+      <source url="https://korepi.com/en/rss.xml">Cooldown Effects</source>
+      <description>Cooldown Effects: Modifies the cooldown time of various actions. Max Burst Energy: Removes the requirement needed to use elemental bursts.; Note: Energy bubble may appear incomp...</description>
+      <category>Features</category>
+      <pubDate>Sat, 16 Dec 2023 01:57:57 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Cooldown Effects: Modifies the cooldown time of various actions.</h2>
+<h3> Max Burst Energy:</h3>
+<ul>
+<li>Removes the requirement needed to use elemental bursts.</li>
+</ul>
+<blockquote>
+<p>Note: Energy bubble may appear incomplete but will be stil usable.</p>
+</blockquote>
+<h3> No Avatar Skill Cooldown: Removes the cooldown for character skill and burst.</h3>
+<ul>
+<li>Reduce Skill/Burst Cooldown: When activated instead of removing the cooldown, it will be set to the selected values if the cooldown is higher than the value selected.</li>
+</ul>
+<blockquote>
+<p>Note: You can use any value for CD, but don't spam it too hard. <code>ex. 40 times in 1m</code></p>
+</blockquote>
+<h3> No Sprint Cooldown:</h3>
+<ul>
+<li>Removes the delay between sprints.</li>
+</ul>
+<h3> Instant Charged Attack:</h3>
+<ul>
+<li>Bow: Removes the charge time for bow users.</li>
+<li>Other: Removes the charge time for other weapon users.</li>
+</ul>
+<h3> No Vehicle Skill Cooldown:</h3>
+<ul>
+<li>Removes the cooldown for the boat skills.</li>
+</ul>
+<h2> Example Video:</h2>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/qv5ykSL3Ojw?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Cooldown Effects" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>]]></content:encoded>
+    </item>
+    <item>
+      <title>Extra Movements</title>
+      <link>https://korepi.com/en/features/Player/extra-movements.html</link>
+      <guid>https://korepi.com/en/features/Player/extra-movements.html</guid>
+      <source url="https://korepi.com/en/rss.xml">Extra Movements</source>
+      <description>Extra Movements: Modifies/Enchances certain actions for the player. Run On Water: Enables the ability to walk on water.; Run Boost: Enchances the speed when the player is runnin...</description>
+      <category>Features</category>
+      <pubDate>Sat, 16 Dec 2023 01:57:57 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Extra Movements: Modifies/Enchances certain actions for the player.</h2>
+<h3> Run On Water:</h3>
+<ul>
+<li>Enables the ability to walk on water.</li>
+</ul>
+<h3> Run Boost:</h3>
+<ul>
+<li>Enchances the speed when the player is running.</li>
+</ul>
+<blockquote>
+<p>Note: Not recommended to change default values.</p>
+</blockquote>
+<h3> Jump Boost:</h3>
+<ul>
+<li>Enchaces the height of the jump for the player.
+<ul>
+<li>Apply Mid Air: Enable jumping while not on the ground.</li>
+</ul>
+</li>
+</ul>
+<blockquote>
+<p>Note: Not recommended to change default values.</p>
+</blockquote>
+<h3> Fly Boost:</h3>
+<ul>
+<li>Enchances the speed when the player is gliding.</li>
+</ul>
+<blockquote>
+<p>Note: Not recommended to change default values.</p>
+</blockquote>
+<h3> Swim Boost:</h3>
+<ul>
+<li>Enchances the speed when the player is swimming.</li>
+</ul>
+<blockquote>
+<p>Note: Not recommended to change default values.</p>
+</blockquote>
+<h3> Dive Boost:</h3>
+<ul>
+<li>Enchances the speed when the player is diving.</li>
+</ul>
+<blockquote>
+<p>Note: Not recommended to change default values.</p>
+</blockquote>
+<h3> Blink:</h3>
+<ul>
+<li>Allows the player to move certain distance after pressing a hotkey.</li>
+</ul>
+<h2> Example Video:</h2>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/wMd9icqhFQg?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Extra Movement (Sponsor)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>]]></content:encoded>
+    </item>
+    <item>
+      <title>Fall Control</title>
+      <link>https://korepi.com/en/features/Player/fall-control.html</link>
+      <guid>https://korepi.com/en/features/Player/fall-control.html</guid>
+      <source url="https://korepi.com/en/rss.xml">Fall Control</source>
+      <description>Fall Control allows you to move with the selected speed while falling. Example Video:</description>
+      <category>Features</category>
+      <pubDate>Sat, 16 Dec 2023 01:57:57 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Fall Control allows you to move with the selected speed while falling.</h2>
+<h2> Example Video:</h2>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/BHiabtwSSNc?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Fall Control" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>]]></content:encoded>
+    </item>
+    <item>
+      <title>God Mode</title>
+      <link>https://korepi.com/en/features/Player/god-mode.html</link>
+      <guid>https://korepi.com/en/features/Player/god-mode.html</guid>
+      <source url="https://korepi.com/en/rss.xml">God Mode</source>
+      <description>God Mode will disable all incoming damage. Undead: When enabled, god mode only will turn on if damage is lethal.; Conditional: When enabled, god mode only will turn on if the ch...</description>
+      <category>Features</category>
+      <pubDate>Sat, 16 Dec 2023 01:57:57 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> God Mode will disable all incoming damage.</h2>
+<h3> Undead:</h3>
+<ul>
+<li>When enabled, god mode only will turn on if damage is lethal.</li>
+</ul>
+<h3> Conditional:</h3>
+<ul>
+<li>When enabled, god mode only will turn on if the character hp falls below the specified value.</li>
+</ul>
+<blockquote>
+<p>Note: Recommended to use conditional for abyss.</p>
+</blockquote>
+<h2> Example Video:</h2>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/42utUUYNHRE?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - God Mode" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>]]></content:encoded>
+    </item>
+    <item>
+      <title>Infinite Stamina</title>
+      <link>https://korepi.com/en/features/Player/infinite-stamina.html</link>
+      <guid>https://korepi.com/en/features/Player/infinite-stamina.html</guid>
+      <source url="https://korepi.com/en/rss.xml">Infinite Stamina</source>
+      <description>Infinite Stamina disables the stamina consumption for all actions. Move Sync Packet Replacement: When this is enabled and Infinite Stamina is disabled, will prevent sending stam...</description>
+      <category>Features</category>
+      <pubDate>Sat, 16 Dec 2023 01:57:57 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Infinite Stamina disables the stamina consumption for all actions.</h2>
+<h3> Move Sync Packet Replacement:</h3>
+<ul>
+<li>When this is enabled and Infinite Stamina is disabled, will prevent sending stamina consuming action packets to server like running, climbing, swimming, etc.</li>
+</ul>
+<blockquote>
+<p>Note: Recommended to use Move Sync Packet Replacement.</p>
+</blockquote>
+<h2> Example Video:</h2>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/NZhfaMOLuY0?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Infinite Stamina" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>]]></content:encoded>
+    </item>
+    <item>
+      <title>No Clip</title>
+      <link>https://korepi.com/en/features/Player/no-clip.html</link>
+      <guid>https://korepi.com/en/features/Player/no-clip.html</guid>
+      <source url="https://korepi.com/en/rss.xml">No Clip</source>
+      <description>No Clip will allow you to have no collision, move faster and fly. No Animation: When enabled it will disable animations of the character while using no clip.; Camera-relative mo...</description>
+      <category>Features</category>
+      <pubDate>Sat, 16 Dec 2023 01:57:57 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> No Clip will allow you to have no collision, move faster and fly.</h2>
+<h3> No Animation:</h3>
+<ul>
+<li>When enabled it will disable animations of the character while using no clip.</li>
+</ul>
+<h3> Camera-relative movement:</h3>
+<ul>
+<li>When enabled, character will move based on camera view instead of where the character is facing.</li>
+</ul>
+<h3> Alternate No-Clip:</h3>
+<ul>
+<li>When enabled, no clip speed will change after pressing the selected hotkey at the designed speed.</li>
+</ul>
+<h3> Use Custom Keys:</h3>
+<ul>
+<li>Enables the option to change no-clip directional controls.</li>
+</ul>
+<h3> DragBack Bypass:</h3>
+<ul>
+<li>Prevents the server to drag the character back due to excesive speed.</li>
+</ul>
+<blockquote>
+<p>Note: Not recommended to use above <code>20</code>.</p>
+</blockquote>
+<h2> Example Video:</h2>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/nPdq-yzBt3k?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - NoClip" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>]]></content:encoded>
+    </item>
+    <item>
+      <title>Player Speed</title>
+      <link>https://korepi.com/en/features/Player/player-speed.html</link>
+      <guid>https://korepi.com/en/features/Player/player-speed.html</guid>
+      <source url="https://korepi.com/en/rss.xml">Player Speed</source>
+      <description>Player Speed modifies player speed. Real. No Fake. Note: Recommended to use below 1.5. Note 2: Extra Movements (extra-movements.md) is recommended since its better synced with t...</description>
+      <category>Features</category>
+      <pubDate>Sat, 16 Dec 2023 01:57:57 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Player Speed modifies player speed. Real. No Fake.</h2>
+<blockquote>
+<p>Note: Recommended to use below <code>1.5</code>.
+Note 2: <a href="/en/features/Player/extra-movements.html" target="blank">Extra Movements</a> is recommended since its better synced with the server (safer)(Sponsor)</p>
+</blockquote>
+<h2> Example Video:</h2>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/HCxmOUMFRs8?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Player Speed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>]]></content:encoded>
+    </item>
+    <item>
+      <title>Remote Utility</title>
+      <link>https://korepi.com/en/features/Player/remote-utility.html</link>
+      <guid>https://korepi.com/en/features/Player/remote-utility.html</guid>
+      <source url="https://korepi.com/en/rss.xml">Remote Utility</source>
+      <description>Sponsor Only Remote Utility: Claim Daily Commision Reward: Claims daily commision reward when all 4 comissions are completed.; Custom Talk: Starts a conversation using the conve...</description>
+      <category>Features</category>
+      <pubDate>Sat, 16 Dec 2023 01:57:57 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Sponsor Only</h2>
+<h2> Remote Utility:</h2>
+<h3> Claim Daily Commision Reward:</h3>
+<ul>
+<li>Claims daily commision reward when all 4 comissions are completed.</li>
+</ul>
+<h3> Custom Talk:</h3>
+<ul>
+<li>Starts a conversation using the conversation ID, some conversations might not work.</li>
+</ul>
+<blockquote>
+<p>Note: This feature is dangerous.
+Note: To get the conversation ID, enable <code>Debug Talk</code>, ID will be displayed in <code>cmd</code>.</p>
+</blockquote>
+<h3> Spawn Gadget:</h3>
+<ul>
+<li>Spawns the selected gadget by ID, some of them might not work.</li>
+</ul>
+<blockquote>
+<p>Note: This feature is dangerous.
+Note 2: You can find the gadget IDs <a href="https://github.com/jie65535/GrasscutterCommandGenerator/blob/main/Source/GrasscutterTools/Resources/en-us/Gadget.txt" target="_blank" rel="noopener noreferrer">here</a></p>
+</blockquote>
+<h3> Crafting:</h3>
+<ul>
+<li>Condensed Resin: Crafts a condensed resin if you got the resin and the items.</li>
+<li>Spawn Alchemy Table: Spawns an Alchemy Table.</li>
+<li>Spawn Forging Table: Spawns a Forging Table.</li>
+<li>Custom Combine: Will try to combine the selected item using the current character.
+<blockquote>
+<p>Note: If successful, there will be no prompt. Please check inventory.
+Note 2: You can find the combine IDs <a href="https://github.com/jie65535/GrasscutterCommandGenerator/blob/main/Source/GrasscutterTools/Resources/en-us/Item.txt" target="_blank" rel="noopener noreferrer">here</a></p>
+</blockquote>
+</li>
+</ul>
+<h3> Summon NPC:</h3>
+<ul>
+<li>Summons the selected NPC by ID.</li>
+</ul>
+<blockquote>
+<p>Note: Katheryne, Wagner and Prince already included.</p>
+</blockquote>
+<h3> Summon Monster:</h3>
+<ul>
+<li>Summons the selected monster with the selected parameters by ID.</li>
+</ul>
+<blockquote>
+<p>Note: You can't kill them.
+Note 2: You can find the monster IDs <a href="https://github.com/jie65535/GrasscutterCommandGenerator/blob/main/Source/GrasscutterTools/Resources/en-us/Monsters.txt" target="_blank" rel="noopener noreferrer">here</a></p>
+</blockquote>
+<h3> Summon Item:</h3>
+<ul>
+<li>Summons the selected item by ID.</li>
+</ul>
+<blockquote>
+<p>Note: Some items might not work.
+Note 2: You can find the combine IDs <a href="https://github.com/jie65535/GrasscutterCommandGenerator/blob/main/Source/GrasscutterTools/Resources/en-us/Item.txt" target="_blank" rel="noopener noreferrer">here</a></p>
+</blockquote>
+<h3> Open UI Page:</h3>
+<ul>
+<li>Open Paimon Menu Page: Opens the menu.</li>
+<li>Open Cooking Page: Opens cooking page.
+<blockquote>
+<p>Note: Needs to open cooking page once before using this feature.</p>
+</blockquote>
+</li>
+</ul>
+<h3> Worship Statue:</h3>
+<ul>
+<li>Will worship the selected Statue of the Seven with the amount selected, need to have the oculus to do this.</li>
+</ul>
+<h3> Change Traveler Element:</h3>
+<ul>
+<li>Allows player to change traveler element anywhere.</li>
+</ul>
+<h3> Example Video:</h3>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/XGztUEy82sE?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Remote Utilities (Sponsor)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>]]></content:encoded>
+    </item>
+    <item>
       <title>Auto Loot</title>
       <link>https://korepi.com/en/features/World/auto-loot.html</link>
       <guid>https://korepi.com/en/features/World/auto-loot.html</guid>
       <source url="https://korepi.com/en/rss.xml">Auto Loot</source>
-      <description>Auto loot lets you auto collect loot withing the selected range and delay, the loot that will be collected can be customized, including chests, mob drops and more, check out the...</description>
+      <description>Auto loot lets you auto collect loot withing the selected range and delay, the loot that will be collected can be customized, including chests, mob drops and more. Example Video...</description>
       <category>Features</category>
       <pubDate>Fri, 15 Dec 2023 00:02:48 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Auto loot lets you auto collect loot withing the selected range and delay, the loot that will be collected can be customized, including chests, mob drops and more, check out the next video for an example:</h2>
+      <content:encoded><![CDATA[<h2> Auto loot lets you auto collect loot withing the selected range and delay, the loot that will be collected can be customized, including chests, mob drops and more.</h2>
+<h2> Example Video:</h2>
 <iframe width="640" height="360" src="https://www.youtube.com/embed/wUyI2XO_Z4E?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Loot" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 <blockquote>
 <p>Note: Recommended below <code>10m</code> for normal use and <code>20m</code> if using custom tp.
@@ -34,10 +415,11 @@ Note 2: Higher the distance higher delay should be used.</p>
       <link>https://korepi.com/en/features/World/auto-seelie.html</link>
       <guid>https://korepi.com/en/features/World/auto-seelie.html</guid>
       <source url="https://korepi.com/en/rss.xml">Auto Seelie</source>
-      <description>Auto Seelie removes the necesity of the player to follow the seelie constantly, seelie with go to the designed destination when the player gets close, check out the next video f...</description>
+      <description>Auto Seelie removes the necesity of the player to follow the seelie constantly, seelie with go to the designed destination when the player gets close. Example Video:</description>
       <category>Features</category>
       <pubDate>Fri, 15 Dec 2023 00:02:48 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Auto Seelie removes the necesity of the player to follow the seelie constantly, seelie with go to the designed destination when the player gets close, check out the next video for an example:</h2>
+      <content:encoded><![CDATA[<h2> Auto Seelie removes the necesity of the player to follow the seelie constantly, seelie with go to the designed destination when the player gets close.</h2>
+<h2> Example Video:</h2>
 <iframe width="640" height="360" src="https://www.youtube.com/embed/uETIJ4KS39M?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Seelie" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>]]></content:encoded>
     </item>
     <item>
@@ -45,10 +427,11 @@ Note 2: Higher the distance higher delay should be used.</p>
       <link>https://korepi.com/en/features/World/mob-vacuum.html</link>
       <guid>https://korepi.com/en/features/World/mob-vacuum.html</guid>
       <source url="https://korepi.com/en/rss.xml">Mob Vacuum</source>
-      <description>Mob Vacuum move nearby mobs to the player with the selected speed and range, the mobs that will be affected can be customized, check out the next video for an example: Note: Rec...</description>
+      <description>Mob Vacuum move nearby mobs to the player with the selected speed and range, the mobs that will be affected can be customized. Example Video: Note: Recommended below 20m.</description>
       <category>Features</category>
       <pubDate>Fri, 15 Dec 2023 00:02:48 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Mob Vacuum move nearby mobs to the player with the selected speed and range, the mobs that will be affected can be customized, check out the next video for an example:</h2>
+      <content:encoded><![CDATA[<h2> Mob Vacuum move nearby mobs to the player with the selected speed and range, the mobs that will be affected can be customized.</h2>
+<h2> Example Video:</h2>
 <iframe width="640" height="360" src="https://www.youtube.com/embed/KNzVgG_V10I?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Mob Vacuum" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 <blockquote>
 <p>Note: Recommended below <code>20m</code>.</p>
@@ -60,10 +443,11 @@ Note 2: Higher the distance higher delay should be used.</p>
       <link>https://korepi.com/en/features/World/vacuum-loot.html</link>
       <guid>https://korepi.com/en/features/World/vacuum-loot.html</guid>
       <source url="https://korepi.com/en/rss.xml">Vacuum Loot</source>
-      <description>Vacuum Loot moves nearby drops to the player with the specified range and delay, check out the next video as an example: Note: Recommended below 20m.</description>
+      <description>Vacuum Loot moves nearby drops to the player with the specified range and delay. Example Video: Note: Recommended below 20m.</description>
       <category>Features</category>
       <pubDate>Fri, 15 Dec 2023 00:02:48 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Vacuum Loot moves nearby drops to the player with the specified range and delay, check out the next video as an example:</h2>
+      <content:encoded><![CDATA[<h2> Vacuum Loot moves nearby drops to the player with the specified range and delay.</h2>
+<h2> Example Video:</h2>
 <iframe width="640" height="360" src="https://www.youtube.com/embed/iMElTsNF77c?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Vacuum Loot" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 <blockquote>
 <p>Note: Recommended below <code>20m</code>.</p>
@@ -75,11 +459,12 @@ Note 2: Higher the distance higher delay should be used.</p>
       <link>https://korepi.com/en/features/World/auto-activate-tp.html</link>
       <guid>https://korepi.com/en/features/World/auto-activate-tp.html</guid>
       <source url="https://korepi.com/en/rss.xml">Auto Activate Teleport</source>
-      <description>Sponsor Only Auto Activate Teleport activates nearby teleports up to 50m, check out the next video to see how it works:</description>
+      <description>Sponsor Only Auto Activate Teleport activates nearby waypoints up to 50m. Example Video:</description>
       <category>Features</category>
       <pubDate>Thu, 14 Dec 2023 23:51:59 GMT</pubDate>
       <content:encoded><![CDATA[<h2> Sponsor Only</h2>
-<h3> Auto Activate Teleport activates nearby teleports up to 50m, check out the next video to see how it works:</h3>
+<h3> Auto Activate Teleport activates nearby waypoints up to 50m.</h3>
+<h2> Example Video:</h2>
 <iframe width="640" height="360" src="https://www.youtube.com/embed/qstBErr9mJ0?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - AutoActivateTP (Sponsor)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 ]]></content:encoded>
     </item>
@@ -88,10 +473,11 @@ Note 2: Higher the distance higher delay should be used.</p>
       <link>https://korepi.com/en/features/World/auto-challenge.html</link>
       <guid>https://korepi.com/en/features/World/auto-challenge.html</guid>
       <source url="https://korepi.com/en/rss.xml">Auto Challenge</source>
-      <description>Auto Challenge lets you complete the current active time trial within a specified range and delay time, you can configure these to your liking, check out the next video for an e...</description>
+      <description>Auto Challenge lets you complete the current active time trial within a specified range and delay time, you can configure these to your liking. Example Video: Note: Not recommen...</description>
       <category>Features</category>
       <pubDate>Thu, 14 Dec 2023 23:51:59 GMT</pubDate>
-      <content:encoded><![CDATA[<h3> Auto Challenge lets you complete the current active time trial within a specified range and delay time, you can configure these to your liking, check out the next video for an example:</h3>
+      <content:encoded><![CDATA[<h3> Auto Challenge lets you complete the current active time trial within a specified range and delay time, you can configure these to your liking.</h3>
+<h2> Example Video:</h2>
 <iframe width="640" height="360" src="https://www.youtube.com/embed/7JNegfQiK2U?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Challenge" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 <blockquote>
 <p>Note: Not recommended to use in low delays and very high ranges.</p>
@@ -103,10 +489,11 @@ Note 2: Higher the distance higher delay should be used.</p>
       <link>https://korepi.com/en/features/World/auto-cook.html</link>
       <guid>https://korepi.com/en/features/World/auto-cook.html</guid>
       <source url="https://korepi.com/en/rss.xml">Auto Cook</source>
-      <description>Auto Cook lets you cook a specified quantity and quality of the selected food on the cooking page, it counts with an auto proficiency (Auto unlock auto cook) built-in, check out...</description>
+      <description>Auto Cook lets you cook a specified quantity and quality of the selected food on the cooking page, it counts with an auto proficiency (Auto unlock auto cook) built-in. Example V...</description>
       <category>Features</category>
       <pubDate>Thu, 14 Dec 2023 23:51:59 GMT</pubDate>
-      <content:encoded><![CDATA[<h3> Auto Cook lets you cook a specified quantity and quality of the selected food on the cooking page, it counts with an auto proficiency (Auto unlock auto cook) built-in, check out the next video for an example:</h3>
+      <content:encoded><![CDATA[<h3> Auto Cook lets you cook a specified quantity and quality of the selected food on the cooking page, it counts with an auto proficiency (Auto unlock auto cook) built-in.</h3>
+<h2> Example Video:</h2>
 <iframe width="640" height="360" src="https://www.youtube.com/embed/T_X13AXiAiY?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Cook" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>]]></content:encoded>
     </item>
     <item>
@@ -130,10 +517,11 @@ Note 2: Higher the distance higher delay should be used.</p>
       <link>https://korepi.com/en/features/World/auto-fish.html</link>
       <guid>https://korepi.com/en/features/World/auto-fish.html</guid>
       <source url="https://korepi.com/en/rss.xml">Auto Fish</source>
-      <description>Auto fish lets you skip the catching fish animation, which will reduce the time needed to catch a fish, check out the next video for an example: Note: Auto Recast is not working...</description>
+      <description>Auto fish lets you skip the catching fish animation, which will reduce the time needed to catch a fish. Example Video: Note: Auto Recast is not working at the time creating this...</description>
       <category>Features</category>
       <pubDate>Thu, 14 Dec 2023 23:51:59 GMT</pubDate>
-      <content:encoded><![CDATA[<h3> Auto fish lets you skip the catching fish animation, which will reduce the time needed to catch a fish, check out the next video for an example:</h3>
+      <content:encoded><![CDATA[<h3> Auto fish lets you skip the catching fish animation, which will reduce the time needed to catch a fish.</h3>
+<h2> Example Video:</h2>
 <iframe width="640" height="360" src="https://www.youtube.com/embed/K_l4Tg-81iQ?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Fish" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 <blockquote>
 <p>Note: Auto Recast is not working at the time creating this post.</p>
@@ -193,10 +581,11 @@ Note 2: Higher the distance higher delay should be used.</p>
       <link>https://korepi.com/en/features/World/auto-tree-farm.html</link>
       <guid>https://korepi.com/en/features/World/auto-tree-farm.html</guid>
       <source url="https://korepi.com/en/rss.xml">Auto Tree Farm</source>
-      <description>Auto Tree Farm lets you punch nearby trees with the selected value and delay, therefore automatically getting wood from nearby trees, check out the next video for an example: No...</description>
+      <description>Auto Tree Farm lets you punch nearby trees with the selected value and delay, therefore automatically getting wood from nearby trees. Example Video: Note: Not recommended to cha...</description>
       <category>Features</category>
       <pubDate>Thu, 14 Dec 2023 23:51:59 GMT</pubDate>
-      <content:encoded><![CDATA[<h3> Auto Tree Farm lets you punch nearby trees with the selected value and delay, therefore automatically getting wood from nearby trees, check out the next video for an example:</h3>
+      <content:encoded><![CDATA[<h3> Auto Tree Farm lets you punch nearby trees with the selected value and delay, therefore automatically getting wood from nearby trees.</h3>
+<h2> Example Video:</h2>
 <iframe width="640" height="360" src="https://www.youtube.com/embed/v95_NOxc4do?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Tree Farm" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 <blockquote>
 <p>Note: Not recommended to change default values.</p>
@@ -208,11 +597,12 @@ Note 2: Higher the distance higher delay should be used.</p>
       <link>https://korepi.com/en/features/World/elemental-aura.html</link>
       <guid>https://korepi.com/en/features/World/elemental-aura.html</guid>
       <source url="https://korepi.com/en/rss.xml">Elemental Aura</source>
-      <description>Sponsor Only Elemental Aura applies elements with the specified element, range and delay to targets, objects or yourself, multiple elements can be applied to nearby targets, che...</description>
+      <description>Sponsor Only Elemental Aura applies elements with the specified element, range and delay to targets, objects or yourself, multiple elements can be applied to nearby targets. Exa...</description>
       <category>Features</category>
       <pubDate>Thu, 14 Dec 2023 23:51:59 GMT</pubDate>
       <content:encoded><![CDATA[<h2> Sponsor Only</h2>
-<h3> Elemental Aura applies elements with the specified element, range and delay to  targets, objects or yourself, multiple elements can be applied to nearby targets, check out the next video for an example:</h3>
+<h3> Elemental Aura applies elements with the specified element, range and delay to  targets, objects or yourself, multiple elements can be applied to nearby targets.</h3>
+<h2> Example Video:</h2>
 <iframe width="640" height="360" src="https://www.youtube.com/embed/FskTJiknOgQ?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Elemental Aura (Sponsor)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 <blockquote>
 <p>Note: Low delay times will increase the chance of detection.</p>

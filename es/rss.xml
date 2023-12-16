@@ -6,23 +6,405 @@
     <link>https://korepi.com/es/</link>
     <description>Ayuda en Korepi</description>
     <language>es-ES</language>
-    <pubDate>Fri, 15 Dec 2023 18:29:40 GMT</pubDate>
-    <lastBuildDate>Fri, 15 Dec 2023 18:29:40 GMT</lastBuildDate>
+    <pubDate>Sat, 16 Dec 2023 04:36:14 GMT</pubDate>
+    <lastBuildDate>Sat, 16 Dec 2023 04:36:14 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+    <category>Features</category>
     <category>Funciones</category>
     <category>Guía</category>
     <category>Errores</category>
+    <item>
+      <title>Efectos de Ataque</title>
+      <link>https://korepi.com/es/features/Jugador/attack-effects.html</link>
+      <guid>https://korepi.com/es/features/Jugador/attack-effects.html</guid>
+      <source url="https://korepi.com/es/rss.xml">Efectos de Ataque</source>
+      <description>Efectos de Ataque: Modificaciones para tus ataques Modo Multi-golpe: Modo Un-Golpe: Intentara matar al objetivo de 1 golpe.; Nota: No se recomienda usar. Modifica la cantidad de...</description>
+      <category>Features</category>
+      <pubDate>Sat, 16 Dec 2023 02:48:10 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Efectos de Ataque: Modificaciones para tus ataques</h2>
+<h3> Modo Multi-golpe:</h3>
+<ul>
+<li>Modo Un-Golpe: Intentara matar al objetivo de 1 golpe.</li>
+</ul>
+<blockquote>
+<p>Nota: No se recomienda usar.</p>
+</blockquote>
+<ul>
+<li>Modifica la cantidad de golpes recibidos por el objetivo.</li>
+</ul>
+<blockquote>
+<p>Nota: No se recomienda por encima de <code>5</code>.</p>
+</blockquote>
+<h3> Multi-Objetivo:</h3>
+<ul>
+<li>Golpea a todos los objetivos en un radio seleccionado al rededor del objetivo golpeado.</li>
+</ul>
+<blockquote>
+<p>Nota: No se recomienda cambiar los valores por defecto.</p>
+</blockquote>
+<h3> Multi-Animación:</h3>
+<ul>
+<li>Modifica el numero de veces que un personaje realiza una acción.</li>
+</ul>
+<blockquote>
+<p>Nota: No se recomienda usar.</p>
+</blockquote>
+<h3> Velocidad de Ataque:</h3>
+<ul>
+<li>Cambia la velocidad de ataque del jugador.</li>
+</ul>
+<blockquote>
+<p>Nota: No se recomienda por encima de <code>1.5</code>.</p>
+</blockquote>
+<h3> Elemento Personalizado:</h3>
+<ul>
+<li>Cambia el elemento de todos los ataques realizados.</li>
+</ul>
+<h3> Imbuir Elemento:</h3>
+<ul>
+<li>Cambia el elemento de los ataques normales de espada, gran espada y lanza.</li>
+</ul>
+<h3> Auto Punto Débil:</h3>
+<ul>
+<li>Ataca automaticamente al punto débil del objetivo, solo para arcos.</li>
+</ul>
+<h3> Golpe Critico (Sponsor):</h3>
+<ul>
+<li>Cambia la probabilidad de critico.</li>
+</ul>
+<h3> Nulificar Elemento Recibido:</h3>
+<ul>
+<li>Nulifica los elementos recibidos y lo cambia por daño físico.</li>
+</ul>
+<h2> Video de Ejemplo:</h2>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/1BdKwxBjWyg?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Attack Effects" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>]]></content:encoded>
+    </item>
+    <item>
+      <title>Auto Correr</title>
+      <link>https://korepi.com/es/features/Jugador/auto-run.html</link>
+      <guid>https://korepi.com/es/features/Jugador/auto-run.html</guid>
+      <source url="https://korepi.com/es/rss.xml">Auto Correr</source>
+      <description>Auto Correr mueve al personaje automaticamente hacia la dirección que esta mirando. Video de Ejemplo:</description>
+      <category>Features</category>
+      <pubDate>Sat, 16 Dec 2023 02:48:10 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Auto Correr mueve al personaje automaticamente hacia la dirección que esta mirando.</h2>
+<h2> Video de Ejemplo:</h2>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/BLDhPBMs7Es?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Run" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Salto de Conejo</title>
+      <link>https://korepi.com/es/features/Jugador/bunny-hop.html</link>
+      <guid>https://korepi.com/es/features/Jugador/bunny-hop.html</guid>
+      <source url="https://korepi.com/es/rss.xml">Salto de Conejo</source>
+      <description>Solo para Sponsor Salto de Conejo saltara automaticamente después del primer salto. Video de Ejemplo:</description>
+      <category>Features</category>
+      <pubDate>Sat, 16 Dec 2023 02:48:10 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Solo para Sponsor</h2>
+<h2> Salto de Conejo saltara automaticamente después del primer salto.</h2>
+<h2> Video de Ejemplo:</h2>
+<iframe width="640" height="369" src="https://www.youtube.com/embed/Gh2GX23E6dw?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Bunnyhop (Sponsor)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>]]></content:encoded>
+    </item>
+    <item>
+      <title>Efectos de Enfriamiento</title>
+      <link>https://korepi.com/es/features/Jugador/cooldown-effects.html</link>
+      <guid>https://korepi.com/es/features/Jugador/cooldown-effects.html</guid>
+      <source url="https://korepi.com/es/rss.xml">Efectos de Enfriamiento</source>
+      <description>Efectos de Enfriamiento: Cambia el enfriamiento de varias acciones. Energia Máxima de la definitiva: Quita la necesidad de tener energia para usar la definitiva.; Nota: La burbu...</description>
+      <category>Features</category>
+      <pubDate>Sat, 16 Dec 2023 02:48:10 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Efectos de Enfriamiento: Cambia el enfriamiento de varias acciones.</h2>
+<h3> Energia Máxima de la definitiva:</h3>
+<ul>
+<li>Quita la necesidad de tener energia para usar la definitiva.</li>
+</ul>
+<blockquote>
+<p>Nota: La burbuja puede que aparezca incomplete pero se puede usar igualmente.</p>
+</blockquote>
+<h3> Sin Enfriamiento de Habilidades: Quita el enfriamiento de las habilidades y definitivas de los personajes.</h3>
+<ul>
+<li>Reducir Enfriamiento de Habilidades y Definitiva: En vez de quitar el enfriamiento se reducirá al valor especificado.</li>
+</ul>
+<blockquote>
+<p>Nota: Puedes usar cualquier valor, solo no te pases. <code>ej. 40 veces en un 1m</code></p>
+</blockquote>
+<h3> Sin Enfriamiento de Esprint:</h3>
+<ul>
+<li>Quita el retraso entre esprints.</li>
+</ul>
+<h3> Carga Instantánea de Ataque:</h3>
+<ul>
+<li>Arco: Quia el tiempo de carga de arcos.</li>
+<li>Otro: Quia el tiempo de carga para otras armas.</li>
+</ul>
+<h3> Sin Enfriamiento de Habilidad del Vehículo:</h3>
+<ul>
+<li>Quita el enfriamiento de las habilidades del barco.</li>
+</ul>
+<h2> Video de Ejemplo:</h2>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/qv5ykSL3Ojw?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Cooldown Effects" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>]]></content:encoded>
+    </item>
+    <item>
+      <title>Movimiento Extra</title>
+      <link>https://korepi.com/es/features/Jugador/extra-movements.html</link>
+      <guid>https://korepi.com/es/features/Jugador/extra-movements.html</guid>
+      <source url="https://korepi.com/es/rss.xml">Movimiento Extra</source>
+      <description>Movimiento Extra: Cambia/Mejora ciertas acciones del jugador. Correr Sobre el Agua: Activa la habilidad de caminar sobre el agua.; Impulso al Correr: Aumenta la velocidad al cor...</description>
+      <category>Features</category>
+      <pubDate>Sat, 16 Dec 2023 02:48:10 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Movimiento Extra: Cambia/Mejora ciertas acciones del jugador.</h2>
+<h3> Correr Sobre el Agua:</h3>
+<ul>
+<li>Activa la habilidad de caminar sobre el agua.</li>
+</ul>
+<h3> Impulso al Correr:</h3>
+<ul>
+<li>Aumenta la velocidad al correr.</li>
+</ul>
+<blockquote>
+<p>Nota: No se recomienda cambiar los valores predeterminados.</p>
+</blockquote>
+<h3> Aumento de Salto:</h3>
+<ul>
+<li>Aumenta la altura que puede saltar el jugador.
+<ul>
+<li>Aplicar En Medio Del Aire: Habilita la posibilidad de saltar en medio del aire.</li>
+</ul>
+</li>
+</ul>
+<blockquote>
+<p>Nota: No se recomienda cambiar los valores predeterminados.</p>
+</blockquote>
+<h3> Aumento de Vuelo:</h3>
+<ul>
+<li>Aumenta la velocidad al planear.</li>
+</ul>
+<blockquote>
+<p>Nota: No se recomienda cambiar los valores predeterminados.</p>
+</blockquote>
+<h3> Aumento de Nado:</h3>
+<ul>
+<li>Aumenta la velocidad al nadar.</li>
+</ul>
+<blockquote>
+<p>Nota: No se recomienda cambiar los valores predeterminados.</p>
+</blockquote>
+<h3> Aumento de Buceo:</h3>
+<ul>
+<li>Aumenta la velocidad al bucear.</li>
+</ul>
+<blockquote>
+<p>Nota: No se recomienda cambiar los valores predeterminados.</p>
+</blockquote>
+<h3> Salto:</h3>
+<ul>
+<li>Permite al jugador moverse una distancia seleccionada al darle a una tecla</li>
+</ul>
+<h2> Video de Ejemplo:</h2>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/wMd9icqhFQg?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Extra Movement (Sponsor)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>]]></content:encoded>
+    </item>
+    <item>
+      <title>Control de Caída</title>
+      <link>https://korepi.com/es/features/Jugador/fall-control.html</link>
+      <guid>https://korepi.com/es/features/Jugador/fall-control.html</guid>
+      <source url="https://korepi.com/es/rss.xml">Control de Caída</source>
+      <description>Control de Caída permite al jugador moverse cuando esta cayendo. Video de Ejemplo:</description>
+      <category>Features</category>
+      <pubDate>Sat, 16 Dec 2023 02:48:10 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Control de Caída permite al jugador moverse cuando esta cayendo.</h2>
+<h2> Video de Ejemplo:</h2>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/BHiabtwSSNc?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Fall Control" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>]]></content:encoded>
+    </item>
+    <item>
+      <title>Modo Dios</title>
+      <link>https://korepi.com/es/features/Jugador/god-mode.html</link>
+      <guid>https://korepi.com/es/features/Jugador/god-mode.html</guid>
+      <source url="https://korepi.com/es/rss.xml">Modo Dios</source>
+      <description>Modo Dios deshabilitara todo el daño recibido. Muertos Vivientes: Cuando esta activo, modo dios solo se activara si se recibe daño letal.; Condicional: Cuando esta activo, modo ...</description>
+      <category>Features</category>
+      <pubDate>Sat, 16 Dec 2023 02:48:10 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Modo Dios deshabilitara todo el daño recibido.</h2>
+<h3> Muertos Vivientes:</h3>
+<ul>
+<li>Cuando esta activo, modo dios solo se activara si se recibe daño letal.</li>
+</ul>
+<h3> Condicional:</h3>
+<ul>
+<li>Cuando esta activo, modo dios solo se activara cuando la vida del personaje baje por debajo del valor seleccionado.</li>
+</ul>
+<blockquote>
+<p>Nota: Se recomienda usar Condicional para el abismo.</p>
+</blockquote>
+<h2> Video de Ejemplo:</h2>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/42utUUYNHRE?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - God Mode" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>]]></content:encoded>
+    </item>
+    <item>
+      <title>Estamina Infinito</title>
+      <link>https://korepi.com/es/features/Jugador/infinite-stamina.html</link>
+      <guid>https://korepi.com/es/features/Jugador/infinite-stamina.html</guid>
+      <source url="https://korepi.com/es/rss.xml">Estamina Infinito</source>
+      <description>Estamina Infinito deshabilita el uso de estamina para todas las acciones. Reemplazo de Paquetes de Movimiento Sincronizado: Cuando esta activo, los paquetes de las acciones que ...</description>
+      <category>Features</category>
+      <pubDate>Sat, 16 Dec 2023 02:48:10 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Estamina Infinito deshabilita el uso de estamina para todas las acciones.</h2>
+<h3> Reemplazo de Paquetes de Movimiento Sincronizado:</h3>
+<ul>
+<li>Cuando esta activo, los paquetes de las acciones que consumen estamina no serán enviados al servidor.</li>
+</ul>
+<blockquote>
+<p>Nota: Se recomienda usar el Reemplazo de Paquetes de Movimiento Sincronizado y desactivar EStamina Infinito.</p>
+</blockquote>
+<h2> Video de Ejemplo:</h2>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/NZhfaMOLuY0?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Infinite Stamina" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>]]></content:encoded>
+    </item>
+    <item>
+      <title>Sin Colisión</title>
+      <link>https://korepi.com/es/features/Jugador/no-clip.html</link>
+      <guid>https://korepi.com/es/features/Jugador/no-clip.html</guid>
+      <source url="https://korepi.com/es/rss.xml">Sin Colisión</source>
+      <description>Sin Colisión te permitirá pasar por objetos, volar y aumentar tu velocidad. Sin Animación: Cuando esta activo, el personaje no tendrá animación usando sin colisión; Movimiento R...</description>
+      <category>Features</category>
+      <pubDate>Sat, 16 Dec 2023 02:48:10 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Sin Colisión te permitirá pasar por objetos, volar y aumentar tu velocidad.</h2>
+<h3> Sin Animación:</h3>
+<ul>
+<li>Cuando esta activo, el personaje no tendrá animación usando sin colisión</li>
+</ul>
+<h3> Movimiento Relativo de la Cámara:</h3>
+<ul>
+<li>Cuando esta activo, el personaje se moverá dependiendo de la cámara en vez de donde este mirando.</li>
+</ul>
+<h3> Sin Colisión Alternativo:</h3>
+<ul>
+<li>Cuando esta activo, la velocidad de sin colisión sera cambiada al darle a la tecla seleccionada a la velocidad seleccionada.</li>
+</ul>
+<h3> Usar Teclas Personalizadas:</h3>
+<ul>
+<li>Activa la función de cambiar los controles de sin colisión.</li>
+</ul>
+<h3> Evitar Tirones:</h3>
+<ul>
+<li>Evita ser echado para atrás por el servidor por velocidad excesiva</li>
+</ul>
+<blockquote>
+<p>Nota: No se recomienda usar por encima de <code>20</code>.</p>
+</blockquote>
+<h2> Video de Ejemplo:</h2>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/nPdq-yzBt3k?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - NoClip" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>]]></content:encoded>
+    </item>
+    <item>
+      <title>Velocidad de Jugador</title>
+      <link>https://korepi.com/es/features/Jugador/player-speed.html</link>
+      <guid>https://korepi.com/es/features/Jugador/player-speed.html</guid>
+      <source url="https://korepi.com/es/rss.xml">Velocidad de Jugador</source>
+      <description>Velocidad de Jugador cambia la velocidad del jugador. Real. No Fake. Nota: Se recomienda usar por debajo de 1.5. Nota 2: Movimientos Extra (extra-movements.md) es recomendado. (...</description>
+      <category>Features</category>
+      <pubDate>Sat, 16 Dec 2023 02:48:10 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Velocidad de Jugador cambia la velocidad del jugador. Real. No Fake.</h2>
+<blockquote>
+<p>Nota: Se recomienda usar por debajo de <code>1.5</code>.
+Nota 2: <a href="/es/features/Jugador/extra-movements.html" target="blank">Movimientos Extra</a> es recomendado. (Más Seguro)(Sponsor)</p>
+</blockquote>
+<h2> Video de Ejemplo:</h2>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/HCxmOUMFRs8?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Player Speed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>]]></content:encoded>
+    </item>
+    <item>
+      <title>Utilidad Remota</title>
+      <link>https://korepi.com/es/features/Jugador/remote-utility.html</link>
+      <guid>https://korepi.com/es/features/Jugador/remote-utility.html</guid>
+      <source url="https://korepi.com/es/rss.xml">Utilidad Remota</source>
+      <description>Solo para Sponsor Utilidad Remota: Reclamar Recompensas de Comisiones Diarias: Reclama las recompensas cuando las 4 comisiones han sido terminados.; Conversación Personalizada: ...</description>
+      <category>Features</category>
+      <pubDate>Sat, 16 Dec 2023 02:48:10 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Solo para Sponsor</h2>
+<h2> Utilidad Remota:</h2>
+<h3> Reclamar Recompensas de Comisiones Diarias:</h3>
+<ul>
+<li>Reclama las recompensas cuando las 4 comisiones han sido terminados.</li>
+</ul>
+<h3> Conversación Personalizada:</h3>
+<ul>
+<li>Empieza una conversación con el ID seleccionado, puede no funcionar con algunas conversaciones.</li>
+</ul>
+<blockquote>
+<p>Nota: Esta función es peligrosa.
+Nota 2: Para conseguir el ID de conversación, activa <code>Depuración de Conversacion</code>, el ID aparecerá en el <code>cmd</code>.</p>
+</blockquote>
+<h3> Generar Artilugio:</h3>
+<ul>
+<li>Genera el artilugio dependiendo del ID.</li>
+</ul>
+<blockquote>
+<p>Nota: Esta función es peligrosa.
+Nota 2: Puedes encontrar los IDs <a href="https://github.com/jie65535/GrasscutterCommandGenerator/blob/main/Source/GrasscutterTools/Resources/en-us/Gadget.txt" target="_blank" rel="noopener noreferrer">aquí</a></p>
+</blockquote>
+<h3> Elaboración:</h3>
+<ul>
+<li>Resina Condensada: Crea una resina condensada si tienes suficiente resina y los materiales.</li>
+<li>Invocar Mesa de Alquimia: Invoca una Mesa de Alquimia.</li>
+<li>Invocar Mesa de Forja: Invoca una Mesa de Forja.</li>
+<li>Combinación Personalizada: Intentara combinar el objeto seleccionado con el personaje actual.
+<blockquote>
+<p>Nota: Si fue exitoso, no habrá texto, comprueba tu inventario.
+Nota 2: Puedes encontrar los IDs <a href="https://github.com/jie65535/GrasscutterCommandGenerator/blob/main/Source/GrasscutterTools/Resources/en-us/Item.txt" target="_blank" rel="noopener noreferrer">aquí</a></p>
+</blockquote>
+</li>
+</ul>
+<h3> Invocar NPC:</h3>
+<ul>
+<li>Invoca el NPC seleccionado por el ID.</li>
+</ul>
+<blockquote>
+<p>Note: Katheryne, Wagner and Prince already included.</p>
+</blockquote>
+<h3> Invocar Monstruo:</h3>
+<ul>
+<li>Invoca el monstruo seleccionado por el ID con los parámetros seleccionados.</li>
+</ul>
+<blockquote>
+<p>Nota: No los puedes matar.
+Nota 2: Puedes encontrar los IDs <a href="https://github.com/jie65535/GrasscutterCommandGenerator/blob/main/Source/GrasscutterTools/Resources/en-us/Monster.txt" target="_blank" rel="noopener noreferrer">aquí</a></p>
+</blockquote>
+<h3> Invocar Objeto:</h3>
+<ul>
+<li>Invoca el objeto seleccionado por el ID.</li>
+</ul>
+<blockquote>
+<p>Nota: Puede no funcionar a veces.
+Nota 2: Puedes encontrar los IDs <a href="https://github.com/jie65535/GrasscutterCommandGenerator/blob/main/Source/GrasscutterTools/Resources/en-us/Item.txt" target="_blank" rel="noopener noreferrer">aquí</a></p>
+</blockquote>
+<h3> Abrir Interfaz de Usuario:</h3>
+<ul>
+<li>Abrir Menu de Paimon: Abre el menu de paimon.</li>
+<li>Abrir Ventana de Cocina: Abre la ventana de cocina.
+<blockquote>
+<p>Nota: Se necesita abrir la ventana una vez para que funcione.</p>
+</blockquote>
+</li>
+</ul>
+<h3> Adorar a la Estatua:</h3>
+<ul>
+<li>Adorara la cantidad de oculus seleccionados si tienes la cantidad suficiente.</li>
+</ul>
+<h3> Cambiar Elemento del Viajero.</h3>
+<ul>
+<li>Permite cambiar el elemento del viajero en cualquier lugar.</li>
+</ul>
+<h3> Video de Ejemplo:</h3>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/XGztUEy82sE?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Remote Utilities (Sponsor)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>]]></content:encoded>
+    </item>
     <item>
       <title>Auto Activar Teletransporte</title>
       <link>https://korepi.com/es/features/Mundo/auto-activate-tp.html</link>
       <guid>https://korepi.com/es/features/Mundo/auto-activate-tp.html</guid>
       <source url="https://korepi.com/es/rss.xml">Auto Activar Teletransporte</source>
-      <description>Solo para Sponsor Auto Activar Teletransporte, activa teletransportes cercanos hasta 50 metros, mira el siguiente video como ejemplo:</description>
+      <description>Solo para Sponsor Auto Activar Teletransporte, activa teletransportes cercanos hasta 50 metros. Video de Ejemplo:</description>
       <category>Funciones</category>
       <pubDate>Fri, 15 Dec 2023 01:56:25 GMT</pubDate>
       <content:encoded><![CDATA[<h2> Solo para Sponsor</h2>
-<h3> Auto Activar Teletransporte, activa teletransportes cercanos hasta 50 metros, mira el siguiente video como ejemplo:</h3>
+<h3> Auto Activar Teletransporte, activa teletransportes cercanos hasta 50 metros.</h3>
+<h2> Video de Ejemplo:</h2>
 <iframe width="640" height="360" src="https://www.youtube.com/embed/qstBErr9mJ0?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - AutoActivateTP (Sponsor)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 ]]></content:encoded>
     </item>
@@ -31,10 +413,11 @@
       <link>https://korepi.com/es/features/Mundo/auto-challenge.html</link>
       <guid>https://korepi.com/es/features/Mundo/auto-challenge.html</guid>
       <source url="https://korepi.com/es/rss.xml">Auto Desafió</source>
-      <description>Auto Desafió completa los desafiós de tiempo activos con un rango personalizado y retreaso personalizado, mira el siguiente video como ejemplo: Nota: No se recomienda usar con r...</description>
+      <description>Auto Desafió completa los desafiós de tiempo activos con un rango personalizado y retraso personalizado. Video de Ejemplo: Nota: No se recomienda usar con retrasos bajos y rango...</description>
       <category>Funciones</category>
       <pubDate>Fri, 15 Dec 2023 01:56:25 GMT</pubDate>
-      <content:encoded><![CDATA[<h3> Auto Desafió completa los desafiós de tiempo activos con un rango personalizado y retreaso personalizado, mira el siguiente video como ejemplo:</h3>
+      <content:encoded><![CDATA[<h3> Auto Desafió completa los desafiós de tiempo activos con un rango personalizado y retraso personalizado.</h3>
+<h2> Video de Ejemplo:</h2>
 <iframe width="640" height="360" src="https://www.youtube.com/embed/7JNegfQiK2U?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Challenge" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 <blockquote>
 <p>Nota: No se recomienda usar con retrasos bajos y rangos altos.</p>
@@ -46,10 +429,11 @@
       <link>https://korepi.com/es/features/Mundo/auto-cook.html</link>
       <guid>https://korepi.com/es/features/Mundo/auto-cook.html</guid>
       <source url="https://korepi.com/es/rss.xml">Auto Cocinar</source>
-      <description>Auto Cocinar deja que cocines automaticamente la cantidad deseada de la comida seleccionada, puedes elegir calidad, cantidad y completar la maestría, mira el siguiente video com...</description>
+      <description>Auto Cocinar deja que cocines automaticamente la cantidad deseada de la comida seleccionada, puedes elegir calidad, cantidad y completar la maestría. Video de Ejemplo:</description>
       <category>Funciones</category>
       <pubDate>Fri, 15 Dec 2023 01:56:25 GMT</pubDate>
-      <content:encoded><![CDATA[<h3> Auto Cocinar deja que cocines automaticamente la cantidad deseada de la comida seleccionada, puedes elegir calidad, cantidad y completar la maestría, mira el siguiente video como ejemplo:</h3>
+      <content:encoded><![CDATA[<h3> Auto Cocinar deja que cocines automaticamente la cantidad deseada de la comida seleccionada, puedes elegir calidad, cantidad y completar la maestría.</h3>
+<h2> Video de Ejemplo:</h2>
 <iframe width="640" height="360" src="https://www.youtube.com/embed/T_X13AXiAiY?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Cook" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>]]></content:encoded>
     </item>
     <item>
@@ -73,10 +457,11 @@
       <link>https://korepi.com/es/features/Mundo/auto-fish.html</link>
       <guid>https://korepi.com/es/features/Mundo/auto-fish.html</guid>
       <source url="https://korepi.com/es/rss.xml">Auto Pescar</source>
-      <description>Auto Pescar permite que te saltes la animación de pesca, mira el siguiente video como ejemplo: Nota: Auto Re-lanza caña no funciona por ahora.</description>
+      <description>Auto Pescar permite que te saltes la animación de pesca. Video de Ejemplo: Nota: Auto Re-lanza caña no funciona por ahora.</description>
       <category>Funciones</category>
       <pubDate>Fri, 15 Dec 2023 01:56:25 GMT</pubDate>
-      <content:encoded><![CDATA[<h3> Auto Pescar permite que te saltes la animación de pesca, mira el siguiente video como ejemplo:</h3>
+      <content:encoded><![CDATA[<h3> Auto Pescar permite que te saltes la animación de pesca.</h3>
+<h2> Video de Ejemplo:</h2>
 <iframe width="640" height="360" src="https://www.youtube.com/embed/K_l4Tg-81iQ?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Fish" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 <blockquote>
 <p>Nota: Auto Re-lanza caña no funciona por ahora.</p>
@@ -88,10 +473,11 @@
       <link>https://korepi.com/es/features/Mundo/auto-loot.html</link>
       <guid>https://korepi.com/es/features/Mundo/auto-loot.html</guid>
       <source url="https://korepi.com/es/rss.xml">Auto Recoger</source>
-      <description>Auto Recoger te permite recoger materiales como plantas, cofres, drops y más con rangos y retrasos personalizados, mira el siguiente video como ejemplo: Nota: Se recomienda usar...</description>
+      <description>Auto Recoger te permite recoger materiales como plantas, cofres, drops y más con rangos y retrasos personalizados. Video de Ejemplo: Nota: Se recomienda usar por debajo de 10m p...</description>
       <category>Funciones</category>
       <pubDate>Fri, 15 Dec 2023 01:56:25 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Auto Recoger te permite recoger materiales como plantas, cofres, drops y más con rangos y retrasos personalizados, mira el siguiente video como ejemplo:</h2>
+      <content:encoded><![CDATA[<h2> Auto Recoger te permite recoger materiales como plantas, cofres, drops y más con rangos y retrasos personalizados.</h2>
+<h2> Video de Ejemplo:</h2>
 <iframe width="640" height="360" src="https://www.youtube.com/embed/wUyI2XO_Z4E?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Loot" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 <blockquote>
 <p>Nota: Se recomienda usar por debajo de <code>10m</code> para uso normal y menos de <code>20m</code> si usas teletransportes personalizados.
@@ -104,10 +490,11 @@ Nota 2: Mayor la distancia mayor el retraso.</p>
       <link>https://korepi.com/es/features/Mundo/auto-seelie.html</link>
       <guid>https://korepi.com/es/features/Mundo/auto-seelie.html</guid>
       <source url="https://korepi.com/es/rss.xml">Auto Seelie</source>
-      <description>Auto Seelie quita la necesidad de seguir al seelie hasta su estatua, ira sola cuando te acerques, mira el siguiente video como ejemplo:</description>
+      <description>Auto Seelie quita la necesidad de seguir al seelie hasta su estatua, ira sola cuando te acerques. Video de Ejemplo:</description>
       <category>Funciones</category>
       <pubDate>Fri, 15 Dec 2023 01:56:25 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Auto Seelie quita la necesidad de seguir al seelie hasta su estatua, ira sola cuando te acerques, mira el siguiente video como ejemplo:</h2>
+      <content:encoded><![CDATA[<h2> Auto Seelie quita la necesidad de seguir al seelie hasta su estatua, ira sola cuando te acerques.</h2>
+<h2> Video de Ejemplo:</h2>
 <iframe width="640" height="360" src="https://www.youtube.com/embed/uETIJ4KS39M?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Seelie" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>]]></content:encoded>
     </item>
     <item>
@@ -163,10 +550,11 @@ Nota 2: Mayor la distancia mayor el retraso.</p>
       <link>https://korepi.com/es/features/Mundo/auto-tree-farm.html</link>
       <guid>https://korepi.com/es/features/Mundo/auto-tree-farm.html</guid>
       <source url="https://korepi.com/es/rss.xml">Auto Madera</source>
-      <description>Auto Madera permite golpear arboles cercanos para conseguir madera con rango, golpes y retraso personalizado, mira el siguiente video como ejemplo: Nota: No se recomienda cambia...</description>
+      <description>Auto Madera permite golpear arboles cercanos para conseguir madera con rango, golpes y retraso personalizado. Video de Ejemplo: Nota: No se recomienda cambiar los valores.</description>
       <category>Funciones</category>
       <pubDate>Fri, 15 Dec 2023 01:56:25 GMT</pubDate>
-      <content:encoded><![CDATA[<h3> Auto Madera permite golpear arboles cercanos para conseguir madera con rango, golpes y retraso personalizado, mira el siguiente video como ejemplo:</h3>
+      <content:encoded><![CDATA[<h3> Auto Madera permite golpear arboles cercanos para conseguir madera con rango, golpes y retraso personalizado.</h3>
+<h2> Video de Ejemplo:</h2>
 <iframe width="640" height="360" src="https://www.youtube.com/embed/v95_NOxc4do?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Tree Farm" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 <blockquote>
 <p>Nota: No se recomienda cambiar los valores.</p>
@@ -182,7 +570,8 @@ Nota 2: Mayor la distancia mayor el retraso.</p>
       <category>Funciones</category>
       <pubDate>Fri, 15 Dec 2023 01:56:25 GMT</pubDate>
       <content:encoded><![CDATA[<h2> Solo para Sponsor</h2>
-<h3> Aura Elemental aplica elementos a ti mismo, monstruos u objetos cercanos, tanto los elementos, el rango y el retraso se pueden personalizar, se puede usar más de un elemento, mira el siguiente video como ejemplo:</h3>
+<h3> Aura Elemental aplica elementos a ti mismo, monstruos u objetos cercanos, tanto los elementos, el rango y el retraso se pueden personalizar, se puede usar más de un elemento.</h3>
+<h2> Video de Ejemplo:</h2>
 <iframe width="640" height="360" src="https://www.youtube.com/embed/FskTJiknOgQ?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Elemental Aura (Sponsor)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 <blockquote>
 <p>Nota: Un retraso bajo aumentara la probabilidad de detección.</p>
@@ -253,10 +642,11 @@ Nota 2: No se recomienda usar.</p>
       <link>https://korepi.com/es/features/Mundo/mob-vacuum.html</link>
       <guid>https://korepi.com/es/features/Mundo/mob-vacuum.html</guid>
       <source url="https://korepi.com/es/rss.xml">Succión de Mobs</source>
-      <description>Succión de Mobs acerca a los enemigos con un rango y velocidad personalizados, mira el siguiente video como ejemplo: Nota: Se recomienda usar por debajo de 20m.</description>
+      <description>Succión de Mobs acerca a los enemigos con un rango y velocidad personalizados. Video de Ejemplo: Nota: Se recomienda usar por debajo de 20m.</description>
       <category>Funciones</category>
       <pubDate>Fri, 15 Dec 2023 01:56:25 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Succión de Mobs acerca a los enemigos con un rango y velocidad personalizados, mira el siguiente video como ejemplo:</h2>
+      <content:encoded><![CDATA[<h2> Succión de Mobs acerca a los enemigos con un rango y velocidad personalizados.</h2>
+<h2> Video de Ejemplo:</h2>
 <iframe width="640" height="360" src="https://www.youtube.com/embed/KNzVgG_V10I?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Mob Vacuum" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 <blockquote>
 <p>Nota: Se recomienda usar por debajo de <code>20m</code>.</p>
@@ -268,10 +658,11 @@ Nota 2: No se recomienda usar.</p>
       <link>https://korepi.com/es/features/Mundo/vacuum-loot.html</link>
       <guid>https://korepi.com/es/features/Mundo/vacuum-loot.html</guid>
       <source url="https://korepi.com/es/rss.xml">Succión de Botín</source>
-      <description>Succión de Botín acerca a los drops con un rango y velocidad personalizados, mira el siguiente video como ejemplo: Nota: Se recomienda usar por debajo de 20m.</description>
+      <description>Succión de Botín acerca a los drops con un rango y velocidad personalizados. Video de Ejemplo: Nota: Se recomienda usar por debajo de 20m.</description>
       <category>Funciones</category>
       <pubDate>Fri, 15 Dec 2023 01:56:25 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Succión de Botín acerca a los drops con un rango y velocidad personalizados, mira el siguiente video como ejemplo:</h2>
+      <content:encoded><![CDATA[<h2> Succión de Botín acerca a los drops con un rango y velocidad personalizados.</h2>
+<h2> Video de Ejemplo:</h2>
 <iframe width="640" height="360" src="https://www.youtube.com/embed/iMElTsNF77c?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Vacuum Loot" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 <blockquote>
 <p>Nota: Se recomienda usar por debajo de <code>20m</code>.</p>
