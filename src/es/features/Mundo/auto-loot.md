@@ -8,7 +8,9 @@ tag:
 author: Schvis
 ---
 
-## Auto Recoger te permite recoger materiales como plantas, cofres, drops y más con rangos y retrasos personalizados, mira el siguiente video como ejemplo:
+## Auto Recoger te permite recoger materiales como plantas, cofres, drops y más con rangos y retrasos personalizados.
+
+## Video de Ejemplo:
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/wUyI2XO_Z4E?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Loot" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
