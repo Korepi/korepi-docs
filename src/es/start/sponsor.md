@@ -10,25 +10,25 @@ author: Schvis
 order: 4
 ---
 
-## Como convertirse en Sponsor?
+## <span style='color:white;'>Como convertirse en Sponsor?</span>
 
 Para convertirte en Sponsor, deberás donar al menos 5$ o el equivalente si estas usando otra moneda.
 
-## Donde donar?
+## <span style='color:white;'>Donde donar?</span>
 
 Cuando ya estés en el servidor, por favor ve al canal de [#sponsorship](https://discord.com/channels/1069057220802781265/1097565269985071205). Selecciona el link que prefieras usar para hacer la donación. Por favor asegúrate de hacer una captura de pantalla para el siguiente paso.
 
-## Que hago después de haber donado?
+## <span style='color:white;'>Que hago después de haber donado?</span>
 
 Si ya has donado, puedes enviarle las pruebas a cualquiera de los moderadores disponibles. Por favor asegúrate de enseñar las capturas o el enlace de donación como prueba
 
 ![](/assets/images/docs/202312/proof.png)
 
-## (PARA NO-FANS) Como reclamar el rol de Fans después de la donación?
+## <span style='color:white;'>(PARA NO-FANS) Como reclamar el rol de Fans después de la donación?</span>
 
 Si eres un sponsor y no tienes el rol de Fans, puedes saltarte el sign-in de 7 días y reclamar el rol instantáneamente
 
-### Paso 1: Abre un ticket
+### <span style='color:white;'>Paso 1: Abre un ticket</span>
 
 Para hacer eso, necesitas ir al canal de #ticket-start (Solo visible cuando ya tienes Sponsor).
 
@@ -38,7 +38,7 @@ Cuando le des click a 'open', veras un canal nuevo debajo del canal de tickets.
 
 ![](/assets/images/docs/202312/openticket2.png)
 
-### Paso 2: Rellena el formulario
+### <span style='color:white;'>Paso 2: Rellena el formulario</span>
 
 Dale a; botón de 'form link' para rellenar el formulario
 

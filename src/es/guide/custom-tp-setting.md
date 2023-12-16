@@ -10,9 +10,9 @@ author: Schvis
 order: 6
 ---
 
-## Como usar Teletransportes personalizados
+## <span style='color:white;'>Como usar Teletransportes personalizados</span>
 
-### Paso 1: Configuración 
+### <span style='color:white;'>Paso 1: Configuración</span>
 
 Lo configuraremos de la siguiente manera:
 
@@ -20,11 +20,11 @@ Lo configuraremos de la siguiente manera:
 
 El tiempo de retraso recomendado es de >15s.
 
-### Paso 2: Descargar los archivos `.json` para los teletransportes
+### <span style='color:white;'>Paso 2: Descargar los archivos `.json` para los teletransportes</span>
 
 Para ello podremos encontrarlo en el canal de `community-share` en la publicación fijada. Lo descargaremos y lo extraemos en cualquier carpeta.
 
-### Paso 3: Seleccionar los teletransportes deseados
+### <span style='color:white;'>Paso 3: Seleccionar los teletransportes deseados</span>
 
 Entraremos en los ajustes dentro de Korepi de nuevo e iremos a la siguiente sección:
 
@@ -32,7 +32,7 @@ Entraremos en los ajustes dentro de Korepi de nuevo e iremos a la siguiente secc
 
 Le daremos click a select path, y elegiremos la carpeta de los teletransportes que deseamos utilizar.
 
-### Paso 4: Empezar los teletransportes
+### <span style='color:white;'>Paso 4: Empezar los teletransportes</span>
 
 Después de seleccionar los teletransportes deberemos de darle a la siguiente casilla:
 
@@ -42,7 +42,7 @@ La activamos y le damos a `Select`:
 
 ![](/assets/images/docs/202312/teleport4.png)
 
-### Paso 5: Disfrutar
+### <span style='color:white;'>Paso 5: Disfrutar</span>
 
 Ahora los teletransportes empezaran, si tienes [Sponsor](../start/sponsor.md) habrá un contador del tiempo que tardara.
 

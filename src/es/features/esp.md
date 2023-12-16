@@ -9,9 +9,9 @@ author: Schvis
 order: 1
 ---
 
-## ESP permite al jugador seguir y ver objetos a través de otros objetos.
+## <span style='color:white;'>ESP permite al jugador seguir y ver objetos a través de otros objetos.</span>
 > Nota: El rango, los objetos y como se siguen los objetos se pueden personalizar.
 
-## Video de Ejemplo:
+## <span style='color:white;'>Video de Ejemplo:</span>
 
 ### Próximamente...

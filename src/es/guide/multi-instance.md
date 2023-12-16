@@ -9,7 +9,7 @@ author: Schvis
 order: 3
 ---
 
-## Como usar Multi-Instancia (Abrir 2 juegos al mismo tiempo)
+## <span style='color:white;'>Como usar Multi-Instancia (Abrir 2 juegos al mismo tiempo)</span>
 ::: info Solo funciona para la version Local(V)
 :::
 ---
