@@ -8,7 +8,7 @@ tag:
 author: Schvis
 ---
 
-## ESP allows the player to track the selected objects from the filter with customizable visual effects.
+## ESP allows the player to track and view the selected objects through other objects from the filter with customizable visual effects.
 > Note: Range, objects, visuals can be all customized.
 
 ## Example Video:

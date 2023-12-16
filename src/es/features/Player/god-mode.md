@@ -2,7 +2,7 @@
 title: Modo Dios
 icon: user
 category:
-  - Features
+  - Funciones
 tag:
   - Modo Dios
 author: Schvis

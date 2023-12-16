@@ -2,7 +2,7 @@
 title: Control de Caída
 icon: person-falling
 category:
-  - Features
+  - Funciones
 tag:
   - Control de Caída
 author: Schvis

@@ -2,7 +2,7 @@
 title: Efectos de Ataque
 icon: explosion
 category:
-  - Features
+  - Funciones
 tag:
   - Efectos de Ataque
 author: Schvis

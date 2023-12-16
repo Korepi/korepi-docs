@@ -2,7 +2,7 @@
 title: Sin Colisión
 icon: person-walking-dashed-line-arrow-right
 category:
-  - Features
+  - Funciones
 tag:
   - Sin Colisión
 author: Schvis

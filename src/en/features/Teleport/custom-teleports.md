@@ -8,8 +8,7 @@ tag:
 author: Schvis
 ---
 
-## Custom Teleport:
-
+## Custom Teleport: Allows the player to teleport to a selected location designed by a `.json` file.
 ### Interpolation Speed:
 - Controls the teleportation animation speed, set to `0.1` to avoid issues.
 ### Auto Teleport:

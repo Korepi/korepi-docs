@@ -2,7 +2,7 @@
 title: Auto Correr
 icon: person-running
 category:
-  - Features
+  - Funciones
 tag:
   - Auto Correr
 author: Schvis

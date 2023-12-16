@@ -2,7 +2,7 @@
 title: Estamina Infinito
 icon: dumbbell
 category:
-  - Features
+  - Funciones
 tag:
   - Estamina Infinito
 author: Schvis

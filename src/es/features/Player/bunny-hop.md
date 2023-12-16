@@ -2,7 +2,7 @@
 title: Salto de Conejo
 icon: carrot
 category:
-  - Features
+  - Funciones
 tag:
   - Salto de Conejo
 author: Schvis

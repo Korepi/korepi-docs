@@ -2,7 +2,7 @@
 title: Efectos de Enfriamiento
 icon: clock-rotate-left
 category:
-  - Features
+  - Funciones
 tag:
   - Efectos de Enfriamiento
 author: Schvis

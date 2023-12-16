@@ -2,7 +2,7 @@
 title: Movimiento Extra
 icon: bolt
 category:
-  - Features
+  - Funciones
 tag:
   - Movimiento Extra
 author: Schvis

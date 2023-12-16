@@ -2,7 +2,7 @@
 title: Velocidad de Jugador
 icon: forward-fast
 category:
-  - Features
+  - Funciones
 tag:
   - Velocidad de Jugador
 author: Schvis

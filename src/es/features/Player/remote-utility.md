@@ -2,7 +2,7 @@
 title: Utilidad Remota
 icon: tower-broadcast
 category:
-  - Features
+  - Funciones
 tag:
   - Utilidad Remota
 author: Schvis
