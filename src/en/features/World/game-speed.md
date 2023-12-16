@@ -1,6 +1,6 @@
 ---
 title: Game Speed
-icon: sitemap
+icon: forward-fast
 category:
   - Features
 tag:

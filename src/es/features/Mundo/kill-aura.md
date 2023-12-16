@@ -1,6 +1,6 @@
 ---
 title: Kill Aura
-icon: sitemap
+icon: street-view
 category:
   - Funciones
 tag:
