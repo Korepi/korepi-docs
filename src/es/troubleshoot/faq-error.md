@@ -108,3 +108,21 @@ Usa un VPN si sigue sin funcionar.
 ## Failed to detect game version
 
 Actualiza tu mod siguiendo [estos](../start/download.md) pasos.
+
+## File ok
+
+Borra tu `cfg.json`, algo esta mal con el archivo.
+
+## UserAssembly.dll isn't initialized, waiting for 2 sec.
+
+Si el mod crashea después de esta linea sigue los siguientes pasos.
+
+Deshabilita todos los anti-virus que tengas.
+
+Si no funciona usa `sfc /scannow` en tu `cmd` como administrador.
+
+Si se encontraron errores y Windows no lo puede solucionar, una `DISM.exe /Online /Cleanup-Image /RestoreHealth` en el `cmd`.
+
+Después de eso reiniciar tu ordenador y comprueba si funciona.
+
+Si no funciona, tendras que reinstalar windows.
