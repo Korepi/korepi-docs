@@ -8,7 +8,7 @@ tag:
 author: Schvis
 ---
 
-## Chest Teleports will teleport the player to the nearest rendered chest location when the hotkey is pressed.
+## Chest Teleport will teleport the player to the nearest rendered chest location when the hotkey is pressed.
 
 > Note: Wait `>15s` between teleports for safety.
 

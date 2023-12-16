@@ -8,7 +8,7 @@ tag:
 author: Schvis
 ---
 
-## Oculi Teleports will teleport the player to the nearest rendered oculi location when the hotkey is pressed.
+## Oculi Teleport will teleport the player to the nearest rendered oculi location when the hotkey is pressed.
 
 > Note: Wait `>15s` between teleports for safety.
 

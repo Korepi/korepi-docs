@@ -17,5 +17,5 @@ author: Schvis
     - Teleport Previous: Teleports to previous location after pressing the selected hotkey.
 > Note: Recommended to set above `15s` for safety.
 
-# You can find out how to use this features [here](../.././guide/custom-tp-setting.md)
+# You can find out more on how to use this feature [here](../.././guide/custom-tp-setting.md)
 
