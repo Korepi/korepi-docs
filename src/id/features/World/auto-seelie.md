@@ -1,6 +1,6 @@
 ---
 title: Auto Seelie
-icon: firefox
+icon: arrows-split-up-and-left
 category:
   - Fitur
 tag:
