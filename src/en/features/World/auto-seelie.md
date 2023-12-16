@@ -5,7 +5,7 @@ category:
   - Features
 tag:
   - Auto Seelie
-author: Schvis
+author: Schvis, Ikuyo
 ---
 
 ## Auto Seelie removes the necesity of the player to follow the seelie constantly, seelie with go to the designed destination when the player gets close.

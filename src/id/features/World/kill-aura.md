@@ -5,7 +5,7 @@ category:
   - Fitur
 tag:
   - Kill Aura
-author: Schvis, Natsume
+author: Schvis, Natsume, Ikuyo
 ---
 
 ## Kill Aura: Memberikan kerusakan kepada musuh di sekitar.
@@ -14,10 +14,10 @@ author: Schvis, Natsume
 - Memberikan fall damage kepada musuh di sekitar dengan nilai, waktu jeda, dan jarak jangkau tertentu.
 > Catatan: Tidak disarankan menggunakan nilai yang sangat tinggi.
 ### Percent Mode:
-- Jumlah hit yang diperlukan untuk membunuh musuh.
+- Jumlah serangan yang diperlukan untuk membunuh musuh.
 > Catatan: Disarankan menggunakan nilai 3 atau lebih tinggi.
 ### Left HP:
-- Menentukan apakah akan menyisakan jumlah HP tertentu kepada musuh di sekitar.
+- Menentukan apakah akan menyisakan jumlah HP yang telah ditentukan kepada musuh di sekitar.
 ### Instant Death Mode:
 - Akan mencoba membuat musuh menghilang
 > Catatan: Mungkin bermasalah dengan beberapa boss.
