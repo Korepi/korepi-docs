@@ -10,7 +10,7 @@ author: Schvis
 order: 5
 ---
 
-## <span style='color:white;'>How to install custom Skins in `GIMI`</span
+## <span style='color:white;'>How to install custom Skins in `GIMI`</span>
 
 ### <span style='color:white;'>Step 1: Download the Skin</span>
 

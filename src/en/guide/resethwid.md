@@ -57,7 +57,7 @@ To get your current HWID, you will need to open your `Local(V) injector`, and it
 
 After finding `★⋅micah-bot-verify⋅★`, click on `V:Change HWID`, a window will pop up asking for your current HWID, paste it and click `Submit`.
 
-### <span style='color:white;'>Step 3: Get your new `enc.json`</span
+### <span style='color:white;'>Step 3: Get your new `enc.json`</span>
 
 After your HWID reset, click on `V:Verify` and paste your current HWID into the window and click `Submit`. Now download the new `enc.json` and replace the file in your Korepi folder.
 
