@@ -13,3 +13,4 @@ author: Micah
 - [自定义传送的使用指南](custom-tp-setting.md)
 - [Korepi与3DM同时运行教程](3DM-tutorial.md)
 - [如何获取并使用密钥](key-use.md)
+- [危险功能](danger-function.md)

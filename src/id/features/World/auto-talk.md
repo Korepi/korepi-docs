@@ -5,7 +5,7 @@ category:
   - Fitur
 tag:
   - Auto Talk
-author: Schvis, Natsume
+author: Schvis, Natsume, Ikuyo
 ---
 
 ## Auto Talk: Fitur Berdialog dengan NPC secara otomatis
@@ -19,10 +19,10 @@ author: Schvis, Natsume
 - Mempercepat game dengan pilihan angka tertentu yang akan membuat cutscene lebih cepat.
 > Catatan: Tidak disarankan menggunakan nilai diatas `5`.
 ### Skip Talk Scenes:
-- Melewati adegan percakapan jika tertrigger atau sedang berlangsung.
+- Melewati adegan percakapan ketika terpicu atau sedang berlangsung.
 > Catatan: Blackscreen kemungkinan akan terjadi jika menggunakan fitur ini.
 ### Skip Cutscene:
-- Melewati cutscene jika tertrigger atau sedang berlangsung.
+- Melewati cutscene ketika terpicu atau sedang berlangsung.
 > Catatan: Blackscreen kemungkinan akan terjadi jika menggunakan fitur ini.
 
 ## Video Contoh:

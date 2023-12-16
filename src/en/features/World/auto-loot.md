@@ -5,7 +5,7 @@ category:
   - Features
 tag:
   - Auto Loot
-author: Schvis
+author: Schvis, Ikuyo
 ---
 
 ## Auto loot lets you auto collect loot withing the selected range and delay, the loot that will be collected can be customized, including chests, mob drops and more.
