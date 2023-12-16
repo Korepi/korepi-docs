@@ -6,13 +6,53 @@
     <link>https://korepi.com/zh/</link>
     <description>Korepi 中文文档介绍</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 16 Dec 2023 04:37:15 GMT</pubDate>
-    <lastBuildDate>Sat, 16 Dec 2023 04:37:15 GMT</lastBuildDate>
+    <pubDate>Sat, 16 Dec 2023 10:49:36 GMT</pubDate>
+    <lastBuildDate>Sat, 16 Dec 2023 10:49:36 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+    <category>指南</category>
     <category>Guide</category>
     <category>Troubleshoot</category>
-    <category>指南</category>
+    <item>
+      <title>危险功能</title>
+      <link>https://korepi.com/zh/guide/danger-function.html</link>
+      <guid>https://korepi.com/zh/guide/danger-function.html</guid>
+      <source url="https://korepi.com/zh/rss.xml">危险功能</source>
+      <description>[远程工具]; 自定义对话; 生成 工具; --- [自动对话] 自动对话; 跳过对话; --- [全局加速]; [杀戮光环]; [掉落物吸附]; 传送功能在版本末期基本上属于高危功能之一 赞助者功能[命座修改]</description>
+      <category>指南</category>
+      <pubDate>Sat, 16 Dec 2023 07:28:19 GMT</pubDate>
+      <content:encoded><![CDATA[<hr>
+<h1> <span style="color:red;">玩家功能</span></h1>
+<hr>
+<ul>
+<li>[远程工具]</li>
+<li>自定义对话</li>
+<li>生成 工具</li>
+</ul>
+<hr>
+<h1> <span style="color:red;">世界功能</span></h1>
+<hr>
+<p>[自动对话]</p>
+<ul>
+<li>自动对话</li>
+<li>跳过对话</li>
+</ul>
+<hr>
+<ul>
+<li>[全局加速]</li>
+<li>[杀戮光环]</li>
+<li>[掉落物吸附]</li>
+</ul>
+<hr>
+<h1> <span style="color:red;">传送功能</span></h1>
+<div class="hint-container danger">
+<p class="hint-container-title">传送功能在版本末期基本上属于高危功能之一</p>
+</div>
+<hr>
+<h1> <span style="color:red;">视图功能</span></h1>
+<h2> <span style="color:#f1c40f;">赞助者功能[命座修改]</span></h2>
+]]></content:encoded>
+    </item>
     <item>
       <title>31-4302 错误</title>
       <link>https://korepi.com/zh/troubleshoot/31-4302.html</link>
@@ -167,31 +207,31 @@
 <h1> 3.根据自己所需要的验证版本选择验证密钥</h1>
 <h2> v版本使用流程：</h2>
 <ul>
-<li>[1]打开v版本的korepi的注入器，会自动复制你的hwid在你的剪切板，如下图：</li>
-<li></li>
-<li>[2]点击v：verify会弹出。</li>
-<li></li>
+<li>[1]打开v版本的korepi的注入器，会自动复制你的hwid在你的剪切板，如下图：
+</li>
+<li>[2]点击v：verify会弹出。
+</li>
 <li>[3]将你的hwid复制输入，bot会给你一个enc.json文件将它下载并和korepi放在一起。</li>
 <li>备注：如果bot，没发enc.json给你，再用一次v：verify。</li>
 </ul>
+<p><a href="https://youtu.be/0ccpiexXzss" target="_blank" rel="noopener noreferrer">v版本视频链接</a></p>
+  <iframe width="640" height="360" src="https://www.youtube.com/embed/0ccpiexXzss?si=ciWVRhfs6kZ-mNFR" title="korepi 中文V版本使用密钥教程" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 <h2> F版本使用流程：</h2>
 <ul>
-<li>
-<p>[1]点击F：Get key，bot会在频道中发消息，如下：</p>
+<li>[1]点击F：Get key，bot会在频道中发消息，如下：
 </li>
-<li>
-<p></p>
+<li>[2]复制key：后面的micah-xxxx-xxx密钥。
 </li>
-<li>
-<p>[2]复制key：后面的micah-xxxx-xxx密钥。</p>
-</li>
-<li>
-<p>[3]打开korepi，粘贴密钥进去即可。验证成功会生成license.json文件</p>
-</li>
+<li>[3]打开korepi，粘贴密钥进去即可。验证成功会生成license.json文件</li>
+<li></li>
+<li><a href="https://youtu.be/lekW7aMKmr0" target="_blank" rel="noopener noreferrer">F版本视频链接</a></li>
 </ul>
+ <iframe width="640" height="360" src="https://www.youtube.com/embed/lekW7aMKmr0?si=aVtpdaHuwgMpxxdQ" title="korepi 中文F版本使用密钥教程" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 <div class="hint-container danger">
 <p class="hint-container-title">警告</p>
 <h3> 如果打开korepi闪退请检查自己的网络是否流畅，VPN是否有开启。</h3>
+<h3> 不能同时存在二个版本的密钥</h3>
+<h3> 生成了F就不能生成V 反之亦然</h3>
 </div>
 ]]></content:encoded>
     </item>
@@ -483,7 +523,7 @@
       <link>https://korepi.com/zh/guide/</link>
       <guid>https://korepi.com/zh/guide/</guid>
       <source url="https://korepi.com/zh/rss.xml">指南</source>
-      <description>配置文件的切换 (config-change.md); esp调配设置 (esp-setting.md); 自定义传送的使用指南 (custom-tp-setting.md); Korepi与3DM同时运行教程 (3DM-tutorial.md); 如何获取并使用密钥 (key-use.md);</description>
+      <description>配置文件的切换 (config-change.md); esp调配设置 (esp-setting.md); 自定义传送的使用指南 (custom-tp-setting.md); Korepi与3DM同时运行教程 (3DM-tutorial.md); 如何获取并使用密钥 (key-use.md); 危险功能 (danger-function.md);</description>
       <category>指南</category>
       <pubDate>Mon, 20 Nov 2023 11:28:37 GMT</pubDate>
       <content:encoded><![CDATA[<ul>
@@ -492,6 +532,7 @@
 <li><a href="/zh/guide/custom-tp-setting.html" target="blank">自定义传送的使用指南</a></li>
 <li><a href="/zh/guide/3DM-tutorial.html" target="blank">Korepi与3DM同时运行教程</a></li>
 <li><a href="/zh/guide/key-use.html" target="blank">如何获取并使用密钥</a></li>
+<li><a href="/zh/guide/danger-function.html" target="blank">危险功能</a></li>
 </ul>
 ]]></content:encoded>
     </item>
