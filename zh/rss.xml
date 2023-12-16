@@ -6,13 +6,594 @@
     <link>https://korepi.com/zh/</link>
     <description>Korepi 中文文档介绍</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 16 Dec 2023 14:59:15 GMT</pubDate>
-    <lastBuildDate>Sat, 16 Dec 2023 14:59:15 GMT</lastBuildDate>
+    <pubDate>Sat, 16 Dec 2023 14:59:50 GMT</pubDate>
+    <lastBuildDate>Sat, 16 Dec 2023 14:59:50 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+    <category>Features</category>
     <category>指南</category>
     <category>Guide</category>
     <category>Troubleshoot</category>
+    <item>
+      <title>功能列表</title>
+      <link>https://korepi.com/zh/features/</link>
+      <guid>https://korepi.com/zh/features/</guid>
+      <source url="https://korepi.com/zh/rss.xml">功能列表</source>
+      <description>在下面的部分中，你可以按类别划分找到相应的功能列表，以及示例视频和推荐。 视频待更新中！</description>
+      <category>Features</category>
+      <pubDate>Sat, 16 Dec 2023 14:26:11 GMT</pubDate>
+      <content:encoded><![CDATA[<h1> 功能列表</h1>
+<h1> 玩家功能</h1>
+<h1> 世界功能</h1>
+<h2> 在下面的部分中，你可以按类别划分找到相应的功能列表，以及示例视频和推荐。</h2>
+<h2> 视频待更新中！</h2>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>自动解锁锚点</title>
+      <link>https://korepi.com/zh/features/%E4%B8%96%E7%95%8C%E5%8A%9F%E8%83%BD/auto-activate-tp.html</link>
+      <guid>https://korepi.com/zh/features/%E4%B8%96%E7%95%8C%E5%8A%9F%E8%83%BD/auto-activate-tp.html</guid>
+      <source url="https://korepi.com/zh/rss.xml">自动解锁锚点</source>
+      <description>赞助者专属 自动解锁锚点：配合自动传送可以解锁附件50m的锚点和神像.</description>
+      <category>Features</category>
+      <pubDate>Sat, 16 Dec 2023 14:26:11 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> <span style="color:#f1c40f;">赞助者专属</span></h2>
+<h3> 自动解锁锚点：配合自动传送可以解锁附件50m的锚点和神像.</h3>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>自动挑战</title>
+      <link>https://korepi.com/zh/features/%E4%B8%96%E7%95%8C%E5%8A%9F%E8%83%BD/auto-challenge.html</link>
+      <guid>https://korepi.com/zh/features/%E4%B8%96%E7%95%8C%E5%8A%9F%E8%83%BD/auto-challenge.html</guid>
+      <source url="https://korepi.com/zh/rss.xml">自动挑战</source>
+      <description>自动挑战：可以让你在指定的范围内完成当前的挑战活动，你可以根据自己的喜好进行配置。 目前只能引爆炸药桶和拾取元素微粒。;</description>
+      <category>Features</category>
+      <pubDate>Sat, 16 Dec 2023 14:26:11 GMT</pubDate>
+      <content:encoded><![CDATA[<h3> 自动挑战：可以让你在指定的范围内完成当前的挑战活动，你可以根据自己的喜好进行配置。</h3>
+<ul>
+<li>目前只能引爆炸药桶和拾取元素微粒。</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>自动烹饪</title>
+      <link>https://korepi.com/zh/features/%E4%B8%96%E7%95%8C%E5%8A%9F%E8%83%BD/auto-cook.html</link>
+      <guid>https://korepi.com/zh/features/%E4%B8%96%E7%95%8C%E5%8A%9F%E8%83%BD/auto-cook.html</guid>
+      <source url="https://korepi.com/zh/rss.xml">自动烹饪</source>
+      <description>自动烹饪:允许你在烹饪页面上选择烹饪数量和质量的食物，内置快速熟练</description>
+      <category>Features</category>
+      <pubDate>Sat, 16 Dec 2023 14:26:11 GMT</pubDate>
+      <content:encoded><![CDATA[<h3> 自动烹饪:允许你在烹饪页面上选择烹饪数量和质量的食物，内置快速熟练</h3>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>自动摧毁物体</title>
+      <link>https://korepi.com/zh/features/%E4%B8%96%E7%95%8C%E5%8A%9F%E8%83%BD/auto-destroy.html</link>
+      <guid>https://korepi.com/zh/features/%E4%B8%96%E7%95%8C%E5%8A%9F%E8%83%BD/auto-destroy.html</guid>
+      <source url="https://korepi.com/zh/rss.xml">自动摧毁物体</source>
+      <description>自动销毁物体：允许您销毁指定范围内的可自定义对象，其中包括矿石、植物、岩石堆、箱子、特殊对象、盾牌等。 ::: danger bug 此功能中摧毁护盾不能与杀戮光环一起使用。 :::</description>
+      <category>Features</category>
+      <pubDate>Sat, 16 Dec 2023 14:26:11 GMT</pubDate>
+      <content:encoded><![CDATA[<h3> 自动销毁物体：允许您销毁指定范围内的可自定义对象，其中包括矿石、植物、岩石堆、箱子、特殊对象、盾牌等。</h3>
+<div class="hint-container danger">
+<p class="hint-container-title">bug</p>
+<p>此功能中摧毁护盾不能与杀戮光环一起使用。</p>
+</div>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>自动钓鱼</title>
+      <link>https://korepi.com/zh/features/%E4%B8%96%E7%95%8C%E5%8A%9F%E8%83%BD/auto-fish.html</link>
+      <guid>https://korepi.com/zh/features/%E4%B8%96%E7%95%8C%E5%8A%9F%E8%83%BD/auto-fish.html</guid>
+      <source url="https://korepi.com/zh/rss.xml">自动钓鱼</source>
+      <description>自动钓鱼：通过“自动钓鱼”可以跳过钓鱼的动画，这将减少捕捉鱼所需的时间。 Note: 重新抛竿是不生效的。</description>
+      <category>Features</category>
+      <pubDate>Sat, 16 Dec 2023 14:26:11 GMT</pubDate>
+      <content:encoded><![CDATA[<h3> 自动钓鱼：通过“自动钓鱼”可以跳过钓鱼的动画，这将减少捕捉鱼所需的时间。</h3>
+<blockquote>
+<p>Note: 重新抛竿是不生效的。</p>
+</blockquote>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>自动收集</title>
+      <link>https://korepi.com/zh/features/%E4%B8%96%E7%95%8C%E5%8A%9F%E8%83%BD/auto-loot.html</link>
+      <guid>https://korepi.com/zh/features/%E4%B8%96%E7%95%8C%E5%8A%9F%E8%83%BD/auto-loot.html</guid>
+      <source url="https://korepi.com/zh/rss.xml">自动收集</source>
+      <description>自动收集：可以让你在选定的范围内自动收集战利品，并且可以延迟，收集的战利品可以自定义，包括箱子、掉落物等。 注：建议在“10m”以下正常使用，在“20m”以下使用自定义tp。 注2：距离越高，应使用越高的延迟。</description>
+      <category>Features</category>
+      <pubDate>Sat, 16 Dec 2023 14:26:11 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> 自动收集：可以让你在选定的范围内自动收集战利品，并且可以延迟，收集的战利品可以自定义，包括箱子、掉落物等。</h2>
+<blockquote>
+<p>注：建议在“10m”以下正常使用，在“20m”以下使用自定义tp。
+注2：距离越高，应使用越高的延迟。</p>
+</blockquote>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>自动仙灵</title>
+      <link>https://korepi.com/zh/features/%E4%B8%96%E7%95%8C%E5%8A%9F%E8%83%BD/auto-seelie.html</link>
+      <guid>https://korepi.com/zh/features/%E4%B8%96%E7%95%8C%E5%8A%9F%E8%83%BD/auto-seelie.html</guid>
+      <source url="https://korepi.com/zh/rss.xml">自动仙灵</source>
+      <description>自动仙灵：消除了玩家不断跟随寻找的必要性，当玩家靠近时，仙灵会自动回到仙灵座上。</description>
+      <category>Features</category>
+      <pubDate>Sat, 16 Dec 2023 14:26:11 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> 自动仙灵：消除了玩家不断跟随寻找的必要性，当玩家靠近时，仙灵会自动回到仙灵座上。</h2>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>自动对话</title>
+      <link>https://korepi.com/zh/features/%E4%B8%96%E7%95%8C%E5%8A%9F%E8%83%BD/auto-talk.html</link>
+      <guid>https://korepi.com/zh/features/%E4%B8%96%E7%95%8C%E5%8A%9F%E8%83%BD/auto-talk.html</guid>
+      <source url="https://korepi.com/zh/rss.xml">自动对话</source>
+      <description>自动对话：自动跳过与NPC对话 快速对话框： 使用选定的值加速游戏以使对话框更快。; 注意：不建议使用高于“5”的值。 跳过对话框赞助者专属： 以选定的延迟跳过对话框。它比快速对话更安全。; 注意：不建议在200ms以下使用` 跳过谈话场景： 跳过已触发或正在进行的谈话场景。; 注意：使用时可能会出现黑屏。 跳过跳过切场动画： 如果剪切场景已触发或正在...</description>
+      <category>Features</category>
+      <pubDate>Sat, 16 Dec 2023 14:26:11 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> 自动对话：自动跳过与NPC对话</h2>
+<h3> 快速对话框：</h3>
+<ul>
+<li>使用选定的值加速游戏以使对话框更快。</li>
+</ul>
+<blockquote>
+<p>注意：不建议使用高于“5”的值。</p>
+</blockquote>
+<h3> 跳过对话框<span style="color:#f1c40f;">赞助者专属</span>：</h3>
+<ul>
+<li>以选定的延迟跳过对话框。它比快速对话更安全。</li>
+</ul>
+<blockquote>
+<p>注意：不建议在200ms以下使用`</p>
+</blockquote>
+<h3> 跳过谈话场景：</h3>
+<ul>
+<li>跳过已触发或正在进行的谈话场景。</li>
+</ul>
+<blockquote>
+<p>注意：使用时可能会出现黑屏。</p>
+</blockquote>
+<h3> 跳过跳过切场动画：</h3>
+<ul>
+<li>如果剪切场景已触发或正在进行，则跳过切场动画。</li>
+</ul>
+<blockquote>
+<p>注意：使用时可能会出现黑屏。</p>
+</blockquote>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>自动砍树</title>
+      <link>https://korepi.com/zh/features/%E4%B8%96%E7%95%8C%E5%8A%9F%E8%83%BD/auto-tree-farm.html</link>
+      <guid>https://korepi.com/zh/features/%E4%B8%96%E7%95%8C%E5%8A%9F%E8%83%BD/auto-tree-farm.html</guid>
+      <source url="https://korepi.com/zh/rss.xml">自动砍树</source>
+      <description>自动砍树：解放双手自动砍树，可选定砍树范围。</description>
+      <category>Features</category>
+      <pubDate>Sat, 16 Dec 2023 14:26:11 GMT</pubDate>
+      <content:encoded><![CDATA[<h3> 自动砍树：解放双手自动砍树，可选定砍树范围。</h3>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>元素光环</title>
+      <link>https://korepi.com/zh/features/%E4%B8%96%E7%95%8C%E5%8A%9F%E8%83%BD/elemental-aura.html</link>
+      <guid>https://korepi.com/zh/features/%E4%B8%96%E7%95%8C%E5%8A%9F%E8%83%BD/elemental-aura.html</guid>
+      <source url="https://korepi.com/zh/rss.xml">元素光环</source>
+      <description>赞助者专属 元素光环将指定元素、范围和延迟的元素应用于目标、物体或你自己，多个元素可以应用于附近的目标。 注意：低延迟时间将增加检测你被检测的概率。</description>
+      <category>Features</category>
+      <pubDate>Sat, 16 Dec 2023 14:26:11 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> <span style="color:#f1c40f;">赞助者专属</span></h2>
+<h3> 元素光环将指定元素、范围和延迟的元素应用于目标、物体或你自己，多个元素可以应用于附近的目标。</h3>
+<blockquote>
+<p>注意：低延迟时间将增加检测你被检测的概率。</p>
+</blockquote>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>全局加速</title>
+      <link>https://korepi.com/zh/features/%E4%B8%96%E7%95%8C%E5%8A%9F%E8%83%BD/game-speed.html</link>
+      <guid>https://korepi.com/zh/features/%E4%B8%96%E7%95%8C%E5%8A%9F%E8%83%BD/game-speed.html</guid>
+      <source url="https://korepi.com/zh/rss.xml">全局加速</source>
+      <description>全局加速：游戏速度加快或减慢。 注意：此功能很危险。欧服出现封禁案例。</description>
+      <category>Features</category>
+      <pubDate>Sat, 16 Dec 2023 14:26:11 GMT</pubDate>
+      <content:encoded><![CDATA[<h3> 全局加速：游戏速度加快或减慢。</h3>
+<blockquote>
+<p><span style="color:red;">注意：此功能很危险。欧服出现封禁案例</span>。</p>
+</blockquote>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>杀戮光环</title>
+      <link>https://korepi.com/zh/features/%E4%B8%96%E7%95%8C%E5%8A%9F%E8%83%BD/kill-aura.html</link>
+      <guid>https://korepi.com/zh/features/%E4%B8%96%E7%95%8C%E5%8A%9F%E8%83%BD/kill-aura.html</guid>
+      <source url="https://korepi.com/zh/rss.xml">杀戮光环</source>
+      <description>杀死光环：对周围敌人造成伤害。 碰撞损坏模式： 对周围敌人造成指定值、延迟和范围的掉落伤害。; 注意：不建议使用非常高的值。 百分比模式： 杀死敌人所需的命中次数。; 注意：建议使用“3”或更高的值。 剩余HP： 将周围怪物血量击打到你所设置的剩余血量。; 即死模式： 会试让光环范围内的敌人直接死亡。; 注意：可能会对一些boss没有效果。 注2：不建...</description>
+      <category>Features</category>
+      <pubDate>Sat, 16 Dec 2023 14:26:11 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> 杀死光环：对周围敌人造成伤害。</h2>
+<h1> <span style="color:red;">注意：此功能的危险性很高</span></h1>
+<h3> 碰撞损坏模式：</h3>
+<ul>
+<li>对周围敌人造成指定值、延迟和范围的掉落伤害。</li>
+</ul>
+<blockquote>
+<p><span style="color:red;">注意：不建议使用非常高的值。</span></p>
+</blockquote>
+<h3> 百分比模式：</h3>
+<ul>
+<li>杀死敌人所需的命中次数。</li>
+</ul>
+<blockquote>
+<p><span style="color:red;">注意：建议使用“3”或更高的值。</span></p>
+</blockquote>
+<h3> 剩余HP：</h3>
+<ul>
+<li>将周围怪物血量击打到你所设置的剩余血量。</li>
+</ul>
+<h3> 即死模式：</h3>
+<ul>
+<li>会试让光环范围内的敌人直接死亡。</li>
+</ul>
+<blockquote>
+<p>注意：可能会对一些boss没有效果。
+注2：不建议使用。</p>
+</blockquote>
+<h3> 仅对你有仇恨值的怪物：</h3>
+<ul>
+<li>选择之后，只会对你有仇恨值的怪物生效。</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>生物吸附</title>
+      <link>https://korepi.com/zh/features/%E4%B8%96%E7%95%8C%E5%8A%9F%E8%83%BD/mob-vacuum.html</link>
+      <guid>https://korepi.com/zh/features/%E4%B8%96%E7%95%8C%E5%8A%9F%E8%83%BD/mob-vacuum.html</guid>
+      <source url="https://korepi.com/zh/rss.xml">生物吸附</source>
+      <description>生物吸附：可以选择怪物或者动物，吸附到角色前面。 注：建议低于20m</description>
+      <category>Features</category>
+      <pubDate>Sat, 16 Dec 2023 14:26:11 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> 生物吸附：可以选择怪物或者动物，吸附到角色前面。</h2>
+<blockquote>
+<p>注：建议低于<code>20m</code></p>
+</blockquote>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>掉落物吸附</title>
+      <link>https://korepi.com/zh/features/%E4%B8%96%E7%95%8C%E5%8A%9F%E8%83%BD/vacuum-loot.html</link>
+      <guid>https://korepi.com/zh/features/%E4%B8%96%E7%95%8C%E5%8A%9F%E8%83%BD/vacuum-loot.html</guid>
+      <source url="https://korepi.com/zh/rss.xml">掉落物吸附</source>
+      <description>掉落物吸附：可以将附近的物品和掉落物吸附到玩家周围。 注：建议在“20m”以下。</description>
+      <category>Features</category>
+      <pubDate>Sat, 16 Dec 2023 14:26:11 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> 掉落物吸附：可以将附近的物品和掉落物吸附到玩家周围。</h2>
+<blockquote>
+<p>注：建议在“20m”以下。</p>
+</blockquote>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>攻击效果</title>
+      <link>https://korepi.com/zh/features/%E7%8E%A9%E5%AE%B6%E5%8A%9F%E8%83%BD/attack-effects.html</link>
+      <guid>https://korepi.com/zh/features/%E7%8E%A9%E5%AE%B6%E5%8A%9F%E8%83%BD/attack-effects.html</guid>
+      <source url="https://korepi.com/zh/rss.xml">攻击效果</source>
+      <description>攻击效果：修改你的攻击 倍功模式: 一拳模式：可以用1次攻击杀死目标.; 注意：不建议使用. 修改目标受到的攻击次数。; 注意：不建议超过“5”。 多个目标： 击中目标命后在其半径内的所有目标受到伤害。; 注意：不建议更改默认设置。 多重动画： 修改角色攻击动画。; 注意：不建议使用。 攻击速度： 修改玩家攻击的速度。; 注意：不建议使用高于“1.5”...</description>
+      <category>Features</category>
+      <pubDate>Sat, 16 Dec 2023 14:26:11 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> 攻击效果：修改你的攻击</h2>
+<h3> 倍功模式:</h3>
+<ul>
+<li>一拳模式：可以用1次攻击杀死目标.</li>
+</ul>
+<blockquote>
+<p>注意：不建议使用.</p>
+</blockquote>
+<ul>
+<li>修改目标受到的攻击次数。</li>
+</ul>
+<blockquote>
+<p>注意：不建议超过“5”。</p>
+</blockquote>
+<h3> 多个目标：</h3>
+<ul>
+<li>击中目标命后在其半径内的所有目标受到伤害。</li>
+</ul>
+<blockquote>
+<p>注意：不建议更改默认设置。</p>
+</blockquote>
+<h3> 多重动画：</h3>
+<ul>
+<li>修改角色攻击动画。</li>
+</ul>
+<blockquote>
+<p>注意：不建议使用。</p>
+</blockquote>
+<h3> 攻击速度：</h3>
+<ul>
+<li>修改玩家攻击的速度。</li>
+</ul>
+<blockquote>
+<p>注意：不建议使用高于“1.5”的值。</p>
+</blockquote>
+<h3> 自定义元素：</h3>
+<ul>
+<li>修改所输出的元素。</li>
+</ul>
+<h3> 注入元素：</h3>
+<ul>
+<li>修改角色普通攻击元素。</li>
+</ul>
+<h3> 自动弱点：</h3>
+<ul>
+<li>因此攻击目标武器罐受到批评，只适用于弓使用者。</li>
+</ul>
+<h3> 暴击（赞助商）：</h3>
+<ul>
+<li>更改暴击概率。</li>
+</ul>
+<h3> 抵消元素：</h3>
+<ul>
+<li>将注入自身元素抵消。</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>自动奔跑</title>
+      <link>https://korepi.com/zh/features/%E7%8E%A9%E5%AE%B6%E5%8A%9F%E8%83%BD/auto-run.html</link>
+      <guid>https://korepi.com/zh/features/%E7%8E%A9%E5%AE%B6%E5%8A%9F%E8%83%BD/auto-run.html</guid>
+      <source url="https://korepi.com/zh/rss.xml">自动奔跑</source>
+      <description>自动奔跑：将自动把玩家向前移动。</description>
+      <category>Features</category>
+      <pubDate>Sat, 16 Dec 2023 14:26:11 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> 自动奔跑：将自动把玩家向前移动。</h2>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>兔子跳</title>
+      <link>https://korepi.com/zh/features/%E7%8E%A9%E5%AE%B6%E5%8A%9F%E8%83%BD/bunny-hop.html</link>
+      <guid>https://korepi.com/zh/features/%E7%8E%A9%E5%AE%B6%E5%8A%9F%E8%83%BD/bunny-hop.html</guid>
+      <source url="https://korepi.com/zh/rss.xml">兔子跳</source>
+      <description>赞助者专属 兔子跳 ：启用后将在第一次跳跃后自动跳跃。</description>
+      <category>Features</category>
+      <pubDate>Sat, 16 Dec 2023 14:26:11 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> <span style="color:#f1c40f;">赞助者专属</span></h2>
+<h2> 兔子跳 ：启用后将在第一次跳跃后自动跳跃。</h2>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>无CD</title>
+      <link>https://korepi.com/zh/features/%E7%8E%A9%E5%AE%B6%E5%8A%9F%E8%83%BD/cooldown-effects.html</link>
+      <guid>https://korepi.com/zh/features/%E7%8E%A9%E5%AE%B6%E5%8A%9F%E8%83%BD/cooldown-effects.html</guid>
+      <source url="https://korepi.com/zh/rss.xml">无CD</source>
+      <description>无CD：修改技能的冷却时间。 最大爆发能量： 删除了使用元素爆发所需能量的要求。; 无技能冷却：取消角色技能的冷却时间。 降低技能/元素爆发冷却：当激活而不是取消冷却时，如果冷却时间高于所选值，它将被设置为所选值。; 注意：您可以对CD使用任何值，但不要太用力地发送垃圾邮件例如1米内40次 没有Sprint冷却： -消除冲刺之间的延迟。 快速充能攻击：...</description>
+      <category>Features</category>
+      <pubDate>Sat, 16 Dec 2023 14:26:11 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> 无CD：修改技能的冷却时间。</h2>
+<h3> 最大爆发能量：</h3>
+<ul>
+<li>删除了使用元素爆发所需能量的要求。</li>
+</ul>
+<h3> 无技能冷却：取消角色技能的冷却时间。</h3>
+<ul>
+<li>降低技能/元素爆发冷却：当激活而不是取消冷却时，如果冷却时间高于所选值，它将被设置为所选值。</li>
+</ul>
+<blockquote>
+<p>注意：您可以对CD使用任何值，但不要太用力地发送垃圾邮件<code>例如1米内40次</code></p>
+</blockquote>
+<h3> 没有Sprint冷却：</h3>
+<p>-消除冲刺之间的延迟。</p>
+<h3> 快速充能攻击：</h3>
+<ul>
+<li>弓：取消弓使用者的充能时间。</li>
+<li>其他：取消其他武器使用者的充能时间。
+<blockquote>
+<p>注意：此功能可以缩减那维莱特的重击蓄力时间。</p>
+</blockquote>
+</li>
+</ul>
+<h3> 浪船技能无冷却：</h3>
+<ul>
+<li>取消船技能的冷却时间。</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>额外移动</title>
+      <link>https://korepi.com/zh/features/%E7%8E%A9%E5%AE%B6%E5%8A%9F%E8%83%BD/extra-movements.html</link>
+      <guid>https://korepi.com/zh/features/%E7%8E%A9%E5%AE%B6%E5%8A%9F%E8%83%BD/extra-movements.html</guid>
+      <source url="https://korepi.com/zh/rss.xml">额外移动</source>
+      <description>额外动作：修改/增强玩家的某些动作。赞助者专属 水上行走： 启用在水上行走的能力。; 让我们在水上自由行走，新一代渡海真君！ 存在bug，使用水神E技能无法在水上行走; 加速奔跑： 提高玩家移动时的速度。; 注意：不建议更改默认值。 跳跃提升： 提高角色跳跃的高度。; 让每个角色都可以成为魈 空中可用：不在地面上时启用跳跃。; 可实现左脚踩右脚 飞天：...</description>
+      <category>Features</category>
+      <pubDate>Sat, 16 Dec 2023 14:26:11 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> 额外动作：修改/增强玩家的某些动作。<span style="color:#f1c40f;">赞助者专属</span></h2>
+<h3> 水上行走：</h3>
+<ul>
+<li>启用在水上行走的能力。</li>
+</ul>
+<blockquote>
+<p>让我们在水上自由行走，新一代渡海真君！</p>
+</blockquote>
+<ul>
+<li>
+<blockquote>
+<p>存在bug，使用水神E技能无法在水上行走</p>
+</blockquote>
+</li>
+</ul>
+<h3> 加速奔跑：</h3>
+<ul>
+<li>提高玩家移动时的速度。</li>
+</ul>
+<blockquote>
+<p>注意：不建议更改默认值。</p>
+</blockquote>
+<h3> 跳跃提升：</h3>
+<ul>
+<li>提高角色跳跃的高度。</li>
+</ul>
+<blockquote>
+<p>让每个角色都可以成为魈</p>
+</blockquote>
+<ul>
+<li>空中可用：不在地面上时启用跳跃。</li>
+</ul>
+<blockquote>
+<p>可实现左脚踩右脚</p>
+</blockquote>
+<h3> 飞天：</h3>
+<ul>
+<li>提高玩家滑行时的速度。</li>
+</ul>
+<blockquote>
+<p>注意：不建议更改默认值。</p>
+</blockquote>
+<h3> 潜行模式。</h3>
+<ul>
+<li>设置热键后可以进入潜行</li>
+</ul>
+<h3> 闪现：</h3>
+<ul>
+<li>允许玩家在按下热键后移动一定距离。</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>坠落控制</title>
+      <link>https://korepi.com/zh/features/%E7%8E%A9%E5%AE%B6%E5%8A%9F%E8%83%BD/fall-control.html</link>
+      <guid>https://korepi.com/zh/features/%E7%8E%A9%E5%AE%B6%E5%8A%9F%E8%83%BD/fall-control.html</guid>
+      <source url="https://korepi.com/zh/rss.xml">坠落控制</source>
+      <description>坠落控制：可以控制你在下坠时的速度.</description>
+      <category>Features</category>
+      <pubDate>Sat, 16 Dec 2023 14:26:11 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> 坠落控制：可以控制你在下坠时的速度.</h2>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>无敌模式</title>
+      <link>https://korepi.com/zh/features/%E7%8E%A9%E5%AE%B6%E5%8A%9F%E8%83%BD/god-mode.html</link>
+      <guid>https://korepi.com/zh/features/%E7%8E%A9%E5%AE%B6%E5%8A%9F%E8%83%BD/god-mode.html</guid>
+      <source url="https://korepi.com/zh/rss.xml">无敌模式</source>
+      <description>无敌模式：可以使角色无敌不受伤害. 不死： -启用后，会受到伤害，但是不会死去。 触发条件： -启用后，只有当角色hp低于指定值时，无敌模式才会打开。 注意：建议对深渊使用触发条件模式。</description>
+      <category>Features</category>
+      <pubDate>Sat, 16 Dec 2023 14:26:11 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> 无敌模式：可以使角色无敌不受伤害.</h2>
+<h3> 不死：</h3>
+<p>-启用后，会受到伤害，但是不会死去。</p>
+<h3> 触发条件：</h3>
+<p>-启用后，只有当角色hp低于指定值时，无敌模式才会打开。</p>
+<blockquote>
+<p>注意：建议对深渊使用触发条件模式。</p>
+</blockquote>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>无限体力</title>
+      <link>https://korepi.com/zh/features/%E7%8E%A9%E5%AE%B6%E5%8A%9F%E8%83%BD/infinite-stamina.html</link>
+      <guid>https://korepi.com/zh/features/%E7%8E%A9%E5%AE%B6%E5%8A%9F%E8%83%BD/infinite-stamina.html</guid>
+      <source url="https://korepi.com/zh/rss.xml">无限体力</source>
+      <description>无限体力：体力不会被消耗。 阻止上传模式： 当启用此选项并禁用无限耐力时，将阻止向服务器发送消耗体力的动作包，如跑步、攀爬、游泳等。部分情况会使得体力下降，例如重击的使用。; 注意：建议使用阻止上传模式这样更安全。</description>
+      <category>Features</category>
+      <pubDate>Sat, 16 Dec 2023 14:26:11 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> 无限体力：体力不会被消耗。</h2>
+<h3> 阻止上传模式：</h3>
+<ul>
+<li>当启用此选项并禁用无限耐力时，将阻止向服务器发送消耗体力的动作包，如跑步、攀爬、游泳等。部分情况会使得体力下降，例如重击的使用。</li>
+</ul>
+<blockquote>
+<p>注意：建议使用阻止上传模式这样更安全。</p>
+</blockquote>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>自由移动</title>
+      <link>https://korepi.com/zh/features/%E7%8E%A9%E5%AE%B6%E5%8A%9F%E8%83%BD/no-clip.html</link>
+      <guid>https://korepi.com/zh/features/%E7%8E%A9%E5%AE%B6%E5%8A%9F%E8%83%BD/no-clip.html</guid>
+      <source url="https://korepi.com/zh/rss.xml">自由移动</source>
+      <description>自由移动：将使角色不会发生碰撞，移动更快并可以飞行。 允许在空中释放技能： 启用后，它将在空中可使用技能。; 相对相机移动： 启用后，角色将基于摄影机视图而不是角色所面对的位置进行移动。; 备用自由移动： 启用后，以设计速度按下选定热键后，剪辑速度将不会改变。; 使用自定义键： 启用该选项可以不更改剪辑方向控制。; 防拉回: 防止服务器因速度过快而将角...</description>
+      <category>Features</category>
+      <pubDate>Sat, 16 Dec 2023 14:26:11 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> 自由移动：将使角色不会发生碰撞，移动更快并可以飞行。</h2>
+<h3> 允许在空中释放技能：</h3>
+<ul>
+<li>启用后，它将在空中可使用技能。</li>
+</ul>
+<h3> 相对相机移动：</h3>
+<ul>
+<li>启用后，角色将基于摄影机视图而不是角色所面对的位置进行移动。</li>
+</ul>
+<h3> 备用自由移动：</h3>
+<ul>
+<li>启用后，以设计速度按下选定热键后，剪辑速度将不会改变。</li>
+</ul>
+<h3> 使用自定义键：</h3>
+<ul>
+<li>启用该选项可以不更改剪辑方向控制。</li>
+</ul>
+<h3> 防拉回:</h3>
+<ul>
+<li>防止服务器因速度过快而将角色拖回。</li>
+</ul>
+<blockquote>
+<p>注意：不建议使用高于“20”的值。</p>
+</blockquote>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>玩家速度</title>
+      <link>https://korepi.com/zh/features/%E7%8E%A9%E5%AE%B6%E5%8A%9F%E8%83%BD/player-speed.html</link>
+      <guid>https://korepi.com/zh/features/%E7%8E%A9%E5%AE%B6%E5%8A%9F%E8%83%BD/player-speed.html</guid>
+      <source url="https://korepi.com/zh/rss.xml">玩家速度</source>
+      <description>玩家速度：修改玩家速度。 注意：建议在“1.5”以下。 注2：建议与[额外移动]使用（Extra Movements.md），因为它可以更好地与服务器同步（更安全）（赞助商）</description>
+      <category>Features</category>
+      <pubDate>Sat, 16 Dec 2023 14:26:11 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> 玩家速度：修改玩家速度。</h2>
+<blockquote>
+<p>注意：建议在“1.5”以下。
+注2：建议与[额外移动]使用（Extra Movements.md），因为它可以更好地与服务器同步（更安全）（赞助商）</p>
+</blockquote>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>远程工具</title>
+      <link>https://korepi.com/zh/features/%E7%8E%A9%E5%AE%B6%E5%8A%9F%E8%83%BD/remote-utility.html</link>
+      <guid>https://korepi.com/zh/features/%E7%8E%A9%E5%AE%B6%E5%8A%9F%E8%83%BD/remote-utility.html</guid>
+      <source url="https://korepi.com/zh/rss.xml">远程工具</source>
+      <description>赞助者专属 远程工具: 领取每日任务奖励： 完成每日四次任务后，点击领取每日佣金奖励。; 自定义对话： 使用会话ID启动会话，某些会话可能无法工作。; 注意：此功能很危险。 注意：要获取会话ID，请启用“调试对话”，ID将显示在“cmd”中。 自定义合成： -根据ID生成选定的小工具，其中一些可能无法工作。 注意：此功能很危险。。 您可以在此处找到小工...</description>
+      <category>Features</category>
+      <pubDate>Sat, 16 Dec 2023 14:26:11 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> <span style="color:#f1c40f;">赞助者专属</span></h2>
+<h2> 远程工具:</h2>
+<h3> 领取每日任务奖励：</h3>
+<ul>
+<li>完成每日四次任务后，点击领取每日佣金奖励。</li>
+</ul>
+<h3> 自定义对话：</h3>
+<ul>
+<li>使用会话ID启动会话，某些会话可能无法工作。</li>
+</ul>
+<blockquote>
+<p><span style="color:red;">注意：此功能很危险。</span>
+注意：要获取会话ID，请启用“调试对话”，ID将显示在“cmd”中。</p>
+</blockquote>
+<h3> 自定义合成：</h3>
+<p>-根据ID生成选定的小工具，其中一些可能无法工作。</p>
+<blockquote>
+<p><span style="color:red;">注意：此功能很危险。</span>。</p>
+</blockquote>
+<ul>
+<li>您可以在此处找到小工具ID 。<a href="https://github.com/jie65535/grasscuttercommandgenerator/blob/main/source/grasscuttertools/resources/en-us/gadget.txt" target="_blank" rel="noopener noreferrer">点击这里</a></li>
+</ul>
+<h3> 制作：</h3>
+<ul>
+<li>浓缩树脂：如果你有树脂和物品，就制作一种浓缩树脂。</li>
+<li>生成炼金台：生成一张炼金台。</li>
+<li>生成锻造台：生成锻造台。</li>
+<li>自定义组合：将尝试使用当前字符组合所选项目。</li>
+</ul>
+<blockquote>
+<p>注意：如果成功，将不会有提示。请检查库存。
+注2：你可以找到割草机I</p>
+</blockquote>
+]]></content:encoded>
+    </item>
     <item>
       <title>危险功能</title>
       <link>https://korepi.com/zh/guide/danger-function.html</link>
