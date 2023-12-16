@@ -20,6 +20,11 @@ export const zhSidebar = sidebar({
       icon: "info-circle",
       prefix: "troubleshoot/",
       children: "structure",
-    }
+    },
+    {text: "功能",
+      icon: "sitemap",
+      prefix: "features/",
+      children: "structure",
+      }
   ],
 });
