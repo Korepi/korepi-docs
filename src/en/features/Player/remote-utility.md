@@ -37,7 +37,7 @@ author: Schvis
 ### Summon Item:
 - Summons the selected item by ID.
 > Note: Some items might not work.
-> Note 2: You can find the combine IDs [here](https://github.com/jie65535/GrasscutterCommandGenerator/blob/main/Source/GrasscutterTools/Resources/en-us/Item.txt)
+> Note 2: You can find the items IDs [here](https://github.com/jie65535/GrasscutterCommandGenerator/blob/main/Source/GrasscutterTools/Resources/en-us/Item.txt)
 ### Open UI Page:
 - Open Paimon Menu Page: Opens the menu.
 - Open Cooking Page: Opens cooking page.
