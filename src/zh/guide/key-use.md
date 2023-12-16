@@ -48,15 +48,20 @@ order: 1
  - [3]将你的hwid复制输入，bot会给你一个enc.json文件将它下载并和korepi放在一起。
  - 备注：如果bot，没发enc.json给你，再用一次v：verify。
   
+  [v版本视频链接](https://youtu.be/0ccpiexXzss)
+
+  <iframe width="640" height="360" src="https://www.youtube.com/embed/0ccpiexXzss?si=ciWVRhfs6kZ-mNFR" title="korepi 中文V版本使用密钥教程" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
  ## F版本使用流程：
  - [1]点击F：Get key，bot会在频道中发消息，如下：
   ![](images/key-7.png)
  - [2]复制key：后面的micah-xxxx-xxx密钥。
  ![](images/key-8.png)
  - [3]打开korepi，粘贴密钥进去即可。验证成功会生成license.json文件
- - [F版本视频链接]
+ - 
+ - [F版本视频链接](https://youtu.be/lekW7aMKmr0)
   
-  <iframe width="640" height="360" src="https://youtube.com/watch?v=lekW7aMKmr0&si=xohNNCTr8XRQmM_l" title="korepi中文F版本密钥使用教程" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+ <iframe width="640" height="360" src="https://www.youtube.com/embed/lekW7aMKmr0?si=aVtpdaHuwgMpxxdQ" title="korepi 中文F版本使用密钥教程" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
   
   ::: danger 
