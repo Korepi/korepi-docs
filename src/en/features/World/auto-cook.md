@@ -1,6 +1,6 @@
 ---
 title: Auto Cook
-icon: sitemap
+icon: kitchen-set
 category:
   - Features
 tag:

@@ -1,6 +1,6 @@
 ---
 title: Auto Fish
-icon: sitemap
+icon: fish-fins
 category:
   - Features
 tag:

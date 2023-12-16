@@ -1,6 +1,6 @@
 ---
 title: Auto Activar Teletransporte
-icon: sitemap
+icon: satellite-dish
 category:
   - Funciones
 tag:

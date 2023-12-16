@@ -1,6 +1,6 @@
 ---
 title: Elemental Aura
-icon: sitemap
+icon: street-view
 category:
   - Features
 tag:

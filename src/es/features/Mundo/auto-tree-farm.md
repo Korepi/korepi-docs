@@ -1,6 +1,6 @@
 ---
 title: Auto Madera
-icon: sitemap
+icon: tree
 category:
   - Funciones
 tag:

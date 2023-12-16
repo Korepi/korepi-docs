@@ -1,6 +1,6 @@
 ---
 title: Auto Pescar
-icon: sitemap
+icon: fish-fins
 category:
   - Funciones
 tag:

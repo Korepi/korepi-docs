@@ -1,6 +1,6 @@
 ---
 title: Utilidad Remota
-icon: wifi
+icon: tower-broadcast
 category:
   - Features
 tag:

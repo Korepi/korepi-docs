@@ -1,6 +1,6 @@
 ---
 title: Auto Desafió
-icon: sitemap
+icon: power-off
 category:
   - Funciones
 tag:

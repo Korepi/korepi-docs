@@ -1,6 +1,6 @@
 ---
 title: Auto Activate Teleport
-icon: sitemap
+icon: satellite-dish
 category:
   - Features
 tag:
@@ -8,7 +8,7 @@ tag:
 author: Schvis
 ---
 ## Sponsor Only
-### Auto Activate Teleport activates nearby teleports up to 50m.
+### Auto Activate Teleport activates nearby waypoints up to 50m.
 
 ## Example Video:
 

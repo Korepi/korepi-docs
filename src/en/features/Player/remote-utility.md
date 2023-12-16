@@ -1,6 +1,6 @@
 ---
 title: Remote Utility
-icon: wifi
+icon: tower-broadcast
 category:
   - Features
 tag:

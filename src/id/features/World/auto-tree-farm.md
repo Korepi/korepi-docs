@@ -1,6 +1,6 @@
 ---
 title: Auto Tree Farm
-icon: sitemap
+icon: tree
 category:
   - Fitur
 tag:

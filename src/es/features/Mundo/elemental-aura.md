@@ -1,6 +1,6 @@
 ---
 title: Aura Elemental
-icon: sitemap
+icon: street-view
 category:
   - Funciones
 tag:

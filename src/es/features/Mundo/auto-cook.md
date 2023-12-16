@@ -1,6 +1,6 @@
 ---
 title: Auto Cocinar
-icon: sitemap
+icon: kitchen-set
 category:
   - Funciones
 tag:

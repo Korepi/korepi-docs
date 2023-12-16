@@ -1,6 +1,6 @@
 ---
 title: Mob Vacuum
-icon: sitemap
+icon: magnet
 category:
   - Features
 tag:

@@ -1,6 +1,6 @@
 ---
 title: Auto Conversar
-icon: sitemap
+icon: comments
 category:
   - Funciones
 tag:

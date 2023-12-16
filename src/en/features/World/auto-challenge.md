@@ -1,6 +1,6 @@
 ---
 title: Auto Challenge
-icon: sitemap
+icon: power-off
 category:
   - Features
 tag:

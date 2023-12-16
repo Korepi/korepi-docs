@@ -1,6 +1,6 @@
 ---
 title: Vacuum Loot
-icon: sitemap
+icon: magnet
 category:
   - Fitur
 tag:

@@ -1,6 +1,6 @@
 ---
 title: Auto Activated Waypoints
-icon: sitemap
+icon: satellite-dish
 category:
   - Fitur
 tag:

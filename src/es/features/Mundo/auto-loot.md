@@ -1,6 +1,6 @@
 ---
 title: Auto Recoger
-icon: sitemap
+icon: hand
 category:
   - Funciones
 tag:

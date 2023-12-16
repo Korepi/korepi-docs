@@ -1,6 +1,6 @@
 ---
 title: Succión de Mobs
-icon: sitemap
+icon: magnet
 category:
   - Funciones
 tag:

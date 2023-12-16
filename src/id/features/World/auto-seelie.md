@@ -1,6 +1,6 @@
 ---
 title: Auto Seelie
-icon: sitemap
+icon: firefox
 category:
   - Fitur
 tag:

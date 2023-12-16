@@ -1,6 +1,6 @@
 ---
 title: Succión de Botín
-icon: sitemap
+icon: magnet
 category:
   - Funciones
 tag:

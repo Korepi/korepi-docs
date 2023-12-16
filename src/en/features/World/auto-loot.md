@@ -1,6 +1,6 @@
 ---
 title: Auto Loot
-icon: sitemap
+icon: hand
 category:
   - Features
 tag:
