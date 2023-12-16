@@ -6,8 +6,8 @@
     <link>https://korepi.com/en/</link>
     <description>Help on Korepi</description>
     <language>en-US</language>
-    <pubDate>Sat, 16 Dec 2023 10:49:36 GMT</pubDate>
-    <lastBuildDate>Sat, 16 Dec 2023 10:49:36 GMT</lastBuildDate>
+    <pubDate>Sat, 16 Dec 2023 10:49:52 GMT</pubDate>
+    <lastBuildDate>Sat, 16 Dec 2023 10:49:52 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Features</category>
@@ -581,10 +581,11 @@ Note 2: Higher the distance higher delay should be used.</p>
       <link>https://korepi.com/en/features/World/auto-tree-farm.html</link>
       <guid>https://korepi.com/en/features/World/auto-tree-farm.html</guid>
       <source url="https://korepi.com/en/rss.xml">Auto Tree Farm</source>
-      <description>Auto Tree Farm lets you punch nearby trees with the selected value and delay, therefore automatically getting wood from nearby trees. Example Video: Note: Not recommended to cha...</description>
+      <description>Sponsor Only Auto Tree Farm lets you punch nearby trees with the selected value and delay, therefore automatically getting wood from nearby trees. Example Video: Note: Not recom...</description>
       <category>Features</category>
       <pubDate>Thu, 14 Dec 2023 23:51:59 GMT</pubDate>
-      <content:encoded><![CDATA[<h3> Auto Tree Farm lets you punch nearby trees with the selected value and delay, therefore automatically getting wood from nearby trees.</h3>
+      <content:encoded><![CDATA[<h2> Sponsor Only</h2>
+<h3> Auto Tree Farm lets you punch nearby trees with the selected value and delay, therefore automatically getting wood from nearby trees.</h3>
 <h2> Example Video:</h2>
 <iframe width="640" height="360" src="https://www.youtube.com/embed/v95_NOxc4do?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Tree Farm" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 <blockquote>
@@ -654,7 +655,7 @@ Note 2: Higher the distance higher delay should be used.</p>
 </ul>
 <h3> Instant Death Mode:</h3>
 <ul>
-<li>Will try yo make the enemy disappear</li>
+<li>Will try to make the enemy disappear</li>
 </ul>
 <blockquote>
 <p>Note: Might get buggy with some bosses.

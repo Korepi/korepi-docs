@@ -6,8 +6,8 @@
     <link>https://korepi.com/id/</link>
     <description>Pertolongan Korepi</description>
     <language>id-ID</language>
-    <pubDate>Sat, 16 Dec 2023 10:49:36 GMT</pubDate>
-    <lastBuildDate>Sat, 16 Dec 2023 10:49:36 GMT</lastBuildDate>
+    <pubDate>Sat, 16 Dec 2023 10:49:52 GMT</pubDate>
+    <lastBuildDate>Sat, 16 Dec 2023 10:49:52 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Fitur</category>
@@ -127,7 +127,7 @@ Catatan 2: Jika menggunakan jarak yang jauh maka waktu jeda yang lama juga di pe
 <h2> Video contoh:</h2>
 <iframe width="640" height="360" src="https://www.youtube.com/embed/uETIJ4KS39M?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Seelie" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 <blockquote>
-<p>Catatan: Jarak jangkau antara Pemain dan Seelie adalah <code>100m</code>.</p>
+<p>Catatan: Jarak jangkau antara Pemain dan Seelie Electro adalah <code>100m</code>.</p>
 </blockquote>
 ]]></content:encoded>
     </item>
@@ -163,14 +163,14 @@ Catatan 2: Jika menggunakan jarak yang jauh maka waktu jeda yang lama juga di pe
 </blockquote>
 <h3> Skip Talk Scenes:</h3>
 <ul>
-<li>Melewati adegan percakapan jika tertrigger atau sedang berlangsung.</li>
+<li>Melewati adegan percakapan ketika terpicu atau sedang berlangsung.</li>
 </ul>
 <blockquote>
 <p>Catatan: Blackscreen kemungkinan akan terjadi jika menggunakan fitur ini.</p>
 </blockquote>
 <h3> Skip Cutscene:</h3>
 <ul>
-<li>Melewati cutscene jika tertrigger atau sedang berlangsung.</li>
+<li>Melewati cutscene ketika terpicu atau sedang berlangsung.</li>
 </ul>
 <blockquote>
 <p>Catatan: Blackscreen kemungkinan akan terjadi jika menggunakan fitur ini.</p>
@@ -183,10 +183,11 @@ Catatan 2: Jika menggunakan jarak yang jauh maka waktu jeda yang lama juga di pe
       <link>https://korepi.com/id/features/World/auto-tree-farm.html</link>
       <guid>https://korepi.com/id/features/World/auto-tree-farm.html</guid>
       <source url="https://korepi.com/id/rss.xml">Auto Tree Farm</source>
-      <description>Auto Tree Farm memungkinkan Anda untuk memukul pohon-pohon di sekitar secara otomatis dengan nilai dan waktu jeda yang dipilih, sehingga mendapatkan kayu secara otomatis dari po...</description>
+      <description>Hanya Untuk Sponsor! Auto Tree Farm memungkinkan Anda untuk memukul pohon-pohon di sekitar secara otomatis dengan nilai dan waktu jeda yang dipilih, sehingga mendapatkan kayu se...</description>
       <category>Fitur</category>
       <pubDate>Fri, 15 Dec 2023 14:22:50 GMT</pubDate>
-      <content:encoded><![CDATA[<h3> Auto Tree Farm memungkinkan Anda untuk memukul pohon-pohon di sekitar secara otomatis dengan nilai dan waktu jeda yang dipilih, sehingga mendapatkan kayu secara otomatis dari pohon-pohon di sekitar.</h3>
+      <content:encoded><![CDATA[<h2> Hanya Untuk Sponsor!</h2>
+<h3> Auto Tree Farm memungkinkan Anda untuk memukul pohon-pohon di sekitar secara otomatis dengan nilai dan waktu jeda yang dipilih, sehingga mendapatkan kayu secara otomatis dari pohon-pohon di sekitar.</h3>
 <h2> Video contoh:</h2>
 <iframe width="640" height="360" src="https://www.youtube.com/embed/v95_NOxc4do?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Tree Farm" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 <blockquote>
@@ -245,14 +246,14 @@ Catatan 2: Jika menggunakan jarak yang jauh maka waktu jeda yang lama juga di pe
 </blockquote>
 <h3> Percent Mode:</h3>
 <ul>
-<li>Jumlah hit yang diperlukan untuk membunuh musuh.</li>
+<li>Jumlah serangan yang diperlukan untuk membunuh musuh.</li>
 </ul>
 <blockquote>
 <p>Catatan: Disarankan menggunakan nilai 3 atau lebih tinggi.</p>
 </blockquote>
 <h3> Left HP:</h3>
 <ul>
-<li>Menentukan apakah akan menyisakan jumlah HP tertentu kepada musuh di sekitar.</li>
+<li>Menentukan apakah akan menyisakan jumlah HP yang telah ditentukan kepada musuh di sekitar.</li>
 </ul>
 <h3> Instant Death Mode:</h3>
 <ul>
@@ -355,7 +356,7 @@ Catatan 2: Tidak disarankan untuk digunakan.</p>
 <p><img src="/assets/images/docs/202312/settings2.png" alt="" loading="lazy"></p>
 <p>Masalah tersebut seharusnya sudah tiada.</p>
 <h2> Bagaimana Jika Saya Tidak Dapat Masuk ke Dalam Game Menggunakan Korepi?</h2>
-<p>Pergi ke folder Korepi, cari <code>cfg.json</code> dan tekan <code>CTRL + F</code>, ketik <code>bypass</code> dan cari, ubahlah value-nya ke <code>false</code> dan buka game menggunakan Korepi.</p>
+<p>Pergi ke folder Korepi, cari <code>cfg.json</code> dan tekan <code>CTRL + F</code>, ketik <code>bypass</code> dan cari, ubahlah nilai-nya ke <code>false</code> dan buka game menggunakan Korepi.</p>
 <h2> Bagaimana Jika Tidak Ada yang Berhasil?</h2>
 <p>Anda harus pasang ulang game.</p>
 ]]></content:encoded>
@@ -664,7 +665,7 @@ Catatan: Pastikan berkas tersebut bernama <code>enc.json</code>.</p>
       <link>https://korepi.com/id/guide/</link>
       <guid>https://korepi.com/id/guide/</guid>
       <source url="https://korepi.com/id/rss.xml">Panduan</source>
-      <description>Katalog Cara Get-Key (getkey.md); Cara Reset HWID (resethwid.md); Cara Multi-instance (multi-instance.md); Cara Menggunakan Skin Kustom (3DM-tutorial.md); Cara Mengunduh Skin Ku...</description>
+      <description>Katalog Cara Get-Key (getkey.md); Cara Reset HWID (resethwid.md); Cara Multi-Instance (multi-instance.md); Cara Menggunakan Skin Kustom (3DM-tutorial.md); Cara Mengunduh Skin Ku...</description>
       <category>Panduan</category>
       <pubDate>Sun, 26 Nov 2023 15:29:27 GMT</pubDate>
       <content:encoded><![CDATA[<h2> Katalog</h2>
@@ -676,7 +677,7 @@ Catatan: Pastikan berkas tersebut bernama <code>enc.json</code>.</p>
 <p><a href="/id/guide/resethwid.html" target="blank">Cara Reset HWID</a></p>
 </li>
 <li>
-<p><a href="/id/guide/multi-instance.html" target="blank">Cara Multi-instance</a></p>
+<p><a href="/id/guide/multi-instance.html" target="blank">Cara Multi-Instance</a></p>
 </li>
 <li>
 <p><a href="/id/guide/3DM-tutorial.html" target="blank">Cara Menggunakan Skin Kustom</a></p>
