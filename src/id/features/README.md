@@ -11,7 +11,6 @@ author: Schvis, Natsume
 ## <span style='color:white;'>Daftar Fitur</span>
 
 ### Pemain
-
 - [Attack Effects](Player/attack-effects.md)
 - [Auto Run](Player/auto-run.md)
 - [Bunny Hop](Player/bunny-hop.md)
@@ -25,7 +24,6 @@ author: Schvis, Natsume
 - [Remote Utility](Player/remote-utility.md)
 
 ### Dunia
-
 - [Auto Activated Waypoints](World/auto-activate-tp.md)
 - [Auto Challenge](World/auto-challenge.md)
 - [Auto Cook](World/auto-cook.md)
