@@ -1,5 +1,5 @@
 ---
-title: Errores Frecuentes
+title: Errores Frecuentes del mod
 icon: info
 category:
   - Errores
