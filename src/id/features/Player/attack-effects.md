@@ -6,6 +6,7 @@ category:
 tag:
   - Attack Effects
 author: Schvis, Natsume
+order: 1
 ---
 
 ## Attack Effects: Memodifikasi serangan Anda.

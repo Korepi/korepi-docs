@@ -6,6 +6,7 @@ category:
 tag:
   - Teletransporte de Cofre
 author: Schvis
+order: 2
 ---
 
 ## Teletransporte de Cofre te teletransportara al oculus más cercano renderizado.

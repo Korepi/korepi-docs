@@ -6,6 +6,7 @@ category:
 tag:
   - God Mode
 author: Schvis
+order: 7
 ---
 
 ## God Mode will disable all incoming damage.

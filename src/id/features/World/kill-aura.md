@@ -6,6 +6,7 @@ category:
 tag:
   - Kill Aura
 author: Schvis, Natsume, Ikuyo
+order: 12
 ---
 
 ## Kill Aura: Memberikan kerusakan kepada musuh di sekitar.

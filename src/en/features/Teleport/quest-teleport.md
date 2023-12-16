@@ -6,6 +6,7 @@ category:
 tag:
   - Quest Teleport
 author: Schvis
+order: 5
 ---
 
 ## Quest Teleports allows you to teleport to the current on-going quest location.

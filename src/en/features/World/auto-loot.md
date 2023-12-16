@@ -6,6 +6,7 @@ category:
 tag:
   - Auto Loot
 author: Schvis, Ikuyo
+order: 6
 ---
 
 ## Auto loot lets you auto collect loot withing the selected range and delay, the loot that will be collected can be customized, including chests, mob drops and more.

@@ -6,6 +6,7 @@ category:
 tag:
   - Elemental Aura
 author: Schvis, Natsume
+order: 10
 ---
 
 ## Hanya Untuk Sponsor!

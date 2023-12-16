@@ -6,6 +6,7 @@ category:
 tag:
   - 0culi Teleport
 author: Schvis
+order: 1
 ---
 
 ## Oculi Teleport will teleport the player to the nearest rendered oculi location when the hotkey is pressed.

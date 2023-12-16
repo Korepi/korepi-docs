@@ -6,6 +6,7 @@ category:
 tag:
   - Chest Teleport
 author: Schvis
+order: 2
 ---
 
 ## Chest Teleport will teleport the player to the nearest rendered chest location when the hotkey is pressed.

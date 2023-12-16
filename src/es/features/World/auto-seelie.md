@@ -6,6 +6,7 @@ category:
 tag:
   - Auto Seelie
 author: Schvis
+order: 7
 ---
 
 ## Auto Seelie quita la necesidad de seguir al seelie hasta su estatua, ira sola cuando te acerques.

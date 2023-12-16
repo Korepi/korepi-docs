@@ -6,6 +6,7 @@ category:
 tag:
   - Extra Movements
 author: Schvis, Natsume
+order: 5
 ---
 
 ## Extra Movements: Modifikasi/Meningkatkan beberapa tindakan tertentu untuk pemain.

@@ -6,6 +6,7 @@ category:
 tag:
   - Succión de Mobs
 author: Schvis
+order: 12
 ---
 
 ## Succión de Mobs acerca a los enemigos con un rango y velocidad personalizados.

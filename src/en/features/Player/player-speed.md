@@ -6,6 +6,7 @@ category:
 tag:
   - Player Speed
 author: Schvis
+order: 10
 ---
 
 ## Player Speed modifies player speed. Real. No Fake.

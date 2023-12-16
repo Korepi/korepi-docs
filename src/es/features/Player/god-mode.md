@@ -6,6 +6,7 @@ category:
 tag:
   - Modo Dios
 author: Schvis
+order: 7
 ---
 
 ## Modo Dios deshabilitara todo el daño recibido.

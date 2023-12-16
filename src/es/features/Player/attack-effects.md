@@ -6,6 +6,7 @@ category:
 tag:
   - Efectos de Ataque
 author: Schvis
+order: 1
 ---
 
 ## Efectos de Ataque: Modificaciones para tus ataques

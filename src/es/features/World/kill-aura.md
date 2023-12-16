@@ -6,6 +6,7 @@ category:
 tag:
   - Kill Aura
 author: Schvis
+order: 11
 ---
 
 ## Kill Aura: Inflige daño a los enemigos cercanos

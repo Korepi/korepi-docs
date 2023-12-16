@@ -6,6 +6,7 @@ category:
 tag:
   - Teletransporte Personalizado
 author: Schvis
+order: 3
 ---
 
 ## Teletransporte Personalizado: Te permite teletransportarte a lugares predefinidos por archivos `.json`.

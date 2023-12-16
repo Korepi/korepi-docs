@@ -6,6 +6,7 @@ category:
 tag:
   - Vacuum Loot
 author: Schvis, Natsume
+order: 14
 ---
 
 ## Vacuum Loot memindahkan drop-item di sekitar ke pemain dengan jarak jangkau dan waktu jeda yang ditentukan.

@@ -6,6 +6,7 @@ category:
 tag:
   - Auto Destruir Objetos
 author: Schvis
+order: 4
 ---
 
 ### Auto Destruir Objetos te permite destruir objetos como cofres, plantas, escudos, minerales y más automaticamente con rangos personalizados.

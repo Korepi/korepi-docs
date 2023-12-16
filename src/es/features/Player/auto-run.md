@@ -6,6 +6,7 @@ category:
 tag:
   - Auto Correr
 author: Schvis
+order: 2
 ---
 
 ## Auto Correr mueve al personaje automaticamente hacia la dirección que esta mirando.

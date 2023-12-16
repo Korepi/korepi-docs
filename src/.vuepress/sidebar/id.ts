@@ -16,7 +16,7 @@ export const idSidebar = sidebar({
       children: "structure",
     },
     {
-      text: "Fiturs",
+      text: "Fitur",
       icon: "sitemap",
       prefix: "features/",
       children: "structure",

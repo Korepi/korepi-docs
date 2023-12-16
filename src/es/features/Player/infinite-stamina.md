@@ -6,6 +6,7 @@ category:
 tag:
   - Estamina Infinito
 author: Schvis
+order: 8
 ---
 
 ## Estamina Infinito deshabilita el uso de estamina para todas las acciones.

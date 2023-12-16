@@ -6,6 +6,7 @@ category:
 tag:
   - Auto Activar Teletransporte
 author: Schvis
+order: 1
 ---
 ## Solo para Sponsor
 ### Auto Activar Teletransporte, activa teletransportes cercanos hasta 50 metros.

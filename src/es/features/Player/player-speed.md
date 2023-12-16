@@ -6,6 +6,7 @@ category:
 tag:
   - Velocidad de Jugador
 author: Schvis
+order: 10
 ---
 
 ## Velocidad de Jugador cambia la velocidad del jugador. Real. No Fake.

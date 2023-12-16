@@ -6,6 +6,7 @@ category:
 tag:
   - God Mode
 author: Schvis, Natsume
+order: 7
 ---
 
 ## God Mode akan menonaktifkan semua serangan yang masuk.

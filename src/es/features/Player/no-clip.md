@@ -6,6 +6,7 @@ category:
 tag:
   - Sin Colisión
 author: Schvis
+order: 9
 ---
 
 ## Sin Colisión te permitirá pasar por objetos, volar y aumentar tu velocidad.

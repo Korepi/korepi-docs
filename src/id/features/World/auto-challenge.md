@@ -6,6 +6,7 @@ category:
 tag:
   - Auto Challenge
 author: Schvis, Natsume
+order: 2
 ---
 
 ### Auto Challenge memungkinkan Anda menyelesaikan tantangan dengan waktu tertentu yang sedang aktif dalam rentang jarak dan waktu tunda yang telah ditentukan, Anda dapat mengkonfigurasikan ini sesuai keinginan.

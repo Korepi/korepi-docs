@@ -6,6 +6,7 @@ category:
 tag:
   - Elemental Aura
 author: Schvis
+order: 10
 ---
 
 ## Sponsor Only

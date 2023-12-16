@@ -6,6 +6,7 @@ category:
 tag:
   - Teletransporte de Misión
 author: Schvis
+order: 5
 ---
 
 ## Teletransporte de Misión permite al jugador teletransportarse al lugar de la misión activa.

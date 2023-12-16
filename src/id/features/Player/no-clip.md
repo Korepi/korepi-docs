@@ -6,6 +6,7 @@ category:
 tag:
   - No Clip
 author: Schvis, Natsume
+order: 9
 ---
 
 ## No Clip akan memungkinkanmu bergerak tanpa adanya hambatan, bergerak lebih cepat, dan terbang!.

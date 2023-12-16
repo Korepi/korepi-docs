@@ -6,6 +6,7 @@ category:
 tag:
   - Attack Effects
 author: Schvis
+order: 1
 ---
 
 ## Attack Effects: Modifications for your attacks

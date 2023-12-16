@@ -6,6 +6,7 @@ category:
 tag:
   - Auto Madera
 author: Schvis
+order: 9
 ---
 
 ### Auto Madera permite golpear arboles cercanos para conseguir madera con rango, golpes y retraso personalizado.

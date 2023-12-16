@@ -6,6 +6,7 @@ category:
 tag:
   - Vacuum Loot
 author: Schvis
+order: 14
 ---
 
 ## Vacuum Loot moves nearby drops to the player with the specified range and delay.

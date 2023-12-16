@@ -6,6 +6,7 @@ category:
 tag:
   - Mob Vacuum
 author: Schvis
+order: 13
 ---
 
 ## Mob Vacuum move nearby mobs to the player with the selected speed and range, the mobs that will be affected can be customized.

@@ -6,6 +6,7 @@ category:
 tag:
   - Map Teleport
 author: Schvis
+order: 4
 ---
 
 ## Map Teleport allows you to teleport to anywhere on the map.

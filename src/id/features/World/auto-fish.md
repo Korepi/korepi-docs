@@ -6,6 +6,7 @@ category:
 tag:
   - Auto Fish
 author: Schvis, Natsume
+order: 5
 ---
 
 ### Auto fish memungkinkan Anda untuk melewati animasi menangkap ikan, yang pasti akan mengurangi waktu yang dibutuhkan untuk menangkap ikan.

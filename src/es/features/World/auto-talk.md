@@ -6,6 +6,7 @@ category:
 tag:
   - Auto Conversar
 author: Schvis
+order: 8
 ---
 
 ## Auto Conversar: Habla automaticamente con los NPCs

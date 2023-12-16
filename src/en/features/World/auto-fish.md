@@ -6,6 +6,7 @@ category:
 tag:
   - Auto Fish
 author: Schvis
+order: 5
 ---
 
 ### Auto fish lets you skip the catching fish animation, which will reduce the time needed to catch a fish.

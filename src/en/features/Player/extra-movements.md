@@ -6,6 +6,7 @@ category:
 tag:
   - Extra Movements
 author: Schvis
+order: 5
 ---
 
 ## Extra Movements: Modifies/Enchances certain actions for the player.

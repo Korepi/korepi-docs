@@ -6,6 +6,7 @@ category:
 tag:
   - Auto Activate Teleport
 author: Schvis, Ikuyo
+order: 1
 ---
 
 ## Sponsor Only

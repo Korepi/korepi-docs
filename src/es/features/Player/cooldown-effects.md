@@ -6,6 +6,7 @@ category:
 tag:
   - Efectos de Enfriamiento
 author: Schvis
+order: 4
 ---
 
 ## Efectos de Enfriamiento: Cambia el enfriamiento de varias acciones.

@@ -6,6 +6,7 @@ category:
 tag:
   - Auto Loot
 author: Schvis, Natsume
+order: 6
 ---
 
 ## Auto loot memungkinkan Anda mengumpulkan barang jarahan secara otomatis dalam jangkauan dan waktu jeda yang dipilih. Jarahan yang akan dikumpulkan dapat disesuaikan, termasuk peti, hasil kematian musuh, dan lainnya.

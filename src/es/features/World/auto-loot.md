@@ -6,6 +6,7 @@ category:
 tag:
   - Auto Recoger
 author: Schvis
+order: 6
 ---
 
 ## Auto Recoger te permite recoger materiales como plantas, cofres, drops y más con rangos y retrasos personalizados.

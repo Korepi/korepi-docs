@@ -6,6 +6,7 @@ category:
 tag:
   - Teletransporte de Mapa
 author: Schvis
+order: 4
 ---
 
 ## Teletransporte de Mapa permite al jugador teletransportarse a cualquier lugar del mapa.

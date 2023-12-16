@@ -6,6 +6,7 @@ category:
 tag:
   - Custom Teleport
 author: Schvis
+order: 3
 ---
 
 ## Custom Teleport: Allows the player to teleport to a selected location designed by a `.json` file.

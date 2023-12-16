@@ -6,6 +6,7 @@ category:
 tag:
   - Auto Tree Farm
 author: Schvis, Natsume, Ikuyo
+order: 9
 ---
 
 ## Hanya Untuk Sponsor!

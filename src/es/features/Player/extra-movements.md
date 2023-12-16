@@ -6,6 +6,7 @@ category:
 tag:
   - Movimiento Extra
 author: Schvis
+order: 5
 ---
 
 ## Movimiento Extra: Cambia/Mejora ciertas acciones del jugador.

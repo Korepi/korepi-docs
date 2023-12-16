@@ -6,6 +6,7 @@ category:
 tag:
   - Fall Control
 author: Schvis, Natsume
+order: 6
 ---
 
 ## Fall Control memungkinkan Anda bergerak dengan kecepatan yang dipilih saat jatuh.

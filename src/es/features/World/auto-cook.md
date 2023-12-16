@@ -6,6 +6,7 @@ category:
 tag:
   - Auto Cocinar
 author: Schvis
+order: 3
 ---
 
 ### Auto Cocinar deja que cocines automaticamente la cantidad deseada de la comida seleccionada, puedes elegir calidad, cantidad y completar la maestría.

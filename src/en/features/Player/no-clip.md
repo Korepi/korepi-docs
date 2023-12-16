@@ -6,6 +6,7 @@ category:
 tag:
   - No Clip
 author: Schvis
+order: 9
 ---
 
 ## No Clip will allow you to have no collision, move faster and fly.

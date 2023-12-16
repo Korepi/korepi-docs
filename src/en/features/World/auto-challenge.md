@@ -6,6 +6,7 @@ category:
 tag:
   - Auto Challenge
 author: Schvis
+order: 2
 ---
 
 ### Auto Challenge lets you complete the current active time trial within a specified range and delay time, you can configure these to your liking.

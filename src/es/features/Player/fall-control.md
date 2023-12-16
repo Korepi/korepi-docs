@@ -6,6 +6,7 @@ category:
 tag:
   - Control de Caída
 author: Schvis
+order: 6
 ---
 
 ## Control de Caída permite al jugador moverse cuando esta cayendo.

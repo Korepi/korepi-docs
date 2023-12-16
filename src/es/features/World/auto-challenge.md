@@ -6,6 +6,7 @@ category:
 tag:
   - Auto Desafió
 author: Schvis
+order: 2
 ---
 
 ### Auto Desafió completa los desafiós de tiempo activos con un rango personalizado y retraso personalizado.

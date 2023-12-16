@@ -6,6 +6,7 @@ category:
 tag:
   - Auto Activate Waypoints
 author: Schvis, Natsume
+order: 1
 ---
 ## Hanya Untuk Sponsor!
 ### Auto Activated Waypoints mengaktifkan teleport waypoints terdekat hingga jarak 50m.

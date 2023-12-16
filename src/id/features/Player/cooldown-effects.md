@@ -6,6 +6,7 @@ category:
 tag:
   - Cooldown Effects
 author: Schvis, Natsume
+order: 4
 ---
 
 ## Cooldown Effects:  Modifikasi waktu cooldown dari berbagai aksi.

@@ -6,6 +6,7 @@ category:
 tag:
   - Auto Pescar
 author: Schvis
+order: 5
 ---
 
 ### Auto Pescar permite que te saltes la animación de pesca.

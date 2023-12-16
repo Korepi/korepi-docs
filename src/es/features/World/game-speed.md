@@ -6,6 +6,7 @@ category:
 tag:
   - Velocidad del Juego
 author: Schvis
+order: 10
 ---
 
 ### Velocidad del Juego. Acelera o ralentiza el juego. No me lo esperaba.
