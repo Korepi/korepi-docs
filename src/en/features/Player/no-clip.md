@@ -1,6 +1,6 @@
 ---
 title: No Clip
-icon: sitemap
+icon: person-walking-dashed-line-arrow-right
 category:
   - Features
 tag:

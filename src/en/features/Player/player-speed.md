@@ -1,6 +1,6 @@
 ---
 title: Player Speed
-icon: sitemap
+icon: forward-fast
 category:
   - Features
 tag:

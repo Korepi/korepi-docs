@@ -1,6 +1,6 @@
 ---
 title: God Mode
-icon: sitemap
+icon: user
 category:
   - Features
 tag:

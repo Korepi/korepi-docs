@@ -1,6 +1,6 @@
 ---
 title: Velocidad de Jugador
-icon: sitemap
+icon: forward-fast
 category:
   - Features
 tag:

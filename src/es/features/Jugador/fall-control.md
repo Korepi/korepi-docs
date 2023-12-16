@@ -1,6 +1,6 @@
 ---
 title: Control de Caída
-icon: sitemap
+icon: person-falling
 category:
   - Features
 tag:

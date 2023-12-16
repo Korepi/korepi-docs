@@ -1,6 +1,6 @@
 ---
 title: Infinite Stamina
-icon: sitemap
+icon: dumbbell
 category:
   - Features
 tag:

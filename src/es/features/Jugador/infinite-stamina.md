@@ -1,6 +1,6 @@
 ---
 title: Estamina Infinito
-icon: sitemap
+icon: dumbbell
 category:
   - Features
 tag:

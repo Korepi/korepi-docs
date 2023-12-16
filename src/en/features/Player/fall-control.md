@@ -1,6 +1,6 @@
 ---
 title: Fall Control
-icon: sitemap
+icon: person-falling
 category:
   - Features
 tag:

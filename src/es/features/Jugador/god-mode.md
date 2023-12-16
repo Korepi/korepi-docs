@@ -1,6 +1,6 @@
 ---
 title: Modo Dios
-icon: sitemap
+icon: user
 category:
   - Features
 tag:

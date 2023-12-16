@@ -1,6 +1,6 @@
 ---
 title: Auto Correr
-icon: sitemap
+icon: person-running
 category:
   - Features
 tag:

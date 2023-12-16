@@ -1,6 +1,6 @@
 ---
 title: Salto de Conejo
-icon: sitemap
+icon: carrot
 category:
   - Features
 tag:

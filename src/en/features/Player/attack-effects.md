@@ -1,6 +1,6 @@
 ---
 title: Attack Effects
-icon: sitemap
+icon: explosion
 category:
   - Features
 tag:

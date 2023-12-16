@@ -1,6 +1,6 @@
 ---
 title: Bunny Hop
-icon: sitemap
+icon: carrot
 category:
   - Features
 tag:

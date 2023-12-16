@@ -1,6 +1,6 @@
 ---
 title: Auto Run
-icon: sitemap
+icon: person-running
 category:
   - Features
 tag:

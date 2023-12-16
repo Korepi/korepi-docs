@@ -1,6 +1,6 @@
 ---
 title: Utilidad Remota
-icon: sitemap
+icon: wifi
 category:
   - Features
 tag:

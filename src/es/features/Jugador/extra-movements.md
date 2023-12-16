@@ -1,6 +1,6 @@
 ---
 title: Movimiento Extra
-icon: sitemap
+icon: bolt
 category:
   - Features
 tag:

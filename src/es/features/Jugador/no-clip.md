@@ -1,6 +1,6 @@
 ---
 title: Sin Colisión
-icon: sitemap
+icon: person-walking-dashed-line-arrow-right
 category:
   - Features
 tag:

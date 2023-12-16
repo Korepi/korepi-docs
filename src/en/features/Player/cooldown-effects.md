@@ -1,6 +1,6 @@
 ---
 title: Cooldown Effects
-icon: sitemap
+icon: clock-rotate-left
 category:
   - Features
 tag:

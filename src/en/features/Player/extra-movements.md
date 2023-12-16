@@ -1,6 +1,6 @@
 ---
 title: Extra Movements
-icon: sitemap
+icon: bolt
 category:
   - Features
 tag:

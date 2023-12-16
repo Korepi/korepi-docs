@@ -1,6 +1,6 @@
 ---
 title: Efectos de Enfriamiento
-icon: sitemap
+icon: clock-rotate-left
 category:
   - Features
 tag:
