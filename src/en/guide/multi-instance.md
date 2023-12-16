@@ -9,7 +9,7 @@ author: Schvis
 order: 3
 ---
 
-## How to Multi-instance (Open 2 game window at the same time)
+## <span style='color:white;'>How to Multi-instance (Open 2 game window at the same time)</span>
 
 ::: info Only works with Local(V) version
 :::
