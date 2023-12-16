@@ -1,6 +1,6 @@
 ---
 title: Auto Loot
-icon: sitemap
+icon: hand
 category:
   - Fitur
 tag:
@@ -8,7 +8,9 @@ tag:
 author: Schvis, Natsume
 ---
 
-## Auto loot memungkinkan Anda mengumpulkan barang jarahan secara otomatis dalam jangkauan dan waktu jeda yang dipilih. Jarahan yang akan dikumpulkan dapat disesuaikan, termasuk peti, hasil kematian musuh, dan lainnya. Lihat video berikut untuk contohnya:
+## Auto loot memungkinkan Anda mengumpulkan barang jarahan secara otomatis dalam jangkauan dan waktu jeda yang dipilih. Jarahan yang akan dikumpulkan dapat disesuaikan, termasuk peti, hasil kematian musuh, dan lainnya.
+
+## Video contoh:
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/wUyI2XO_Z4E?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Loot" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 

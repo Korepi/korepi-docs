@@ -1,6 +1,6 @@
 ---
 title: Auto Destroy Objects
-icon: sitemap
+icon: bomb
 category:
   - Fitur
 tag:

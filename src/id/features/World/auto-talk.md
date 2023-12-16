@@ -1,6 +1,6 @@
 ---
 title: Auto Talk
-icon: sitemap
+icon: comments
 category:
   - Fitur
 tag:
