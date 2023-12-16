@@ -9,9 +9,9 @@ author: Schvis
 order: 1
 ---
 
-## List of frequent errors
+## <span style='color:white;'>List of frequent errors</span>
 
-## Why my korepi disappears?
+## <span style='color:white;'>Why my korepi disappears?</span>
 
 Make sure you got your anti-virus disabled, create a new folder and add it to exclusions.
 
@@ -19,13 +19,13 @@ Make sure you got your anti-virus disabled, create a new folder and add it to ex
 
 Extract korepi inside the excluded folder and run again.
 
-## Status: No active subscribtion(s) found, Invalid license key
+## <span style='color:white;'>Status: No active subscribtion(s) found, Invalid license key</span>
 
 You need to [get a new key](../guide/getkey.md) from `⁠★⋅micah-bot-verify⋅★`, if you can't get a key or if the key doesn't work, you have to wait till key expiration.
 
 `Sponsors can use F:Reset Key instead`
 
-## [DLL injection]  Process crashed, exit code 0xc000005
+## <span style='color:white;'>[DLL injection]  Process crashed, exit code 0xc000005</span>
 
 Open `cmd` as administrator and write the following command:
 
@@ -40,23 +40,23 @@ After completing the checks, restart the computer and check.
 
 If it doesn't work, reinstall Windows.
 
-## ImGUI: DirectX11 backend initialized successfully.
+## <span style='color:white;'>ImGUI: DirectX11 backend initialized successfully.</span>
 
 Error occurs because of themes installed, clear the `themes` folder.
 
-## The system did not detect MSVCP140.dll
+## <span style='color:white;'>The system did not detect MSVCP140.dll</span>
 
 Update [Microsoft Visual Studio C++](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170#visual-studio-2015-2017-2019-and-2022)
 
 Update [DirectX](https://www.microsoft.com/en-us/download/details.aspx?id=35)
 
-## File corrupted! This program has been manipulated and maybe it's infected.
+## <span style='color:white;'>File corrupted! This program has been manipulated and maybe it's infected.</span>
 
 ![](/assets/images/docs/202312/virus2.png)
 
 In this case, you can try using `Malware Bytes` or `Dr.Web` to do a full scan, if any virus is found, remove them, restart and try again. If it doesn't work, reinstall Windows is the easiest way to solve this issue.
 
-## Timeout was reached
+## <span style='color:white;'>Timeout was reached</span>
 
 ![](/assets/images/docs/202312/error1.png)
 
@@ -68,11 +68,11 @@ Use a VPN and try again.
 
 Turn off all applications that affect the firewall. If nothing works, then you might have some problems with the network.
 
-## DLL Injection failed
+## <span style='color:white;'>DLL Injection failed</span>
 
 Uninstall colorpicker folder and download colorpicker again.
 
-## Windows cannot access the specified device, path, or file
+## <span style='color:white;'>Windows cannot access the specified device, path, or file</span>
 
 ![](/assets/images/docs/202312/error2.png)
 
@@ -92,19 +92,19 @@ After completing the checks, restart the computer and check again.
 
 If it doesn't work, reinstall Windows.
 
-## Signature checksum failed
+## <span style='color:white;'>Signature checksum failed</span>
 
 ![](/assets/images/docs/202312/checksum.png)
 
 Servers are down or shut down, wait for servers to come back online.
 
-## Failed to create game process with Error 5
+## <span style='color:white;'>Failed to create game process with Error 5</span>
 
 ![](/assets/images/docs/202312/error3.png)
 
 Delete `cfg.ini`.
 
-## SSL connect error
+## <span style='color:white;'>SSL connect error</span>
 
 ![](/assets/images/docs/202312/error4.png)
 
@@ -112,15 +112,15 @@ Restart your PC, restart your router.
 
 Try using a VPN if it doesn't work.
 
-## Failed to detect game version
+## <span style='color:white;'>Failed to detect game version</span>
 
 Update your injector, follow the steps [here](../start/download.md)
 
-## File ok
+## <span style='color:white;'>File ok</span>
 
 Delete your cfg.json, something might be wrong with the file.
 
-## UserAssembly.dll isn't initialized, waiting for 2 sec.
+## <span style='color:white;'>UserAssembly.dll isn't initialized, waiting for 2 sec.</span>
 
 If your injector crashes after this line try the following steps:
 

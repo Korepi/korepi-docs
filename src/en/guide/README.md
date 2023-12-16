@@ -8,7 +8,7 @@ tag:
 author: QweRez, Schvis
 ---
 
-## Catalog
+## <span style='color:white;'>Catalog</span>
 
 - [How to get key](getkey.md)
   

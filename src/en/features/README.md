@@ -8,7 +8,7 @@ tag:
 author: Schvis
 ---
 
-## List of Features
+## <span style='color:white;'>List of Features</span>
 
 ### In the following section you will find the list of features separated by categories, with example videos and recommendations.
 

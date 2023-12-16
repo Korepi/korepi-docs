@@ -8,7 +8,7 @@ tag:
 author: Schvis, Natsume
 ---
 
-## Daftar Fitur
+## <span style='color:white;'>Daftar Fitur</span>
 
-
+### di bagian berikut, Anda akan menemukan daftar fitur terbagi dari kategori bersama dengan contoh video dan rekomendasi
 

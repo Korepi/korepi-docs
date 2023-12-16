@@ -8,7 +8,7 @@ tag:
 author: Schvis
 ---
 
-## Lista de Funciones disponibles
+## <span style='color:white;'>Lista de Funciones disponibles</span>
 
 ### En la proxima sección podremos encontrar las funciones disponibles hasta el momento con videos incluidos.
 
