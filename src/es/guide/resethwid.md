@@ -38,7 +38,7 @@ Disfruta de Korepi de nuevo!
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/WCuRAyqWMHg" title="Reset HWID F version (Sponsor)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-### <span style='color:white;'>Paso 1: Ve al canal de `★⋅micah-bot-verify⋅★`</span
+### <span style='color:white;'>Paso 1: Ve al canal de `★⋅micah-bot-verify⋅★`</span>
 
 Ve al canal de  `★⋅micah-bot-verify⋅★` y dale click a  `F:Reset Key`, después dale click a `F:Getkey` para recibir la nueva key.
 
