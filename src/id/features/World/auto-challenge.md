@@ -1,6 +1,6 @@
 ---
 title: Auto Challenge
-icon: sitemap
+icon: power-off
 category:
   - Fitur
 tag:
@@ -8,7 +8,9 @@ tag:
 author: Schvis, Natsume
 ---
 
-### Auto Challenge memungkinkan Anda menyelesaikan tantangan dengan waktu tertentu yang sedang aktif dalam rentang jarak dan waktu tunda yang telah ditentukan, Anda dapat mengkonfigurasikan ini sesuai keinginan, lihat video berikut untuk contohnya:
+### Auto Challenge memungkinkan Anda menyelesaikan tantangan dengan waktu tertentu yang sedang aktif dalam rentang jarak dan waktu tunda yang telah ditentukan, Anda dapat mengkonfigurasikan ini sesuai keinginan.
+
+## Video contoh:
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/7JNegfQiK2U?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Challenge" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 

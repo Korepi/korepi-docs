@@ -1,6 +1,6 @@
 ---
 title: Velocidad del Juego
-icon: sitemap
+icon: forward-fast
 category:
   - Funciones
 tag:

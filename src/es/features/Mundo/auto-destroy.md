@@ -1,6 +1,6 @@
 ---
 title: Auto Destruir Objetos
-icon: sitemap
+icon: bomb
 category:
   - Funciones
 tag:

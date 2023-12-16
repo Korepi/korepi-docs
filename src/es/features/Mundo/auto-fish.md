@@ -1,6 +1,6 @@
 ---
 title: Auto Pescar
-icon: sitemap
+icon: fish-fins
 category:
   - Funciones
 tag:
@@ -8,7 +8,9 @@ tag:
 author: Schvis
 ---
 
-### Auto Pescar permite que te saltes la animación de pesca, mira el siguiente video como ejemplo:
+### Auto Pescar permite que te saltes la animación de pesca.
+
+## Video de Ejemplo:
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/K_l4Tg-81iQ?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Fish" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
