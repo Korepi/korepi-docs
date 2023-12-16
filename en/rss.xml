@@ -6,8 +6,8 @@
     <link>https://korepi.com/en/</link>
     <description>Help on Korepi</description>
     <language>en-US</language>
-    <pubDate>Sat, 16 Dec 2023 10:49:52 GMT</pubDate>
-    <lastBuildDate>Sat, 16 Dec 2023 10:49:52 GMT</lastBuildDate>
+    <pubDate>Sat, 16 Dec 2023 14:59:15 GMT</pubDate>
+    <lastBuildDate>Sat, 16 Dec 2023 14:59:15 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Features</category>
@@ -371,7 +371,7 @@ Note 2: You can find the monster IDs <a href="https://github.com/jie65535/Grassc
 </ul>
 <blockquote>
 <p>Note: Some items might not work.
-Note 2: You can find the combine IDs <a href="https://github.com/jie65535/GrasscutterCommandGenerator/blob/main/Source/GrasscutterTools/Resources/en-us/Item.txt" target="_blank" rel="noopener noreferrer">here</a></p>
+Note 2: You can find the items IDs <a href="https://github.com/jie65535/GrasscutterCommandGenerator/blob/main/Source/GrasscutterTools/Resources/en-us/Item.txt" target="_blank" rel="noopener noreferrer">here</a></p>
 </blockquote>
 <h3> Open UI Page:</h3>
 <ul>

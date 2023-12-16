@@ -6,23 +6,433 @@
     <link>https://korepi.com/id/</link>
     <description>Pertolongan Korepi</description>
     <language>id-ID</language>
-    <pubDate>Sat, 16 Dec 2023 10:49:52 GMT</pubDate>
-    <lastBuildDate>Sat, 16 Dec 2023 10:49:52 GMT</lastBuildDate>
+    <pubDate>Sat, 16 Dec 2023 14:59:15 GMT</pubDate>
+    <lastBuildDate>Sat, 16 Dec 2023 14:59:15 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Fitur</category>
     <category>Panduan</category>
     <category>Solusi</category>
     <item>
+      <title>Attack Effects</title>
+      <link>https://korepi.com/id/features/Player/attack-effects.html</link>
+      <guid>https://korepi.com/id/features/Player/attack-effects.html</guid>
+      <source url="https://korepi.com/id/rss.xml">Attack Effects</source>
+      <description>Attack Effects: Memodifikasi serangan Anda. Multi-Hit Mode: One Punch Mode: Mencoba membunuh target dengan 1 pukulan..; Catatan: Tidak disarankan untuk digunakan. Mengubah jumla...</description>
+      <category>Fitur</category>
+      <pubDate>Sat, 16 Dec 2023 12:12:13 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Attack Effects: Memodifikasi serangan Anda.</h2>
+<h3> Multi-Hit Mode:</h3>
+<ul>
+<li>One Punch Mode: Mencoba membunuh target dengan 1 pukulan..</li>
+</ul>
+<blockquote>
+<p>Catatan: Tidak disarankan untuk digunakan.</p>
+</blockquote>
+<ul>
+<li>Mengubah jumlah serangan yang akan diterima oleh target.</li>
+</ul>
+<blockquote>
+<p>Catatan: Tidak disarankan nilainya melebihi <code>5</code>.</p>
+</blockquote>
+<h3> Multi-Target:</h3>
+<ul>
+<li>Memukul semua target dalam radius tertentu yang telah ditentukan dari target yang terkena.</li>
+</ul>
+<blockquote>
+<p>Catatan: Tidak disarankan untuk mengubah pengaturan bawaan.</p>
+</blockquote>
+<h3> Multi-Animation:</h3>
+<ul>
+<li>Mengubah jumlah berapa kali karakter melakukan suatu aksi.</li>
+</ul>
+<blockquote>
+<p>Catatan: Tidak disarankan untuk digunakan.</p>
+</blockquote>
+<h3> Attack Speed:</h3>
+<ul>
+<li>Mengubah kecepatan serangan normal dari pemain.</li>
+</ul>
+<blockquote>
+<p>Catatan: Tidak disarankan nilainya melebihi <code>1.5</code>.</p>
+</blockquote>
+<h3> Custom Element:</h3>
+<ul>
+<li>Mengubah elemen dari semua serangan yang keluar.</li>
+</ul>
+<h3> Infuse Element:</h3>
+<ul>
+<li>Mengubah elemen dari serangan normal dari senjata pedang, tombak, dan pedang besar.</li>
+</ul>
+<h3> Auto Weakspot:</h3>
+<ul>
+<li>Mengenai titik lemah target sehingga memicu serangan kritis, <code>hanya berfungsi dengan pengguna panah</code>.</li>
+</ul>
+<h3> Critical Hit (Sponsor!):</h3>
+<ul>
+<li>Mengubah probabilitas serangan kritis.</li>
+</ul>
+<h3> Nullify Incoming Element:</h3>
+<ul>
+<li>Akan meniadakan elemen masuk apa pun, dan mengubahnya menjadi kerusakan fisik</li>
+</ul>
+<h2> Video Contoh:</h2>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/1BdKwxBjWyg?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Attack Effects" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>]]></content:encoded>
+    </item>
+    <item>
+      <title>Auto Run</title>
+      <link>https://korepi.com/id/features/Player/auto-run.html</link>
+      <guid>https://korepi.com/id/features/Player/auto-run.html</guid>
+      <source url="https://korepi.com/id/rss.xml">Auto Run</source>
+      <description>Auto Run akan menggerakan player ke arah yang dihadap secara otomatis. Video Contoh:</description>
+      <category>Fitur</category>
+      <pubDate>Sat, 16 Dec 2023 12:12:13 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Auto Run akan menggerakan player ke arah yang dihadap secara otomatis.</h2>
+<h2> Video Contoh:</h2>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/BLDhPBMs7Es?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Run" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Bunny Hop</title>
+      <link>https://korepi.com/id/features/Player/bunny-hop.html</link>
+      <guid>https://korepi.com/id/features/Player/bunny-hop.html</guid>
+      <source url="https://korepi.com/id/rss.xml">Bunny Hop</source>
+      <description>Hanya Untuk Sponsor! Bunny Hop akan melompat secara otomatis setelah lompatan pertama ketika diaktifkan. Video Contoh:</description>
+      <category>Fitur</category>
+      <pubDate>Sat, 16 Dec 2023 12:12:13 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Hanya Untuk Sponsor!</h2>
+<h2> Bunny Hop akan melompat secara otomatis setelah lompatan pertama ketika diaktifkan.</h2>
+<h2> Video Contoh:</h2>
+<iframe width="640" height="369" src="https://www.youtube.com/embed/Gh2GX23E6dw?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Bunnyhop (Sponsor)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>]]></content:encoded>
+    </item>
+    <item>
+      <title>Cooldown Effects</title>
+      <link>https://korepi.com/id/features/Player/cooldown-effects.html</link>
+      <guid>https://korepi.com/id/features/Player/cooldown-effects.html</guid>
+      <source url="https://korepi.com/id/rss.xml">Cooldown Effects</source>
+      <description>Cooldown Effects: Modifikasi waktu cooldown dari berbagai aksi. Max Burst Energy: Menghilangkan kebutuhan yang diperlukan untuk menggunakan serangan ledakan elemen.; Catatan: En...</description>
+      <category>Fitur</category>
+      <pubDate>Sat, 16 Dec 2023 12:12:13 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Cooldown Effects:  Modifikasi waktu cooldown dari berbagai aksi.</h2>
+<h3> Max Burst Energy:</h3>
+<ul>
+<li>Menghilangkan kebutuhan yang diperlukan untuk menggunakan serangan ledakan elemen.</li>
+</ul>
+<blockquote>
+<p>Catatan: Energy bubble mungkin terlihat tidak lengkap tetapi masih bisa digunakan.</p>
+</blockquote>
+<h3> No Avatar Skill Cooldown: Menghilangkan cooldown untuk Skill dan serangan ledakan karakter.</h3>
+<ul>
+<li>Reduce Skill/Burst Cooldown: Ketika diaktifkan, daripada menghilangkan cooldown, maka akan diatur ke nilai yang telah dipilih jika cooldown lebih tinggi dari nilai yang dipilih.</li>
+</ul>
+<blockquote>
+<p>Catatan: Anda bisa menggunakan nilai berapapun untuk CD, tetapi jangan spam terlalu cepat. <code>contoh: 40 kali dalam 1 menit.</code></p>
+</blockquote>
+<h3> No Sprint Cooldown:</h3>
+<ul>
+<li>Menghilangkan jeda antara sprint.</li>
+</ul>
+<h3> Instant Charged Attack:</h3>
+<ul>
+<li>Bow: Menghapus waktu pengisian energi untuk pengguna busur.</li>
+<li>Other: Menghapus waktu pengisian energi untuk pengguna senjata lainnya.</li>
+</ul>
+<h3> No Vehicle Skill Cooldown:</h3>
+<ul>
+<li>Menghilangkan cooldown untuk Skill perahu.</li>
+</ul>
+<h2> Video Contoh:</h2>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/qv5ykSL3Ojw?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Cooldown Effects" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>]]></content:encoded>
+    </item>
+    <item>
+      <title>Extra Movements</title>
+      <link>https://korepi.com/id/features/Player/extra-movements.html</link>
+      <guid>https://korepi.com/id/features/Player/extra-movements.html</guid>
+      <source url="https://korepi.com/id/rss.xml">Extra Movements</source>
+      <description>Extra Movements: Modifikasi/Meningkatkan beberapa tindakan tertentu untuk pemain. Run On Water: Memungkinkan kemampuan untuk berjalan di atas air.; Run Boost: Meningkatkan kecep...</description>
+      <category>Fitur</category>
+      <pubDate>Sat, 16 Dec 2023 12:12:13 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Extra Movements: Modifikasi/Meningkatkan beberapa tindakan tertentu untuk pemain.</h2>
+<h3> Run On Water:</h3>
+<ul>
+<li>Memungkinkan kemampuan untuk berjalan di atas air.</li>
+</ul>
+<h3> Run Boost:</h3>
+<ul>
+<li>Meningkatkan kecepatan saat pemain berlari.</li>
+</ul>
+<blockquote>
+<p>Catatan: Tidak disarankan untuk mengubah nilai bawaan.</p>
+</blockquote>
+<h3> Jump Boost:</h3>
+<ul>
+<li>Meningkatkan tinggi loncatan pemain.
+<ul>
+<li>Apply Mid Air: Mengaktifkan loncatan saat sedang tidak di tanah.</li>
+</ul>
+</li>
+</ul>
+<blockquote>
+<p>Catatan: Tidak disarankan untuk mengubah nilai bawaan.</p>
+</blockquote>
+<h3> Fly Boost:</h3>
+<ul>
+<li>Meningkatkan kecepatan saat pemain sedang melayang.</li>
+</ul>
+<blockquote>
+<p>Catatan: Tidak disarankan untuk mengubah nilai bawaan.</p>
+</blockquote>
+<h3> Swim Boost:</h3>
+<ul>
+<li>Meningkatkan kecepatan saat pemain sedang berenang.</li>
+</ul>
+<blockquote>
+<p>Catatan: Tidak disarankan untuk mengubah nilai bawaan.</p>
+</blockquote>
+<h3> Dive Boost:</h3>
+<ul>
+<li>Meningkatkan kecepatan saat pemain sedang menyelam.</li>
+</ul>
+<blockquote>
+<p>Catatan: Tidak disarankan untuk mengubah nilai bawaan.</p>
+</blockquote>
+<h3> Blink:</h3>
+<ul>
+<li>Memungkinkan pemain untuk bergerak dengan jarak tertentu setelah menekan hotkey.</li>
+</ul>
+<h2> Video Contoh:</h2>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/wMd9icqhFQg?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Extra Movement (Sponsor)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>]]></content:encoded>
+    </item>
+    <item>
+      <title>Fall Control</title>
+      <link>https://korepi.com/id/features/Player/fall-control.html</link>
+      <guid>https://korepi.com/id/features/Player/fall-control.html</guid>
+      <source url="https://korepi.com/id/rss.xml">Fall Control</source>
+      <description>Fall Control memungkinkan Anda bergerak dengan kecepatan yang dipilih saat jatuh. Video Contoh:</description>
+      <category>Fitur</category>
+      <pubDate>Sat, 16 Dec 2023 12:12:13 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Fall Control memungkinkan Anda bergerak dengan kecepatan yang dipilih saat jatuh.</h2>
+<h2> Video Contoh:</h2>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/BHiabtwSSNc?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Fall Control" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>]]></content:encoded>
+    </item>
+    <item>
+      <title>God Mode</title>
+      <link>https://korepi.com/id/features/Player/god-mode.html</link>
+      <guid>https://korepi.com/id/features/Player/god-mode.html</guid>
+      <source url="https://korepi.com/id/rss.xml">God Mode</source>
+      <description>God Mode akan menonaktifkan semua serangan yang masuk. Undead: Ketika diaktifkan, God Mode hanya akan aktif jika kerusakan mematikan.; Conditional: Ketika diaktifkan, God Mode h...</description>
+      <category>Fitur</category>
+      <pubDate>Sat, 16 Dec 2023 12:12:13 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> God Mode akan menonaktifkan semua serangan yang masuk.</h2>
+<h3> Undead:</h3>
+<ul>
+<li>Ketika diaktifkan, <code>God Mode</code> hanya akan aktif jika kerusakan mematikan.</li>
+</ul>
+<h3> Conditional:</h3>
+<ul>
+<li>Ketika diaktifkan, <code>God Mode</code> hanya akan aktif jika HP karakter turun di bawah nilai yang telah ditentukan.</li>
+</ul>
+<blockquote>
+<p>Catatan: Disarankan untuk menggunakan mode <code>Conditional</code> untuk abyss.</p>
+</blockquote>
+<h2> Video Contoh:</h2>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/42utUUYNHRE?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - God Mode" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>]]></content:encoded>
+    </item>
+    <item>
+      <title>Infinite Stamina</title>
+      <link>https://korepi.com/id/features/Player/infinite-stamina.html</link>
+      <guid>https://korepi.com/id/features/Player/infinite-stamina.html</guid>
+      <source url="https://korepi.com/id/rss.xml">Infinite Stamina</source>
+      <description>Infinite Stamina menonaktifkan konsumsi stamina untuk semua tindakan. Move Sync Packet Replacement: Ketika ini diaktifkan dan Infinite Stamina dan dimatikan, akan mencegah pengi...</description>
+      <category>Fitur</category>
+      <pubDate>Sat, 16 Dec 2023 12:12:13 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Infinite Stamina menonaktifkan konsumsi stamina untuk semua tindakan.</h2>
+<h3> Move Sync Packet Replacement:</h3>
+<ul>
+<li>Ketika ini diaktifkan dan <code>Infinite Stamina</code> dan dimatikan, akan mencegah pengiriman <code>Action Packets</code> yang menghabiskan stamina ke server seperti berlari, memanjat, berenang, dll.</li>
+</ul>
+<blockquote>
+<p>Catatan: Disarankan menggunakan Move Sync Packet Replacement.</p>
+</blockquote>
+<h2> Video Contoh:</h2>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/NZhfaMOLuY0?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Infinite Stamina" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>]]></content:encoded>
+    </item>
+    <item>
+      <title>No Clip</title>
+      <link>https://korepi.com/id/features/Player/no-clip.html</link>
+      <guid>https://korepi.com/id/features/Player/no-clip.html</guid>
+      <source url="https://korepi.com/id/rss.xml">No Clip</source>
+      <description>No Clip akan memungkinkanmu bergerak tanpa adanya hambatan, bergerak lebih cepat, dan terbang!. No Animation: Ketika diaktifkan, akan menonaktifkan animasi karakter saat menggun...</description>
+      <category>Fitur</category>
+      <pubDate>Sat, 16 Dec 2023 12:12:13 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> No Clip akan memungkinkanmu bergerak tanpa adanya hambatan, bergerak lebih cepat, dan terbang!.</h2>
+<h3> No Animation:</h3>
+<ul>
+<li>Ketika diaktifkan, akan menonaktifkan animasi karakter saat menggunakan <code>No Clip</code>.</li>
+</ul>
+<h3> Camera-relative movement:</h3>
+<ul>
+<li>Ketika diaktifkan, karakter akan bergerak berdasarkan pandangan kamera daripada arah yang dilihat karakter.</li>
+</ul>
+<h3> Alternate No-Clip:</h3>
+<ul>
+<li>Ketika diaktifkan, kecepatan <code>No Clip</code> akan berubah setelah menekan hotkey yang dipilih pada kecepatan yang ditentukan.</li>
+</ul>
+<h3> Use Custom Keys:</h3>
+<ul>
+<li>Mengaktifkan opsi untuk mengubah kontrol arah dari <code>No Clip</code>.</li>
+</ul>
+<h3> DragBack Bypass:</h3>
+<ul>
+<li>Mencegah server menarik karakter kembali karena kecepatan yang berlebihan.</li>
+</ul>
+<blockquote>
+<p>Catatan: Tidak disarankan menggunakan nilai diatas <code>20</code>.</p>
+</blockquote>
+<h2> Video Contoh:</h2>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/nPdq-yzBt3k?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - NoClip" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>]]></content:encoded>
+    </item>
+    <item>
+      <title>Player Speed</title>
+      <link>https://korepi.com/id/features/Player/player-speed.html</link>
+      <guid>https://korepi.com/id/features/Player/player-speed.html</guid>
+      <source url="https://korepi.com/id/rss.xml">Player Speed</source>
+      <description>Player Speed memodifikasi kecepatan pemain. Asli. Tidak Bohong. Catatan: Disarankan menggunakan nilai dibawah 1.5. Catatan 2: Extra Movements (extra-movements.md) disarankan kar...</description>
+      <category>Fitur</category>
+      <pubDate>Sat, 16 Dec 2023 12:12:13 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Player Speed memodifikasi kecepatan pemain. Asli. Tidak Bohong.</h2>
+<blockquote>
+<p>Catatan: Disarankan menggunakan nilai dibawah <code>1.5</code>.
+Catatan 2: <a href="/id/features/Player/extra-movements.html" target="blank">Extra Movements</a> disarankan karena lebih disinkronkan dengan server (lebih aman) (Sponsor!)</p>
+</blockquote>
+<h2> Video Contoh:</h2>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/HCxmOUMFRs8?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Player Speed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>]]></content:encoded>
+    </item>
+    <item>
+      <title>Remote Utility</title>
+      <link>https://korepi.com/id/features/Player/remote-utility.html</link>
+      <guid>https://korepi.com/id/features/Player/remote-utility.html</guid>
+      <source url="https://korepi.com/id/rss.xml">Remote Utility</source>
+      <description>Hanya Untuk Sponsor! Remote Utility: Claim Daily Commision Reward: Mengklaim hadiah komisi harian saat 4 komisi telah selesai dilakukan.; Custom Talk: Memulai percakapan menggun...</description>
+      <category>Fitur</category>
+      <pubDate>Sat, 16 Dec 2023 12:12:13 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Hanya Untuk Sponsor!</h2>
+<h2> Remote Utility:</h2>
+<h3> Claim Daily Commision Reward:</h3>
+<ul>
+<li>Mengklaim hadiah komisi harian saat 4 komisi telah selesai dilakukan.</li>
+</ul>
+<h3> Custom Talk:</h3>
+<ul>
+<li>Memulai percakapan menggunakan ID percakapan, beberapa percakapan mungkin tidak berfungsi.</li>
+</ul>
+<blockquote>
+<p>Catatan: Fitur ini berbahaya.
+Catatan 2: Untuk mendapatkan ID percakapan, aktifkan <code>Debug Talk</code>, ID akan ditampilkan di <code>cmd</code>.</p>
+</blockquote>
+<h3> Spawn Gadget:</h3>
+<ul>
+<li>Memunculkan <code>Gadget</code> yang dipilih berdasarkan ID, beberapa di antaranya mungkin tidak berfungsi.</li>
+</ul>
+<blockquote>
+<p>Catatan: Fitur ini berbahaya.
+Catatan 2: Anda dapat menenemukan <code>Gadget</code> ID <a href="https://github.com/jie65535/GrasscutterCommandGenerator/blob/main/Source/GrasscutterTools/Resources/en-us/Gadget.txt" target="_blank" rel="noopener noreferrer">disini</a></p>
+</blockquote>
+<h3> Crafting:</h3>
+<ul>
+<li>Condensed Resin: Membuat <code>Condensed Resin</code> jika Anda memiliki resin dan bahan-bahannya.</li>
+<li>Spawn Alchemy Table: Memunculkan Alchemy Table.</li>
+<li>Spawn Forging Table: Memunculkan Forging Table.</li>
+<li>Custom Combine: Akan mencoba menggabungkan barang yang dipilih menggunakan karakter saat ini.
+<blockquote>
+<p>Catatan: Jika berhasil, tidak akan ada peringatan. Periksa <code>inventory</code>.
+Catatan 2: Anda dapat menemukan <code>Combine</code> ID <a href="https://github.com/jie65535/GrasscutterCommandGenerator/blob/main/Source/GrasscutterTools/Resources/en-us/Item.txt" target="_blank" rel="noopener noreferrer">disini</a></p>
+</blockquote>
+</li>
+</ul>
+<h3> Summon NPC:</h3>
+<ul>
+<li>Memunculkan NPC yang dipilih berdasarkan ID</li>
+</ul>
+<blockquote>
+<p>Catatan: Katheryne, Wagner, dan Prince sudah termasuk.</p>
+</blockquote>
+<h3> Summon Monster:</h3>
+<ul>
+<li>Memunculkan monster yang dipilih dengan parameter yang dipilih berdasarkan ID.</li>
+</ul>
+<blockquote>
+<p>Catatan: Anda tidak bisa membunuh mereka.
+Catatan 2: Anda bisa menemukan ID monster <a href="https://github.com/jie65535/GrasscutterCommandGenerator/blob/main/Source/GrasscutterTools/Resources/en-us/Monsters.txt" target="_blank" rel="noopener noreferrer">disini</a></p>
+</blockquote>
+<h3> Summon Item:</h3>
+<ul>
+<li>Memunculkan item yang dipilih berdasarkan ID.</li>
+</ul>
+<blockquote>
+<p>Catatan: Beberapa barang mungkin tidak berfungsi.
+Catatan 2: Anda dapat menemukan ID barang <a href="https://github.com/jie65535/GrasscutterCommandGenerator/blob/main/Source/GrasscutterTools/Resources/en-us/Item.txt" target="_blank" rel="noopener noreferrer">disini</a></p>
+</blockquote>
+<h3> Open UI Page:</h3>
+<ul>
+<li>Open Paimon Menu Page: Membuka menu.</li>
+<li>Open Cooking Page: Membuka halaman memasak.
+<blockquote>
+<p>Catatan: Perlu membuka halaman memasak sekali sebelum menggunakan fitur ini.</p>
+</blockquote>
+</li>
+</ul>
+<h3> Worship Statue:</h3>
+<ul>
+<li>Akan berdoa pada <code>Statue of the Seven</code> yang dipilih dengan jumlah yang dipilih, perlu memiliki <code>oculus</code> untuk melakukannya.</li>
+</ul>
+<h3> Change Traveler Element:</h3>
+<ul>
+<li>Memungkinkan pemain mengubah elemen <code>traveler</code> di mana saja.</li>
+</ul>
+<h3> Contoh Video:</h3>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/XGztUEy82sE?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Remote Utilities (Sponsor)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>]]></content:encoded>
+    </item>
+    <item>
       <title>Daftar Fitur</title>
       <link>https://korepi.com/id/features/</link>
       <guid>https://korepi.com/id/features/</guid>
       <source url="https://korepi.com/id/rss.xml">Daftar Fitur</source>
-      <description>Daftar Fitur Di bagian berikut, Anda akan menemukan daftar fitur yang dibagi berdasarkan kategori, dengan video contoh dan rekomendasi.</description>
+      <description>Daftar Fitur Pemain Attack Effects (player/attack-effects.md); Auto Run (player/auto-run.md); Bunny Hop (player/bunny-hop.md); Cooldown Effects (player/cooldown-effects.md); Ext...</description>
       <category>Fitur</category>
       <pubDate>Fri, 15 Dec 2023 14:22:50 GMT</pubDate>
       <content:encoded><![CDATA[<h2> Daftar Fitur</h2>
-<h3> Di bagian berikut, Anda akan menemukan daftar fitur yang dibagi berdasarkan kategori, dengan video contoh dan rekomendasi.</h3>
+<h3> Pemain</h3>
+<ul>
+<li><a href="/id/features/player/attack-effects.html" target="blank">Attack Effects</a></li>
+<li><a href="/id/features/player/auto-run.html" target="blank">Auto Run</a></li>
+<li><a href="/id/features/player/bunny-hop.html" target="blank">Bunny Hop</a></li>
+<li><a href="/id/features/player/cooldown-effects.html" target="blank">Cooldown Effects</a></li>
+<li><a href="/id/features/player/extra-movements.html" target="blank">Extra Movements</a></li>
+<li><a href="/id/features/player/fall-control.html" target="blank">Fall Control</a></li>
+<li><a href="/id/features/player/god-mode.html" target="blank">God Mode</a></li>
+<li><a href="/id/features/player/infinite-stamina.html" target="blank">Infinite Stamina</a></li>
+<li><a href="/id/features/player/no-clip.html" target="blank">No Clip</a></li>
+<li><a href="/id/features/player/player-speed.html" target="blank">Player Speed</a></li>
+<li><a href="/id/features/player/remote-utility.html" target="blank">Remote Utility</a></li>
+</ul>
+<h3> Dunia</h3>
+<ul>
+<li><a href="/id/features/world/auto-activate-tp.html" target="blank">Auto Activated Waypoints</a></li>
+<li><a href="/id/features/world/auto-challenge.html" target="blank">Auto Challenge</a></li>
+<li><a href="/id/features/world/auto-cook.html" target="blank">Auto Cook</a></li>
+<li><a href="/id/features/world/auto-destroy.html" target="blank">Auto Destroy</a></li>
+<li><a href="/id/features/world/auto-fish.html" target="blank">Auto Fish</a></li>
+<li><a href="/id/features/world/auto-loot.html" target="blank">Auto Loot</a></li>
+<li><a href="/id/features/world/auto-seelie.html" target="blank">Auto Seelie</a></li>
+<li><a href="/id/features/world/auto-talk.html" target="blank">Auto Talk</a></li>
+<li><a href="/id/features/world/auto-tree-farm.html" target="blank">Auto Tree Farm</a></li>
+<li><a href="/id/features/world/elemental-aura.html" target="blank">Elemental Aura</a></li>
+<li><a href="/id/features/world/game-speed.html" target="blank">Game Speed</a></li>
+<li><a href="/id/features/world/kill-aura.html" target="blank">Kill Aura</a></li>
+<li><a href="/id/features/world/mob-vacuum.html" target="blank">Mob Vacuum</a></li>
+<li><a href="/id/features/world/vacuum-loot.html" target="blank">Vacuum Loot</a></li>
+</ul>
 ]]></content:encoded>
     </item>
     <item>
