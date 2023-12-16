@@ -1,8 +1,8 @@
 ---
-title: Frequent Errors
+title: Frequent Injector Errors
 icon: info
 category:
-  - Guide
+  - Troubleshoot
 tag:
   - Start
 author: Schvis
@@ -11,7 +11,7 @@ order: 1
 
 ## List of frequent errors
 
-## Why my korepi dissapears?
+## Why my korepi disappears?
 
 Make sure you got your anti-virus disabled, create a new folder and add it to exclusions.
 
@@ -115,4 +115,22 @@ Try using a VPN if it doesn't work.
 ## Failed to detect game version
 
 Update your injector, follow the steps [here](../start/download.md)
+
+## File ok
+
+Delete your cfg.json, something might be wrong with the file.
+
+## UserAssembly.dll isn't initialized, waiting for 2 sec.
+
+If your injector crashes after this line try the following steps:
+
+Turn off all anti-viruses in PC.
+
+If its doesn't help use `sfc /scannow` command in cmd as administrator.
+
+If errors are found after checking and Windows is unable to resolve them, use the `DISM.exe /Online /Cleanup-Image /RestoreHealth` command. 
+
+After checking restart your computer and try to run colorpicker again.
+
+If the error repeats you can make factory reset of Windows.
 

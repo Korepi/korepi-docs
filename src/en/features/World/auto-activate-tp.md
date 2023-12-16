@@ -4,7 +4,7 @@ icon: satellite-dish
 category:
   - Features
 tag:
-  - Auto Activate Waypoints
+  - Auto Activate Teleport
 author: Schvis, Ikuyo
 ---
 
