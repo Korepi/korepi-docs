@@ -21,7 +21,7 @@ author: Schvis
 > Note: This feature is dangerous.
 > Note 2: You can find the gadget IDs [here](https://github.com/jie65535/GrasscutterCommandGenerator/blob/main/Source/GrasscutterTools/Resources/en-us/Gadget.txt)
 ### Crafting:
-- Condensed Resin: Crafts a condensed resin if resin is enough.
+- Condensed Resin: Crafts a condensed resin if you got the resin and the items.
 - Spawn Alchemy Table: Spawns an Alchemy Table.
 - Spawn Forging Table: Spawns a Forging Table.
 - Custom Combine: Will try to combine the selected item using the current character.
@@ -32,7 +32,8 @@ author: Schvis
 > Note: Katheryne, Wagner and Prince already included.
 ### Summon Monster:
 - Summons the selected monster with the selected parameters by ID.
-> Note: You can find the monster IDs [here](https://github.com/jie65535/GrasscutterCommandGenerator/blob/main/Source/GrasscutterTools/Resources/en-us/Monsters.txt)
+> Note: You can't kill them.
+> Note 2: You can find the monster IDs [here](https://github.com/jie65535/GrasscutterCommandGenerator/blob/main/Source/GrasscutterTools/Resources/en-us/Monsters.txt)
 ### Summon Item:
 - Summons the selected item by ID.
 > Note: Some items might not work.

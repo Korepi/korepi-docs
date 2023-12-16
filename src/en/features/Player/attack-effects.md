@@ -11,6 +11,8 @@ author: Schvis
 ## Attack Effects: Modifications for your attacks
 
 ### Multi-Hit Mode:
+- One Punch Mode: Tries to kill the target with 1 hit.
+> Note: Not recommended to use.
 - Modifies the number of attacks recieved by the target.
 > Note: Not recommended to go above `5`.
 ### Multi-Target:
@@ -31,7 +33,7 @@ author: Schvis
 ### Critical Hit (Sponsor):
 - Changes the probability of critical hits.
 ### Nullify Incoming Element:
-- Will nilify any incoming element converting it to physical damage instead.
+- Will nullify any incoming element converting it to physical damage instead.
 
 ## Example Video:
 
