@@ -1,6 +1,6 @@
 ---
 title: Camera Zoom
-icon: person-rays
+icon: camera
 category:
   - Features
 tag:

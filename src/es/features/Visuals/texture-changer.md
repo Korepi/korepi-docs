@@ -1,6 +1,6 @@
 ---
 title: Cambiador de Textura
-icon: person-rays
+icon: list
 category:
   - Funciones
 tag:

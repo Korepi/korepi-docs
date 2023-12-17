@@ -1,6 +1,6 @@
 ---
 title: Perfil Personalizado
-icon: person-rays
+icon: users-gear
 category:
   - Funciones
 tag:

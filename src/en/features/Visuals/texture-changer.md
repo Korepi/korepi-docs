@@ -1,6 +1,6 @@
 ---
 title: Texture Changer
-icon: person-rays
+icon: list
 category:
   - Features
 tag:

@@ -1,6 +1,6 @@
 ---
 title: FPS Unlock
-icon: person-rays
+icon: arrow-up-right-dots
 category:
   - Features
 tag:

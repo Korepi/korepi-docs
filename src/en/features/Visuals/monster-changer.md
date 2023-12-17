@@ -1,6 +1,6 @@
 ---
 title: Monster Changer
-icon: person-rays
+icon: arrows-rotate
 category:
   - Features
 tag:

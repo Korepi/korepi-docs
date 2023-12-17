@@ -1,6 +1,6 @@
 ---
 title: Custom Weather
-icon: person-rays
+icon: cloud
 category:
   - Features
 tag:

@@ -1,6 +1,6 @@
 ---
 title: Tiempo Falso
-icon: person-rays
+icon: clock
 category:
   - Funciones
 tag:

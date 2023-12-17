@@ -1,6 +1,6 @@
 ---
 title: Cambiador de Monstruos
-icon: person-rays
+icon: arrows-rotate
 category:
   - Funciones
 tag:

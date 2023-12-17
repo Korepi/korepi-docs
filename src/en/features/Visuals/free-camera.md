@@ -1,6 +1,6 @@
 ---
 title: Free Camera
-icon: person-rays
+icon: camera-rotate
 category:
   - Features
 tag:

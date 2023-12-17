@@ -1,6 +1,6 @@
 ---
 title: Hide UI
-icon: person-rays
+icon: square
 category:
   - Features
 tag:

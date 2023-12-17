@@ -1,6 +1,6 @@
 ---
 title: Cámara Libre
-icon: person-rays
+icon: camera-rotate
 category:
   - Funciones
 tag:

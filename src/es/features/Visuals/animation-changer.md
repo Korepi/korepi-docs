@@ -1,6 +1,6 @@
 ---
 title: Cambiador de Animación
-icon: person-rays
+icon: people-arrows
 category:
   - Funciones
 tag:

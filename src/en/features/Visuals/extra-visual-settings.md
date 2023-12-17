@@ -1,6 +1,6 @@
 ---
 title: Extra Visual Settings
-icon: person-rays
+icon: eye
 category:
   - Features
 tag:

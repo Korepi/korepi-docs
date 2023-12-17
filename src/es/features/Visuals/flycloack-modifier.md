@@ -1,6 +1,6 @@
 ---
 title: Modificador de Planeador
-icon: person-rays
+icon: arrows-rotate
 category:
   - Funciones
 tag:

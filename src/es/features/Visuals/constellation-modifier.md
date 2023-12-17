@@ -1,6 +1,6 @@
 ---
 title: Modificador de Constelaciones
-icon: person-rays
+icon: retweet
 category:
   - Funciones
 tag:

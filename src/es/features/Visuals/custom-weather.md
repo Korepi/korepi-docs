@@ -1,6 +1,6 @@
 ---
 title: Clima Personalizado
-icon: person-rays
+icon: cloud
 category:
   - Funciones
 tag:

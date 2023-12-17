@@ -1,6 +1,6 @@
 ---
 title: Constellation Modifier
-icon: person-rays
+icon: retweet
 category:
   - Features
 tag:

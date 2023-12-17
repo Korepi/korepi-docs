@@ -1,6 +1,6 @@
 ---
 title: Skin Modifier
-icon: person-rays
+icon: list
 category:
   - Features
 tag:

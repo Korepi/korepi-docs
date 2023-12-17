@@ -1,6 +1,6 @@
 ---
 title: Others
-icon: person-rays
+icon: layer-group
 category:
   - Funciones
 tag:

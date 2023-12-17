@@ -1,6 +1,6 @@
 ---
 title: Modificador de Pieles
-icon: person-rays
+icon: list
 category:
   - Funciones
 tag:

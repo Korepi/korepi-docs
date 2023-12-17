@@ -1,6 +1,6 @@
 ---
 title: Desbloquear FPS
-icon: person-rays
+icon: arrow-up-right-dots
 category:
   - Funciones
 tag:

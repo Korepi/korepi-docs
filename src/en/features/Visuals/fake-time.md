@@ -1,6 +1,6 @@
 ---
 title: Fake Time
-icon: person-rays
+icon: clock
 category:
   - Features
 tag:

@@ -1,6 +1,6 @@
 ---
 title: Zoom de Cámara
-icon: person-rays
+icon: camera
 category:
   - Funciones
 tag:

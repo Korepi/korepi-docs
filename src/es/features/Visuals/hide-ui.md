@@ -1,6 +1,6 @@
 ---
 title: Esconder Interfaz
-icon: person-rays
+icon: square
 category:
   - Funciones
 tag:

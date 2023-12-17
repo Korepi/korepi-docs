@@ -1,6 +1,6 @@
 ---
 title: Custom Profile
-icon: person-rays
+icon: users-gear
 category:
   - Features
 tag:

@@ -1,6 +1,6 @@
 ---
 title: Emotion Changer
-icon: person-rays
+icon: face-smile
 category:
   - Features
 tag:

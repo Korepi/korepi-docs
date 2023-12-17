@@ -1,6 +1,6 @@
 ---
 title: Zoom del Mapa
-icon: person-rays
+icon: map
 category:
   - Funciones
 tag:

@@ -1,6 +1,6 @@
 ---
 title: Map Zoom
-icon: person-rays
+icon: map
 category:
   - Features
 tag:

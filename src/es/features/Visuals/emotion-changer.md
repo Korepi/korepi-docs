@@ -1,6 +1,6 @@
 ---
 title: Cambiador de Emociones
-icon: person-rays
+icon: face-smile
 category:
   - Funciones
 tag:

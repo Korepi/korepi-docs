@@ -1,6 +1,6 @@
 ---
 title: Flycloack Modifier
-icon: person-rays
+icon: arrows-rotate
 category:
   - Features
 tag:

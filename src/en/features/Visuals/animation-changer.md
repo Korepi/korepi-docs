@@ -1,6 +1,6 @@
 ---
 title: Animation Changer
-icon: person-rays
+icon: people-arrows
 category:
   - Features
 tag:
