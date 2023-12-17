@@ -8,9 +8,9 @@ tag:
 author: Schvis, Ikuyo
 order: 9
 ---
-
-
-## <span style='color:yellow;'>Sponsor Only</span>
+::: info Sponsor Only
+:::
+---
 ### <span style='color:white;'>Auto Tree Farm lets you punch nearby trees with the selected value and delay, therefore automatically getting wood from nearby trees.</span>
 
 ## <span style='color:white;'>Example Video:</span>

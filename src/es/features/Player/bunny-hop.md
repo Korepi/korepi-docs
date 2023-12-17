@@ -8,8 +8,9 @@ tag:
 author: Schvis
 order: 3
 ---
-
-## <span style='color:white;'>Solo para</span> <span style='color:yellow;'>Sponsor</span>
+::: info Solo para Sponsor
+:::
+---
 ## <span style='color:white;'>Salto de Conejo saltara automaticamente después del primer salto.</span>
 
 ## <span style='color:white;'>Video de Ejemplo:</span>

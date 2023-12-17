@@ -9,7 +9,9 @@ author: Schvis
 order: 11
 ---
 
-## <span style='color:white;'>Solo para</span> <span style='color:yellow;'>Sponsor</span>
+::: info Solo para Sponsor
+:::
+---
 ## <span style='color:white;'>Utilidad Remota:</span>
 ### <span style='color:white;'>Reclamar Recompensas de Comisiones Diarias:</span>
 - Reclama las recompensas cuando las 4 comisiones han sido terminados.

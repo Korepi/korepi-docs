@@ -8,7 +8,9 @@ tag:
 author: Schvis, Natsume
 order: 5
 ---
-
+::: info Hanya Untuk Sponsor!
+:::
+---
 ## Extra Movements: Modifikasi/Meningkatkan beberapa tindakan tertentu untuk pemain.
 ### Run On Water:
 - Memungkinkan kemampuan untuk berjalan di atas air.

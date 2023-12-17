@@ -8,8 +8,9 @@ tag:
 author: Schvis
 order: 10
 ---
-
-## <span style='color:yellow;'>Sponsor Only</span>
+::: info Sponsor Only
+:::
+---
 ### <span style='color:white;'>Elemental Aura applies elements with the specified element, range and delay to  targets, objects or yourself, multiple elements can be applied to nearby targets.</span>
 
 ## <span style='color:white;'>Example Video:</span>

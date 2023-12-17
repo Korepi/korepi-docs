@@ -8,7 +8,9 @@ tag:
 author: Schvis
 order: 5
 ---
-
+::: info Sponsor Only
+:::
+---
 ## <span style='color:white;'>Extra Movements: Modifies/Enchances certain actions for the player.</span>
 ### <span style='color:white;'>Run On Water:</span>
 - Enables the ability to walk on water.

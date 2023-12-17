@@ -8,7 +8,9 @@ tag:
 author: Schvis
 order: 5
 ---
-
+::: info Solo para Sponsor
+:::
+---
 ## <span style='color:white;'>Movimiento Extra: Cambia/Mejora ciertas acciones del jugador.</span>
 ### <span style='color:white;'>Correr Sobre el Agua:</span>
 - Activa la habilidad de caminar sobre el agua.

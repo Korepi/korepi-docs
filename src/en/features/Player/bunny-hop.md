@@ -9,7 +9,9 @@ author: Schvis
 order: 3
 ---
 
-## <span style='color:yellow;'>Sponsor Only</span>
+::: info Sponsor Only
+:::
+---
 ## <span style='color:white;'>Bunny Hop will jump automatically after first jump when enabled.</span>
 
 ## <span style='color:white;'>Example Video:</span>

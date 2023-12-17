@@ -8,8 +8,9 @@ tag:
 author: Schvis
 order: 9
 ---
-
-## <span style='color:white;'>Solo para</span> <span style='color:yellow;'>Sponsor</span>
+::: info Solo para Sponsor
+:::
+---
 ### <span style='color:white;'>Aura Elemental aplica elementos a ti mismo, monstruos u objetos cercanos, tanto los elementos, el rango y el retraso se pueden personalizar, se puede usar más de un elemento.</span>
 
 ## <span style='color:white;'>Video de Ejemplo:</span>

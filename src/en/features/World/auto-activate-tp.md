@@ -8,8 +8,9 @@ tag:
 author: Schvis, Ikuyo
 order: 1
 ---
-
-## <span style='color:yellow;'>Sponsor Only</span>
+::: info Sponsor Only
+:::
+---
 ### <span style='color:white;'>Auto Activate Teleport activates nearby waypoints up to 50m.</span>
 
 ## <span style='color:white;'>Example Video:</span>

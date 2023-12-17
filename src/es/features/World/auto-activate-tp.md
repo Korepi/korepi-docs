@@ -8,7 +8,9 @@ tag:
 author: Schvis
 order: 1
 ---
-## <span style='color:white;'>Solo para</span> <span style='color:yellow;'>Sponsor</span>
+::: info Solo para Sponsor
+:::
+---
 ### <span style='color:white;'>Auto Activar Teletransporte, activa teletransportes cercanos hasta 50 metros.</span>
 
 ## <span style='color:white;'>Video de Ejemplo:</span>

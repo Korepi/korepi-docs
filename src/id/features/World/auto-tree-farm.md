@@ -8,8 +8,9 @@ tag:
 author: Schvis, Natsume, Ikuyo
 order: 9
 ---
-
-## Hanya Untuk Sponsor!
+::: info Hanya Untuk Sponsor!
+:::
+---
 ### Auto Tree Farm memungkinkan Anda untuk memukul pohon-pohon di sekitar secara otomatis dengan nilai dan waktu jeda yang dipilih, sehingga mendapatkan kayu secara otomatis dari pohon-pohon di sekitar.
 
 ## Video contoh:

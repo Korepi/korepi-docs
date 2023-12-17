@@ -8,8 +8,9 @@ tag:
 author: Schvis
 order: 11
 ---
-
-## <span style='color:yellow;'>Sponsor Only</span>
+::: info Sponsor Only
+:::
+---
 ## <span style='color:white;'>Remote Utility:</span>
 ### <span style='color:white;'>Claim Daily Commision Reward:</span>
 - Claims daily commision reward when all 4 comissions are completed.
