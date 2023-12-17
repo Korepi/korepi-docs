@@ -23,6 +23,13 @@ author: Schvis, Natsume
   - [Player Speed](Player/player-speed.md)
   - [Remote Utility](Player/remote-utility.md)
 
+### Teleport
+  - [Oculi Teleport](Teleport/0culi-teleport.md)
+  - [Chest Teleport](Teleport/chest-teleport.md)
+  - [Custom Teleport](Teleport/custom-teleport.md)
+  - [Map Teleport](Teleport/map-teleport.md)
+  - [Quest Teleport](Teleport/quest-teleport.md)
+
 ### Dunia
   - [Auto Activated Waypoints](World/auto-activate-tp.md)
   - [Auto Challenge](World/auto-challenge.md)
@@ -38,10 +45,3 @@ author: Schvis, Natsume
   - [Kill Aura](World/kill-aura.md)
   - [Mob Vacuum](World/mob-vacuum.md)
   - [Vacuum Loot](World/vacuum-loot.md)
-
-### Teleport
-- [Oculi Teleport](Teleport/0culi-teleport.md)
-- [Chest Teleport](Teleport/chest-teleport.md)
-- [Custom Teleport](Teleport/custom-teleport.md)
-- [Map Teleport](Teleport/map-teleport.md)
-- [Quest Teleport](Teleport/quest-teleport.md)
