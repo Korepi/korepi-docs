@@ -6,12 +6,12 @@
     <link>https://korepi.com/id/</link>
     <description>Pertolongan Korepi</description>
     <language>id-ID</language>
-    <pubDate>Sun, 17 Dec 2023 14:16:10 GMT</pubDate>
-    <lastBuildDate>Sun, 17 Dec 2023 14:16:10 GMT</lastBuildDate>
+    <pubDate>Sun, 17 Dec 2023 17:22:15 GMT</pubDate>
+    <lastBuildDate>Sun, 17 Dec 2023 17:22:15 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-    <category>Features</category>
     <category>Fitur</category>
+    <category>Quest Teleport</category>
     <category>Panduan</category>
     <category>Solusi</category>
     <item>
@@ -19,59 +19,59 @@
       <link>https://korepi.com/id/features/Teleport/0culi-teleport.html</link>
       <guid>https://korepi.com/id/features/Teleport/0culi-teleport.html</guid>
       <source url="https://korepi.com/id/rss.xml">0culi Teleport</source>
-      <description>Oculi Teleport will teleport the player to the nearest rendered oculi location when the hotkey is pressed. Note: Wait &amp;gt;15s between teleports for safety. Example Video:</description>
-      <category>Features</category>
+      <description>Oculi Teleport akan memindahkan pemain ke lokasi oculi terdekat yang ditampilkan saat tombol pintas ditekan. Catatan: Tunggu &amp;gt;15 detik antara teleportasi untuk keamanan. Video C...</description>
+      <category>Fitur</category>
       <pubDate>Sat, 16 Dec 2023 23:36:46 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Oculi Teleport will teleport the player to the nearest rendered oculi location when the hotkey is pressed.</h2>
+      <content:encoded><![CDATA[<h2> Oculi Teleport akan memindahkan pemain ke lokasi oculi terdekat yang ditampilkan saat tombol pintas ditekan.</h2>
 <blockquote>
-<p>Note: Wait <code>&gt;15s</code> between teleports for safety.</p>
+<p>Catatan: Tunggu <code>&gt;15 detik</code> antara teleportasi untuk keamanan.</p>
 </blockquote>
-<h2> Example Video:</h2>
-<iframe width="640" height="360" src="https://www.youtube.com/embed/j2Yu31J7Yh4?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Oculi/ChestTeleport" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
-]]></content:encoded>
+<h2> Video Contoh:</h2>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/j2Yu31J7Yh4?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Oculi/ChestTeleport" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>]]></content:encoded>
     </item>
     <item>
       <title>Chest Teleport</title>
       <link>https://korepi.com/id/features/Teleport/chest-teleport.html</link>
       <guid>https://korepi.com/id/features/Teleport/chest-teleport.html</guid>
       <source url="https://korepi.com/id/rss.xml">Chest Teleport</source>
-      <description>Chest Teleport will teleport the player to the nearest rendered chest location when the hotkey is pressed. Note: Wait &amp;gt;15s between teleports for safety. Example Video:</description>
-      <category>Features</category>
+      <description>Chest Teleport akan memindahkan pemain ke lokasi peti terdekat yang ditampilkan saat tombol pintas ditekan. Catatan: Tunggu &amp;gt;15 detik antara teleportasi untuk keamanan. Video Co...</description>
+      <category>Fitur</category>
       <pubDate>Sat, 16 Dec 2023 23:36:46 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Chest Teleport will teleport the player to the nearest rendered chest location when the hotkey is pressed.</h2>
+      <content:encoded><![CDATA[<h2> Chest Teleport akan memindahkan pemain ke lokasi peti terdekat yang ditampilkan saat tombol pintas ditekan.</h2>
 <blockquote>
-<p>Note: Wait <code>&gt;15s</code> between teleports for safety.</p>
+<blockquote>
+<p>Catatan: Tunggu <code>&gt;15 detik</code> antara teleportasi untuk keamanan.</p>
 </blockquote>
-<h2> Example Video:</h2>
-<iframe width="640" height="360" src="https://www.youtube.com/embed/j2Yu31J7Yh4?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Oculi/ChestTeleport" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
-]]></content:encoded>
+</blockquote>
+<h2> Video Contoh:</h2>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/j2Yu31J7Yh4?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Oculi/ChestTeleport" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>]]></content:encoded>
     </item>
     <item>
       <title>Custom Teleport</title>
       <link>https://korepi.com/id/features/Teleport/custom-teleport.html</link>
       <guid>https://korepi.com/id/features/Teleport/custom-teleport.html</guid>
       <source url="https://korepi.com/id/rss.xml">Custom Teleport</source>
-      <description>Custom Teleport: Allows the player to teleport to a selected location designed by a .json file. Interpolation Speed: Controls the teleportation animation speed, set to 0.1 to av...</description>
-      <category>Features</category>
+      <description>Custom Teleport: Memungkinkan pemain untuk teleportasi ke lokasi yang dipilih yang telah didesain di berkas .json. Interpolation Speed: Mengkontrol kecepatan animasi teleportasi...</description>
+      <category>Fitur</category>
       <pubDate>Sat, 16 Dec 2023 23:36:46 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Custom Teleport: Allows the player to teleport to a selected location designed by a <code>.json</code> file.</h2>
+      <content:encoded><![CDATA[<h2> Custom Teleport: Memungkinkan pemain untuk teleportasi ke lokasi yang dipilih yang telah didesain di berkas <code>.json</code>.</h2>
 <h3> Interpolation Speed:</h3>
 <ul>
-<li>Controls the teleportation animation speed, set to <code>0.1</code> to avoid issues.</li>
+<li>Mengkontrol kecepatan animasi teleportasi, atur ke <code>0.1</code> untuk menghindari masalah.</li>
 </ul>
 <h3> Auto Teleport:</h3>
 <ul>
-<li>Teleports automatically following the order of the provided <code>.json</code> files.
+<li>Melakukan teleportasi secara otomatis mengikuti urutan berkas <code>.json</code> yang diberikan.
 <ul>
-<li>Teleport Next: Teleports to next location after pressing the selected hotkey.</li>
-<li>Teleport Previous: Teleports to previous location after pressing the selected hotkey.</li>
+<li>Teleport Next: Teleportasi ke lokasi berikutnya setelah menekan tombol pintas yang dipilih.</li>
+<li>Teleport Previous: Teleportasi ke lokasi sebelumnya setelah menekan tombol pintas yang dipilih.</li>
 </ul>
 </li>
 </ul>
 <blockquote>
-<p>Note: Recommended to set above <code>15s</code> for safety.</p>
+<p>Catatan: Tunggu <code>&gt;15 detik</code> antara teleportasi untuk keamanan.</p>
 </blockquote>
-<h1> You can find out more on how to use this feature <a href="/id/guide/custom-tp-setting.html" target="blank">here</a></h1>
+<h1> Anda bisa temukan lebih lanjut cara menggunakan fitur ini <a href="/id/guide/custom-tp-setting.html" target="blank">disini</a></h1>
 ]]></content:encoded>
     </item>
     <item>
@@ -79,35 +79,35 @@
       <link>https://korepi.com/id/features/Teleport/map-teleport.html</link>
       <guid>https://korepi.com/id/features/Teleport/map-teleport.html</guid>
       <source url="https://korepi.com/id/rss.xml">Map Teleport</source>
-      <description>Map Teleport allows you to teleport to anywhere on the map. To use map teleport you have to enable it, and select the hotkey you going to use.; To teleport, hold the hotkey whil...</description>
-      <category>Features</category>
+      <description>Map Teleport memungkinkanmu untuk berpindah ke mana saja di peta. Untuk menggunakan teleport peta, Anda harus mengaktifkannya, dan pilih tombol pintas yang akan Anda gunakan.; U...</description>
+      <category>Fitur</category>
       <pubDate>Sat, 16 Dec 2023 23:36:46 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Map Teleport allows you to teleport to anywhere on the map.</h2>
+      <content:encoded><![CDATA[<h2> Map Teleport memungkinkanmu untuk berpindah ke mana saja di peta.</h2>
 <ul>
-<li>To use map teleport you have to enable it, and select the hotkey you going to use.</li>
-<li>To teleport, hold the hotkey while having the map opened and click on where you want to teleport.</li>
+<li>Untuk menggunakan teleport peta, Anda harus mengaktifkannya, dan pilih tombol pintas yang akan Anda gunakan.</li>
+<li>Untuk melakukan teleportasi, tahan tombol pintas saat membuka peta dan klik di mana Anda ingin melakukan teleportasi.</li>
 </ul>
-<h3> Fast Teleport (<span style="color:yellow;">Sponsor</span>):</h3>
+<h3> Fast Teleport (<span style="color:yellow;">Sponsor!</span>):</h3>
 <ul>
-<li>Disables the loading screen within the selected distance while teleporting.</li>
+<li>Menonaktifkan <code>Loading Screen</code> dalam jarak yang dipilih saat melakukan teleportasi.</li>
 </ul>
-<h2> Example Video:</h2>
-<iframe width="640" height="360" src="https://www.youtube.com/embed/Xm3mTEbIE9g?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Map TP/Fast TP" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
-]]></content:encoded>
+<h2> Video Contoh:</h2>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/Xm3mTEbIE9g?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Map TP/Fast TP" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>]]></content:encoded>
     </item>
     <item>
       <title>Quest Teleport</title>
       <link>https://korepi.com/id/features/Teleport/quest-teleport.html</link>
       <guid>https://korepi.com/id/features/Teleport/quest-teleport.html</guid>
       <source url="https://korepi.com/id/rss.xml">Quest Teleport</source>
-      <description>Quest Teleports allows you to teleport to the current on-going quest location. To use this feature, you must click your navigation hotkey first and then click on quest teleport ...</description>
-      <category>Features</category>
+      <description>Quest Teleports memungkinkanmu untuk teleportasi ke lokasi misi yang sedang berlangsung saat itu juga. Untuk menggunakan fitur ini, Anda harus tekan tombol navigasi terlebih dah...</description>
+      <category>Fitur</category>
+      <category>Quest Teleport</category>
       <pubDate>Sat, 16 Dec 2023 23:36:46 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Quest Teleports allows you to teleport to the current on-going quest location.</h2>
+      <content:encoded><![CDATA[<h2> Quest Teleports memungkinkanmu untuk teleportasi ke lokasi misi yang sedang berlangsung saat itu juga.</h2>
 <ul>
-<li>To use this feature, you must click your navigation hotkey first and then click on quest teleport hotkey.</li>
+<li>Untuk menggunakan fitur ini, Anda harus tekan tombol navigasi terlebih dahulu, kemudian tekan tombol teleport misi.</li>
 </ul>
-<h2> Example Video:</h2>
+<h2> Video Contoh:</h2>
 <iframe width="640" height="360" src="https://www.youtube.com/embed/HNdQu39G2Tc?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - QuestTP" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 ]]></content:encoded>
     </item>
@@ -524,6 +524,14 @@ Catatan 2: Anda dapat menemukan ID barang <a href="https://github.com/jie65535/G
 <li><a href="/id/features/Player/player-speed.html" target="blank">Player Speed</a></li>
 <li><a href="/id/features/Player/remote-utility.html" target="blank">Remote Utility</a></li>
 </ul>
+<h3> Teleport</h3>
+<ul>
+<li><a href="/id/features/Teleport/0culi-teleport.html" target="blank">Oculi Teleport</a></li>
+<li><a href="/id/features/Teleport/chest-teleport.html" target="blank">Chest Teleport</a></li>
+<li><a href="/id/features/Teleport/custom-teleport.html" target="blank">Custom Teleport</a></li>
+<li><a href="/id/features/Teleport/map-teleport.html" target="blank">Map Teleport</a></li>
+<li><a href="/id/features/Teleport/quest-teleport.html" target="blank">Quest Teleport</a></li>
+</ul>
 <h3> Dunia</h3>
 <ul>
 <li><a href="/id/features/World/auto-activate-tp.html" target="blank">Auto Activated Waypoints</a></li>
@@ -540,14 +548,6 @@ Catatan 2: Anda dapat menemukan ID barang <a href="https://github.com/jie65535/G
 <li><a href="/id/features/World/kill-aura.html" target="blank">Kill Aura</a></li>
 <li><a href="/id/features/World/mob-vacuum.html" target="blank">Mob Vacuum</a></li>
 <li><a href="/id/features/World/vacuum-loot.html" target="blank">Vacuum Loot</a></li>
-</ul>
-<h3> Teleport</h3>
-<ul>
-<li><a href="/id/features/Teleport/0culi-teleport.html" target="blank">Oculi Teleport</a></li>
-<li><a href="/id/features/Teleport/chest-teleport.html" target="blank">Chest Teleport</a></li>
-<li><a href="/id/features/Teleport/custom-teleport.html" target="blank">Custom Teleport</a></li>
-<li><a href="/id/features/Teleport/map-teleport.html" target="blank">Map Teleport</a></li>
-<li><a href="/id/features/Teleport/quest-teleport.html" target="blank">Quest Teleport</a></li>
 </ul>
 ]]></content:encoded>
     </item>
