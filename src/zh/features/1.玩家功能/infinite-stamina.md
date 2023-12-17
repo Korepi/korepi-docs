@@ -6,6 +6,7 @@ category:
 tag:
   - 无限体力
 author: Double
+order: 7
 ---
 
 ## 无限体力：体力不会被消耗。
