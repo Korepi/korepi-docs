@@ -6,6 +6,7 @@ category:
 tag:
   - Auto Talk
 author: Schvis, Natsume, Ikuyo
+order: 8
 ---
 
 ## Auto Talk: Fitur Berdialog dengan NPC secara otomatis

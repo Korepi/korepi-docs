@@ -6,8 +6,11 @@ category:
 tag:
   - Extra Movements
 author: Schvis
+order: 5
 ---
-
+::: info Sponsor Only
+:::
+---
 ## Extra Movements: Modifies/Enchances certain actions for the player.
 ### Run On Water:
 - Enables the ability to walk on water.

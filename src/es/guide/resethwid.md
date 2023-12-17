@@ -34,7 +34,7 @@ Después de restablecer tu HWID vuelve al mod y pega tu llave de nuevo.
 
 Disfruta de Korepi de nuevo!
 
-## Restablecer HWID: Network(F) (Sponsor)
+## Restablecer HWID: Network(F) (<span style='color:yellow;'>Sponsor</span>)
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/WCuRAyqWMHg" title="Reset HWID F version (Sponsor)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -48,7 +48,7 @@ Ve a tu carpeta de Korepi y borra `license.json`, después de eso pega tu nueva 
 
 Disfruta de Korepi!
 
-## Restablecer HWID: Local(V) (Sponsor)
+## Restablecer HWID: Local(V) (<span style='color:yellow;'>Sponsor</span>)
 <iframe width="640" height="360" src="https://www.youtube.com/embed/q0G9UZHErrg?list=PL5eI1Tb64p56Mp6JqoR_o3BYk9UFTbOQI" title="How to reset Local V HWID" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### Step 1: Encuentra tu HWID

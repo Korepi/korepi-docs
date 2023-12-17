@@ -12,7 +12,7 @@ order: 6
 
 ## Como usar Teletransportes personalizados
 
-### Paso 1: Configuración 
+### Paso 1: Configuración
 
 Lo configuraremos de la siguiente manera:
 

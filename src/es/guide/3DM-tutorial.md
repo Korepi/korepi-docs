@@ -10,11 +10,9 @@ author: Schvis
 order: 4
 ---
 
-## Nota:
-
-### Si en el cmd de GIMI sale `echo off` puedes presionar `Numpad 0` para quitarlo o
-
-### editar `d3dx.ini` y buscar `hunting=` y cambialo a `0`.
+::: info Si en el cmd de GIMI sale `echo off` puedes presionar `Numpad 0` para quitarlo o editar `d3dx.ini` y buscar `hunting=` y cambialo a `0`.
+:::
+---
 
 ## Como usar skins personalizadas en Korepi
 
@@ -22,7 +20,7 @@ order: 4
 Para poder usar skins personalizadas en Korepi tendremos que descargar la aplicación de 
 
 `3DMigoto(GIMI)`.
-## Método 1
+## <span style='color:blue;'>Método 1</span>
 ### Paso 1: Descargar `GIMI`
 
 Descarga `GIMI` desde su [Github](https://github.com/SilentNightSound/GI-Model-Importer/releases/tag/v7.0) oficial, descarga el archivo llamado `3dmigoto-GIMI-for-playing-mods.zip`.
@@ -49,7 +47,7 @@ En `DllPath` pegaremos nuestro directorio mencionado en el paso anterior.
 
 Después de realizar los pasos mencionados, GIMI se abrirá junto a Korepi cada vez que abras Korepi.
 
-## Método 2
+## <span style='color:blue;'>Método 2</span>
 ### Paso 1: Descargar `GIMI`
 
 Descarga `GIMI` desde su [Github](https://github.com/SilentNightSound/GI-Model-Importer/releases/tag/v7.0) oficial, descarga el archivo llamado `3dmigoto-GIMI-for-playing-mods.zip`.

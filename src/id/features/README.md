@@ -39,3 +39,9 @@ author: Schvis, Natsume
   - [Mob Vacuum](World/mob-vacuum.md)
   - [Vacuum Loot](World/vacuum-loot.md)
 
+### Teleport
+- [Oculi Teleport](Teleport/0culi-teleport.md)
+- [Chest Teleport](Teleport/chest-teleport.md)
+- [Custom Teleport](Teleport/custom-teleport.md)
+- [Map Teleport](Teleport/map-teleport.md)
+- [Quest Teleport](Teleport/quest-teleport.md)

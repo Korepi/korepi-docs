@@ -6,6 +6,7 @@ category:
 tag:
   - Player Speed
 author: Schvis, Natsume
+order: 10
 ---
 
 ## Player Speed memodifikasi kecepatan pemain. Asli. Tidak Bohong.

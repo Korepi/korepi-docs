@@ -6,6 +6,7 @@ category:
 tag:
   - Game Speed
 author: Schvis, Natsume
+order: 11
 ---
 
 ### Game Speed. Mempercepat atau memperlambat game. Tak terduga!.

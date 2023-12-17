@@ -6,6 +6,7 @@ category:
 tag:
   - Auto Seelie
 author: Schvis, Ikuyo
+order: 7
 ---
 
 ## Auto Seelie removes the necesity of the player to follow the seelie constantly, seelie with go to the designed destination when the player gets close.

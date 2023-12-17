@@ -6,6 +6,7 @@ category:
 tag:
   - Cooldown Effects
 author: Schvis
+order: 4
 ---
 
 ## Cooldown Effects: Modifies the cooldown time of various actions.

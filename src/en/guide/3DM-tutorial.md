@@ -10,11 +10,9 @@ author: Schvis
 order: 4
 ---
 
-## Note:
-
-### If GIMI shows `echo off` on the cmd, you can just press `Numpad 0` to remove it,
-
-### you can also edit `d3dx.ini` and search for `hunting=` and set to `0`. 
+::: info If GIMI shows `echo off` on the cmd, you can just press `Numpad 0` to remove it, you can also edit `d3dx.ini` and search for `hunting=` and set to `0`. 
+:::
+---
 
 ## How to use custom Skins in Korepi
 
@@ -22,7 +20,7 @@ order: 4
 In order to use custom skins in we will need to download: 
 
 `3DMigoto(GIMI)`.
-## Method 
+## <span style='color:blue;'>Method 1</span>
 ### Step 1: Download `GIMI`
 
 Download `GIMI` in their oficial [Github](https://github.com/SilentNightSound/GI-Model-Importer/releases/tag/v7.0) and download the file named: `3dmigoto-GIMI-for-playing-mods.zip`.
@@ -49,7 +47,7 @@ On `DllPath` we will paste the path we copied in the last step.
 
 If you followed the steps right, Korepi should launch with `GIMI` every time.
 
-## Method 2
+## <span style='color:blue;'>Method 2</span>
 ### Step 1: Download `GIMI`
 
 Download `GIMI` in their oficial [Github](https://github.com/SilentNightSound/GI-Model-Importer/releases/tag/v7.0) and download the file named: `3dmigoto-GIMI-for-playing-mods.zip`.

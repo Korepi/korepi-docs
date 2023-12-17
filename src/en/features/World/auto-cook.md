@@ -6,6 +6,7 @@ category:
 tag:
   - Auto Cook
 author: Schvis
+order: 3
 ---
 
 ### Auto Cook lets you cook a specified quantity and quality of the selected food on the cooking page, it counts with an auto proficiency (Auto unlock auto cook) built-in.

@@ -6,9 +6,11 @@ category:
 tag:
   - Elemental Aura
 author: Schvis
+order: 10
 ---
-
-## Sponsor Only
+::: info Sponsor Only
+:::
+---
 ### Elemental Aura applies elements with the specified element, range and delay to  targets, objects or yourself, multiple elements can be applied to nearby targets.
 
 ## Example Video:

@@ -6,6 +6,7 @@ category:
 tag:
   - Infinite Stamina
 author: Schvis
+order: 8
 ---
 
 ## Infinite Stamina disables the stamina consumption for all actions.

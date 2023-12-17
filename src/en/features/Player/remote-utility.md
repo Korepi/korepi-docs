@@ -6,9 +6,11 @@ category:
 tag:
   - Remote Utility
 author: Schvis
+order: 11
 ---
-
-## Sponsor Only
+::: info Sponsor Only
+:::
+---
 ## Remote Utility:
 ### Claim Daily Commision Reward:
 - Claims daily commision reward when all 4 comissions are completed.
@@ -47,6 +49,6 @@ author: Schvis
 ### Change Traveler Element:
 - Allows player to change traveler element anywhere.
 
-### Example Video:
+## Example Video:
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/XGztUEy82sE?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Remote Utilities (Sponsor)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

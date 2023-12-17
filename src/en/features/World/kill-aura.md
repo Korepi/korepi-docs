@@ -6,10 +6,14 @@ category:
 tag:
   - Kill Aura
 author: Schvis
+order: 12
 ---
 
+::: danger This feature has a high risk of ban.
+:::
+---
 ## Kill Aura: Deals damage to surrounding enemies
-# Note: This feature has a high risk of ban.
+
 ### Crash Damage mode:
 - Deals fall damage to surrounding enemies with the specified value, delay and range.
 > Note: Not recommended to use very high values.

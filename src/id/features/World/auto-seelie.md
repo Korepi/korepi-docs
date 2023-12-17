@@ -6,6 +6,7 @@ category:
 tag:
   - Auto Seelie
 author: Schvis, Natsume, Ikuyo
+order: 7
 ---
 
 ## Auto Seelie menghilangkan kebutuhan pemain untuk terus mengikuti Seelie. Seelie akan menuju tujuan yang ditentukan saat pemain mendekat.

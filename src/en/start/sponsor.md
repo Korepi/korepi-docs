@@ -10,7 +10,7 @@ author: rekiihype
 order: 4
 ---
 
-## How to become a Sponsor?
+## How to become a <span style='color:yellow;'>Sponsor</span>?
 
 To becoming a Sponsor, you need to donate atleast $5 or equivalent if you are using another currency.
 

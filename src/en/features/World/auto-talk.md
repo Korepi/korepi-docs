@@ -6,6 +6,7 @@ category:
 tag:
   - Auto Talk
 author: Schvis
+order: 8
 ---
 
 ## Auto Talk: Talks automatically with the NPCs

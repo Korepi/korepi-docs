@@ -6,9 +6,11 @@ category:
 tag:
   - Remote Utility
 author: Schvis, Natsume
+order: 11
 ---
-
-## Hanya Untuk Sponsor!
+::: info Hanya Untuk Sponsor!
+:::
+---
 ## Remote Utility:
 ### Claim Daily Commision Reward:
 - Mengklaim hadiah komisi harian saat 4 komisi telah selesai dilakukan.

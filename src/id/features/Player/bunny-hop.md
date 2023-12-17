@@ -6,9 +6,11 @@ category:
 tag:
   - Bunny Hop
 author: Schvis, Natsume
+order: 3
 ---
-
-## Hanya Untuk Sponsor!
+::: info Hanya Untuk Sponsor!
+:::
+---
 ## Bunny Hop akan melompat secara otomatis setelah lompatan pertama ketika diaktifkan.
 
 ## Video Contoh:

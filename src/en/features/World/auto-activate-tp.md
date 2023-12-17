@@ -4,11 +4,13 @@ icon: satellite-dish
 category:
   - Features
 tag:
-  - Auto Activate Waypoints
+  - Auto Activate Teleport
 author: Schvis, Ikuyo
+order: 1
 ---
-
-## Sponsor Only
+::: info Sponsor Only
+:::
+---
 ### Auto Activate Teleport activates nearby waypoints up to 50m.
 
 ## Example Video:

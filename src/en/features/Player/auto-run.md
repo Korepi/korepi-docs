@@ -6,6 +6,7 @@ category:
 tag:
   - Auto Run
 author: Schvis
+order: 2
 ---
 
 ## Auto Run will move the player to the direction the player is facing automatically.

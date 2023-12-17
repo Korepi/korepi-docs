@@ -6,6 +6,7 @@ category:
 tag:
   - Fall Control
 author: Schvis
+order: 6
 ---
 
 ## Fall Control allows you to move with the selected speed while falling.

@@ -6,9 +6,12 @@ category:
 tag:
   - Bunny Hop
 author: Schvis
+order: 3
 ---
 
-## Sponsor Only
+::: info Sponsor Only
+:::
+---
 ## Bunny Hop will jump automatically after first jump when enabled.
 
 ## Example Video:

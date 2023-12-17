@@ -6,6 +6,7 @@ category:
 tag:
   - Auto Destroy Objects
 author: Schvis, Natsume
+order: 4
 ---
 
 ### Auto Destroy Objects memungkinkan Anda menghancurkan objek yang dapat disesuaikan dalam jangkauan tertentu, termasuk bahan tambang, tanaman, tumpukan batu, peti, objek khusus, perisai, dan lainnya.
