@@ -6,14 +6,631 @@
     <link>https://korepi.com/zh/</link>
     <description>Korepi 中文文档介绍</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 17 Dec 2023 12:21:08 GMT</pubDate>
-    <lastBuildDate>Sun, 17 Dec 2023 12:21:08 GMT</lastBuildDate>
+    <pubDate>Sun, 17 Dec 2023 14:16:10 GMT</pubDate>
+    <lastBuildDate>Sun, 17 Dec 2023 14:16:10 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-    <category>Features</category>
     <category>指南</category>
+    <category>Features</category>
     <category>Guide</category>
     <category>Troubleshoot</category>
+    <item>
+      <title>如何设置Korepi中文</title>
+      <link>https://korepi.com/zh/start/setting-language-zh.html</link>
+      <guid>https://korepi.com/zh/start/setting-language-zh.html</guid>
+      <source url="https://korepi.com/zh/rss.xml">如何设置Korepi中文</source>
+      <category>指南</category>
+      <pubDate>Sun, 17 Dec 2023 13:19:15 GMT</pubDate>
+      <content:encoded><![CDATA[<hr>
+<h1> 1.打开korepi，进入游戏后。</h1>
+<h1> 2.按下键盘tab键。</h1>
+<h1> 3.下拉菜单栏，找到setting,点击other。如下图：</h1>
+<p></p>
+<h1> 4.找到language，点击切换到Simplified Chinese。</h1>
+<p></p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>神瞳传送</title>
+      <link>https://korepi.com/zh/features/3.%E4%BC%A0%E9%80%81%E5%8A%9F%E8%83%BD/0culi-teleport.html</link>
+      <guid>https://korepi.com/zh/features/3.%E4%BC%A0%E9%80%81%E5%8A%9F%E8%83%BD/0culi-teleport.html</guid>
+      <source url="https://korepi.com/zh/rss.xml">神瞳传送</source>
+      <description>神瞳传送：按下热键时，会将玩家传送到最近的神瞳位置。 注意：为了安全起见，在传送的等待 &amp;apos;15s&amp;apos;。</description>
+      <category>Features</category>
+      <pubDate>Sun, 17 Dec 2023 13:19:15 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> 神瞳传送：按下热键时，会将玩家传送到最近的神瞳位置。</h2>
+<blockquote>
+<p>注意：为了安全起见，在传送的等待 '15s'。</p>
+</blockquote>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>宝箱传送</title>
+      <link>https://korepi.com/zh/features/3.%E4%BC%A0%E9%80%81%E5%8A%9F%E8%83%BD/chest-teleport.html</link>
+      <guid>https://korepi.com/zh/features/3.%E4%BC%A0%E9%80%81%E5%8A%9F%E8%83%BD/chest-teleport.html</guid>
+      <source url="https://korepi.com/zh/rss.xml">宝箱传送</source>
+      <description>宝箱传送：按下热键时，传送将玩家传送到最近的宝箱位置。 注意：为了安全起见，在传送的等待 &amp;apos;15s&amp;apos;。</description>
+      <category>Features</category>
+      <pubDate>Sun, 17 Dec 2023 13:19:15 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> 宝箱传送：按下热键时，传送将玩家传送到最近的宝箱位置。</h2>
+<blockquote>
+<p>注意：为了安全起见，在传送的等待 '15s'。</p>
+</blockquote>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>自定义传送</title>
+      <link>https://korepi.com/zh/features/3.%E4%BC%A0%E9%80%81%E5%8A%9F%E8%83%BD/custom-teleport.html</link>
+      <guid>https://korepi.com/zh/features/3.%E4%BC%A0%E9%80%81%E5%8A%9F%E8%83%BD/custom-teleport.html</guid>
+      <source url="https://korepi.com/zh/rss.xml">自定义传送</source>
+      <description>自定义传送：允许玩家传送到由“.json”文件设计的选定位置。 插值速度： 控制传送动画的速度，设置为“0.1”以避免出现问题。; 自动传送： 根据提供的.json文件的顺序自动进行电传。; 传送下一个：按下选定热键后，传送到下一个位置。; 传送上一个：按下选定热键后，传传到上一个位置。; 注意：为了安全起见，建议设置在“15秒”以上。</description>
+      <category>Features</category>
+      <pubDate>Sun, 17 Dec 2023 13:19:15 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> 自定义传送：允许玩家传送到由“.json”文件设计的选定位置。</h2>
+<h3> 插值速度：</h3>
+<ul>
+<li>控制传送动画的速度，设置为“0.1”以避免出现问题。</li>
+</ul>
+<h3> 自动传送：</h3>
+<ul>
+<li>根据提供的<code>.json</code>文件的顺序自动进行电传。</li>
+<li>传送下一个：按下选定热键后，传送到下一个位置。</li>
+<li>传送上一个：按下选定热键后，传传到上一个位置。</li>
+</ul>
+<blockquote>
+<p>注意：为了安全起见，建议设置在“15秒”以上。</p>
+</blockquote>
+<h1> 如何使用的教程 <a href="/zh/features/3.%E4%BC%A0%E9%80%81%E5%8A%9F%E8%83%BD/guide%5Ccustom-tp-setting.md.html" target="blank">点击这里</a></h1>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>地图传送</title>
+      <link>https://korepi.com/zh/features/3.%E4%BC%A0%E9%80%81%E5%8A%9F%E8%83%BD/map-teleport.html</link>
+      <guid>https://korepi.com/zh/features/3.%E4%BC%A0%E9%80%81%E5%8A%9F%E8%83%BD/map-teleport.html</guid>
+      <source url="https://korepi.com/zh/rss.xml">地图传送</source>
+      <description>地图传送允许你传送到地图上的任何地方。 要使用地图传送，你必须启用它，并选择你要使用的热键。热键一般是设置为T键。; 要传送时，请在打开地图的同时按住热键，然后点击要传送的位置。; 快速传送(赞助者专属)： 传送时不会进行地图加载。;</description>
+      <category>Features</category>
+      <pubDate>Sun, 17 Dec 2023 13:19:15 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> 地图传送允许你传送到地图上的任何地方。</h2>
+<ul>
+<li>要使用地图传送，你必须启用它，并选择你要使用的热键。热键一般是设置为T键。</li>
+<li>要传送时，请在打开地图的同时按住热键，然后点击要传送的位置。</li>
+</ul>
+<h3> 快速传送(<span style="color:#f1c40f;">赞助者专属</span>)：</h3>
+<ul>
+<li>传送时不会进行地图加载。</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>任务点传送</title>
+      <link>https://korepi.com/zh/features/3.%E4%BC%A0%E9%80%81%E5%8A%9F%E8%83%BD/quest-teleport.html</link>
+      <guid>https://korepi.com/zh/features/3.%E4%BC%A0%E9%80%81%E5%8A%9F%E8%83%BD/quest-teleport.html</guid>
+      <source url="https://korepi.com/zh/rss.xml">任务点传送</source>
+      <description>任务点传送：允许你传送到当前正在进行的任务位置。 要使用此功能，你必须先点击V跟踪任务，然后单击任务传送热键。; 注意：一般我们会将V键设置为热键。</description>
+      <category>Features</category>
+      <pubDate>Sun, 17 Dec 2023 13:19:15 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> 任务点传送：允许你传送到当前正在进行的任务位置。</h2>
+<ul>
+<li>要使用此功能，你必须先点击V跟踪任务，然后单击任务传送热键。</li>
+</ul>
+<blockquote>
+<p>注意：一般我们会将V键设置为热键。</p>
+</blockquote>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>动画修改器</title>
+      <link>https://korepi.com/zh/features/4.%E8%A7%86%E5%9B%BE%E5%8A%9F%E8%83%BD/animation-changer.html</link>
+      <guid>https://korepi.com/zh/features/4.%E8%A7%86%E5%9B%BE%E5%8A%9F%E8%83%BD/animation-changer.html</guid>
+      <source url="https://korepi.com/zh/rss.xml">动画修改器</source>
+      <description>动画修改器：允许玩家将当前角色的动画更改为选定的动画。</description>
+      <category>Features</category>
+      <pubDate>Sun, 17 Dec 2023 13:19:15 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> 动画修改器：允许玩家将当前角色的动画更改为选定的动画。</h2>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>无限视距</title>
+      <link>https://korepi.com/zh/features/4.%E8%A7%86%E5%9B%BE%E5%8A%9F%E8%83%BD/camera-zoom.html</link>
+      <guid>https://korepi.com/zh/features/4.%E8%A7%86%E5%9B%BE%E5%8A%9F%E8%83%BD/camera-zoom.html</guid>
+      <source url="https://korepi.com/zh/rss.xml">无限视距</source>
+      <description>无限视距：第三人称视距更改为所需值。</description>
+      <category>Features</category>
+      <pubDate>Sun, 17 Dec 2023 13:19:15 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> 无限视距：第三人称视距更改为所需值。</h2>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>命座修改</title>
+      <link>https://korepi.com/zh/features/4.%E8%A7%86%E5%9B%BE%E5%8A%9F%E8%83%BD/constellation-modifier.html</link>
+      <guid>https://korepi.com/zh/features/4.%E8%A7%86%E5%9B%BE%E5%8A%9F%E8%83%BD/constellation-modifier.html</guid>
+      <source url="https://korepi.com/zh/rss.xml">命座修改</source>
+      <description>赞助者专属 命座修改：可以更改命座，不过只要部分角色命座有效。 -你可以找到更多关于他们中哪一个工作的信息#⁠cons-check在服务器中。 启用后，必须刷新一下数据才有效果，刷新方法：切换队伍，或者传送一下. 五星 阿贝多; C1: 🟥 C2: 🟦 C3: 🟥 C4: 🟦 C5: 🟥 C6: 🟦 埃洛伊; C1: 🟦 C2: 🟦 C...</description>
+      <category>Features</category>
+      <pubDate>Sun, 17 Dec 2023 13:19:15 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> <span style="color:#f1c40f;">赞助者专属</span></h2>
+<hr>
+<h2> 命座修改：可以更改命座，不过只要部分角色命座有效。</h2>
+<p>-你可以找到更多关于他们中哪一个工作的信息<code>#⁠cons-check</code>在服务器中。</p>
+<div class="hint-container tip">
+<p class="hint-container-title">提示</p>
+<p>启用后，必须刷新一下数据才有效果，刷新方法：切换队伍，或者传送一下.</p>
+</div>
+<h1> <span style="color:red;">以下是命座修改的实际情况</span></h1>
+<h1> 🟦 – 正常工作</h1>
+<h1> 🟨 – 半工作</h1>
+<h1> 🟥 – 不工作</h1>
+<h1> ?   - 尚未测试/未知</h1>
+<h1> 这个是在使用命座修改时，对应角色有效命座（中文版，英文版在 ⁠cons-check ）</h1>
+<h1> 蒙德</h1>
+<hr>
+<h2> 五星</h2>
+<ul>
+<li>阿贝多
+C1: 🟥 C2: 🟦 C3: 🟥 C4: 🟦 C5: 🟥 C6: 🟦</li>
+<li>埃洛伊
+C1: 🟦 C2: 🟦 C3: 🟦 C4: 🟦 C5: 🟦 C6: 🟦</li>
+<li>迪卢克
+C1: 🟥 C2: 🟥 C3: 🟥 C4: 🟥 C5: 🟥 C6: 🟥</li>
+<li>优菈
+C1: 🟦 C2: 🟦 C3: 🟥 C4: 🟦 C5: 🟥 C6: 🟦</li>
+<li>琴
+C1: 🟦 C2: 🟦 C3: 🟥 C4: 🟦 C5: 🟥 C6: 🟦</li>
+<li>可莉
+C1: 🟦 C2: 🟥 C3: 🟥 C4: 🟥 C5: 🟥 C6: 🟥</li>
+<li>莫娜
+C1: 🟦 C2: 🟥 C3: 🟥 C4: 🟥 C5: 🟥 C6: 🟥</li>
+<li>温迪
+C1: 🟦 C2: 🟦 C3: 🟥 C4: 🟥 C5: 🟥 C6: 🟦</li>
+</ul>
+<h2> 四星</h2>
+<ul>
+<li>安柏
+C1: 🟦  C2: 🟦  C3: 🟥  C4: 🟥  C5: 🟥  C6: 🟦</li>
+<li>芭芭拉
+C1: 🟥  C2: 🟦  C3: 🟥  C4: 🟥  C5: 🟥  C6: 🟥</li>
+<li>班尼特
+C1: 🟦  C2: 🟦  C3: 🟥  C4: 🟦  C5: 🟥  C6: 🟦</li>
+<li>迪奥娜
+C1: 🟥  C2: 🟦  C3: 🟥  C4: 🟦  C5: 🟥  C6: 🟦</li>
+<li>菲谢尔
+C1: 🟥  C2: 🟦  C3: 🟥  C4: 🟦  C5: 🟥  C6: 🟦</li>
+<li>凯亚
+C1: 🟥  C2: 🟥  C3: 🟥  C4: 🟥  C5: 🟥  C6: 🟦</li>
+<li>丽莎
+C1: 🟥  C2: 🟦  C3: 🟥  C4: 🟦  C5: 🟥  C6: 🟦</li>
+<li>米卡
+C1: ?  C2: ?  C3: 🟥 C4: ?  C5: 🟥 C6: 🟦</li>
+<li>诺艾尔
+C1: 🟦 C2: 🟥 C3: 🟥 C4: 🟥 C5: 🟥 C6: 🟦</li>
+<li>雷泽
+C1: 🟥 C2: ?  C3: 🟥 C4: 🟦 C5: 🟥 C6: 🟥</li>
+<li>罗莎莉亚
+C1: 🟥 C2: 🟦 C3: 🟥 C4: ?  C5: 🟥 C6: 🟥</li>
+<li>砂糖
+C1: 🟥 C2: 🟥 C3: 🟥 C4: 🟥 C5: 🟥 C6: 🟦</li>
+</ul>
+<hr>
+<h1> 璃月</h1>
+<hr>
+<h2> 五星</h2>
+<ul>
+<li>白术
+C1: 🟥  C2: ?  C3: ?  C4: 🟦   C5: ?  C6: 🟦</li>
+<li>甘雨
+C1: 🟦 C2: 🟥 C3: 🟥 C4: 🟦 C5: 🟥 C6: 🟦</li>
+<li>胡桃
+C1: 🟦 C2: 🟦 C3: 🟥 C4: 🟦 C5: 🟥 C6: 🟥</li>
+<li>刻晴
+C1: 🟦 C2: 🟥 C3: 🟥 C4: 🟥 C5: 🟥 C6: 🟥</li>
+<li>七七
+C1: 🟦 C2: 🟦 C3: 🟥 C4: 🟥 C5: 🟥 C6: 🟦</li>
+<li>申鹤
+C1: ?  C2: 🟦 C3: 🟥 C4: 🟦 C5: 🟥 C6: 🟦</li>
+<li>达达利亚
+C1: 🟦 C2: 🟥 C3: 🟥 C4: 🟦 C5: 🟥 C6: 🟦</li>
+<li>魈
+C1: 🟥 C2: 🟥 C3: 🟥 C4: 🟥 C5: 🟥 C6: 🟦</li>
+<li>夜兰
+C1: 🟥 C2: 🟦 C3: 🟥 C4: 🟥 C5: 🟥 C6: 🟥</li>
+<li>钟离
+C1: 🟦 C2: 🟦 C3: 🟥 C4: 🟦 C5: 🟥 C6: 🟦</li>
+</ul>
+<h2> 四星</h2>
+<ul>
+<li>北斗
+C1: 🟦 C2: 🟦 C3: 🟥 C4: 🟦 C5: 🟥 C6: 🟦</li>
+<li>重云
+C1: 🟦 C2: 🟦 C3: 🟥 C4: 🟥 C5: 🟥 C6: 🟦</li>
+<li>凝光
+C1: 🟦 C2: 🟥 C3: 🟥 C4: 🟦 C5: 🟥 C6: 🟥</li>
+<li>香菱
+C1: 🟦 C2: 🟥 C3: 🟥 C4: 🟦 C5: 🟥 C6: 🟦</li>
+<li>行秋
+C1: 🟦 C2: 🟦 C3: 🟥 C4: 🟦 C5: 🟥 C6: 🟦</li>
+<li>辛焱
+C1: 🟦 C2: 🟦 C3: 🟥 C4: 🟦 C5: 🟥 C6: 🟥</li>
+<li>烟绯
+C1: 🟥 C2: 🟥 C3: 🟥 C4: 🟦 C5: 🟥 C6: 🟦</li>
+<li>瑶瑶
+C1: 🟥 C2: 🟥 C3: 🟥 C4: 🟥 C5: 🟥 C6: 🟦</li>
+<li>云瑾
+C1: 🟦 C2: 🟦 C3: 🟥 C4: 🟦 C5: 🟥 C6: 🟥</li>
+</ul>
+<hr>
+<h1> 稻妻</h1>
+<hr>
+<h2> 五星</h2>
+<ul>
+<li>荒龙一斗
+C1: 🟥 C2: 🟥 C3: 🟥 C4: 🟥 C5: 🟥 C6: 🟦</li>
+<li>枫原万叶
+C1: 🟥 C2: 🟦 C3: 🟥 C4: 🟥 C5: 🟥 C6: 🟥</li>
+<li>神里绫华
+C1: 🟥 C2: 🟦 C3: 🟥 C4: 🟥 C5: 🟥 C6: 🟥</li>
+<li>神里绫人
+C1: 🟥 C2: 🟦 C3: 🟥 C4: 🟥 C5: 🟥 C6: 🟦</li>
+<li>雷电将军
+C1: 🟦 C2: 🟦 C3: 🟥 C4: 🟥 C5: 🟥 C6: 🟦</li>
+<li>珊瑚宫心海
+C1: 🟦 C2: 🟦 C3: 🟥 C4: 🟦 C5: 🟥 C6: 🟥</li>
+<li>八重神子
+C1: 🟦 C2: 🟦 C3: 🟥 C4: 🟥 C5: 🟥 C6: 🟥</li>
+<li>宵宫
+C1: 🟦 C2: 🟦 C3: 🟥 C4: 🟦 C5: 🟥 C6: 🟥</li>
+</ul>
+<h2> 四星</h2>
+<ul>
+<li>五郎
+C1: 🟦 C2: 🟦 C3: 🟥 C4: ?  C5: 🟥 C6: 🟦</li>
+<li>绮良良
+C1: ?  C2: ?  C3: ?  C4: ?  C5: ?  C6: 🟦</li>
+<li>九条纱罗
+C1: 🟥 C2: 🟦 C3: 🟥 C4: 🟦 C5: 🟥 C6: 🟥</li>
+<li>久歧忍
+C1: 🟥 C2: 🟦 C3: 🟥 C4: 🟥 C5: 🟥 C6: 🟥</li>
+<li>早柚
+C1: 🟦 C2: ?  C3: 🟥 C4: ?  C5: 🟥  C6: 🟦</li>
+<li>鹿野院平藏
+C1: 🟦 C2: 🟦 C3: 🟥 C4: 🟦 C5: 🟥 C6: 🟥</li>
+<li>托马
+C1: ?  C2: ?  C3: 🟥  C4: ?  C5: 🟥 C6: 🟦</li>
+</ul>
+<hr>
+<h1> 须弥</h1>
+<hr>
+<h2> 五星</h2>
+<ul>
+<li>艾尔海森
+C1: 🟥 C2: 🟥 C3: 🟥 C4: 🟦 C5: 🟥 C6: 🟨</li>
+<li>赛诺
+C1: 🟦 C2: 🟥 C3: 🟥 C4: 🟥 C5: 🟥 C6: ?</li>
+<li>迪希雅
+C1: 🟥 C2: 🟦 C3: 🟥 C4: 🟥 C5: 🟥 C6: 🟥</li>
+<li>纳西妲
+C1: 🟥 C2: 🟦 C3: 🟥 C4: 🟥 C5: 🟥 C6: 🟥</li>
+<li>妮露
+C1: 🟦 C2: 🟦 C3: 🟥 C4: 🟥 C5: 🟥 C6: 🟦</li>
+<li>提纳里
+C1: 🟥 C2: 🟦 C3: 🟥 C4: 🟥 C5: 🟥 C6: 🟦</li>
+<li>流浪者
+C1: 🟥 C2: 🟦 C3: 🟥 C4: 🟦 C5: 🟥 C6: 🟦</li>
+</ul>
+<h2> 四星</h2>
+<ul>
+<li>坎蒂丝
+C1: 🟦 C2: 🟥 C3: 🟥 C4: 🟦 C5: 🟥 C6: 🟦</li>
+<li>柯莱
+C1: 🟦 C2: ?  C3: 🟥 C4: 🟦 C5: 🟥 C6: 🟦</li>
+<li>多莉
+C1: 🟦 C2: ?  C3: 🟥 C4: 🟦 C5: 🟥 C6: 🟦</li>
+<li>珐露珊
+C1: 🟦 C2: 🟦 C3: 🟥 C4: 🟥 C5: 🟥 C6: 🟦</li>
+<li>卡维
+C1: ?  C2: ?  C3: ?  C4: ?  C5: ?  C6: ?</li>
+<li>莱依拉
+C1: 🟦 C2: 🟥 C3: 🟥 C4: 🟦 C5: 🟥 C6: 🟦</li>
+</ul>
+<hr>
+<h1> 枫丹</h1>
+<hr>
+<h2> 五星</h2>
+<ul>
+<li>林尼
+C1: 🟦  C2: 🟥 C3: 🟥 C4: 🟥 C5: 🟥 C6: 🟦</li>
+<li>那维莱特
+C1: 🟨  C2: 🟥 C3: 🟥 C4: 🟥 C5: 🟥 C6: 🟥</li>
+<li>莱欧斯利
+C1: 🟦  C2: 🟦 C3: 🟥 C4: 🟥 C5: 🟥 C6: 🟦</li>
+<li>芙宁娜
+C1: 🟦  C2: 🟦  C3: 🟥  C4: 🟥  C5: 🟥  C6: 🟥</li>
+<li>娜维娅
+C1: ?  C2: ?  C3: ?  C4: ?  C5: ?  C6: ?</li>
+</ul>
+<h2> 四星</h2>
+<ul>
+<li>菲米尼
+C1: 🟦 C2: 🟥 C3: 🟥 C4: 🟥 C5: 🟥 C6: 🟥</li>
+<li>琳妮特
+C1: 🟦 C2: 🟦 C3: 🟥 C4: 🟥 C5: 🟥 C6: 🟦</li>
+<li>夏洛蒂
+C1: 🟥  C2: 🟥  C3: 🟥  C4: 🟥  C5: 🟥  C6: 🟦</li>
+<li>夏沃蕾
+C1: ?  C2: ?  C3: ?  C4: ?  C5: ?  C6: ?
+CN</li>
+</ul>
+<h3> 更新日志 - <code>8/11 GMT+8 0000</code></h3>
+<ul>
+<li>没有什么更新变化，只是把修改有效命座的颜色从🟩变成了🟦，这是因为色盲的人很难区分红色和绿色，所以这里有一点关于有效命座颜色的更新</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>自定义资料</title>
+      <link>https://korepi.com/zh/features/4.%E8%A7%86%E5%9B%BE%E5%8A%9F%E8%83%BD/custom-profile.html</link>
+      <guid>https://korepi.com/zh/features/4.%E8%A7%86%E5%9B%BE%E5%8A%9F%E8%83%BD/custom-profile.html</guid>
+      <source url="https://korepi.com/zh/rss.xml">自定义资料</source>
+      <description>自定义配置文件： UID： 选择要显示的UID。; 昵称： 选择要显示的昵称。; 等级： 选择要显示的等级。; 冒险阅历： 选择要显示的冒险阅历。; 世界等级： 选择要显示的世界等级。; 头像： 使用自定义png作为头像图像。; 卡片图像： 使用自定义png作为卡片图像.; 注意：此功能只是更改你屏幕上面的显示，并不是游戏数据。</description>
+      <category>Features</category>
+      <pubDate>Sun, 17 Dec 2023 13:19:15 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> 自定义配置文件：</h2>
+<h3> UID：</h3>
+<ul>
+<li>选择要显示的UID。</li>
+</ul>
+<h3> 昵称：</h3>
+<ul>
+<li>选择要显示的昵称。</li>
+</ul>
+<h3> 等级：</h3>
+<ul>
+<li>选择要显示的等级。</li>
+</ul>
+<h3> 冒险阅历：</h3>
+<ul>
+<li>选择要显示的冒险阅历。</li>
+</ul>
+<h3> 世界等级：</h3>
+<ul>
+<li>选择要显示的世界等级。</li>
+</ul>
+<h3> 头像：</h3>
+<ul>
+<li>使用自定义png作为头像图像。</li>
+</ul>
+<h3> 卡片图像：</h3>
+<ul>
+<li>使用自定义png作为卡片图像.</li>
+</ul>
+<blockquote>
+<p><span style="color:red;">注意：此功能只是更改你屏幕上面的显示，并不是游戏数据。</span></p>
+</blockquote>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>自定义天气</title>
+      <link>https://korepi.com/zh/features/4.%E8%A7%86%E5%9B%BE%E5%8A%9F%E8%83%BD/custom-weather.html</link>
+      <guid>https://korepi.com/zh/features/4.%E8%A7%86%E5%9B%BE%E5%8A%9F%E8%83%BD/custom-weather.html</guid>
+      <source url="https://korepi.com/zh/rss.xml">自定义天气</source>
+      <description>自定义天气：可以选择你所喜欢的天气。</description>
+      <category>Features</category>
+      <pubDate>Sun, 17 Dec 2023 13:19:15 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> 自定义天气：可以选择你所喜欢的天气。</h2>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>表情修改</title>
+      <link>https://korepi.com/zh/features/4.%E8%A7%86%E5%9B%BE%E5%8A%9F%E8%83%BD/emotion-changer.html</link>
+      <guid>https://korepi.com/zh/features/4.%E8%A7%86%E5%9B%BE%E5%8A%9F%E8%83%BD/emotion-changer.html</guid>
+      <source url="https://korepi.com/zh/rss.xml">表情修改</source>
+      <description>表情修改：可以修改你所使用角色的表情。</description>
+      <category>Features</category>
+      <pubDate>Sun, 17 Dec 2023 13:19:15 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> 表情修改：可以修改你所使用角色的表情。</h2>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>额外视觉</title>
+      <link>https://korepi.com/zh/features/4.%E8%A7%86%E5%9B%BE%E5%8A%9F%E8%83%BD/extra-visual-settings.html</link>
+      <guid>https://korepi.com/zh/features/4.%E8%A7%86%E5%9B%BE%E5%8A%9F%E8%83%BD/extra-visual-settings.html</guid>
+      <source url="https://korepi.com/zh/rss.xml">额外视觉</source>
+      <description>额外视觉设置： gamma： 允许您更改游戏的gamma值。; 轮廓宽度： 允许您更改游戏中每个角色的轮廓。; 抗锯齿： 允许玩家更改要使用的抗锯齿模块，包括一些本机不可用的模块。;</description>
+      <category>Features</category>
+      <pubDate>Sun, 17 Dec 2023 13:19:15 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> 额外视觉设置：</h2>
+<h3> gamma：</h3>
+<ul>
+<li>允许您更改游戏的gamma值。</li>
+</ul>
+<h3> 轮廓宽度：</h3>
+<ul>
+<li>允许您更改游戏中每个角色的轮廓。</li>
+</ul>
+<h3> 抗锯齿：</h3>
+<ul>
+<li>允许玩家更改要使用的抗锯齿模块，包括一些本机不可用的模块。</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>伪装时间</title>
+      <link>https://korepi.com/zh/features/4.%E8%A7%86%E5%9B%BE%E5%8A%9F%E8%83%BD/fake-time.html</link>
+      <guid>https://korepi.com/zh/features/4.%E8%A7%86%E5%9B%BE%E5%8A%9F%E8%83%BD/fake-time.html</guid>
+      <source url="https://korepi.com/zh/rss.xml">伪装时间</source>
+      <description>假时间： 游戏时间、小时和分钟的变化。;</description>
+      <category>Features</category>
+      <pubDate>Sun, 17 Dec 2023 13:19:15 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> 假时间：</h2>
+<ul>
+<li>游戏时间、小时和分钟的变化。</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>风之翼修改</title>
+      <link>https://korepi.com/zh/features/4.%E8%A7%86%E5%9B%BE%E5%8A%9F%E8%83%BD/flycloack-modifier.html</link>
+      <guid>https://korepi.com/zh/features/4.%E8%A7%86%E5%9B%BE%E5%8A%9F%E8%83%BD/flycloack-modifier.html</guid>
+      <source url="https://korepi.com/zh/rss.xml">风之翼修改</source>
+      <description>风之翼修改：可以修改风之翼，即使未用有的风之翼也可修改出来。</description>
+      <category>Features</category>
+      <pubDate>Sun, 17 Dec 2023 13:19:15 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> 风之翼修改：可以修改风之翼，即使未用有的风之翼也可修改出来。</h2>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>FPS解锁</title>
+      <link>https://korepi.com/zh/features/4.%E8%A7%86%E5%9B%BE%E5%8A%9F%E8%83%BD/fps-unlock.html</link>
+      <guid>https://korepi.com/zh/features/4.%E8%A7%86%E5%9B%BE%E5%8A%9F%E8%83%BD/fps-unlock.html</guid>
+      <source url="https://korepi.com/zh/rss.xml">FPS解锁</source>
+      <description>FPS解锁：可以解锁高帧率，60帧不再是上限。 限制后台FPS： 设置游戏在未聚焦时可以达到的最高fps。;</description>
+      <category>Features</category>
+      <pubDate>Sun, 17 Dec 2023 13:19:15 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> FPS解锁：可以解锁高帧率，60帧不再是上限。</h2>
+<h3> 限制后台FPS：</h3>
+<ul>
+<li>设置游戏在未聚焦时可以达到的最高fps。</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>自由相机</title>
+      <link>https://korepi.com/zh/features/4.%E8%A7%86%E5%9B%BE%E5%8A%9F%E8%83%BD/free-camera.html</link>
+      <guid>https://korepi.com/zh/features/4.%E8%A7%86%E5%9B%BE%E5%8A%9F%E8%83%BD/free-camera.html</guid>
+      <source url="https://korepi.com/zh/rss.xml">自由相机</source>
+      <description>自由相机： 在不锁定角色的情况下自由移动相机。; 冻结角色动画： 冻结角色动画。; 隐藏角色： 使角色不可见。; 阻止用户输入： 阻止用户输入，因此角色在移动相机时不会移动。;</description>
+      <category>Features</category>
+      <pubDate>Sun, 17 Dec 2023 13:19:15 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> 自由相机：</h2>
+<ul>
+<li>在不锁定角色的情况下自由移动相机。</li>
+</ul>
+<h3> 冻结角色动画：</h3>
+<ul>
+<li>冻结角色动画。</li>
+</ul>
+<h3> 隐藏角色：</h3>
+<ul>
+<li>使角色不可见。</li>
+</ul>
+<h3> 阻止用户输入：</h3>
+<ul>
+<li>阻止用户输入，因此角色在移动相机时不会移动。</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>隐藏界面</title>
+      <link>https://korepi.com/zh/features/4.%E8%A7%86%E5%9B%BE%E5%8A%9F%E8%83%BD/hide-ui.html</link>
+      <guid>https://korepi.com/zh/features/4.%E8%A7%86%E5%9B%BE%E5%8A%9F%E8%83%BD/hide-ui.html</guid>
+      <source url="https://korepi.com/zh/rss.xml">隐藏界面</source>
+      <description>隐藏界面: 完全隐藏玩家用户界面。; 隐藏Ping：（赞助者专属） 仅隐藏ping。; 隐藏血条形图：（赞助者专属） 仅隐藏当前角色HP栏。; 隐藏团队生命值栏：（赞助者专属） 仅在角色选项卡上隐藏团队hp栏。;</description>
+      <category>Features</category>
+      <pubDate>Sun, 17 Dec 2023 13:19:15 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> 隐藏界面:</h2>
+<ul>
+<li>完全隐藏玩家用户界面。</li>
+</ul>
+<h3> 隐藏Ping：（<span style="color:#f1c40f;">赞助者专属</span>）</h3>
+<ul>
+<li>仅隐藏ping。</li>
+</ul>
+<h3> 隐藏血条形图：（<span style="color:#f1c40f;">赞助者专属</span>）</h3>
+<ul>
+<li>仅隐藏当前角色HP栏。</li>
+</ul>
+<h3> 隐藏团队生命值栏：（<span style="color:#f1c40f;">赞助者专属</span>）</h3>
+<ul>
+<li>仅在角色选项卡上隐藏团队hp栏。</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>地图缩放</title>
+      <link>https://korepi.com/zh/features/4.%E8%A7%86%E5%9B%BE%E5%8A%9F%E8%83%BD/map-zoom.html</link>
+      <guid>https://korepi.com/zh/features/4.%E8%A7%86%E5%9B%BE%E5%8A%9F%E8%83%BD/map-zoom.html</guid>
+      <source url="https://korepi.com/zh/rss.xml">地图缩放</source>
+      <description>地图缩放：修改缩放值，可以在打开地图时将地图缩放到任意大小，没用限制。</description>
+      <category>Features</category>
+      <pubDate>Sun, 17 Dec 2023 13:19:15 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> 地图缩放：修改缩放值，可以在打开地图时将地图缩放到任意大小，没用限制。</h2>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>怪物替换</title>
+      <link>https://korepi.com/zh/features/4.%E8%A7%86%E5%9B%BE%E5%8A%9F%E8%83%BD/monster-changer.html</link>
+      <guid>https://korepi.com/zh/features/4.%E8%A7%86%E5%9B%BE%E5%8A%9F%E8%83%BD/monster-changer.html</guid>
+      <source url="https://korepi.com/zh/rss.xml">怪物替换</source>
+      <description>怪物替换： 启用后，所有新渲染的怪物将在视觉上更改为选定的怪物。; 排除动物： 启用后禁止更换动物。; 自定义怪物ID: 使用特定ID替换怪物。; 随机化怪物： 变化将是随机的。;</description>
+      <category>Features</category>
+      <pubDate>Sun, 17 Dec 2023 13:19:15 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> 怪物替换：</h2>
+<ul>
+<li>启用后，所有新渲染的怪物将在视觉上更改为选定的怪物。</li>
+</ul>
+<h3> 排除动物：</h3>
+<ul>
+<li>启用后禁止更换动物。</li>
+</ul>
+<h3> 自定义怪物ID:</h3>
+<ul>
+<li>使用特定ID替换怪物。</li>
+</ul>
+<h3> 随机化怪物：</h3>
+<ul>
+<li>变化将是随机的。</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>其他</title>
+      <link>https://korepi.com/zh/features/4.%E8%A7%86%E5%9B%BE%E5%8A%9F%E8%83%BD/others.html</link>
+      <guid>https://korepi.com/zh/features/4.%E8%A7%86%E5%9B%BE%E5%8A%9F%E8%83%BD/others.html</guid>
+      <source url="https://korepi.com/zh/rss.xml">其他</source>
+      <description>其他功能： 显示宝箱指示器 反虚化 无黑屏 去雾（去除地图雾气） 去草 派梦跟随 海豚跳 GM图标 菜单解锁器 赞助者专属： 无相机模糊 无视角转动 无足迹 无大招动画</description>
+      <category>Features</category>
+      <pubDate>Sun, 17 Dec 2023 13:19:15 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> 其他功能：</h2>
+<h3> 显示宝箱指示器</h3>
+<h3> 反虚化</h3>
+<h3> 无黑屏</h3>
+<h3> 去雾（去除地图雾气）</h3>
+<h3> 去草</h3>
+<h3> 派梦跟随</h3>
+<h3> 海豚跳</h3>
+<h3> GM图标</h3>
+<h3> 菜单解锁器</h3>
+<h2> <span style="color:#f1c40f;">赞助者专属</span>：</h2>
+<h3> 无相机模糊</h3>
+<h3> 无视角转动</h3>
+<h3> 无足迹</h3>
+<h3> 无大招动画</h3>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>皮肤修改器</title>
+      <link>https://korepi.com/zh/features/4.%E8%A7%86%E5%9B%BE%E5%8A%9F%E8%83%BD/skin-modifier.html</link>
+      <guid>https://korepi.com/zh/features/4.%E8%A7%86%E5%9B%BE%E5%8A%9F%E8%83%BD/skin-modifier.html</guid>
+      <source url="https://korepi.com/zh/rss.xml">皮肤修改器</source>
+      <description>皮肤修改器：免费使用角色付费皮肤。</description>
+      <category>Features</category>
+      <pubDate>Sun, 17 Dec 2023 13:19:15 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> 皮肤修改器：免费使用角色付费皮肤。</h2>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>纹理转换器</title>
+      <link>https://korepi.com/zh/features/4.%E8%A7%86%E5%9B%BE%E5%8A%9F%E8%83%BD/texture-changer.html</link>
+      <guid>https://korepi.com/zh/features/4.%E8%A7%86%E5%9B%BE%E5%8A%9F%E8%83%BD/texture-changer.html</guid>
+      <source url="https://korepi.com/zh/rss.xml">纹理转换器</source>
+      <description>纹理转换器：允许将角色部分修改到提供的.png文件。</description>
+      <category>Features</category>
+      <pubDate>Sun, 17 Dec 2023 13:19:15 GMT</pubDate>
+      <content:encoded><![CDATA[<hr>
+<h2> 纹理转换器：允许将角色部分修改到提供的.png文件。</h2>
+<h1> 一般我们都使用3dm修改，此功能用处不大。</h1>
+]]></content:encoded>
+    </item>
     <item>
       <title>攻击效果</title>
       <link>https://korepi.com/zh/features/1.%E7%8E%A9%E5%AE%B6%E5%8A%9F%E8%83%BD/attack-effects.html</link>
@@ -984,8 +1601,7 @@
 </ul>
 <h3> 视图</h3>
 <ul>
-<li>命座修改器 —— <strong><a href="https://canary.discord.com/channels/1069057220802781265/1166323490501173309/1166325261915148348" target="_blank" rel="noopener noreferrer">#cons-check-cn</a></strong></li>
-<li>额外图像设置</li>
+<li>命座修改器 ——  <span style="color:red;">具体查看功能列表中的命座修改</span></li>
 <li>隐藏界面 – 隐藏服务器Ping，隐藏血条，隐藏队伍血条</li>
 <li>怪物替换器</li>
 <li>其他 – 海豚跳，GM图标，无相机模糊/抖动，无脚印，无元素爆发过场</li>
@@ -1011,7 +1627,7 @@
       <link>https://korepi.com/zh/start/</link>
       <guid>https://korepi.com/zh/start/</guid>
       <source url="https://korepi.com/zh/rss.xml">开始</source>
-      <description>目录加入服务器 (join.md); 验证 (verify.md); 获取 Fans 角色 (sign-in.md); 捐赠 (donate.md); 下载 (download.md);</description>
+      <description>目录加入服务器 (join.md); 验证 (verify.md); 获取 Fans 角色 (sign-in.md); 捐赠 (donate.md); 下载 (download.md); 如何设置Korepi中文 (setting-language-zh.md);</description>
       <category>指南</category>
       <pubDate>Fri, 24 Nov 2023 14:31:46 GMT</pubDate>
       <content:encoded><![CDATA[<h2> 目录</h2>
@@ -1030,6 +1646,9 @@
 </li>
 <li>
 <p><a href="/zh/start/download.html" target="blank">下载</a></p>
+</li>
+<li>
+<p><a href="/zh/start/setting-language-zh.html" target="blank">如何设置Korepi中文</a></p>
 </li>
 </ul>
 ]]></content:encoded>
@@ -1103,15 +1722,15 @@
       <link>https://korepi.com/zh/guide/</link>
       <guid>https://korepi.com/zh/guide/</guid>
       <source url="https://korepi.com/zh/rss.xml">指南</source>
-      <description>配置文件的切换 (config-change.md); esp调配设置 (esp-setting.md); 自定义传送的使用指南 (custom-tp-setting.md); Korepi与3DM同时运行教程 (3DM-tutorial.md); 如何获取并使用密钥 (key-use.md); 危险功能 (danger-function.md);</description>
+      <description>如何获取并使用密钥 (key-use.md); 配置文件的切换 (config-change.md); 自定义传送的使用指南 (custom-tp-setting.md); esp调配设置 (esp-setting.md); Korepi与3DM同时运行教程 (3DM-tutorial.md); 危险功能 (danger-function.md);</description>
       <category>指南</category>
       <pubDate>Mon, 20 Nov 2023 11:28:37 GMT</pubDate>
       <content:encoded><![CDATA[<ul>
-<li><a href="/zh/guide/config-change.html" target="blank">配置文件的切换</a></li>
-<li><a href="/zh/guide/esp-setting.html" target="blank">esp调配设置</a></li>
-<li><a href="/zh/guide/custom-tp-setting.html" target="blank">自定义传送的使用指南</a></li>
-<li><a href="/zh/guide/3DM-tutorial.html" target="blank">Korepi与3DM同时运行教程</a></li>
 <li><a href="/zh/guide/key-use.html" target="blank">如何获取并使用密钥</a></li>
+<li><a href="/zh/guide/config-change.html" target="blank">配置文件的切换</a></li>
+<li><a href="/zh/guide/custom-tp-setting.html" target="blank">自定义传送的使用指南</a></li>
+<li><a href="/zh/guide/esp-setting.html" target="blank">esp调配设置</a></li>
+<li><a href="/zh/guide/3DM-tutorial.html" target="blank">Korepi与3DM同时运行教程</a></li>
 <li><a href="/zh/guide/danger-function.html" target="blank">危险功能</a></li>
 </ul>
 ]]></content:encoded>
