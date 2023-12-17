@@ -7,7 +7,7 @@ tag:
   - 开始
   - 教程
 author: Double
-order: 1
+order: 6
 ---
 ---
 # <span style="color:red;">玩家功能</span>
