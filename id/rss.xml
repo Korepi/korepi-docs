@@ -6,8 +6,8 @@
     <link>https://korepi.com/id/</link>
     <description>Pertolongan Korepi</description>
     <language>id-ID</language>
-    <pubDate>Sun, 17 Dec 2023 09:35:06 GMT</pubDate>
-    <lastBuildDate>Sun, 17 Dec 2023 09:35:06 GMT</lastBuildDate>
+    <pubDate>Sun, 17 Dec 2023 12:21:08 GMT</pubDate>
+    <lastBuildDate>Sun, 17 Dec 2023 12:21:08 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Features</category>
@@ -523,15 +523,6 @@ Catatan 2: Anda dapat menemukan ID barang <a href="https://github.com/jie65535/G
 <li><a href="/id/features/Player/no-clip.html" target="blank">No Clip</a></li>
 <li><a href="/id/features/Player/player-speed.html" target="blank">Player Speed</a></li>
 <li><a href="/id/features/Player/remote-utility.html" target="blank">Remote Utility</a></li>
-<li></li>
-</ul>
-<h3> Teleport</h3>
-<ul>
-<li><a href="/id/features/Teleport/0culi-teleport.html" target="blank">Oculi Teleport</a></li>
-<li><a href="/id/features/Teleport/chest-teleport.html" target="blank">Chest Teleport</a></li>
-<li><a href="/id/features/Teleport/custom-teleport.html" target="blank">Custom Teleport</a></li>
-<li><a href="/id/features/Teleport/map-teleport.html" target="blank">Map Teleport</a></li>
-<li><a href="/id/features/Teleport/quest-teleport.html" target="blank">Quest Teleport</a></li>
 </ul>
 <h3> Dunia</h3>
 <ul>
@@ -549,6 +540,14 @@ Catatan 2: Anda dapat menemukan ID barang <a href="https://github.com/jie65535/G
 <li><a href="/id/features/World/kill-aura.html" target="blank">Kill Aura</a></li>
 <li><a href="/id/features/World/mob-vacuum.html" target="blank">Mob Vacuum</a></li>
 <li><a href="/id/features/World/vacuum-loot.html" target="blank">Vacuum Loot</a></li>
+</ul>
+<h3> Teleport</h3>
+<ul>
+<li><a href="/id/features/Teleport/0culi-teleport.html" target="blank">Oculi Teleport</a></li>
+<li><a href="/id/features/Teleport/chest-teleport.html" target="blank">Chest Teleport</a></li>
+<li><a href="/id/features/Teleport/custom-teleport.html" target="blank">Custom Teleport</a></li>
+<li><a href="/id/features/Teleport/map-teleport.html" target="blank">Map Teleport</a></li>
+<li><a href="/id/features/Teleport/quest-teleport.html" target="blank">Quest Teleport</a></li>
 </ul>
 ]]></content:encoded>
     </item>
