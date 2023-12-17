@@ -2,21 +2,22 @@
 title: Custom Teleport
 icon: person-rays
 category:
-  - Features
+  - Fitur
 tag:
   - Custom Teleport
-author: Schvis
+author: Schvis, Natsume
 order: 3
 ---
 
-## Custom Teleport: Allows the player to teleport to a selected location designed by a `.json` file.
+## Custom Teleport: Memungkinkan pemain untuk teleportasi ke lokasi yang dipilih yang telah didesain di berkas `.json`.
+
 ### Interpolation Speed:
-- Controls the teleportation animation speed, set to `0.1` to avoid issues.
+- Mengkontrol kecepatan animasi teleportasi, atur ke `0.1` untuk menghindari masalah.
 ### Auto Teleport:
-- Teleports automatically following the order of the provided `.json` files.
-    - Teleport Next: Teleports to next location after pressing the selected hotkey.
-    - Teleport Previous: Teleports to previous location after pressing the selected hotkey.
-> Note: Recommended to set above `15s` for safety.
+- Melakukan teleportasi secara otomatis mengikuti urutan berkas `.json` yang diberikan.
+  - Teleport Next: Teleportasi ke lokasi berikutnya setelah menekan tombol pintas yang dipilih.
+  - Teleport Previous: Teleportasi ke lokasi sebelumnya setelah menekan tombol pintas yang dipilih.
 
-# You can find out more on how to use this feature [here](../.././guide/custom-tp-setting.md)
+> Catatan: Tunggu `>15 detik` antara teleportasi untuk keamanan.
 
+# Anda bisa temukan lebih lanjut cara menggunakan fitur ini [disini](../.././guide/custom-tp-setting.md)
