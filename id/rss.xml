@@ -6,8 +6,8 @@
     <link>https://korepi.com/id/</link>
     <description>Pertolongan Korepi</description>
     <language>id-ID</language>
-    <pubDate>Sun, 17 Dec 2023 17:22:15 GMT</pubDate>
-    <lastBuildDate>Sun, 17 Dec 2023 17:22:15 GMT</lastBuildDate>
+    <pubDate>Sun, 17 Dec 2023 17:56:24 GMT</pubDate>
+    <lastBuildDate>Sun, 17 Dec 2023 17:56:24 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Fitur</category>
@@ -27,7 +27,7 @@
 <p>Catatan: Tunggu <code>&gt;15 detik</code> antara teleportasi untuk keamanan.</p>
 </blockquote>
 <h2> Video Contoh:</h2>
-<iframe width="640" height="360" src="https://www.youtube.com/embed/j2Yu31J7Yh4?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Oculi/ChestTeleport" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>]]></content:encoded>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/j2Yu31J7Yh4?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Oculi/ChestTeleport" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>]]></content:encoded>
     </item>
     <item>
       <title>Chest Teleport</title>
@@ -44,7 +44,8 @@
 </blockquote>
 </blockquote>
 <h2> Video Contoh:</h2>
-<iframe width="640" height="360" src="https://www.youtube.com/embed/j2Yu31J7Yh4?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Oculi/ChestTeleport" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>]]></content:encoded>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/j2Yu31J7Yh4?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Oculi/ChestTeleport" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+]]></content:encoded>
     </item>
     <item>
       <title>Custom Teleport</title>
@@ -90,9 +91,10 @@
 <h3> Fast Teleport (<span style="color:yellow;">Sponsor!</span>):</h3>
 <ul>
 <li>Menonaktifkan <code>Loading Screen</code> dalam jarak yang dipilih saat melakukan teleportasi.</li>
+<li></li>
 </ul>
 <h2> Video Contoh:</h2>
-<iframe width="640" height="360" src="https://www.youtube.com/embed/Xm3mTEbIE9g?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Map TP/Fast TP" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>]]></content:encoded>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/Xm3mTEbIE9g?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Map TP/Fast TP" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>]]></content:encoded>
     </item>
     <item>
       <title>Quest Teleport</title>
@@ -108,7 +110,7 @@
 <li>Untuk menggunakan fitur ini, Anda harus tekan tombol navigasi terlebih dahulu, kemudian tekan tombol teleport misi.</li>
 </ul>
 <h2> Video Contoh:</h2>
-<iframe width="640" height="360" src="https://www.youtube.com/embed/HNdQu39G2Tc?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - QuestTP" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/HNdQu39G2Tc?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - QuestTP" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 ]]></content:encoded>
     </item>
     <item>
@@ -175,7 +177,7 @@
 <li>Akan meniadakan elemen masuk apa pun, dan mengubahnya menjadi kerusakan fisik</li>
 </ul>
 <h2> Video Contoh:</h2>
-<iframe width="640" height="360" src="https://www.youtube.com/embed/1BdKwxBjWyg?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Attack Effects" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>]]></content:encoded>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/1BdKwxBjWyg?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Attack Effects" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>]]></content:encoded>
     </item>
     <item>
       <title>Auto Run</title>
@@ -187,7 +189,7 @@
       <pubDate>Sat, 16 Dec 2023 12:12:13 GMT</pubDate>
       <content:encoded><![CDATA[<h2> Auto Run akan menggerakan player ke arah yang dihadap secara otomatis.</h2>
 <h2> Video Contoh:</h2>
-<iframe width="640" height="360" src="https://www.youtube.com/embed/BLDhPBMs7Es?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Run" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/BLDhPBMs7Es?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Run" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 ]]></content:encoded>
     </item>
     <item>
@@ -204,7 +206,7 @@
 <hr>
 <h2> Bunny Hop akan melompat secara otomatis setelah lompatan pertama ketika diaktifkan.</h2>
 <h2> Video Contoh:</h2>
-<iframe width="640" height="369" src="https://www.youtube.com/embed/Gh2GX23E6dw?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Bunnyhop (Sponsor)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>]]></content:encoded>
+<div class="iframe-container"><iframe width="640" height="369" src="https://www.youtube.com/embed/Gh2GX23E6dw?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Bunnyhop (Sponsor)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>]]></content:encoded>
     </item>
     <item>
       <title>Cooldown Effects</title>
@@ -243,7 +245,7 @@
 <li>Menghilangkan cooldown untuk Skill perahu.</li>
 </ul>
 <h2> Video Contoh:</h2>
-<iframe width="640" height="360" src="https://www.youtube.com/embed/qv5ykSL3Ojw?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Cooldown Effects" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>]]></content:encoded>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/qv5ykSL3Ojw?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Cooldown Effects" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>]]></content:encoded>
     </item>
     <item>
       <title>Extra Movements</title>
@@ -306,7 +308,7 @@
 <li>Memungkinkan pemain untuk bergerak dengan jarak tertentu setelah menekan hotkey.</li>
 </ul>
 <h2> Video Contoh:</h2>
-<iframe width="640" height="360" src="https://www.youtube.com/embed/wMd9icqhFQg?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Extra Movement (Sponsor)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>]]></content:encoded>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/wMd9icqhFQg?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Extra Movement (Sponsor)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>]]></content:encoded>
     </item>
     <item>
       <title>Fall Control</title>
@@ -318,7 +320,7 @@
       <pubDate>Sat, 16 Dec 2023 12:12:13 GMT</pubDate>
       <content:encoded><![CDATA[<h2> Fall Control memungkinkan Anda bergerak dengan kecepatan yang dipilih saat jatuh.</h2>
 <h2> Video Contoh:</h2>
-<iframe width="640" height="360" src="https://www.youtube.com/embed/BHiabtwSSNc?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Fall Control" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>]]></content:encoded>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/BHiabtwSSNc?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Fall Control" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>]]></content:encoded>
     </item>
     <item>
       <title>God Mode</title>
@@ -341,7 +343,7 @@
 <p>Catatan: Disarankan untuk menggunakan mode <code>Conditional</code> untuk abyss.</p>
 </blockquote>
 <h2> Video Contoh:</h2>
-<iframe width="640" height="360" src="https://www.youtube.com/embed/42utUUYNHRE?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - God Mode" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>]]></content:encoded>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/42utUUYNHRE?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - God Mode" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>]]></content:encoded>
     </item>
     <item>
       <title>Infinite Stamina</title>
@@ -360,7 +362,7 @@
 <p>Catatan: Disarankan menggunakan Move Sync Packet Replacement.</p>
 </blockquote>
 <h2> Video Contoh:</h2>
-<iframe width="640" height="360" src="https://www.youtube.com/embed/NZhfaMOLuY0?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Infinite Stamina" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>]]></content:encoded>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/NZhfaMOLuY0?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Infinite Stamina" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>]]></content:encoded>
     </item>
     <item>
       <title>No Clip</title>
@@ -395,7 +397,7 @@
 <p>Catatan: Tidak disarankan menggunakan nilai diatas <code>20</code>.</p>
 </blockquote>
 <h2> Video Contoh:</h2>
-<iframe width="640" height="360" src="https://www.youtube.com/embed/nPdq-yzBt3k?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - NoClip" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>]]></content:encoded>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/nPdq-yzBt3k?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - NoClip" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>]]></content:encoded>
     </item>
     <item>
       <title>Player Speed</title>
@@ -411,7 +413,7 @@
 Catatan 2: <a href="/id/features/Player/extra-movements.html" target="blank">Extra Movements</a> disarankan karena lebih disinkronkan dengan server (lebih aman) (Sponsor!)</p>
 </blockquote>
 <h2> Video Contoh:</h2>
-<iframe width="640" height="360" src="https://www.youtube.com/embed/HCxmOUMFRs8?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Player Speed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>]]></content:encoded>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/HCxmOUMFRs8?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Player Speed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>]]></content:encoded>
     </item>
     <item>
       <title>Remote Utility</title>
@@ -499,7 +501,7 @@ Catatan 2: Anda dapat menemukan ID barang <a href="https://github.com/jie65535/G
 <li>Memungkinkan pemain mengubah elemen <code>traveler</code> di mana saja.</li>
 </ul>
 <h3> Contoh Video:</h3>
-<iframe width="640" height="360" src="https://www.youtube.com/embed/XGztUEy82sE?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Remote Utilities (Sponsor)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>]]></content:encoded>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/XGztUEy82sE?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Remote Utilities (Sponsor)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>]]></content:encoded>
     </item>
     <item>
       <title>Daftar Fitur</title>
@@ -565,7 +567,7 @@ Catatan 2: Anda dapat menemukan ID barang <a href="https://github.com/jie65535/G
 <hr>
 <h3> Auto Activated Waypoints mengaktifkan teleport waypoints terdekat hingga jarak 50m.</h3>
 <h2> Video contoh:</h2>
-<iframe width="640" height="360" src="https://www.youtube.com/embed/qstBErr9mJ0?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - AutoActivateTP (Sponsor)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>]]></content:encoded>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/qstBErr9mJ0?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - AutoActivateTP (Sponsor)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>]]></content:encoded>
     </item>
     <item>
       <title>Auto Challenge</title>
@@ -577,7 +579,7 @@ Catatan 2: Anda dapat menemukan ID barang <a href="https://github.com/jie65535/G
       <pubDate>Fri, 15 Dec 2023 14:22:50 GMT</pubDate>
       <content:encoded><![CDATA[<h3> Auto Challenge memungkinkan Anda menyelesaikan tantangan dengan waktu tertentu yang sedang aktif dalam rentang jarak dan waktu tunda yang telah ditentukan, Anda dapat mengkonfigurasikan ini sesuai keinginan.</h3>
 <h2> Video contoh:</h2>
-<iframe width="640" height="360" src="https://www.youtube.com/embed/7JNegfQiK2U?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Challenge" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/7JNegfQiK2U?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Challenge" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 <blockquote>
 <p>Catatan: Tidak disarankan untuk digunakan dengan waktu penundaan yang rendah dan rentang jarak yang jauh!.</p>
 </blockquote>
@@ -593,7 +595,7 @@ Catatan 2: Anda dapat menemukan ID barang <a href="https://github.com/jie65535/G
       <pubDate>Fri, 15 Dec 2023 14:22:50 GMT</pubDate>
       <content:encoded><![CDATA[<h3> Auto Cook memungkinkan Anda untuk memasak dalam jumlah dan kualitas makanan yang dipilih secara otomatis di halaman memasak, dilengkapi dengan keahlian otomatis (Auto unlock auto cook) bawaan.</h3>
 <h2> Video contoh:</h2>
-<iframe width="640" height="360" src="https://www.youtube.com/embed/T_X13AXiAiY?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Cook" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>]]></content:encoded>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/T_X13AXiAiY?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Cook" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>]]></content:encoded>
     </item>
     <item>
       <title>Auto Destroy Objects</title>
@@ -605,7 +607,7 @@ Catatan 2: Anda dapat menemukan ID barang <a href="https://github.com/jie65535/G
       <pubDate>Fri, 15 Dec 2023 14:22:50 GMT</pubDate>
       <content:encoded><![CDATA[<h3> Auto Destroy Objects memungkinkan Anda menghancurkan objek yang dapat disesuaikan dalam jangkauan tertentu, termasuk bahan tambang, tanaman, tumpukan batu, peti, objek khusus, perisai, dan lainnya.</h3>
 <h2> Video contoh:</h2>
-<iframe width="640" height="360" src="https://www.youtube.com/embed/3ML6s3SR8nE?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Destroy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/3ML6s3SR8nE?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Destroy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 <blockquote>
 <p>Catatan: Angka yang direkomendasikan adalah di bawah 20m, tidak disarankan untuk menggunakan jarak jangkau diatas maksimal (40m).</p>
 </blockquote>
@@ -621,7 +623,7 @@ Catatan 2: Anda dapat menemukan ID barang <a href="https://github.com/jie65535/G
       <pubDate>Fri, 15 Dec 2023 14:22:50 GMT</pubDate>
       <content:encoded><![CDATA[<h3> Auto fish memungkinkan Anda untuk melewati animasi menangkap ikan, yang pasti akan mengurangi waktu yang dibutuhkan untuk menangkap ikan.</h3>
 <h2> Video contoh:</h2>
-<iframe width="640" height="360" src="https://www.youtube.com/embed/K_l4Tg-81iQ?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Fish" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/K_l4Tg-81iQ?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Fish" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 <blockquote>
 <p>Catatan: Auto Recast tidak berfungsi saat pembuatan catatan ini.</p>
 </blockquote>
@@ -637,7 +639,7 @@ Catatan 2: Anda dapat menemukan ID barang <a href="https://github.com/jie65535/G
       <pubDate>Fri, 15 Dec 2023 14:22:50 GMT</pubDate>
       <content:encoded><![CDATA[<h2> Auto loot memungkinkan Anda mengumpulkan barang jarahan secara otomatis dalam jangkauan dan waktu jeda yang dipilih. Jarahan yang akan dikumpulkan dapat disesuaikan, termasuk peti, hasil kematian musuh, dan lainnya.</h2>
 <h2> Video contoh:</h2>
-<iframe width="640" height="360" src="https://www.youtube.com/embed/wUyI2XO_Z4E?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Loot" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/wUyI2XO_Z4E?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Loot" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 <blockquote>
 <p>catatan: Disarankan jarak dibawah  <code>10m</code> untuk penggunaan normal dan <code>20m</code> jika menggunakan <code>custom tp</code>.
 Catatan 2: Jika menggunakan jarak yang jauh maka waktu jeda yang lama juga di perlukan!.</p>
@@ -654,7 +656,7 @@ Catatan 2: Jika menggunakan jarak yang jauh maka waktu jeda yang lama juga di pe
       <pubDate>Fri, 15 Dec 2023 14:22:50 GMT</pubDate>
       <content:encoded><![CDATA[<h2> Auto Seelie menghilangkan kebutuhan pemain untuk terus mengikuti Seelie. Seelie akan menuju tujuan yang ditentukan saat pemain mendekat.</h2>
 <h2> Video contoh:</h2>
-<iframe width="640" height="360" src="https://www.youtube.com/embed/uETIJ4KS39M?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Seelie" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/uETIJ4KS39M?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Seelie" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 <blockquote>
 <p>Catatan: Jarak jangkau antara Pemain dan Seelie Electro adalah <code>100m</code>.</p>
 </blockquote>
@@ -705,7 +707,7 @@ Catatan 2: Jika menggunakan jarak yang jauh maka waktu jeda yang lama juga di pe
 <p>Catatan: Blackscreen kemungkinan akan terjadi jika menggunakan fitur ini.</p>
 </blockquote>
 <h2> Video Contoh:</h2>
-<iframe width="640" height="360" src="https://www.youtube.com/embed/IS0BvLLO1xc?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - AutoTalk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>]]></content:encoded>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/IS0BvLLO1xc?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - AutoTalk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>]]></content:encoded>
     </item>
     <item>
       <title>Auto Tree Farm</title>
@@ -721,7 +723,7 @@ Catatan 2: Jika menggunakan jarak yang jauh maka waktu jeda yang lama juga di pe
 <hr>
 <h3> Auto Tree Farm memungkinkan Anda untuk memukul pohon-pohon di sekitar secara otomatis dengan nilai dan waktu jeda yang dipilih, sehingga mendapatkan kayu secara otomatis dari pohon-pohon di sekitar.</h3>
 <h2> Video contoh:</h2>
-<iframe width="640" height="360" src="https://www.youtube.com/embed/v95_NOxc4do?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Tree Farm" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/v95_NOxc4do?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Tree Farm" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 <blockquote>
 <p>Catatan: Tidak disarankan mengubah nilai bawaan.</p>
 </blockquote>
@@ -741,7 +743,7 @@ Catatan 2: Jika menggunakan jarak yang jauh maka waktu jeda yang lama juga di pe
 <hr>
 <h3> Elemental Aura menerapkan elemen dengan elemen tertentu, jarak jangkau, dan waktu jeda yang ditentukan ke target, objek, atau diri Anda sendiri. Beberapa elemen dapat diterapkan pada target terdekat.</h3>
 <h2> Video contoh:</h2>
-<iframe width="640" height="360" src="https://www.youtube.com/embed/FskTJiknOgQ?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Elemental Aura (Sponsor)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/FskTJiknOgQ?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Elemental Aura (Sponsor)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 <blockquote>
 <p>Catatan: Waktu jeda yang rendah akan meningkatkan peluang anda terdeteksi!.</p>
 </blockquote>
@@ -760,7 +762,7 @@ Catatan 2: Jika menggunakan jarak yang jauh maka waktu jeda yang lama juga di pe
 <p>Catatan: Tidak disarankan untuk digunakan di luar menu atau secara umum.</p>
 </blockquote>
 <h2> Video Contoh:</h2>
-<iframe width="640" height="360" src="https://www.youtube.com/embed/MzXhudYkaDg?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Game Speed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>]]></content:encoded>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/MzXhudYkaDg?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Game Speed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>]]></content:encoded>
     </item>
     <item>
       <title>Kill Aura</title>
@@ -803,7 +805,7 @@ Catatan 2: Tidak disarankan untuk digunakan.</p>
 <li>Menentukan apakah hanya menargetkan hostile mobs.</li>
 </ul>
 <h2> Video Contoh:</h2>
-<iframe width="640" height="360" src="https://www.youtube.com/embed/NiAh00VBy-w?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Kill Aura" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>]]></content:encoded>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/NiAh00VBy-w?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Kill Aura" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>]]></content:encoded>
     </item>
     <item>
       <title>Mob Vacuum</title>
@@ -815,7 +817,7 @@ Catatan 2: Tidak disarankan untuk digunakan.</p>
       <pubDate>Fri, 15 Dec 2023 14:22:50 GMT</pubDate>
       <content:encoded><![CDATA[<h2> Mob Vacuum memindahkan makhluk hidup yang dekat ke pemain dengan kecepatan dan jarak jangkau yang dipilih, makhluk hidup yang akan terpengaruh dapat disesuaikan.</h2>
 <h2> Video contoh:</h2>
-<iframe width="640" height="360" src="https://www.youtube.com/embed/KNzVgG_V10I?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Mob Vacuum" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/KNzVgG_V10I?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Mob Vacuum" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 <blockquote>
 <p>Catatan: Disarankan di bawah <code>20m</code>.</p>
 </blockquote>
@@ -831,7 +833,7 @@ Catatan 2: Tidak disarankan untuk digunakan.</p>
       <pubDate>Fri, 15 Dec 2023 14:22:50 GMT</pubDate>
       <content:encoded><![CDATA[<h2> Vacuum Loot memindahkan drop-item di sekitar ke pemain dengan jarak jangkau dan waktu jeda yang ditentukan.</h2>
 <h2> Video contoh:</h2>
-<iframe width="640" height="360" src="https://www.youtube.com/embed/iMElTsNF77c?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Vacuum Loot" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/iMElTsNF77c?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Vacuum Loot" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 <blockquote>
 <p>Catatan: Disarankan di bawah <code>20m</code>.</p>
 </blockquote>
@@ -846,7 +848,7 @@ Catatan 2: Tidak disarankan untuk digunakan.</p>
       <category>Panduan</category>
       <pubDate>Thu, 14 Dec 2023 11:12:15 GMT</pubDate>
       <content:encoded><![CDATA[<h2> Cara Get-Key untuk Online Auth (F)</h2>
-<iframe width="640" height="360" src="https://www.youtube.com/embed/-9bXOMH0-WM" title="Korepi - Cara Mendapatkan Kunci V" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/-9bXOMH0-WM" title="Korepi - Cara Mendapatkan Kunci V" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 <h3> Langkah 1: Dapatkan Role F Auth</h3>
 <p>Pergi ke saluran <code>★⋅korepi-version-roles⋅★</code> di server dan klik <code>F Auth</code> untuk mendapatkan role tersebut.</p>
 <p><code>Catatan: Periksa apakah Anda mendapatkan role tersebut; jika tidak, klik F Auth lagi.</code></p>
@@ -856,7 +858,7 @@ Catatan 2: Tidak disarankan untuk digunakan.</p>
 <p>Buka Korepi, saat diminta untuk <code>key</code>, tempelkan <code>key</code> tersebut dan tekan <code>enter</code>. Ikuti langkah-langkah yang disebutkan oleh injector, dan seharusnya Anda siap menggunakan Korepi.</p>
 <p>Selamat menikmati Korepi!</p>
 <h2> Cara Get-Key untuk Lokal Auth (V)</h2>
-<iframe width="640" height="360" src="https://www.youtube.com/embed/OTCSboZdexc" title="Korepi - Cara Mendapatkan Kunci V" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/OTCSboZdexc" title="Korepi - Cara Mendapatkan Kunci V" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 <h3> Langkah 1: Dapatkan Role V Auth</h3>
 <p>Pergi ke saluran <code>★⋅korepi-version-roles⋅★</code> di server dan klik <code>V Auth</code> untuk mendapatkan role tersebut.</p>
 <p><code>Catatan: Periksa apakah Anda mendapatkan role tersebut; jika tidak, klik V Auth lagi.</code></p>
@@ -1074,7 +1076,7 @@ Jika tidak berhasil, buka cmd sebagai administrator dan ketik <code>sfc /scannow
 <p class="hint-container-title">Hanya untuk Local(V)</p>
 </div>
 <hr>
-<iframe width="640" height="360" src="https://www.youtube.com/embed/pSAxKoneT64" title="Multi-Instance V (Updated)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/pSAxKoneT64" title="Multi-Instance V (Updated)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 ]]></content:encoded>
     </item>
     <item>
@@ -1086,7 +1088,7 @@ Jika tidak berhasil, buka cmd sebagai administrator dan ketik <code>sfc /scannow
       <category>Panduan</category>
       <pubDate>Fri, 08 Dec 2023 03:42:59 GMT</pubDate>
       <content:encoded><![CDATA[<h2> Reset HWID: Network(F)</h2>
-<iframe width="640" height="360" src="https://www.youtube.com/embed/DRSEmYsl4F4" title="how to change hwid for F" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/DRSEmYsl4F4" title="how to change hwid for F" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 <h3> Langkah 1: Masuk ke Website Korepi Login</h3>
 <p>Silakan masuk ke <a href="https://keyauth.cc/panel/Strigger/Korepi" target="_blank" rel="noopener noreferrer">Korepi Login</a>
 Peringatan: Jangan lakukan apapun terlebih dahulu.</p>
@@ -1098,7 +1100,7 @@ Peringatan: Jangan lakukan apapun terlebih dahulu.</p>
 <p>Setelah mereset HWID, buka injector Anda dan tempelkan kembali key Anda.</p>
 <p>Nikmati Korepi kembali!</p>
 <h2> Reset HWID: Local(V) (Sponsor)</h2>
-<iframe width="640" height="360" src="https://www.youtube.com/embed/q0G9UZHErrg?list=PL5eI1Tb64p56Mp6JqoR_o3BYk9UFTbOQI" title="How to reset Local V HWID" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/q0G9UZHErrg?list=PL5eI1Tb64p56Mp6JqoR_o3BYk9UFTbOQI" title="How to reset Local V HWID" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 <h3> Langkah 1: Ambil HWID Anda</h3>
 <p>Buka <code>Local(V) injector</code> untuk mendapatkan HWID, yang akan otomatis tersalin.</p>
 <h3> Langkah 2: Cari Saluran <code>★⋅micah-bot-verify⋅★</code></h3>

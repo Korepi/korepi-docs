@@ -6,8 +6,8 @@
     <link>https://korepi.com/zh/</link>
     <description>Korepi 中文文档介绍</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 17 Dec 2023 17:22:15 GMT</pubDate>
-    <lastBuildDate>Sun, 17 Dec 2023 17:22:15 GMT</lastBuildDate>
+    <pubDate>Sun, 17 Dec 2023 17:56:24 GMT</pubDate>
+    <lastBuildDate>Sun, 17 Dec 2023 17:56:24 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>指南</category>
@@ -80,7 +80,7 @@
 <blockquote>
 <p>注意：为了安全起见，建议设置在“15秒”以上。</p>
 </blockquote>
-<h1> 如何使用的教程 <a href="/zh/features/3.%E4%BC%A0%E9%80%81%E5%8A%9F%E8%83%BD/guide%5Ccustom-tp-setting.md.html" target="blank">点击这里</a></h1>
+<h1> 如何使用的教程 <a href="/zh/guide/custom-tp-setting.html" target="blank">点击这里</a></h1>
 ]]></content:encoded>
     </item>
     <item>
@@ -1412,7 +1412,7 @@ CN</li>
 <li>备注：如果bot，没发enc.json给你，再用一次v：verify。</li>
 </ul>
 <p><a href="https://youtu.be/0ccpiexXzss" target="_blank" rel="noopener noreferrer">v版本视频链接</a></p>
-  <iframe width="640" height="360" src="https://www.youtube.com/embed/0ccpiexXzss?si=ciWVRhfs6kZ-mNFR" title="korepi 中文V版本使用密钥教程" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+  <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/0ccpiexXzss?si=ciWVRhfs6kZ-mNFR" title="korepi 中文V版本使用密钥教程" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 <h2> F版本使用流程：</h2>
 <ul>
 <li>[1]点击F：Get key，bot会在频道中发消息，如下：
@@ -1423,7 +1423,7 @@ CN</li>
 <li></li>
 <li><a href="https://youtu.be/lekW7aMKmr0" target="_blank" rel="noopener noreferrer">F版本视频链接</a></li>
 </ul>
- <iframe width="640" height="360" src="https://www.youtube.com/embed/lekW7aMKmr0?si=aVtpdaHuwgMpxxdQ" title="korepi 中文F版本使用密钥教程" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+ <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/lekW7aMKmr0?si=aVtpdaHuwgMpxxdQ" title="korepi 中文F版本使用密钥教程" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 <div class="hint-container danger">
 <p class="hint-container-title">警告</p>
 <h3> 如果打开korepi闪退请检查自己的网络是否流畅，VPN是否有开启。</h3>
