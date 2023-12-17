@@ -6,8 +6,8 @@
     <link>https://korepi.com/en/</link>
     <description>Help on Korepi</description>
     <language>en-US</language>
-    <pubDate>Sun, 17 Dec 2023 08:35:28 GMT</pubDate>
-    <lastBuildDate>Sun, 17 Dec 2023 08:35:28 GMT</lastBuildDate>
+    <pubDate>Sun, 17 Dec 2023 09:35:06 GMT</pubDate>
+    <lastBuildDate>Sun, 17 Dec 2023 09:35:06 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Features</category>
@@ -21,7 +21,7 @@
       <description>Animation Changer, allows the player to change their current character animation to the selected one.</description>
       <category>Features</category>
       <pubDate>Sun, 17 Dec 2023 01:35:20 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> <span style="color:white;">Animation Changer, allows the player to change their current character animation to the selected one.</span></h2>
+      <content:encoded><![CDATA[<h2> Animation Changer, allows the player to change their current character animation to the selected one.</h2>
 ]]></content:encoded>
     </item>
     <item>
@@ -32,7 +32,7 @@
       <description>Camera zoom allows the user to change their camera zoom to their desired value.</description>
       <category>Features</category>
       <pubDate>Sun, 17 Dec 2023 01:35:20 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> <span style="color:white;">Camera zoom allows the user to change their camera zoom to their desired value.</span></h2>
+      <content:encoded><![CDATA[<h2> Camera zoom allows the user to change their camera zoom to their desired value.</h2>
 ]]></content:encoded>
     </item>
     <item>
@@ -47,14 +47,14 @@
 <p class="hint-container-title">Sponsor Only</p>
 </div>
 <hr>
-<h2> <span style="color:white;">Constellation Modifier, will change your active character constellations if selected, visually and some of them will actually work.</span></h2>
+<h2> Constellation Modifier, will change your active character constellations if selected, visually and some of them will actually work.</h2>
 <ul>
 <li>You can find more information about which of them work at <code>#⁠cons-check</code> in the server.</li>
 </ul>
 <div class="hint-container tip">
 <p class="hint-container-title">You have to switch to each character you want to activate the constellations first and then teleport far away to activate them.</p>
 </div>
-<h2> <span style="color:white;">Example Video:</span></h2>
+<h2> Example Video:</h2>
 <iframe width="640" height="360" src="https://www.youtube.com/embed/S9-g5weE9l8?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Constellation Modifier (Sponsor)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 ]]></content:encoded>
     </item>
@@ -66,32 +66,32 @@
       <description>Custom Profile: UID: Select the UID you want to be displayed.; Nickname: Select the Nickname you want to be displayed.; Level: Select the Level you want to be displayed.; EXP: S...</description>
       <category>Features</category>
       <pubDate>Sun, 17 Dec 2023 01:35:20 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> <span style="color:white;">Custom Profile:</span></h2>
-<h3> <span style="color:white;">UID:</span></h3>
+      <content:encoded><![CDATA[<h2> Custom Profile:</h2>
+<h3> UID:</h3>
 <ul>
 <li>Select the UID you want to be displayed.</li>
 </ul>
-<h3> <span style="color:white;">Nickname:</span></h3>
+<h3> Nickname:</h3>
 <ul>
 <li>Select the Nickname you want to be displayed.</li>
 </ul>
-<h3> <span style="color:white;">Level:</span></h3>
+<h3> Level:</h3>
 <ul>
 <li>Select the Level you want to be displayed.</li>
 </ul>
-<h3> <span style="color:white;">EXP:</span></h3>
+<h3> EXP:</h3>
 <ul>
 <li>Select the EXP you want to be displayed.</li>
 </ul>
-<h3> <span style="color:white;">World Level:</span></h3>
+<h3> World Level:</h3>
 <ul>
 <li>Select the World Level you want to be displayed.</li>
 </ul>
-<h3> <span style="color:white;">Avatar Image:</span></h3>
+<h3> Avatar Image:</h3>
 <ul>
 <li>Use a custom png as avatar image.</li>
 </ul>
-<h3> <span style="color:white;">Card Image:</span></h3>
+<h3> Card Image:</h3>
 <ul>
 <li>Use a custom png as card image.</li>
 </ul>
@@ -105,7 +105,7 @@
       <description>Custom Wether allows you to change the weather to your liking.</description>
       <category>Features</category>
       <pubDate>Sun, 17 Dec 2023 01:35:20 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> <span style="color:white;">Custom Wether allows you to change the weather to your liking.</span></h2>
+      <content:encoded><![CDATA[<h2> Custom Wether allows you to change the weather to your liking.</h2>
 ]]></content:encoded>
     </item>
     <item>
@@ -116,7 +116,7 @@
       <description>Emotion Changer allows the player to change the current character emotion to the selected one.</description>
       <category>Features</category>
       <pubDate>Sun, 17 Dec 2023 01:35:20 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> <span style="color:white;">Emotion Changer allows the player to change the current character emotion to the selected one.</span></h2>
+      <content:encoded><![CDATA[<h2> Emotion Changer allows the player to change the current character emotion to the selected one.</h2>
 ]]></content:encoded>
     </item>
     <item>
@@ -127,16 +127,16 @@
       <description>Extra Visual Settings: Gamma: Allows you to change the gamma value of the game.; Outline Width: Allows you to change the outline of every character in the game.; Anti-Aliasing: ...</description>
       <category>Features</category>
       <pubDate>Sun, 17 Dec 2023 01:35:20 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> <span style="color:white;">Extra Visual Settings:</span></h2>
-<h3> <span style="color:white;">Gamma:</span></h3>
+      <content:encoded><![CDATA[<h2> Extra Visual Settings:</h2>
+<h3> Gamma:</h3>
 <ul>
 <li>Allows you to change the gamma value of the game.</li>
 </ul>
-<h3> <span style="color:white;">Outline Width:</span></h3>
+<h3> Outline Width:</h3>
 <ul>
 <li>Allows you to change the outline of every character in the game.</li>
 </ul>
-<h3> <span style="color:white;">Anti-Aliasing:</span></h3>
+<h3> Anti-Aliasing:</h3>
 <ul>
 <li>Allows the player to change the anti-aliasing module to use, including some that are not available natively.</li>
 </ul>
@@ -150,7 +150,7 @@
       <description>Fake Time: Changes in game time, hour and minutes.;</description>
       <category>Features</category>
       <pubDate>Sun, 17 Dec 2023 01:35:20 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> <span style="color:white;">Fake Time:</span></h2>
+      <content:encoded><![CDATA[<h2> Fake Time:</h2>
 <ul>
 <li>Changes in game time, hour and minutes.</li>
 </ul>
@@ -164,7 +164,7 @@
       <description>Flycloack Modifier allow the player to change their glider skin even if they don&amp;apos;t own it.</description>
       <category>Features</category>
       <pubDate>Sun, 17 Dec 2023 01:35:20 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> <span style="color:white;">Flycloack Modifier allow the player to change their glider skin even if they don't own it.</span></h2>
+      <content:encoded><![CDATA[<h2> Flycloack Modifier allow the player to change their glider skin even if they don't own it.</h2>
 ]]></content:encoded>
     </item>
     <item>
@@ -175,7 +175,7 @@
       <description>Unlocks FPS.Unlocks FPS yeah.Unlocks FPS wow. Limit background FPS: Set the max fps game can reach when its not focused.;</description>
       <category>Features</category>
       <pubDate>Sun, 17 Dec 2023 01:35:20 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> <span style="color:white;">Unlocks FPS.Unlocks FPS yeah.Unlocks FPS wow.</span></h2>
+      <content:encoded><![CDATA[<h2> Unlocks FPS.Unlocks FPS yeah.Unlocks FPS wow.</h2>
 <h3> Limit background FPS:</h3>
 <ul>
 <li>Set the max fps game can reach when its not focused.</li>
@@ -190,19 +190,19 @@
       <description>Free Camera: Move the camera freely without being locked to the character.; Freeze Character Animation: Freezes character animations.; Make Character Invisible: Makes character ...</description>
       <category>Features</category>
       <pubDate>Sun, 17 Dec 2023 01:35:20 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> <span style="color:white;">Free Camera:</span></h2>
+      <content:encoded><![CDATA[<h2> Free Camera:</h2>
 <ul>
 <li>Move the camera freely without being locked to the character.</li>
 </ul>
-<h3> <span style="color:white;">Freeze Character Animation:</span></h3>
+<h3> Freeze Character Animation:</h3>
 <ul>
 <li>Freezes character animations.</li>
 </ul>
-<h3> <span style="color:white;">Make Character Invisible:</span></h3>
+<h3> Make Character Invisible:</h3>
 <ul>
 <li>Makes character invisible.</li>
 </ul>
-<h3> <span style="color:white;">Block User Input:</span></h3>
+<h3> Block User Input:</h3>
 <ul>
 <li>Blocks user input therefore character wont move while moving the camera.</li>
 </ul>
@@ -216,19 +216,19 @@
       <description>Hide UI: Hides player user interface entirely.; Hide Ping: (Sponsor) Hides ping only.; Hide HP Bar: (Sponsor) Hides current character HP bar only.; Hide Team HP Bar: (Sponsor) H...</description>
       <category>Features</category>
       <pubDate>Sun, 17 Dec 2023 01:35:20 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> <span style="color:white;">Hide UI:</span></h2>
+      <content:encoded><![CDATA[<h2> Hide UI:</h2>
 <ul>
 <li>Hides player user interface entirely.</li>
 </ul>
-<h3> <span style="color:white;">Hide Ping: (</span><span style="color:yellow;">Sponsor</span><span style="color:white;">)</span></h3>
+<h3> Hide Ping: (<span style="color:yellow;">Sponsor</span>)</h3>
 <ul>
 <li>Hides ping only.</li>
 </ul>
-<h3> <span style="color:white;">Hide HP Bar: (</span><span style="color:yellow;">Sponsor</span><span style="color:white;">)</span></h3>
+<h3> Hide HP Bar: (<span style="color:yellow;">Sponsor</span>)</h3>
 <ul>
 <li>Hides current character HP bar only.</li>
 </ul>
-<h3> <span style="color:white;">Hide Team HP Bar: (</span><span style="color:yellow;">Sponsor</span><span style="color:white;">)</span></h3>
+<h3> Hide Team HP Bar: (<span style="color:yellow;">Sponsor</span>)</h3>
 <ul>
 <li>Hides team hp bar on the character tab only.</li>
 </ul>
@@ -242,7 +242,7 @@
       <description>Map Zoom modifies the values to be used in the map.</description>
       <category>Features</category>
       <pubDate>Sun, 17 Dec 2023 01:35:20 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> <span style="color:white;">Map Zoom modifies the values to be used in the map.</span></h2>
+      <content:encoded><![CDATA[<h2> Map Zoom modifies the values to be used in the map.</h2>
 ]]></content:encoded>
     </item>
     <item>
@@ -253,19 +253,19 @@
       <description>Monster Changer: When enabled, all new rendered monsters will be changed visually to the selected monster.; Exclude Animals: Enable or Disable changing animals.; Custom Monster ...</description>
       <category>Features</category>
       <pubDate>Sun, 17 Dec 2023 01:35:20 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> <span style="color:white;">Monster Changer:</span></h2>
+      <content:encoded><![CDATA[<h2> Monster Changer:</h2>
 <ul>
 <li>When enabled, all new rendered monsters will be changed visually to the selected monster.</li>
 </ul>
-<h3> <span style="color:white;">Exclude Animals:</span></h3>
+<h3> Exclude Animals:</h3>
 <ul>
 <li>Enable or Disable changing animals.</li>
 </ul>
-<h3> <span style="color:white;">Custom Monster ID:</span></h3>
+<h3> Custom Monster ID:</h3>
 <ul>
 <li>Use ID instead of the provided list.</li>
 </ul>
-<h3> <span style="color:white;">Randomize Monster:</span></h3>
+<h3> Randomize Monster:</h3>
 <ul>
 <li>The change will be random.</li>
 </ul>
@@ -279,22 +279,22 @@
       <description>Other Features: Show Chest Indicator Enable Peeking No Black Screen No fog No grass No map fog Paimon Follow Dolphin Dive GM Icon Menu Unlocker Sponsor Only No Camera Blur No Ca...</description>
       <category>Features</category>
       <pubDate>Sun, 17 Dec 2023 01:35:20 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> <span style="color:white;">Other Features:</span></h2>
-<h3> <span style="color:white;">Show Chest Indicator</span></h3>
-<h3> <span style="color:white;">Enable Peeking</span></h3>
-<h3> <span style="color:white;">No Black Screen</span></h3>
-<h3> <span style="color:white;">No fog</span></h3>
-<h3> <span style="color:white;">No grass</span></h3>
-<h3> <span style="color:white;">No map fog</span></h3>
-<h3> <span style="color:white;">Paimon Follow</span></h3>
-<h3> <span style="color:white;">Dolphin Dive</span></h3>
-<h3> <span style="color:white;">GM Icon</span></h3>
-<h3> <span style="color:white;">Menu Unlocker</span></h3>
+      <content:encoded><![CDATA[<h2> Other Features:</h2>
+<h3> Show Chest Indicator</h3>
+<h3> Enable Peeking</h3>
+<h3> No Black Screen</h3>
+<h3> No fog</h3>
+<h3> No grass</h3>
+<h3> No map fog</h3>
+<h3> Paimon Follow</h3>
+<h3> Dolphin Dive</h3>
+<h3> GM Icon</h3>
+<h3> Menu Unlocker</h3>
 <h2> <span style="color:yellow;">Sponsor Only</span></h2>
-<h3> <span style="color:white;">No Camera Blur</span></h3>
-<h3> <span style="color:white;">No Camera Shake</span></h3>
-<h3> <span style="color:white;">No Footprints</span></h3>
-<h3> <span style="color:white;">No Burst Animation</span></h3>
+<h3> No Camera Blur</h3>
+<h3> No Camera Shake</h3>
+<h3> No Footprints</h3>
+<h3> No Burst Animation</h3>
 ]]></content:encoded>
     </item>
     <item>
@@ -305,7 +305,7 @@
       <description>Skin Modifier allows the player to use in-game skins for free.</description>
       <category>Features</category>
       <pubDate>Sun, 17 Dec 2023 01:35:20 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> <span style="color:white;">Skin Modifier allows the player to use in-game skins for free.</span></h2>
+      <content:encoded><![CDATA[<h2> Skin Modifier allows the player to use in-game skins for free.</h2>
 ]]></content:encoded>
     </item>
     <item>
@@ -320,7 +320,7 @@
 <p class="hint-container-title">Its better to use [GIMI](../../guide/3DM-tutorial.md) for changing textures.</p>
 </div>
 <hr>
-<h2> <span style="color:white;">Texture Changer allows to switch character parts to the provided .png files.</span></h2>
+<h2> Texture Changer allows to switch character parts to the provided .png files.</h2>
 ]]></content:encoded>
     </item>
     <item>
@@ -331,12 +331,12 @@
       <description>Custom Teleport: Allows the player to teleport to a selected location designed by a .json file. Interpolation Speed: Controls the teleportation animation speed, set to 0.1 to av...</description>
       <category>Features</category>
       <pubDate>Sat, 16 Dec 2023 23:35:46 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> <span style="color:white;">Custom Teleport: Allows the player to teleport to a selected location designed by a <code>.json</code> file.</span></h2>
-<h3> <span style="color:white;">Interpolation Speed:</span></h3>
+      <content:encoded><![CDATA[<h2> Custom Teleport: Allows the player to teleport to a selected location designed by a <code>.json</code> file.</h2>
+<h3> Interpolation Speed:</h3>
 <ul>
 <li>Controls the teleportation animation speed, set to <code>0.1</code> to avoid issues.</li>
 </ul>
-<h3> <span style="color:white;">Auto Teleport:</span></h3>
+<h3> Auto Teleport:</h3>
 <ul>
 <li>Teleports automatically following the order of the provided <code>.json</code> files.
 <ul>
@@ -348,7 +348,7 @@
 <blockquote>
 <p>Note: Recommended to set above <code>15s</code> for safety.</p>
 </blockquote>
-<h1> <span style="color:white;">You can find out more on how to use this feature <a href="/en/guide/custom-tp-setting.html" target="blank">here</a></span></h1>
+<h1> You can find out more on how to use this feature <a href="/en/guide/custom-tp-setting.html" target="blank">here</a></h1>
 ]]></content:encoded>
     </item>
     <item>
@@ -359,11 +359,11 @@
       <description>ESP allows the player to track and view the selected objects through other objects from the filter with customizable visual effects. Note: Range, objects, visuals can be all cus...</description>
       <category>Features</category>
       <pubDate>Sat, 16 Dec 2023 16:51:15 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> <span style="color:white;">ESP allows the player to track and view the selected objects through other objects from the filter with customizable visual effects.</span></h2>
+      <content:encoded><![CDATA[<h2> ESP allows the player to track and view the selected objects through other objects from the filter with customizable visual effects.</h2>
 <blockquote>
 <p>Note: Range, objects, visuals can be all customized.</p>
 </blockquote>
-<h2> <span style="color:white;">Example Video:</span></h2>
+<h2> Example Video:</h2>
 <h3> Soon...</h3>
 ]]></content:encoded>
     </item>
@@ -375,12 +375,13 @@
       <description>Oculi Teleport will teleport the player to the nearest rendered oculi location when the hotkey is pressed. Note: Wait &amp;gt;15s between teleports for safety. Example Video:</description>
       <category>Features</category>
       <pubDate>Sat, 16 Dec 2023 16:51:15 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> <span style="color:white;">Oculi Teleport will teleport the player to the nearest rendered oculi location when the hotkey is pressed.</span></h2>
+      <content:encoded><![CDATA[<h2> Oculi Teleport will teleport the player to the nearest rendered oculi location when the hotkey is pressed.</h2>
 <blockquote>
 <p>Note: Wait <code>&gt;15s</code> between teleports for safety.</p>
 </blockquote>
-<h2> <span style="color:white;">Example Video:</span></h2>
-<iframe width="640" height="360" src="https://www.youtube.com/embed/j2Yu31J7Yh4?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Oculi/ChestTeleport" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>]]></content:encoded>
+<h2> Example Video:</h2>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/j2Yu31J7Yh4?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Oculi/ChestTeleport" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+]]></content:encoded>
     </item>
     <item>
       <title>Chest Teleport</title>
@@ -390,12 +391,13 @@
       <description>Chest Teleport will teleport the player to the nearest rendered chest location when the hotkey is pressed. Note: Wait &amp;gt;15s between teleports for safety. Example Video:</description>
       <category>Features</category>
       <pubDate>Sat, 16 Dec 2023 16:51:15 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> <span style="color:white;">Chest Teleport will teleport the player to the nearest rendered chest location when the hotkey is pressed.</span></h2>
+      <content:encoded><![CDATA[<h2> Chest Teleport will teleport the player to the nearest rendered chest location when the hotkey is pressed.</h2>
 <blockquote>
 <p>Note: Wait <code>&gt;15s</code> between teleports for safety.</p>
 </blockquote>
-<h2> <span style="color:white;">Example Video:</span></h2>
-<iframe width="640" height="360" src="https://www.youtube.com/embed/j2Yu31J7Yh4?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Oculi/ChestTeleport" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>]]></content:encoded>
+<h2> Example Video:</h2>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/j2Yu31J7Yh4?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Oculi/ChestTeleport" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+]]></content:encoded>
     </item>
     <item>
       <title>Map Teleport</title>
@@ -405,16 +407,16 @@
       <description>Map Teleport allows you to teleport to anywhere on the map. To use map teleport you have to enable it, and select the hotkey you going to use.; To teleport, hold the hotkey whil...</description>
       <category>Features</category>
       <pubDate>Sat, 16 Dec 2023 16:51:15 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> <span style="color:white;">Map Teleport allows you to teleport to anywhere on the map.</span></h2>
+      <content:encoded><![CDATA[<h2> Map Teleport allows you to teleport to anywhere on the map.</h2>
 <ul>
 <li>To use map teleport you have to enable it, and select the hotkey you going to use.</li>
 <li>To teleport, hold the hotkey while having the map opened and click on where you want to teleport.</li>
 </ul>
-<h3> <span style="color:white;">Fast Teleport (</span><span style="color:yellow;">Sponsor</span><span style="color:white;">):</span></h3>
+<h3> Fast Teleport (<span style="color:yellow;">Sponsor</span>):</h3>
 <ul>
 <li>Disables the loading screen within the selected distance while teleporting.</li>
 </ul>
-<h2> <span style="color:white;">Example Video:</span></h2>
+<h2> Example Video:</h2>
 <iframe width="640" height="360" src="https://www.youtube.com/embed/Xm3mTEbIE9g?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Map TP/Fast TP" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 ]]></content:encoded>
     </item>
@@ -430,8 +432,9 @@
 <ul>
 <li>To use this feature, you must click your navigation hotkey first and then click on quest teleport hotkey.</li>
 </ul>
-<h2> <span style="color:white;">Example Video:</span></h2>
-<iframe width="640" height="360" src="https://www.youtube.com/embed/HNdQu39G2Tc?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - QuestTP" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>]]></content:encoded>
+<h2> Example Video:</h2>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/HNdQu39G2Tc?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - QuestTP" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+]]></content:encoded>
     </item>
     <item>
       <title>Bunny Hop</title>
@@ -445,9 +448,10 @@
 <p class="hint-container-title">Sponsor Only</p>
 </div>
 <hr>
-<h2> <span style="color:white;">Bunny Hop will jump automatically after first jump when enabled.</span></h2>
-<h2> <span style="color:white;">Example Video:</span></h2>
-<iframe width="640" height="369" src="https://www.youtube.com/embed/Gh2GX23E6dw?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Bunnyhop (Sponsor)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>]]></content:encoded>
+<h2> Bunny Hop will jump automatically after first jump when enabled.</h2>
+<h2> Example Video:</h2>
+<iframe width="640" height="369" src="https://www.youtube.com/embed/Gh2GX23E6dw?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Bunnyhop (Sponsor)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+]]></content:encoded>
     </item>
     <item>
       <title>Attack Effects</title>
@@ -457,8 +461,8 @@
       <description>Attack Effects: Modifications for your attacks Multi-Hit Mode: One Punch Mode: Tries to kill the target with 1 hit.; Note: Not recommended to use. Modifies the number of attacks...</description>
       <category>Features</category>
       <pubDate>Sat, 16 Dec 2023 01:57:57 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> <span style="color:white;">Attack Effects: Modifications for your attacks</span></h2>
-<h3> <span style="color:white;">Multi-Hit Mode:</span></h3>
+      <content:encoded><![CDATA[<h2> Attack Effects: Modifications for your attacks</h2>
+<h3> Multi-Hit Mode:</h3>
 <ul>
 <li>One Punch Mode: Tries to kill the target with 1 hit.</li>
 </ul>
@@ -471,49 +475,50 @@
 <blockquote>
 <p>Note: Not recommended to go above <code>5</code>.</p>
 </blockquote>
-<h3> <span style="color:white;">Multi-Target:</span></h3>
+<h3> Multi-Target:</h3>
 <ul>
 <li>Hit all the targets within the selected radius from the target hit.</li>
 </ul>
 <blockquote>
 <p>Note: Not recommended to change default settings.</p>
 </blockquote>
-<h3> <span style="color:white;">Multi-Animation:</span></h3>
+<h3> Multi-Animation:</h3>
 <ul>
 <li>Modifies the number of times the character does an action.</li>
 </ul>
 <blockquote>
 <p>Note: Not recommended to use.</p>
 </blockquote>
-<h3> <span style="color:white;">Attack Speed:</span></h3>
+<h3> Attack Speed:</h3>
 <ul>
 <li>Modifies the speed of the normal attacks from the player.</li>
 </ul>
 <blockquote>
 <p>Note: Not recommended to use above <code>1.5</code>.</p>
 </blockquote>
-<h3> <span style="color:white;">Custom Element:</span></h3>
+<h3> Custom Element:</h3>
 <ul>
 <li>Modifies the element of all outcoming attacks.</li>
 </ul>
-<h3> <span style="color:white;">Infuse Element:</span></h3>
+<h3> Infuse Element:</h3>
 <ul>
 <li>Modifies the element of normal attacks from sword, polearms and claymore.</li>
 </ul>
-<h3> <span style="color:white;">Auto Weakspot:</span></h3>
+<h3> Auto Weakspot:</h3>
 <ul>
 <li>Hits target weakspot therefore criting, only works with bow users.</li>
 </ul>
-<h3> <span style="color:white;">Critical Hit (</span><span style="color:yellow;">Sponsor</span><span style="color:white;">)</span>:</h3>
+<h3> Critical Hit (<span style="color:yellow;">Sponsor</span>):</h3>
 <ul>
 <li>Changes the probability of critical hits.</li>
 </ul>
-<h3> <span style="color:white;">Nullify Incoming Element:</span></h3>
+<h3> Nullify Incoming Element:</h3>
 <ul>
 <li>Will nullify any incoming element converting it to physical damage instead.</li>
 </ul>
-<h2> <span style="color:white;">Example Video:</span></h2>
-<iframe width="640" height="360" src="https://www.youtube.com/embed/1BdKwxBjWyg?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Attack Effects" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>]]></content:encoded>
+<h2> Example Video:</h2>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/1BdKwxBjWyg?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Attack Effects" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+]]></content:encoded>
     </item>
     <item>
       <title>Auto Run</title>
@@ -523,8 +528,8 @@
       <description>Auto Run will move the player to the direction the player is facing automatically. Example Video:</description>
       <category>Features</category>
       <pubDate>Sat, 16 Dec 2023 01:57:57 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> <span style="color:white;">Auto Run will move the player to the direction the player is facing automatically.</span></h2>
-<h2> <span style="color:white;">Example Video:</span></h2>
+      <content:encoded><![CDATA[<h2> Auto Run will move the player to the direction the player is facing automatically.</h2>
+<h2> Example Video:</h2>
 <iframe width="640" height="360" src="https://www.youtube.com/embed/BLDhPBMs7Es?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Run" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 ]]></content:encoded>
     </item>
@@ -536,36 +541,37 @@
       <description>Cooldown Effects: Modifies the cooldown time of various actions. Max Burst Energy: Removes the requirement needed to use elemental bursts.; Note: Energy bubble may appear incomp...</description>
       <category>Features</category>
       <pubDate>Sat, 16 Dec 2023 01:57:57 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> <span style="color:white;">Cooldown Effects: Modifies the cooldown time of various actions.</span></h2>
-<h3> <span style="color:white;">Max Burst Energy:</span></h3>
+      <content:encoded><![CDATA[<h2> Cooldown Effects: Modifies the cooldown time of various actions.</h2>
+<h3> Max Burst Energy:</h3>
 <ul>
 <li>Removes the requirement needed to use elemental bursts.</li>
 </ul>
 <blockquote>
 <p>Note: Energy bubble may appear incomplete but will be stil usable.</p>
 </blockquote>
-<h3> <span style="color:white;">No Avatar Skill Cooldown: Removes the cooldown for character skill and burst.</span></h3>
+<h3> No Avatar Skill Cooldown: Removes the cooldown for character skill and burst.</h3>
 <ul>
 <li>Reduce Skill/Burst Cooldown: When activated instead of removing the cooldown, it will be set to the selected values if the cooldown is higher than the value selected.</li>
 </ul>
 <blockquote>
 <p>Note: You can use any value for CD, but don't spam it too hard. <code>ex. 40 times in 1m</code></p>
 </blockquote>
-<h3> <span style="color:white;">No Sprint Cooldown:</span></h3>
+<h3> No Sprint Cooldown:</h3>
 <ul>
 <li>Removes the delay between sprints.</li>
 </ul>
-<h3> <span style="color:white;">Instant Charged Attack:</span></h3>
+<h3> Instant Charged Attack:</h3>
 <ul>
 <li>Bow: Removes the charge time for bow users.</li>
 <li>Other: Removes the charge time for other weapon users.</li>
 </ul>
-<h3> <span style="color:white;">No Vehicle Skill Cooldown:</span></h3>
+<h3> No Vehicle Skill Cooldown:</h3>
 <ul>
 <li>Removes the cooldown for the boat skills.</li>
 </ul>
-<h2> <span style="color:white;">Example Video:</span></h2>
-<iframe width="640" height="360" src="https://www.youtube.com/embed/qv5ykSL3Ojw?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Cooldown Effects" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>]]></content:encoded>
+<h2> Example Video:</h2>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/qv5ykSL3Ojw?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Cooldown Effects" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+]]></content:encoded>
     </item>
     <item>
       <title>Extra Movements</title>
@@ -579,19 +585,19 @@
 <p class="hint-container-title">Sponsor Only</p>
 </div>
 <hr>
-<h2> <span style="color:white;">Extra Movements: Modifies/Enchances certain actions for the player.</span></h2>
-<h3> <span style="color:white;">Run On Water:</span></h3>
+<h2> Extra Movements: Modifies/Enchances certain actions for the player.</h2>
+<h3> Run On Water:</h3>
 <ul>
 <li>Enables the ability to walk on water.</li>
 </ul>
-<h3> <span style="color:white;">Run Boost:</span></h3>
+<h3> Run Boost:</h3>
 <ul>
 <li>Enchances the speed when the player is running.</li>
 </ul>
 <blockquote>
 <p>Note: Not recommended to change default values.</p>
 </blockquote>
-<h3> <span style="color:white;">Jump Boost:</span></h3>
+<h3> Jump Boost:</h3>
 <ul>
 <li>Enchaces the height of the jump for the player.
 <ul>
@@ -602,33 +608,34 @@
 <blockquote>
 <p>Note: Not recommended to change default values.</p>
 </blockquote>
-<h3> <span style="color:white;">Fly Boost:</span></h3>
+<h3> Fly Boost:</h3>
 <ul>
 <li>Enchances the speed when the player is gliding.</li>
 </ul>
 <blockquote>
 <p>Note: Not recommended to change default values.</p>
 </blockquote>
-<h3> <span style="color:white;">Swim Boost: </span></h3>
+<h3> Swim Boost:</h3>
 <ul>
 <li>Enchances the speed when the player is swimming.</li>
 </ul>
 <blockquote>
 <p>Note: Not recommended to change default values.</p>
 </blockquote>
-<h3> <span style="color:white;">Dive Boost:</span></h3>
+<h3> Dive Boost:</h3>
 <ul>
 <li>Enchances the speed when the player is diving.</li>
 </ul>
 <blockquote>
 <p>Note: Not recommended to change default values.</p>
 </blockquote>
-<h3> <span style="color:white;">Blink:</span></h3>
+<h3> Blink:</h3>
 <ul>
 <li>Allows the player to move certain distance after pressing a hotkey.</li>
 </ul>
-<h2> <span style="color:white;">Example Video:</span></h2>
-<iframe width="640" height="360" src="https://www.youtube.com/embed/wMd9icqhFQg?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Extra Movement (Sponsor)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>]]></content:encoded>
+<h2> Example Video:</h2>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/wMd9icqhFQg?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Extra Movement (Sponsor)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+]]></content:encoded>
     </item>
     <item>
       <title>Fall Control</title>
@@ -638,9 +645,10 @@
       <description>Fall Control allows you to move with the selected speed while falling. Example Video:</description>
       <category>Features</category>
       <pubDate>Sat, 16 Dec 2023 01:57:57 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> <span style="color:white;">Fall Control allows you to move with the selected speed while falling.</span></h2>
-<h2> <span style="color:white;">Example Video:</span></h2>
-<iframe width="640" height="360" src="https://www.youtube.com/embed/BHiabtwSSNc?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Fall Control" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>]]></content:encoded>
+      <content:encoded><![CDATA[<h2> Fall Control allows you to move with the selected speed while falling.</h2>
+<h2> Example Video:</h2>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/BHiabtwSSNc?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Fall Control" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+]]></content:encoded>
     </item>
     <item>
       <title>God Mode</title>
@@ -650,20 +658,21 @@
       <description>God Mode will disable all incoming damage. Undead: When enabled, god mode only will turn on if damage is lethal.; Conditional: When enabled, god mode only will turn on if the ch...</description>
       <category>Features</category>
       <pubDate>Sat, 16 Dec 2023 01:57:57 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> <span style="color:white;">God Mode will disable all incoming damage.</span></h2>
-<h3> <span style="color:white;">Undead:</span></h3>
+      <content:encoded><![CDATA[<h2> God Mode will disable all incoming damage.</h2>
+<h3> Undead:</h3>
 <ul>
 <li>When enabled, god mode only will turn on if damage is lethal.</li>
 </ul>
-<h3> <span style="color:white;">Conditional:</span></h3>
+<h3> Conditional:</h3>
 <ul>
 <li>When enabled, god mode only will turn on if the character hp falls below the specified value.</li>
 </ul>
 <blockquote>
 <p>Note: Recommended to use conditional for abyss.</p>
 </blockquote>
-<h2> <span style="color:white;">Example Video:</span></h2>
-<iframe width="640" height="360" src="https://www.youtube.com/embed/42utUUYNHRE?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - God Mode" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>]]></content:encoded>
+<h2> Example Video:</h2>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/42utUUYNHRE?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - God Mode" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+]]></content:encoded>
     </item>
     <item>
       <title>Infinite Stamina</title>
@@ -673,16 +682,17 @@
       <description>Infinite Stamina disables the stamina consumption for all actions. Move Sync Packet Replacement: When this is enabled and Infinite Stamina is disabled, will prevent sending stam...</description>
       <category>Features</category>
       <pubDate>Sat, 16 Dec 2023 01:57:57 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> <span style="color:white;">Infinite Stamina disables the stamina consumption for all actions.</span></h2>
-<h3> <span style="color:white;">Move Sync Packet Replacement:</span></h3>
+      <content:encoded><![CDATA[<h2> Infinite Stamina disables the stamina consumption for all actions.</h2>
+<h3> Move Sync Packet Replacement:</h3>
 <ul>
 <li>When this is enabled and Infinite Stamina is disabled, will prevent sending stamina consuming action packets to server like running, climbing, swimming, etc.</li>
 </ul>
 <blockquote>
 <p>Note: Recommended to use Move Sync Packet Replacement.</p>
 </blockquote>
-<h2> <span style="color:white;">Example Video:</span></h2>
-<iframe width="640" height="360" src="https://www.youtube.com/embed/NZhfaMOLuY0?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Infinite Stamina" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>]]></content:encoded>
+<h2> Example Video:</h2>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/NZhfaMOLuY0?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Infinite Stamina" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+]]></content:encoded>
     </item>
     <item>
       <title>No Clip</title>
@@ -692,32 +702,33 @@
       <description>No Clip will allow you to have no collision, move faster and fly. No Animation: When enabled it will disable animations of the character while using no clip.; Camera-relative mo...</description>
       <category>Features</category>
       <pubDate>Sat, 16 Dec 2023 01:57:57 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> <span style="color:white;">No Clip will allow you to have no collision, move faster and fly.</span></h2>
-<h3> <span style="color:white;">No Animation:</span></h3>
+      <content:encoded><![CDATA[<h2> No Clip will allow you to have no collision, move faster and fly.</h2>
+<h3> No Animation:</h3>
 <ul>
 <li>When enabled it will disable animations of the character while using no clip.</li>
 </ul>
-<h3> <span style="color:white;">Camera-relative movement:</span></h3>
+<h3> Camera-relative movement:</h3>
 <ul>
 <li>When enabled, character will move based on camera view instead of where the character is facing.</li>
 </ul>
-<h3> <span style="color:white;">Alternate No-Clip:</span></h3>
+<h3> Alternate No-Clip:</h3>
 <ul>
 <li>When enabled, no clip speed will change after pressing the selected hotkey at the designed speed.</li>
 </ul>
-<h3> <span style="color:white;">Use Custom Keys:</span></h3>
+<h3> Use Custom Keys:</h3>
 <ul>
 <li>Enables the option to change no-clip directional controls.</li>
 </ul>
-<h3> <span style="color:white;">DragBack Bypass:</span></h3>
+<h3> DragBack Bypass:</h3>
 <ul>
 <li>Prevents the server to drag the character back due to excesive speed.</li>
 </ul>
 <blockquote>
 <p>Note: Not recommended to use above <code>20</code>.</p>
 </blockquote>
-<h2> <span style="color:white;">Example Video:</span></h2>
-<iframe width="640" height="360" src="https://www.youtube.com/embed/nPdq-yzBt3k?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - NoClip" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>]]></content:encoded>
+<h2> Example Video:</h2>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/nPdq-yzBt3k?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - NoClip" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+]]></content:encoded>
     </item>
     <item>
       <title>Player Speed</title>
@@ -727,13 +738,14 @@
       <description>Player Speed modifies player speed. Real. No Fake. Note: Recommended to use below 1.5. Note 2: Extra Movements (extra-movements.md) is recommended since its better synced with t...</description>
       <category>Features</category>
       <pubDate>Sat, 16 Dec 2023 01:57:57 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> <span style="color:white;">Player Speed modifies player speed. Real. No Fake.</span></h2>
+      <content:encoded><![CDATA[<h2> Player Speed modifies player speed. Real. No Fake.</h2>
 <blockquote>
 <p>Note: Recommended to use below <code>1.5</code>.
 Note 2: <a href="/en/features/Player/extra-movements.html" target="blank">Extra Movements</a> is recommended since its better synced with the server (safer)(Sponsor)</p>
 </blockquote>
-<h2> <span style="color:white;">Example Video:</span></h2>
-<iframe width="640" height="360" src="https://www.youtube.com/embed/HCxmOUMFRs8?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Player Speed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>]]></content:encoded>
+<h2> Example Video:</h2>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/HCxmOUMFRs8?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Player Speed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+]]></content:encoded>
     </item>
     <item>
       <title>Remote Utility</title>
@@ -747,12 +759,12 @@ Note 2: <a href="/en/features/Player/extra-movements.html" target="blank">Extra 
 <p class="hint-container-title">Sponsor Only</p>
 </div>
 <hr>
-<h2> <span style="color:white;">Remote Utility:</span></h2>
-<h3> <span style="color:white;">Claim Daily Commision Reward:</span></h3>
+<h2> Remote Utility:</h2>
+<h3> Claim Daily Commision Reward:</h3>
 <ul>
 <li>Claims daily commision reward when all 4 comissions are completed.</li>
 </ul>
-<h3> <span style="color:white;">Custom Talk:</span></h3>
+<h3> Custom Talk:</h3>
 <ul>
 <li>Starts a conversation using the conversation ID, some conversations might not work.</li>
 </ul>
@@ -760,7 +772,7 @@ Note 2: <a href="/en/features/Player/extra-movements.html" target="blank">Extra 
 <p>Note: This feature is dangerous.
 Note: To get the conversation ID, enable <code>Debug Talk</code>, ID will be displayed in <code>cmd</code>.</p>
 </blockquote>
-<h3> <span style="color:white;">Spawn Gadget:</span></h3>
+<h3> Spawn Gadget:</h3>
 <ul>
 <li>Spawns the selected gadget by ID, some of them might not work.</li>
 </ul>
@@ -768,7 +780,7 @@ Note: To get the conversation ID, enable <code>Debug Talk</code>, ID will be dis
 <p>Note: This feature is dangerous.
 Note 2: You can find the gadget IDs <a href="https://github.com/jie65535/GrasscutterCommandGenerator/blob/main/Source/GrasscutterTools/Resources/en-us/Gadget.txt" target="_blank" rel="noopener noreferrer">here</a></p>
 </blockquote>
-<h3> <span style="color:white;">Crafting:</span></h3>
+<h3> Crafting:</h3>
 <ul>
 <li>Condensed Resin: Crafts a condensed resin if you got the resin and the items.</li>
 <li>Spawn Alchemy Table: Spawns an Alchemy Table.</li>
@@ -780,14 +792,14 @@ Note 2: You can find the combine IDs <a href="https://github.com/jie65535/Grassc
 </blockquote>
 </li>
 </ul>
-<h3> <span style="color:white;">Summon NPC:</span></h3>
+<h3> Summon NPC:</h3>
 <ul>
 <li>Summons the selected NPC by ID.</li>
 </ul>
 <blockquote>
 <p>Note: Katheryne, Wagner and Prince already included.</p>
 </blockquote>
-<h3> <span style="color:white;">Summon Monster:</span></h3>
+<h3> Summon Monster:</h3>
 <ul>
 <li>Summons the selected monster with the selected parameters by ID.</li>
 </ul>
@@ -795,7 +807,7 @@ Note 2: You can find the combine IDs <a href="https://github.com/jie65535/Grassc
 <p>Note: You can't kill them.
 Note 2: You can find the monster IDs <a href="https://github.com/jie65535/GrasscutterCommandGenerator/blob/main/Source/GrasscutterTools/Resources/en-us/Monsters.txt" target="_blank" rel="noopener noreferrer">here</a></p>
 </blockquote>
-<h3> <span style="color:white;">Summon Item:</span></h3>
+<h3> Summon Item:</h3>
 <ul>
 <li>Summons the selected item by ID.</li>
 </ul>
@@ -803,7 +815,7 @@ Note 2: You can find the monster IDs <a href="https://github.com/jie65535/Grassc
 <p>Note: Some items might not work.
 Note 2: You can find the items IDs <a href="https://github.com/jie65535/GrasscutterCommandGenerator/blob/main/Source/GrasscutterTools/Resources/en-us/Item.txt" target="_blank" rel="noopener noreferrer">here</a></p>
 </blockquote>
-<h3> <span style="color:white;">Open UI Page:</span></h3>
+<h3> Open UI Page:</h3>
 <ul>
 <li>Open Paimon Menu Page: Opens the menu.</li>
 <li>Open Cooking Page: Opens cooking page.
@@ -812,16 +824,17 @@ Note 2: You can find the items IDs <a href="https://github.com/jie65535/Grasscut
 </blockquote>
 </li>
 </ul>
-<h3> <span style="color:white;">Worship Statue:</span></h3>
+<h3> Worship Statue:</h3>
 <ul>
 <li>Will worship the selected Statue of the Seven with the amount selected, need to have the oculus to do this.</li>
 </ul>
-<h3> <span style="color:white;">Change Traveler Element:</span></h3>
+<h3> Change Traveler Element:</h3>
 <ul>
 <li>Allows player to change traveler element anywhere.</li>
 </ul>
-<h2> <span style="color:white;">Example Video:</span></h2>
-<iframe width="640" height="360" src="https://www.youtube.com/embed/XGztUEy82sE?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Remote Utilities (Sponsor)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>]]></content:encoded>
+<h2> Example Video:</h2>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/XGztUEy82sE?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Remote Utilities (Sponsor)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+]]></content:encoded>
     </item>
     <item>
       <title>Auto Loot</title>
@@ -831,8 +844,8 @@ Note 2: You can find the items IDs <a href="https://github.com/jie65535/Grasscut
       <description>Auto loot lets you auto collect loot withing the selected range and delay, the loot that will be collected can be customized, including chests, mob drops and more. Example Video...</description>
       <category>Features</category>
       <pubDate>Fri, 15 Dec 2023 00:02:48 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> <span style="color:white;">Auto loot lets you auto collect loot withing the selected range and delay, the loot that will be collected can be customized, including chests, mob drops and more.</span></h2>
-<h2> <span style="color:white;">Example Video:</span></h2>
+      <content:encoded><![CDATA[<h2> Auto loot lets you auto collect loot withing the selected range and delay, the loot that will be collected can be customized, including chests, mob drops and more.</h2>
+<h2> Example Video:</h2>
 <iframe width="640" height="360" src="https://www.youtube.com/embed/wUyI2XO_Z4E?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Loot" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 <blockquote>
 <p>Note: Recommended below <code>10m</code> for normal use and <code>20m</code> if using custom tp.
@@ -848,9 +861,10 @@ Note 2: Higher the distance higher delay should be used.</p>
       <description>Auto Seelie removes the necesity of the player to follow the seelie constantly, seelie with go to the designed destination when the player gets close. Example Video:</description>
       <category>Features</category>
       <pubDate>Fri, 15 Dec 2023 00:02:48 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> <span style="color:white;">Auto Seelie removes the necesity of the player to follow the seelie constantly, seelie with go to the designed destination when the player gets close.</span></h2>
-<h2> <span style="color:white;">Example Video:</span></h2>
-<iframe width="640" height="360" src="https://www.youtube.com/embed/uETIJ4KS39M?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Seelie" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>]]></content:encoded>
+      <content:encoded><![CDATA[<h2> Auto Seelie removes the necesity of the player to follow the seelie constantly, seelie with go to the designed destination when the player gets close.</h2>
+<h2> Example Video:</h2>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/uETIJ4KS39M?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Seelie" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+]]></content:encoded>
     </item>
     <item>
       <title>Mob Vacuum</title>
@@ -860,8 +874,8 @@ Note 2: Higher the distance higher delay should be used.</p>
       <description>Mob Vacuum move nearby mobs to the player with the selected speed and range, the mobs that will be affected can be customized. Example Video: Note: Recommended below 20m.</description>
       <category>Features</category>
       <pubDate>Fri, 15 Dec 2023 00:02:48 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> <span style="color:white;">Mob Vacuum move nearby mobs to the player with the selected speed and range, the mobs that will be affected can be customized.</span></h2>
-<h2> <span style="color:white;">Example Video:</span></h2>
+      <content:encoded><![CDATA[<h2> Mob Vacuum move nearby mobs to the player with the selected speed and range, the mobs that will be affected can be customized.</h2>
+<h2> Example Video:</h2>
 <iframe width="640" height="360" src="https://www.youtube.com/embed/KNzVgG_V10I?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Mob Vacuum" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 <blockquote>
 <p>Note: Recommended below <code>20m</code>.</p>
@@ -876,8 +890,8 @@ Note 2: Higher the distance higher delay should be used.</p>
       <description>Vacuum Loot moves nearby drops to the player with the specified range and delay. Example Video: Note: Recommended below 20m.</description>
       <category>Features</category>
       <pubDate>Fri, 15 Dec 2023 00:02:48 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> <span style="color:white;">Vacuum Loot moves nearby drops to the player with the specified range and delay.</span></h2>
-<h2> <span style="color:white;">Example Video:</span></h2>
+      <content:encoded><![CDATA[<h2> Vacuum Loot moves nearby drops to the player with the specified range and delay.</h2>
+<h2> Example Video:</h2>
 <iframe width="640" height="360" src="https://www.youtube.com/embed/iMElTsNF77c?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Vacuum Loot" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 <blockquote>
 <p>Note: Recommended below <code>20m</code>.</p>
@@ -896,8 +910,8 @@ Note 2: Higher the distance higher delay should be used.</p>
 <p class="hint-container-title">Sponsor Only</p>
 </div>
 <hr>
-<h3> <span style="color:white;">Auto Activate Teleport activates nearby waypoints up to 50m.</span></h3>
-<h2> <span style="color:white;">Example Video:</span></h2>
+<h3> Auto Activate Teleport activates nearby waypoints up to 50m.</h3>
+<h2> Example Video:</h2>
 <iframe width="640" height="360" src="https://www.youtube.com/embed/qstBErr9mJ0?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - AutoActivateTP (Sponsor)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 ]]></content:encoded>
     </item>
@@ -909,8 +923,8 @@ Note 2: Higher the distance higher delay should be used.</p>
       <description>Auto Challenge lets you complete the current active time trial within a specified range and delay time, you can configure these to your liking. Example Video: Note: Not recommen...</description>
       <category>Features</category>
       <pubDate>Thu, 14 Dec 2023 23:51:59 GMT</pubDate>
-      <content:encoded><![CDATA[<h3> <span style="color:white;">Auto Challenge lets you complete the current active time trial within a specified range and delay time, you can configure these to your liking.</span></h3>
-<h2> <span style="color:white;">Example Video:</span></h2>
+      <content:encoded><![CDATA[<h3> Auto Challenge lets you complete the current active time trial within a specified range and delay time, you can configure these to your liking.</h3>
+<h2> Example Video:</h2>
 <iframe width="640" height="360" src="https://www.youtube.com/embed/7JNegfQiK2U?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Challenge" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 <blockquote>
 <p>Note: Not recommended to use in low delays and very high ranges.</p>
@@ -925,9 +939,10 @@ Note 2: Higher the distance higher delay should be used.</p>
       <description>Auto Cook lets you cook a specified quantity and quality of the selected food on the cooking page, it counts with an auto proficiency (Auto unlock auto cook) built-in. Example V...</description>
       <category>Features</category>
       <pubDate>Thu, 14 Dec 2023 23:51:59 GMT</pubDate>
-      <content:encoded><![CDATA[<h3> <span style="color:white;">Auto Cook lets you cook a specified quantity and quality of the selected food on the cooking page, it counts with an auto proficiency (Auto unlock auto cook) built-in.</span></h3>
-<h2> <span style="color:white;">Example Video:</span></h2>
-<iframe width="640" height="360" src="https://www.youtube.com/embed/T_X13AXiAiY?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Cook" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>]]></content:encoded>
+      <content:encoded><![CDATA[<h3> Auto Cook lets you cook a specified quantity and quality of the selected food on the cooking page, it counts with an auto proficiency (Auto unlock auto cook) built-in.</h3>
+<h2> Example Video:</h2>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/T_X13AXiAiY?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Cook" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+]]></content:encoded>
     </item>
     <item>
       <title>Auto Destroy Objects</title>
@@ -937,8 +952,8 @@ Note 2: Higher the distance higher delay should be used.</p>
       <description>Auto Destroy Objects lets you destroy customizable objects within a specified range, in which it includes, ores, plants, rock piles, chests, special objects, shields, etc. Examp...</description>
       <category>Features</category>
       <pubDate>Thu, 14 Dec 2023 23:51:59 GMT</pubDate>
-      <content:encoded><![CDATA[<h3> <span style="color:white;">Auto Destroy Objects lets you destroy customizable objects within a specified range, in which it includes, ores, plants, rock piles, chests, special objects, shields, etc.</span></h3>
-<h2> <span style="color:white;">Example Video:</span></h2>
+      <content:encoded><![CDATA[<h3> Auto Destroy Objects lets you destroy customizable objects within a specified range, in which it includes, ores, plants, rock piles, chests, special objects, shields, etc.</h3>
+<h2> Example Video:</h2>
 <iframe width="640" height="360" src="https://www.youtube.com/embed/3ML6s3SR8nE?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Destroy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 <blockquote>
 <p>Note: Recommended value is below <code>20m</code>, not recommended to use at max range (<code>40m</code>)</p>
@@ -953,8 +968,8 @@ Note 2: Higher the distance higher delay should be used.</p>
       <description>Auto fish lets you skip the catching fish animation, which will reduce the time needed to catch a fish. Example Video: Note: Auto Recast is not working at the time creating this...</description>
       <category>Features</category>
       <pubDate>Thu, 14 Dec 2023 23:51:59 GMT</pubDate>
-      <content:encoded><![CDATA[<h3> <span style="color:white;">Auto fish lets you skip the catching fish animation, which will reduce the time needed to catch a fish.</span></h3>
-<h2> <span style="color:white;">Example Video:</span></h2>
+      <content:encoded><![CDATA[<h3> Auto fish lets you skip the catching fish animation, which will reduce the time needed to catch a fish.</h3>
+<h2> Example Video:</h2>
 <iframe width="640" height="360" src="https://www.youtube.com/embed/K_l4Tg-81iQ?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Fish" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 <blockquote>
 <p>Note: Auto Recast is not working at the time creating this post.</p>
@@ -969,43 +984,43 @@ Note 2: Higher the distance higher delay should be used.</p>
       <description>Auto Talk: Talks automatically with the NPCs Fast Dialog: Speeds up the game with the selected value to make the dialog faster.; Note: Not recommended to use above 5. Skip Dialo...</description>
       <category>Features</category>
       <pubDate>Thu, 14 Dec 2023 23:51:59 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> <span style="color:white;">Auto Talk: Talks automatically with the NPCs</span></h2>
-<h3> <span style="color:white;">Fast Dialog:</span></h3>
+      <content:encoded><![CDATA[<h2> Auto Talk: Talks automatically with the NPCs</h2>
+<h3> Fast Dialog:</h3>
 <ul>
 <li>Speeds up the game with the selected value to make the dialog faster.</li>
 </ul>
 <blockquote>
 <p>Note: Not recommended to use above <code>5</code>.</p>
 </blockquote>
-<h3> <span style="color:white;">Skip Dialog (Sponsor): </span></h3>
+<h3> Skip Dialog (Sponsor):</h3>
 <ul>
 <li>Skips the dialog with the selected delay. Its safer than fast dialog.</li>
 </ul>
 <blockquote>
 <p>Note: Not recommended to use below <code>200ms</code></p>
 </blockquote>
-<h3> <span style="color:white;">Fast Cutscene:</span></h3>
+<h3> Fast Cutscene:</h3>
 <ul>
 <li>Speeds up the game with the selected value to make the cutscene faster.</li>
 </ul>
 <blockquote>
 <p>Note: Not recommended to use above <code>5</code></p>
 </blockquote>
-<h3> <span style="color:white;">Skip Talk Scenes:</span></h3>
+<h3> Skip Talk Scenes:</h3>
 <ul>
 <li>Skips a talk scene if its triggered or on-going.</li>
 </ul>
 <blockquote>
 <p>Note: Might get blackscreen while using it.</p>
 </blockquote>
-<h3> <span style="color:white;">Skip Cutscene:</span></h3>
+<h3> Skip Cutscene:</h3>
 <ul>
 <li>Skips a Cutscene if its triggered or on-going.</li>
 </ul>
 <blockquote>
 <p>Note: Might get blackscreen while using it.</p>
 </blockquote>
-<h2> <span style="color:white;">Example Video:</span></h2>
+<h2> Example Video:</h2>
 <iframe width="640" height="360" src="https://www.youtube.com/embed/IS0BvLLO1xc?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - AutoTalk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 ]]></content:encoded>
     </item>
@@ -1021,8 +1036,8 @@ Note 2: Higher the distance higher delay should be used.</p>
 <p class="hint-container-title">Sponsor Only</p>
 </div>
 <hr>
-<h3> <span style="color:white;">Auto Tree Farm lets you punch nearby trees with the selected value and delay, therefore automatically getting wood from nearby trees.</span></h3>
-<h2> <span style="color:white;">Example Video:</span></h2>
+<h3> Auto Tree Farm lets you punch nearby trees with the selected value and delay, therefore automatically getting wood from nearby trees.</h3>
+<h2> Example Video:</h2>
 <iframe width="640" height="360" src="https://www.youtube.com/embed/v95_NOxc4do?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Tree Farm" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 <blockquote>
 <p>Note: Not recommended to change default values.</p>
@@ -1041,8 +1056,8 @@ Note 2: Higher the distance higher delay should be used.</p>
 <p class="hint-container-title">Sponsor Only</p>
 </div>
 <hr>
-<h3> <span style="color:white;">Elemental Aura applies elements with the specified element, range and delay to  targets, objects or yourself, multiple elements can be applied to nearby targets.</span></h3>
-<h2> <span style="color:white;">Example Video:</span></h2>
+<h3> Elemental Aura applies elements with the specified element, range and delay to  targets, objects or yourself, multiple elements can be applied to nearby targets.</h3>
+<h2> Example Video:</h2>
 <iframe width="640" height="360" src="https://www.youtube.com/embed/FskTJiknOgQ?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Elemental Aura (Sponsor)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 <blockquote>
 <p>Note: Low delay times will increase the chance of detection.</p>
@@ -1057,12 +1072,13 @@ Note 2: Higher the distance higher delay should be used.</p>
       <description>Game Speed. Speedups or slowdowns the game. Unexpected. Note: Not recommended to use outside of menus, or in general. Example Video:</description>
       <category>Features</category>
       <pubDate>Thu, 14 Dec 2023 23:51:59 GMT</pubDate>
-      <content:encoded><![CDATA[<h3> <span style="color:white;">Game Speed. Speedups or slowdowns the game. Unexpected.</span></h3>
+      <content:encoded><![CDATA[<h3> Game Speed. Speedups or slowdowns the game. Unexpected.</h3>
 <blockquote>
 <p>Note: Not recommended to use outside of menus, or in general.</p>
 </blockquote>
-<h2> <span style="color:white;">Example Video:</span></h2>
-<iframe width="640" height="360" src="https://www.youtube.com/embed/MzXhudYkaDg?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Game Speed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>]]></content:encoded>
+<h2> Example Video:</h2>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/MzXhudYkaDg?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Game Speed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+]]></content:encoded>
     </item>
     <item>
       <title>Kill Aura</title>
@@ -1076,26 +1092,26 @@ Note 2: Higher the distance higher delay should be used.</p>
 <p class="hint-container-title">This feature has a high risk of ban.</p>
 </div>
 <hr>
-<h2> <span style="color:white;">Kill Aura: Deals damage to surrounding enemies</span></h2>
-<h3> <span style="color:white;">Crash Damage mode:</span></h3>
+<h2> Kill Aura: Deals damage to surrounding enemies</h2>
+<h3> Crash Damage mode:</h3>
 <ul>
 <li>Deals fall damage to surrounding enemies with the specified value, delay and range.</li>
 </ul>
 <blockquote>
 <p>Note: Not recommended to use very high values.</p>
 </blockquote>
-<h3> <span style="color:white;">Percent Mode:</span></h3>
+<h3> Percent Mode:</h3>
 <ul>
 <li>Number of hits needed to kill an enemy.</li>
 </ul>
 <blockquote>
 <p>Note: Recommended to use <code>3</code> or higher values.</p>
 </blockquote>
-<h3> <span style="color:white;">Left HP:</span></h3>
+<h3> Left HP:</h3>
 <ul>
 <li>Whether or not to leave the specified amount of HP to surrounding enemies.</li>
 </ul>
-<h3> <span style="color:white;">Instant Death Mode:</span></h3>
+<h3> Instant Death Mode:</h3>
 <ul>
 <li>Will try to make the enemy disappear</li>
 </ul>
@@ -1103,11 +1119,11 @@ Note 2: Higher the distance higher delay should be used.</p>
 <p>Note: Might get buggy with some bosses.
 Note 2: Not recommended to use.</p>
 </blockquote>
-<h3> <span style="color:white;">Only Hostile/Aggro:</span></h3>
+<h3> Only Hostile/Aggro:</h3>
 <ul>
 <li>Whether or not to target only hostile mobs.</li>
 </ul>
-<h2> <span style="color:white;">Example Video:</span></h2>
+<h2> Example Video:</h2>
 <iframe width="640" height="360" src="https://www.youtube.com/embed/NiAh00VBy-w?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Kill Aura" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 ]]></content:encoded>
     </item>
@@ -1119,8 +1135,8 @@ Note 2: Not recommended to use.</p>
       <description>List of Features Player Attack Effects (Player/attack-effects.md); Auto Run (Player/auto-run.md); Bunny Hop (Player/bunny-hop.md); Cooldown Effects (Player/cooldown-effects.md);...</description>
       <category>Features</category>
       <pubDate>Thu, 14 Dec 2023 22:37:32 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> <span style="color:white;">List of Features</span></h2>
-<h3> <span style="color:white;">Player</span></h3>
+      <content:encoded><![CDATA[<h2> List of Features</h2>
+<h3> Player</h3>
 <ul>
 <li><a href="/en/features/Player/attack-effects.html" target="blank">Attack Effects</a></li>
 <li><a href="/en/features/Player/auto-run.html" target="blank">Auto Run</a></li>
@@ -1134,7 +1150,7 @@ Note 2: Not recommended to use.</p>
 <li><a href="/en/features/Player/player-speed.html" target="blank">Player Speed</a></li>
 <li><a href="/en/features/Player/remote-utility.html" target="blank">Remote Utility</a></li>
 </ul>
-<h3> <span style="color:white;">Teleport</span></h3>
+<h3> Teleport</h3>
 <ul>
 <li><a href="/en/features/Teleport/0culi-teleport.html" target="blank">Oculi Teleport</a></li>
 <li><a href="/en/features/Teleport/chest-teleport.html" target="blank">Chest Teleport</a></li>
@@ -1142,7 +1158,7 @@ Note 2: Not recommended to use.</p>
 <li><a href="/en/features/Teleport/map-teleport.html" target="blank">Map Teleport</a></li>
 <li><a href="/en/features/Teleport/quest-teleport.html" target="blank">Quest Teleport</a></li>
 </ul>
-<h3> <span style="color:white;">World</span></h3>
+<h3> World</h3>
 <ul>
 <li><a href="/en/features/World/auto-activate-tp.html" target="blank">Auto Activated Waypoints</a></li>
 <li><a href="/en/features/World/auto-challenge.html" target="blank">Auto Challenge</a></li>
@@ -1169,22 +1185,22 @@ Note 2: Not recommended to use.</p>
       <description>How to solve the error 31-4302 Method 1 If your game folder contains non-original files, this prompt might appear for you. Check that theres only original files like the next ex...</description>
       <category>Guide</category>
       <pubDate>Wed, 13 Dec 2023 02:00:05 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> <span style="color:white;">How to solve the error <code>31-4302</code></span></h2>
+      <content:encoded><![CDATA[<h2> How to solve the error <code>31-4302</code></h2>
 <p><img src="/assets/images/docs/202312/31-4302.png" alt="" loading="lazy"></p>
-<h3> <span style="color:white;">Method 1</span></h3>
+<h3> Method 1</h3>
 <p>If your game folder contains non-original files, this prompt might appear for you. Check that theres only original files like the next example:</p>
 <p><img src="/assets/images/docs/202312/launcher.png" alt="" loading="lazy"></p>
 <p><img src="/assets/images/docs/202312/folder1.png" alt="" loading="lazy"></p>
 <p>If you keep getting the error in-game even after deleting the files continue reading.</p>
-<h3> <span style="color:white;">Method 2</span></h3>
+<h3> Method 2</h3>
 <p>Go to your Korepi, go to <code>Settings --&gt; Other</code>.</p>
 <p><img src="/assets/images/docs/202312/settings1.png" alt="" loading="lazy"></p>
 <p>Find <code>Bypass Intengrity</code> and uncheck it.</p>
 <p><img src="/assets/images/docs/202312/settings2.png" alt="" loading="lazy"></p>
 <p>Now the error should disapear.</p>
-<h2> <span style="color:white;">What if i can't enter Korepi</span></h2>
+<h2> What if i can't enter Korepi</h2>
 <p>Head to your Korepi folder and find <code>cfg.json</code>, and click <code>CTRL + F</code>, type <code>bypass</code> and search, set the value to <code>false</code> and open Korepi.</p>
-<h2> <span style="color:white;">What if nothing works?</span></h2>
+<h2> What if nothing works?</h2>
 <p>You have to reinstall the game.</p>
 ]]></content:encoded>
       <enclosure url="https://korepi.com/assets/images/docs/202312/31-4302.png" type="image/png"/>
@@ -1197,7 +1213,7 @@ Note 2: Not recommended to use.</p>
       <description>Catalog List of frequent Injector errors (faq-error.md); How to solve error 31-4302 (31-4302.md);</description>
       <category>Troubleshoot</category>
       <pubDate>Wed, 13 Dec 2023 02:00:05 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> <span style="color:white;">Catalog</span></h2>
+      <content:encoded><![CDATA[<h2> Catalog</h2>
 <ul>
 <li>
 <p><a href="/en/troubleshoot/faq-error.html" target="blank">List of frequent Injector errors</a></p>
@@ -1216,15 +1232,15 @@ Note 2: Not recommended to use.</p>
       <description>List of frequent errors Why my korepi disappears? Make sure you got your anti-virus disabled, create a new folder and add it to exclusions. Extract korepi inside the excluded fo...</description>
       <category>Troubleshoot</category>
       <pubDate>Wed, 13 Dec 2023 02:00:05 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> <span style="color:white;">List of frequent errors</span></h2>
-<h2> <span style="color:white;">Why my korepi disappears?</span></h2>
+      <content:encoded><![CDATA[<h2> List of frequent errors</h2>
+<h2> Why my korepi disappears?</h2>
 <p>Make sure you got your anti-virus disabled, create a new folder and add it to exclusions.</p>
 <p><img src="/assets/images/docs/202312/virus.png" alt="" loading="lazy"></p>
 <p>Extract korepi inside the excluded folder and run again.</p>
-<h2> <span style="color:white;">Status: No active subscribtion(s) found, Invalid license key</span></h2>
+<h2> Status: No active subscribtion(s) found, Invalid license key</h2>
 <p>You need to <a href="/en/guide/getkey.html" target="blank">get a new key</a> from <code>⁠★⋅micah-bot-verify⋅★</code>, if you can't get a key or if the key doesn't work, you have to wait till key expiration.</p>
 <p><code>Sponsors can use F:Reset Key instead</code></p>
-<h2> <span style="color:white;">[DLL injection]  Process crashed, exit code 0xc000005</span></h2>
+<h2> [DLL injection]  Process crashed, exit code 0xc000005</h2>
 <p>Open <code>cmd</code> as administrator and write the following command:</p>
 <p><code>sfc /scannow</code></p>
 <p>After that, if errors were found, restart the computer and check.
@@ -1232,23 +1248,23 @@ If after restarting it did not help or no errors were found, write this command:
 <p><code>DISM.exe /Online /Cleanup-Image /RestoreHealth</code></p>
 <p>After completing the checks, restart the computer and check.</p>
 <p>If it doesn't work, reinstall Windows.</p>
-<h2> <span style="color:white;">ImGUI: DirectX11 backend initialized successfully.</span></h2>
+<h2> ImGUI: DirectX11 backend initialized successfully.</h2>
 <p>Error occurs because of themes installed, clear the <code>themes</code> folder.</p>
-<h2> <span style="color:white;">The system did not detect MSVCP140.dll</span></h2>
+<h2> The system did not detect MSVCP140.dll</h2>
 <p>Update <a href="https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170#visual-studio-2015-2017-2019-and-2022" target="_blank" rel="noopener noreferrer">Microsoft Visual Studio C++</a></p>
 <p>Update <a href="https://www.microsoft.com/en-us/download/details.aspx?id=35" target="_blank" rel="noopener noreferrer">DirectX</a></p>
-<h2> <span style="color:white;">File corrupted! This program has been manipulated and maybe it's infected.</span></h2>
+<h2> File corrupted! This program has been manipulated and maybe it's infected.</h2>
 <p><img src="/assets/images/docs/202312/virus2.png" alt="" loading="lazy"></p>
 <p>In this case, you can try using <code>Malware Bytes</code> or <code>Dr.Web</code> to do a full scan, if any virus is found, remove them, restart and try again. If it doesn't work, reinstall Windows is the easiest way to solve this issue.</p>
-<h2> <span style="color:white;">Timeout was reached</span></h2>
+<h2> Timeout was reached</h2>
 <p><img src="/assets/images/docs/202312/error1.png" alt="" loading="lazy"></p>
 <p>Reboot your router.</p>
 <p>An antivirus may be blocking the connection, make sure that is not in the Task Manager.</p>
 <p>Use a VPN and try again.</p>
 <p>Turn off all applications that affect the firewall. If nothing works, then you might have some problems with the network.</p>
-<h2> <span style="color:white;">DLL Injection failed</span></h2>
+<h2> DLL Injection failed</h2>
 <p>Uninstall colorpicker folder and download colorpicker again.</p>
-<h2> <span style="color:white;">Windows cannot access the specified device, path, or file</span></h2>
+<h2> Windows cannot access the specified device, path, or file</h2>
 <p><img src="/assets/images/docs/202312/error2.png" alt="" loading="lazy"></p>
 <p>At first go to <a href="https://support.microsoft.com/en-us/topic/-windows-cannot-access-the-specified-device-path-or-file-error-when-you-try-to-install-update-or-start-a-program-or-file-46361133-47ed-6967-c13e-e75d3cc29657" target="_blank" rel="noopener noreferrer">HERE</a> and follow the steps on that post.</p>
 <p>Also after going to the solutions on the post, download an antivirus like <code>Dr.Web</code> or <code>Malware bytes</code> and run a full system check!</p>
@@ -1258,21 +1274,21 @@ If after restarting it did not help or no errors were found, write this command:
 <p><code>DISM.exe /Online /Cleanup-Image /RestoreHealth</code></p>
 <p>After completing the checks, restart the computer and check again.</p>
 <p>If it doesn't work, reinstall Windows.</p>
-<h2> <span style="color:white;">Signature checksum failed</span></h2>
+<h2> Signature checksum failed</h2>
 <p><img src="/assets/images/docs/202312/checksum.png" alt="" loading="lazy"></p>
 <p>Servers are down or shut down, wait for servers to come back online.</p>
-<h2> <span style="color:white;">Failed to create game process with Error 5</span></h2>
+<h2> Failed to create game process with Error 5</h2>
 <p><img src="/assets/images/docs/202312/error3.png" alt="" loading="lazy"></p>
 <p>Delete <code>cfg.ini</code>.</p>
-<h2> <span style="color:white;">SSL connect error</span></h2>
+<h2> SSL connect error</h2>
 <p><img src="/assets/images/docs/202312/error4.png" alt="" loading="lazy"></p>
 <p>Restart your PC, restart your router.</p>
 <p>Try using a VPN if it doesn't work.</p>
-<h2> <span style="color:white;">Failed to detect game version</span></h2>
+<h2> Failed to detect game version</h2>
 <p>Update your injector, follow the steps <a href="/en/start/download.html" target="blank">here</a></p>
-<h2> <span style="color:white;">File ok</span></h2>
+<h2> File ok</h2>
 <p>Delete your cfg.json, something might be wrong with the file.</p>
-<h2> <span style="color:white;">UserAssembly.dll isn't initialized, waiting for 2 sec.</span></h2>
+<h2> UserAssembly.dll isn't initialized, waiting for 2 sec.</h2>
 <p>If your injector crashes after this line try the following steps:</p>
 <p>Turn off all anti-viruses in PC.</p>
 <p>If its doesn't help use <code>sfc /scannow</code> command in cmd as administrator.</p>
@@ -1290,26 +1306,26 @@ If after restarting it did not help or no errors were found, write this command:
       <description>How to get key for Network(F) Step 1: Get F Auth role Head to ★⋅korepi-version-roles⋅★ on the server and click on F Auth to get the role. Note: Check if you got the role, if you...</description>
       <category>Guide</category>
       <pubDate>Mon, 11 Dec 2023 23:46:39 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> <span style="color:white;">How to get key for Network(F)</span></h2>
+      <content:encoded><![CDATA[<h2> How to get key for Network(F)</h2>
 <iframe width="640" height="360" src="https://www.youtube.com/embed/-9bXOMH0-WM" title="Korepi - How to get V key" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
-<h3> <span style="color:white;">Step 1: Get F Auth role</span></h3>
+<h3> Step 1: Get F Auth role</h3>
 <p>Head to <code>★⋅korepi-version-roles⋅★</code> on the server and click on <code>F Auth</code> to get the role.</p>
 <p><code>Note: Check if you got the role, if you didn't click on F Auth again</code></p>
-<h3> <span style="color:white;">Step 2: Get your key</span></h3>
+<h3> Step 2: Get your key</h3>
 <p>Head to <code>⁠★⋅micah-bot-verify⋅★</code> and click on <code>F:Getkey</code>, the bot will reply with some information including the key, copy it.</p>
-<h3> <span style="color:white;">Step 3: Use your key</span></h3>
+<h3> Step 3: Use your key</h3>
 <p>Open Korepi, when it asks for your key, paste it and press enter, complete the steps mentioned by the injector and you should be good to go.</p>
 <p>Enjoy Koprepi!</p>
-<h2> <span style="color:white;">How to get key for Local(V)</span></h2>
+<h2> How to get key for Local(V)</h2>
 <iframe width="640" height="360" src="https://www.youtube.com/embed/OTCSboZdexc" title="Korepi - How to get V key" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
-<h3> <span style="color:white;">Step 1: Get V Auth role</span></h3>
+<h3> Step 1: Get V Auth role</h3>
 <p>Head to <code>★⋅korepi-version-roles⋅★</code> on the server and click on <code>V Auth</code> to get the role.</p>
 <p><code>Note: Check if you got the role, if you didn't click on V Auth again</code></p>
-<h3> <span style="color:white;">Step 2: Get your <code>HWID</code></span></h3>
+<h3> Step 2: Get your <code>HWID</code></h3>
 <p>To get your <code>HWID</code> you will need to open <code>Local(V) Injector</code> once, and it will copy it to your clipboard</p>
-<h3> <span style="color:white;">Step 3: Get your <code>enc.json</code></span></h3>
+<h3> Step 3: Get your <code>enc.json</code></h3>
 <p>Head to <code>⁠★⋅micah-bot-verify⋅★</code> and click on <code>V:Verify</code>, a pop up will ask you for your <code>HWID</code> paste and click <code>Submit</code>, and download the file sent by the bot</p>
-<h3> <span style="color:white;">Step 4: Place your file with Korepi</span></h3>
+<h3> Step 4: Place your file with Korepi</h3>
 <p>After getting the file, place it on your Korepi folder, keep in mind that the file should be name <code>enc.json</code> in order to work, open Korepi and then:</p>
 <p>Enjoy Korepi!</p>
 ]]></content:encoded>
@@ -1322,12 +1338,12 @@ If after restarting it did not help or no errors were found, write this command:
       <description>How to install custom Skins in GIMI Step 1: Download the Skin Head to Gamebanana (https://gamebanana.com/games/8552) and download a skin of your choice. Step 2: Install the Skin...</description>
       <category>Guide</category>
       <pubDate>Sun, 10 Dec 2023 01:50:24 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> <span style="color:white;">How to install custom Skins in <code>GIMI</code></span></h2>
-<h3> <span style="color:white;">Step 1: Download the Skin</span></h3>
+      <content:encoded><![CDATA[<h2> How to install custom Skins in <code>GIMI</code></h2>
+<h3> Step 1: Download the Skin</h3>
 <p>Head to <a href="https://gamebanana.com/games/8552" target="_blank" rel="noopener noreferrer">Gamebanana</a> and download a skin of your choice.</p>
-<h3> <span style="color:white;">Step 2: Install the Skin</span></h3>
+<h3> Step 2: Install the Skin</h3>
 <p>We will head to our <code>GIMI</code> folder and look for <code>Mods</code> folder, inside that folder we will extract the file we just downloaded.</p>
-<h3> <span style="color:white;">Step 3: Apply the skin</span></h3>
+<h3> Step 3: Apply the skin</h3>
 <p>If we are already inside the game we will use <code>F10</code> to reload the Skins, if not, we will open the game following the <a href="/en/guide/3DM-tutorial.html" target="blank">last post</a> and the skin should be applied.</p>
 ]]></content:encoded>
     </item>
@@ -1343,31 +1359,31 @@ If after restarting it did not help or no errors were found, write this command:
 <p class="hint-container-title">If GIMI shows `echo off` on the cmd, you can just press `Numpad 0` to remove it, you can also edit `d3dx.ini` and search for `hunting=` and set to `0`.</p>
 </div>
 <hr>
-<h2> <span style="color:white;">How to use custom Skins in Korepi</span></h2>
+<h2> How to use custom Skins in Korepi</h2>
 <p><img src="/assets/images/docs/202312/example.png" alt="" loading="lazy">
 In order to use custom skins in we will need to download:</p>
 <p><code>3DMigoto(GIMI)</code>.</p>
 <h2> <span style="color:blue;">Method 1</span></h2>
-<h3> <span style="color:white;">Step 1: Download <code>GIMI</code></span></h3>
+<h3> Step 1: Download <code>GIMI</code></h3>
 <p>Download <code>GIMI</code> in their oficial <a href="https://github.com/SilentNightSound/GI-Model-Importer/releases/tag/v7.0" target="_blank" rel="noopener noreferrer">Github</a> and download the file named: <code>3dmigoto-GIMI-for-playing-mods.zip</code>.</p>
 <p><img src="/assets/images/docs/202312/3dm-1.png" alt="" loading="lazy"></p>
-<h3> <span style="color:white;">Step 2: Extract <code>GIMI</code> into a folder</span></h3>
+<h3> Step 2: Extract <code>GIMI</code> into a folder</h3>
 <p>After downloading <code>GIMI</code>, we will need to extract it into any folder of your choice, inside that folder you will find <code>d3d11.dll</code>, we will copy the path and add <code>/d3d11.dll</code> to the end, for example:</p>
 <p><code>"path/d3d11.dll"</code></p>
-<h3> <span style="color:white;">Step 3: Add <code>GIMI</code> to Korepi</span></h3>
+<h3> Step 3: Add <code>GIMI</code> to Korepi</h3>
 <p>To do this we will need to add the next lines in <code>cfg.ini</code> inside korepi folder.</p>
 <p><img src="/assets/images/docs/202312/3dm-2.png" alt="" loading="lazy"></p>
 <p>On <code>DllPath</code> we will paste the path we copied in the last step.</p>
 <p><img src="/assets/images/docs/202312/3dm-3.png" alt="" loading="lazy"></p>
-<h3> <span style="color:white;">Step 4: Open Korepi</span></h3>
+<h3> Step 4: Open Korepi</h3>
 <p>If you followed the steps right, Korepi should launch with <code>GIMI</code> every time.</p>
 <h2> <span style="color:blue;">Method 2</span></h2>
-<h3> <span style="color:white;">Step 1: Download <code>GIMI</code></span></h3>
+<h3> Step 1: Download <code>GIMI</code></h3>
 <p>Download <code>GIMI</code> in their oficial <a href="https://github.com/SilentNightSound/GI-Model-Importer/releases/tag/v7.0" target="_blank" rel="noopener noreferrer">Github</a> and download the file named: <code>3dmigoto-GIMI-for-playing-mods.zip</code>.</p>
 <p><img src="/assets/images/docs/202312/3dm-1.png" alt="" loading="lazy"></p>
-<h3> <span style="color:white;">Step 2: Extract <code>GIMI</code> into a folder</span></h3>
+<h3> Step 2: Extract <code>GIMI</code> into a folder</h3>
 <p>After downloading <code>GIMI</code>, we will need to extract it into any folder of your choice, inside that folder you will find <code>3DMigoto Loader.exe</code>, we will run this file first.</p>
-<h3> <span style="color:white;">Step 4: Open Korepi</span></h3>
+<h3> Step 4: Open Korepi</h3>
 <p>After running <code>GIMI</code>, we will run Korepi, <code>GIMI</code> will be loaded with Korepi after this, you will need to repeat these steps every time you want to launch Korepi with <code>GIMI</code>.</p>
 ]]></content:encoded>
       <enclosure url="https://korepi.com/assets/images/docs/202312/example.png" type="image/png"/>
@@ -1380,23 +1396,23 @@ In order to use custom skins in we will need to download:</p>
       <description>How to use custom TP Step 1: Settings to use We will use the following settings. The recommended delay time is &amp;gt;15s. Step 2: Download the .json files for the custom tp We can fi...</description>
       <category>Guide</category>
       <pubDate>Sun, 10 Dec 2023 01:50:24 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> <span style="color:white;">How to use custom TP</span></h2>
-<h3> <span style="color:white;">Step 1: Settings to use</span></h3>
+      <content:encoded><![CDATA[<h2> How to use custom TP</h2>
+<h3> Step 1: Settings to use</h3>
 <p>We will use the following settings.</p>
 <p><img src="/assets/images/docs/202312/teleport1.png" alt="" loading="lazy"></p>
 <p>The recommended delay time is &gt;15s.</p>
-<h3> <span style="color:white;">Step 2: Download the <code>.json</code> files for the custom tp</span></h3>
+<h3> Step 2: Download the <code>.json</code> files for the custom tp</h3>
 <p>We can find these files in <code>community-share</code> pinned post in the server. Download the ones that suits your needs.</p>
-<h3> <span style="color:white;">Step 3: Select the tp files</span></h3>
+<h3> Step 3: Select the tp files</h3>
 <p>Head to custom tp settings and go to this section:</p>
 <p><img src="/assets/images/docs/202312/teleport2.png" alt="" loading="lazy"></p>
 <p>Click on select path and select the folder containing the tp files you want to use.</p>
-<h3> <span style="color:white;">Step 4: How to start the tps</span></h3>
+<h3> Step 4: How to start the tps</h3>
 <p>After selecting the folder, check this checkbox:</p>
 <p><img src="/assets/images/docs/202312/teleport3.png" alt="" loading="lazy"></p>
 <p>After that we click on <code>Select</code>:</p>
 <p><img src="/assets/images/docs/202312/teleport4.png" alt="" loading="lazy"></p>
-<h3> <span style="color:white;">Step 5: Enjoy the ride</span></h3>
+<h3> Step 5: Enjoy the ride</h3>
 <p>The TPs will start automatically, if you got <a href="/en/start/sponsor.html" target="blank">Sponsor</a>, you will be able to see the progress and remaining time.</p>
 ]]></content:encoded>
       <enclosure url="https://korepi.com/assets/images/docs/202312/teleport1.png" type="image/png"/>
@@ -1409,7 +1425,7 @@ In order to use custom skins in we will need to download:</p>
       <description>How to Multi-instance (Open 2 game window at the same time) Only works with Local(V) version</description>
       <category>Guide</category>
       <pubDate>Fri, 08 Dec 2023 00:39:01 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> <span style="color:white;">How to Multi-instance (Open 2 game window at the same time)</span></h2>
+      <content:encoded><![CDATA[<h2> How to Multi-instance (Open 2 game window at the same time)</h2>
 <div class="hint-container info">
 <p class="hint-container-title">Only works with Local(V) version</p>
 </div>
@@ -1425,32 +1441,32 @@ In order to use custom skins in we will need to download:</p>
       <description>Reset HWID: Network(F) Step 1: Enter Korepi login page Please head to Korepi Login Page (https://keyauth.cc/panel/Strigger/Korepi) Warning: Don&amp;apos;t do anything yet. Step 2: Get yo...</description>
       <category>Guide</category>
       <pubDate>Fri, 08 Dec 2023 00:39:01 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> <span style="color:white;">Reset HWID: Network(F)</span></h2>
+      <content:encoded><![CDATA[<h2> Reset HWID: Network(F)</h2>
 <iframe width="640" height="360" src="https://www.youtube.com/embed/DRSEmYsl4F4" title="how to change hwid for F" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
-<h3> <span style="color:white;">Step 1: Enter Korepi login page</span></h3>
+<h3> Step 1: Enter Korepi login page</h3>
 <p>Please head to <a href="https://keyauth.cc/panel/Strigger/Korepi" target="_blank" rel="noopener noreferrer">Korepi Login Page</a>
 Warning: Don't do anything yet.</p>
-<h3> <span style="color:white;">Step 2: Get your key</span></h3>
+<h3> Step 2: Get your key</h3>
 <p>Get your key from your <code>license.json</code> or head to <code>★⋅micah-bot-verify⋅★</code> and click on <code>F: Getkey</code> to get your current key.</p>
-<h3> <span style="color:white;">Step 3: Login in Korepi</span></h3>
+<h3> Step 3: Login in Korepi</h3>
 <p>After getting your key, head to <a href="https://keyauth.cc/panel/Strigger/Korepi" target="_blank" rel="noopener noreferrer">Korepi Login Page</a>, and paste your key on both fields, click on login, after that, click on <code>Reset HWID</code>.</p>
-<h3> <span style="color:white;">Step 4: Open Injector</span></h3>
+<h3> Step 4: Open Injector</h3>
 <p>After your HWID reset, head to your injector and paste your key once again.</p>
 <p>Enjoy Korepi again!</p>
-<h2> <span style="color:white;">Reset HWID: Network(F) (Sponsor)</span></h2>
+<h2> Reset HWID: Network(F) (Sponsor)</h2>
 <iframe width="640" height="360" src="https://www.youtube.com/embed/WCuRAyqWMHg" title="Reset HWID F version (Sponsor)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
-<h3> <span style="color:white;">Step 1: Head to <code>★⋅micah-bot-verify⋅★</code> channel</span></h3>
+<h3> Step 1: Head to <code>★⋅micah-bot-verify⋅★</code> channel</h3>
 <p>Head to <code>★⋅micah-bot-verify⋅★</code> channel and click on <code>F:Reset Key</code>, after that click on <code>F:Getkey</code> to recieve your new key.</p>
-<h3> <span style="color:white;">Step 2: Replace your old key</span></h3>
+<h3> Step 2: Replace your old key</h3>
 <p>Go to your korepi folder and delete <code>license.json</code>, after that open Korepi and paste in the new key you got.</p>
 <p>Enjoy Korepi!</p>
-<h2> <span style="color:white;">Reset HWID: Local(V) (Sponsor)</span></h2>
+<h2> Reset HWID: Local(V) (Sponsor)</h2>
 <iframe width="640" height="360" src="https://www.youtube.com/embed/q0G9UZHErrg?list=PL5eI1Tb64p56Mp6JqoR_o3BYk9UFTbOQI" title="How to reset Local V HWID" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
-<h3> <span style="color:white;">Step 1: Get your current HWID</span></h3>
+<h3> Step 1: Get your current HWID</h3>
 <p>To get your current HWID, you will need to open your <code>Local(V) injector</code>, and it will automatically copy your HWID into your clipboard.</p>
-<h3> <span style="color:white;">Step 2: Find <code>★⋅micah-bot-verify⋅★</code> channel</span></h3>
+<h3> Step 2: Find <code>★⋅micah-bot-verify⋅★</code> channel</h3>
 <p>After finding <code>★⋅micah-bot-verify⋅★</code>, click on <code>V:Change HWID</code>, a window will pop up asking for your current HWID, paste it and click <code>Submit</code>.</p>
-<h3> <span style="color:white;">Step 3: Get your new <code>enc.json</code></span></h3>
+<h3> Step 3: Get your new <code>enc.json</code></h3>
 <p>After your HWID reset, click on <code>V:Verify</code> and paste your current HWID into the window and click <code>Submit</code>. Now download the new <code>enc.json</code> and replace the file in your Korepi folder.</p>
 <p>Note: Remember that the file name has to be <code>enc.json</code>.</p>
 ]]></content:encoded>
@@ -1463,7 +1479,7 @@ Warning: Don't do anything yet.</p>
       <description>Player Critical Hit Rate Probabilities (https://www.youtube.com/watch?v=ByucMEL7pXM&amp;list=PL5eI1Tb64p54t7LyUaudX0ume6HbS4ikD&amp;index=1&amp;pp=iAQB); Extra Movement (https://www.youtube...</description>
       <category>Guide</category>
       <pubDate>Fri, 08 Dec 2023 00:39:01 GMT</pubDate>
-      <content:encoded><![CDATA[<h3> <span style="color:white;">Player</span></h3>
+      <content:encoded><![CDATA[<h3> Player</h3>
 <ul>
 <li><a href="https://www.youtube.com/watch?v=ByucMEL7pXM&amp;list=PL5eI1Tb64p54t7LyUaudX0ume6HbS4ikD&amp;index=1&amp;pp=iAQB" target="_blank" rel="noopener noreferrer">Critical Hit Rate Probabilities</a></li>
 <li><a href="https://www.youtube.com/watch?v=wMd9icqhFQg&amp;list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa&amp;index=5&amp;pp=iAQB" target="_blank" rel="noopener noreferrer">Extra Movement</a></li>
@@ -1477,14 +1493,14 @@ Warning: Don't do anything yet.</p>
 </li>
 <li><a href="https://www.youtube.com/watch?v=Gh2GX23E6dw&amp;list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa&amp;index=21&amp;pp=iAQB" target="_blank" rel="noopener noreferrer">Bunny Hop</a></li>
 </ul>
-<h3> <span style="color:white;">World</span></h3>
+<h3> World</h3>
 <ul>
 <li><a href="https://www.youtube.com/watch?v=qstBErr9mJ0&amp;list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa&amp;index=22&amp;pp=iAQB" target="_blank" rel="noopener noreferrer">Auto Activate Waypoint</a></li>
 <li><a href="https://www.youtube.com/watch?v=v95_NOxc4do&amp;list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa&amp;index=31&amp;pp=iAQB" target="_blank" rel="noopener noreferrer">Auto Tree Farm</a></li>
 <li><a href="https://www.youtube.com/watch?v=FskTJiknOgQ&amp;list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa&amp;index=32&amp;pp=iAQB" target="_blank" rel="noopener noreferrer">Elemental Aura</a></li>
 <li><a href="https://www.youtube.com/watch?v=fF6LC552cvY&amp;list=PL5eI1Tb64p54t7LyUaudX0ume6HbS4ikD&amp;index=2&amp;pp=iAQB" target="_blank" rel="noopener noreferrer">Skip Dialog (Safer than Fast Dialog)</a></li>
 </ul>
-<h3> <span style="color:white;">Visual</span></h3>
+<h3> Visual</h3>
 <ul>
 <li><a href="https://www.youtube.com/watch?v=S9-g5weE9l8&amp;list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa&amp;index=37&amp;pp=iAQB" target="_blank" rel="noopener noreferrer">Constellation Modifier</a></li>
 <li><a href="https://youtu.be/EtRT95qEW6Y?si=v2AoRfRnjYrR93J5" target="_blank" rel="noopener noreferrer">Hide UI</a></li>
@@ -1502,16 +1518,16 @@ Warning: Don't do anything yet.</p>
       <description>Introduction Welcome to our community! To pass the bot check and receive the Newcomer role, follow these steps. Step 1: Join our server and obtain the Newcomer and Fans roles If...</description>
       <category>Guide</category>
       <pubDate>Thu, 30 Nov 2023 10:24:26 GMT</pubDate>
-      <content:encoded><![CDATA[<h1> <span style="color:white;">Download</span></h1>
-<h2> <span style="color:white;">Introduction</span></h2>
+      <content:encoded><![CDATA[<h1> Download</h1>
+<h2> Introduction</h2>
 <p>Welcome to our community! To pass the bot check and receive the <code>Newcomer</code> role, follow these steps.</p>
-<h3> <span style="color:white;">Step 1: Join our server and obtain the <code>Newcomer</code> and <code>Fans</code> roles</span></h3>
+<h3> Step 1: Join our server and obtain the <code>Newcomer</code> and <code>Fans</code> roles</h3>
 <p>If you haven't joined the server yet, please read the verification post, which describes how to join the server and obtain the <code>Newcomer</code> and <code>Fans</code> roles.</p>
-<h3> <span style="color:white;">Step 2: Go to the channel <code>★⋅korepi-version-roles⋅★</code></span></h3>
+<h3> Step 2: Go to the channel <code>★⋅korepi-version-roles⋅★</code></h3>
 <p>Locate the channel <code>★⋅korepi-version-roles⋅★</code> and choose either the F or V version role. We recommend selecting the F role.</p>
-<h3> <span style="color:white;">Step 3: Download the necessary resources</span></h3>
+<h3> Step 3: Download the necessary resources</h3>
 <p>Once you've done that, you will gain access to the corresponding download channel: <code>★⋅f-download⋅★</code> or <code>★⋅v-download⋅★</code>.</p>
-<h3> <span style="color:white;">Step 4: Ready!</span></h3>
+<h3> Step 4: Ready!</h3>
 <p>In the channel, you will find a link to the current version and the password for the archive. Good luck!</p>
 ]]></content:encoded>
     </item>
@@ -1523,21 +1539,21 @@ Warning: Don't do anything yet.</p>
       <description>How to become a Sponsor? To becoming a Sponsor, you need to donate atleast $5 or equivalent if you are using another currency. Where to donate? Once you already in the server, p...</description>
       <category>Guide</category>
       <pubDate>Sat, 25 Nov 2023 16:34:42 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> <span style="color:white;">How to become a</span> <span style="color:yellow;">Sponsor</span><span style="color:white;">?</span></h2>
+      <content:encoded><![CDATA[<h2> How to become a <span style="color:yellow;">Sponsor</span>?</h2>
 <p>To becoming a Sponsor, you need to donate atleast $5 or equivalent if you are using another currency.</p>
-<h2> <span style="color:white;">Where to donate?</span></h2>
+<h2> Where to donate?</h2>
 <p>Once you already in the server, please go to <a href="https://discord.com/channels/1069057220802781265/1097565269985071205" target="_blank" rel="noopener noreferrer">#sponsorship</a> channel. Choose one of the links you prefer to donate. Please make sure to screenshot the process as proof for the next step.</p>
-<h2> <span style="color:white;">What to do after I done donated?</span></h2>
+<h2> What to do after I done donated?</h2>
 <p>If you already donated, you can send your proof to any available moderators. Please make sure to provide screenshots or donation link as proof.</p>
 <p><a href="https://postimg.cc/MnTYS5cN" target="_blank" rel="noopener noreferrer"><img src="https://i.postimg.cc/3xjf2b38/proof.png" alt="" loading="lazy"></a></p>
-<h2> <span style="color:white;">(FOR NON-FANS) How to claim Fans role after donation?</span></h2>
+<h2> (FOR NON-FANS) How to claim Fans role after donation?</h2>
 <p>If you are a Sponsor and do not have Fans role, you can skip the 7-days sign-in and claim the role instantly</p>
-<h3> <span style="color:white;">Step 1: Open a ticket</span></h3>
+<h3> Step 1: Open a ticket</h3>
 <p>To do that, you need to go to #ticket-start channel (only visible when you already have Sponsor).</p>
 <p><a href="https://postimg.cc/dLD6D8jC" target="_blank" rel="noopener noreferrer"><img src="https://i.postimg.cc/NfkzJDyd/openticket1.png" alt="" loading="lazy"></a></p>
 <p>Once you click on 'open', you will see a new channel under the ticket channel.</p>
 <p><a href="https://postimg.cc/sMhJ4s8D" target="_blank" rel="noopener noreferrer"><img src="https://i.postimg.cc/Vk7H1NWM/openticket2.png" alt="" loading="lazy"></a></p>
-<h3> <span style="color:white;">Step 2: Answer short survey</span></h3>
+<h3> Step 2: Answer short survey</h3>
 <p>Press the 'form link' button to answer the survey.</p>
 <p><a href="https://postimg.cc/mzbN4Mrt" target="_blank" rel="noopener noreferrer"><img src="https://i.postimg.cc/qRKm8xVX/openticket4.png" alt="" loading="lazy"></a></p>
 <p>Once you are done with the survey, do not forget to press 'Submit' button.</p>
@@ -1554,7 +1570,7 @@ Warning: Don't do anything yet.</p>
       <description>CatalogJoining the Server (join.md); Verification (verify.md); Obtaining the Fans Role (sign-in.md); Becoming a Sponsor (sponsor.md); Sponsor Exclusive Features (sponsor-ex...</description>
       <category>Guide</category>
       <pubDate>Fri, 24 Nov 2023 14:31:46 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> <span style="color:white;">Catalog</span></h2>
+      <content:encoded><![CDATA[<h2> Catalog</h2>
 <ul>
 <li>
 <p><a href="/en/start/join.html" target="blank">Joining the Server</a></p>
@@ -1585,13 +1601,13 @@ Warning: Don't do anything yet.</p>
       <description>Introduction Welcome to our community! To join the Discord server and start using Korepi, follow these steps. Step 1: Create a Discord Account If you don&amp;apos;t have a Discord accoun...</description>
       <category>Guide</category>
       <pubDate>Fri, 24 Nov 2023 14:31:46 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> <span style="color:white;">Introduction</span></h2>
+      <content:encoded><![CDATA[<h2> Introduction</h2>
 <p>Welcome to our community! To join the Discord server and start using Korepi, follow these steps.</p>
-<h3> <span style="color:white;">Step 1: Create a Discord Account</span></h3>
+<h3> Step 1: Create a Discord Account</h3>
 <p>If you don't have a Discord account yet, start by creating a new one. Visit the <a href="https://discord.com/" target="_blank" rel="noopener noreferrer">official Discord website</a> and follow the registration instructions.</p>
-<h3> <span style="color:white;">Step 2: Download and Install Discord</span></h3>
+<h3> Step 2: Download and Install Discord</h3>
 <p>After creating an account, download the <a href="https://discord.com/download" target="_blank" rel="noopener noreferrer">Discord client</a> for your operating system. Install the client following the on-screen instructions.</p>
-<h3> <span style="color:white;">Step 3: Joining the Server</span></h3>
+<h3> Step 3: Joining the Server</h3>
 <ol>
 <li>Copy the <a href="https://discord.gg/cottonbuds" target="_blank" rel="noopener noreferrer">invitation link</a> for the Discord server provided by the administrator.</li>
 <li>In the Discord client, click the "+" button in the bottom left corner.</li>
@@ -1609,15 +1625,15 @@ Warning: Don't do anything yet.</p>
       <description>Introduction Welcome to our community! To register and obtain the &amp;quot;Fans&amp;quot; role, follow these steps. Step 1: Join our server and get the &amp;quot;Newcomer&amp;quot; role if you haven&amp;apos;t already If ...</description>
       <category>Guide</category>
       <pubDate>Fri, 24 Nov 2023 14:31:46 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> <span style="color:white;">Introduction</span></h2>
+      <content:encoded><![CDATA[<h2> Introduction</h2>
 <p>Welcome to our community! To register and obtain the "Fans" role, follow these steps.</p>
-<h3> <span style="color:white;">Step 1: Join our server and get the "Newcomer" role if you haven't already</span></h3>
+<h3> Step 1: Join our server and get the "Newcomer" role if you haven't already</h3>
 <p>If you are not on the server yet, please read the previous post, where it is described how to join the server and get the "Newcomer" role.</p>
-<h3> <span style="color:white;">Step 2: Find the bot</span></h3>
+<h3> Step 2: Find the bot</h3>
 <p>Now you need to find the bot with the image of a goose and write to him in direct messages (micah-sign-bot#0245).</p>
-<h3> <span style="color:white;">Step 3: Getting started</span></h3>
+<h3> Step 3: Getting started</h3>
 <p>Write him the command <code>/sign-in</code>, solve the captcha. Note: if the bot does not respond to your captcha request, you probably entered it incorrectly. Try writing the captcha again (without the command). After successful input, the bot will send you the message "Consecutive &lt; days &gt; days".</p>
-<h3> <span style="color:white;">Step 4: After receiving the "Fans" role</span></h3>
+<h3> Step 4: After receiving the "Fans" role</h3>
 <p>So now you need to enter this command every day for 7 days (every 24 hours). Note that if you make a mistake by a couple of hours, the bot will consider that you did not mark and reset your days. On the 7th day of check-ins, you will be given the "Fans" role, and you can stop checking in.</p>
 ]]></content:encoded>
     </item>
@@ -1629,15 +1645,15 @@ Warning: Don't do anything yet.</p>
       <description>Introduction Welcome to our community! To pass the bot verification and obtain the &amp;quot;Newcomer&amp;quot; role, follow these steps. Step 1: Join our server if you haven&amp;apos;t already If you are...</description>
       <category>Guide</category>
       <pubDate>Fri, 24 Nov 2023 14:31:46 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> <span style="color:white;">Introduction</span></h2>
+      <content:encoded><![CDATA[<h2> Introduction</h2>
 <p>Welcome to our community! To pass the bot verification and obtain the "Newcomer" role, follow these steps.</p>
-<h3> <span style="color:white;">Step 1: Join our server if you haven't already</span></h3>
+<h3> Step 1: Join our server if you haven't already</h3>
 <p>If you are not on the server yet, please read the previous post, where it is described how to join the server.</p>
-<h3> <span style="color:white;">Step 2: So, you are on the server</span></h3>
+<h3> Step 2: So, you are on the server</h3>
 <p>Now that you are on the server, choose the necessary channels and roles from the list, then go to the ★⋅rules⋅★ channel.</p>
-<h3> <span style="color:white;">Step 3: ★⋅rules⋅★ channel</span></h3>
+<h3> Step 3: ★⋅rules⋅★ channel</h3>
 <p>In the rules channel, familiarize yourself with the rules and undergo verification to confirm that you are not a bot. Find the "Verify" button, click on it, and the bot will send you a link that you need to follow and confirm that you are not a bot.</p>
-<h3> <span style="color:white;">Step 4: After receiving the "Newcomer" role</span></h3>
+<h3> Step 4: After receiving the "Newcomer" role</h3>
 <p>After successful verification, the bot will assign you the "Newcomer" role. With this role, you will not be kicked by the bot without valid reasons. Now proceed to the next step.</p>
 ]]></content:encoded>
     </item>
@@ -1649,7 +1665,7 @@ Warning: Don't do anything yet.</p>
       <description>CatalogHow to get key (getkey.md); How to reset HWID (resethwid.md); How to Multi-instance (multi-instance.md); How to use custom skins (3DM-tutorial.md); How to download s...</description>
       <category>Guide</category>
       <pubDate>Mon, 20 Nov 2023 12:30:39 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> <span style="color:white;">Catalog</span></h2>
+      <content:encoded><![CDATA[<h2> Catalog</h2>
 <ul>
 <li>
 <p><a href="/en/guide/getkey.html" target="blank">How to get key</a></p>
