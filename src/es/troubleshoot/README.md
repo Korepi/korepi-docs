@@ -8,8 +8,8 @@ tag:
 author: Schvis
 ---
 
-## Catalogo
+## <span style='color:white;'>Catalogo</span>
 
-- [Lista de errores frecuentes](faq-error.md)
+- [Lista de errores frecuentes del mod](faq-error.md)
   
 - [Como solucionar el error 31-4302](31-4302.md)

@@ -8,7 +8,7 @@ tag:
 author: rekiihype, Ikuyo, Natsume
 ---
 
-## Katalog
+## <span style='color:white;'>Katalog</span>
 
 - [Cara Get-Key](getkey.md)
 

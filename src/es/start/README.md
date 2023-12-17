@@ -8,7 +8,7 @@ tag:
 author: Schvis
 ---
 
-## Catalogo
+## <span style='color:white;'>Catalogo</span>
 
 - [Unirse al Servidor](join.md)
 

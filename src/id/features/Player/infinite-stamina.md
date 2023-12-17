@@ -6,6 +6,7 @@ category:
 tag:
   - Infinite Stamina
 author: Schvis, Natsume
+order: 8
 ---
 
 ## Infinite Stamina menonaktifkan konsumsi stamina untuk semua tindakan.

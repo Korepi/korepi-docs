@@ -6,6 +6,7 @@ category:
 tag:
   - Auto Run
 author: Schvis, Natsume
+order: 2
 ---
 
 ## Auto Run akan menggerakan player ke arah yang dihadap secara otomatis.

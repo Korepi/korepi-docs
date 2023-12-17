@@ -6,9 +6,11 @@ category:
 tag:
   - Elemental Aura
 author: Schvis, Natsume
+order: 10
 ---
-
-## Hanya Untuk Sponsor!
+::: info Hanya Untuk Sponsor!
+:::
+---
 ### Elemental Aura menerapkan elemen dengan elemen tertentu, jarak jangkau, dan waktu jeda yang ditentukan ke target, objek, atau diri Anda sendiri. Beberapa elemen dapat diterapkan pada target terdekat.
 
 ## Video contoh:

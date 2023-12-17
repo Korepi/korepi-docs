@@ -21,6 +21,12 @@ export const idNavbar = navbar([
         prefix: "guide/",
         children: ["resethwid", { text: "...", icon: "ellipsis", link: "#" }],
       },
+      {
+        text: "Fitur Yang Tersedia",
+        icon: "sitemap",
+        prefix: "features/",
+        children: ["", { text: "", icon: "ellipsis", link: "#" }],
+      },
     ],
   },
 ]);

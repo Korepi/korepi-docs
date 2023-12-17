@@ -8,7 +8,7 @@ tag:
 author: QweRez
 ---
 
-## Catalog
+## <span style='color:white;'>Catalog</span>
 
 - [Joining the Server](join.md)
 
