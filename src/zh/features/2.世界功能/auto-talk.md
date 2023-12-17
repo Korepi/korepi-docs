@@ -6,6 +6,7 @@ category:
 tag:
   - 自动对话
 author: Double
+order: 8
 ---
 
 ## 自动对话：自动跳过与NPC对话

@@ -6,6 +6,7 @@ category:
 tag:
   - 无敌模式
 author: Double
+order: 6
 ---
 
 ## 无敌模式：可以使角色无敌不受伤害.

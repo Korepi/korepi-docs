@@ -6,6 +6,7 @@ category:
 tag:
   - 全局加速
 author: Double
+order: 11
 ---
 
 ### 全局加速：游戏速度加快或减慢。

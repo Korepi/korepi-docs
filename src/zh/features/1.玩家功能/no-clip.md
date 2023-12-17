@@ -6,6 +6,7 @@ category:
 tag:
   - 自由移动
 author: Double
+order: 8
 ---
 
 ## 自由移动：将使角色不会发生碰撞，移动更快并可以飞行。

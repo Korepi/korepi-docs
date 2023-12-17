@@ -6,6 +6,7 @@ category:
 tag:
   - 无CD
 author: Double
+order: 3
 ---
 
 ## 无CD：修改技能的冷却时间。

@@ -6,6 +6,7 @@ category:
 tag:
   - 远程工具
 author: Double
+order: 9
 ---
 
 ##  <span style="color:#f1c40f;">赞助者专属</span>
@@ -27,7 +28,7 @@ author: Double
 - 生成锻造台：生成锻造台。
 - 自定义组合：将尝试使用当前字符组合所选项目。
 >注意：如果成功，将不会有提示。请检查库存。
->注2：你可以找到割草机I
+>你可以在GitHub上搜索割草机
 
 
 
