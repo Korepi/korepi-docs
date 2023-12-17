@@ -11,4 +11,4 @@ order: 15
 ::: info Its better to use [GIMI](../../guide/3DM-tutorial.md) for changing textures.
 :::
 ---
-## <span style='color:white;'>Texture Changer allows to switch character parts to the provided .png files.</span>
+## Texture Changer allows to switch character parts to the provided .png files.

@@ -11,9 +11,9 @@ order: 9
 ::: info Solo para Sponsor
 :::
 ---
-### <span style='color:white;'>Auto Madera permite golpear arboles cercanos para conseguir madera con rango, golpes y retraso personalizado.</span>
+### Auto Madera permite golpear arboles cercanos para conseguir madera con rango, golpes y retraso personalizado.
 
-## <span style='color:white;'>Video de Ejemplo:</span>
+## Video de Ejemplo:
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/v95_NOxc4do?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Tree Farm" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 

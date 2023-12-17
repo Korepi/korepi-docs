@@ -9,10 +9,10 @@ author: Schvis
 order: 7
 ---
 
-## <span style='color:white;'>Extra Visual Settings:</span>
-### <span style='color:white;'>Gamma:</span>
+## Extra Visual Settings:
+### Gamma:
 - Cambia el Gamma del juego.
-### <span style='color:white;'>Anchura de Contorno:</span>
+### Anchura de Contorno:
 - Cambia la anchura del contorno de todos los personajes.
-### <span style='color:white;'>Anti-Aliasing:</span>
+### Anti-Aliasing:
 - Cambia el modo de Anti-Aliasing por la selección del jugador, incluye algunas que no están disponibles dentro del juego.

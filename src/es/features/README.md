@@ -8,9 +8,9 @@ tag:
 author: Schvis
 ---
 
-## <span style='color:white;'>Lista de Funciones disponibles</span>
+## Lista de Funciones disponibles
 
-### <span style='color:white;'>Player</span>
+### Player
 - [Efectos de Ataque](Player/attack-effects.md)
 - [Auto Correr](Player/auto-run.md)
 - [Salto de Conejo](Player/bunny-hop.md)
@@ -23,14 +23,14 @@ author: Schvis
 - [Velocidad del Jugador](Player/player-speed.md)
 - [Utilidad Remota](Player/remote-utility.md)
 
-### <span style='color:white;'>Teleport</span>
+### Teleport
 - [Teletransporte de Oculus](Teleport/0culi-teleport.md)
 - [Teletransporte de Cofre](Teleport/chest-teleport.md)
 - [Teletransporte Personalizado](Teleport/custom-teleport.md)
 - [Teletransporte de Mapa](Teleport/map-teleport.md)
 - [Teletransporte de Misión](Teleport/quest-teleport.md)
 
-### <span style='color:white;'>World</span>
+### World
 - [Auto Activar Teletransportes](World/auto-activate-tp.md)
 - [Auto Desafío](World/auto-challenge.md)
 - [Auto Cocinar](World/auto-cook.md)

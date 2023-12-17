@@ -9,5 +9,5 @@ author: Schvis
 order: 9
 ---
 
-## <span style='color:white;'>Tiempo Falso:</span>
+## Tiempo Falso:
 - Cambia el tiempo dentro del juego a tu gusto.

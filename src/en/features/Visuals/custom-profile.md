@@ -9,19 +9,19 @@ author: Schvis
 order: 4
 ---
 
-## <span style='color:white;'>Custom Profile:</span>
+## Custom Profile:
 
-### <span style='color:white;'>UID:</span>
+### UID:
 - Select the UID you want to be displayed.
-### <span style='color:white;'>Nickname:</span>
+### Nickname:
 - Select the Nickname you want to be displayed.
-### <span style='color:white;'>Level:</span>
+### Level:
 - Select the Level you want to be displayed.
-### <span style='color:white;'>EXP:</span>
+### EXP:
 - Select the EXP you want to be displayed.
-### <span style='color:white;'>World Level:</span>
+### World Level:
 - Select the World Level you want to be displayed.
-### <span style='color:white;'>Avatar Image:</span>
+### Avatar Image:
 - Use a custom png as avatar image.
-### <span style='color:white;'>Card Image:</span>
+### Card Image:
 - Use a custom png as card image.

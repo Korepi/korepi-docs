@@ -9,6 +9,6 @@ author: Schvis
 order: 8
 ---
 
-## <span style='color:white;'>Unlocks FPS.Unlocks FPS yeah.Unlocks FPS wow.</span>
+## Unlocks FPS.Unlocks FPS yeah.Unlocks FPS wow.
 ### Limit background FPS:
 - Set the max fps game can reach when its not focused.

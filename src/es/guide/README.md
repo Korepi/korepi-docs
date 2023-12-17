@@ -8,7 +8,7 @@ tag:
 author: Schvis
 ---
 
-## <span style='color:white;'>Catalogo</span>
+## Catalogo
 
 - [Como conseguir la key](getkey.md)
   

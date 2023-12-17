@@ -9,19 +9,19 @@ author: Schvis
 order: 4
 ---
 
-## <span style='color:white;'>Perfil Personalizado:</span>
+## Perfil Personalizado:
 
-### <span style='color:white;'>UID:</span>
+### UID:
 - Cambia el UID a mostrar.
-### <span style='color:white;'>Nickname:</span>
+### Nickname:
 - Cambia el Nombre a mostrar.
-### <span style='color:white;'>Nivel:</span>
+### Nivel:
 - Cambia el Nivel a mostrar.
-### <span style='color:white;'>EXP:</span>
+### EXP:
 - Cambia la experiencia a mostrar.
-### <span style='color:white;'>Nivel de Mundo:</span>
+### Nivel de Mundo:
 - Cambia el Nivel de Mundo a mostrar.
-### <span style='color:white;'>Imagen de Avatar:</span>
+### Imagen de Avatar:
 - Cambia la imagen de avatar por un .png a seleccionar.
-### <span style='color:white;'>Imagen de Tarjeta:</span>
+### Imagen de Tarjeta:
 - Cambia la imagen de la tarjeta por un .png a seleccionar.

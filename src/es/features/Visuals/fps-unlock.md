@@ -9,6 +9,6 @@ author: Schvis
 order: 8
 ---
 
-## <span style='color:white;'>Desbloquea FPS.Si desbloquea FPS.Desbloquea FPS wow.</span>
+## Desbloquea FPS.Si desbloquea FPS.Desbloquea FPS wow.
 ### Limitar FPS de fondo:
 - Elige los fps máximos del juego cuando no estés dentro del juego

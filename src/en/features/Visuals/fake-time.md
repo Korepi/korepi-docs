@@ -9,5 +9,5 @@ author: Schvis
 order: 9
 ---
 
-## <span style='color:white;'>Fake Time:</span>
+## Fake Time:
 - Changes in game time, hour and minutes.

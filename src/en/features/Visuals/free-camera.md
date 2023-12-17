@@ -9,11 +9,11 @@ author: Schvis
 order: 11
 ---
 
-## <span style='color:white;'>Free Camera:</span>
+## Free Camera:
 - Move the camera freely without being locked to the character.
-### <span style='color:white;'>Freeze Character Animation:</span>
+### Freeze Character Animation:
 - Freezes character animations.
-### <span style='color:white;'>Make Character Invisible:</span>
+### Make Character Invisible:
 - Makes character invisible.
-### <span style='color:white;'>Block User Input:</span>
+### Block User Input:
 - Blocks user input therefore character wont move while moving the camera.

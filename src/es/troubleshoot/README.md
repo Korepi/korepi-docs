@@ -8,7 +8,7 @@ tag:
 author: Schvis
 ---
 
-## <span style='color:white;'>Catalogo</span>
+## Catalogo
 
 - [Lista de errores frecuentes del mod](faq-error.md)
   

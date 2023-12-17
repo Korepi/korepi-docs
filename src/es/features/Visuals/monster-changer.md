@@ -9,11 +9,11 @@ author: Schvis
 order: 13
 ---
 
-## <span style='color:white;'>Cambiador de Monstruos:</span>
+## Cambiador de Monstruos:
 - Cuando esta activo, cambia todo los nuevos monstruos al monstruo designado.
-### <span style='color:white;'>Excluir Animales:</span>
+### Excluir Animales:
 - Habilitar o Deshabilitar si cambiar animales a monstruos.
-### <span style='color:white;'>ID de Monstruo Personalizado:</span>
+### ID de Monstruo Personalizado:
 - Usa un ID en vez de la lista predeterminada.
-### <span style='color:white;'>Monstruo Aleatorio:</span>
+### Monstruo Aleatorio:
 - El monstruo que aparecerá sera aleatorio.

@@ -9,4 +9,4 @@ author: Schvis
 order: 14
 ---
 
-## <span style='color:white;'>Modificador de Pieles te permite cambiar la skin del personaje gratuitamente.</span>
+## Modificador de Pieles te permite cambiar la skin del personaje gratuitamente.

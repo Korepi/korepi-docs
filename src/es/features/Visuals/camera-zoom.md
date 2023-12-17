@@ -9,4 +9,4 @@ author: Schvis
 order: 2
 ---
 
-## <span style='color:white;'>Zoom de Cámara permite al jugador cambiar el zoom de la cámara a valores que no están disponibles.</span>
+## Zoom de Cámara permite al jugador cambiar el zoom de la cámara a valores que no están disponibles.

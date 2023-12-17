@@ -8,7 +8,7 @@ tag:
 author: Schvis, Ikuyo
 ---
 
-## <span style='color:white;'>katalog</span>
+## katalog
 
 - [Daftar Masalah yang Sering Terjadi](faq-error.md)
 

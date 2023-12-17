@@ -9,4 +9,4 @@ author: Schvis
 order: 10
 ---
 
-## <span style='color:white;'>Modificador de Planeador te permite cambiar tu planeador aunque no tengas la skin desbloqueada.</span>
+## Modificador de Planeador te permite cambiar tu planeador aunque no tengas la skin desbloqueada.

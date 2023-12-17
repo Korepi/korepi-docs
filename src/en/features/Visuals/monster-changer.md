@@ -9,11 +9,11 @@ author: Schvis
 order: 13
 ---
 
-## <span style='color:white;'>Monster Changer:</span>
+## Monster Changer:
 - When enabled, all new rendered monsters will be changed visually to the selected monster.
-### <span style='color:white;'>Exclude Animals:</span>
+### Exclude Animals:
 - Enable or Disable changing animals.
-### <span style='color:white;'>Custom Monster ID:</span>
+### Custom Monster ID:
 - Use ID instead of the provided list.
-### <span style='color:white;'>Randomize Monster:</span>
+### Randomize Monster:
 - The change will be random.

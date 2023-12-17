@@ -8,7 +8,7 @@ tag:
 author: Schvis
 ---
 
-## <span style='color:white;'>Catalog</span>
+## Catalog
 
 - [List of frequent Injector errors](faq-error.md)
 

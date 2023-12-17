@@ -9,9 +9,9 @@ author: Schvis
 order: 2
 ---
 
-## <span style='color:white;'>Auto Correr mueve al personaje automaticamente hacia la dirección que esta mirando.</span>
+## Auto Correr mueve al personaje automaticamente hacia la dirección que esta mirando.
 
-## <span style='color:white;'>Video de Ejemplo:</span>
+## Video de Ejemplo:
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/BLDhPBMs7Es?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Run" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 

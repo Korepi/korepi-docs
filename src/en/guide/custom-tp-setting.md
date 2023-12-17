@@ -10,9 +10,9 @@ author: Schvis
 order: 6
 ---
 
-## <span style='color:white;'>How to use custom TP</span>
+## How to use custom TP
 
-### <span style='color:white;'>Step 1: Settings to use</span>
+### Step 1: Settings to use
 
 We will use the following settings.
 
@@ -20,11 +20,11 @@ We will use the following settings.
 
 The recommended delay time is >15s.
 
-### <span style='color:white;'>Step 2: Download the `.json` files for the custom tp</span>
+### Step 2: Download the `.json` files for the custom tp
 
 We can find these files in `community-share` pinned post in the server. Download the ones that suits your needs.
 
-### <span style='color:white;'>Step 3: Select the tp files</span>
+### Step 3: Select the tp files
 
 Head to custom tp settings and go to this section:
 
@@ -32,7 +32,7 @@ Head to custom tp settings and go to this section:
 
 Click on select path and select the folder containing the tp files you want to use.
 
-### <span style='color:white;'>Step 4: How to start the tps</span>
+### Step 4: How to start the tps
 
 After selecting the folder, check this checkbox:
 
@@ -42,7 +42,7 @@ After that we click on `Select`:
 
 ![](/assets/images/docs/202312/teleport4.png)
 
-### <span style='color:white;'>Step 5: Enjoy the ride</span>
+### Step 5: Enjoy the ride
 
 The TPs will start automatically, if you got [Sponsor](../start/sponsor.md), you will be able to see the progress and remaining time.
 

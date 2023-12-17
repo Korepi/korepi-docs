@@ -9,10 +9,10 @@ author: Schvis
 order: 7
 ---
 
-## <span style='color:white;'>Extra Visual Settings:</span>
-### <span style='color:white;'>Gamma:</span>
+## Extra Visual Settings:
+### Gamma:
 - Allows you to change the gamma value of the game.
-### <span style='color:white;'>Outline Width:</span>
+### Outline Width:
 - Allows you to change the outline of every character in the game.
-### <span style='color:white;'>Anti-Aliasing:</span>
+### Anti-Aliasing:
 - Allows the player to change the anti-aliasing module to use, including some that are not available natively.

@@ -9,14 +9,14 @@ author: Schvis
 order: 3
 ---
 
-## <span style='color:white;'>Custom Teleport: Allows the player to teleport to a selected location designed by a `.json` file.</span>
-### <span style='color:white;'>Interpolation Speed:</span>
+## Custom Teleport: Allows the player to teleport to a selected location designed by a `.json` file.
+### Interpolation Speed:
 - Controls the teleportation animation speed, set to `0.1` to avoid issues.
-### <span style='color:white;'>Auto Teleport:</span>
+### Auto Teleport:
 - Teleports automatically following the order of the provided `.json` files.
     - Teleport Next: Teleports to next location after pressing the selected hotkey.
     - Teleport Previous: Teleports to previous location after pressing the selected hotkey.
 > Note: Recommended to set above `15s` for safety.
 
-# <span style='color:white;'>You can find out more on how to use this feature [here](../.././guide/custom-tp-setting.md)</span>
+# You can find out more on how to use this feature [here](../.././guide/custom-tp-setting.md)
 

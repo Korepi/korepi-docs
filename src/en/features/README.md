@@ -8,9 +8,9 @@ tag:
 author: Schvis
 ---
 
-## <span style='color:white;'>List of Features</span>
+## List of Features
 
-### <span style='color:white;'>Player</span>
+### Player
 - [Attack Effects](Player/attack-effects.md)
 - [Auto Run](Player/auto-run.md)
 - [Bunny Hop](Player/bunny-hop.md)
@@ -23,14 +23,14 @@ author: Schvis
 - [Player Speed](Player/player-speed.md)
 - [Remote Utility](Player/remote-utility.md)
 
-### <span style='color:white;'>Teleport</span>
+### Teleport
 - [Oculi Teleport](Teleport/0culi-teleport.md)
 - [Chest Teleport](Teleport/chest-teleport.md)
 - [Custom Teleport](Teleport/custom-teleport.md)
 - [Map Teleport](Teleport/map-teleport.md)
 - [Quest Teleport](Teleport/quest-teleport.md)
 
-### <span style='color:white;'>World</span>
+### World
 - [Auto Activated Waypoints](World/auto-activate-tp.md)
 - [Auto Challenge](World/auto-challenge.md)
 - [Auto Cook](World/auto-cook.md)

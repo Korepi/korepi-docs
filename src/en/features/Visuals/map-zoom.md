@@ -9,4 +9,4 @@ author: Schvis
 order: 13
 ---
 
-## <span style='color:white;'>Map Zoom modifies the values to be used in the map.</span>
+## Map Zoom modifies the values to be used in the map.
