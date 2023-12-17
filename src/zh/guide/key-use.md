@@ -50,7 +50,7 @@ order: 1
   
   [v版本视频链接](https://youtu.be/0ccpiexXzss)
 
-  <iframe width="640" height="360" src="https://www.youtube.com/embed/0ccpiexXzss?si=ciWVRhfs6kZ-mNFR" title="korepi 中文V版本使用密钥教程" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/0ccpiexXzss?si=ciWVRhfs6kZ-mNFR" title="korepi 中文V版本使用密钥教程" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
 
  ## F版本使用流程：
  - [1]点击F：Get key，bot会在频道中发消息，如下：
@@ -61,7 +61,7 @@ order: 1
  - 
  - [F版本视频链接](https://youtu.be/lekW7aMKmr0)
   
- <iframe width="640" height="360" src="https://www.youtube.com/embed/lekW7aMKmr0?si=aVtpdaHuwgMpxxdQ" title="korepi 中文F版本使用密钥教程" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+ <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/lekW7aMKmr0?si=aVtpdaHuwgMpxxdQ" title="korepi 中文F版本使用密钥教程" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
 
   
   ::: danger 

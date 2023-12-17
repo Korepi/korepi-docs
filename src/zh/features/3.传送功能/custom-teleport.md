@@ -18,5 +18,5 @@ order: 3
 - 传送上一个：按下选定热键后，传传到上一个位置。
 >注意：为了安全起见，建议设置在“15秒”以上。
 
-# 如何使用的教程 [点击这里](guide\custom-tp-setting.md.md)
+# 如何使用的教程 [点击这里](../../guide/custom-tp-setting.md)
 
