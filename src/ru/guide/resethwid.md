@@ -1,65 +1,64 @@
 ---
-title: How to reset HWID
+title: Как сбросить HWID
 icon: lock
 category:
-  - Guide
+  - Руководство
 tag:
-  - Start
-  - License
+  - Начало
+  - Лицензия
 author: Schvis
 order: 2
 ---
 
-## Reset HWID: Network(F)
+## Сброс HWID: Network(F)
 
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/DRSEmYsl4F4" title="how to change hwid for F" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
 
-### Step 1: Enter Korepi login page
+### Шаг 1: Войдите на страницу входа в Korepi
 
-Please head to [Korepi Login Page](https://keyauth.cc/panel/Strigger/Korepi)
-Warning: Don't do anything yet.
+Перейдите на [страницу входа в Korepi](https://keyauth.cc/panel/Strigger/Korepi)
+Предупреждение: Пока ничего не делайте.
 
-### Step 2: Get your key
+### Шаг 2: Получите свой ключ
 
-Get your key from your `license.json` or head to `★⋅micah-bot-verify⋅★` and click on `F: Getkey` to get your current key.
+Получите свой ключ из вашего `license.json` или перейдите в канал `★⋅micah-bot-verify⋅★` и нажмите на `F: Getkey`, чтобы получить текущий ключ.
 
-### Step 3: Login in Korepi
+### Шаг 3: Войдите в Korepi
 
-After getting your key, head to [Korepi Login Page](https://keyauth.cc/panel/Strigger/Korepi), and paste your key on both fields, click on login, after that, click on `Reset HWID`.
+Получив свой ключ, перейдите на [страницу входа в Korepi](https://keyauth.cc/panel/Strigger/Korepi), вставьте свой ключ в оба поля, нажмите "войти", после этого нажмите "Сброс HWID".
 
-### Step 4: Open Injector
+### Шаг 4: Откройте инжектор
 
-After your HWID reset, head to your injector and paste your key once again.
+После сброса вашего HWID перейдите в ваш инжектор и снова вставьте свой ключ.
 
-Enjoy Korepi again!
-## Reset HWID: Network(F) (Sponsor)
+Наслаждайтесь Korepi снова!
+## Сброс HWID: Network(F) (Спонсор)
 
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/WCuRAyqWMHg" title="Reset HWID F version (Sponsor)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
 
-### Step 1: Head to `★⋅micah-bot-verify⋅★` channel
+### Шаг 1: Перейдите в канал `★⋅micah-bot-verify⋅★`
 
-Head to `★⋅micah-bot-verify⋅★` channel and click on `F:Reset Key`, after that click on `F:Getkey` to recieve your new key.
+Перейдите в канал `★⋅micah-bot-verify⋅★` и нажмите на `F:Reset Key`, затем нажмите `F:Getkey`, чтобы получить свой новый ключ.
 
-### Step 2: Replace your old key
+### Шаг 2: Замените старый ключ
 
-Go to your korepi folder and delete `license.json`, after that open Korepi and paste in the new key you got.
+Перейдите в папку с вашим Korepi и удалите `license.json`, после чего откройте Korepi и вставьте новый ключ, который вы получили.
 
-Enjoy Korepi!
+Наслаждайтесь Korepi!
 
-## Reset HWID: Local(V) (Sponsor)
+## Сброс HWID: Local(V) (Спонсор)
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/q0G9UZHErrg?list=PL5eI1Tb64p56Mp6JqoR_o3BYk9UFTbOQI" title="How to reset Local V HWID" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
 
-### Step 1: Get your current HWID
+### Шаг 1: Получите ваш текущий HWID
 
-To get your current HWID, you will need to open your `Local(V) injector`, and it will automatically copy your HWID into your clipboard.
+Чтобы получить текущий HWID, вам нужно открыть ваш `Local(V) инжектор`, и он автоматически скопирует ваш HWID в буфер обмена.
 
-### Step 2: Find `★⋅micah-bot-verify⋅★` channel
+### Шаг 2: Найдите канал `★⋅micah-bot-verify⋅★`
 
-After finding `★⋅micah-bot-verify⋅★`, click on `V:Change HWID`, a window will pop up asking for your current HWID, paste it and click `Submit`.
+После того, как вы найдете `★⋅micah-bot-verify⋅★`, нажмите на `V:Change HWID`, появится окно, запрашивающее ваш текущий HWID, вставьте его и нажмите `Submit`.
 
-### Step 3: Get your new `enc.json`
+### Шаг 3: Получите свой новый `enc.json`
 
-After your HWID reset, click on `V:Verify` and paste your current HWID into the window and click `Submit`. Now download the new `enc.json` and replace the file in your Korepi folder.
+После сброса HWID нажмите на `V:Verify` и вставьте свой текущий HWID в окно, затем нажмите `Submit`. Теперь загрузите новый `enc.json` и замените файл в вашей папке Korepi.
 
-Note: Remember that the file name has to be `enc.json`.
-
+Примечание: Помните, что имя файла должно быть `enc.json`.

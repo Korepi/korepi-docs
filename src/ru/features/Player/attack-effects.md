@@ -1,41 +1,43 @@
 ---
-title: Attack Effects
+title: Эффекты Атаки
 icon: explosion
 category:
-  - Features
+  - Особенности
 tag:
-  - Attack Effects
-author: Schvis
+  - Эффекты Атаки
+author: 
+  name: "QweRez"
+  url: "https://github.com/qwerezon/"
 order: 1
 ---
 
-## Attack Effects: Modifications for your attacks
+## Эффекты Атаки: Модификации для ваших атак
 
 ### Multi-Hit Mode:
-- One Punch Mode: Tries to kill the target with 1 hit.
-> Note: Not recommended to use.
-- Modifies the number of attacks received by the target.
-> Note: Not recommended to go above `5`.
+- Режим Одного Удара: Пытается убить цель одним ударом.
+> Примечание: Не рекомендуется использовать.
+- Модифицирует количество получаемых целью ударов.
+> Примечание: Не рекомендуется устанавливать значение выше `5`.
 ### Multi-Target:
-- Hit all the targets within the selected radius from the target hit.
-> Note: Not recommended to change default settings.
+- Поражает все цели в выбранном радиусе от цели удара.
+> Примечание: Не рекомендуется изменять настройки по умолчанию.
 ### Multi-Animation:
-- Modifies the number of times the character does an action.
-> Note: Not recommended to use.
+- Модифицирует количество раз, когда персонаж выполняет действие.
+> Примечание: Не рекомендуется использовать.
 ### Attack Speed:
-- Modifies the speed of the normal attacks from the player.
-> Note: Not recommended to use above `1.5`.
+- Модифицирует скорость обычных атак игрока.
+> Примечание: Не рекомендуется устанавливать значение выше `1.5`.
 ### Custom Element:
-- Modifies the element of all outgoing attacks.
+- Модифицирует элемент всех исходящих атак.
 ### Infuse Element:
-- Modifies the element of normal attacks from sword, polearms and claymore.
+- Модифицирует элемент обычных атак мечей, копий и глеф.
 ### Auto Weakspot:
-- Hits target weakspot therefore criting, only works with bow users.
-### Critical Hit (<span style='color:yellow;'>Sponsor</span>):
-- Changes the probability of critical hits.
+- Поражает слабое место цели, вызывая критический урон, работает только с лучниками.
+### Critical Hit (<span style='color:yellow;'>Спонсор</span>):
+- Изменяет вероятность критических ударов.
 ### Nullify Incoming Element:
-- Will nullify any incoming element converting it to physical damage instead.
+- Обнуляет любой поступающий элемент, преобразуя его в физический урон вместо него.
 
-## Example Video:
+## Пример Видео:
 
-<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/1BdKwxBjWyg?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Attack Effects" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/1BdKwxBjWyg?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Эффекты Атаки" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>

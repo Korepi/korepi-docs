@@ -1,54 +1,56 @@
 ---
-title: Remote Utility
+title: Удаленная Утилита
 icon: tower-broadcast
 category:
-  - Features
+  - Особенности
 tag:
-  - Remote Utility
-author: Schvis
+  - Удаленная Утилита
+author: 
+  name: "QweRez"
+  url: "https://github.com/qwerezon/"
 order: 11
 ---
-::: info Sponsor Only
+::: info Только для Спонсоров
 :::
 ---
 ## Remote Utility:
 ### Claim Daily Commission Reward:
-- Claims daily commission reward when all 4 comissions are completed.
+- Получает ежедневное вознаграждение за выполнение всех 4-х квестов.
 ### Custom Talk:
-- Starts a conversation using the conversation ID, some conversations might not work.
-> Note: This feature is dangerous.
-> Note: To get the conversation ID, enable `Debug Talk`, ID will be displayed in `cmd`.
+- Начинает разговор, используя идентификатор разговора; некоторые разговоры могут не работать.
+> Примечание: Эта функция опасна.
+> Примечание: Чтобы получить идентификатор разговора, включите `Отладочный Разговор`, идентификатор будет отображен в `cmd`.
 ### Spawn Gadget:
-- Spawns the selected gadget by ID, some of them might not work.
-> Note: This feature is dangerous.
-> Note 2: You can find the gadget IDs [here](https://github.com/jie65535/GrasscutterCommandGenerator/blob/main/Source/GrasscutterTools/Resources/en-us/Gadget.txt)
+- Призывает выбранный гаджет по идентификатору; некоторые из них могут не работать.
+> Примечание: Эта функция опасна.
+> Примечание 2: Вы можете найти идентификаторы гаджетов [здесь](https://github.com/jie65535/GrasscutterCommandGenerator/blob/main/Source/GrasscutterTools/Resources/en-us/Gadget.txt)
 ### Crafting:
-- Condensed Resin: Crafts a condensed resin if you got the resin and the items.
-- Spawn Alchemy Table: Spawns an Alchemy Table.
-- Spawn Forging Table: Spawns a Forging Table.
-- Custom Combine: Will try to combine the selected item using the current character.
-    > Note: If successful, there will be no prompt. Please check inventory.
-    > Note 2: You can find the combine IDs [here](https://github.com/jie65535/GrasscutterCommandGenerator/blob/main/Source/GrasscutterTools/Resources/en-us/Item.txt)
+- Сжатая Смола: Создает сжатую смолу, если у вас есть смола и необходимые предметы.
+- Призыв Стола Алхимика: Призывает стол алхимика.
+- Призыв Кузнечного Стола: Призывает кузнечный стол.
+- Пользовательская Комбинация: Попытается объединить выбранный предмет с использованием текущего персонажа.
+    > Примечание: Если успешно, не будет подсказки. Пожалуйста, проверьте инвентарь.
+    > Примечание 2: Вы можете найти идентификаторы комбинаций [здесь](https://github.com/jie65535/GrasscutterCommandGenerator/blob/main/Source/GrasscutterTools/Resources/en-us/Item.txt)
 ### Summon NPC:
-- Summons the selected NPC by ID.
-> Note: Katheryne, Wagner and Prince already included.
+- Призывает выбранного NPC по идентификатору.
+> Примечание: Катерина, Вагнер и Принц уже включены.
 ### Summon Monster:
-- Summons the selected monster with the selected parameters by ID.
-> Note: You can't kill them.
-> Note 2: You can find the monster IDs [here](https://github.com/jie65535/GrasscutterCommandGenerator/blob/main/Source/GrasscutterTools/Resources/en-us/Monsters.txt)
+- Призывает выбранного монстра с выбранными параметрами по идентификатору.
+> Примечание: Вы не можете их убить.
+> Примечание 2: Вы можете найти идентификаторы монстров [здесь](https://github.com/jie65535/GrasscutterCommandGenerator/blob/main/Source/GrasscutterTools/Resources/en-us/Monsters.txt)
 ### Summon Item:
-- Summons the selected item by ID.
-> Note: Some items might not work.
-> Note 2: You can find the items IDs [here](https://github.com/jie65535/GrasscutterCommandGenerator/blob/main/Source/GrasscutterTools/Resources/en-us/Item.txt)
+- Призывает выбранный предмет по идентификатору.
+> Примечание: Некоторые предметы могут не работать.
+> Примечание 2: Вы можете найти идентификаторы предметов [здесь](https://github.com/jie65535/GrasscutterCommandGenerator/blob/main/Source/GrasscutterTools/Resources/en-us/Item.txt)
 ### Open UI Page:
-- Open Paimon Menu Page: Opens the menu.
-- Open Cooking Page: Opens cooking page.
-    > Note: Needs to open cooking page once before using this feature.
+- Открыть Меню Паймона: Открывает меню.
+- Открыть Страницу Готовки: Открывает страницу готовки.
+    > Примечание: Необходимо открыть страницу готовки один раз перед использованием этой функции.
 ### Worship Statue:
-- Will worship the selected Statue of the Seven with the amount selected, need to have the oculus to do this.
+- Поклонится выбранной статуе Семи с выбранным количеством; нужно иметь оккультный глаз для этого.
 ### Change Traveler Element:
-- Allows player to change traveler element anywhere.
+- Позволяет игроку изменить элемент путешественника в любом месте.
 
-## Example Video:
+## Пример Видео:
 
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/XGztUEy82sE?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Remote Utilities (Sponsor)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>

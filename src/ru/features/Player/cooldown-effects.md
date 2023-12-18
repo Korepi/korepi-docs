@@ -1,29 +1,31 @@
 ---
-title: Cooldown Effects
+title: Эффекты Перезарядки
 icon: clock-rotate-left
 category:
-  - Features
+  - Особенности
 tag:
-  - Cooldown Effects
-author: Schvis
+  - Эффекты Перезарядки
+author: 
+  name: "QweRez"
+  url: "https://github.com/qwerezon/"
 order: 4
 ---
 
-## Cooldown Effects: Modifies the cooldown time of various actions.
+## Cooldown Effects: Модификации времени перезарядки различных действий.
 ### Max Burst Energy:
-- Removes the requirement needed to use elemental bursts.
-> Note: Energy bubble may appear incomplete but will be still usable.
-### No Avatar Skill Cooldown: Removes the cooldown for character skill and burst.
-- Reduce Skill/Burst Cooldown: When activated instead of removing the cooldown, it will be set to the selected values if the cooldown is higher than the value selected.
-> Note: You can use any value for CD, but don't spam it too hard. `ex. 40 times in 1m`
+- Убирает необходимость использовать элементарные взрывы.
+> Примечание: Энергетический пузырь может выглядеть неполным, но останется пригодным к использованию.
+### No Avatar Skill Cooldown: Убирает перезарядку для навыков и взрывов персонажа (Q и E).
+- Уменьшение Перезарядки Навыка/Взрыва: При активации вместо удаления перезарядки она будет установлена на выбранные значения, если перезарядка выше выбранного значения.
+> Примечание: Можно использовать любое значение для перезарядки, но не переусердствуйте. `например, 40 раз в 1 минуту`
 ### No Sprint Cooldown:
-- Removes the delay between sprints.
+- Убирает задержку между спринтами.
 ### Instant Charged Attack:
-- Bow: Removes the charge time for bow users.
-- Other: Removes the charge time for other weapon users.
+- Лук: Убирает время зарядки для лучников.
+- Другие: Убирает время зарядки для пользователей другого оружия.
 ### No Vehicle Skill Cooldown:
-- Removes the cooldown for the boat skills.
+- Убирает перезарядку для навыков лодки.
 
-## Example Video:
+## Пример Видео:
 
-<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/qv5ykSL3Ojw?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Cooldown Effects" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/qv5ykSL3Ojw?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Эффекты Перезарядки" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
