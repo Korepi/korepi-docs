@@ -15,10 +15,10 @@ order: 12
 - Memberikan fall damage kepada musuh di sekitar dengan nilai, waktu jeda, dan jarak jangkau tertentu.
 > Catatan: Tidak disarankan menggunakan nilai yang sangat tinggi.
 ### Percent Mode:
-- Jumlah serangan yang diperlukan untuk membunuh musuh.
+- Jumlah kerusakan yang diperlukan untuk membunuh musuh.
 > Catatan: Disarankan menggunakan nilai 3 atau lebih tinggi.
 ### Left HP:
-- Menentukan apakah akan menyisakan jumlah HP yang telah ditentukan kepada musuh di sekitar.
+- Menentukan apakah akan menyisakan jumlah darah yang telah ditentukan kepada musuh di sekitar.
 ### Instant Death Mode:
 - Akan mencoba membuat musuh menghilang
 > Catatan: Mungkin bermasalah dengan beberapa boss.
