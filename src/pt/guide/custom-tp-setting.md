@@ -1,49 +1,49 @@
 ---
 title: Teletransportes personalizados
-icon: circle-info
+icon: running
 category:
-  - Guía
+  - Guia
 tag:
   - Inicio
   - Teletransportes
-author: Schvis
+author: Ryuzeen
 order: 6
 ---
 
 ## Como usar Teletransportes personalizados
 
-### Paso 1: Configuración 
+### Passo 1: Configuração
 
-Lo configuraremos de la siguiente manera:
+Configure da seguinte maneira:
 
 ![](/assets/images/docs/202312/teleport1.png)
 
-El tiempo de retraso recomendado es de >15s.
+O tempo de atraso recomendado é >15s.
 
-### Paso 2: Descargar los archivos `.json` para los teletransportes
+### Passo 2: Baixar os arquivos .json para os teletransportes
 
-Para ello podremos encontrarlo en el canal de `community-share` en la publicación fijada. Lo descargaremos y lo extraemos en cualquier carpeta.
+Para isso, você pode encontrá-los no canal `community-share` na postagem fixada. Faça o download e extraia em qualquer pasta.
 
-### Paso 3: Seleccionar los teletransportes deseados
+### Passo 3: Selecionar os teletransportes desejados
 
-Entraremos en los ajustes dentro de Korepi de nuevo e iremos a la siguiente sección:
+Acesse as configurações dentro do Korepi novamente e vá para a seguinte seção:
 
 ![](/assets/images/docs/202312/teleport2.png)
 
-Le daremos click a select path, y elegiremos la carpeta de los teletransportes que deseamos utilizar.
+Clique em "select path" e escolha a pasta dos teletransportes que você deseja usar.
 
-### Paso 4: Empezar los teletransportes
+### Passo 4: Iniciar os teletransportes
 
-Después de seleccionar los teletransportes deberemos de darle a la siguiente casilla:
+Depois de selecionar os teletransportes, você deve ativar a seguinte opção:
 
 ![](/assets/images/docs/202312/teleport3.png)
 
-La activamos y le damos a `Select`: 
+Ative-a e clique em `Select`: 
 
 ![](/assets/images/docs/202312/teleport4.png)
 
-### Paso 5: Disfrutar
+### Passo 5: Aproveitar
 
-Ahora los teletransportes empezaran, si tienes [Sponsor](../start/sponsor.md) habrá un contador del tiempo que tardara.
+Agora os teletransportes começarão, se você tiver o [Sponsor](../start/sponsor.md) haverá um contador de tempo mostrando quanto tempo levará.
 
 

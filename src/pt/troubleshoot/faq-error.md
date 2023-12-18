@@ -1,107 +1,128 @@
 ---
-title: Errores Frecuentes
-icon: server
+title: Erros Frequentes do mod
+icon: info
 category:
-  - Errores
+  - Erros
 tag:
   - Inicio
-author: Schvis
+author: Ryuzeen
 order: 1
 ---
 
-## Lista de errores frecuentes
+## Lista de erros comuns
 
-## Por qué mi Korepi desaparece?
+## Por que o meu Korepi desaparece?
 
-Deshabilita el anti-virus y crea una carpeta nueva, pon korepi dentro y añadelo a exclusiones dentro del anti-virus:
+Desative o antivírus e crie uma nova pasta, coloque o Korepi dentro e adicione-o às exclusões do antivírus:
 
 ![](/assets/images/docs/202312/virus.png)
 
-Abre Korepi depuès de haber completado este paso.
+Abra o Korepi depois de concluir este passo.
 
 ## Status: No active subscribtion(s) found, Invalid license key
 
-Necesitas [conseguir una nueva key](../guide/getkey.md) en `⁠★⋅micah-bot-verify⋅★`, si no puedes conseguir una key o si no te funciona la key tendras que esperar hasta que se caduque.
+Você precisa [conseguir uma nova key](../guide/getkey.md) no `⁠★⋅micah-bot-verify⋅★`, se não conseguir obter uma chave ou se a chave não funcionar, terá que esperar até que ela expire.
 
-`Los Sponsors pueden usar F:Reset Key para conseguir una nueva.`
+`Os Patrocinadores podem usar F:Reset Key para conseguir uma nova.`
 
 ## [DLL injection]  Process crashed, exit code 0xc000005
 
-Abre el cmd como administrador y escribe lo siguiente:
+Abra o prompt de comando como administrador e digite o seguinte:
 
 `sfc /scannow`
 
-Si se encontraron errores, reinicia el ordenador y comprueba si funciona.
+Se forem encontrados erros, reinicie o computador e veja se o problema persiste.
 
-Si al reiniciar no funciona o si no se encontró errores, prueba lo siguiente:
+Se não resolver após reiniciar ou se nenhum erro for encontrado, tente o seguinte:
 
 `DISM.exe /Online /Cleanup-Image /RestoreHealth`
 
-Después de completar ese paso, reinicia el ordenador y comprueba si funciona, si no funciona tendras que reisntalar windows.
+Após concluir este passo, reinicie o computador e verifique se o problema persiste. Se ainda não funcionar, você precisará reinstalar o Windows.
 
 ## ImGUI: DirectX11 backend initialized successfully.
 
-Este error ocurre por los temas instalados, borra tu carpeta de `themes`.
+Esse erro ocorre devido aos temas instalados. Apague a pasta `themes`.
 
-## El sistema no detecto MSVCP140.dll
+## O sistema não detecta o arquivo MSVCP140.dll
 
-Actualiza o Instala [Microsoft Visual Studio C++](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170#visual-studio-2015-2017-2019-and-2022).
+Atualize ou instale o [Microsoft Visual Studio C++](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170#visual-studio-2015-2017-2019-and-2022).
 
-Actualiza o Instala [DirectX](https://www.microsoft.com/en-us/download/details.aspx?id=35).
+Atualize ou instale o [DirectX](https://www.microsoft.com/en-us/download/details.aspx?id=35).
 
-## El Archivo está corrupto! ¡Este programa ha sido manipulado!
+## O arquivo está corrompido! Este programa foi manipulado!
 
 ![](/assets/images/docs/202312/virus2.png)
 
-En este caso deberas instalar `Malware Bytes` o `Dr.Web` y hacer un escaneo completo, si se encuentra un virus, borralo, y reinicia el ordenador, si no funciono, deberas reinstalar windows.
+Nesse caso, você deve instalar o `Malware Bytes` ou `Dr.Web` e fazer uma verificação completa. Se for encontrado um vírus, exclua-o e reinicie o computador. Se não resolver, será necessário reinstalar o Windows.
 
 ## Timeout was reached
 
 ![](/assets/images/docs/202312/error1.png)
 
-Reinicia tu router.
+Reinicie seu roteador.
 
-Asegúrate de que ninguna aplicación te esté bloqueando la conexión como el antivirus.
+Certifique-se de que nenhuma aplicação esteja bloqueando a conexão, como o antivírus.
 
 ## DLL Injection failed
 
-Reinstala el mod.
+Reinstale o mod.
 
 ## Windows cannot access the specified device, path, or file
 
 ![](/assets/images/docs/202312/error2.png)
 
-Prueba [esto](https://www.minitool.com/es/respaldar-datos/windows-no-tiene-acceso-al-dispositivo-especificado.html) primero.
+Tente [isso](https://www.minitool.com/es/respaldar-datos/windows-no-tiene-acceso-al-dispositivo-especificado.html) primero.
 
-Haz un escaneo de virus.
+Faça uma verificação de vírus.
 
-Si no funciona abre `cmd` como administrado y escribe `sfc /scannow`.
+Se não funcionar, abra o `cmd` como administrador e digite `sfc /scannow`.
 
-Si se encontraron errores, reinicia el ordenador y comprueba si funciona.
+Se foram encontrados erros, reinicie o computador e verifique se funciona.
 
-Si al reiniciar no funciona o si no se encontró errores, prueba lo siguiente:
+Se, ao reiniciar, não funcionar ou se não foram encontrados erros, tente o seguinte:
 
 `DISM.exe /Online /Cleanup-Image /RestoreHealth`
 
-Después de completar ese paso, reinicia el ordenador y comprueba si funciona, si no funciona tendras que reisntalar windows.
+Após concluir essa etapa, reinicie o computador e verifique se funciona. Se não funcionar, será necessário reinstalar o Windows.
 
 ## Signature checksum failed
 
 ![](/assets/images/docs/202312/checksum.png)
 
-Los servidores están caídos, espera a que vuelvan.
+Os servidores estão fora do ar, aguarde até que voltem.
 
 ## Failed to create game process with Error 5
 
 ![](/assets/images/docs/202312/error3.png)
 
-Borra `cfg.ini`.
+Apague `cfg.ini`.
 
 ## SSL connect error
 
 ![](/assets/images/docs/202312/error4.png)
 
-Reinicia tu router y ordenador.
+Reinicie seu roteador e computador.
 
-Usa un VPN si sigue sin funcionar.
+Use uma VPN se ainda não funcionar.
 
+## Failed to detect game version
+
+Atualize seu mod seguindo [estos](../start/download.md) passos.
+
+## File ok
+
+Apague seu  `cfg.json`, algo está errado com o arquivo.
+
+## UserAssembly.dll isn't initialized, waiting for 2 sec.
+
+Se o mod travar após esta linha, siga as etapas a seguir.
+
+Desative todos os antivírus que você possui.
+
+Se não funcionar, use `sfc /scannow` no seu `cmd` como administrador.
+
+Se foram encontrados erros e o Windows não puder corrigi-los, use `DISM.exe /Online /Cleanup-Image /RestoreHealth` no `cmd`.
+
+Depois disso, reinicie seu computador e verifique se funciona.
+
+Se não funcionar, será necessário reinstalar o Windows.

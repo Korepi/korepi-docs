@@ -1,55 +1,55 @@
 ---
-title: Como conseguir la Key
-icon: circle-info
+title: Como conseguir a Key
+icon: key
 category:
-  - Guía
+  - Guia
 tag:
   - Inicio
-  - Licencia
-author: Schvis
+  - Licença
+author: Ryuzeen
 order: 1
 ---
 
-## Como conseguir la key para Network(F)
+## Como conseguir a chave para Network(F)
 
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/-9bXOMH0-WM" title="Korepi - How to get V key" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
 
-### Paso 1: Consigue el rol de F Auth
+### Passo 1: Obtenha o cargo F Auth
 
-Ve al canal de `★⋅korepi-version-roles⋅★` en el servidor y dale click a `F Auth` para conseguir el rol.
+Vá para o canal `★⋅korepi-version-roles⋅★` no servidor e clique em `F Auth` para obter a cargo.
 
-`Nota: Comprueba si tienes el rol, si no lo tienes dale click a F Auth de nuevo`
+`Nota: Verifique se você tem a cargo. Se não tiver, clique novamente em F Auth`
 
-### Paso 2: Consigue tu key
+### Passo 2: Obtenha sua chave
 
-Ve al canal de `⁠★⋅micah-bot-verify⋅★` y dale click a `F:Getkey`, el bot te mandara una tabla con información, copia la de Key.
+Vá para o canal `⁠★⋅micah-bot-verify⋅★` e clique em `F:Getkey`, uma tabela com informações; copie a chave.
 
-### Paso 3: Usa tu key
+### Passo 3: Use sua chave
 
-Abre Korepi, cuando te pida la licencia, pega la key que conseguiste y sigue los pasos que se mencione en el mod.
+Abra o Korepi. Quando for solicitada a licença, cole a chave que você obteve e siga as instruções fornecidas no mod.
 
-Disfruta de Korepi!
+Aproveite o Korepi!
 
-## Como conseguir key para Local(V)
+## Como conseguir a chave para Local(V)
 
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/OTCSboZdexc" title="Korepi - How to get V key" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
 
-### Paso 1: Consigue el rol de V Auth
+### Passo 1: Obtenha a cargo V Auth
 
-Ve al canal de `★⋅korepi-version-roles⋅★` en el servidor y dale click a `V Auth` para conseguir el rol.
+Vá para o canal `★⋅korepi-version-roles⋅★` no servidor e clique em `V Auth` para obter a cargo.
 
-`Nota: Comprueba si tienes el rol, si no lo tienes dale click a V Auth de nuevo`
+`Nota: Verifique se você tem o cargo. Se não tiver, clique novamente em V Autho`
 
-### Paso 2: Consigue tu `HWID`
+### Passo 2: Obtenha o seu `HWID`
 
-Para conseguir tu `HWID` deberas abrir el mod `Local(V)` una vez, y se te copiara el `HWID` en el portapapeles.
+Para obter o seu `HWID` você precisará abrir o mod `Local(V)` uma vez e o `HWID` será copiado para a área de transferência.
 
-### Paso 3: Consigue tu `enc.json`
+### Passo 3: Obtenha o seu `enc.json`
 
-Ve al canal de `⁠★⋅micah-bot-verify⋅★` y dale click a `V:Verify`, saldra una ventana preguntandote por tu `HWID`, pegalo y dale click a `Submit`, después descarga el archivo que te envie el bot.
+Vá para o canal `⁠★⋅micah-bot-verify⋅★` e clique em `V:Verify`, Uma janela aparecerá pedindo o seu `HWID`, Cole o `HWID` e clique em `Submit`, em seguida, faça o download do arquivo enviado pelo bot.
 
-### Paso 4: Pon tu archivo junto a Korepi
+### Passo 4: Coloque seu arquivo junto com o Korepi
 
-Depués de conseguir tu archivo, ponlo junto a korepi dentro de tu carpeta, abre el mod de nuevo y podras usarlo. Recuerda que el nombre debe de ser `enc.json`.
+Depois de obter o seu arquivo, coloque-o junto com o Korepi na sua pasta, abra o mod novamente e você poderá usá-lo. Lembre-se de que o nome do arquivo deve se `enc.json`.
 
-Disfruta de Korepi!
+Aproveite o Korepi!

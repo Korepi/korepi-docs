@@ -8,15 +8,15 @@ bgImageDark: https://theme-hope-assets.vuejs.press/bg/6-dark.svg
 bgImageStyle:
   background-attachment: fixed
 heroText: Korepi
-tagline: Ofrecemos un producto asequible, de alta calidad y fácil de usar de Korepi
+tagline: Oferecemos um produto acessível, de alta qualidade e fácil de usar do Korepi
 actions:
-  - text: Descargar
+  - text: Baixar
     icon: lightbulb
     link: ./start/download
     type: primary
-  - text: Como Empezar
+  - text: Como Começar
     link: ./start/
-  - text: Guías
+  - text: Guias
     link: ./guide/
 
 highlights:
@@ -25,11 +25,11 @@ highlights:
     bgImage: https://theme-hope-assets.vuejs.press/bg/3-light.svg
     bgImageDark: https://theme-hope-assets.vuejs.press/bg/3-dark.svg
     highlights:
-      - title: Desbloquea localizaciones inexploradas
-      - title: Abre todo los cofres del mapa con solo unos clicks!
+      - title: Desbloqueie localizações inexploradas
+      - title: Abra todos os baús do mapa com apenas alguns cliques!
 
-  - header: Practico, Conveniente, Interacción de Genshin Tecnológica
-    description: Funcionalidades exclusivas, gratis para usar
+  - header: Prático, Conveniente, Interação Tecnológica em Genshin
+    description: Funcionalidades exclusivas, gratuitas para usar
     image: /assets/images/web/markdown.svg
     bgImage: https://theme-hope-assets.vuejs.press/bg/2-light.svg
     bgImageDark: https://theme-hope-assets.vuejs.press/bg/2-dark.svg
@@ -39,92 +39,93 @@ highlights:
     features:
       - title: Teletransporte
         icon: location-arrow
-        details: Teletransportate a traves del mapa/misiones/marcadores
-      - title: Modo Dios
+        details: Teleporte pelo mapa/missões/marcadores
+      - title: Modo Deus
         icon: shield
-        details: Permite al jugador ser invencible
+        details: Permite que o jogador seja invencível
       - title: Modificador de Ataque
         icon: sword
-        details: Permite la modificación de las características de ataque, incluyendo multi-golpe, objetivo, y animación
-      - title: Sin Enfriamientos
+        details: Permite a modificação das características de ataque, incluindo multi-golpe, alvo e animação
+      - title: Sem Tempo de Recarga
         icon: clock
-        details: Elimina el enfriamiento de varias acciones como habilidades, definitivas, esprint, y arco
-      - title: Estamina Infinito
+        details: Elimina o tempo de recarga de várias ações, como habilidades, habilidades definitivas, esquiva e arco
+      - title: Estamina Infinita
         icon: battery-full
-        details: Permite al jugado usar estamina sin limites
-      - title: Sin-Colisión
+        details: Permite ao jogador usar estamina sem limites
+      - title: Sem Colisão
         icon: vector-square
-        details: Permite  al jugador pasar a traves de objetos, volar
-      - title: Velocidad de Juego
+        details: Permite ao jogador atravessar objetos, voar
+      - title: Velocidade de Jogo
         icon: tachometer-alt
-        details: Permite acelerar o desacelerar el paso del tiempo dentro del juego
-      - title: Enemigos Tontos
+        details: Permite acelerar ou desacelerar o tempo dentro do jogo
+      - title: Inimigos Burros
         icon: skull
-        details: Deshabilita la IA de los mobs
-      - title: Congelar Enemigos
+        details: Desativa a IA dos mobs
+      - title: Congelar Inimigos
         icon: snowflake
-        details: Congela los enemigos en el sitio
+        details: Congela os inimigos no lugar
       - title: Auto Destruir
         icon: hammer
-        details: Destruye automaticamente objetos variados en el ambiente
-      - title: Auto Recoger/Abrir Cofres
+        details: Destrói automaticamente objetos variados no ambiente
+      - title: Auto Coletar/Abrir Baús
         icon: chest
-        details: Recoge automaticamente botín y abre cofres
-      - title: Rango de Recogida
+        details: Coleta automaticamente saques e abre baús
+      - title: Alcance de Coleta
         icon: compass
-        details: Incrementa el rango de recogida de objetos
+        details: Aumenta o alcance de coleta de itens
       - title: Auto Conversar
         icon: comment
-        details: Conversa automaticamente con los NPCs
-      - title: Auto Madera
+        details: Conversa automaticamente com NPCs
+      - title: Auto Madeira
         icon: tree
-        details: Permite al jugador recoger madera automaticamente
-      - title: Auto Cocinar
+        details: Permite que o jogador colete madeira automaticamente
+      - title: Auto Cozinar
         icon: utensils
-        details: Cocina automaticamente sin que el jugador lo haga
-      - title: Succión de Mobs
+        details: Cozinha automaticamente sem a intervenção do jogador
+      - title: Sucção de Mobs
         icon: tornado
-        details: Atrae diferentes mobs cercanos
+        details: Atrai diferentes mobs próximos
 
-  - header: Últimos Arreglos
+  - header: Últimas Correçõe
     image: /assets/images/web/features.svg
     bgImage: https://theme-hope-assets.vuejs.press/bg/1-light.svg
     bgImageDark: https://theme-hope-assets.vuejs.press/bg/1-dark.svg
     features:
-      - title: Auto Seleccionar Dialogo es un poco más rápido ahora
+      - title: Auto Seleção de Diálogo está um pouco mais rápida agora
+icon: lightning-bolt
         icon: lightning-bolt
-        details: Se aumento la velocidad de la selección de diálogos
-      - title: Zoom de Mapa
+        details: Aumentada a velocidade de seleção de diálogos
+      - title: Zoom no Mapa
         icon: search-plus
-        details: Se añadió la funcionalidad de zoom en el mapa
-      - title: Ataque Cargado Instantáneo (Ahora Configurable)
+        details: Adicionada a funcionalidade de zoom no mapa
+      - title: Ataque Carregado Instantâneo (Agora Configurável)
         icon: bolt
-        details: Carga tus ataques instantáneos, ahora con opciones configurables
-      - title: Saltar Dialogo
+        details: Carregue seus ataques instantaneamente, agora com opções configuráveis
+      - title: Pular Diálogo
         icon: arrow-right
-        details: Salta el dialogo instantáneamente
+        details: Pula instantaneamente o diálogo
       - title: Invocar NPC
         icon: user
-        details: Se arreglo un problema al invocar NPCs
-      - title: Interacción con la Estatua
+        details: Corrigido um problema ao invocar NPCs
+      - title: Interação com a Estátua
         icon: hands
-        details: Se arreglo el error con las Estatuas
+        details: Corrigido o erro com as Estátuas
 
-  - header: Nuestras Ventajas
-    description: Explora alguna de nuestras
+  - header: Nossas Vantagens
+    description: Explore algumas das nossas
     image: /assets/images/web/blog.svg
     bgImage: https://theme-hope-assets.vuejs.press/bg/5-light.svg
     bgImageDark: https://theme-hope-assets.vuejs.press/bg/5-dark.svg
     highlights:
-      - title: Soporte Activo 24/7
+      - title: Suporte Ativo 24/7
         icon: headsets
-        details: Estamos preparados para asistirte en cualquier momento, dia o noche, proporcionando un soporte 24/7 confiable.
+        details: Estamos prontos para ajudar a qualquer momento, dia ou noite, fornecendo suporte 24/7 confiável.
       - title: Fácil de Usar
         icon: user-friends
-        details: Nuestro producto está diseñado para facilitar su uso, garantizando una experiencia cómoda y fácil de usar.
-      - title: Seguridad
+        details: Nosso produto é projetado para ser fácil de usar, garantindo uma experiência confortável e amigável.
+      - title: Segurança
         icon: shield-alt
-        details: Priorizamos la seguridad, asegurando un acceso seguro y protegiendo tu información
+        details: Priorizamos a segurança, garantindo um acesso seguro e protegendo suas informações
 copyright: false
-footer: Copyright © 2023 Micah && Kitten Reservados todos los derechos. Todas las demás marcas comerciales, capturas de pantalla, logotipos y derechos de autor son propiedad de sus respectivos dueños.
+footer: Copyright © 2023 Micah && Kitten Reservados todos os direitos. Todas as outras marcas comerciais, capturas de tela, logotipos e direitos autorais são propriedade de seus respectivos proprietários.
 ---

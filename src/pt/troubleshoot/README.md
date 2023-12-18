@@ -1,8 +1,8 @@
 ---
-title: Lista de errores
-icon: circle-info
+title: Lista de erros
+icon: book
 category:
-  - Errores
+  - Erros
 tag:
   - Inicio
 author: Schvis
@@ -10,6 +10,6 @@ author: Schvis
 
 ## Catalogo
 
-- [Lista de errores frecuentes](faq-error.md)
+- [Lista de erros frequentes do mod](faq-error.md)
   
-- [Como solucionar el error 31-4302](31-4302.md)
+- [Como corrigir o erro 31-4302](31-4302.md)

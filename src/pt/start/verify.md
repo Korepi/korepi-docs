@@ -1,30 +1,30 @@
 ---
-title: Verificación
+title: Verificação
 icon: lock
 category:
-  - Guía
+  - Guia
 tag:
   - Inicio
-author: Schvis
+author: Ryuzeen
 order: 2
 ---
 
-## Introducción
+## Introdução
 
-Bienvenid@ a nuestra comunidad! Para completar la verificación del bot y obtener el rol de "Fans", sigue los siguientes pasos.
+Bem-vindo à nossa comunidade! Para completar a verificação do bot e obter o cargo de "Fã", siga os passos abaixo.
 
-### Paso 1: Únete a nuestro servidor si aun no lo has hecho
+### Passo 1: Junte-se ao nosso servidor se ainda não o fez
 
-Si aun no estas en nuestro servidor, por favor lee la publicación anterior, donde se explica como se puede unir al servidor.
+Se você ainda não está em nosso servidor, por favor, leia a publicação anterior, que explica como você pode se juntar ao servidor.
 
-### Paso 2: Asi que estas en el servidor
+### Passo 2: Agora que você está no servidor
 
-Ahora que estas ene el servidor, elige los canales y roles necesarios de la lista, después ve al canal de ★⋅rules⋅★./
+Agora que você está no servidor, escolha os canais e cargos necessários da lista, depois vá para o canal ★⋅rules⋅★.
 
-### Paso 3: Canal de ★⋅rules⋅★
+### Passo 3: Canal ★⋅rules⋅★
 
-En el canal de reglas, deberás familiarizarte con las reglas y con la verificación para confirmar de que no eres un bot. Encuentra el botón de "Verify", dale click, y el bot the enviara un link que tendrás que seguir y confirmar de que no eres un bot
+No canal de regras, você precisará se familiarizar com as regras e com a verificação para confirmar que não é um bot. Encontre o botão "Verify", clique nele, e o bot enviará um link que você terá que seguir e confirmar que não é um bot.
 
-### Paso 4: Después de recibir el rol de "Newcomer"
+### Passo 4: Depois de receber o cargo de "Newcomer""
 
-Después de la verificación exitosa, el bot the dara el rol de "Newcomer". Con este rol, no seras echado del servidor sin razones validad. Ahora sigue al siguiente paso.
+Após a verificação bem-sucedida, o bot lhe dará o cargo de "Newcomer". Com este cargo, você não será expulso do servidor sem razões válidas. Agora, siga para o próximo passo.
