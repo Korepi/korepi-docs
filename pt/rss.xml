@@ -6,13 +6,12 @@
     <link>https://korepi.com/pt/</link>
     <description>Ayuda en Korepi</description>
     <language>pt-BR</language>
-    <pubDate>Mon, 18 Dec 2023 17:03:56 GMT</pubDate>
-    <lastBuildDate>Mon, 18 Dec 2023 17:03:56 GMT</lastBuildDate>
+    <pubDate>Mon, 18 Dec 2023 20:58:42 GMT</pubDate>
+    <lastBuildDate>Mon, 18 Dec 2023 20:58:42 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Funções</category>
     <category>Guia</category>
-    <category>Guía</category>
     <category>Erros</category>
     <item>
       <title>Modificador de Planador</title>
@@ -1409,28 +1408,28 @@ Para usar skins personalizadas no Korepi, você precisará baixar o aplicativo</
       <link>https://korepi.com/pt/start/</link>
       <guid>https://korepi.com/pt/start/</guid>
       <source url="https://korepi.com/pt/rss.xml">Inicio</source>
-      <description>Catalogo Unirse al Servidor (join.md); Verificación (verify.md); Obteniendo el rol de Fans (sign-in.md); Convertirse en Sponsor (sponsor.md); Funciones Exclusivas de Sponsor (sp...</description>
-      <category>Guía</category>
+      <description>Catalogo Unir-se ao servidor (join.md); Verificação (verify.md); Obtendo o cargo fans (sign-in.md); Virando Patrocinador (sponsor.md); Funções Exclusivas de Sponsor (sponsor-exc...</description>
+      <category>Guia</category>
       <pubDate>Wed, 13 Dec 2023 16:37:40 GMT</pubDate>
       <content:encoded><![CDATA[<h2> Catalogo</h2>
 <ul>
 <li>
-<p><a href="/pt/start/join.html" target="blank">Unirse al Servidor</a></p>
+<p><a href="/pt/start/join.html" target="blank">Unir-se ao servidor</a></p>
 </li>
 <li>
-<p><a href="/pt/start/verify.html" target="blank">Verificación</a></p>
+<p><a href="/pt/start/verify.html" target="blank">Verificação</a></p>
 </li>
 <li>
-<p><a href="/pt/start/sign-in.html" target="blank">Obteniendo el rol de Fans</a></p>
+<p><a href="/pt/start/sign-in.html" target="blank">Obtendo o cargo fans</a></p>
 </li>
 <li>
-<p><a href="/pt/start/sponsor.html" target="blank">Convertirse en Sponsor</a></p>
+<p><a href="/pt/start/sponsor.html" target="blank">Virando Patrocinador</a></p>
 </li>
 <li>
-<p><a href="/pt/start/sponsor-exclusive.html" target="blank">Funciones Exclusivas de Sponsor</a></p>
+<p><a href="/pt/start/sponsor-exclusive.html" target="blank">Funções Exclusivas de Sponsor</a></p>
 </li>
 <li>
-<p><a href="/pt/start/download.html" target="blank">Descargar</a></p>
+<p><a href="/pt/start/download.html" target="blank">Baixar</a></p>
 </li>
 </ul>
 ]]></content:encoded>
@@ -1440,12 +1439,12 @@ Para usar skins personalizadas no Korepi, você precisará baixar o aplicativo</
       <link>https://korepi.com/pt/start/download.html</link>
       <guid>https://korepi.com/pt/start/download.html</guid>
       <source url="https://korepi.com/pt/rss.xml">Baixar</source>
-      <description>Introdução Bem-vindo à nossa comunidade! Para passar pela verificação do bot e receber o cargo Newcomer, sigue los siguientes pasos. Passo 1: Junte-se ao nosso servidor e obtenh...</description>
+      <description>Introdução Bem-vindo à nossa comunidade! Para passar pela verificação do bot e receber o cargo Newcomer, segue os seguintes passos. Passo 1: Junte-se ao nosso servidor e obtenha...</description>
       <category>Guia</category>
       <pubDate>Wed, 13 Dec 2023 16:37:40 GMT</pubDate>
       <content:encoded><![CDATA[<h1> Baixar</h1>
 <h2> Introdução</h2>
-<p>Bem-vindo à nossa comunidade! Para passar pela verificação do bot e receber o cargo <code>Newcomer</code>, sigue los siguientes pasos.</p>
+<p>Bem-vindo à nossa comunidade! Para passar pela verificação do bot e receber o cargo <code>Newcomer</code>, segue os seguintes passos.</p>
 <h3> Passo 1: Junte-se ao nosso servidor e obtenha os cargos de <code>Newcomer</code> e <code>Fans</code></h3>
 <p>SSe ainda não se juntou ao servidor, por favor, leia a publicação de verificação, que explica como ingressar no servidor e obter as funções de <code>Newcomer</code> e <code>Fans</code>.</p>
 <h3> Passo 2: Vá para o canal <code>★⋅korepi-version-roles⋅★</code></h3>
