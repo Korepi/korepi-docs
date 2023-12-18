@@ -5,15 +5,15 @@ category:
   - Features
 tag:
   - Free Camera
-author: Schvis
+author: Schvis, Kaede
 order: 11
 ---
 
 ## Free Camera:
-- Move the camera freely without being locked to the character.
+- Gerak kamera dengan Move the camera freely without being locked to the character.
 ### Freeze Character Animation:
-- Freezes character animations.
+- Membikin karakter animasi static.
 ### Make Character Invisible:
-- Makes character invisible.
+- Mebikin karakter invisible.
 ### Block User Input:
-- Blocks user input therefore character wont move while moving the camera.
+- Blok pemain input yang bikin karakter tidak bergerak walaupun menggerakkan kamera.

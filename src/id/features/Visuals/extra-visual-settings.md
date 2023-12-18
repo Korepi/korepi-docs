@@ -5,14 +5,14 @@ category:
   - Features
 tag:
   - Extra Visual Settings
-author: Schvis
+author: Schvis, Kaede
 order: 7
 ---
 
 ## Extra Visual Settings:
 ### Gamma:
-- Allows you to change the gamma value of the game.
+- Memperbolehkan kamu mengganti gama value dari game.
 ### Outline Width:
-- Allows you to change the outline of every character in the game.
+- Memperbolehkan kamu menganti outline karakter yang ada di game.
 ### Anti-Aliasing:
-- Allows the player to change the anti-aliasing module to use, including some that are not available natively.
+- Memperbolehkan kamu mengganti anti-aliasing model yang di pakai. termasuk beberapa hal yang tidak dapat diubah natively.

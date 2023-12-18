@@ -5,8 +5,8 @@ category:
   - Features
 tag:
   - Map Zoom
-author: Schvis
+author: Schvis, Kaede
 order: 13
 ---
 
-## Map Zoom modifies the values to be used in the map.
+## Map zoom, modifikasi nilai perbesaran yang digunakan pada peta

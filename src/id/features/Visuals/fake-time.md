@@ -5,9 +5,9 @@ category:
   - Features
 tag:
   - Fake Time
-author: Schvis
+author: Schvis, Kaede
 order: 9
 ---
 
 ## Fake Time:
-- Changes in game time, hour and minutes.
+- Mengganti waktu di game, jam dan menit.

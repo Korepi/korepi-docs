@@ -5,15 +5,15 @@ category:
   - Features
 tag:
   - Monster Changer
-author: Schvis
-order: 14
+author: Schvis, Kaede
+order: 13
 ---
 
 ## Monster Changer:
-- When enabled, all new rendered monsters will be changed visually to the selected monster.
+- Kalo di enable, semua rendered monster akan di ganti visually ke monster yang di select.
 ### Exclude Animals:
-- Enable or Disable changing animals.
+- Enable atau Disable mengganti hewan.
 ### Custom Monster ID:
-- Use ID instead of the provided list.
+- Menggunakan ID daripada ID yang ada di list. 
 ### Randomize Monster:
-- The change will be random.
+- Perubahannya akan menjadi acak.

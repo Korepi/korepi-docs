@@ -5,8 +5,8 @@ category:
   - Features
 tag:
   - Skin Modifier
-author: Schvis
-order: 15
+author: Schvis, Kaede
+order: 14
 ---
 
-## Skin Modifier allows the player to use in-game skins for free.
+## Skin Modifier memperbolehkan pemain menggunakan skin dari game dengan gratis.

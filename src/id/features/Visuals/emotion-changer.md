@@ -5,8 +5,8 @@ category:
   - Features
 tag:
   - Emotion Changer
-author: Schvis
+author: Schvis, Kaede
 order: 6
 ---
 
-## Emotion Changer allows the player to change the current character emotion to the selected one.
+## Emotion Changer Memperbolehkan pemain mengganti ekspresi wajah karakter.

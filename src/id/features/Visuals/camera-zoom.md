@@ -6,7 +6,7 @@ category:
 tag:
   - Camera Zoom
 author: Schvis
-order: 2
+order: Schvis, Kaede
 ---
 
-## Camera zoom allows the user to change their camera zoom to their desired value.
+## Camera zoom Membisakan pemain mengganti kamera zoom ke value yang di inginkan.
