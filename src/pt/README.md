@@ -86,7 +86,7 @@ highlights:
         icon: tornado
         details: Atrai diferentes mobs próximos
 
-  - header: Últimas Correçõe
+  - header: Últimas Correções
     image: /assets/images/web/features.svg
     bgImage: https://theme-hope-assets.vuejs.press/bg/1-light.svg
     bgImageDark: https://theme-hope-assets.vuejs.press/bg/1-dark.svg
@@ -127,5 +127,5 @@ icon: lightning-bolt
         icon: shield-alt
         details: Priorizamos a segurança, garantindo um acesso seguro e protegendo suas informações
 copyright: false
-footer: Copyright © 2023 Micah && Kitten Reservados todos os direitos. Todas as outras marcas comerciais, capturas de tela, logotipos e direitos autorais são propriedade de seus respectivos proprietários.
+footer: Copyright © 2023 Micah & Kitten Reservados todos os direitos. Todas as outras marcas comerciais, capturas de tela, logotipos e direitos autorais são propriedade de seus respectivos proprietários.
 ---
