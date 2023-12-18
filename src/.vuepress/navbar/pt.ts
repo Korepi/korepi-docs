@@ -5,18 +5,18 @@ export const ptNavbar = navbar([
   "/pt/guide/",
   "/pt/start/",
   {
-    text: "Guía",
+    text: "Guia",
     icon: "lightbulb",
     prefix: "/pt/",
     children: [
       {
-        text: "Introducción",
+        text: "Introdução",
         icon: "lightbulb",
         prefix: "start/",
         children: ["join", { text: "...", icon: "ellipsis", link: "#" }],
       },
       {
-        text: "Guías",
+        text: "Guias",
         icon: "lightbulb",
         prefix: "guide/",
         children: ["getkey", { text: "...", icon: "ellipsis", link: "#" }],
