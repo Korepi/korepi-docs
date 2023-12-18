@@ -6,8 +6,8 @@
     <link>https://korepi.com/id/</link>
     <description>Pertolongan Korepi</description>
     <language>id-ID</language>
-    <pubDate>Mon, 18 Dec 2023 11:32:39 GMT</pubDate>
-    <lastBuildDate>Mon, 18 Dec 2023 11:32:39 GMT</lastBuildDate>
+    <pubDate>Mon, 18 Dec 2023 14:53:27 GMT</pubDate>
+    <lastBuildDate>Mon, 18 Dec 2023 14:53:27 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Features</category>
@@ -20,10 +20,10 @@
       <link>https://korepi.com/id/features/Visuals/animation-changer.html</link>
       <guid>https://korepi.com/id/features/Visuals/animation-changer.html</guid>
       <source url="https://korepi.com/id/rss.xml">Animation Changer</source>
-      <description>Animation Changer, allows the player to change their current character animation to the selected one.</description>
+      <description>Animation Changer, Memperbolehkan pemain mengganti animasi ke setingan yang dipilih.</description>
       <category>Features</category>
       <pubDate>Mon, 18 Dec 2023 00:59:43 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Animation Changer, allows the player to change their current character animation to the selected one.</h2>
+      <content:encoded><![CDATA[<h2> Animation Changer, Memperbolehkan pemain mengganti animasi ke setingan yang dipilih.</h2>
 ]]></content:encoded>
     </item>
     <item>
@@ -31,10 +31,10 @@
       <link>https://korepi.com/id/features/Visuals/camera-zoom.html</link>
       <guid>https://korepi.com/id/features/Visuals/camera-zoom.html</guid>
       <source url="https://korepi.com/id/rss.xml">Camera Zoom</source>
-      <description>Camera zoom allows the user to change their camera zoom to their desired value.</description>
+      <description>Camera zoom Membisakan pemain mengganti kamera zoom ke value yang di inginkan.</description>
       <category>Features</category>
       <pubDate>Mon, 18 Dec 2023 00:59:43 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Camera zoom allows the user to change their camera zoom to their desired value.</h2>
+      <content:encoded><![CDATA[<h2> Camera zoom Membisakan pemain mengganti kamera zoom ke value yang di inginkan.</h2>
 ]]></content:encoded>
     </item>
     <item>
@@ -42,22 +42,22 @@
       <link>https://korepi.com/id/features/Visuals/constellation-modifier.html</link>
       <guid>https://korepi.com/id/features/Visuals/constellation-modifier.html</guid>
       <source url="https://korepi.com/id/rss.xml">Constellation Modifier</source>
-      <description>Sponsor Only Constellation Modifier, will change your active character constellations if selected, visually and some of them will actually work. You can find more information ab...</description>
+      <description>Cuman Sponsor Aja yang bisa akses ini. Constellation Modifier, Akan mengganti konstelasi character yang dipilih, biasanya visual dan ada juga yang memang berkerja. Kamu bisa men...</description>
       <category>Features</category>
       <pubDate>Mon, 18 Dec 2023 00:59:43 GMT</pubDate>
       <content:encoded><![CDATA[<div class="hint-container info">
-<p class="hint-container-title">Sponsor Only</p>
+<p class="hint-container-title">Cuman Sponsor Aja yang bisa akses ini.</p>
 </div>
 <hr>
-<h2> Constellation Modifier, will change your active character constellations if selected, visually and some of them will actually work.</h2>
+<h2> Constellation Modifier, Akan mengganti konstelasi character yang dipilih, biasanya visual dan ada juga yang memang berkerja.</h2>
 <ul>
-<li>You can find more information about which of them work at <code>#⁠cons-check</code> in the server.</li>
+<li>Kamu bisa mendapatkan informasi konstelasi character yang berkerja di <code>#cons-check</code> di discord server.</li>
 </ul>
 <div class="hint-container tip">
-<p class="hint-container-title">You have to switch to each character you want to activate the constellations first and then teleport far away to activate them.</p>
+<p class="hint-container-title">kamu harus ganti ke karakter yang kamu mau dapet konstelasi untuk mengaktifkan konstelasi, terus teleport ke tempat yang jauh untuk konstelasi modifier bekerja.</p>
 </div>
 <h2> Example Video:</h2>
-<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/S9-g5weE9l8?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Constellation Modifier (Sponsor)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/S9-g5weE9l8?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Constellation Modifier (Sponsor)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 ]]></content:encoded>
     </item>
     <item>
@@ -65,37 +65,37 @@
       <link>https://korepi.com/id/features/Visuals/custom-profile.html</link>
       <guid>https://korepi.com/id/features/Visuals/custom-profile.html</guid>
       <source url="https://korepi.com/id/rss.xml">Custom Profile</source>
-      <description>Custom Profile: UID: Select the UID you want to be displayed.; Nickname: Select the Nickname you want to be displayed.; Level: Select the Level you want to be displayed.; EXP: S...</description>
+      <description>Custom Profile: UID: Pilih UID yang kamu mau tampilkan.; Nickname: Pilih Nickname yang kamu mau tampilkan.; Level: Pilih Level yang kamu mau tampilkan.; EXP: Pilih EXP yang kamu...</description>
       <category>Features</category>
       <pubDate>Mon, 18 Dec 2023 00:59:43 GMT</pubDate>
       <content:encoded><![CDATA[<h2> Custom Profile:</h2>
 <h3> UID:</h3>
 <ul>
-<li>Select the UID you want to be displayed.</li>
+<li>Pilih UID yang kamu mau tampilkan.</li>
 </ul>
 <h3> Nickname:</h3>
 <ul>
-<li>Select the Nickname you want to be displayed.</li>
+<li>Pilih Nickname yang kamu mau tampilkan.</li>
 </ul>
 <h3> Level:</h3>
 <ul>
-<li>Select the Level you want to be displayed.</li>
+<li>Pilih Level yang kamu mau tampilkan.</li>
 </ul>
 <h3> EXP:</h3>
 <ul>
-<li>Select the EXP you want to be displayed.</li>
+<li>Pilih EXP yang kamu mau tampilkan.</li>
 </ul>
 <h3> World Level:</h3>
 <ul>
-<li>Select the World Level you want to be displayed.</li>
+<li>Pilih World level yang kamu mau tampilkan.</li>
 </ul>
 <h3> Avatar Image:</h3>
 <ul>
-<li>Use a custom png as avatar image.</li>
+<li>Menggunakan Kustom PNG untuk menampilkan gambar profil/avatar.</li>
 </ul>
 <h3> Card Image:</h3>
 <ul>
-<li>Use a custom png as card image.</li>
+<li>Menggunakan Kustom PNG untuk menampilkan gambar kartu/banner.</li>
 </ul>
 ]]></content:encoded>
     </item>
@@ -104,10 +104,10 @@
       <link>https://korepi.com/id/features/Visuals/custom-weather.html</link>
       <guid>https://korepi.com/id/features/Visuals/custom-weather.html</guid>
       <source url="https://korepi.com/id/rss.xml">Custom Weather</source>
-      <description>Custom Wether allows you to change the weather to your liking.</description>
+      <description>Custom weather, memperbolehkan mengganti cuaca dengan pilihan yang kamu mau pake.</description>
       <category>Features</category>
       <pubDate>Mon, 18 Dec 2023 00:59:43 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Custom Wether allows you to change the weather to your liking.</h2>
+      <content:encoded><![CDATA[<h2> Custom weather, memperbolehkan mengganti cuaca dengan pilihan yang kamu mau pake.</h2>
 ]]></content:encoded>
     </item>
     <item>
@@ -115,10 +115,10 @@
       <link>https://korepi.com/id/features/Visuals/emotion-changer.html</link>
       <guid>https://korepi.com/id/features/Visuals/emotion-changer.html</guid>
       <source url="https://korepi.com/id/rss.xml">Emotion Changer</source>
-      <description>Emotion Changer allows the player to change the current character emotion to the selected one.</description>
+      <description>Emotion Changer Memperbolehkan pemain mengganti ekspresi wajah karakter.</description>
       <category>Features</category>
       <pubDate>Mon, 18 Dec 2023 00:59:43 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Emotion Changer allows the player to change the current character emotion to the selected one.</h2>
+      <content:encoded><![CDATA[<h2> Emotion Changer Memperbolehkan pemain mengganti ekspresi wajah karakter.</h2>
 ]]></content:encoded>
     </item>
     <item>
@@ -126,21 +126,21 @@
       <link>https://korepi.com/id/features/Visuals/extra-visual-settings.html</link>
       <guid>https://korepi.com/id/features/Visuals/extra-visual-settings.html</guid>
       <source url="https://korepi.com/id/rss.xml">Extra Visual Settings</source>
-      <description>Extra Visual Settings: Gamma: Allows you to change the gamma value of the game.; Outline Width: Allows you to change the outline of every character in the game.; Anti-Aliasing: ...</description>
+      <description>Extra Visual Settings: Gamma: Memperbolehkan kamu mengganti gama value dari game.; Outline Width: Memperbolehkan kamu menganti outline karakter yang ada di game.; Anti-Aliasing:...</description>
       <category>Features</category>
       <pubDate>Mon, 18 Dec 2023 00:59:43 GMT</pubDate>
       <content:encoded><![CDATA[<h2> Extra Visual Settings:</h2>
 <h3> Gamma:</h3>
 <ul>
-<li>Allows you to change the gamma value of the game.</li>
+<li>Memperbolehkan kamu mengganti gama value dari game.</li>
 </ul>
 <h3> Outline Width:</h3>
 <ul>
-<li>Allows you to change the outline of every character in the game.</li>
+<li>Memperbolehkan kamu menganti outline karakter yang ada di game.</li>
 </ul>
 <h3> Anti-Aliasing:</h3>
 <ul>
-<li>Allows the player to change the anti-aliasing module to use, including some that are not available natively.</li>
+<li>Memperbolehkan kamu mengganti anti-aliasing model yang di pakai. termasuk beberapa hal yang tidak dapat diubah natively.</li>
 </ul>
 ]]></content:encoded>
     </item>
@@ -149,24 +149,24 @@
       <link>https://korepi.com/id/features/Visuals/fake-time.html</link>
       <guid>https://korepi.com/id/features/Visuals/fake-time.html</guid>
       <source url="https://korepi.com/id/rss.xml">Fake Time</source>
-      <description>Fake Time: Changes in game time, hour and minutes.;</description>
+      <description>Fake Time: Mengganti waktu di game, jam dan menit.;</description>
       <category>Features</category>
       <pubDate>Mon, 18 Dec 2023 00:59:43 GMT</pubDate>
       <content:encoded><![CDATA[<h2> Fake Time:</h2>
 <ul>
-<li>Changes in game time, hour and minutes.</li>
+<li>Mengganti waktu di game, jam dan menit.</li>
 </ul>
 ]]></content:encoded>
     </item>
     <item>
-      <title>Flycloak Modifier</title>
+      <title>Flycloack Modifier</title>
       <link>https://korepi.com/id/features/Visuals/flycloak-modifier.html</link>
       <guid>https://korepi.com/id/features/Visuals/flycloak-modifier.html</guid>
-      <source url="https://korepi.com/id/rss.xml">Flycloak Modifier</source>
-      <description>Flycloak Modifier allow the player to change their glider skin even if they don&amp;apos;t own it.</description>
+      <source url="https://korepi.com/id/rss.xml">Flycloack Modifier</source>
+      <description>Flycloack Modifier Memperbolehkan pemain untuk mengganti skin glider bahkan jika kamu tidak mempunyainya.</description>
       <category>Features</category>
       <pubDate>Mon, 18 Dec 2023 00:59:43 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Flycloak Modifier allow the player to change their glider skin even if they don't own it.</h2>
+      <content:encoded><![CDATA[<h2> Flycloack Modifier Memperbolehkan pemain untuk mengganti skin glider bahkan jika kamu tidak mempunyainya.</h2>
 ]]></content:encoded>
     </item>
     <item>
@@ -174,13 +174,13 @@
       <link>https://korepi.com/id/features/Visuals/fps-unlock.html</link>
       <guid>https://korepi.com/id/features/Visuals/fps-unlock.html</guid>
       <source url="https://korepi.com/id/rss.xml">FPS Unlock</source>
-      <description>Unlocks FPS.Unlocks FPS yeah.Unlocks FPS wow. Limit background FPS: Set the max fps game can reach when its not focused.;</description>
+      <description>Membuka batas fps. Membuka batas fps. Membuka batas fps wow. Limit background FPS: Atur fps maksimal game yang dapat dicapai saat game sedang tidak terfokus;</description>
       <category>Features</category>
       <pubDate>Mon, 18 Dec 2023 00:59:43 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Unlocks FPS.Unlocks FPS yeah.Unlocks FPS wow.</h2>
+      <content:encoded><![CDATA[<h2> Membuka batas fps. Membuka batas fps. Membuka batas fps wow.</h2>
 <h3> Limit background FPS:</h3>
 <ul>
-<li>Set the max fps game can reach when its not focused.</li>
+<li>Atur fps maksimal game yang dapat dicapai saat game sedang tidak terfokus</li>
 </ul>
 ]]></content:encoded>
     </item>
@@ -189,24 +189,24 @@
       <link>https://korepi.com/id/features/Visuals/free-camera.html</link>
       <guid>https://korepi.com/id/features/Visuals/free-camera.html</guid>
       <source url="https://korepi.com/id/rss.xml">Free Camera</source>
-      <description>Free Camera: Move the camera freely without being locked to the character.; Freeze Character Animation: Freezes character animations.; Make Character Invisible: Makes character ...</description>
+      <description>Free Camera: Gerak kamera dengan Move the camera freely without being locked to the character.; Freeze Character Animation: Membikin karakter animasi static.; Make Character Inv...</description>
       <category>Features</category>
       <pubDate>Mon, 18 Dec 2023 00:59:43 GMT</pubDate>
       <content:encoded><![CDATA[<h2> Free Camera:</h2>
 <ul>
-<li>Move the camera freely without being locked to the character.</li>
+<li>Gerak kamera dengan Move the camera freely without being locked to the character.</li>
 </ul>
 <h3> Freeze Character Animation:</h3>
 <ul>
-<li>Freezes character animations.</li>
+<li>Membikin karakter animasi static.</li>
 </ul>
 <h3> Make Character Invisible:</h3>
 <ul>
-<li>Makes character invisible.</li>
+<li>Mebikin karakter invisible.</li>
 </ul>
 <h3> Block User Input:</h3>
 <ul>
-<li>Blocks user input therefore character wont move while moving the camera.</li>
+<li>Blok pemain input yang bikin karakter tidak bergerak walaupun menggerakkan kamera.</li>
 </ul>
 ]]></content:encoded>
     </item>
@@ -215,24 +215,24 @@
       <link>https://korepi.com/id/features/Visuals/hide-ui.html</link>
       <guid>https://korepi.com/id/features/Visuals/hide-ui.html</guid>
       <source url="https://korepi.com/id/rss.xml">Hide UI</source>
-      <description>Hide UI: Hides player user interface entirely.; Hide Ping: (Sponsor) Hides ping only.; Hide HP Bar: (Sponsor) Hides current character HP bar only.; Hide Team HP Bar: (Sponsor) H...</description>
+      <description>Hide UI: Menyembunyikan User Interface.; Hide Ping: (Sponsor) Menyembunyikan Ping. ; Hide HP Bar: (Sponsor) Menyembunyikan karakter HP bar.; Hide Team HP Bar: (Sponsor) Menyembu...</description>
       <category>Features</category>
       <pubDate>Mon, 18 Dec 2023 00:59:43 GMT</pubDate>
       <content:encoded><![CDATA[<h2> Hide UI:</h2>
 <ul>
-<li>Hides player user interface entirely.</li>
+<li>Menyembunyikan User Interface.</li>
 </ul>
 <h3> Hide Ping: (<span style="color:yellow;">Sponsor</span>)</h3>
 <ul>
-<li>Hides ping only.</li>
+<li>Menyembunyikan Ping.</li>
 </ul>
 <h3> Hide HP Bar: (<span style="color:yellow;">Sponsor</span>)</h3>
 <ul>
-<li>Hides current character HP bar only.</li>
+<li>Menyembunyikan karakter HP bar.</li>
 </ul>
 <h3> Hide Team HP Bar: (<span style="color:yellow;">Sponsor</span>)</h3>
 <ul>
-<li>Hides team hp bar on the character tab only.</li>
+<li>Menyembunyikan Team HP bar di karakter tab.</li>
 </ul>
 ]]></content:encoded>
     </item>
@@ -241,10 +241,10 @@
       <link>https://korepi.com/id/features/Visuals/map-zoom.html</link>
       <guid>https://korepi.com/id/features/Visuals/map-zoom.html</guid>
       <source url="https://korepi.com/id/rss.xml">Map Zoom</source>
-      <description>Map Zoom modifies the values to be used in the map.</description>
+      <description>Map zoom, modifikasi nilai perbesaran yang digunakan pada peta</description>
       <category>Features</category>
       <pubDate>Mon, 18 Dec 2023 00:59:43 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Map Zoom modifies the values to be used in the map.</h2>
+      <content:encoded><![CDATA[<h2> Map zoom, modifikasi nilai perbesaran yang digunakan pada peta</h2>
 ]]></content:encoded>
     </item>
     <item>
@@ -252,24 +252,24 @@
       <link>https://korepi.com/id/features/Visuals/monster-changer.html</link>
       <guid>https://korepi.com/id/features/Visuals/monster-changer.html</guid>
       <source url="https://korepi.com/id/rss.xml">Monster Changer</source>
-      <description>Monster Changer: When enabled, all new rendered monsters will be changed visually to the selected monster.; Exclude Animals: Enable or Disable changing animals.; Custom Monster ...</description>
+      <description>Monster Changer: Kalo di enable, semua rendered monster akan di ganti visually ke monster yang di select.; Exclude Animals: Enable atau Disable mengganti hewan.; Custom Monster ...</description>
       <category>Features</category>
       <pubDate>Mon, 18 Dec 2023 00:59:43 GMT</pubDate>
       <content:encoded><![CDATA[<h2> Monster Changer:</h2>
 <ul>
-<li>When enabled, all new rendered monsters will be changed visually to the selected monster.</li>
+<li>Kalo di enable, semua rendered monster akan di ganti visually ke monster yang di select.</li>
 </ul>
 <h3> Exclude Animals:</h3>
 <ul>
-<li>Enable or Disable changing animals.</li>
+<li>Enable atau Disable mengganti hewan.</li>
 </ul>
 <h3> Custom Monster ID:</h3>
 <ul>
-<li>Use ID instead of the provided list.</li>
+<li>Menggunakan ID daripada ID yang ada di list.</li>
 </ul>
 <h3> Randomize Monster:</h3>
 <ul>
-<li>The change will be random.</li>
+<li>Perubahannya akan menjadi acak.</li>
 </ul>
 ]]></content:encoded>
     </item>
@@ -297,18 +297,17 @@
 <h3> No Camera Shake</h3>
 <h3> No Footprints</h3>
 <h3> No Burst Animation</h3>
-<h2> Example Video:</h2>
-<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/AjkJ8S8NHsI?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Visuals/Other" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>]]></content:encoded>
+]]></content:encoded>
     </item>
     <item>
       <title>Skin Modifier</title>
       <link>https://korepi.com/id/features/Visuals/skin-modifier.html</link>
       <guid>https://korepi.com/id/features/Visuals/skin-modifier.html</guid>
       <source url="https://korepi.com/id/rss.xml">Skin Modifier</source>
-      <description>Skin Modifier allows the player to use in-game skins for free.</description>
+      <description>Skin Modifier memperbolehkan pemain menggunakan skin dari game dengan gratis.</description>
       <category>Features</category>
       <pubDate>Mon, 18 Dec 2023 00:59:43 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Skin Modifier allows the player to use in-game skins for free.</h2>
+      <content:encoded><![CDATA[<h2> Skin Modifier memperbolehkan pemain menggunakan skin dari game dengan gratis.</h2>
 ]]></content:encoded>
     </item>
     <item>
@@ -316,14 +315,14 @@
       <link>https://korepi.com/id/features/Visuals/texture-changer.html</link>
       <guid>https://korepi.com/id/features/Visuals/texture-changer.html</guid>
       <source url="https://korepi.com/id/rss.xml">Texture Changer</source>
-      <description>Its better to use GIMI (../../guide/3DM-tutorial.md) for changing textures. Texture Changer allows to switch character parts to the provided .png files.</description>
+      <description>Lebih baik menggunakan GIMI (../../guide/3DM-tutorial.md) Untuk mengganti texture. Texture Changer Memperbolehkan ganti karakter parts dari .png file yang di pilih.</description>
       <category>Features</category>
       <pubDate>Mon, 18 Dec 2023 00:59:43 GMT</pubDate>
       <content:encoded><![CDATA[<div class="hint-container info">
-<p class="hint-container-title">Its better to use [GIMI](../../guide/3DM-tutorial.md) for changing textures.</p>
+<p class="hint-container-title">Lebih baik menggunakan [GIMI](../../guide/3DM-tutorial.md) Untuk mengganti texture.</p>
 </div>
 <hr>
-<h2> Texture Changer allows to switch character parts to the provided .png files.</h2>
+<h2> Texture Changer Memperbolehkan ganti karakter parts dari .png file yang di pilih.</h2>
 ]]></content:encoded>
     </item>
     <item>
