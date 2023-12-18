@@ -6,13 +6,24 @@
     <link>https://korepi.com/es/</link>
     <description>Ayuda en Korepi</description>
     <language>es-ES</language>
-    <pubDate>Sun, 17 Dec 2023 17:56:24 GMT</pubDate>
-    <lastBuildDate>Sun, 17 Dec 2023 17:56:24 GMT</lastBuildDate>
+    <pubDate>Mon, 18 Dec 2023 04:43:43 GMT</pubDate>
+    <lastBuildDate>Mon, 18 Dec 2023 04:43:43 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Funciones</category>
     <category>Errores</category>
     <category>Guía</category>
+    <item>
+      <title>Modificador de Planeador</title>
+      <link>https://korepi.com/es/features/Visuals/flycloak-modifier.html</link>
+      <guid>https://korepi.com/es/features/Visuals/flycloak-modifier.html</guid>
+      <source url="https://korepi.com/es/rss.xml">Modificador de Planeador</source>
+      <description>Modificador de Planeador te permite cambiar tu planeador aunque no tengas la skin desbloqueada.</description>
+      <category>Funciones</category>
+      <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Modificador de Planeador te permite cambiar tu planeador aunque no tengas la skin desbloqueada.</h2>
+]]></content:encoded>
+    </item>
     <item>
       <title>Cambiador de Animación</title>
       <link>https://korepi.com/es/features/Visuals/animation-changer.html</link>
@@ -154,17 +165,6 @@
 <ul>
 <li>Cambia el tiempo dentro del juego a tu gusto.</li>
 </ul>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Modificador de Planeador</title>
-      <link>https://korepi.com/es/features/Visuals/flycloack-modifier.html</link>
-      <guid>https://korepi.com/es/features/Visuals/flycloack-modifier.html</guid>
-      <source url="https://korepi.com/es/rss.xml">Modificador de Planeador</source>
-      <description>Modificador de Planeador te permite cambiar tu planeador aunque no tengas la skin desbloqueada.</description>
-      <category>Funciones</category>
-      <pubDate>Sun, 17 Dec 2023 01:56:49 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Modificador de Planeador te permite cambiar tu planeador aunque no tengas la skin desbloqueada.</h2>
 ]]></content:encoded>
     </item>
     <item>
@@ -790,10 +790,10 @@ Nota 2: Puedes encontrar los IDs <a href="https://github.com/jie65535/Grasscutte
       <link>https://korepi.com/es/features/Teleport/chest-teleport.html</link>
       <guid>https://korepi.com/es/features/Teleport/chest-teleport.html</guid>
       <source url="https://korepi.com/es/rss.xml">Teletransporte de Cofre</source>
-      <description>Teletransporte de Cofre te teletransportara al oculus más cercano renderizado. Nota: Espera &amp;gt;15s entre teletransportes por seguridad. Video de Ejemplo:</description>
+      <description>Teletransporte de Cofre te teletransportara al cofre más cercano renderizado. Nota: Espera &amp;gt;15s entre teletransportes por seguridad. Video de Ejemplo:</description>
       <category>Funciones</category>
       <pubDate>Sat, 16 Dec 2023 17:06:44 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Teletransporte de Cofre te teletransportara al oculus más cercano renderizado.</h2>
+      <content:encoded><![CDATA[<h2> Teletransporte de Cofre te teletransportara al cofre más cercano renderizado.</h2>
 <blockquote>
 <p>Nota: Espera <code>&gt;15s</code> entre teletransportes por seguridad.</p>
 </blockquote>
@@ -889,14 +889,14 @@ Nota 2: Puedes encontrar los IDs <a href="https://github.com/jie65535/Grasscutte
       <link>https://korepi.com/es/features/World/auto-destroy.html</link>
       <guid>https://korepi.com/es/features/World/auto-destroy.html</guid>
       <source url="https://korepi.com/es/rss.xml">Auto Destruir Objetos</source>
-      <description>Auto Destruir Objetos te permite destruir objetos como cofres, plantas, escudos, minerales y más automaticamente con rangos personalizados. Video de Ejemplo: Note: Recommended v...</description>
+      <description>Auto Destruir Objetos te permite destruir objetos como cofres, plantas, escudos, minerales y más automaticamente con rangos personalizados. Video de Ejemplo: Nota: El valor reco...</description>
       <category>Funciones</category>
       <pubDate>Sat, 16 Dec 2023 17:06:44 GMT</pubDate>
       <content:encoded><![CDATA[<h3> Auto Destruir Objetos te permite destruir objetos como cofres, plantas, escudos, minerales y más automaticamente con rangos personalizados.</h3>
 <h2> Video de Ejemplo:</h2>
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/3ML6s3SR8nE?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Destroy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 <blockquote>
-<p>Note: Recommended value is below <code>20m</code>, not recommended to use at max range (<code>40m</code>)</p>
+<p>Nota: El valor recomendado es por debajo de <code>20m</code>, no se recomienda usar al rango máximo (<code>40m</code>)</p>
 </blockquote>
 ]]></content:encoded>
     </item>
@@ -1160,6 +1160,26 @@ Nota 2: No se recomienda usar.</p>
 <li><a href="/es/features/Teleport/map-teleport.html" target="blank">Teletransporte de Mapa</a></li>
 <li><a href="/es/features/Teleport/quest-teleport.html" target="blank">Teletransporte de Misión</a></li>
 </ul>
+<h3> Visuals</h3>
+<ul>
+<li><a href="/es/features/Visuals/animation-changer.html" target="blank">Cambiador de Animación</a></li>
+<li><a href="/es/features/Visuals/camera-zoom.html" target="blank">Zoom de Cámara</a></li>
+<li><a href="/es/features/Visuals/constellation-modifier.html" target="blank">Modificador de Constelaciones</a></li>
+<li><a href="/es/features/Visuals/custom-profile.html" target="blank">Perfil Personalizado</a></li>
+<li><a href="/es/features/Visuals/custom-weather.html" target="blank">Clima Personalizado</a></li>
+<li><a href="/es/features/Visuals/emotion-changer.html" target="blank">Cambiador de Emociones</a></li>
+<li><a href="/es/features/Visuals/extra-visual-settings.html" target="blank">Extra Visual Settings</a></li>
+<li><a href="/es/features/Visuals/fps-unlock.html" target="blank">Desbloqueador de FPS</a></li>
+<li><a href="/es/features/Visuals/fake-time.html" target="blank">Tiempo Falso</a></li>
+<li><a href="/es/features/Visuals/flycloak-modifier.html" target="blank">Modificador de Planeador</a></li>
+<li><a href="/es/features/Visuals/free-camera.html" target="blank">Cámara Libre</a></li>
+<li><a href="/es/features/Visuals/hide-ui.html" target="blank">Esconder Interfaz</a></li>
+<li><a href="/es/features/Visuals/map-zoom.html" target="blank">Zoom de Mapa</a></li>
+<li><a href="/es/features/Visuals/monster-changer.html" target="blank">Cambiador de Monstruos</a></li>
+<li><a href="/es/features/Visuals/skin-modifier.html" target="blank">Modificador de Pieles</a></li>
+<li><a href="/es/features/Visuals/skin-modifier.html" target="blank">Cambiador de Texturas</a></li>
+<li><a href="/es/features/Visuals/others.html" target="blank">Otros</a></li>
+</ul>
 <h3> World</h3>
 <ul>
 <li><a href="/es/features/World/auto-activate-tp.html" target="blank">Auto Activar Teletransportes</a></li>
@@ -1184,22 +1204,22 @@ Nota 2: No se recomienda usar.</p>
       <link>https://korepi.com/es/troubleshoot/31-4302.html</link>
       <guid>https://korepi.com/es/troubleshoot/31-4302.html</guid>
       <source url="https://korepi.com/es/rss.xml">Error 31-4302</source>
-      <description>omo solucionar el error 31-4302 Metodo 1 Comprueba que tu juego contenga solo archivos originales, si hay alguno que no lo es, sacalo de la carpeta, como el siguiente ejemplo: S...</description>
+      <description>Como solucionar el error 31-4302 Método 1 Comprueba que tu juego contenga solo archivos originales, si hay alguno que no lo es, sácalo de la carpeta, como el siguiente ejemplo: ...</description>
       <category>Errores</category>
       <pubDate>Wed, 13 Dec 2023 02:23:02 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> omo solucionar el error <code>31-4302</code></h2>
+      <content:encoded><![CDATA[<h2> Como solucionar el error <code>31-4302</code></h2>
 <p><img src="/assets/images/docs/202312/31-4302.png" alt="" loading="lazy"></p>
-<h3> Metodo 1</h3>
-<p>Comprueba que tu juego contenga solo archivos originales, si hay alguno que no lo es, sacalo de la carpeta, como el siguiente ejemplo:</p>
+<h3> Método 1</h3>
+<p>Comprueba que tu juego contenga solo archivos originales, si hay alguno que no lo es, sácalo de la carpeta, como el siguiente ejemplo:</p>
 <p><img src="/assets/images/docs/202312/launcher.png" alt="" loading="lazy"></p>
 <p><img src="/assets/images/docs/202312/folder1.png" alt="" loading="lazy"></p>
 <p>Si sigues teniendo el error sigue leyendo.</p>
-<h3> Metodo 2</h3>
+<h3> Método 2</h3>
 <p>Ve a Korepi y ve a <code>Settings --&gt; Other</code>.</p>
 <p><img src="/assets/images/docs/202312/settings1.png" alt="" loading="lazy"></p>
 <p>Encuentra <code>Bypass Intengrity</code> y deshabilita la opción.</p>
 <p><img src="/assets/images/docs/202312/settings2.png" alt="" loading="lazy"></p>
-<p>El error deberia desaparecer.</p>
+<p>El error debería desaparecer.</p>
 <h2> Que hago si no puedo entrar a Korepi?</h2>
 <p>Ve a tu carpeta de Korepi y encuentra <code>cfg.json</code>, usa <code>CTRL + F</code>, y escribe <code>bypass</code> y le das a buscar, cambia el valor a <code>false</code> y abre Korepi de nuevo.</p>
 <h2> Que hago si no funciona</h2>
@@ -1231,16 +1251,16 @@ Nota 2: No se recomienda usar.</p>
       <link>https://korepi.com/es/troubleshoot/faq-error.html</link>
       <guid>https://korepi.com/es/troubleshoot/faq-error.html</guid>
       <source url="https://korepi.com/es/rss.xml">Errores Frecuentes del mod</source>
-      <description>Lista de errores frecuentes Por qué mi Korepi desaparece? Deshabilita el anti-virus y crea una carpeta nueva, pon korepi dentro y añadelo a exclusiones dentro del anti-virus: Ab...</description>
+      <description>Lista de errores frecuentes Por qué mi Korepi desaparece? Deshabilita el anti-virus y crea una carpeta nueva, pon korepi dentro y añádelo a exclusiones dentro del anti-virus: Ab...</description>
       <category>Errores</category>
       <pubDate>Wed, 13 Dec 2023 02:23:02 GMT</pubDate>
       <content:encoded><![CDATA[<h2> Lista de errores frecuentes</h2>
 <h2> Por qué mi Korepi desaparece?</h2>
-<p>Deshabilita el anti-virus y crea una carpeta nueva, pon korepi dentro y añadelo a exclusiones dentro del anti-virus:</p>
+<p>Deshabilita el anti-virus y crea una carpeta nueva, pon korepi dentro y añádelo a exclusiones dentro del anti-virus:</p>
 <p><img src="/assets/images/docs/202312/virus.png" alt="" loading="lazy"></p>
-<p>Abre Korepi depuès de haber completado este paso.</p>
+<p>Abre Korepi después de haber completado este paso.</p>
 <h2> Status: No active subscribtion(s) found, Invalid license key</h2>
-<p>Necesitas <a href="/es/guide/getkey.html" target="blank">conseguir una nueva key</a> en <code>⁠★⋅micah-bot-verify⋅★</code>, si no puedes conseguir una key o si no te funciona la key tendras que esperar hasta que se caduque.</p>
+<p>Necesitas <a href="/es/guide/getkey.html" target="blank">conseguir una nueva key</a> en <code>⁠★⋅micah-bot-verify⋅★</code>, si no puedes conseguir una key o si no te funciona la key tendrás que esperar hasta que se caduque.</p>
 <p><code>Los Sponsors pueden usar F:Reset Key para conseguir una nueva.</code></p>
 <h2> [DLL injection]  Process crashed, exit code 0xc000005</h2>
 <p>Abre el cmd como administrador y escribe lo siguiente:</p>
@@ -1248,7 +1268,7 @@ Nota 2: No se recomienda usar.</p>
 <p>Si se encontraron errores, reinicia el ordenador y comprueba si funciona.</p>
 <p>Si al reiniciar no funciona o si no se encontró errores, prueba lo siguiente:</p>
 <p><code>DISM.exe /Online /Cleanup-Image /RestoreHealth</code></p>
-<p>Después de completar ese paso, reinicia el ordenador y comprueba si funciona, si no funciona tendras que reisntalar windows.</p>
+<p>Después de completar ese paso, reinicia el ordenador y comprueba si funciona, si no funciona tendrás que reinstalar windows.</p>
 <h2> ImGUI: DirectX11 backend initialized successfully.</h2>
 <p>Este error ocurre por los temas instalados, borra tu carpeta de <code>themes</code>.</p>
 <h2> El sistema no detecto MSVCP140.dll</h2>
@@ -1256,7 +1276,7 @@ Nota 2: No se recomienda usar.</p>
 <p>Actualiza o Instala <a href="https://www.microsoft.com/en-us/download/details.aspx?id=35" target="_blank" rel="noopener noreferrer">DirectX</a>.</p>
 <h2> El Archivo está corrupto! ¡Este programa ha sido manipulado!</h2>
 <p><img src="/assets/images/docs/202312/virus2.png" alt="" loading="lazy"></p>
-<p>En este caso deberas instalar <code>Malware Bytes</code> o <code>Dr.Web</code> y hacer un escaneo completo, si se encuentra un virus, borralo, y reinicia el ordenador, si no funciono, deberas reinstalar windows.</p>
+<p>En este caso deberás instalar <code>Malware Bytes</code> o <code>Dr.Web</code> y hacer un escaneo completo, si se encuentra un virus, bórrelo, y reinicia el ordenador, si no funciono, deberás reinstalar windows.</p>
 <h2> Timeout was reached</h2>
 <p><img src="/assets/images/docs/202312/error1.png" alt="" loading="lazy"></p>
 <p>Reinicia tu router.</p>
@@ -1271,7 +1291,7 @@ Nota 2: No se recomienda usar.</p>
 <p>Si se encontraron errores, reinicia el ordenador y comprueba si funciona.</p>
 <p>Si al reiniciar no funciona o si no se encontró errores, prueba lo siguiente:</p>
 <p><code>DISM.exe /Online /Cleanup-Image /RestoreHealth</code></p>
-<p>Después de completar ese paso, reinicia el ordenador y comprueba si funciona, si no funciona tendras que reisntalar windows.</p>
+<p>Después de completar ese paso, reinicia el ordenador y comprueba si funciona, si no funciona tendrás que reinstalar windows.</p>
 <h2> Signature checksum failed</h2>
 <p><img src="/assets/images/docs/202312/checksum.png" alt="" loading="lazy"></p>
 <p>Los servidores están caídos, espera a que vuelvan.</p>
@@ -1292,7 +1312,7 @@ Nota 2: No se recomienda usar.</p>
 <p>Si no funciona usa <code>sfc /scannow</code> en tu <code>cmd</code> como administrador.</p>
 <p>Si se encontraron errores y Windows no lo puede solucionar, una <code>DISM.exe /Online /Cleanup-Image /RestoreHealth</code> en el <code>cmd</code>.</p>
 <p>Después de eso reiniciar tu ordenador y comprueba si funciona.</p>
-<p>Si no funciona, tendras que reinstalar windows.</p>
+<p>Si no funciona, tendrás que reinstalar windows.</p>
 ]]></content:encoded>
       <enclosure url="https://korepi.com/assets/images/docs/202312/virus.png" type="image/png"/>
     </item>
@@ -1322,7 +1342,7 @@ Nota 2: No se recomienda usar.</p>
 <h3> Paso 2: Consigue tu <code>HWID</code></h3>
 <p>Para conseguir tu <code>HWID</code> deberas abrir el mod <code>Local(V)</code> una vez, y se te copiara el <code>HWID</code> en el portapapeles.</p>
 <h3> Paso 3: Consigue tu <code>enc.json</code></h3>
-<p>Ve al canal de <code>⁠★⋅micah-bot-verify⋅★</code> y dale click a <code>V:Verify</code>, saldrá una ventana preguntándote por tu <code>HWID</code>, pega el <code>HWID</code> y dale click a <code>Submit</code>, después descarga el archivo que te envie el bot.</p>
+<p>Ve al canal de <code>⁠★⋅micah-bot-verify⋅★</code> y dale click a <code>V:Verify</code>, saldrá una ventana preguntándote por tu <code>HWID</code>, pega el <code>HWID</code> y dale click a <code>Submit</code>, después descarga el archivo que te envié el bot.</p>
 <h3> Paso 4: Pon tu archivo junto a Korepi</h3>
 <p>Después de conseguir tu archivo, ponlo junto a korepi dentro de tu carpeta, abre el mod de nuevo y podrás usarlo. Recuerda que el nombre debe de ser <code>enc.json</code>.</p>
 <p>Disfruta de Korepi!</p>
@@ -1460,11 +1480,11 @@ Para poder usar skins personalizadas en Korepi tendremos que descargar la aplica
 <p>Disfruta de Korepi!</p>
 <h2> Restablecer HWID: Local(V) (<span style="color:yellow;">Sponsor</span>)</h2>
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/q0G9UZHErrg?list=PL5eI1Tb64p56Mp6JqoR_o3BYk9UFTbOQI" title="How to reset Local V HWID" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
-<h3> Step 1: Encuentra tu HWID</h3>
+<h3> Paso 1: Encuentra tu HWID</h3>
 <p>Para conseguir tu HWID actual deberás abrir tu <code>Local(V) injector</code>, y copiara tu HWID automaticamente a tu portapapeles.</p>
-<h3> Step 2: Encuentra el canal de <code>★⋅micah-bot-verify⋅★</code></h3>
+<h3> Paso 2: Encuentra el canal de <code>★⋅micah-bot-verify⋅★</code></h3>
 <p>Después de encontrar <code>★⋅micah-bot-verify⋅★</code>, dale click a <code>V:Change HWID</code>, una ventana aparecerá, pega tu HWID y dale a <code>Submit</code>.</p>
-<h3> Step 3: Consigue tu nuevo <code>enc.json</code></h3>
+<h3> Paso 3: Consigue tu nuevo <code>enc.json</code></h3>
 <p>Después de restablecer tu HWID dale click a <code>V:Verify</code> y pega tu nuevo HWID en la ventana y dale a <code>Submit</code>. Ahora descarga el nuevo <code>enc.json</code> y cámbialo en tu carpeta de Korepi.</p>
 <p>Nota: Recuerda que el nombre del archivo tiene que ser <code>enc.json</code>.</p>
 ]]></content:encoded>
@@ -1520,7 +1540,7 @@ Para poder usar skins personalizadas en Korepi tendremos que descargar la aplica
 <h2> Introducción</h2>
 <p>¡Bienvenid@ a nuestra comunidad! Para pasar la verificación del bot y recibir el rol de <code>Newcomer</code>, sigue los siguientes pasos.</p>
 <h3> Paso 1: Únete a nuestro servidor y obtén los roles de <code>Newcomer</code> y <code>Fans</code></h3>
-<p>Si aún no te has unido al servidor, por favor, lee la publicación de verificacion, que explica cómo unirse al servidor y obtener los roles de <code>Newcomer</code> y <code>Fans</code>.</p>
+<p>Si aún no te has unido al servidor, por favor, lee la publicación de verificación, que explica cómo unirse al servidor y obtener los roles de <code>Newcomer</code> y <code>Fans</code>.</p>
 <h3> Paso 2: Ve al canal de <code>★⋅korepi-version-roles⋅★</code></h3>
 <p>Localiza el canal <code>★⋅korepi-version-roles⋅★</code> y elige el rol correspondiente a la versión F o V. Recomendamos seleccionar el rol F.</p>
 <h3> Paso 3: Descargar los recursos necesarios</h3>

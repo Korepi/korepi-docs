@@ -6,13 +6,24 @@
     <link>https://korepi.com/en/</link>
     <description>Help on Korepi</description>
     <language>en-US</language>
-    <pubDate>Sun, 17 Dec 2023 17:56:24 GMT</pubDate>
-    <lastBuildDate>Sun, 17 Dec 2023 17:56:24 GMT</lastBuildDate>
+    <pubDate>Mon, 18 Dec 2023 04:43:43 GMT</pubDate>
+    <lastBuildDate>Mon, 18 Dec 2023 04:43:43 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Features</category>
     <category>Guide</category>
     <category>Troubleshoot</category>
+    <item>
+      <title>Flycloak Modifier</title>
+      <link>https://korepi.com/en/features/Visuals/flycloak-modifier.html</link>
+      <guid>https://korepi.com/en/features/Visuals/flycloak-modifier.html</guid>
+      <source url="https://korepi.com/en/rss.xml">Flycloak Modifier</source>
+      <description>Flycloak Modifier allow the player to change their glider skin even if they don&amp;apos;t own it.</description>
+      <category>Features</category>
+      <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Flycloak Modifier allow the player to change their glider skin even if they don't own it.</h2>
+]]></content:encoded>
+    </item>
     <item>
       <title>Animation Changer</title>
       <link>https://korepi.com/en/features/Visuals/animation-changer.html</link>
@@ -154,17 +165,6 @@
 <ul>
 <li>Changes in game time, hour and minutes.</li>
 </ul>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Flycloack Modifier</title>
-      <link>https://korepi.com/en/features/Visuals/flycloack-modifier.html</link>
-      <guid>https://korepi.com/en/features/Visuals/flycloack-modifier.html</guid>
-      <source url="https://korepi.com/en/rss.xml">Flycloack Modifier</source>
-      <description>Flycloack Modifier allow the player to change their glider skin even if they don&amp;apos;t own it.</description>
-      <category>Features</category>
-      <pubDate>Sun, 17 Dec 2023 01:35:20 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Flycloack Modifier allow the player to change their glider skin even if they don't own it.</h2>
 ]]></content:encoded>
     </item>
     <item>
@@ -499,7 +499,7 @@
 </blockquote>
 <h3> Custom Element:</h3>
 <ul>
-<li>Modifies the element of all outcoming attacks.</li>
+<li>Modifies the element of all outgoing attacks.</li>
 </ul>
 <h3> Infuse Element:</h3>
 <ul>
@@ -548,7 +548,7 @@
 <li>Removes the requirement needed to use elemental bursts.</li>
 </ul>
 <blockquote>
-<p>Note: Energy bubble may appear incomplete but will be stil usable.</p>
+<p>Note: Energy bubble may appear incomplete but will be still usable.</p>
 </blockquote>
 <h3> No Avatar Skill Cooldown: Removes the cooldown for character skill and burst.</h3>
 <ul>
@@ -579,28 +579,28 @@
       <link>https://korepi.com/en/features/Player/extra-movements.html</link>
       <guid>https://korepi.com/en/features/Player/extra-movements.html</guid>
       <source url="https://korepi.com/en/rss.xml">Extra Movements</source>
-      <description>Sponsor Only Extra Movements: Modifies/Enchances certain actions for the player. Run On Water: Enables the ability to walk on water.; Run Boost: Enchances the speed when the pla...</description>
+      <description>Sponsor Only Extra Movements: Modifies/Enhances certain actions for the player. Run On Water: Enables the ability to walk on water.; Run Boost: Enhances the speed when the playe...</description>
       <category>Features</category>
       <pubDate>Sat, 16 Dec 2023 01:57:57 GMT</pubDate>
       <content:encoded><![CDATA[<div class="hint-container info">
 <p class="hint-container-title">Sponsor Only</p>
 </div>
 <hr>
-<h2> Extra Movements: Modifies/Enchances certain actions for the player.</h2>
+<h2> Extra Movements: Modifies/Enhances certain actions for the player.</h2>
 <h3> Run On Water:</h3>
 <ul>
 <li>Enables the ability to walk on water.</li>
 </ul>
 <h3> Run Boost:</h3>
 <ul>
-<li>Enchances the speed when the player is running.</li>
+<li>Enhances the speed when the player is running.</li>
 </ul>
 <blockquote>
 <p>Note: Not recommended to change default values.</p>
 </blockquote>
 <h3> Jump Boost:</h3>
 <ul>
-<li>Enchaces the height of the jump for the player.
+<li>Enhances the height of the jump for the player.
 <ul>
 <li>Apply Mid Air: Enable jumping while not on the ground.</li>
 </ul>
@@ -611,21 +611,21 @@
 </blockquote>
 <h3> Fly Boost:</h3>
 <ul>
-<li>Enchances the speed when the player is gliding.</li>
+<li>Enhances the speed when the player is gliding.</li>
 </ul>
 <blockquote>
 <p>Note: Not recommended to change default values.</p>
 </blockquote>
 <h3> Swim Boost:</h3>
 <ul>
-<li>Enchances the speed when the player is swimming.</li>
+<li>Enhances the speed when the player is swimming.</li>
 </ul>
 <blockquote>
 <p>Note: Not recommended to change default values.</p>
 </blockquote>
 <h3> Dive Boost:</h3>
 <ul>
-<li>Enchances the speed when the player is diving.</li>
+<li>Enhances the speed when the player is diving.</li>
 </ul>
 <blockquote>
 <p>Note: Not recommended to change default values.</p>
@@ -722,7 +722,7 @@
 </ul>
 <h3> DragBack Bypass:</h3>
 <ul>
-<li>Prevents the server to drag the character back due to excesive speed.</li>
+<li>Prevents the server to drag the character back due to excessive speed.</li>
 </ul>
 <blockquote>
 <p>Note: Not recommended to use above <code>20</code>.</p>
@@ -753,7 +753,7 @@ Note 2: <a href="/en/features/Player/extra-movements.html" target="blank">Extra 
       <link>https://korepi.com/en/features/Player/remote-utility.html</link>
       <guid>https://korepi.com/en/features/Player/remote-utility.html</guid>
       <source url="https://korepi.com/en/rss.xml">Remote Utility</source>
-      <description>Sponsor Only Remote Utility: Claim Daily Commision Reward: Claims daily commision reward when all 4 comissions are completed.; Custom Talk: Starts a conversation using the conve...</description>
+      <description>Sponsor Only Remote Utility: Claim Daily Commission Reward: Claims daily commission reward when all 4 comissions are completed.; Custom Talk: Starts a conversation using the con...</description>
       <category>Features</category>
       <pubDate>Sat, 16 Dec 2023 01:57:57 GMT</pubDate>
       <content:encoded><![CDATA[<div class="hint-container info">
@@ -761,9 +761,9 @@ Note 2: <a href="/en/features/Player/extra-movements.html" target="blank">Extra 
 </div>
 <hr>
 <h2> Remote Utility:</h2>
-<h3> Claim Daily Commision Reward:</h3>
+<h3> Claim Daily Commission Reward:</h3>
 <ul>
-<li>Claims daily commision reward when all 4 comissions are completed.</li>
+<li>Claims daily commission reward when all 4 comissions are completed.</li>
 </ul>
 <h3> Custom Talk:</h3>
 <ul>
@@ -1012,14 +1012,14 @@ Note 2: Higher the distance higher delay should be used.</p>
 <li>Skips a talk scene if its triggered or on-going.</li>
 </ul>
 <blockquote>
-<p>Note: Might get blackscreen while using it.</p>
+<p>Note: Might get black screen while using it.</p>
 </blockquote>
 <h3> Skip Cutscene:</h3>
 <ul>
 <li>Skips a Cutscene if its triggered or on-going.</li>
 </ul>
 <blockquote>
-<p>Note: Might get blackscreen while using it.</p>
+<p>Note: Might get black screen while using it.</p>
 </blockquote>
 <h2> Example Video:</h2>
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/IS0BvLLO1xc?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - AutoTalk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
@@ -1158,6 +1158,26 @@ Note 2: Not recommended to use.</p>
 <li><a href="/en/features/Teleport/custom-teleport.html" target="blank">Custom Teleport</a></li>
 <li><a href="/en/features/Teleport/map-teleport.html" target="blank">Map Teleport</a></li>
 <li><a href="/en/features/Teleport/quest-teleport.html" target="blank">Quest Teleport</a></li>
+</ul>
+<h3> Visuals</h3>
+<ul>
+<li><a href="/en/features/Visuals/animation-changer.html" target="blank">Animation Changer</a></li>
+<li><a href="/en/features/Visuals/camera-zoom.html" target="blank">Camera Zoom</a></li>
+<li><a href="/en/features/Visuals/constellation-modifier.html" target="blank">Constellation Modifier</a></li>
+<li><a href="/en/features/Visuals/custom-profile.html" target="blank">Custom Profile</a></li>
+<li><a href="/en/features/Visuals/custom-weather.html" target="blank">Custom Weather</a></li>
+<li><a href="/en/features/Visuals/emotion-changer.html" target="blank">Emotion Changer</a></li>
+<li><a href="/en/features/Visuals/extra-visual-settings.html" target="blank">Extra Visual Settings</a></li>
+<li><a href="/en/features/Visuals/fps-unlock.html" target="blank">FPS Unlock</a></li>
+<li><a href="/en/features/Visuals/fake-time.html" target="blank">Fake Time</a></li>
+<li><a href="/en/features/Visuals/flycloak-modifier.html" target="blank">Flycloak Modifier</a></li>
+<li><a href="/en/features/Visuals/free-camera.html" target="blank">Free Camera</a></li>
+<li><a href="/en/features/Visuals/hide-ui.html" target="blank">Hide UI</a></li>
+<li><a href="/en/features/Visuals/map-zoom.html" target="blank">Map Zoom</a></li>
+<li><a href="/en/features/Visuals/monster-changer.html" target="blank">Monster Changer</a></li>
+<li><a href="/en/features/Visuals/skin-modifier.html" target="blank">Skin Modifier</a></li>
+<li><a href="/en/features/Visuals/skin-modifier.html" target="blank">Texture Changer</a></li>
+<li><a href="/en/features/Visuals/others.html" target="blank">Others</a></li>
 </ul>
 <h3> World</h3>
 <ul>

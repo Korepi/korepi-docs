@@ -6,14 +6,326 @@
     <link>https://korepi.com/id/</link>
     <description>Pertolongan Korepi</description>
     <language>id-ID</language>
-    <pubDate>Sun, 17 Dec 2023 17:56:24 GMT</pubDate>
-    <lastBuildDate>Sun, 17 Dec 2023 17:56:24 GMT</lastBuildDate>
+    <pubDate>Mon, 18 Dec 2023 04:43:43 GMT</pubDate>
+    <lastBuildDate>Mon, 18 Dec 2023 04:43:43 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+    <category>Features</category>
     <category>Fitur</category>
     <category>Quest Teleport</category>
     <category>Panduan</category>
     <category>Solusi</category>
+    <item>
+      <title>Animation Changer</title>
+      <link>https://korepi.com/id/features/Visuals/animation-changer.html</link>
+      <guid>https://korepi.com/id/features/Visuals/animation-changer.html</guid>
+      <source url="https://korepi.com/id/rss.xml">Animation Changer</source>
+      <description>Animation Changer, allows the player to change their current character animation to the selected one.</description>
+      <category>Features</category>
+      <pubDate>Mon, 18 Dec 2023 00:59:43 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Animation Changer, allows the player to change their current character animation to the selected one.</h2>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Camera Zoom</title>
+      <link>https://korepi.com/id/features/Visuals/camera-zoom.html</link>
+      <guid>https://korepi.com/id/features/Visuals/camera-zoom.html</guid>
+      <source url="https://korepi.com/id/rss.xml">Camera Zoom</source>
+      <description>Camera zoom allows the user to change their camera zoom to their desired value.</description>
+      <category>Features</category>
+      <pubDate>Mon, 18 Dec 2023 00:59:43 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Camera zoom allows the user to change their camera zoom to their desired value.</h2>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Constellation Modifier</title>
+      <link>https://korepi.com/id/features/Visuals/constellation-modifier.html</link>
+      <guid>https://korepi.com/id/features/Visuals/constellation-modifier.html</guid>
+      <source url="https://korepi.com/id/rss.xml">Constellation Modifier</source>
+      <description>Sponsor Only Constellation Modifier, will change your active character constellations if selected, visually and some of them will actually work. You can find more information ab...</description>
+      <category>Features</category>
+      <pubDate>Mon, 18 Dec 2023 00:59:43 GMT</pubDate>
+      <content:encoded><![CDATA[<div class="hint-container info">
+<p class="hint-container-title">Sponsor Only</p>
+</div>
+<hr>
+<h2> Constellation Modifier, will change your active character constellations if selected, visually and some of them will actually work.</h2>
+<ul>
+<li>You can find more information about which of them work at <code>#⁠cons-check</code> in the server.</li>
+</ul>
+<div class="hint-container tip">
+<p class="hint-container-title">You have to switch to each character you want to activate the constellations first and then teleport far away to activate them.</p>
+</div>
+<h2> Example Video:</h2>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/S9-g5weE9l8?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Constellation Modifier (Sponsor)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Custom Profile</title>
+      <link>https://korepi.com/id/features/Visuals/custom-profile.html</link>
+      <guid>https://korepi.com/id/features/Visuals/custom-profile.html</guid>
+      <source url="https://korepi.com/id/rss.xml">Custom Profile</source>
+      <description>Custom Profile: UID: Select the UID you want to be displayed.; Nickname: Select the Nickname you want to be displayed.; Level: Select the Level you want to be displayed.; EXP: S...</description>
+      <category>Features</category>
+      <pubDate>Mon, 18 Dec 2023 00:59:43 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Custom Profile:</h2>
+<h3> UID:</h3>
+<ul>
+<li>Select the UID you want to be displayed.</li>
+</ul>
+<h3> Nickname:</h3>
+<ul>
+<li>Select the Nickname you want to be displayed.</li>
+</ul>
+<h3> Level:</h3>
+<ul>
+<li>Select the Level you want to be displayed.</li>
+</ul>
+<h3> EXP:</h3>
+<ul>
+<li>Select the EXP you want to be displayed.</li>
+</ul>
+<h3> World Level:</h3>
+<ul>
+<li>Select the World Level you want to be displayed.</li>
+</ul>
+<h3> Avatar Image:</h3>
+<ul>
+<li>Use a custom png as avatar image.</li>
+</ul>
+<h3> Card Image:</h3>
+<ul>
+<li>Use a custom png as card image.</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Custom Weather</title>
+      <link>https://korepi.com/id/features/Visuals/custom-weather.html</link>
+      <guid>https://korepi.com/id/features/Visuals/custom-weather.html</guid>
+      <source url="https://korepi.com/id/rss.xml">Custom Weather</source>
+      <description>Custom Wether allows you to change the weather to your liking.</description>
+      <category>Features</category>
+      <pubDate>Mon, 18 Dec 2023 00:59:43 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Custom Wether allows you to change the weather to your liking.</h2>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Emotion Changer</title>
+      <link>https://korepi.com/id/features/Visuals/emotion-changer.html</link>
+      <guid>https://korepi.com/id/features/Visuals/emotion-changer.html</guid>
+      <source url="https://korepi.com/id/rss.xml">Emotion Changer</source>
+      <description>Emotion Changer allows the player to change the current character emotion to the selected one.</description>
+      <category>Features</category>
+      <pubDate>Mon, 18 Dec 2023 00:59:43 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Emotion Changer allows the player to change the current character emotion to the selected one.</h2>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Extra Visual Settings</title>
+      <link>https://korepi.com/id/features/Visuals/extra-visual-settings.html</link>
+      <guid>https://korepi.com/id/features/Visuals/extra-visual-settings.html</guid>
+      <source url="https://korepi.com/id/rss.xml">Extra Visual Settings</source>
+      <description>Extra Visual Settings: Gamma: Allows you to change the gamma value of the game.; Outline Width: Allows you to change the outline of every character in the game.; Anti-Aliasing: ...</description>
+      <category>Features</category>
+      <pubDate>Mon, 18 Dec 2023 00:59:43 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Extra Visual Settings:</h2>
+<h3> Gamma:</h3>
+<ul>
+<li>Allows you to change the gamma value of the game.</li>
+</ul>
+<h3> Outline Width:</h3>
+<ul>
+<li>Allows you to change the outline of every character in the game.</li>
+</ul>
+<h3> Anti-Aliasing:</h3>
+<ul>
+<li>Allows the player to change the anti-aliasing module to use, including some that are not available natively.</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Fake Time</title>
+      <link>https://korepi.com/id/features/Visuals/fake-time.html</link>
+      <guid>https://korepi.com/id/features/Visuals/fake-time.html</guid>
+      <source url="https://korepi.com/id/rss.xml">Fake Time</source>
+      <description>Fake Time: Changes in game time, hour and minutes.;</description>
+      <category>Features</category>
+      <pubDate>Mon, 18 Dec 2023 00:59:43 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Fake Time:</h2>
+<ul>
+<li>Changes in game time, hour and minutes.</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Flycloak Modifier</title>
+      <link>https://korepi.com/id/features/Visuals/flycloak-modifier.html</link>
+      <guid>https://korepi.com/id/features/Visuals/flycloak-modifier.html</guid>
+      <source url="https://korepi.com/id/rss.xml">Flycloak Modifier</source>
+      <description>Flycloak Modifier allow the player to change their glider skin even if they don&amp;apos;t own it.</description>
+      <category>Features</category>
+      <pubDate>Mon, 18 Dec 2023 00:59:43 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Flycloak Modifier allow the player to change their glider skin even if they don't own it.</h2>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>FPS Unlock</title>
+      <link>https://korepi.com/id/features/Visuals/fps-unlock.html</link>
+      <guid>https://korepi.com/id/features/Visuals/fps-unlock.html</guid>
+      <source url="https://korepi.com/id/rss.xml">FPS Unlock</source>
+      <description>Unlocks FPS.Unlocks FPS yeah.Unlocks FPS wow. Limit background FPS: Set the max fps game can reach when its not focused.;</description>
+      <category>Features</category>
+      <pubDate>Mon, 18 Dec 2023 00:59:43 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Unlocks FPS.Unlocks FPS yeah.Unlocks FPS wow.</h2>
+<h3> Limit background FPS:</h3>
+<ul>
+<li>Set the max fps game can reach when its not focused.</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Free Camera</title>
+      <link>https://korepi.com/id/features/Visuals/free-camera.html</link>
+      <guid>https://korepi.com/id/features/Visuals/free-camera.html</guid>
+      <source url="https://korepi.com/id/rss.xml">Free Camera</source>
+      <description>Free Camera: Move the camera freely without being locked to the character.; Freeze Character Animation: Freezes character animations.; Make Character Invisible: Makes character ...</description>
+      <category>Features</category>
+      <pubDate>Mon, 18 Dec 2023 00:59:43 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Free Camera:</h2>
+<ul>
+<li>Move the camera freely without being locked to the character.</li>
+</ul>
+<h3> Freeze Character Animation:</h3>
+<ul>
+<li>Freezes character animations.</li>
+</ul>
+<h3> Make Character Invisible:</h3>
+<ul>
+<li>Makes character invisible.</li>
+</ul>
+<h3> Block User Input:</h3>
+<ul>
+<li>Blocks user input therefore character wont move while moving the camera.</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Hide UI</title>
+      <link>https://korepi.com/id/features/Visuals/hide-ui.html</link>
+      <guid>https://korepi.com/id/features/Visuals/hide-ui.html</guid>
+      <source url="https://korepi.com/id/rss.xml">Hide UI</source>
+      <description>Hide UI: Hides player user interface entirely.; Hide Ping: (Sponsor) Hides ping only.; Hide HP Bar: (Sponsor) Hides current character HP bar only.; Hide Team HP Bar: (Sponsor) H...</description>
+      <category>Features</category>
+      <pubDate>Mon, 18 Dec 2023 00:59:43 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Hide UI:</h2>
+<ul>
+<li>Hides player user interface entirely.</li>
+</ul>
+<h3> Hide Ping: (<span style="color:yellow;">Sponsor</span>)</h3>
+<ul>
+<li>Hides ping only.</li>
+</ul>
+<h3> Hide HP Bar: (<span style="color:yellow;">Sponsor</span>)</h3>
+<ul>
+<li>Hides current character HP bar only.</li>
+</ul>
+<h3> Hide Team HP Bar: (<span style="color:yellow;">Sponsor</span>)</h3>
+<ul>
+<li>Hides team hp bar on the character tab only.</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Map Zoom</title>
+      <link>https://korepi.com/id/features/Visuals/map-zoom.html</link>
+      <guid>https://korepi.com/id/features/Visuals/map-zoom.html</guid>
+      <source url="https://korepi.com/id/rss.xml">Map Zoom</source>
+      <description>Map Zoom modifies the values to be used in the map.</description>
+      <category>Features</category>
+      <pubDate>Mon, 18 Dec 2023 00:59:43 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Map Zoom modifies the values to be used in the map.</h2>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Monster Changer</title>
+      <link>https://korepi.com/id/features/Visuals/monster-changer.html</link>
+      <guid>https://korepi.com/id/features/Visuals/monster-changer.html</guid>
+      <source url="https://korepi.com/id/rss.xml">Monster Changer</source>
+      <description>Monster Changer: When enabled, all new rendered monsters will be changed visually to the selected monster.; Exclude Animals: Enable or Disable changing animals.; Custom Monster ...</description>
+      <category>Features</category>
+      <pubDate>Mon, 18 Dec 2023 00:59:43 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Monster Changer:</h2>
+<ul>
+<li>When enabled, all new rendered monsters will be changed visually to the selected monster.</li>
+</ul>
+<h3> Exclude Animals:</h3>
+<ul>
+<li>Enable or Disable changing animals.</li>
+</ul>
+<h3> Custom Monster ID:</h3>
+<ul>
+<li>Use ID instead of the provided list.</li>
+</ul>
+<h3> Randomize Monster:</h3>
+<ul>
+<li>The change will be random.</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Others</title>
+      <link>https://korepi.com/id/features/Visuals/others.html</link>
+      <guid>https://korepi.com/id/features/Visuals/others.html</guid>
+      <source url="https://korepi.com/id/rss.xml">Others</source>
+      <description>Other Features: Show Chest Indicator Enable Peeking No Black Screen No fog No grass No map fog Paimon Follow Dolphin Dive GM Icon Menu Unlocker Sponsor Only No Camera Blur No Ca...</description>
+      <category>Features</category>
+      <pubDate>Mon, 18 Dec 2023 00:59:43 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Other Features:</h2>
+<h3> Show Chest Indicator</h3>
+<h3> Enable Peeking</h3>
+<h3> No Black Screen</h3>
+<h3> No fog</h3>
+<h3> No grass</h3>
+<h3> No map fog</h3>
+<h3> Paimon Follow</h3>
+<h3> Dolphin Dive</h3>
+<h3> GM Icon</h3>
+<h3> Menu Unlocker</h3>
+<h2> <span style="color:yellow;">Sponsor Only</span></h2>
+<h3> No Camera Blur</h3>
+<h3> No Camera Shake</h3>
+<h3> No Footprints</h3>
+<h3> No Burst Animation</h3>
+<h2> Example Video:</h2>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/AjkJ8S8NHsI?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Visuals/Other" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>]]></content:encoded>
+    </item>
+    <item>
+      <title>Skin Modifier</title>
+      <link>https://korepi.com/id/features/Visuals/skin-modifier.html</link>
+      <guid>https://korepi.com/id/features/Visuals/skin-modifier.html</guid>
+      <source url="https://korepi.com/id/rss.xml">Skin Modifier</source>
+      <description>Skin Modifier allows the player to use in-game skins for free.</description>
+      <category>Features</category>
+      <pubDate>Mon, 18 Dec 2023 00:59:43 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Skin Modifier allows the player to use in-game skins for free.</h2>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Texture Changer</title>
+      <link>https://korepi.com/id/features/Visuals/texture-changer.html</link>
+      <guid>https://korepi.com/id/features/Visuals/texture-changer.html</guid>
+      <source url="https://korepi.com/id/rss.xml">Texture Changer</source>
+      <description>Its better to use GIMI (../../guide/3DM-tutorial.md) for changing textures. Texture Changer allows to switch character parts to the provided .png files.</description>
+      <category>Features</category>
+      <pubDate>Mon, 18 Dec 2023 00:59:43 GMT</pubDate>
+      <content:encoded><![CDATA[<div class="hint-container info">
+<p class="hint-container-title">Its better to use [GIMI](../../guide/3DM-tutorial.md) for changing textures.</p>
+</div>
+<hr>
+<h2> Texture Changer allows to switch character parts to the provided .png files.</h2>
+]]></content:encoded>
+    </item>
     <item>
       <title>0culi Teleport</title>
       <link>https://korepi.com/id/features/Teleport/0culi-teleport.html</link>
@@ -533,6 +845,26 @@ Catatan 2: Anda dapat menemukan ID barang <a href="https://github.com/jie65535/G
 <li><a href="/id/features/Teleport/custom-teleport.html" target="blank">Custom Teleport</a></li>
 <li><a href="/id/features/Teleport/map-teleport.html" target="blank">Map Teleport</a></li>
 <li><a href="/id/features/Teleport/quest-teleport.html" target="blank">Quest Teleport</a></li>
+</ul>
+<h3> Visuals</h3>
+<ul>
+<li><a href="/id/features/Visuals/animation-changer.html" target="blank">Animation Changer</a></li>
+<li><a href="/id/features/Visuals/camera-zoom.html" target="blank">Camera Zoom</a></li>
+<li><a href="/id/features/Visuals/constellation-modifier.html" target="blank">Constellation Modifier</a></li>
+<li><a href="/id/features/Visuals/custom-profile.html" target="blank">Custom Profile</a></li>
+<li><a href="/id/features/Visuals/custom-weather.html" target="blank">Custom Weather</a></li>
+<li><a href="/id/features/Visuals/emotion-changer.html" target="blank">Emotion Changer</a></li>
+<li><a href="/id/features/Visuals/extra-visual-settings.html" target="blank">Extra Visual Settings</a></li>
+<li><a href="/id/features/Visuals/fps-unlock.html" target="blank">FPS Unlock</a></li>
+<li><a href="/id/features/Visuals/fake-time.html" target="blank">Fake Time</a></li>
+<li><a href="/id/features/Visuals/flycloak-modifier.html" target="blank">Flycloak Modifier</a></li>
+<li><a href="/id/features/Visuals/free-camera.html" target="blank">Free Camera</a></li>
+<li><a href="/id/features/Visuals/hide-ui.html" target="blank">Hide UI</a></li>
+<li><a href="/id/features/Visuals/map-zoom.html" target="blank">Map Zoom</a></li>
+<li><a href="/id/features/Visuals/monster-changer.html" target="blank">Monster Changer</a></li>
+<li><a href="/id/features/Visuals/skin-modifier.html" target="blank">Skin Modifier</a></li>
+<li><a href="/id/features/Visuals/skin-modifier.html" target="blank">Texture Changer</a></li>
+<li><a href="/id/features/Visuals/others.html" target="blank">Others</a></li>
 </ul>
 <h3> Dunia</h3>
 <ul>
