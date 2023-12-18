@@ -15,7 +15,7 @@ order: 6
 
 ## Introdução
 
-Bem-vindo à nossa comunidade! Para passar pela verificação do bot e receber o cargo `Newcomer`, sigue los siguientes pasos.
+Bem-vindo à nossa comunidade! Para passar pela verificação do bot e receber o cargo `Newcomer`, segue os seguintes passos.
 
 ### Passo 1: Junte-se ao nosso servidor e obtenha os cargos de `Newcomer` e `Fans`
 
