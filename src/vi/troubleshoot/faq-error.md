@@ -19,7 +19,7 @@ Make sure you got your anti-virus disabled, create a new folder and add it to ex
 
 Extract korepi inside the excluded folder and run again.
 
-## Status: No active subscribtion(s) found, Invalid license key
+## Status: No active subscription(s) found, Invalid license key
 
 You need to [get a new key](../guide/getkey.md) from `⁠★⋅micah-bot-verify⋅★`, if you can't get a key or if the key doesn't work, you have to wait till key expiration.
 

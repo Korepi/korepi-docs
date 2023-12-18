@@ -21,7 +21,7 @@ order: 1
 
 Распакуйте korepi внутри исключенной папки и запустите снова.
 
-## Статус: No active subscribtion(s) found, Invalid license key
+## Статус: No active subscription(s) found, Invalid license key
 
 Вам нужно [получить новый ключ](../guide/getkey.md) от `⁠★⋅micah-bot-verify⋅★`, если вы не можете получить ключ или ключ не работает, вам придется ждать истечения срока действия ключа.
 

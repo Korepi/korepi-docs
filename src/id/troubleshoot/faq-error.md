@@ -19,7 +19,7 @@ Pastikan Anda telah non-aktifkan anti-virus, buat folder baru dan tambahkan fold
 
 Ekstrak korepi di dalam folder yang sudah dikecualikan dan jalankan lagi.
 
-## Status: No active subscribtion(s) found, Invalid license key
+## Status: No active subscription(s) found, Invalid license key
 
 Anda harus [Ambil Key baru](../guide/getkey.md) di `⁠★⋅micah-bot-verify⋅★`, jika Anda tidak dapat mengambil Key atau Key tidak berfungsi, maka Anda harus menunggu hingga masa berlaku Key berakhir.
 

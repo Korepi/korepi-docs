@@ -19,7 +19,7 @@ Deshabilita el anti-virus y crea una carpeta nueva, pon korepi dentro y añádel
 
 Abre Korepi después de haber completado este paso.
 
-## Status: No active subscribtion(s) found, Invalid license key
+## Status: No active subscription(s) found, Invalid license key
 
 Necesitas [conseguir una nueva key](../guide/getkey.md) en `⁠★⋅micah-bot-verify⋅★`, si no puedes conseguir una key o si no te funciona la key tendrás que esperar hasta que se caduque.
 
