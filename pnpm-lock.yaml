@@ -11,6 +11,9 @@ dependencies:
   '@vuepress/plugin-google-analytics':
     specifier: 2.0.0-rc.0
     version: 2.0.0-rc.0
+  pnpm:
+    specifier: ^8.12.1
+    version: 8.12.1
   vuepress-plugin-redirect:
     specifier: 2.0.0-rc.0
     version: 2.0.0-rc.0(vuepress@2.0.0-rc.0)
@@ -4115,6 +4118,12 @@ packages:
     resolution: {integrity: sha512-40QW5YalBNfQo5yRYmiw7Yz6TKKVr3h6970B2YE+3fQpsWcrbj1PzJgxeJ19DRQjhMbKPIuMY8rFaXc8moolVw==}
     engines: {node: '>=10.13.0'}
     dev: true
+
+  /pnpm@8.12.1:
+    resolution: {integrity: sha512-ZwXqGWattlhwU+bP5v3cN3+BBmIo2vc2xEkAEvRPL/G/DHE7uPMUX84OPvZpx8FfGaWawVeDiVHyNMF7gcplXQ==}
+    engines: {node: '>=16.14'}
+    hasBin: true
+    dev: false
 
   /postcss-load-config@4.0.2(postcss@8.4.31):
     resolution: {integrity: sha512-bSVhyJGL00wMVoPUzAVAnbEoWyqRxkjv64tUl427SKnPrENtq6hJwUojroMz2VB+Q1edmi4IfrAPpami5VVgMQ==}
