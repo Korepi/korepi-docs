@@ -51,15 +51,15 @@ Disfruta de Korepi!
 ## Restablecer HWID: Local(V) (<span style='color:yellow;'>Sponsor</span>)
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/q0G9UZHErrg?list=PL5eI1Tb64p56Mp6JqoR_o3BYk9UFTbOQI" title="How to reset Local V HWID" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
 
-### Step 1: Encuentra tu HWID
+### Paso 1: Encuentra tu HWID
 
 Para conseguir tu HWID actual deberás abrir tu `Local(V) injector`, y copiara tu HWID automaticamente a tu portapapeles.
 
-### Step 2: Encuentra el canal de `★⋅micah-bot-verify⋅★`
+### Paso 2: Encuentra el canal de `★⋅micah-bot-verify⋅★`
 
 Después de encontrar `★⋅micah-bot-verify⋅★`, dale click a `V:Change HWID`, una ventana aparecerá, pega tu HWID y dale a `Submit`.
 
-### Step 3: Consigue tu nuevo `enc.json`
+### Paso 3: Consigue tu nuevo `enc.json`
 
 Después de restablecer tu HWID dale click a `V:Verify` y pega tu nuevo HWID en la ventana y dale a `Submit`. Ahora descarga el nuevo `enc.json` y cámbialo en tu carpeta de Korepi.
 

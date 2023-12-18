@@ -19,7 +19,7 @@ order: 6
 
 ### Paso 1: Únete a nuestro servidor y obtén los roles de `Newcomer` y `Fans`
 
-Si aún no te has unido al servidor, por favor, lee la publicación de verificacion, que explica cómo unirse al servidor y obtener los roles de `Newcomer` y `Fans`.
+Si aún no te has unido al servidor, por favor, lee la publicación de verificación, que explica cómo unirse al servidor y obtener los roles de `Newcomer` y `Fans`.
 
 ### Paso 2: Ve al canal de `★⋅korepi-version-roles⋅★`
 

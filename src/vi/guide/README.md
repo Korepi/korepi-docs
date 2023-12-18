@@ -1,12 +1,23 @@
 ---
-title: Hướng dẫn
-icon: circle-info
+title: Guides
+icon: book
 category:
-  - Hướng dẫn
+  - Guide
 tag:
-  - Bắt đầu
-author: QweRez
+  - Start
+author: QweRez, Schvis
 ---
 
-This page is still under construction. Check back later, or contribute to filling in the content.
+## Catalog
 
+- [How to get key](getkey.md)
+  
+- [How to reset HWID](resethwid.md)
+
+- [How to Multi-instance](multi-instance.md)
+
+- [How to use custom skins](3DM-tutorial.md)
+
+- [How to download skins](3DM-skin.md)
+
+- [How to use custom TP](custom-tp-setting.md)

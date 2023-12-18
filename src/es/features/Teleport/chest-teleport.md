@@ -9,7 +9,7 @@ author: Schvis
 order: 2
 ---
 
-## Teletransporte de Cofre te teletransportara al oculus más cercano renderizado.
+## Teletransporte de Cofre te teletransportara al cofre más cercano renderizado.
 
 > Nota: Espera `>15s` entre teletransportes por seguridad.
 

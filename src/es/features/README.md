@@ -30,6 +30,25 @@ author: Schvis
 - [Teletransporte de Mapa](Teleport/map-teleport.md)
 - [Teletransporte de Misión](Teleport/quest-teleport.md)
 
+### Visuals
+- [Cambiador de Animación](Visuals/animation-changer.md)
+- [Zoom de Cámara](Visuals/camera-zoom.md)
+- [Modificador de Constelaciones](Visuals/constellation-modifier.md)
+- [Perfil Personalizado](Visuals/custom-profile.md)
+- [Clima Personalizado](Visuals/custom-weather.md)
+- [Cambiador de Emociones](Visuals/emotion-changer.md)
+- [Extra Visual Settings](Visuals/extra-visual-settings.md)
+- [Desbloqueador de FPS](Visuals/fps-unlock.md)
+- [Tiempo Falso](Visuals/fake-time.md)
+- [Modificador de Planeador](Visuals/flycloak-modifier.md)
+- [Cámara Libre](Visuals/free-camera.md)
+- [Esconder Interfaz](Visuals/hide-ui.md)
+- [Zoom de Mapa](Visuals/map-zoom.md)
+- [Cambiador de Monstruos](Visuals/monster-changer.md)
+- [Modificador de Pieles](Visuals/skin-modifier.md)
+- [Cambiador de Texturas](Visuals/skin-modifier.md)
+- [Otros](Visuals/others.md)
+
 ### World
 - [Auto Activar Teletransportes](World/auto-activate-tp.md)
 - [Auto Desafío](World/auto-challenge.md)

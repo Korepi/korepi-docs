@@ -1,13 +1,23 @@
 ---
-title: Гайды
-icon: circle-info
+title: Guides
+icon: book
 category:
-  - Гайд
+  - Guide
 tag:
-  - Начало
-author: 
-  name: "QweRez"
-  url: "https://github.com/qwerezon/"
+  - Start
+author: QweRez, Schvis
 ---
 
-Страница все еще создается.. загляните позже, или примите участие в заполнение страниц
+## Catalog
+
+- [How to get key](getkey.md)
+  
+- [How to reset HWID](resethwid.md)
+
+- [How to Multi-instance](multi-instance.md)
+
+- [How to use custom skins](3DM-tutorial.md)
+
+- [How to download skins](3DM-skin.md)
+
+- [How to use custom TP](custom-tp-setting.md)
