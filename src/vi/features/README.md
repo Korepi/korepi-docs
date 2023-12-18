@@ -46,7 +46,7 @@ author: Schvis
 - [Map Zoom](Visuals/map-zoom.md)
 - [Monster Changer](Visuals/monster-changer.md)
 - [Skin Modifier](Visuals/skin-modifier.md)
-- [Texture Changer](visuals/skin-modifier.md)
+- [Texture Changer](Visuals/skin-modifier.md)
 - [Others](Visuals/others.md)
 
 ### World
