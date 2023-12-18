@@ -21,6 +21,12 @@ export const ptNavbar = navbar([
         prefix: "guide/",
         children: ["getkey", { text: "...", icon: "ellipsis", link: "#" }],
       },
+      {
+        text: "Available Features",
+        icon: "sitemap",
+        prefix: "features/",
+        children: ["", { text: "", icon: "ellipsis", link: "#" }],
+      },
     ],
   },
 ]);

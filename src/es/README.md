@@ -39,7 +39,7 @@ highlights:
     features:
       - title: Teletransporte
         icon: location-arrow
-        details: Teletransportate a traves del mapa/misiones/marcadores
+        details: Teletransportarte a traves del mapa/misiones/marcadores
       - title: Modo Dios
         icon: shield
         details: Permite al jugador ser invencible

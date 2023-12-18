@@ -15,5 +15,17 @@ export const ptSidebar = sidebar({
       prefix: "guide/",
       children: "structure",
     },
+    {
+      text: "Features",
+      icon: "sitemap",
+      prefix: "features/",
+      children: "structure",
+    },
+    {
+      text: "Troubleshoot",
+      icon: "info-circle",
+      prefix: "troubleshoot/",
+      children: "structure",
+    },
   ],
 });
