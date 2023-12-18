@@ -6,8 +6,8 @@
     <link>https://korepi.com/en/</link>
     <description>Help on Korepi</description>
     <language>en-US</language>
-    <pubDate>Mon, 18 Dec 2023 15:15:04 GMT</pubDate>
-    <lastBuildDate>Mon, 18 Dec 2023 15:15:04 GMT</lastBuildDate>
+    <pubDate>Mon, 18 Dec 2023 17:03:56 GMT</pubDate>
+    <lastBuildDate>Mon, 18 Dec 2023 17:03:56 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Features</category>
@@ -158,12 +158,12 @@
       <link>https://korepi.com/en/features/Visuals/fake-time.html</link>
       <guid>https://korepi.com/en/features/Visuals/fake-time.html</guid>
       <source url="https://korepi.com/en/rss.xml">Fake Time</source>
-      <description>Fake Time: Changes in game time, hour and minutes.;</description>
+      <description>Fake Time: Changes in game time (hour and minutes).;</description>
       <category>Features</category>
       <pubDate>Sun, 17 Dec 2023 01:35:20 GMT</pubDate>
       <content:encoded><![CDATA[<h2> Fake Time:</h2>
 <ul>
-<li>Changes in game time, hour and minutes.</li>
+<li>Changes in game time (hour and minutes).</li>
 </ul>
 ]]></content:encoded>
     </item>
