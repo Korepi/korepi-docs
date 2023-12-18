@@ -1,17 +1,17 @@
 ---
-title: Список Ошибок
+title: List of Errors
 icon: book
 category:
-  - Устранение Неполадок
+  - Troubleshoot
 tag:
-  - Начало
-author: 
-  name: "QweRez"
-  url: "https://github.com/qwerezon/"
+  - Start
+author: Schvis
 ---
 
-## Каталог
+## Catalog
 
-- [Список частых ошибок](faq-error.md)
+- [List of common Injector errors](faq-error.md)
 
-- [Как решить ошибку 31-4302](31-4302.md)
+- [List of common questions](faq.md)
+
+- [How to solve error 31-4302](31-4302.md)
