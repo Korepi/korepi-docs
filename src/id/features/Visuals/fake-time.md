@@ -10,4 +10,4 @@ order: 9
 ---
 
 ## Fake Time:
-- Mengganti waktu di game, jam dan menit.
+- Mengubah waktu (jam dan menit) dalam game.

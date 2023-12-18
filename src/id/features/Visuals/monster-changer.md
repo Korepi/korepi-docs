@@ -5,15 +5,15 @@ category:
   - Features
 tag:
   - Monster Changer
-author: Schvis, Kaede
+author: Schvis, Kaede, Ikuyo
 order: 13
 ---
 
 ## Monster Changer:
-- Kalo di enable, semua rendered monster akan di ganti visually ke monster yang di select.
+- Jika diaktifkan, semua monster akan terubah secara visual ke monster yang dipilih.
 ### Exclude Animals:
-- Enable atau Disable mengganti hewan.
+- Aktif atau Non-aktif mengganti visual hewan.
 ### Custom Monster ID:
-- Menggunakan ID daripada ID yang ada di list. 
+- Menggunakan ID yang terdapat di [github](https://github.com/jie65535/GrasscutterCommandGenerator/blob/main/Source/GrasscutterTools/Resources/en-us/Monsters.txt). 
 ### Randomize Monster:
 - Perubahannya akan menjadi acak.

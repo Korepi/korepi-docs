@@ -5,11 +5,11 @@ category:
   - Fitur
 tag:
   - Mob Vacuum
-author: Schvis, Natsume
+author: Schvis, Natsume, Ikuyo
 order: 13
 ---
 
-## Mob Vacuum memindahkan makhluk hidup yang dekat ke pemain dengan kecepatan dan jarak jangkau yang dipilih, makhluk hidup yang akan terpengaruh dapat disesuaikan.
+## Mob Vacuum manarik makhluk hidup yang dekat ke pemain dengan kecepatan dan jarak jangkau yang dipilih, makhluk hidup yang akan terpengaruh dapat disesuaikan.
 
 ## Video contoh:
 

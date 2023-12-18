@@ -9,4 +9,4 @@ author: Schvis, Kaede
 order: 5
 ---
 
-## Custom weather, memperbolehkan mengganti cuaca dengan pilihan yang kamu mau pake.
+## Custom weather, memperbolehkan mengubah cuaca dengan pilihan yang Anda mau gunakan.

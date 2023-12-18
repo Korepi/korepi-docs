@@ -5,18 +5,18 @@ category:
   - Features
 tag:
   - Constellation Modifier
-author: Schvis, Kaede
+author: Schvis, Kaede, Ikuyo
 order: 3
 ---
-::: info Cuman Sponsor Aja yang bisa akses ini.
+::: informasi : Hanya sponsor.
 :::
 ---
-## Constellation Modifier, Akan mengganti konstelasi character yang dipilih, biasanya visual dan ada juga yang memang berkerja.
-- Kamu bisa mendapatkan informasi konstelasi character yang berkerja di `#cons-check` di discord server. 
+## Constellation Modifier, Akan membuka konstelasi karakter yang dipilih, secara visual dan ada juga yang memang berkerja.
+- Anda bisa mendapatkan informasi konstelasi character yang berkerja di saluran `#cons-check` yang terdapat di server.
 
-::: tip kamu harus ganti ke karakter yang kamu mau dapet konstelasi untuk mengaktifkan konstelasi, terus teleport ke tempat yang jauh untuk konstelasi modifier bekerja.
+::: saran : Anda harus ganti ke karakter yang ingin Anda aktifkan konstelasinya, setelah itu teleportasi ke tempat yang jauh agar modifikasi konstelasi dapat bekerja.
 :::
 
-## Example Video:
+## Contoh video:
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/S9-g5weE9l8?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Constellation Modifier (Sponsor)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
