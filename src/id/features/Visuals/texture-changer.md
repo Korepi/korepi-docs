@@ -5,10 +5,10 @@ category:
   - Features
 tag:
   - Texture Changer
-author: Schvis
-order: 16
+author: Schvis, Kaede
+order: 15
 ---
-::: info Its better to use [GIMI](../../guide/3DM-tutorial.md) for changing textures.
+::: info Lebih baik menggunakan [GIMI](../../guide/3DM-tutorial.md) Untuk mengganti texture. 
 :::
 ---
-## Texture Changer allows to switch character parts to the provided .png files.
+## Texture Changer Memperbolehkan ganti karakter parts dari .png file yang di pilih. 

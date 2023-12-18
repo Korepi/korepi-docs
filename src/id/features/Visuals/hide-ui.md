@@ -5,15 +5,15 @@ category:
   - Features
 tag:
   - Hide UI
-author: Schvis
+author: Schvis, Kaede
 order: 12
 ---
 
 ## Hide UI:
-- Hides player user interface entirely.
+- Menyembunyikan User Interface.
 ### Hide Ping: (<span style='color:yellow;'>Sponsor</span>)
-- Hides ping only.
+- Menyembunyikan Ping. 
 ### Hide HP Bar: (<span style='color:yellow;'>Sponsor</span>)
-- Hides current character HP bar only.
+- Menyembunyikan karakter HP bar.
 ### Hide Team HP Bar: (<span style='color:yellow;'>Sponsor</span>)
-- Hides team hp bar on the character tab only.
+- Menyembunyikan Team HP bar di karakter tab.
