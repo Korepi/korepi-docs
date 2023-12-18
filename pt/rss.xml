@@ -6,14 +6,25 @@
     <link>https://korepi.com/pt/</link>
     <description>Ayuda en Korepi</description>
     <language>pt-BR</language>
-    <pubDate>Mon, 18 Dec 2023 14:53:27 GMT</pubDate>
-    <lastBuildDate>Mon, 18 Dec 2023 14:53:27 GMT</lastBuildDate>
+    <pubDate>Mon, 18 Dec 2023 15:15:04 GMT</pubDate>
+    <lastBuildDate>Mon, 18 Dec 2023 15:15:04 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Funções</category>
     <category>Guia</category>
     <category>Guía</category>
     <category>Erros</category>
+    <item>
+      <title>Modificador de Planador</title>
+      <link>https://korepi.com/pt/features/Visuals/flycloak-modifier.html</link>
+      <guid>https://korepi.com/pt/features/Visuals/flycloak-modifier.html</guid>
+      <source url="https://korepi.com/pt/rss.xml">Modificador de Planador</source>
+      <description>Modificador de Planador permite que você mude seu planador mesmo que você não tenha a skin desbloqueada.</description>
+      <category>Funções</category>
+      <pubDate>Mon, 18 Dec 2023 15:12:50 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Modificador de Planador permite que você mude seu planador mesmo que você não tenha a skin desbloqueada.</h2>
+]]></content:encoded>
+    </item>
     <item>
       <title>Lista de Funções</title>
       <link>https://korepi.com/pt/features/</link>
@@ -62,7 +73,7 @@
 <li><a href="/pt/features/Visuals/map-zoom.html" target="blank">Zoom de Mapa</a></li>
 <li><a href="/pt/features/Visuals/monster-changer.html" target="blank">Modificador de Monstros</a></li>
 <li><a href="/pt/features/Visuals/skin-modifier.html" target="blank">Modificador de Skins</a></li>
-<li><a href="/pt/features/visuals/skin-modifier.html" target="blank">Modificador de Texturas</a></li>
+<li><a href="/pt/features/Visuals/skin-modifier.html" target="blank">Modificador de Texturas</a></li>
 <li><a href="/pt/features/Visuals/others.html" target="blank">Outros</a>`</li>
 </ul>
 <h3> World</h3>
@@ -738,17 +749,6 @@ Nota 2: Você pode encontrar os IDs <a href="https://github.com/jie65535/Grasscu
 <ul>
 <li>Troca o tempo do jogo para o seu gosto.</li>
 </ul>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Modificador de Planador</title>
-      <link>https://korepi.com/pt/features/Visuals/flycloack-modifier.html</link>
-      <guid>https://korepi.com/pt/features/Visuals/flycloack-modifier.html</guid>
-      <source url="https://korepi.com/pt/rss.xml">Modificador de Planador</source>
-      <description>Modificador de Planador permite que você mude seu planador mesmo que você não tenha a skin desbloqueada.</description>
-      <category>Funções</category>
-      <pubDate>Mon, 18 Dec 2023 04:22:05 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Modificador de Planador permite que você mude seu planador mesmo que você não tenha a skin desbloqueada.</h2>
 ]]></content:encoded>
     </item>
     <item>
