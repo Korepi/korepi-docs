@@ -6,23 +6,25 @@
     <link>https://korepi.com/ru/</link>
     <description>Помощь по Korepi</description>
     <language>ru-RU</language>
-    <pubDate>Mon, 18 Dec 2023 05:06:37 GMT</pubDate>
-    <lastBuildDate>Mon, 18 Dec 2023 05:06:37 GMT</lastBuildDate>
+    <pubDate>Mon, 18 Dec 2023 11:32:39 GMT</pubDate>
+    <lastBuildDate>Mon, 18 Dec 2023 11:32:39 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+    <category>Особенности</category>
+    <category>Руководство</category>
+    <category>Устранение Неполадок</category>
     <category>Features</category>
-    <category>Guide</category>
-    <category>Troubleshoot</category>
     <category>Гайд</category>
+    <category>Guide</category>
     <item>
-      <title>List of Features</title>
+      <title>Список Функций</title>
       <link>https://korepi.com/ru/features/</link>
       <guid>https://korepi.com/ru/features/</guid>
-      <source url="https://korepi.com/ru/rss.xml">List of Features</source>
-      <description>List of Features Player Attack Effects (Player/attack-effects.md); Auto Run (Player/auto-run.md); Bunny Hop (Player/bunny-hop.md); Cooldown Effects (Player/cooldown-effects.md);...</description>
-      <category>Features</category>
+      <source url="https://korepi.com/ru/rss.xml">Список Функций</source>
+      <description>Список Функций Player Attack Effects (Player/attack-effects.md); Auto Run (Player/auto-run.md); Bunny Hop (Player/bunny-hop.md); Cooldown Effects (Player/cooldown-effects.md); E...</description>
+      <category>Особенности</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> List of Features</h2>
+      <content:encoded><![CDATA[<h2> Список Функций</h2>
 <h3> Player</h3>
 <ul>
 <li><a href="/ru/features/Player/attack-effects.html" target="blank">Attack Effects</a></li>
@@ -89,708 +91,712 @@
       <link>https://korepi.com/ru/features/esp.html</link>
       <guid>https://korepi.com/ru/features/esp.html</guid>
       <source url="https://korepi.com/ru/rss.xml">ESP</source>
-      <description>ESP allows the player to track and view the selected objects through other objects from the filter with customizable visual effects. Note: Range, objects, visuals can be all cus...</description>
-      <category>Features</category>
+      <description>ESP позволяет игроку отслеживать и просматривать выбранные объекты через другие объекты с настраиваемыми визуальными эффектами. Примечание: Диапазон, объекты, визуалы могут быть...</description>
+      <category>Особенности</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> ESP allows the player to track and view the selected objects through other objects from the filter with customizable visual effects.</h2>
+      <content:encoded><![CDATA[<h2> ESP позволяет игроку отслеживать и просматривать выбранные объекты через другие объекты с настраиваемыми визуальными эффектами.</h2>
 <blockquote>
-<p>Note: Range, objects, visuals can be all customized.</p>
+<p>Примечание: Диапазон, объекты, визуалы могут быть настроены.</p>
 </blockquote>
-<h2> Example Video:</h2>
-<h3> Soon...</h3>
+<h2> Пример Видео:</h2>
+<h3> Скоро...</h3>
 ]]></content:encoded>
     </item>
     <item>
-      <title>Install Skins</title>
+      <title>Установка скинов</title>
       <link>https://korepi.com/ru/guide/3DM-skin.html</link>
       <guid>https://korepi.com/ru/guide/3DM-skin.html</guid>
-      <source url="https://korepi.com/ru/rss.xml">Install Skins</source>
-      <description>How to install custom Skins in GIMI Step 1: Download the Skin Head to Gamebanana (https://gamebanana.com/games/8552) and download a skin of your choice. Step 2: Install the Skin...</description>
-      <category>Guide</category>
+      <source url="https://korepi.com/ru/rss.xml">Установка скинов</source>
+      <description>Как установить собственные скины в GIMI Шаг 1: Загрузите скин Перейдите на Gamebanana (https://gamebanana.com/games/8552) и загрузите скин по своему выбору. Если вам нужно, есть...</description>
+      <category>Руководство</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> How to install custom Skins in <code>GIMI</code></h2>
-<h3> Step 1: Download the Skin</h3>
-<p>Head to <a href="https://gamebanana.com/games/8552" target="_blank" rel="noopener noreferrer">Gamebanana</a> and download a skin of your choice.</p>
-<h3> Step 2: Install the Skin</h3>
-<p>We will head to our <code>GIMI</code> folder and look for <code>Mods</code> folder, inside that folder we will extract the file we just downloaded.</p>
-<h3> Step 3: Apply the skin</h3>
-<p>If we are already inside the game we will use <code>F10</code> to reload the Skins, if not, we will open the game following the <a href="/ru/guide/3DM-tutorial.html" target="blank">last post</a> and the skin should be applied.</p>
+      <content:encoded><![CDATA[<h2> Как установить собственные скины в <code>GIMI</code></h2>
+<h3> Шаг 1: Загрузите скин</h3>
+<p>Перейдите на <a href="https://gamebanana.com/games/8552" target="_blank" rel="noopener noreferrer">Gamebanana</a> и загрузите скин по своему выбору.
+Если вам нужно, есть публичный аккаунт:
+login: korepi
+pass korepi</p>
+<h3> Шаг 2: Установите скин</h3>
+<p>Откройте нашу папку <code>GIMI</code> и найдите папку <code>Mods</code>, внутри этой папки извлеките файл, который мы только что загрузили.</p>
+<h3> Шаг 3: Примените скин</h3>
+<p>Если вы уже в игре, используйте <code>F10</code>, чтобы перезагрузить скины. В противном случае откройте игру, следуя <a href="/ru/guide/3DM-tutorial.html" target="blank">последнему посту</a>, и скин должен быть применен.</p>
 ]]></content:encoded>
     </item>
     <item>
-      <title>How to use custom skins</title>
+      <title>Как использовать собственные скины</title>
       <link>https://korepi.com/ru/guide/3DM-tutorial.html</link>
       <guid>https://korepi.com/ru/guide/3DM-tutorial.html</guid>
-      <source url="https://korepi.com/ru/rss.xml">How to use custom skins</source>
-      <description>If GIMI shows echo off on the cmd, you can just press Numpad 0 to remove it, you can also edit d3dx.ini and search for hunting= and set to 0. How to use custom Skins in Korepi I...</description>
-      <category>Guide</category>
+      <source url="https://korepi.com/ru/rss.xml">Как использовать собственные скины</source>
+      <description>Если в Korepi отображается echo off в cmd, вы можете просто нажать Numpad 0, чтобы удалить его, также вы можете отредактировать d3dx.ini и найти hunting= и установить 0. Как исп...</description>
+      <category>Руководство</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
       <content:encoded><![CDATA[<div class="hint-container info">
-<p class="hint-container-title">If GIMI shows `echo off` on the cmd, you can just press `Numpad 0` to remove it, you can also edit `d3dx.ini` and search for `hunting=` and set to `0`.</p>
+<p class="hint-container-title">Если в Korepi отображается `echo off` в cmd, вы можете просто нажать `Numpad 0`, чтобы удалить его, также вы можете отредактировать `d3dx.ini` и найти `hunting=` и установить `0`.</p>
 </div>
 <hr>
-<h2> How to use custom Skins in Korepi</h2>
+<h2> Как использовать собственные скины в Korepi</h2>
 <p><img src="/assets/images/docs/202312/example.png" alt="" loading="lazy">
-In order to use custom skins in we will need to download:</p>
-<p><code>3DMigoto(GIMI)</code>.</p>
-<h2> <span style="color:blue;">Method 1</span></h2>
-<h3> Step 1: Download <code>GIMI</code></h3>
-<p>Download <code>GIMI</code> in their oficial <a href="https://github.com/SilentNightSound/GI-Model-Importer/releases/tag/v7.0" target="_blank" rel="noopener noreferrer">Github</a> and download the file named: <code>3dmigoto-GIMI-for-playing-mods.zip</code>.</p>
+Чтобы использовать собственные скины в Korepi, нам нужно скачать:</p>
+<p><code>3DMigoto (GIMI)</code>.</p>
+<h2> <span style="color:blue;">Метод 1</span></h2>
+<h3> Шаг 1: Загрузите <code>GIMI</code></h3>
+<p>Скачайте <code>GIMI</code> на официальной странице <a href="https://github.com/SilentNightSound/GI-Model-Importer/releases/tag/v7.0" target="_blank" rel="noopener noreferrer">Github</a> и скачайте файл с именем: <code>3dmigoto-GIMI-for-playing-mods.zip</code>.</p>
 <p><img src="/assets/images/docs/202312/3dm-1.png" alt="" loading="lazy"></p>
-<h3> Step 2: Extract <code>GIMI</code> into a folder</h3>
-<p>After downloading <code>GIMI</code>, we will need to extract it into any folder of your choice, inside that folder you will find <code>d3d11.dll</code>, we will copy the path and add <code>/d3d11.dll</code> to the end, for example:</p>
-<p><code>"path/d3d11.dll"</code></p>
-<h3> Step 3: Add <code>GIMI</code> to Korepi</h3>
-<p>To do this we will need to add the next lines in <code>cfg.ini</code> inside korepi folder.</p>
+<h3> Шаг 2: Извлеките <code>GIMI</code> в папку</h3>
+<p>После скачивания <code>GIMI</code> нам нужно извлечь его в любую папку по вашему выбору. Внутри этой папки вы найдете файл <code>d3d11.dll</code>. Скопируйте путь и добавьте <code>/d3d11.dll</code> в конец, например:</p>
+<p><code>"путь/d3d11.dll"</code></p>
+<h3> Шаг 3: Добавьте <code>GIMI</code> в Korepi</h3>
+<p>Для этого мы должны добавить следующие строки в файл <code>cfg.ini</code>, который находится в папке Korepi.</p>
 <p><img src="/assets/images/docs/202312/3dm-2.png" alt="" loading="lazy"></p>
-<p>On <code>DllPath</code> we will paste the path we copied in the last step.</p>
+<p>В <code>DllPath</code> мы вставим путь, который мы скопировали на последнем шаге.</p>
 <p><img src="/assets/images/docs/202312/3dm-3.png" alt="" loading="lazy"></p>
-<h3> Step 4: Open Korepi</h3>
-<p>If you followed the steps right, Korepi should launch with <code>GIMI</code> every time.</p>
-<h2> <span style="color:blue;">Method 2</span></h2>
-<h3> Step 1: Download <code>GIMI</code></h3>
-<p>Download <code>GIMI</code> in their oficial <a href="https://github.com/SilentNightSound/GI-Model-Importer/releases/tag/v7.0" target="_blank" rel="noopener noreferrer">Github</a> and download the file named: <code>3dmigoto-GIMI-for-playing-mods.zip</code>.</p>
+<h3> Шаг 4: Откройте Korepi</h3>
+<p>Если вы следовали указаниям, Korepi должен запускаться с <code>GIMI</code> каждый раз.</p>
+<h2> <span style="color:blue;">Метод 2</span></h2>
+<h3> Шаг 1: Загрузите <code>GIMI</code></h3>
+<p>Скачайте <code>GIMI</code> на официальной странице <a href="https://github.com/SilentNightSound/GI-Model-Importer/releases/tag/v7.0" target="_blank" rel="noopener noreferrer">Github</a> и скачайте файл с именем: <code>3dmigoto-GIMI-for-playing-mods.zip</code>.</p>
 <p><img src="/assets/images/docs/202312/3dm-1.png" alt="" loading="lazy"></p>
-<h3> Step 2: Extract <code>GIMI</code> into a folder</h3>
-<p>After downloading <code>GIMI</code>, we will need to extract it into any folder of your choice, inside that folder you will find <code>3DMigoto Loader.exe</code>, we will run this file first.</p>
-<h3> Step 4: Open Korepi</h3>
-<p>After running <code>GIMI</code>, we will run Korepi, <code>GIMI</code> will be loaded with Korepi after this, you will need to repeat these steps every time you want to launch Korepi with <code>GIMI</code>.</p>
+<h3> Шаг 2: Извлеките <code>GIMI</code> в папку</h3>
+<p>После скачивания <code>GIMI</code> нам нужно извлечь его в любую папку по вашему выбору. Внутри этой папки вы найдете файл <code>3DMigoto Loader.exe</code>. Сначала мы запустим этот файл.</p>
+<h3> Шаг 4: Откройте Korepi</h3>
+<p>После запуска <code>GIMI</code> мы запускаем Korepi, <code>GIMI</code> будет загружен с Korepi. После этого вам нужно будет повторить эти шаги каждый раз, когда вы хотите запустить Korepi с <code>GIMI</code>.</p>
 ]]></content:encoded>
       <enclosure url="https://korepi.com/assets/images/docs/202312/example.png" type="image/png"/>
     </item>
     <item>
-      <title>How to use Custom TP</title>
+      <title>Как использовать пользовательские точки телепорта</title>
       <link>https://korepi.com/ru/guide/custom-tp-setting.html</link>
       <guid>https://korepi.com/ru/guide/custom-tp-setting.html</guid>
-      <source url="https://korepi.com/ru/rss.xml">How to use Custom TP</source>
-      <description>How to use custom TP Step 1: Settings to use We will use the following settings. The recommended delay time is &amp;gt;15s. Step 2: Download the .json files for the custom tp We can fi...</description>
-      <category>Guide</category>
+      <source url="https://korepi.com/ru/rss.xml">Как использовать пользовательские точки телепорта</source>
+      <description>Как использовать пользовательские точки телепорта Шаг 1: Установка параметров использования Мы будем использовать следующие параметры. Рекомендуемое время задержки &amp;gt;15 секунд. Ш...</description>
+      <category>Руководство</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> How to use custom TP</h2>
-<h3> Step 1: Settings to use</h3>
-<p>We will use the following settings.</p>
+      <content:encoded><![CDATA[<h2> Как использовать пользовательские точки телепорта</h2>
+<h3> Шаг 1: Установка параметров использования</h3>
+<p>Мы будем использовать следующие параметры.</p>
 <p><img src="/assets/images/docs/202312/teleport1.png" alt="" loading="lazy"></p>
-<p>The recommended delay time is &gt;15s.</p>
-<h3> Step 2: Download the <code>.json</code> files for the custom tp</h3>
-<p>We can find these files in <code>community-share</code> pinned post in the server. Download the ones that suits your needs.</p>
-<h3> Step 3: Select the tp files</h3>
-<p>Head to custom tp settings and go to this section:</p>
+<p>Рекомендуемое время задержки &gt;15 секунд.</p>
+<h3> Шаг 2: Загрузка файлов <code>.json</code> для пользовательских точек телепорта</h3>
+<p>Вы можете найти эти файлы в закрепленном посте <code>community-share</code> на сервере. Скачайте те, которые соответствуют вашим потребностям.</p>
+<h3> Шаг 3: Выбор файлов телепорта</h3>
+<p>Перейдите в настройки пользовательских телепортов и перейдите в этот раздел:</p>
 <p><img src="/assets/images/docs/202312/teleport2.png" alt="" loading="lazy"></p>
-<p>Click on select path and select the folder containing the tp files you want to use.</p>
-<h3> Step 4: How to start the tps</h3>
-<p>After selecting the folder, check this checkbox:</p>
+<p>Нажмите на "Выбрать путь" и выберите папку с файлами телепорта, которые вы хотите использовать.</p>
+<h3> Шаг 4: Как запустить телепорты</h3>
+<p>После выбора папки установите флажок:</p>
 <p><img src="/assets/images/docs/202312/teleport3.png" alt="" loading="lazy"></p>
-<p>After that we click on <code>Select</code>:</p>
+<p>После этого мы нажимаем на "Выбрать":</p>
 <p><img src="/assets/images/docs/202312/teleport4.png" alt="" loading="lazy"></p>
-<h3> Step 5: Enjoy the ride</h3>
-<p>The TPs will start automatically, if you got <a href="/ru/start/sponsor.html" target="blank">Sponsor</a>, you will be able to see the progress and remaining time.</p>
+<h3> Шаг 5: Наслаждайтесь поездкой</h3>
+<p>Телепорты запустятся автоматически, если у вас есть <a href="/ru/start/sponsor.html" target="blank">Спонсор</a>, вы сможете видеть прогресс и оставшееся время.</p>
 ]]></content:encoded>
       <enclosure url="https://korepi.com/assets/images/docs/202312/teleport1.png" type="image/png"/>
     </item>
     <item>
-      <title>How to get key</title>
+      <title>Как получить ключ</title>
       <link>https://korepi.com/ru/guide/getkey.html</link>
       <guid>https://korepi.com/ru/guide/getkey.html</guid>
-      <source url="https://korepi.com/ru/rss.xml">How to get key</source>
-      <description>How to get key for Network(F) Step 1: Get F Auth role Head to ★⋅korepi-version-roles⋅★ on the server and click on F Auth to get the role. Note: Check if you got the role, if you...</description>
-      <category>Guide</category>
+      <source url="https://korepi.com/ru/rss.xml">Как получить ключ</source>
+      <description>Как получить ключ для Network (F) Шаг 1: Получение роли F Auth Перейдите в ★⋅korepi-version-roles⋅★ на сервере и нажмите на F Auth, чтобы получить роль. Примечание: Проверьте, п...</description>
+      <category>Руководство</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> How to get key for Network(F)</h2>
+      <content:encoded><![CDATA[<h2> Как получить ключ для Network (F)</h2>
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/-9bXOMH0-WM" title="Korepi - How to get V key" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
-<h3> Step 1: Get F Auth role</h3>
-<p>Head to <code>★⋅korepi-version-roles⋅★</code> on the server and click on <code>F Auth</code> to get the role.</p>
-<p><code>Note: Check if you got the role, if you didn't click on F Auth again</code></p>
-<h3> Step 2: Get your key</h3>
-<p>Head to <code>⁠★⋅micah-bot-verify⋅★</code> and click on <code>F:Getkey</code>, the bot will reply with some information including the key, copy it.</p>
-<h3> Step 3: Use your key</h3>
-<p>Open Korepi, when it asks for your key, paste it and press enter, complete the steps mentioned by the injector and you should be good to go.</p>
-<p>Enjoy Koprepi!</p>
-<h2> How to get key for Local(V)</h2>
+<h3> Шаг 1: Получение роли F Auth</h3>
+<p>Перейдите в <code>★⋅korepi-version-roles⋅★</code> на сервере и нажмите на <code>F Auth</code>, чтобы получить роль.</p>
+<p><code>Примечание: Проверьте, получили ли вы роль. Если нет, снова нажмите на F Auth</code></p>
+<h3> Шаг 2: Получение ключа</h3>
+<p>Перейдите в <code>⁠★⋅micah-bot-verify⋅★</code> и нажмите на <code>F:Getkey</code>. Бот ответит вам некоторой информацией, включая ключ. Скопируйте его.</p>
+<h3> Шаг 3: Использование ключа</h3>
+<p>Откройте Korepi. Когда он запросит ключ, вставьте его и нажмите Enter. Завершите шаги, указанные инжектором, и вы готовы к использованию.</p>
+<p>Наслаждайтесь Korepi!</p>
+<h2> Как получить ключ для Local (V)</h2>
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/OTCSboZdexc" title="Korepi - How to get V key" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
-<h3> Step 1: Get V Auth role</h3>
-<p>Head to <code>★⋅korepi-version-roles⋅★</code> on the server and click on <code>V Auth</code> to get the role.</p>
-<p><code>Note: Check if you got the role, if you didn't click on V Auth again</code></p>
-<h3> Step 2: Get your <code>HWID</code></h3>
-<p>To get your <code>HWID</code> you will need to open <code>Local(V) Injector</code> once, and it will copy it to your clipboard</p>
-<h3> Step 3: Get your <code>enc.json</code></h3>
-<p>Head to <code>⁠★⋅micah-bot-verify⋅★</code> and click on <code>V:Verify</code>, a pop up will ask you for your <code>HWID</code> paste and click <code>Submit</code>, and download the file sent by the bot</p>
-<h3> Step 4: Place your file with Korepi</h3>
-<p>After getting the file, place it on your Korepi folder, keep in mind that the file should be name <code>enc.json</code> in order to work, open Korepi and then:</p>
-<p>Enjoy Korepi!</p>
+<h3> Шаг 1: Получение роли V Auth</h3>
+<p>Перейдите в <code>★⋅korepi-version-roles⋅★</code> на сервере и нажмите на <code>V Auth</code>, чтобы получить роль.</p>
+<p><code>Примечание: Проверьте, получили ли вы роль. Если нет, снова нажмите на V Auth</code></p>
+<h3> Шаг 2: Получение вашего <code>HWID</code></h3>
+<p>Чтобы получить ваш <code>HWID</code>, вам нужно открыть <code>Local(V) Injector</code> один раз, и он скопирует его в буфер обмена.</p>
+<h3> Шаг 3: Получение вашего <code>enc.json</code></h3>
+<p>Перейдите в <code>⁠★⋅micah-bot-verify⋅★</code> и нажмите на <code>V:Verify</code>. Всплывающее окно запросит ваш <code>HWID</code>. Вставьте его и нажмите <code>Submit</code>, а затем загрузите файл, отправленный ботом.</p>
+<h3> Шаг 4: Разместите файл с Korepi</h3>
+<p>После получения файла поместите его в папку Korepi. Учтите, что файл должен называться <code>enc.json</code>, чтобы он работал. Затем откройте Korepi и:</p>
+<p>Наслаждайтесь Korepi!</p>
 ]]></content:encoded>
     </item>
     <item>
-      <title>How to Multi-Instance</title>
+      <title>Как использовать множественные экземпляры</title>
       <link>https://korepi.com/ru/guide/multi-instance.html</link>
       <guid>https://korepi.com/ru/guide/multi-instance.html</guid>
-      <source url="https://korepi.com/ru/rss.xml">How to Multi-Instance</source>
-      <description>How to Multi-instance (Open 2 game window at the same time) Only works with Local(V) version</description>
-      <category>Guide</category>
+      <source url="https://korepi.com/ru/rss.xml">Как использовать множественные экземпляры</source>
+      <description>Как использовать множественные экземпляры (открыть 2 окна игры одновременно) Работает только с версией Local (V)</description>
+      <category>Руководство</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> How to Multi-instance (Open 2 game window at the same time)</h2>
+      <content:encoded><![CDATA[<h2> Как использовать множественные экземпляры (открыть 2 окна игры одновременно)</h2>
 <div class="hint-container info">
-<p class="hint-container-title">Only works with Local(V) version</p>
+<p class="hint-container-title">Работает только с версией Local (V)</p>
 </div>
 <hr>
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/pSAxKoneT64" title="Multi-Instance V (Updated)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 ]]></content:encoded>
     </item>
     <item>
-      <title>How to reset HWID</title>
+      <title>Как сбросить HWID</title>
       <link>https://korepi.com/ru/guide/resethwid.html</link>
       <guid>https://korepi.com/ru/guide/resethwid.html</guid>
-      <source url="https://korepi.com/ru/rss.xml">How to reset HWID</source>
-      <description>Reset HWID: Network(F) Step 1: Enter Korepi login page Please head to Korepi Login Page (https://keyauth.cc/panel/Strigger/Korepi) Warning: Don&amp;apos;t do anything yet. Step 2: Get yo...</description>
-      <category>Guide</category>
+      <source url="https://korepi.com/ru/rss.xml">Как сбросить HWID</source>
+      <description>Сброс HWID: Network(F) Шаг 1: Войдите на страницу входа в Korepi Перейдите на страницу входа в Korepi (https://keyauth.cc/panel/Strigger/Korepi) Предупреждение: Пока ничего не д...</description>
+      <category>Руководство</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Reset HWID: Network(F)</h2>
+      <content:encoded><![CDATA[<h2> Сброс HWID: Network(F)</h2>
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/DRSEmYsl4F4" title="how to change hwid for F" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
-<h3> Step 1: Enter Korepi login page</h3>
-<p>Please head to <a href="https://keyauth.cc/panel/Strigger/Korepi" target="_blank" rel="noopener noreferrer">Korepi Login Page</a>
-Warning: Don't do anything yet.</p>
-<h3> Step 2: Get your key</h3>
-<p>Get your key from your <code>license.json</code> or head to <code>★⋅micah-bot-verify⋅★</code> and click on <code>F: Getkey</code> to get your current key.</p>
-<h3> Step 3: Login in Korepi</h3>
-<p>After getting your key, head to <a href="https://keyauth.cc/panel/Strigger/Korepi" target="_blank" rel="noopener noreferrer">Korepi Login Page</a>, and paste your key on both fields, click on login, after that, click on <code>Reset HWID</code>.</p>
-<h3> Step 4: Open Injector</h3>
-<p>After your HWID reset, head to your injector and paste your key once again.</p>
-<p>Enjoy Korepi again!</p>
-<h2> Reset HWID: Network(F) (Sponsor)</h2>
+<h3> Шаг 1: Войдите на страницу входа в Korepi</h3>
+<p>Перейдите на <a href="https://keyauth.cc/panel/Strigger/Korepi" target="_blank" rel="noopener noreferrer">страницу входа в Korepi</a>
+Предупреждение: Пока ничего не делайте.</p>
+<h3> Шаг 2: Получите свой ключ</h3>
+<p>Получите свой ключ из вашего <code>license.json</code> или перейдите в канал <code>★⋅micah-bot-verify⋅★</code> и нажмите на <code>F: Getkey</code>, чтобы получить текущий ключ.</p>
+<h3> Шаг 3: Войдите в Korepi</h3>
+<p>Получив свой ключ, перейдите на <a href="https://keyauth.cc/panel/Strigger/Korepi" target="_blank" rel="noopener noreferrer">страницу входа в Korepi</a>, вставьте свой ключ в оба поля, нажмите "войти", после этого нажмите "Сброс HWID".</p>
+<h3> Шаг 4: Откройте инжектор</h3>
+<p>После сброса вашего HWID перейдите в ваш инжектор и снова вставьте свой ключ.</p>
+<p>Наслаждайтесь Korepi снова!</p>
+<h2> Сброс HWID: Network(F) (Спонсор)</h2>
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/WCuRAyqWMHg" title="Reset HWID F version (Sponsor)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
-<h3> Step 1: Head to <code>★⋅micah-bot-verify⋅★</code> channel</h3>
-<p>Head to <code>★⋅micah-bot-verify⋅★</code> channel and click on <code>F:Reset Key</code>, after that click on <code>F:Getkey</code> to recieve your new key.</p>
-<h3> Step 2: Replace your old key</h3>
-<p>Go to your korepi folder and delete <code>license.json</code>, after that open Korepi and paste in the new key you got.</p>
-<p>Enjoy Korepi!</p>
-<h2> Reset HWID: Local(V) (Sponsor)</h2>
+<h3> Шаг 1: Перейдите в канал <code>★⋅micah-bot-verify⋅★</code></h3>
+<p>Перейдите в канал <code>★⋅micah-bot-verify⋅★</code> и нажмите на <code>F:Reset Key</code>, затем нажмите <code>F:Getkey</code>, чтобы получить свой новый ключ.</p>
+<h3> Шаг 2: Замените старый ключ</h3>
+<p>Перейдите в папку с вашим Korepi и удалите <code>license.json</code>, после чего откройте Korepi и вставьте новый ключ, который вы получили.</p>
+<p>Наслаждайтесь Korepi!</p>
+<h2> Сброс HWID: Local(V) (Спонсор)</h2>
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/q0G9UZHErrg?list=PL5eI1Tb64p56Mp6JqoR_o3BYk9UFTbOQI" title="How to reset Local V HWID" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
-<h3> Step 1: Get your current HWID</h3>
-<p>To get your current HWID, you will need to open your <code>Local(V) injector</code>, and it will automatically copy your HWID into your clipboard.</p>
-<h3> Step 2: Find <code>★⋅micah-bot-verify⋅★</code> channel</h3>
-<p>After finding <code>★⋅micah-bot-verify⋅★</code>, click on <code>V:Change HWID</code>, a window will pop up asking for your current HWID, paste it and click <code>Submit</code>.</p>
-<h3> Step 3: Get your new <code>enc.json</code></h3>
-<p>After your HWID reset, click on <code>V:Verify</code> and paste your current HWID into the window and click <code>Submit</code>. Now download the new <code>enc.json</code> and replace the file in your Korepi folder.</p>
-<p>Note: Remember that the file name has to be <code>enc.json</code>.</p>
+<h3> Шаг 1: Получите ваш текущий HWID</h3>
+<p>Чтобы получить текущий HWID, вам нужно открыть ваш <code>Local(V) инжектор</code>, и он автоматически скопирует ваш HWID в буфер обмена.</p>
+<h3> Шаг 2: Найдите канал <code>★⋅micah-bot-verify⋅★</code></h3>
+<p>После того, как вы найдете <code>★⋅micah-bot-verify⋅★</code>, нажмите на <code>V:Change HWID</code>, появится окно, запрашивающее ваш текущий HWID, вставьте его и нажмите <code>Submit</code>.</p>
+<h3> Шаг 3: Получите свой новый <code>enc.json</code></h3>
+<p>После сброса HWID нажмите на <code>V:Verify</code> и вставьте свой текущий HWID в окно, затем нажмите <code>Submit</code>. Теперь загрузите новый <code>enc.json</code> и замените файл в вашей папке Korepi.</p>
+<p>Примечание: Помните, что имя файла должно быть <code>enc.json</code>.</p>
 ]]></content:encoded>
     </item>
     <item>
-      <title>Error 31-4302</title>
+      <title>Ошибка 31-4302</title>
       <link>https://korepi.com/ru/troubleshoot/31-4302.html</link>
       <guid>https://korepi.com/ru/troubleshoot/31-4302.html</guid>
-      <source url="https://korepi.com/ru/rss.xml">Error 31-4302</source>
-      <description>How to solve the error 31-4302 Method 1 If your game folder contains non-original files, this prompt might appear for you. Check that theres only original files like the next ex...</description>
-      <category>Guide</category>
+      <source url="https://korepi.com/ru/rss.xml">Ошибка 31-4302</source>
+      <description>Как решить ошибку 31-4302 Метод 1 Если в вашей папке с игрой есть неоригинальные файлы, возможно, появится такое предупреждение. Проверьте, что там только оригинальные файлы, ка...</description>
+      <category>Руководство</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> How to solve the error <code>31-4302</code></h2>
+      <content:encoded><![CDATA[<h2> Как решить ошибку <code>31-4302</code></h2>
 <p><img src="/assets/images/docs/202312/31-4302.png" alt="" loading="lazy"></p>
-<h3> Method 1</h3>
-<p>If your game folder contains non-original files, this prompt might appear for you. Check that theres only original files like the next example:</p>
+<h3> Метод 1</h3>
+<p>Если в вашей папке с игрой есть неоригинальные файлы, возможно, появится такое предупреждение. Проверьте, что там только оригинальные файлы, как на следующем примере:</p>
 <p><img src="/assets/images/docs/202312/launcher.png" alt="" loading="lazy"></p>
 <p><img src="/assets/images/docs/202312/folder1.png" alt="" loading="lazy"></p>
-<p>If you keep getting the error in-game even after deleting the files continue reading.</p>
-<h3> Method 2</h3>
-<p>Go to your Korepi, go to <code>Settings --&gt; Other</code>.</p>
+<p>Если вы продолжаете получать ошибку в игре даже после удаления файлов:.</p>
+<h3> Метод 2</h3>
+<p>Перейдите в свой Korepi, перейдите в <code>Настройки --&gt; Другое</code>.</p>
 <p><img src="/assets/images/docs/202312/settings1.png" alt="" loading="lazy"></p>
-<p>Find <code>Bypass Intengrity</code> and uncheck it.</p>
+<p>Найдите <code>Bypass Intengrity</code> и снимите флажок.</p>
 <p><img src="/assets/images/docs/202312/settings2.png" alt="" loading="lazy"></p>
-<p>Now the error should disapear.</p>
-<h2> What if i can't enter Korepi</h2>
-<p>Head to your Korepi folder and find <code>cfg.json</code>, and click <code>CTRL + F</code>, type <code>bypass</code> and search, set the value to <code>false</code> and open Korepi.</p>
-<h2> What if nothing works?</h2>
-<p>You have to reinstall the game.</p>
+<p>Теперь ошибка должна исчезнуть.</p>
+<h2> Что если я не могу войти в Korepi</h2>
+<p>Перейдите в папку Korepi, найдите <code>cfg.json</code>, и нажмите <code>CTRL + F</code>, введите <code>bypass</code> и выполните поиск, установите значение <code>false</code> и откройте Korepi.</p>
+<h2> Что если ничего не помогает?</h2>
+<p>Вам придется переустановить игру.</p>
 ]]></content:encoded>
       <enclosure url="https://korepi.com/assets/images/docs/202312/31-4302.png" type="image/png"/>
     </item>
     <item>
-      <title>List of Errors</title>
+      <title>Список Ошибок</title>
       <link>https://korepi.com/ru/troubleshoot/</link>
       <guid>https://korepi.com/ru/troubleshoot/</guid>
-      <source url="https://korepi.com/ru/rss.xml">List of Errors</source>
-      <description>Catalog List of frequent Injector errors (faq-error.md); How to solve error 31-4302 (31-4302.md);</description>
-      <category>Troubleshoot</category>
+      <source url="https://korepi.com/ru/rss.xml">Список Ошибок</source>
+      <description>Каталог Список частых ошибок (faq-error.md); Как решить ошибку 31-4302 (31-4302.md);</description>
+      <category>Устранение Неполадок</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Catalog</h2>
+      <content:encoded><![CDATA[<h2> Каталог</h2>
 <ul>
 <li>
-<p><a href="/ru/troubleshoot/faq-error.html" target="blank">List of frequent Injector errors</a></p>
+<p><a href="/ru/troubleshoot/faq-error.html" target="blank">Список частых ошибок</a></p>
 </li>
 <li>
-<p><a href="/ru/troubleshoot/31-4302.html" target="blank">How to solve error 31-4302</a></p>
+<p><a href="/ru/troubleshoot/31-4302.html" target="blank">Как решить ошибку 31-4302</a></p>
 </li>
 </ul>
 ]]></content:encoded>
     </item>
     <item>
-      <title>Frequent Injector Errors</title>
+      <title>Список Частых Ошибок Инжектора</title>
       <link>https://korepi.com/ru/troubleshoot/faq-error.html</link>
       <guid>https://korepi.com/ru/troubleshoot/faq-error.html</guid>
-      <source url="https://korepi.com/ru/rss.xml">Frequent Injector Errors</source>
-      <description>List of frequent errors Why my korepi disappears? Make sure you got your anti-virus disabled, create a new folder and add it to exclusions. Extract korepi inside the excluded fo...</description>
-      <category>Troubleshoot</category>
+      <source url="https://korepi.com/ru/rss.xml">Список Частых Ошибок Инжектора</source>
+      <description>Список Частых Ошибок Почему мой Korepi исчезает? Убедитесь, что ваш антивирус отключен, создайте новую папку и добавьте ее в исключения. Распакуйте korepi внутри исключенной пап...</description>
+      <category>Устранение Неполадок</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> List of frequent errors</h2>
-<h2> Why my korepi disappears?</h2>
-<p>Make sure you got your anti-virus disabled, create a new folder and add it to exclusions.</p>
+      <content:encoded><![CDATA[<h2> Список Частых Ошибок</h2>
+<h2> Почему мой Korepi исчезает?</h2>
+<p>Убедитесь, что ваш антивирус отключен, создайте новую папку и добавьте ее в исключения.</p>
 <p><img src="/assets/images/docs/202312/virus.png" alt="" loading="lazy"></p>
-<p>Extract korepi inside the excluded folder and run again.</p>
-<h2> Status: No active subscribtion(s) found, Invalid license key</h2>
-<p>You need to <a href="/ru/guide/getkey.html" target="blank">get a new key</a> from <code>⁠★⋅micah-bot-verify⋅★</code>, if you can't get a key or if the key doesn't work, you have to wait till key expiration.</p>
-<p><code>Sponsors can use F:Reset Key instead</code></p>
+<p>Распакуйте korepi внутри исключенной папки и запустите снова.</p>
+<h2> Статус: No active subscribtion(s) found, Invalid license key</h2>
+<p>Вам нужно <a href="/ru/guide/getkey.html" target="blank">получить новый ключ</a> от <code>⁠★⋅micah-bot-verify⋅★</code>, если вы не можете получить ключ или ключ не работает, вам придется ждать истечения срока действия ключа.</p>
+<p><code>Спонсоры могут использовать F:Reset Key вместо этого</code></p>
 <h2> [DLL injection]  Process crashed, exit code 0xc000005</h2>
-<p>Open <code>cmd</code> as administrator and write the following command:</p>
+<p>Откройте <code>cmd</code> от имени администратора и введите следующую команду:</p>
 <p><code>sfc /scannow</code></p>
-<p>After that, if errors were found, restart the computer and check.
-If after restarting it did not help or no errors were found, write this command:</p>
+<p>После этого, если были найдены ошибки, перезагрузите компьютер и проверьте.
+Если после перезагрузки это не помогло или ошибок не было найдено, введите эту команду:</p>
 <p><code>DISM.exe /Online /Cleanup-Image /RestoreHealth</code></p>
-<p>After completing the checks, restart the computer and check.</p>
-<p>If it doesn't work, reinstall Windows.</p>
+<p>После завершения проверок перезагрузите компьютер и проверьте.</p>
+<p>Если это не помогло, переустановите Windows.</p>
 <h2> ImGUI: DirectX11 backend initialized successfully.</h2>
-<p>Error occurs because of themes installed, clear the <code>themes</code> folder.</p>
-<h2> The system did not detect MSVCP140.dll</h2>
-<p>Update <a href="https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170#visual-studio-2015-2017-2019-and-2022" target="_blank" rel="noopener noreferrer">Microsoft Visual Studio C++</a></p>
-<p>Update <a href="https://www.microsoft.com/en-us/download/details.aspx?id=35" target="_blank" rel="noopener noreferrer">DirectX</a></p>
-<h2> File corrupted! This program has been manipulated and maybe it's infected.</h2>
+<p>Ошибка возникает из-за установленных тем, очистите папку <code>themes</code>.</p>
+<h2> Система не обнаружила MSVCP140.dll</h2>
+<p>Обновите <a href="https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170#visual-studio-2015-2017-2019-and-2022" target="_blank" rel="noopener noreferrer">Microsoft Visual Studio C++</a></p>
+<p>Обновите <a href="https://www.microsoft.com/en-us/download/details.aspx?id=35" target="_blank" rel="noopener noreferrer">DirectX</a></p>
+<h2> Файл поврежден! Эта программа была изменена и, возможно, заражена.</h2>
 <p><img src="/assets/images/docs/202312/virus2.png" alt="" loading="lazy"></p>
-<p>In this case, you can try using <code>Malware Bytes</code> or <code>Dr.Web</code> to do a full scan, if any virus is found, remove them, restart and try again. If it doesn't work, reinstall Windows is the easiest way to solve this issue.</p>
+<p>В этом случае вы можете попробовать использовать <code>Malware Bytes</code> или <code>Dr.Web</code> для полного сканирования; если вирус найден, удалите его, перезагрузите и попробуйте снова. Если это не помогает, переустановка Windows - самый простой способ решения этой проблемы.</p>
 <h2> Timeout was reached</h2>
 <p><img src="/assets/images/docs/202312/error1.png" alt="" loading="lazy"></p>
-<p>Reboot your router.</p>
-<p>An antivirus may be blocking the connection, make sure that is not in the Task Manager.</p>
-<p>Use a VPN and try again.</p>
-<p>Turn off all applications that affect the firewall. If nothing works, then you might have some problems with the network.</p>
+<p>Перезагрузите ваш маршрутизатор.</p>
+<p>Антивирус может блокировать соединение, убедитесь, что его нет в диспетчере задач.</p>
+<p>Используйте VPN и попробуйте снова.</p>
+<p>Отключите все приложения, влияющие на брандмауэр. Если ничего не помогает, возможно, у вас проблемы с сетью.</p>
 <h2> DLL Injection failed</h2>
-<p>Uninstall colorpicker folder and download colorpicker again.</p>
+<p>Удалите папку colorpicker и снова загрузите colorpicker.</p>
 <h2> Windows cannot access the specified device, path, or file</h2>
 <p><img src="/assets/images/docs/202312/error2.png" alt="" loading="lazy"></p>
-<p>At first go to <a href="https://support.microsoft.com/en-us/topic/-windows-cannot-access-the-specified-device-path-or-file-error-when-you-try-to-install-update-or-start-a-program-or-file-46361133-47ed-6967-c13e-e75d3cc29657" target="_blank" rel="noopener noreferrer">HERE</a> and follow the steps on that post.</p>
-<p>Also after going to the solutions on the post, download an antivirus like <code>Dr.Web</code> or <code>Malware bytes</code> and run a full system check!</p>
-<p>If it doesn't help open cmd as administrator and write <code>sfc /scannow</code></p>
-<p>After that, if errors were found, restart the computer and check.</p>
-<p>If after restarting it didn't help or no errors were found, write this command:</p>
+<p>Сначала перейдите <a href="https://support.microsoft.com/en-us/topic/-windows-cannot-access-the-specified-device-path-or-file-error-when-you-try-to-install-update-or-start-a-program-or-file-46361133-47ed-6967-c13e-e75d3cc29657" target="_blank" rel="noopener noreferrer">СЮДА</a> и следуйте шагам в этом сообщении.</p>
+<p>Также, после применения решений из сообщения, скачайте антивирус, такой как <code>Dr.Web</code> или <code>Malware Bytes</code>, и запустите полную проверку системы!</p>
+<p>Если это не поможет, откройте cmd от имени администратора и введите <code>sfc /scannow</code></p>
+<p>После этого, если были найдены ошибки, перезагрузите компьютер и проверьте.</p>
+<p>Если после перезагрузки это не помогло или ошибок не было найдено, введите эту команду:</p>
 <p><code>DISM.exe /Online /Cleanup-Image /RestoreHealth</code></p>
-<p>After completing the checks, restart the computer and check again.</p>
-<p>If it doesn't work, reinstall Windows.</p>
+<p>После завершения проверок перезагрузите компьютер и проверьте снова.</p>
+<p>Если это не помогает, переустановите Windows.</p>
 <h2> Signature checksum failed</h2>
 <p><img src="/assets/images/docs/202312/checksum.png" alt="" loading="lazy"></p>
-<p>Servers are down or shut down, wait for servers to come back online.</p>
+<p>Серверы выключены или отключены, подождите, пока серверы не включатся.</p>
 <h2> Failed to create game process with Error 5</h2>
 <p><img src="/assets/images/docs/202312/error3.png" alt="" loading="lazy"></p>
-<p>Delete <code>cfg.ini</code>.</p>
+<p>Удалите <code>cfg.ini</code>.</p>
 <h2> SSL connect error</h2>
 <p><img src="/assets/images/docs/202312/error4.png" alt="" loading="lazy"></p>
-<p>Restart your PC, restart your router.</p>
-<p>Try using a VPN if it doesn't work.</p>
+<p>Перезагрузите компьютер, перезапустите маршрутизатор.</p>
+<p>Попробуйте использовать VPN, если это не помогает.</p>
 <h2> Failed to detect game version</h2>
-<p>Update your injector, follow the steps <a href="/ru/start/download.html" target="blank">here</a></p>
+<p>Обновите ваш инжектор, следуйте шагам <a href="/ru/start/download.html" target="blank">здесь</a></p>
 <h2> File ok</h2>
-<p>Delete your cfg.json, something might be wrong with the file.</p>
+<p>Удалите ваш cfg.json, возможно, файл поврежден.</p>
 <h2> UserAssembly.dll isn't initialized, waiting for 2 sec.</h2>
-<p>If your injector crashes after this line try the following steps:</p>
-<p>Turn off all anti-viruses in PC.</p>
-<p>If its doesn't help use <code>sfc /scannow</code> command in cmd as administrator.</p>
-<p>If errors are found after checking and Windows is unable to resolve them, use the <code>DISM.exe /Online /Cleanup-Image /RestoreHealth</code> command.</p>
-<p>After checking restart your computer and try to run colorpicker again.</p>
-<p>If the error repeats you can make factory reset of Windows.</p>
+<p>Если ваш инжектор выходит из строя после этой строки, выполните следующие действия:</p>
+<p>Выключите все антивирусные программы на компьютере.</p>
+<p>Если это не помогает, используйте команду <code>sfc /scannow</code> в командной строке от имени администратора.</p>
+<p>Если после проверки найдены ошибки и Windows не может их устранить, используйте команду <code>DISM.exe /Online /Cleanup-Image /RestoreHealth</code>.</p>
+<p>После проверки перезагрузите компьютер и попробуйте запустить инжектор снова.</p>
+<p>Если ошибка повторяется, вы можете выполнить сброс до заводских настроек Windows.</p>
 ]]></content:encoded>
       <enclosure url="https://korepi.com/assets/images/docs/202312/virus.png" type="image/png"/>
     </item>
     <item>
-      <title>Attack Effects</title>
+      <title>Эффекты Атаки</title>
       <link>https://korepi.com/ru/features/Player/attack-effects.html</link>
       <guid>https://korepi.com/ru/features/Player/attack-effects.html</guid>
-      <source url="https://korepi.com/ru/rss.xml">Attack Effects</source>
-      <description>Attack Effects: Modifications for your attacks Multi-Hit Mode: One Punch Mode: Tries to kill the target with 1 hit.; Note: Not recommended to use. Modifies the number of attacks...</description>
-      <category>Features</category>
+      <source url="https://korepi.com/ru/rss.xml">Эффекты Атаки</source>
+      <description>Эффекты Атаки: Модификации для ваших атак Multi-Hit Mode: Режим Одного Удара: Пытается убить цель одним ударом.; Примечание: Не рекомендуется использовать. Модифицирует количест...</description>
+      <category>Особенности</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Attack Effects: Modifications for your attacks</h2>
+      <content:encoded><![CDATA[<h2> Эффекты Атаки: Модификации для ваших атак</h2>
 <h3> Multi-Hit Mode:</h3>
 <ul>
-<li>One Punch Mode: Tries to kill the target with 1 hit.</li>
+<li>Режим Одного Удара: Пытается убить цель одним ударом.</li>
 </ul>
 <blockquote>
-<p>Note: Not recommended to use.</p>
+<p>Примечание: Не рекомендуется использовать.</p>
 </blockquote>
 <ul>
-<li>Modifies the number of attacks received by the target.</li>
+<li>Модифицирует количество получаемых целью ударов.</li>
 </ul>
 <blockquote>
-<p>Note: Not recommended to go above <code>5</code>.</p>
+<p>Примечание: Не рекомендуется устанавливать значение выше <code>5</code>.</p>
 </blockquote>
 <h3> Multi-Target:</h3>
 <ul>
-<li>Hit all the targets within the selected radius from the target hit.</li>
+<li>Поражает все цели в выбранном радиусе от цели удара.</li>
 </ul>
 <blockquote>
-<p>Note: Not recommended to change default settings.</p>
+<p>Примечание: Не рекомендуется изменять настройки по умолчанию.</p>
 </blockquote>
 <h3> Multi-Animation:</h3>
 <ul>
-<li>Modifies the number of times the character does an action.</li>
+<li>Модифицирует количество раз, когда персонаж выполняет действие.</li>
 </ul>
 <blockquote>
-<p>Note: Not recommended to use.</p>
+<p>Примечание: Не рекомендуется использовать.</p>
 </blockquote>
 <h3> Attack Speed:</h3>
 <ul>
-<li>Modifies the speed of the normal attacks from the player.</li>
+<li>Модифицирует скорость обычных атак игрока.</li>
 </ul>
 <blockquote>
-<p>Note: Not recommended to use above <code>1.5</code>.</p>
+<p>Примечание: Не рекомендуется устанавливать значение выше <code>1.5</code>.</p>
 </blockquote>
 <h3> Custom Element:</h3>
 <ul>
-<li>Modifies the element of all outgoing attacks.</li>
+<li>Модифицирует элемент всех исходящих атак.</li>
 </ul>
 <h3> Infuse Element:</h3>
 <ul>
-<li>Modifies the element of normal attacks from sword, polearms and claymore.</li>
+<li>Модифицирует элемент обычных атак мечей, копий и глеф.</li>
 </ul>
 <h3> Auto Weakspot:</h3>
 <ul>
-<li>Hits target weakspot therefore criting, only works with bow users.</li>
+<li>Поражает слабое место цели, вызывая критический урон, работает только с лучниками.</li>
 </ul>
-<h3> Critical Hit (<span style="color:yellow;">Sponsor</span>):</h3>
+<h3> Critical Hit (<span style="color:yellow;">Спонсор</span>):</h3>
 <ul>
-<li>Changes the probability of critical hits.</li>
+<li>Изменяет вероятность критических ударов.</li>
 </ul>
 <h3> Nullify Incoming Element:</h3>
 <ul>
-<li>Will nullify any incoming element converting it to physical damage instead.</li>
+<li>Обнуляет любой поступающий элемент, преобразуя его в физический урон вместо него.</li>
 </ul>
-<h2> Example Video:</h2>
-<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/1BdKwxBjWyg?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Attack Effects" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+<h2> Пример Видео:</h2>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/1BdKwxBjWyg?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Эффекты Атаки" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 ]]></content:encoded>
     </item>
     <item>
-      <title>Auto Run</title>
+      <title>Автоматический Запуск</title>
       <link>https://korepi.com/ru/features/Player/auto-run.html</link>
       <guid>https://korepi.com/ru/features/Player/auto-run.html</guid>
-      <source url="https://korepi.com/ru/rss.xml">Auto Run</source>
-      <description>Auto Run will move the player to the direction the player is facing automatically. Example Video:</description>
-      <category>Features</category>
+      <source url="https://korepi.com/ru/rss.xml">Автоматический Запуск</source>
+      <description>Auto run автоматически перемещает игрока в направлении, в котором он смотрит. Пример Видео:</description>
+      <category>Особенности</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Auto Run will move the player to the direction the player is facing automatically.</h2>
-<h2> Example Video:</h2>
-<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/BLDhPBMs7Es?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Run" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+      <content:encoded><![CDATA[<h2> Auto run автоматически перемещает игрока в направлении, в котором он смотрит.</h2>
+<h2> Пример Видео:</h2>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/BLDhPBMs7Es?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Автоматический Запуск" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 ]]></content:encoded>
     </item>
     <item>
-      <title>Bunny Hop</title>
+      <title>Банни Хоп</title>
       <link>https://korepi.com/ru/features/Player/bunny-hop.html</link>
       <guid>https://korepi.com/ru/features/Player/bunny-hop.html</guid>
-      <source url="https://korepi.com/ru/rss.xml">Bunny Hop</source>
-      <description>Sponsor Only Bunny Hop will jump automatically after first jump when enabled. Example Video:</description>
-      <category>Features</category>
+      <source url="https://korepi.com/ru/rss.xml">Банни Хоп</source>
+      <description>Только для Спонсоров Bunny Hop автоматически выполняет прыжок после первого прыжка при включении. Пример Видео:</description>
+      <category>Особенности</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
       <content:encoded><![CDATA[<div class="hint-container info">
-<p class="hint-container-title">Sponsor Only</p>
+<p class="hint-container-title">Только для Спонсоров</p>
 </div>
 <hr>
-<h2> Bunny Hop will jump automatically after first jump when enabled.</h2>
-<h2> Example Video:</h2>
-<div class="iframe-container"><iframe width="640" height="369" src="https://www.youtube.com/embed/Gh2GX23E6dw?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Bunnyhop (Sponsor)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+<h2> Bunny Hop автоматически выполняет прыжок после первого прыжка при включении.</h2>
+<h2> Пример Видео:</h2>
+<div class="iframe-container"><iframe width="640" height="369" src="https://www.youtube.com/embed/Gh2GX23E6dw?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Банни Хоп (Спонсор)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 ]]></content:encoded>
     </item>
     <item>
-      <title>Cooldown Effects</title>
+      <title>Эффекты Перезарядки</title>
       <link>https://korepi.com/ru/features/Player/cooldown-effects.html</link>
       <guid>https://korepi.com/ru/features/Player/cooldown-effects.html</guid>
-      <source url="https://korepi.com/ru/rss.xml">Cooldown Effects</source>
-      <description>Cooldown Effects: Modifies the cooldown time of various actions. Max Burst Energy: Removes the requirement needed to use elemental bursts.; Note: Energy bubble may appear incomp...</description>
-      <category>Features</category>
+      <source url="https://korepi.com/ru/rss.xml">Эффекты Перезарядки</source>
+      <description>Cooldown Effects: Модификации времени перезарядки различных действий. Max Burst Energy: Убирает необходимость использовать элементарные взрывы.; Примечание: Энергетический пузыр...</description>
+      <category>Особенности</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Cooldown Effects: Modifies the cooldown time of various actions.</h2>
+      <content:encoded><![CDATA[<h2> Cooldown Effects: Модификации времени перезарядки различных действий.</h2>
 <h3> Max Burst Energy:</h3>
 <ul>
-<li>Removes the requirement needed to use elemental bursts.</li>
+<li>Убирает необходимость использовать элементарные взрывы.</li>
 </ul>
 <blockquote>
-<p>Note: Energy bubble may appear incomplete but will be still usable.</p>
+<p>Примечание: Энергетический пузырь может выглядеть неполным, но останется пригодным к использованию.</p>
 </blockquote>
-<h3> No Avatar Skill Cooldown: Removes the cooldown for character skill and burst.</h3>
+<h3> No Avatar Skill Cooldown: Убирает перезарядку для навыков и взрывов персонажа (Q и E).</h3>
 <ul>
-<li>Reduce Skill/Burst Cooldown: When activated instead of removing the cooldown, it will be set to the selected values if the cooldown is higher than the value selected.</li>
+<li>Уменьшение Перезарядки Навыка/Взрыва: При активации вместо удаления перезарядки она будет установлена на выбранные значения, если перезарядка выше выбранного значения.</li>
 </ul>
 <blockquote>
-<p>Note: You can use any value for CD, but don't spam it too hard. <code>ex. 40 times in 1m</code></p>
+<p>Примечание: Можно использовать любое значение для перезарядки, но не переусердствуйте. <code>например, 40 раз в 1 минуту</code></p>
 </blockquote>
 <h3> No Sprint Cooldown:</h3>
 <ul>
-<li>Removes the delay between sprints.</li>
+<li>Убирает задержку между спринтами.</li>
 </ul>
 <h3> Instant Charged Attack:</h3>
 <ul>
-<li>Bow: Removes the charge time for bow users.</li>
-<li>Other: Removes the charge time for other weapon users.</li>
+<li>Лук: Убирает время зарядки для лучников.</li>
+<li>Другие: Убирает время зарядки для пользователей другого оружия.</li>
 </ul>
 <h3> No Vehicle Skill Cooldown:</h3>
 <ul>
-<li>Removes the cooldown for the boat skills.</li>
+<li>Убирает перезарядку для навыков лодки.</li>
 </ul>
-<h2> Example Video:</h2>
-<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/qv5ykSL3Ojw?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Cooldown Effects" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+<h2> Пример Видео:</h2>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/qv5ykSL3Ojw?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Эффекты Перезарядки" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 ]]></content:encoded>
     </item>
     <item>
-      <title>Extra Movements</title>
+      <title>Дополнительные Движения</title>
       <link>https://korepi.com/ru/features/Player/extra-movements.html</link>
       <guid>https://korepi.com/ru/features/Player/extra-movements.html</guid>
-      <source url="https://korepi.com/ru/rss.xml">Extra Movements</source>
-      <description>Sponsor Only Extra Movements: Modifies/Enhances certain actions for the player. Run On Water: Enables the ability to walk on water.; Run Boost: Enhances the speed when the playe...</description>
-      <category>Features</category>
+      <source url="https://korepi.com/ru/rss.xml">Дополнительные Движения</source>
+      <description>Только для Спонсоров Дополнительные Движения: Модификации/Улучшения определенных действий для игрока. Run On Water: Позволяет ходить по воде.; Run Boost: Увеличивает скорость бе...</description>
+      <category>Особенности</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
       <content:encoded><![CDATA[<div class="hint-container info">
-<p class="hint-container-title">Sponsor Only</p>
+<p class="hint-container-title">Только для Спонсоров</p>
 </div>
 <hr>
-<h2> Extra Movements: Modifies/Enhances certain actions for the player.</h2>
+<h2> Дополнительные Движения: Модификации/Улучшения определенных действий для игрока.</h2>
 <h3> Run On Water:</h3>
 <ul>
-<li>Enables the ability to walk on water.</li>
+<li>Позволяет ходить по воде.</li>
 </ul>
 <h3> Run Boost:</h3>
 <ul>
-<li>Enhances the speed when the player is running.</li>
+<li>Увеличивает скорость бега игрока.</li>
 </ul>
 <blockquote>
-<p>Note: Not recommended to change default values.</p>
+<p>Примечание: Не рекомендуется изменять настройки по умолчанию.</p>
 </blockquote>
 <h3> Jump Boost:</h3>
 <ul>
-<li>Enhances the height of the jump for the player.
+<li>Увеличивает высоту прыжка игрока.
 <ul>
-<li>Apply Mid Air: Enable jumping while not on the ground.</li>
+<li>Применять в Полете: Включить прыжки в воздухе.</li>
 </ul>
 </li>
 </ul>
 <blockquote>
-<p>Note: Not recommended to change default values.</p>
+<p>Примечание: Не рекомендуется изменять настройки по умолчанию.</p>
 </blockquote>
 <h3> Fly Boost:</h3>
 <ul>
-<li>Enhances the speed when the player is gliding.</li>
+<li>Увеличивает скорость полета игрока.</li>
 </ul>
 <blockquote>
-<p>Note: Not recommended to change default values.</p>
+<p>Примечание: Не рекомендуется изменять настройки по умолчанию.</p>
 </blockquote>
 <h3> Swim Boost:</h3>
 <ul>
-<li>Enhances the speed when the player is swimming.</li>
+<li>Увеличивает скорость плавания игрока.</li>
 </ul>
 <blockquote>
-<p>Note: Not recommended to change default values.</p>
+<p>Примечание: Не рекомендуется изменять настройки по умолчанию.</p>
 </blockquote>
 <h3> Dive Boost:</h3>
 <ul>
-<li>Enhances the speed when the player is diving.</li>
+<li>Увеличивает скорость погружения игрока.</li>
 </ul>
 <blockquote>
-<p>Note: Not recommended to change default values.</p>
+<p>Примечание: Не рекомендуется изменять настройки по умолчанию.</p>
 </blockquote>
 <h3> Blink:</h3>
 <ul>
-<li>Allows the player to move certain distance after pressing a hotkey.</li>
+<li>Позволяет игроку перемещаться на определенное расстояние после нажатия горячей клавиши.</li>
 </ul>
-<h2> Example Video:</h2>
-<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/wMd9icqhFQg?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Extra Movement (Sponsor)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+<h2> Пример Видео:</h2>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/wMd9icqhFQg?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Дополнительные Движения (Спонсор)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 ]]></content:encoded>
     </item>
     <item>
-      <title>Fall Control</title>
+      <title>Управление Падением</title>
       <link>https://korepi.com/ru/features/Player/fall-control.html</link>
       <guid>https://korepi.com/ru/features/Player/fall-control.html</guid>
-      <source url="https://korepi.com/ru/rss.xml">Fall Control</source>
-      <description>Fall Control allows you to move with the selected speed while falling. Example Video:</description>
-      <category>Features</category>
+      <source url="https://korepi.com/ru/rss.xml">Управление Падением</source>
+      <description>Fall Control позволяет вам двигаться с выбранной скоростью во время падения. Пример Видео:</description>
+      <category>Особенности</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Fall Control allows you to move with the selected speed while falling.</h2>
-<h2> Example Video:</h2>
-<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/BHiabtwSSNc?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Fall Control" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+      <content:encoded><![CDATA[<h2> Fall Control позволяет вам двигаться с выбранной скоростью во время падения.</h2>
+<h2> Пример Видео:</h2>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/BHiabtwSSNc?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Управление Падением" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 ]]></content:encoded>
     </item>
     <item>
-      <title>God Mode</title>
+      <title>Режим Бога</title>
       <link>https://korepi.com/ru/features/Player/god-mode.html</link>
       <guid>https://korepi.com/ru/features/Player/god-mode.html</guid>
-      <source url="https://korepi.com/ru/rss.xml">God Mode</source>
-      <description>God Mode will disable all incoming damage. Undead: When enabled, god mode only will turn on if damage is lethal.; Conditional: When enabled, god mode only will turn on if the ch...</description>
-      <category>Features</category>
+      <source url="https://korepi.com/ru/rss.xml">Режим Бога</source>
+      <description>God Mode отключит весь поступающий урон. Undead: При включении режим Бога активируется только в случае смертельного урона.; Условный: При включении режим Бога активируется тольк...</description>
+      <category>Особенности</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> God Mode will disable all incoming damage.</h2>
+      <content:encoded><![CDATA[<h2> God Mode отключит весь поступающий урон.</h2>
 <h3> Undead:</h3>
 <ul>
-<li>When enabled, god mode only will turn on if damage is lethal.</li>
+<li>При включении режим Бога активируется только в случае смертельного урона.</li>
 </ul>
-<h3> Conditional:</h3>
+<h3> Условный:</h3>
 <ul>
-<li>When enabled, god mode only will turn on if the character hp falls below the specified value.</li>
+<li>При включении режим Бога активируется только при падении здоровья персонажа ниже указанного значения.</li>
 </ul>
 <blockquote>
-<p>Note: Recommended to use conditional for abyss.</p>
+<p>Примечание: Рекомендуется использовать условный режим в Абиссе.</p>
 </blockquote>
-<h2> Example Video:</h2>
-<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/42utUUYNHRE?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - God Mode" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+<h2> Пример Видео:</h2>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/42utUUYNHRE?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Режим Бога" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 ]]></content:encoded>
     </item>
     <item>
-      <title>Infinite Stamina</title>
+      <title>Бесконечная Выносливость</title>
       <link>https://korepi.com/ru/features/Player/infinite-stamina.html</link>
       <guid>https://korepi.com/ru/features/Player/infinite-stamina.html</guid>
-      <source url="https://korepi.com/ru/rss.xml">Infinite Stamina</source>
-      <description>Infinite Stamina disables the stamina consumption for all actions. Move Sync Packet Replacement: When this is enabled and Infinite Stamina is disabled, will prevent sending stam...</description>
-      <category>Features</category>
+      <source url="https://korepi.com/ru/rss.xml">Бесконечная Выносливость</source>
+      <description>Infinite Stamina отключает расход выносливости для всех действий. Move Sync Packet Replacement: При включении этой функции и отключении Бесконечной Выносливости предотвращает от...</description>
+      <category>Особенности</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Infinite Stamina disables the stamina consumption for all actions.</h2>
+      <content:encoded><![CDATA[<h2> Infinite Stamina отключает расход выносливости для всех действий.</h2>
 <h3> Move Sync Packet Replacement:</h3>
 <ul>
-<li>When this is enabled and Infinite Stamina is disabled, will prevent sending stamina consuming action packets to server like running, climbing, swimming, etc.</li>
+<li>При включении этой функции и отключении Бесконечной Выносливости предотвращает отправку пакетов действий, потребляющих выносливость, на сервер, таких как бег, восхождение, плавание, и так далее.</li>
 </ul>
 <blockquote>
-<p>Note: Recommended to use Move Sync Packet Replacement.</p>
+<p>Примечание: Рекомендуется использовать Замену Пакета Синхронизации Движения.</p>
 </blockquote>
-<h2> Example Video:</h2>
-<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/NZhfaMOLuY0?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Infinite Stamina" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+<h2> Пример Видео:</h2>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/NZhfaMOLuY0?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Бесконечная Выносливость" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 ]]></content:encoded>
     </item>
     <item>
-      <title>No Clip</title>
+      <title>Полет No clip</title>
       <link>https://korepi.com/ru/features/Player/no-clip.html</link>
       <guid>https://korepi.com/ru/features/Player/no-clip.html</guid>
-      <source url="https://korepi.com/ru/rss.xml">No Clip</source>
-      <description>No Clip will allow you to have no collision, move faster and fly. No Animation: When enabled it will disable animations of the character while using no clip.; Camera-relative mo...</description>
-      <category>Features</category>
+      <source url="https://korepi.com/ru/rss.xml">Полет No clip</source>
+      <description>No Clip позволит вам летать . No Animation: При включении отключит анимации персонажа при использовании без коллизий.; Camera-relative movement: При включении персонаж будет дви...</description>
+      <category>Особенности</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> No Clip will allow you to have no collision, move faster and fly.</h2>
+      <content:encoded><![CDATA[<h2> No Clip позволит вам летать .</h2>
 <h3> No Animation:</h3>
 <ul>
-<li>When enabled it will disable animations of the character while using no clip.</li>
+<li>При включении отключит анимации персонажа при использовании без коллизий.</li>
 </ul>
 <h3> Camera-relative movement:</h3>
 <ul>
-<li>When enabled, character will move based on camera view instead of where the character is facing.</li>
+<li>При включении персонаж будет двигаться в соответствии с видом камеры, а не тем, куда смотрит персонаж.</li>
 </ul>
 <h3> Alternate No-Clip:</h3>
 <ul>
-<li>When enabled, no clip speed will change after pressing the selected hotkey at the designed speed.</li>
+<li>При включении скорость без коллизий изменится после нажатия выбранной горячей клавиши на заданную скорость.</li>
 </ul>
 <h3> Use Custom Keys:</h3>
 <ul>
-<li>Enables the option to change no-clip directional controls.</li>
+<li>Включает возможность изменения управления направлением без коллизий.</li>
 </ul>
 <h3> DragBack Bypass:</h3>
 <ul>
-<li>Prevents the server to drag the character back due to excessive speed.</li>
+<li>Предотвращает серверу торможение персонажа из-за чрезмерной скорости.</li>
 </ul>
 <blockquote>
-<p>Note: Not recommended to use above <code>20</code>.</p>
+<p>Примечание: Не рекомендуется устанавливать значение выше <code>20</code>.
+P.s Я использую значение в 35 больше года by QweRez</p>
 </blockquote>
-<h2> Example Video:</h2>
-<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/nPdq-yzBt3k?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - NoClip" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+<h2> Пример Видео:</h2>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/nPdq-yzBt3k?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Без Коллизий" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 ]]></content:encoded>
     </item>
     <item>
-      <title>Player Speed</title>
+      <title>Скорость Игрока</title>
       <link>https://korepi.com/ru/features/Player/player-speed.html</link>
       <guid>https://korepi.com/ru/features/Player/player-speed.html</guid>
-      <source url="https://korepi.com/ru/rss.xml">Player Speed</source>
-      <description>Player Speed modifies player speed. Real. No Fake. Note: Recommended to use below 1.5. Note 2: Extra Movements (extra-movements.md) is recommended since its better synced with t...</description>
-      <category>Features</category>
+      <source url="https://korepi.com/ru/rss.xml">Скорость Игрока</source>
+      <description>Player Speed модифицирует скорость игрока. Реально. Не Имитация. Примечание: Рекомендуется использовать значение ниже 1.5. Примечание 2: Extra Movements (extra-movements.md) рек...</description>
+      <category>Особенности</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Player Speed modifies player speed. Real. No Fake.</h2>
+      <content:encoded><![CDATA[<h2> Player Speed модифицирует скорость игрока. Реально. Не Имитация.</h2>
 <blockquote>
-<p>Note: Recommended to use below <code>1.5</code>.
-Note 2: <a href="/ru/features/Player/extra-movements.html" target="blank">Extra Movements</a> is recommended since its better synced with the server (safer)(Sponsor)</p>
+<p>Примечание: Рекомендуется использовать значение ниже <code>1.5</code>.
+Примечание 2: <a href="/ru/features/Player/extra-movements.html" target="blank">Extra Movements</a> рекомендуется, так как они лучше синхронизированы с сервером (безопаснее) (Спонсор).</p>
 </blockquote>
-<h2> Example Video:</h2>
-<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/HCxmOUMFRs8?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Player Speed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+<h2> Пример Видео:</h2>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/HCxmOUMFRs8?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Скорость Игрока" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 ]]></content:encoded>
     </item>
     <item>
-      <title>Remote Utility</title>
+      <title>Удаленная Утилита</title>
       <link>https://korepi.com/ru/features/Player/remote-utility.html</link>
       <guid>https://korepi.com/ru/features/Player/remote-utility.html</guid>
-      <source url="https://korepi.com/ru/rss.xml">Remote Utility</source>
-      <description>Sponsor Only Remote Utility: Claim Daily Commission Reward: Claims daily commission reward when all 4 comissions are completed.; Custom Talk: Starts a conversation using the con...</description>
-      <category>Features</category>
+      <source url="https://korepi.com/ru/rss.xml">Удаленная Утилита</source>
+      <description>Только для Спонсоров Remote Utility: Claim Daily Commission Reward: Получает ежедневное вознаграждение за выполнение всех 4-х квестов.; Custom Talk: Начинает разговор, используя...</description>
+      <category>Особенности</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
       <content:encoded><![CDATA[<div class="hint-container info">
-<p class="hint-container-title">Sponsor Only</p>
+<p class="hint-container-title">Только для Спонсоров</p>
 </div>
 <hr>
 <h2> Remote Utility:</h2>
 <h3> Claim Daily Commission Reward:</h3>
 <ul>
-<li>Claims daily commission reward when all 4 comissions are completed.</li>
+<li>Получает ежедневное вознаграждение за выполнение всех 4-х квестов.</li>
 </ul>
 <h3> Custom Talk:</h3>
 <ul>
-<li>Starts a conversation using the conversation ID, some conversations might not work.</li>
+<li>Начинает разговор, используя идентификатор разговора; некоторые разговоры могут не работать.</li>
 </ul>
 <blockquote>
-<p>Note: This feature is dangerous.
-Note: To get the conversation ID, enable <code>Debug Talk</code>, ID will be displayed in <code>cmd</code>.</p>
+<p>Примечание: Эта функция опасна.
+Примечание: Чтобы получить идентификатор разговора, включите <code>Отладочный Разговор</code>, идентификатор будет отображен в <code>cmd</code>.</p>
 </blockquote>
 <h3> Spawn Gadget:</h3>
 <ul>
-<li>Spawns the selected gadget by ID, some of them might not work.</li>
+<li>Призывает выбранный гаджет по идентификатору; некоторые из них могут не работать.</li>
 </ul>
 <blockquote>
-<p>Note: This feature is dangerous.
-Note 2: You can find the gadget IDs <a href="https://github.com/jie65535/GrasscutterCommandGenerator/blob/main/Source/GrasscutterTools/Resources/en-us/Gadget.txt" target="_blank" rel="noopener noreferrer">here</a></p>
+<p>Примечание: Эта функция опасна.
+Примечание 2: Вы можете найти идентификаторы гаджетов <a href="https://github.com/jie65535/GrasscutterCommandGenerator/blob/main/Source/GrasscutterTools/Resources/en-us/Gadget.txt" target="_blank" rel="noopener noreferrer">здесь</a></p>
 </blockquote>
 <h3> Crafting:</h3>
 <ul>
-<li>Condensed Resin: Crafts a condensed resin if you got the resin and the items.</li>
-<li>Spawn Alchemy Table: Spawns an Alchemy Table.</li>
-<li>Spawn Forging Table: Spawns a Forging Table.</li>
-<li>Custom Combine: Will try to combine the selected item using the current character.
+<li>Сжатая Смола: Создает сжатую смолу, если у вас есть смола и необходимые предметы.</li>
+<li>Призыв Стола Алхимика: Призывает стол алхимика.</li>
+<li>Призыв Кузнечного Стола: Призывает кузнечный стол.</li>
+<li>Пользовательская Комбинация: Попытается объединить выбранный предмет с использованием текущего персонажа.
 <blockquote>
-<p>Note: If successful, there will be no prompt. Please check inventory.
-Note 2: You can find the combine IDs <a href="https://github.com/jie65535/GrasscutterCommandGenerator/blob/main/Source/GrasscutterTools/Resources/en-us/Item.txt" target="_blank" rel="noopener noreferrer">here</a></p>
+<p>Примечание: Если успешно, не будет подсказки. Пожалуйста, проверьте инвентарь.
+Примечание 2: Вы можете найти идентификаторы комбинаций <a href="https://github.com/jie65535/GrasscutterCommandGenerator/blob/main/Source/GrasscutterTools/Resources/en-us/Item.txt" target="_blank" rel="noopener noreferrer">здесь</a></p>
 </blockquote>
 </li>
 </ul>
 <h3> Summon NPC:</h3>
 <ul>
-<li>Summons the selected NPC by ID.</li>
+<li>Призывает выбранного NPC по идентификатору.</li>
 </ul>
 <blockquote>
-<p>Note: Katheryne, Wagner and Prince already included.</p>
+<p>Примечание: Катерина, Вагнер и Принц уже включены.</p>
 </blockquote>
 <h3> Summon Monster:</h3>
 <ul>
-<li>Summons the selected monster with the selected parameters by ID.</li>
+<li>Призывает выбранного монстра с выбранными параметрами по идентификатору.</li>
 </ul>
 <blockquote>
-<p>Note: You can't kill them.
-Note 2: You can find the monster IDs <a href="https://github.com/jie65535/GrasscutterCommandGenerator/blob/main/Source/GrasscutterTools/Resources/en-us/Monsters.txt" target="_blank" rel="noopener noreferrer">here</a></p>
+<p>Примечание: Вы не можете их убить.
+Примечание 2: Вы можете найти идентификаторы монстров <a href="https://github.com/jie65535/GrasscutterCommandGenerator/blob/main/Source/GrasscutterTools/Resources/en-us/Monsters.txt" target="_blank" rel="noopener noreferrer">здесь</a></p>
 </blockquote>
 <h3> Summon Item:</h3>
 <ul>
-<li>Summons the selected item by ID.</li>
+<li>Призывает выбранный предмет по идентификатору.</li>
 </ul>
 <blockquote>
-<p>Note: Some items might not work.
-Note 2: You can find the items IDs <a href="https://github.com/jie65535/GrasscutterCommandGenerator/blob/main/Source/GrasscutterTools/Resources/en-us/Item.txt" target="_blank" rel="noopener noreferrer">here</a></p>
+<p>Примечание: Некоторые предметы могут не работать.
+Примечание 2: Вы можете найти идентификаторы предметов <a href="https://github.com/jie65535/GrasscutterCommandGenerator/blob/main/Source/GrasscutterTools/Resources/en-us/Item.txt" target="_blank" rel="noopener noreferrer">здесь</a></p>
 </blockquote>
 <h3> Open UI Page:</h3>
 <ul>
-<li>Open Paimon Menu Page: Opens the menu.</li>
-<li>Open Cooking Page: Opens cooking page.
+<li>Открыть Меню Паймона: Открывает меню.</li>
+<li>Открыть Страницу Готовки: Открывает страницу готовки.
 <blockquote>
-<p>Note: Needs to open cooking page once before using this feature.</p>
+<p>Примечание: Необходимо открыть страницу готовки один раз перед использованием этой функции.</p>
 </blockquote>
 </li>
 </ul>
 <h3> Worship Statue:</h3>
 <ul>
-<li>Will worship the selected Statue of the Seven with the amount selected, need to have the oculus to do this.</li>
+<li>Поклонится выбранной статуе Семи с выбранным количеством; нужно иметь оккультный глаз для этого.</li>
 </ul>
 <h3> Change Traveler Element:</h3>
 <ul>
-<li>Allows player to change traveler element anywhere.</li>
+<li>Позволяет игроку изменить элемент путешественника в любом месте.</li>
 </ul>
-<h2> Example Video:</h2>
+<h2> Пример Видео:</h2>
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/XGztUEy82sE?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Remote Utilities (Sponsor)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 ]]></content:encoded>
     </item>
@@ -1640,10 +1646,10 @@ Note 2: Not recommended to use.</p>
       <link>https://korepi.com/ru/guide/</link>
       <guid>https://korepi.com/ru/guide/</guid>
       <source url="https://korepi.com/ru/rss.xml">Guides</source>
-      <description>CatalogHow to get key (getkey.md); How to reset HWID (resethwid.md); How to Multi-instance (multi-instance.md); How to use custom skins (3DM-tutorial.md); How to download s...</description>
+      <description>КаталогHow to get key (getkey.md); How to reset HWID (resethwid.md); How to Multi-instance (multi-instance.md); How to use custom skins (3DM-tutorial.md); How to download s...</description>
       <category>Guide</category>
       <pubDate>Fri, 24 Nov 2023 11:45:01 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Catalog</h2>
+      <content:encoded><![CDATA[<h2> Каталог</h2>
 <ul>
 <li>
 <p><a href="/ru/guide/getkey.html" target="blank">How to get key</a></p>
