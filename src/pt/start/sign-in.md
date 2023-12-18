@@ -2,29 +2,29 @@
 title: Registro
 icon: user-plus
 category:
-  - Guía
+  - Guia
 tag:
   - Inicio
-author: Schvis
+author: Ryuzeen
 order: 3
 ---
 
-## Introducción
+## Introdução
 
-Bienvenid@ a nuestra comunidad! Para registrarte y obtener el rol de "Fans", sigue estos pasos
+Bem-vindo à nossa comunidade! Para se registrar e obter o papel de "Fans", siga estas etapas.
 
-### Paso 1: Únete a nuestro servidor y consigue el rol de "Newcomer" is aun no lo has hecho
+### Passo 1: Junte-se ao nosso servidor e obtenha o papel de "Newcomer" se ainda não o fez
 
-Si aun no estas en el servido, por favor lee la publicación anterior, donde se explica como se une al servidor y conseguir el rol de "Newcomer".
+Se ainda não estiver no servidor, por favor, leia a publicação anterior, onde é explicado como se juntar ao servidor e obter o papel de "Newcomer".
 
-### Paso 2: Encuentra al bot
+### Passo 2: Encontre o bot
 
-Ahora necesitas encontrar al bot con la imagen de un ganso y mandarle un mensaje directo (micah-sign-bot#0245).
+Agora você precisa encontrar o bot com a imagem de um ganso e enviar uma mensagem direta a ele (micah-sign-bot#0245).
 
-### Paso 3: Como empezar
+### Passo 3: Como começar
 
-Envíale el comando `/sign-in`, resuelve el captcha. Nota: si el bot no te responde al la solución del captcha, seguramente lo haya hecho incorrectamente. Prueba a escribir el captcha de nuevo (sin el comando). Si es correcto, el bot te mandara el siguiente mensaje "Consecutive < days > days".
+Envie o comando `/sign-in`, resolva o captcha. Nota: se o bot não responder à solução do captcha, provavelmente você o digitou incorretamente. Tente escrever o captcha novamente (sem o comando). Se estiver correto, o bot enviará a seguinte mensagem "Consecutive < dias > dias".
 
-### Paso 4: Después de recibir el rol de "Fans"
+### Passo 4: Depois de receber o papel de "Fans"
 
-Tiene que usar este comando durante 7 días (cada 24 horas). Si te retrasas por unas cuantas horas, el bot considerara que no lo has hecho diario y te restablecerá tus días. En el 7mo dia de check-ins, recibirás el rol de "Fans", y ya podrás parar.
+Você precisa usar este comando por 7 dias (a cada 24 horas). Se você se atrasar algumas horas, o bot considerará que você não fez o check-in diário e reiniciará seus dias. No 7º dia de check-ins, você receberá o papel de "Fans" e poderá parar.

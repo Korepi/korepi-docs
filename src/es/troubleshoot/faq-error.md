@@ -13,15 +13,15 @@ order: 1
 
 ## Por qué mi Korepi desaparece?
 
-Deshabilita el anti-virus y crea una carpeta nueva, pon korepi dentro y añadelo a exclusiones dentro del anti-virus:
+Deshabilita el anti-virus y crea una carpeta nueva, pon korepi dentro y añádelo a exclusiones dentro del anti-virus:
 
 ![](/assets/images/docs/202312/virus.png)
 
-Abre Korepi depuès de haber completado este paso.
+Abre Korepi después de haber completado este paso.
 
 ## Status: No active subscribtion(s) found, Invalid license key
 
-Necesitas [conseguir una nueva key](../guide/getkey.md) en `⁠★⋅micah-bot-verify⋅★`, si no puedes conseguir una key o si no te funciona la key tendras que esperar hasta que se caduque.
+Necesitas [conseguir una nueva key](../guide/getkey.md) en `⁠★⋅micah-bot-verify⋅★`, si no puedes conseguir una key o si no te funciona la key tendrás que esperar hasta que se caduque.
 
 `Los Sponsors pueden usar F:Reset Key para conseguir una nueva.`
 
@@ -37,7 +37,7 @@ Si al reiniciar no funciona o si no se encontró errores, prueba lo siguiente:
 
 `DISM.exe /Online /Cleanup-Image /RestoreHealth`
 
-Después de completar ese paso, reinicia el ordenador y comprueba si funciona, si no funciona tendras que reisntalar windows.
+Después de completar ese paso, reinicia el ordenador y comprueba si funciona, si no funciona tendrás que reinstalar windows.
 
 ## ImGUI: DirectX11 backend initialized successfully.
 
@@ -53,7 +53,7 @@ Actualiza o Instala [DirectX](https://www.microsoft.com/en-us/download/details.a
 
 ![](/assets/images/docs/202312/virus2.png)
 
-En este caso deberas instalar `Malware Bytes` o `Dr.Web` y hacer un escaneo completo, si se encuentra un virus, borralo, y reinicia el ordenador, si no funciono, deberas reinstalar windows.
+En este caso deberás instalar `Malware Bytes` o `Dr.Web` y hacer un escaneo completo, si se encuentra un virus, bórrelo, y reinicia el ordenador, si no funciono, deberás reinstalar windows.
 
 ## Timeout was reached
 
@@ -83,7 +83,7 @@ Si al reiniciar no funciona o si no se encontró errores, prueba lo siguiente:
 
 `DISM.exe /Online /Cleanup-Image /RestoreHealth`
 
-Después de completar ese paso, reinicia el ordenador y comprueba si funciona, si no funciona tendras que reisntalar windows.
+Después de completar ese paso, reinicia el ordenador y comprueba si funciona, si no funciona tendrás que reinstalar windows.
 
 ## Signature checksum failed
 
@@ -125,4 +125,4 @@ Si se encontraron errores y Windows no lo puede solucionar, una `DISM.exe /Onlin
 
 Después de eso reiniciar tu ordenador y comprueba si funciona.
 
-Si no funciona, tendras que reinstalar windows.
+Si no funciona, tendrás que reinstalar windows.

@@ -1,25 +1,25 @@
 ---
 title: Instalar Skins
-icon: circle-info
+icon: magic-wand-sparkles
 category:
-  - Guía
+  - Guia
 tag:
   - Inicio
   - Skins
-author: Schvis
+author: Ryuzeen
 order: 5
 ---
 
-## Como instalar skins personalizadas en `GIMI`
+## Como instalar skins personalizadas em `GIMI`
 
-### Paso 1: Descargar la skin
+### Passo 1: Baixar a skin
 
-Para esto deberemos ir a [Gamebanana](https://gamebanana.com/games/8552) y seleccionar la skin que queremos y descargarla
+Para isso, vá para [Gamebanana](https://gamebanana.com/games/8552) e selecione a skin desejada para baixar.
 
-### Paso 2: Instalar la skin
+### Passo 2: Instalar a skin
 
-Iremos a nuestra carpeta de `GIMI` y buscaremos la carpeta de `Mods`, dentro de esta carpeta extraeremos nuestra skin.
+Vá para a pasta do seu  `GIMI` e procure pela pasta `Mods`, dentro dessa pasta, extraia sua skin.
 
-### Paso 3: Aplicar la skin
+### Passo 3: Aplicar a skin
 
-Si estamos dentro del juego le daremos a `F10` para recargar los mods, si no, abriremos el juego siguiendo la [publicación anterior](3DM-tutorial.md) y la skin ya estará aplicada.
+Se estiver dentro do jogo, pressione `F10`  para recarregar os mods. Caso contrário, abra o jogo seguindo as instruções da [publicação anterior](3DM-tutorial.md) e a skin estará aplicada.

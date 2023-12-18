@@ -21,6 +21,12 @@ export const ruNavbar = navbar([
         prefix: "guide/",
         children: ["page", { text: "...", icon: "ellipsis", link: "#" }],
       },
+      {
+        text: "Available Features",
+        icon: "sitemap",
+        prefix: "features/",
+        children: ["", { text: "", icon: "ellipsis", link: "#" }],
+      },
     ],
   },
 ]);

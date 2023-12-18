@@ -30,6 +30,25 @@ author: Schvis, Natsume
   - [Map Teleport](Teleport/map-teleport.md)
   - [Quest Teleport](Teleport/quest-teleport.md)
 
+### Visuals
+- [Animation Changer](Visuals/animation-changer.md)
+- [Camera Zoom](Visuals/camera-zoom.md)
+- [Constellation Modifier](Visuals/constellation-modifier.md)
+- [Custom Profile](Visuals/custom-profile.md)
+- [Custom Weather](Visuals/custom-weather.md)
+- [Emotion Changer](Visuals/emotion-changer.md)
+- [Extra Visual Settings](Visuals/extra-visual-settings.md)
+- [FPS Unlock](Visuals/fps-unlock.md)
+- [Fake Time](Visuals/fake-time.md)
+- [Flycloak Modifier](Visuals/flycloak-modifier.md)
+- [Free Camera](Visuals/free-camera.md)
+- [Hide UI](Visuals/hide-ui.md)
+- [Map Zoom](Visuals/map-zoom.md)
+- [Monster Changer](Visuals/monster-changer.md)
+- [Skin Modifier](Visuals/skin-modifier.md)
+- [Texture Changer](Visuals/skin-modifier.md)
+- [Others](Visuals/others.md)
+
 ### Dunia
   - [Auto Activated Waypoints](World/auto-activate-tp.md)
   - [Auto Challenge](World/auto-challenge.md)

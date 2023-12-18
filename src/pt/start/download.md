@@ -1,35 +1,35 @@
 ---
-title: Descargar
+title: Baixar
 icon: download
 category:
-  - Guía
+  - Guia
 tag:
   - Inicio
-  - Descargar
+  - Baixar
 author:
-  name: Schvis
+  name: Ryuzeen
 order: 6
 ---
 
-# Descargar
+# Baixar
 
-## Introducción
+## Introdução
 
-¡Bienvenid@ a nuestra comunidad! Para pasar la verificación del bot y recibir el rol de `Newcomer`, sigue los siguientes pasos.
+Bem-vindo à nossa comunidade! Para passar pela verificação do bot e receber o cargo `Newcomer`, sigue los siguientes pasos.
 
-### Paso 1: Únete a nuestro servidor y obtén los roles de `Newcomer` y `Fans`
+### Passo 1: Junte-se ao nosso servidor e obtenha os cargos de `Newcomer` e `Fans`
 
-Si aún no te has unido al servidor, por favor, lee la publicación de verificacion, que explica cómo unirse al servidor y obtener los roles de `Newcomer` y `Fans`.
+SSe ainda não se juntou ao servidor, por favor, leia a publicação de verificação, que explica como ingressar no servidor e obter as funções de `Newcomer` e `Fans`.
 
-### Paso 2: Ve al canal de `★⋅korepi-version-roles⋅★`
+### Passo 2: Vá para o canal `★⋅korepi-version-roles⋅★`
 
-Localiza el canal `★⋅korepi-version-roles⋅★` y elige el rol correspondiente a la versión F o V. Recomendamos seleccionar el rol F.
+Localize o canal `★⋅korepi-version-roles⋅★` e escolha a função correspondente à versão F ou V. Recomendamos escolher a função F.
 
-### Paso 3: Descargar los recursos necesarios
+### Passo 3: Baixe os recursos necessários
 
-Después de hacer esto, tendrás acceso al canal de descarga, dependiendo de que rol hayas escogido `★⋅f-download⋅★` o `★⋅v-download⋅★`.
+Após fazer isso, você terá acesso ao canal de download, dependendo da função escolhida, `★⋅f-download⋅★` ou `★⋅v-download⋅★`.
 
-### Paso 4: ¡Listo!
+### Paso 4: Pronto!
 
-En el canal encontrarás un enlace a la versión actual y la contraseña del archivo. ¡Buena suerte!
+No canal, você encontrará um link para a versão atual e a senha do arquivo. Boa sorte!
 

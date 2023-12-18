@@ -1,51 +1,51 @@
 ---
-title: Convertirse en Sponsor
+title: Como ser Patrocinador
 icon: credit-card
 category:
-    - Guía
+    - Guia
 tag:
     - Inicio
-    - Sponsor
-author: Schvis
+    - Patrocinador
+author: Ryuzeen
 order: 4
 ---
 
-## Como convertirse en Sponsor?
+## Como se tornar um Patrocinador?
 
-Para convertirte en Sponsor, deberás donar al menos 5$ o el equivalente si estas usando otra moneda.
+Para se tornar um Patrocinador, você precisará doar pelo menos 5 dólares ou o equivalente, se estiver usando outra moeda.
 
-## Donde donar?
+## Onde doar?
 
-Cuando ya estés en el servidor, por favor ve al canal de [#sponsorship](https://discord.com/channels/1069057220802781265/1097565269985071205). Selecciona el link que prefieras usar para hacer la donación. Por favor asegúrate de hacer una captura de pantalla para el siguiente paso.
+Quando estiver no servidor, por favor, vá para o canal [#sponsorship](https://discord.com/channels/1069057220802781265/1097565269985071205). Escolha o link que preferir para fazer a doação. Certifique-se de tirar um print screen para o próximo passo.
 
-## Que hago después de haber donado?
+## O que fazer depois de doar?
 
-Si ya has donado, puedes enviarle las pruebas a cualquiera de los moderadores disponibles. Por favor asegúrate de enseñar las capturas o el enlace de donación como prueba
+Se você já doou, pode enviar as evidências a qualquer um dos moderadores disponíveis. Por favor, certifique-se de mostrar os prints ou o link da doação como prova.
 
 ![](/assets/images/docs/202312/proof.png)
 
-## (PARA NO-FANS) Como reclamar el rol de Fans después de la donación?
+## (PARA NÃO-FANS) Como reivindicar o cargo de Fans após a doação?
 
-Si eres un sponsor y no tienes el rol de Fans, puedes saltarte el sign-in de 7 días y reclamar el rol instantáneamente
+Se você é um patrocinador e não tem o cargo de Fã, pode pular o registro de 7 dias e reivindicar a cargo instantaneamente.
 
-### Paso 1: Abre un ticket
+### Passo 1: Abra um ticket
 
-Para hacer eso, necesitas ir al canal de #ticket-start (Solo visible cuando ya tienes Sponsor).
+Para fazer isso, você precisa ir para o canal #ticket-start (aparece somente quando você já é um Patrocinador).
 
 ![](/assets/images/docs/202312/openticket1.png)
 
-Cuando le des click a 'open', veras un canal nuevo debajo del canal de tickets.
+Quando clicar em 'open', verá um novo canal abaixo do canal de tickets.
 
 ![](/assets/images/docs/202312/openticket2.png)
 
-### Paso 2: Rellena el formulario
+### Passo 2: Preencha o formulário
 
-Dale a; botón de 'form link' para rellenar el formulario
+Clique no botão 'form link' para preencher o formulário.
 
 ![](/assets/images/docs/202312/openticket3.png)
 
-Una vez terminado el formulario, no te olvides de darle al botón de 'Submit'/
+Depois de preencher o formulário, não se esqueça de clicar no botão 'Submit'.
 
 ![](/assets/images/docs/202312/openticket4.png)
 
-Después de eso, espera pacientemente hasta que los staffs revisen tu formulario. Una vez que consigas el rol de Fans, ya estas listo
+Após isso, aguarde pacientemente até que a equipe revise seu formulário. Uma vez que você obtenha a função de Fã, estará pronto.

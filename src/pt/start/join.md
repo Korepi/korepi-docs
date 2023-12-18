@@ -1,31 +1,31 @@
 ---
-title: Unirse al Servidor
+title: Unir-se ao Servidor
 icon: server
 category:
-  - Guía
+  - Guia
 tag:
   - Inicio
-author: Schvis
+author: Ryuzeen
 order: 1
 ---
 
-## Introducción
+## Introdução
 
-Bienvenid@ a nuestra comunidad! Sigue estas instrucciones para poder unirte al servidor de Korepi.
+Bem-vindo à nossa comunidade! Siga estas instruções para se juntar ao servidor do Korepi.
 
-### Paso 1: Crea una cuenta de Discord
+### Passo 1: Crie uma conta no Discord
 
-Si aun no tienes una cuenta de Discord, empieza creado una nueva. Visita la [Pagina oficial de Discord](https://discord.com/) y sigue las instrucciones.
+Se ainda não tiver uma conta no Discord, comece criando uma nova. Visite a [Pagina oficial do Discord](https://discord.com/) e siga as instruções.
 
-### Paso 2: Descarga e Instala Discord
+### Passo 2: Baixe e Instale o Discord
 
-Después de crear una cuenta, descarga el [Cliente de Discord](https://discord.com/download) para tu sistema operativo. Instala el cliente siguiendo las instrucciones en pantalla.
+Após criar uma conta, baixe o [Cliente do Discord](https://discord.com/download) para o seu sistema operacional. Instale o cliente seguindo as instruções na tela.
 
-### Paso 3: Unirse al Servidor
+### Passo 3: Junte-se ao Servidor
 
-1. Copia el [enlace de invitación](https://discord.gg/cottonbuds) para el Discord que se ha dado por el admin.
-2. En el cliente de Discord, dale click a "+" abajo en la esquina izquierda.
-3. Selecciona "Unirse a un Servidor".
-4. Pega el enlace de invitación y dale click a "Unirse".
+1. Copie o [link de convite](https://discord.gg/cottonbuds) para o Discord fornecido pelo administrador.
+2. No cliente do Discord, clique em "+" no canto inferior esquerdo.
+3. Selecione "Juntar-se a um Servidor".
+4. Cole o link de convite e clique em "Juntar-se".
 
-Si el enlace de invitación es invalido, el servidor puede que este temporalmente cerrado. Por favor espera a que se abra de nuevo. Ahora puedes ir al siguiente paso.
+Se o link de convite estiver inválido, o servidor pode estar temporariamente fechado. Aguarde até que seja reaberto. Agora, você pode prosseguir para a próxima etapa.
