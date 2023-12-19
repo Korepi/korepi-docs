@@ -20,13 +20,12 @@ export default hopeTheme({
 
   locales: {
     "/en/": {
-      // navbar
       navbar: enNavbar,
 
-      // sidebar
       sidebar: enSidebar,
 
-      footer: "Provides the best gaming experience for PC players in Genshin Impact.",
+      footer:
+        "Provides the best gaming experience for PC players in Genshin Impact.",
 
       displayFooter: true,
 
@@ -36,32 +35,22 @@ export default hopeTheme({
     },
 
     "/ru/": {
-      // navbar
       navbar: ruNavbar,
-
-      // sidebar
       sidebar: ruSidebar,
-
-      footer: "Обеспечивает лучший игровой опыт для игроков на ПК в Genshin Impact",
-
+      footer:
+        "Обеспечивает лучший игровой опыт для игроков на ПК в Genshin Impact",
       displayFooter: true,
-
       metaLocales: {
         editLink: "Изменить эту страницу на GitHub",
       },
     },
 
     "/id/": {
-      // navbar
       navbar: idNavbar,
-
-      // sidebar
       sidebar: idSidebar,
-
-      footer: "Memberikan pengalaman bermain game terbaik untuk pemain PC di Genshin Impact.",
-
+      footer:
+        "Memberikan pengalaman bermain game terbaik untuk pemain PC di Genshin Impact.",
       displayFooter: true,
-
       metaLocales: {
         editLink: "Edit halaman ini di GitHub",
       },
@@ -70,9 +59,7 @@ export default hopeTheme({
      * Chinese locale config
      */
     "/zh/": {
-      // navbar
       navbar: zhNavbar,
-      // sidebar
       sidebar: zhSidebar,
       footer: "为原神 PC 端玩家带来最好的游戏体验",
       displayFooter: true,
@@ -93,32 +80,25 @@ export default hopeTheme({
       },
     },
     "/es/": {
-      // navbar
       navbar: esNavbar,
-
-      // sidebar
       sidebar: esSidebar,
-
-      footer: "Proporciona la mejor experiencia de juego para jugadores de PC en Genshin Impact.",
-
+      footer:
+        "Proporciona la mejor experiencia de juego para jugadores de PC en Genshin Impact.",
       displayFooter: true,
-
       metaLocales: {
         editLink: "Edita esta pagina en GitHub",
       },
     },
     "/vi/": {
-      // navbar
       navbar: viNavbar,
-
-      // sidebar
       sidebar: viSidebar,
       navbarLocales: {
-        // Change ui-ux visual lang 
+        // Change ui-ux visual lang
         selectLangAriaLabel: "Tiếng Việt",
         langName: "Tiếng Việt",
       },
-      footer: "Cung cấp trải nghiệm chơi game tốt nhất cho người chơi Genshin Impact trên PC.",
+      footer:
+        "Cung cấp trải nghiệm chơi game tốt nhất cho người chơi Genshin Impact trên PC.",
 
       displayFooter: true,
 
@@ -127,16 +107,11 @@ export default hopeTheme({
       },
     },
     "/pt/": {
-      // navbar
       navbar: ptNavbar,
-
-      // sidebar
       sidebar: ptSidebar,
-
-      footer: "Fornece a melhor experiência de jogo para jogadores de PC em Genshin Impact.",
-
+      footer:
+        "Fornece a melhor experiência de jogo para jogadores de PC em Genshin Impact.",
       displayFooter: true,
-
       metaLocales: {
         editLink: "Edite esta pagina em GitHub",
       },
@@ -163,7 +138,15 @@ export default hopeTheme({
               "If you have experience in <b>web front-end development</b> and <b>document management</b>, and would like to apply it to this documentation project, you are welcome to <a href='https://github.com/Korepi/korepi-docs'>join us in writing the documentation</a>",
             fullscreen: false,
             showOnce: false,
-          }
+          },
+          {
+            path: "/ru/",
+            title: "Помощь",
+            content:
+              "Если у вас есть опыт работы в разработке <b> web Front-End </b> и <b> управления документами </b>, и вы хотели бы применить его к этому проекту документации, вы можете помочь в написании документации и ее переводу <a href = 'https://github.com/korepi/korepi-docs'> </a>",
+            fullscreen: false,
+            showOnce: false,
+          },
         ],
       },
     },
