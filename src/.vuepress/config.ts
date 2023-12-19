@@ -45,7 +45,7 @@ export default defineUserConfig({
         "/pt/": {
             lang: "pt-BR",
             title: "Korepi",
-            description: "Ayuda en Korepi"
+            description: "Ajuda em Korepi"
         },
     },
     plugins: [
@@ -268,34 +268,34 @@ export default defineUserConfig({
                         },
                         modal: {
                             searchBox: {
-                                resetButtonTitle: "Limpiar Criterio de Busqueda",
-                                resetButtonAriaLabel: "Limpiar Criterio de Busqueda",
-                                cancelButtonText: "Volver",
-                                cancelButtonAriaLabel: "Volver",
+                                resetButtonTitle: "Limpar Critério de Busca",
+                                resetButtonAriaLabel: "Limpar Critério de Busca",
+                                cancelButtonText: "Voltar",
+                                cancelButtonAriaLabel: "Voltar",
                             },
                             startScreen: {
-                                recentSearchesTitle: "Historial de Busqueda",
-                                noRecentSearchesText: "No hay historial de busqueda",
-                                saveRecentSearchButtonTitle: "Guardar en historial de busqueda",
-                                removeRecentSearchButtonTitle: "Quitar del historial de busqueda",
+                                recentSearchesTitle: "Histórico de Busca",
+                                noRecentSearchesText: "Sem histórico de busca",
+                                saveRecentSearchButtonTitle: "Salvar no histórico de busca",
+                                removeRecentSearchButtonTitle: "Remover do histórico de busca",
                                 favoriteSearchesTitle: "Favoritos",
-                                removeFavoriteSearchButtonTitle: "Quitar de Favoritos",
+                                removeFavoriteSearchButtonTitle: "Remover dos Favoritos",
                             },
                             errorScreen: {
-                                titleText: "No se pudieron recuperar los resultados",
-                                helpText: "Compureba tu conexion de internet y recursos solicitados.",
+                                titleText: "Não foi possível recuperar os resultados",
+                                helpText: "Verifique sua conexão com a internet e os recursos solicitados.",
                             },
                             footer: {
-                                selectText: "Seleccionar",
-                                navigateText: "Activar",
-                                closeText: "Cerrar",
-                                searchByText: "Usamos Busqueda",
+                                selectText: "Selecionar",
+                                navigateText: "Ativar",
+                                closeText: "Fechar",
+                                searchByText: "Usamos Pesquisa",
                             },
                             noResultsScreen: {
-                                noResultsText: "No se pudo encontrar nada para su consulta:",
-                                suggestedQueryText: "Puedes pruabr una consulta diferente",
-                                reportMissingResultsText: "¿Crees que esta consulta debería arrojar algunos resultados :> ?",
-                                reportMissingResultsLinkText: "Contactanos",
+                                noResultsText: "Nada foi encontrado para a sua consulta:",
+                                suggestedQueryText: "Você pode tentar uma consulta diferente",
+                                reportMissingResultsText: "Acha que esta consulta deveria retornar alguns resultados :> ?",
+                                reportMissingResultsLinkText: "Contate-nos",
                             },
                         },
                     },
