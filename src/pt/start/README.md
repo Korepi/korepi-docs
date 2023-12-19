@@ -2,22 +2,22 @@
 title: Inicio
 icon: book
 category:
-  - Guía
+  - Guia
 tag:
   - Inicio
-author: Schvis
+author: Ryuzeen
 ---
 
 ## Catalogo
 
-- [Unirse al Servidor](join.md)
+- [Unir-se ao servidor](join.md)
 
-- [Verificación](verify.md)
+- [Verificação](verify.md)
 
-- [Obteniendo el rol de Fans](sign-in.md)
+- [Obtendo o cargo fans](sign-in.md)
 
-- [Convertirse en Sponsor](sponsor.md)
+- [Virando Patrocinador](sponsor.md)
 
-- [Funciones Exclusivas de Sponsor](sponsor-exclusive.md)
+- [Funções Exclusivas de Sponsor](sponsor-exclusive.md)
 
-- [Descargar](download.md)
+- [Baixar](download.md)
