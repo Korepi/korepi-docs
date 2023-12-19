@@ -8,9 +8,7 @@ import { googleAnalyticsPlugin } from '@vuepress/plugin-google-analytics'
 
 export default defineUserConfig({
     base: "/",
-    head: [
-        ['meta', { name: 'baidu-site-verification', content: 'codeva-GnP8DZ1yQi' }]
-    ],
+    head: [['meta', { name: 'baidu-site-verification', content: 'codeva-GnP8DZ1yQi' }]],
     locales: {
         "/en/": {
             lang: "en-US",
@@ -51,6 +49,10 @@ export default defineUserConfig({
             lang: "ko-KR",
             title: "Korepi",
             description: "Korepi 도움말"
+        "/tr/": {
+            lang: "tr-TR",
+            title: "Korepi",
+            description: "Yardım için Korepi"
         },
     },
     plugins: [
@@ -171,7 +173,7 @@ export default defineUserConfig({
                                 selectText: "Выбрать",
                                 navigateText: "Переключить",
                                 closeText: "Закрыть",
-                                searchByText: "Мы используем поиск",
+                                searchByText: "Поиск",
                             },
                             noResultsScreen: {
                                 noResultsText: "Не удалось ничего найти по вашему запросу :",
@@ -287,7 +289,7 @@ export default defineUserConfig({
                                 removeFavoriteSearchButtonTitle: "Remover dos Favoritos",
                             },
                             errorScreen: {
-                                titleText: "Não foi possível recuperar os resultados",
+                                titleText: "Sonuçlar getirilemedi.",
                                 helpText: "Verifique sua conexão com a internet e os recursos solicitados.",
                             },
                             footer: {
@@ -346,6 +348,47 @@ export default defineUserConfig({
                         },
                     },
                 },
+                "/tr/": {
+                    placeholder: "Arama",
+                    translations: {
+                        button: {
+                            buttonText: "Ara",
+                            buttonAriaLabel: "Ara",
+                        },
+                        modal: {
+                            searchBox: {
+                                resetButtonTitle: "Arama filtresini temizle.",
+                                resetButtonAriaLabel: "Arama Kriterlerini Temizle",
+                                cancelButtonText: "Geri",
+                                cancelButtonAriaLabel: "Geri",
+                            },
+                            startScreen: {
+                                recentSearchesTitle: "Arama Geçmişi",
+                                noRecentSearchesText: "Arama geçmişi yok",
+                                saveRecentSearchButtonTitle: "Arama Geçmişine Kaydet",
+                                removeRecentSearchButtonTitle: "Arama Geçmişinden Kaldır",
+                                favoriteSearchesTitle: "Favoriler",
+                                removeFavoriteSearchButtonTitle: "Favorilerden Kaldır",
+                            },
+                            errorScreen: {
+                                titleText: "Sonuçları Getirme Başarısız Oldu",
+                                helpText: "İnternet bağlantınızı ve bağlantı noktanızı kontrol edin.",
+                            },
+                            footer: {
+                                selectText: "Seç",
+                                navigateText: "Geçiş",
+                                closeText: "Kapat",
+                                searchByText: "Arama kullanıyoruz",
+                            },
+                            noResultsScreen: {
+                                noResultsText: "Sorgunuz için hiçbir şey bulunamadı:",
+                                suggestedQueryText: "Farklı bir sorgu deneyebilirsiniz",
+                                reportMissingResultsText: "Bu sorgunun sonuç vermesi gerektiğini düşünüyor musunuz :> ?",
+                                reportMissingResultsLinkText: "Bizimle iletişime geçin",
+                            },
+                        },
+                    },
+                },         
             },
         }),
         redirectPlugin({
@@ -361,6 +404,7 @@ export default defineUserConfig({
                 "/vi/": ["vi-VN", "vi"],
                 "/pt/": ["pt-PT", "pt-BR", "pt"],
                 "/ko/": ["ko", "ko-KR"]
+                "/tr/": ["tr-TR", "tr"],
             },
         }),
         googleAnalyticsPlugin({

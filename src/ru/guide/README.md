@@ -1,23 +1,23 @@
 ---
-title: Guides
+title: Гайды
 icon: book
 category:
-  - Guide
+  - Гайд
 tag:
-  - Start
+  - Старт
 author: QweRez, Schvis
 ---
 
 ## Каталог
 
-- [How to get key](getkey.md)
+- [Как получить ключ](getkey.md)
   
-- [How to reset HWID](resethwid.md)
+- [Как сбросить hwid](resethwid.md)
 
-- [How to Multi-instance](multi-instance.md)
+- [Как Multi-instance](multi-instance.md)
 
-- [How to use custom skins](3DM-tutorial.md)
+- [Как использовать кастомные скины](3DM-tutorial.md)
 
-- [How to download skins](3DM-skin.md)
+- [Как скачать скины](3DM-skin.md)
 
-- [How to use custom TP](custom-tp-setting.md)
+- [Как использовать пользовательский TP](custom-tp-setting.md)
