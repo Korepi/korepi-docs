@@ -1,23 +1,23 @@
 # Korepi Documentation
 
-- Documents for https://github.com/Korepi/korepi. 
-- You can always view its live version at https://github.com/Korepi/korepi-docs
+- [Documents](https://github.com/Korepi/korepi) for Korepi.
+- Live version available [here](https://github.com/Korepi/korepi-docs).
 
-# Display address
-[address click me](https://korepi.com/)
+## Display Address
+[Click here](https://korepi.com/) to view.
 
 ## How to Test
 
-### Fist Time Installation
+### First Time Installation
 
-- Install [NodeJS >=18](https://nodejs.org/en/download/)
-- Use [GitHub Desktop](https://desktop.github.com/) or Git command to clone this repository (`git clone`)
-- Run `pnpm install` in the root directory of the project
+- Install [NodeJS >=18](https://nodejs.org/en/download/).
+- Clone this repository using [GitHub Desktop](https://desktop.github.com/) or Git command (`git clone`).
+- Run `pnpm install` in the project's root directory.
 
 ### Local Test
 
-- Run `pnpm run docs:dev` in the root directory of the project
-  - The document will run at `http://localhost:8080` by default
+- Execute `pnpm run docs:dev` in the root directory.
+  - The document will be accessible at `http://localhost:8080` by default.
 
-# Icon Select
-- https://fontawesome.com/search
+# Icon Selection
+- Explore icons at [FontAwesome](https://fontawesome.com/search).
