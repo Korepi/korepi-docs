@@ -5,62 +5,60 @@ category:
   - FAQ
 tag:
   - Start
-author: Schvis
+author: Schvis, Ikuyo
 order: 1
 ---
 
-## List of FAQ
+## Daftar FAQ
 
-### Is Korepi free?
+### Apakah Korepi gratis?
 
-Yes, it is free, in order to get it for the first time you have to do a 7 days [sign-in](../start/sign-in.md), you can skip this by [Sponsoring](../start/sponsor.md), after that you can get the license every time your key expires.
+Iya, gratis, untuk pertama kali mendapatkannya Anda harus melakukan 7 hari [sign-in](../start/sign-in.md), Anda bisa melewatinya dengan [Sponsor](../start/sponsor.md), setelah itu Anda dapat mengambil lisensi setiap kali lisensi Anda kedaluwarsa.
 
 ---
-### What is the .rar/.zip password?
+### Apa kata sandi dari berkas .rar/.zip?
 
 ...
 
-Its `1234`, please read the download post next time.
+Kata sandinya adalah `1234`, Harap lain kali membaca postingan unduh.
 
 ---
-### Why my config doesn't save?
+### Kenapa konfigurasi saya tidak tersimpan?
 
-Keep in mind you have to extract the `.rar/.zip` file you got in another folder.
+Ingatlah bahwa Anda harus ekstrak berkas `.rar/.zip` tersebut di dalam folder baru.
 
-If config is still not saving after this step, please contact with any helper in the server for more help.
+Jika konfigurasi masih tidak tersimpan, Harap hubungi pengarah manapun yang terdapat di server untuk mendapat bantuan.
 
 ---
-### Where do i find themes?
+### Di mana saya dapat menemukan tema?
 
-You can find themes for your Korepi on `community share` or you can make your own in Korepi settings.
+Anda dapat menemukan tema untuk Korepi di `community share` atau Anda dapat membuat sendiri di pengaturan Korepi.
 
 ![](/assets/images/docs/202312/theme-settings.png)
 
-Check `Theme Customization` to start making your own theme.
+periksa di `Theme Customization` untuk mulai membuat tema Anda.
 
 ---
-### Why did my /sign-in streak reset?
+### Kenapa /sign-in beruntun saya terulang?
 
-Most likely you surpassed the reset time, it resets daily, if you skip 1 day it will reset entirely
+Kemungkinan besar Anda melewati batas waktu harian yang telah diberikan, jika Anda melewatkan 1 hari makanya akan terulang dari awal.
 
-::: info Reset time is at GMT/UTC+8 00:00 everyday. Please convert to your timezone.
+::: info Waktu reset adalah pukul 23.00 WIB (GMT/UTC+8 00:00) setiap hari. Silakan mengubahnya ke zona waktu Anda.
 :::
 ---
 
-### Can i use Korepi when a new update comes?
+### Bisakah saya menggunakan Korepi saat pembaruan datang?
 
-No, you need to wait till a new Korepi version gets released.
+Tidak, Anda harus menunggu hingga Korepi melakukan pembaruan versi terbaru.
 
-::: info Using the old injector wont work, Korepi update takes 1-2 weeks approximately.
+::: info Menggunakan injektor lama tidak akan berfungsi, pembaruan Korepi akan membutuhkan waktu sekitar 1-2 minggu.
 :::
 ---
 
-### Why the menu doesn't appear in game?
+### Kenapa menu Korepi tidak muncul?
 
-Make sure you have disabled every overlay(MSI Afterburner, GeForce Experience, etc.) before launching korepi.
+Pastikan Anda menon-aktifkan semua overlay(MSI Afterburner, GeForce Experience, etc.) sebelum membuka Korepi.
 
-### Where do i get <span style='color:yellow;'>Sponsor</span> and how much it is?
+### Di mana saya bisa mendapatkan <span style='color:yellow;'>Sponsor</span> dan berapa harganya?
 
-You can get Sponsor from the links provided in `#sponsorship` in the server.
-
-In order to get the Sponsor role, you need to donate at least 5$, any other donation below 5$ will be ignored.
+Harga sponsor ialah 5$ dan untuk mendapatkan sponsor anda dapat melihatnya di [sini](../start/sponsor.md).
