@@ -110,6 +110,21 @@ export default hopeTheme({
         editLink: "Edite esta pagina em GitHub",
       },
     },
+    "/ko/": {
+      // navbar
+      navbar: koNavbar,
+
+      // sidebar
+      sidebar: koSidebar,
+
+      footer: "원신에서 PC 플레이어에게 최고의 게임 경험을 제공합니다.",
+
+      displayFooter: true,
+
+      metaLocales: {
+        editLink: "GitHub에서 이 페이지 수정하기",
+      },
+    },
     "/tr/": {
       navbar: trNavbar,
       sidebar: trSidebar,
@@ -144,6 +159,13 @@ export default hopeTheme({
             showOnce: false,
           },
           {
+            path: "/ko/",
+            title: "당신의 능력을 기여하세요.",
+            content:
+              "당신이 <b>웹 프론트엔드 개발</b>과 <b>문서 관리</b>에 대한 경험이 있고, 이 문서 프로젝트에 기여하고 싶다면, 당신이 <a href='https://github.com/Korepi/korepi-docs'>우리 문서를 작성</a>하는 것을 환영합니다.",
+            fullscreen: false,
+            showOnce: false,
+          }
             path: "/ru/",
             title: "Помощь",
             content:
