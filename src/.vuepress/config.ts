@@ -308,47 +308,6 @@ export default defineUserConfig({
                         },
                     },
                 },
-                "/ko/": {
-                    placeholder: "검색",
-                    translations: {
-                        button: {
-                            buttonText: "검색",
-                            buttonAriaLabel: "검색",
-                        },
-                        modal: {
-                            searchBox: {
-                                resetButtonTitle: "검색 기록 삭제",
-                                resetButtonAriaLabel: "검색 기록 삭제",
-                                cancelButtonText: "뒤로",
-                                cancelButtonAriaLabel: "뒤로",
-                            },
-                            startScreen: {
-                                recentSearchesTitle: "검색 기록",
-                                noRecentSearchesText: "검색 기록 없음",
-                                saveRecentSearchButtonTitle: "검색 기록에 저장",
-                                removeRecentSearchButtonTitle: "검색 기록에서 삭제",
-                                favoriteSearchesTitle: "즐겨찾기",
-                                removeFavoriteSearchButtonTitle: "즐겨찾기에서 삭제",
-                            },
-                            errorScreen: {
-                                titleText: "결과를 검색하지 못했습니다.",
-                                helpText: "인터넷 연결과 요청된 리소스를 확인하세요.",
-                            },
-                            footer: {
-                                selectText: "선택",
-                                navigateText: "토글",
-                                closeText: "닫기",
-                                searchByText: "검색에 사용합니다",
-                            },
-                            noResultsScreen: {
-                                noResultsText: "검색어에 대한 내용을 찾을 수 없습니다:",
-                                suggestedQueryText: "다른 검색어를 시도할 수 있습니다.",
-                                reportMissingResultsText: "이 검색어에 몇 가지 결과가 나와야 한다고 생각하십니까? :> ?",
-                                reportMissingResultsLinkText: "우리에게 연락하세요.",
-                            },
-                        },
-                    },
-                },
                 "/tr/": {
                     placeholder: "Arama",
                     translations: {
@@ -389,7 +348,7 @@ export default defineUserConfig({
                             },
                         },
                     },
-                },         
+                },                
             },
         }),
         redirectPlugin({

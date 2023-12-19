@@ -110,21 +110,6 @@ export default hopeTheme({
         editLink: "Edite esta pagina em GitHub",
       },
     },
-    "/ko/": {
-      // navbar
-      navbar: koNavbar,
-
-      // sidebar
-      sidebar: koSidebar,
-
-      footer: "원신에서 PC 플레이어에게 최고의 게임 경험을 제공합니다.",
-
-      displayFooter: true,
-
-      metaLocales: {
-        editLink: "GitHub에서 이 페이지 수정하기",
-      },
-    },
     "/tr/": {
       navbar: trNavbar,
       sidebar: trSidebar,
