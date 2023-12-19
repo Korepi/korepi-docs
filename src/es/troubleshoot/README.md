@@ -10,6 +10,8 @@ author: Schvis
 
 ## Catalogo
 
-- [Lista de errores frecuentes del mod](faq-error.md)
+- [Preguntas Frecuentes](faq.md)
+
+- [Lista de errores comunes del mod](faq-error.md)
   
 - [Como solucionar el error 31-4302](31-4302.md)
