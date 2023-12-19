@@ -22,7 +22,7 @@ export const zhNavbar = navbar([
         children: ["","config-change"],
       },
       {
-        text: "Available Features",
+        text: "功能",
         icon: "sitemap",
         prefix: "features/",
         children: [""],
