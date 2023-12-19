@@ -1,16 +1,18 @@
 ---
-title: Fall Control
+title: Управление Падением
 icon: person-falling
 category:
-  - Features
+  - Особенности
 tag:
-  - Fall Control
-author: Schvis
+  - Управление Падением
+author: 
+  name: "QweRez"
+  url: "https://github.com/qwerezon/"
 order: 6
 ---
 
-## Fall Control allows you to move with the selected speed while falling.
+## Fall Control позволяет вам двигаться с выбранной скоростью во время падения.
 
-## Example Video:
+## Пример Видео:
 
-<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/BHiabtwSSNc?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Fall Control" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/BHiabtwSSNc?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Управление Падением" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>

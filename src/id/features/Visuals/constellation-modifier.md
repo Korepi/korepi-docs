@@ -5,18 +5,18 @@ category:
   - Features
 tag:
   - Constellation Modifier
-author: Schvis
+author: Schvis, Kaede, Ikuyo
 order: 3
 ---
-::: info Sponsor Only
+::: informasi : Hanya sponsor.
 :::
 ---
-## Constellation Modifier, will change your active character constellations if selected, visually and some of them will actually work.
-- You can find more information about which of them work at `#⁠cons-check` in the server. 
+## Constellation Modifier, Akan membuka konstelasi karakter yang dipilih, secara visual dan ada juga yang memang berkerja.
+- Anda bisa mendapatkan informasi konstelasi character yang berkerja di saluran `#cons-check` yang terdapat di server.
 
-::: tip You have to switch to each character you want to activate the constellations first and then teleport far away to activate them.
+::: saran : Anda harus ganti ke karakter yang ingin Anda aktifkan konstelasinya, setelah itu teleportasi ke tempat yang jauh agar modifikasi konstelasi dapat bekerja.
 :::
 
-## Example Video:
+## Contoh video:
 
-<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/S9-g5weE9l8?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Constellation Modifier (Sponsor)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/S9-g5weE9l8?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Constellation Modifier (Sponsor)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

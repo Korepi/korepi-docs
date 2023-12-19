@@ -133,22 +133,15 @@ export default hopeTheme({
       // sidebar
       sidebar: ptSidebar,
 
-      footer: "Proporciona la mejor experiencia de juego para jugadores de PC en Genshin Impact.",
+      footer: "Fornece a melhor experiência de jogo para jogadores de PC em Genshin Impact.",
 
       displayFooter: true,
 
       metaLocales: {
-        editLink: "Edita esta pagina en GitHub",
+        editLink: "Edite esta pagina em GitHub",
       },
     },
   },
-
-  // encrypt: {
-  //   config: {
-  //     "/en/demo/encrypt.html": ["1234"],
-  //     "/zh/demo/encrypt.html": ["1234"],
-  //   },
-  // },
 
   plugins: {
     components: {
@@ -159,7 +152,7 @@ export default hopeTheme({
             path: "/zh/",
             title: "贡献力量",
             content:
-                "如果你有<b>网页前端</b>，<b>文档管理</b>的经验，并希望将其施展于当前文档项目中，欢迎<a href='https://github.com/Korepi/korepi-docs'>参与文档编写</a>",
+              "如果你有<b>网页前端</b>，<b>文档管理</b>的经验，并希望将其施展于当前文档项目中，欢迎<a href='https://github.com/Korepi/korepi-docs'>参与文档编写</a>",
             fullscreen: false,
             showOnce: false,
           },
@@ -167,18 +160,16 @@ export default hopeTheme({
             path: "/en/",
             title: "Contribute Your Skills",
             content:
-                "If you have experience in <b>web front-end development</b> and <b>document management</b>, and would like to apply it to this documentation project, you are welcome to <a href='https://github.com/Korepi/korepi-docs'>join us in writing the documentation</a>",
+              "If you have experience in <b>web front-end development</b> and <b>document management</b>, and would like to apply it to this documentation project, you are welcome to <a href='https://github.com/Korepi/korepi-docs'>join us in writing the documentation</a>",
             fullscreen: false,
             showOnce: false,
           }
         ],
       },
     },
-    feed:{
-      rss:true,
-    },
+    feed: { rss: true },
     sitemap: {
-      changefreq: "weekly",
+      changefreq: "always",
     },
     // You should generate and use your own comment service
     comment: {

@@ -1,49 +1,47 @@
 ---
-title: How to use Custom TP
+title: Как использовать пользовательские точки телепорта
 icon: running
 category:
-  - Guide
+  - Руководство
 tag:
-  - Start
-  - Teleports
+  - Начало
+  - Телепорты
 author: Schvis
 order: 6
 ---
 
-## How to use custom TP
+## Как использовать пользовательские точки телепорта
 
-### Step 1: Settings to use
+### Шаг 1: Установка параметров использования
 
-We will use the following settings.
+Мы будем использовать следующие параметры.
 
 ![](/assets/images/docs/202312/teleport1.png)
 
-The recommended delay time is >15s.
+Рекомендуемое время задержки >15 секунд.
 
-### Step 2: Download the `.json` files for the custom tp
+### Шаг 2: Загрузка файлов `.json` для пользовательских точек телепорта
 
-We can find these files in `community-share` pinned post in the server. Download the ones that suits your needs.
+Вы можете найти эти файлы в закрепленном посте `community-share` на сервере. Скачайте те, которые соответствуют вашим потребностям.
 
-### Step 3: Select the tp files
+### Шаг 3: Выбор файлов телепорта
 
-Head to custom tp settings and go to this section:
+Перейдите в настройки пользовательских телепортов и перейдите в этот раздел:
 
 ![](/assets/images/docs/202312/teleport2.png)
 
-Click on select path and select the folder containing the tp files you want to use.
+Нажмите на "Выбрать путь" и выберите папку с файлами телепорта, которые вы хотите использовать.
 
-### Step 4: How to start the tps
+### Шаг 4: Как запустить телепорты
 
-After selecting the folder, check this checkbox:
+После выбора папки установите флажок:
 
 ![](/assets/images/docs/202312/teleport3.png)
 
-After that we click on `Select`:
+После этого мы нажимаем на "Выбрать":
 
 ![](/assets/images/docs/202312/teleport4.png)
 
-### Step 5: Enjoy the ride
+### Шаг 5: Наслаждайтесь поездкой
 
-The TPs will start automatically, if you got [Sponsor](../start/sponsor.md), you will be able to see the progress and remaining time.
-
-
+Телепорты запустятся автоматически, если у вас есть [Спонсор](../start/sponsor.md), вы сможете видеть прогресс и оставшееся время.

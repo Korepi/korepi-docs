@@ -1,28 +1,31 @@
 ---
-title: No Clip
+title: Полет No clip
 icon: person-walking-dashed-line-arrow-right
 category:
-  - Features
+  - Особенности
 tag:
-  - No Clip
-author: Schvis
+  - No clip
+author: 
+  name: "QweRez"
+  url: "https://github.com/qwerezon/"
 order: 9
 ---
 
-## No Clip will allow you to have no collision, move faster and fly.
+## No Clip позволит вам летать .
 ### No Animation:
-- When enabled it will disable animations of the character while using no clip.
+- При включении отключит анимации персонажа при использовании без коллизий.
 ### Camera-relative movement:
-- When enabled, character will move based on camera view instead of where the character is facing.
+- При включении персонаж будет двигаться в соответствии с видом камеры, а не тем, куда смотрит персонаж.
 ### Alternate No-Clip:
-- When enabled, no clip speed will change after pressing the selected hotkey at the designed speed.
+- При включении скорость без коллизий изменится после нажатия выбранной горячей клавиши на заданную скорость.
 ### Use Custom Keys:
-- Enables the option to change no-clip directional controls.
+- Включает возможность изменения управления направлением без коллизий.
 ### DragBack Bypass:
-- Prevents the server to drag the character back due to excessive speed.
+- Предотвращает серверу торможение персонажа из-за чрезмерной скорости.
 
-> Note: Not recommended to use above `20`.
+> Примечание: Не рекомендуется устанавливать значение выше `20`.
+P.s Я использую значение в 35 больше года by QweRez
 
-## Example Video:
+## Пример Видео:
 
-<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/nPdq-yzBt3k?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - NoClip" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/nPdq-yzBt3k?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Без Коллизий" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>

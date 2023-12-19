@@ -1,12 +1,12 @@
 ---
-title: Flycloak Modifier
+title: Flycloack Modifier
 icon: arrows-rotate
 category:
   - Features
 tag:
-  - Flycloak Modifier
-author: Schvis
+  - Flycloack Modifier
+author: Schvis, Kaede
 order: 10
 ---
 
-## Flycloak Modifier allow the player to change their glider skin even if they don't own it.
+## Flycloack Modifier Memperbolehkan pemain untuk mengganti skin glider bahkan jika Anda tidak mempunyainya.

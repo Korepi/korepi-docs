@@ -1,14 +1,16 @@
 ---
-title: List of Features
+title: Список Функций
 icon: sitemap
 category:
-  - Features
+  - Особенности
 tag:
-  - Start
-author: Schvis
+  - Начало
+author: 
+  name: "QweRez"
+  url: "https://github.com/qwerezon/"
 ---
 
-## List of Features
+## Список Функций
 
 ### Player
 - [Attack Effects](Player/attack-effects.md)
@@ -64,5 +66,3 @@ author: Schvis
 - [Kill Aura](World/kill-aura.md)
 - [Mob Vacuum](World/mob-vacuum.md)
 - [Vacuum Loot](World/vacuum-loot.md)
-
-

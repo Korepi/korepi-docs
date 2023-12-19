@@ -1,25 +1,30 @@
 ---
-title: Install Skins
+title: Установка скинов
 icon: magic-wand-sparkles
 category:
-  - Guide
+  - Руководство
 tag:
-  - Start
-  - Skins
-author: Schvis
+  - Начало
+  - Скины
+author: 
+  name: "QweRez"
+  url: "https://github.com/qwerezon/"
 order: 5
 ---
 
-## How to install custom Skins in `GIMI`
+## Как установить собственные скины в `GIMI`
 
-### Step 1: Download the Skin
+### Шаг 1: Загрузите скин
 
-Head to [Gamebanana](https://gamebanana.com/games/8552) and download a skin of your choice.
+Перейдите на [Gamebanana](https://gamebanana.com/games/8552) и загрузите скин по своему выбору.
+Если вам нужно, есть публичный аккаунт:
+login: korepi
+pass korepi
 
-### Step 2: Install the Skin
+### Шаг 2: Установите скин
 
-We will head to our `GIMI` folder and look for `Mods` folder, inside that folder we will extract the file we just downloaded.
+Откройте нашу папку `GIMI` и найдите папку `Mods`, внутри этой папки извлеките файл, который мы только что загрузили.
 
-### Step 3: Apply the skin
+### Шаг 3: Примените скин
 
-If we are already inside the game we will use `F10` to reload the Skins, if not, we will open the game following the [last post](3DM-tutorial.md) and the skin should be applied.
+Если вы уже в игре, используйте `F10`, чтобы перезагрузить скины. В противном случае откройте игру, следуя [последнему посту](3DM-tutorial.md), и скин должен быть применен.

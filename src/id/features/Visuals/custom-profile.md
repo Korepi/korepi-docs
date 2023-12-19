@@ -5,23 +5,23 @@ category:
   - Features
 tag:
   - Custom Profile
-author: Schvis
+author: Schvis, Kaede, Ikuyo
 order: 4
 ---
 
 ## Custom Profile:
 
 ### UID:
-- Select the UID you want to be displayed.
+- Pilih UID yang ingin Anda tampilkan.
 ### Nickname:
-- Select the Nickname you want to be displayed.
+- Pilih Nickname yang ingin Anda tampilkan.
 ### Level:
-- Select the Level you want to be displayed.
+- Pilih Level yang ingin Anda tampilkan.
 ### EXP:
-- Select the EXP you want to be displayed.
+- Pilih EXP yang ingin Anda tampilkan. 
 ### World Level:
-- Select the World Level you want to be displayed.
+- Pilih World level yang ingin Anda tampilkan.
 ### Avatar Image:
-- Use a custom png as avatar image.
+- Menggunakan gambar kustom untuk menampilkan gambar profil/avatar.
 ### Card Image:
-- Use a custom png as card image.
+- Menggunakan Kgambar kustom untuk menampilkan gambar kartu/banner.

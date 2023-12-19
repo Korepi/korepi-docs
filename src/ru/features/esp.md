@@ -2,16 +2,18 @@
 title: ESP
 icon: satellite-dish
 category:
-  - Features
+  - Особенности
 tag:
   - ESP
-author: Schvis
+author: 
+  name: "QweRez"
+  url: "https://github.com/qwerezon/"
 order: 1
 ---
 
-## ESP allows the player to track and view the selected objects through other objects from the filter with customizable visual effects.
-> Note: Range, objects, visuals can be all customized.
+## ESP позволяет игроку отслеживать и просматривать выбранные объекты через другие объекты с настраиваемыми визуальными эффектами.
+> Примечание: Диапазон, объекты, визуалы могут быть настроены.
 
-## Example Video:
+## Пример Видео:
 
-### Soon...
+### Скоро...

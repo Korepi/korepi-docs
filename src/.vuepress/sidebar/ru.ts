@@ -16,13 +16,13 @@ export const ruSidebar = sidebar({
       children: "structure",
     },
     {
-      text: "Features",
+      text: "Функции",
       icon: "sitemap",
       prefix: "features/",
       children: "structure",
     },
     {
-      text: "Troubleshoot",
+      text: "Устранение неполадок",
       icon: "info-circle",
       prefix: "troubleshoot/",
       children: "structure",

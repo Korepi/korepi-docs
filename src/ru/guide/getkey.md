@@ -1,55 +1,55 @@
 ---
-title: How to get key
+title: Как получить ключ
 icon: key
 category:
-  - Guide
+  - Руководство
 tag:
-  - Start
-  - License
+  - Начало
+  - Лицензия
 author: Schvis
 order: 1
 ---
 
-## How to get key for Network(F)
+## Как получить ключ для Network (F)
 
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/-9bXOMH0-WM" title="Korepi - How to get V key" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
 
-### Step 1: Get F Auth role
+### Шаг 1: Получение роли F Auth
 
-Head to `★⋅korepi-version-roles⋅★` on the server and click on `F Auth` to get the role.
+Перейдите в `★⋅korepi-version-roles⋅★` на сервере и нажмите на `F Auth`, чтобы получить роль.
 
-`Note: Check if you got the role, if you didn't click on F Auth again`
+`Примечание: Проверьте, получили ли вы роль. Если нет, снова нажмите на F Auth`
 
-### Step 2: Get your key
+### Шаг 2: Получение ключа
 
-Head to `⁠★⋅micah-bot-verify⋅★` and click on `F:Getkey`, the bot will reply with some information including the key, copy it.
+Перейдите в `⁠★⋅micah-bot-verify⋅★` и нажмите на `F:Getkey`. Бот ответит вам некоторой информацией, включая ключ. Скопируйте его.
 
-### Step 3: Use your key
+### Шаг 3: Использование ключа
 
-Open Korepi, when it asks for your key, paste it and press enter, complete the steps mentioned by the injector and you should be good to go.
+Откройте Korepi. Когда он запросит ключ, вставьте его и нажмите Enter. Завершите шаги, указанные инжектором, и вы готовы к использованию.
 
-Enjoy Koprepi!
+Наслаждайтесь Korepi!
 
-## How to get key for Local(V)
+## Как получить ключ для Local (V)
 
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/OTCSboZdexc" title="Korepi - How to get V key" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
 
-### Step 1: Get V Auth role
+### Шаг 1: Получение роли V Auth
 
-Head to `★⋅korepi-version-roles⋅★` on the server and click on `V Auth` to get the role.
+Перейдите в `★⋅korepi-version-roles⋅★` на сервере и нажмите на `V Auth`, чтобы получить роль.
 
-`Note: Check if you got the role, if you didn't click on V Auth again`
+`Примечание: Проверьте, получили ли вы роль. Если нет, снова нажмите на V Auth`
 
-### Step 2: Get your `HWID`
+### Шаг 2: Получение вашего `HWID`
 
-To get your `HWID` you will need to open `Local(V) Injector` once, and it will copy it to your clipboard
+Чтобы получить ваш `HWID`, вам нужно открыть `Local(V) Injector` один раз, и он скопирует его в буфер обмена.
 
-### Step 3: Get your `enc.json`
+### Шаг 3: Получение вашего `enc.json`
 
-Head to `⁠★⋅micah-bot-verify⋅★` and click on `V:Verify`, a pop up will ask you for your `HWID` paste and click `Submit`, and download the file sent by the bot
+Перейдите в `⁠★⋅micah-bot-verify⋅★` и нажмите на `V:Verify`. Всплывающее окно запросит ваш `HWID`. Вставьте его и нажмите `Submit`, а затем загрузите файл, отправленный ботом.
 
-### Step 4: Place your file with Korepi
+### Шаг 4: Разместите файл с Korepi
 
-After getting the file, place it on your Korepi folder, keep in mind that the file should be name `enc.json` in order to work, open Korepi and then:
+После получения файла поместите его в папку Korepi. Учтите, что файл должен называться `enc.json`, чтобы он работал. Затем откройте Korepi и:
 
-Enjoy Korepi!
+Наслаждайтесь Korepi!

@@ -5,10 +5,10 @@ category:
   - Features
 tag:
   - FPS Unlock
-author: Schvis
+author: Schvis, Kaede
 order: 8
 ---
 
-## Unlocks FPS.Unlocks FPS yeah.Unlocks FPS wow.
+## Membuka batas fps. Membuka batas fps. Membuka batas fps wow.
 ### Limit background FPS:
-- Set the max fps game can reach when its not focused.
+- Atur fps maksimal game yang dapat dicapai saat game sedang tidak terfokus

@@ -9,4 +9,4 @@ author: Schvis
 order: 1
 ---
 
-## Animation Changer, allows the player to change their current character animation to the selected one.
+## Animation Changer, Memperbolehkan pemain mengganti animasi karakter ke animasi yang dipilih. 

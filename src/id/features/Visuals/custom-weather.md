@@ -5,8 +5,8 @@ category:
   - Features
 tag:
   - Custom Weather
-author: Schvis
+author: Schvis, Kaede
 order: 5
 ---
 
-## Custom Wether allows you to change the weather to your liking.
+## Custom weather, memperbolehkan mengubah cuaca dengan pilihan yang Anda mau gunakan.

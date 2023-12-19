@@ -1,19 +1,21 @@
 ---
-title: Player Speed
+title: Скорость Игрока
 icon: forward-fast
 category:
-  - Features
+  - Особенности
 tag:
-  - Player Speed
-author: Schvis
+  - Скорость Игрока
+author: 
+  name: "QweRez"
+  url: "https://github.com/qwerezon/"
 order: 10
 ---
 
-## Player Speed modifies player speed. Real. No Fake.
+## Player Speed модифицирует скорость игрока. Реально. Не Имитация.
 
-> Note: Recommended to use below `1.5`.
-> Note 2: [Extra Movements](extra-movements.md) is recommended since its better synced with the server (safer)(Sponsor)
+> Примечание: Рекомендуется использовать значение ниже `1.5`.
+> Примечание 2: [Extra Movements](extra-movements.md) рекомендуется, так как они лучше синхронизированы с сервером (безопаснее) (Спонсор).
 
-## Example Video:
+## Пример Видео:
 
-<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/HCxmOUMFRs8?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Player Speed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/HCxmOUMFRs8?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Скорость Игрока" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>

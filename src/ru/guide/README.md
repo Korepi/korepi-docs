@@ -8,7 +8,7 @@ tag:
 author: QweRez, Schvis
 ---
 
-## Catalog
+## Каталог
 
 - [How to get key](getkey.md)
   
