@@ -47,6 +47,11 @@ export default defineUserConfig({
             title: "Korepi",
             description: "Ajuda em Korepi"
         },
+        "/ko/": {
+            lang: "ko-KR",
+            title: "Korepi",
+            description: "Korepi 도움말"
+        },
     },
     plugins: [
         docsearchPlugin({
