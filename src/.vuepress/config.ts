@@ -49,6 +49,7 @@ export default defineUserConfig({
             lang: "ko-KR",
             title: "Korepi",
             description: "Korepi 도움말"
+        },
         "/tr/": {
             lang: "tr-TR",
             title: "Korepi",
@@ -403,7 +404,7 @@ export default defineUserConfig({
                 "/es/": ["es-ES", "es"],
                 "/vi/": ["vi-VN", "vi"],
                 "/pt/": ["pt-PT", "pt-BR", "pt"],
-                "/ko/": ["ko", "ko-KR"]
+                "/ko/": ["ko", "ko-KR"],
                 "/tr/": ["tr-TR", "tr"],
             },
         }),
