@@ -79,7 +79,7 @@ highlights:
       - title: Auto Madeira
         icon: tree
         details: Permite que o jogador colete madeira automaticamente
-      - title: Auto Cozinar
+      - title: Auto Cozinhar
         icon: utensils
         details: Cozinha automaticamente sem a intervenção do jogador
       - title: Sucção de Mobs
