@@ -1,7 +1,7 @@
 {
   "name": "korepi-docs",
-  "version": "2.1.4",
-  "description": "A project of vuepress-theme-hope",
+  "version": "2.2.0",
+  "description": "korepi docs website",
   "license": "MIT",
   "type": "module",
   "scripts": {
