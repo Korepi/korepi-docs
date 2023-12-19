@@ -133,12 +133,12 @@ export default hopeTheme({
       // sidebar
       sidebar: ptSidebar,
 
-      footer: "Proporciona la mejor experiencia de juego para jugadores de PC en Genshin Impact.",
+      footer: "Proporciona a melhor experiencia para jogadores de PC em Genshin Impact",
 
       displayFooter: true,
 
       metaLocales: {
-        editLink: "Edita esta pagina en GitHub",
+        editLink: "Edite esta pagina em GitHub",
       },
     },
   },
