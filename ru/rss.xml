@@ -6,8 +6,8 @@
     <link>https://korepi.com/ru/</link>
     <description>Помощь по Korepi</description>
     <language>ru-RU</language>
-    <pubDate>Tue, 19 Dec 2023 09:14:31 GMT</pubDate>
-    <lastBuildDate>Tue, 19 Dec 2023 09:14:31 GMT</lastBuildDate>
+    <pubDate>Tue, 19 Dec 2023 11:59:49 GMT</pubDate>
+    <lastBuildDate>Tue, 19 Dec 2023 11:59:49 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Особенности</category>
@@ -15,7 +15,6 @@
     <category>Устранение Неполадок</category>
     <category>Features</category>
     <category>Гайд</category>
-    <category>Guide</category>
     <item>
       <title>Список Функций</title>
       <link>https://korepi.com/ru/features/</link>
@@ -1642,32 +1641,32 @@ Note 2: Not recommended to use.</p>
 ]]></content:encoded>
     </item>
     <item>
-      <title>Guides</title>
+      <title>Гайды</title>
       <link>https://korepi.com/ru/guide/</link>
       <guid>https://korepi.com/ru/guide/</guid>
-      <source url="https://korepi.com/ru/rss.xml">Guides</source>
-      <description>КаталогHow to get key (getkey.md); How to reset HWID (resethwid.md); How to Multi-instance (multi-instance.md); How to use custom skins (3DM-tutorial.md); How to download s...</description>
-      <category>Guide</category>
+      <source url="https://korepi.com/ru/rss.xml">Гайды</source>
+      <description>КаталогКак получить ключ (getkey.md); Как сбросить hwid (resethwid.md); Как Multi-instance (multi-instance.md); Как использовать кастомные скины (3DM-tutorial.md); Как скач...</description>
+      <category>Гайд</category>
       <pubDate>Fri, 24 Nov 2023 11:45:01 GMT</pubDate>
       <content:encoded><![CDATA[<h2> Каталог</h2>
 <ul>
 <li>
-<p><a href="/ru/guide/getkey.html" target="blank">How to get key</a></p>
+<p><a href="/ru/guide/getkey.html" target="blank">Как получить ключ</a></p>
 </li>
 <li>
-<p><a href="/ru/guide/resethwid.html" target="blank">How to reset HWID</a></p>
+<p><a href="/ru/guide/resethwid.html" target="blank">Как сбросить hwid</a></p>
 </li>
 <li>
-<p><a href="/ru/guide/multi-instance.html" target="blank">How to Multi-instance</a></p>
+<p><a href="/ru/guide/multi-instance.html" target="blank">Как Multi-instance</a></p>
 </li>
 <li>
-<p><a href="/ru/guide/3DM-tutorial.html" target="blank">How to use custom skins</a></p>
+<p><a href="/ru/guide/3DM-tutorial.html" target="blank">Как использовать кастомные скины</a></p>
 </li>
 <li>
-<p><a href="/ru/guide/3DM-skin.html" target="blank">How to download skins</a></p>
+<p><a href="/ru/guide/3DM-skin.html" target="blank">Как скачать скины</a></p>
 </li>
 <li>
-<p><a href="/ru/guide/custom-tp-setting.html" target="blank">How to use custom TP</a></p>
+<p><a href="/ru/guide/custom-tp-setting.html" target="blank">Как использовать пользовательский TP</a></p>
 </li>
 </ul>
 ]]></content:encoded>
