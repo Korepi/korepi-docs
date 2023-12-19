@@ -119,7 +119,7 @@ export default hopeTheme({
       metaLocales: {
           editLink: "Bu sayfayı GitHub'ta düzenle",
       },
-  },
+    },
   },
 
   plugins: {
@@ -140,6 +140,14 @@ export default hopeTheme({
             title: "Contribute Your Skills",
             content:
               "If you have experience in <b>web front-end development</b> and <b>document management</b>, and would like to apply it to this documentation project, you are welcome to <a href='https://github.com/Korepi/korepi-docs'>join us in writing the documentation</a>",
+            fullscreen: false,
+            showOnce: false,
+          },
+          {
+            path: "/ko/",
+            title: "당신의 능력을 기여하세요.",
+            content:
+              "당신이 <b>웹 프론트엔드 개발</b>과 <b>문서 관리</b>에 대한 경험이 있고, 이 문서 프로젝트에 기여하고 싶다면, 당신이 <a href='https://github.com/Korepi/korepi-docs'>우리 문서를 작성</a>하는 것을 환영합니다.",
             fullscreen: false,
             showOnce: false,
           },
