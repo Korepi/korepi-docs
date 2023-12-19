@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="https://korepi.com/ko/rss.xsl"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <atom:link href="https://korepi.com/ko/rss.xml" rel="self" type="application/rss+xml"/>
+    <title>Korepi</title>
+    <link>https://korepi.com/ko/</link>
+    <description>Korepi 도움말</description>
+    <language>ko-KR</language>
+    <pubDate>Tue, 19 Dec 2023 15:35:03 GMT</pubDate>
+    <lastBuildDate>Tue, 19 Dec 2023 15:35:03 GMT</lastBuildDate>
+    <generator>vuepress-plugin-feed2</generator>
+    <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+  </channel>
+</rss>
