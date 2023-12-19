@@ -9,7 +9,7 @@ author: Ryuzeen
 order: 6
 ---
 
-## Auto Recoger permite que você colete materiais como plantas, baús, drops e mais com classificações e atrasos personalizados.
+## Auto Coletar permite que você colete materiais como plantas, baús, drops e mais com classificações e atrasos personalizados.
 
 ## Video de Exemplo:
 
