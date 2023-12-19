@@ -10,6 +10,8 @@ author: Schvis
 
 ## 目录
 
+- [FAQ](faq.md)
+
 - [常见错误列表](faq-error.md)
 
 - [如何解决错误 31-4302](31-4302.md)

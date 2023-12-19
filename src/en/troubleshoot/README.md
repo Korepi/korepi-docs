@@ -10,7 +10,7 @@ author: Schvis
 
 ## Catalog
 
-- [List of FAQ](faq.md)
+- [FAQ](faq.md)
 
 - [List of common Injector errors](faq-error.md)
 

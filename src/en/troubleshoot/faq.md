@@ -9,7 +9,7 @@ author: Schvis
 order: 1
 ---
 
-## List of FAQ
+## List of FAQs
 
 ### Is Korepi free?
 
