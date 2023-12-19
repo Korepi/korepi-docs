@@ -1,149 +1,151 @@
 ---
-title: Common Injector Errors
+title: Список Частых Ошибок Инжектора
 icon: info
 category:
-  - Troubleshoot
+  - Устранение Неполадок
 tag:
-  - Start
-author: Schvis
+  - Начало
+author: 
+  name: "QweRez"
+  url: "https://github.com/qwerezon/"
 order: 1
 ---
 
-## List of common errors
+## Список Частых Ошибок
 
-### Why my korepi disappears?
+## Почему мой Korepi исчезает?
 
-Make sure you got your anti-virus disabled, create a new folder and add it to exclusions.
+Убедитесь, что ваш антивирус отключен, создайте новую папку и добавьте ее в исключения.
 
 ![](/assets/images/docs/202312/virus.png)
 
-Extract korepi inside the excluded folder and run again.
+Распакуйте korepi внутри исключенной папки и запустите снова.
 
 ---
-### Status: No active subscription(s) found, Invalid license key
+## Статус: No active subscribtion(s) found, Invalid license key
 
-You need to [get a new key](../guide/getkey.md) from `⁠★⋅micah-bot-verify⋅★`, if you can't get a key or if the key doesn't work, you have to wait till key expiration.
+Вам нужно [получить новый ключ](../guide/getkey.md) от `⁠★⋅micah-bot-verify⋅★`, если вы не можете получить ключ или ключ не работает, вам придется ждать истечения срока действия ключа.
 
-`Sponsors can use F:Reset Key instead`
+`Спонсоры могут использовать F:Reset Key вместо этого`
 
-### [DLL injection]  Process crashed, exit code 0xc000005
+---
+## [DLL injection]  Process crashed, exit code 0xc000005
 
-Open `cmd` as administrator and write the following command:
+Откройте `cmd` от имени администратора и введите следующую команду:
 
 `sfc /scannow`
 
-After that, if errors were found, restart the computer and check.
-If after restarting it did not help or no errors were found, write this command:
+После этого, если были найдены ошибки, перезагрузите компьютер и проверьте.
+Если после перезагрузки это не помогло или ошибок не было найдено, введите эту команду:
 
 `DISM.exe /Online /Cleanup-Image /RestoreHealth`
 
-After completing the checks, restart the computer and check.
+После завершения проверок перезагрузите компьютер и проверьте.
 
-If it doesn't work, reinstall Windows.
-
----
-### ImGUI: DirectX11 backend initialized successfully.
-
-Error occurs because of themes installed, clear the `themes` folder.
+Если это не помогло, переустановите Windows.
 
 ---
-### The system did not detect MSVCP140.dll
+## ImGUI: DirectX11 backend initialized successfully.
 
-Update [Microsoft Visual Studio C++](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170#visual-studio-2015-2017-2019-and-2022)
-
-Update [DirectX](https://www.microsoft.com/en-us/download/details.aspx?id=35)
+Ошибка возникает из-за установленных тем, очистите папку `themes`.
 
 ---
-### File corrupted! This program has been manipulated and maybe it's infected.
+## Система не обнаружила MSVCP140.dll
+
+Обновите [Microsoft Visual Studio C++](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170#visual-studio-2015-2017-2019-and-2022)
+
+Обновите [DirectX](https://www.microsoft.com/en-us/download/details.aspx?id=35)
+
+---
+## Файл поврежден! Эта программа была изменена и, возможно, заражена.
 
 ![](/assets/images/docs/202312/virus2.png)
 
-In this case, you can try using `Malware Bytes` or `Dr.Web` to do a full scan, if any virus is found, remove them, restart and try again. If it doesn't work, reinstall Windows is the easiest way to solve this issue.
+В этом случае вы можете попробовать использовать `Malware Bytes` или `Dr.Web` для полного сканирования; если вирус найден, удалите его, перезагрузите и попробуйте снова. Если это не помогает, переустановка Windows - самый простой способ решения этой проблемы.
 
 ---
-### Timeout was reached
+## Timeout was reached
 
 ![](/assets/images/docs/202312/error1.png)
 
-Reboot your router.
+Перезагрузите ваш маршрутизатор.
 
-An antivirus may be blocking the connection, make sure that is not in the Task Manager.
+Антивирус может блокировать соединение, убедитесь, что его нет в диспетчере задач.
 
-Use a VPN and try again.
+Используйте VPN и попробуйте снова.
 
-Turn off all applications that affect the firewall. If nothing works, then you might have some problems with the network.
-
----
-### DLL Injection failed
-
-Uninstall colorpicker folder and download colorpicker again.
+Отключите все приложения, влияющие на брандмауэр. Если ничего не помогает, возможно, у вас проблемы с сетью.
 
 ---
-### Windows cannot access the specified device, path, or file
+## DLL Injection failed
+
+Удалите папку colorpicker и снова загрузите colorpicker.
+
+---
+## Windows cannot access the specified device, path, or file
 
 ![](/assets/images/docs/202312/error2.png)
 
-At first go to [HERE](https://support.microsoft.com/en-us/topic/-windows-cannot-access-the-specified-device-path-or-file-error-when-you-try-to-install-update-or-start-a-program-or-file-46361133-47ed-6967-c13e-e75d3cc29657) and follow the steps on that post.
+Сначала перейдите [СЮДА](https://support.microsoft.com/en-us/topic/-windows-cannot-access-the-specified-device-path-or-file-error-when-you-try-to-install-update-or-start-a-program-or-file-46361133-47ed-6967-c13e-e75d3cc29657) и следуйте шагам в этом сообщении.
 
-Also after going to the solutions on the post, download an antivirus like `Dr.Web` or `Malware bytes` and run a full system check!
+Также, после применения решений из сообщения, скачайте антивирус, такой как `Dr.Web` или `Malware Bytes`, и запустите полную проверку системы!
 
-If it doesn't help open cmd as administrator and write `sfc /scannow`
+Если это не поможет, откройте cmd от имени администратора и введите `sfc /scannow`
 
-After that, if errors were found, restart the computer and check.
+После этого, если были найдены ошибки, перезагрузите компьютер и проверьте.
 
-If after restarting it didn't help or no errors were found, write this command:
+Если после перезагрузки это не помогло или ошибок не было найдено, введите эту команду:
 
 `DISM.exe /Online /Cleanup-Image /RestoreHealth`
 
-After completing the checks, restart the computer and check again.
+После завершения проверок перезагрузите компьютер и проверьте снова.
 
-If it doesn't work, reinstall Windows.
+Если это не помогает, переустановите Windows.
 
 ---
-### Signature checksum failed
+## Signature checksum failed
 
 ![](/assets/images/docs/202312/checksum.png)
 
-Servers are down or shut down, wait for servers to come back online.
+Серверы выключены или отключены, подождите, пока серверы не включатся.
 
 ---
-### Failed to create game process with Error 5
+## Failed to create game process with Error 5
 
 ![](/assets/images/docs/202312/error3.png)
 
-Delete `cfg.ini`.
+Удалите `cfg.ini`.
 
 ---
-### SSL connect error
+## SSL connect error
 
 ![](/assets/images/docs/202312/error4.png)
 
-Restart your PC, restart your router.
+Перезагрузите компьютер, перезапустите маршрутизатор.
 
-Try using a VPN if it doesn't work.
-
----
-### Failed to detect game version
-
-Update your injector, follow the steps [here](../start/download.md)
+Попробуйте использовать VPN, если это не помогает.
 
 ---
-### File ok
+## Failed to detect game version
 
-Delete your cfg.json, something might be wrong with the file.
+Обновите ваш инжектор, следуйте шагам [здесь](../start/download.md)
 
 ---
-### UserAssembly.dll isn't initialized, waiting for 2 sec.
+## File ok
 
-If your injector crashes after this line try the following steps:
+Удалите ваш cfg.json, возможно, файл поврежден.
 
-Turn off all anti-viruses in PC.
+---
+## UserAssembly.dll isn't initialized, waiting for 2 sec.
 
-If its doesn't help use `sfc /scannow` command in cmd as administrator.
+Если ваш инжектор выходит из строя после этой строки, выполните следующие действия:
 
-If errors are found after checking and Windows is unable to resolve them, use the `DISM.exe /Online /Cleanup-Image /RestoreHealth` command. 
+Выключите все антивирусные программы на компьютере.
 
-After checking restart your computer and try to run colorpicker again.
+Если это не помогает, используйте команду `sfc /scannow` в командной строке от имени администратора.
 
-If the error repeats you can make factory reset of Windows.
+Если после проверки найдены ошибки и Windows не может их устранить, используйте команду `DISM.exe /Online /Cleanup-Image /RestoreHealth`.
 
+После проверки перезагрузите компьютер и попробуйте запустить инжектор снова.
+
+Если ошибка повторяется, вы можете выполнить сброс до заводских настроек Windows.
