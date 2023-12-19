@@ -6,7 +6,7 @@ category:
 tag:
   - Inicio
 author: Ryuzeen
-order: 1
+order: 2
 ---
 
 ## Lista de erros comuns

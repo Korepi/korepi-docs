@@ -6,7 +6,7 @@ category:
 tag:
   - Mulai
 author: Schvis, Ikuyo
-order: 1
+order: 2
 ---
 
 ## Daftar Masalah yang Sering Terjadi

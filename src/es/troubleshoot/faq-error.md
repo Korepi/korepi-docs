@@ -6,7 +6,7 @@ category:
 tag:
   - Inicio
 author: Schvis
-order: 1
+order: 2
 ---
 
 ## Lista de errores frecuentes
