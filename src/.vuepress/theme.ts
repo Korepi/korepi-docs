@@ -1,6 +1,6 @@
 import { hopeTheme } from "vuepress-theme-hope";
-import { enNavbar, zhNavbar, ruNavbar, idNavbar, esNavbar, viNavbar, ptNavbar } from "./navbar/index.js";
-import { enSidebar, zhSidebar, ruSidebar, idSidebar, esSidebar, viSidebar, ptSidebar } from "./sidebar/index.js";
+import { enNavbar, zhNavbar, ruNavbar, idNavbar, esNavbar, viNavbar, ptNavbar, trNavbar } from "./navbar/index.js";
+import { enSidebar, zhSidebar, ruSidebar, idSidebar, esSidebar, viSidebar, ptSidebar, trSidebar } from "./sidebar/index.js";
 
 export default hopeTheme({
   hostname: "https://korepi.com/",
@@ -21,14 +21,10 @@ export default hopeTheme({
   locales: {
     "/en/": {
       navbar: enNavbar,
-
       sidebar: enSidebar,
-
       footer:
         "Provides the best gaming experience for PC players in Genshin Impact.",
-
       displayFooter: true,
-
       metaLocales: {
         editLink: "Edit this page on GitHub",
       },
@@ -99,9 +95,7 @@ export default hopeTheme({
       },
       footer:
         "Cung cấp trải nghiệm chơi game tốt nhất cho người chơi Genshin Impact trên PC.",
-
       displayFooter: true,
-
       metaLocales: {
         editLink: "Chỉnh sửa trang này trên GitHub",
       },
@@ -116,6 +110,16 @@ export default hopeTheme({
         editLink: "Edite esta pagina em GitHub",
       },
     },
+    "/tr/": {
+      navbar: trNavbar,
+      sidebar: trSidebar,
+      footer:
+          "Genshin Impact'te PC oyuncuları için en iyi oyun deneyimini sunar.",
+      displayFooter: true,
+      metaLocales: {
+          editLink: "Bu sayfayı GitHub'ta düzenle",
+      },
+  },
   },
 
   plugins: {

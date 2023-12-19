@@ -45,6 +45,11 @@ export default defineUserConfig({
             title: "Korepi",
             description: "Ajuda em Korepi"
         },
+        "/tr/": {
+            lang: "tr-TR",
+            title: "Korepi",
+            description: "Yardım için Korepi"
+        },
     },
     plugins: [
         docsearchPlugin({
@@ -280,7 +285,7 @@ export default defineUserConfig({
                                 removeFavoriteSearchButtonTitle: "Remover dos Favoritos",
                             },
                             errorScreen: {
-                                titleText: "Não foi possível recuperar os resultados",
+                                titleText: "Sonuçlar getirilemedi.",
                                 helpText: "Verifique sua conexão com a internet e os recursos solicitados.",
                             },
                             footer: {
@@ -298,6 +303,47 @@ export default defineUserConfig({
                         },
                     },
                 },
+                "/tr/": {
+                    placeholder: "Arama",
+                    translations: {
+                        button: {
+                            buttonText: "Ara",
+                            buttonAriaLabel: "Ara",
+                        },
+                        modal: {
+                            searchBox: {
+                                resetButtonTitle: "Arama filtresini temizle.",
+                                resetButtonAriaLabel: "Arama Kriterlerini Temizle",
+                                cancelButtonText: "Geri",
+                                cancelButtonAriaLabel: "Geri",
+                            },
+                            startScreen: {
+                                recentSearchesTitle: "Arama Geçmişi",
+                                noRecentSearchesText: "Arama geçmişi yok",
+                                saveRecentSearchButtonTitle: "Arama Geçmişine Kaydet",
+                                removeRecentSearchButtonTitle: "Arama Geçmişinden Kaldır",
+                                favoriteSearchesTitle: "Favoriler",
+                                removeFavoriteSearchButtonTitle: "Favorilerden Kaldır",
+                            },
+                            errorScreen: {
+                                titleText: "Sonuçları Getirme Başarısız Oldu",
+                                helpText: "İnternet bağlantınızı ve bağlantı noktanızı kontrol edin.",
+                            },
+                            footer: {
+                                selectText: "Seç",
+                                navigateText: "Geçiş",
+                                closeText: "Kapat",
+                                searchByText: "Arama kullanıyoruz",
+                            },
+                            noResultsScreen: {
+                                noResultsText: "Sorgunuz için hiçbir şey bulunamadı:",
+                                suggestedQueryText: "Farklı bir sorgu deneyebilirsiniz",
+                                reportMissingResultsText: "Bu sorgunun sonuç vermesi gerektiğini düşünüyor musunuz :> ?",
+                                reportMissingResultsLinkText: "Bizimle iletişime geçin",
+                            },
+                        },
+                    },
+                },                
             },
         }),
         redirectPlugin({
@@ -312,6 +358,7 @@ export default defineUserConfig({
                 "/es/": ["es-ES", "es"],
                 "/vi/": ["vi-VN", "vi"],
                 "/pt/": ["pt-PT", "pt-BR", "pt"],
+                "/tr/": ["tr-TR", "tr"],
             },
         }),
         googleAnalyticsPlugin({
