@@ -18,6 +18,6 @@ author: Ryuzeen
 
 - [Como usar Skins Personalizadas](3DM-tutorial.md)
 
-- [Como Instalar Skins en GIMI](3DM-skin.md)
+- [Como Instalar Skins no GIMI](3DM-skin.md)
 
 - [Como usar teletransportes personalizados](custom-tp-setting.md)
