@@ -1,10 +1,10 @@
 ---
-title: Trocador de Animación
+title: Trocador de Animação
 icon: people-arrows
 category:
   - Funções
 tag:
-  - Trocador de Animación
+  - Trocador de Animação
 author: Ryuzeen
 order: 1
 ---
