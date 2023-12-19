@@ -61,6 +61,6 @@ Desactiva todos los superposiciones(MSI Afterburner, GeForce Experience, etc.) a
 
 ### Donde consigo <span style='color:yellow;'>Sponsor</span> y cuanto cuesta?
 
-Puedes conseguir sponsor a traves de cualquier link en el canal de `#sponsorship` dentro del servidor.
+Puedes conseguir [Sponsor](../start/sponsor.md) a traves de cualquier link en el canal de `#sponsorship` dentro del servidor.
 
 Para conseguir el rol de <span style='color:yellow;'>Sponsor</span> tienes que donar como mínimo 5$, una cantidad menor sera ignorada.

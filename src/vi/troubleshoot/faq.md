@@ -61,6 +61,6 @@ Make sure you have disabled every overlay(MSI Afterburner, GeForce Experience, e
 
 ### Where do i get <span style='color:yellow;'>Sponsor</span> and how much it is?
 
-You can get Sponsor from the links provided in `#sponsorship` in the server.
+You can get [Sponsor](../start/sponsor.md) from the links provided in `#sponsorship` in the server.
 
 In order to get the Sponsor role, you need to donate at least 5$, any other donation below 5$ will be ignored.
