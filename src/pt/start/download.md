@@ -19,7 +19,7 @@ Bem-vindo à nossa comunidade! Para passar pela verificação do bot e receber o
 
 ### Passo 1: Junte-se ao nosso servidor e obtenha os cargos de `Newcomer` e `Fans`
 
-SSe ainda não se juntou ao servidor, por favor, leia a publicação de verificação, que explica como ingressar no servidor e obter as funções de `Newcomer` e `Fans`.
+Se ainda não se juntou ao servidor, por favor, leia a publicação de verificação, que explica como ingressar no servidor e obter as funções de `Newcomer` e `Fans`.
 
 ### Passo 2: Vá para o canal `★⋅korepi-version-roles⋅★`
 
