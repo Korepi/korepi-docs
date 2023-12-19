@@ -6,14 +6,60 @@
     <link>https://korepi.com/zh/</link>
     <description>Korepi 中文文档介绍</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 19 Dec 2023 15:35:03 GMT</pubDate>
-    <lastBuildDate>Tue, 19 Dec 2023 15:35:03 GMT</lastBuildDate>
+    <pubDate>Tue, 19 Dec 2023 19:11:09 GMT</pubDate>
+    <lastBuildDate>Tue, 19 Dec 2023 19:11:09 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+    <category>FAQ</category>
     <category>指南</category>
     <category>Features</category>
     <category>Guide</category>
     <category>Troubleshoot</category>
+    <item>
+      <title>FAQ</title>
+      <link>https://korepi.com/zh/troubleshoot/faq.html</link>
+      <guid>https://korepi.com/zh/troubleshoot/faq.html</guid>
+      <source url="https://korepi.com/zh/rss.xml">FAQ</source>
+      <description>List of FAQ Is Korepi free? Yes, it is free, in order to get it for the first time you have to do a 7 days sign-in (../start/sign-in.md), you can skip this by Sponsoring (../sta...</description>
+      <category>FAQ</category>
+      <pubDate>Tue, 19 Dec 2023 17:09:24 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> List of FAQ</h2>
+<h3> Is Korepi free?</h3>
+<p>Yes, it is free, in order to get it for the first time you have to do a 7 days <a href="/zh/start/sign-in.html" target="blank">sign-in</a>, you can skip this by <a href="/zh/start/sponsor.html" target="blank">Sponsoring</a>, after that you can get the license every time your key expires.</p>
+<hr>
+<h3> What is the .rar/.zip password?</h3>
+<p>...</p>
+<p>Its <code>1234</code>, please read the download post next time.</p>
+<hr>
+<h3> Why my config doesn't save?</h3>
+<p>Keep in mind you have to extract the <code>.rar/.zip</code> file you got in another folder.</p>
+<p>If config is still not saving after this step, please contact with any helper in the server for more help.</p>
+<hr>
+<h3> Where do i find themes?</h3>
+<p>You can find themes for your Korepi on <code>community share</code> or you can make your own in Korepi settings.</p>
+<p><img src="/assets/images/docs/202312/theme-settings.png" alt="" loading="lazy"></p>
+<p>Check <code>Theme Customization</code> to start making your own theme.</p>
+<hr>
+<h3> Why did my /sign-in streak reset?</h3>
+<p>Most likely you surpassed the reset time, it resets daily, if you skip 1 day it will reset entirely</p>
+<div class="hint-container info">
+<p class="hint-container-title">Reset time is at GMT/UTC+8 00:00 everyday. Please convert to your timezone.</p>
+</div>
+<hr>
+<h3> Can i use Korepi when a new update comes?</h3>
+<p>No, you need to wait till a new Korepi version gets released.</p>
+<div class="hint-container info">
+<p class="hint-container-title">Using the old injector wont work, Korepi update takes 1-2 weeks approximately.</p>
+</div>
+<hr>
+<h3> Why the menu doesn't appear in game?</h3>
+<p>Make sure you have disabled every overlay(MSI Afterburner, GeForce Experience, etc.) before launching korepi.</p>
+<h3> Where do i get <span style="color:yellow;">Sponsor</span> and how much it is?</h3>
+<p>You can get Sponsor from the links provided in <code>#sponsorship</code> in the server.</p>
+<p>In order to get the Sponsor role, you need to donate at least 5$, any other donation below 5$ will be ignored.</p>
+]]></content:encoded>
+      <enclosure url="https://korepi.com/assets/images/docs/202312/theme-settings.png" type="image/png"/>
+    </item>
     <item>
       <title>如何设置Korepi中文</title>
       <link>https://korepi.com/zh/start/setting-language-zh.html</link>
@@ -1284,11 +1330,14 @@ CN</li>
       <link>https://korepi.com/zh/troubleshoot/</link>
       <guid>https://korepi.com/zh/troubleshoot/</guid>
       <source url="https://korepi.com/zh/rss.xml">错误列表</source>
-      <description>目录 常见错误列表 (faq-error.md); 如何解决错误 31-4302 (31-4302.md);</description>
+      <description>目录 FAQ (faq.md); 常见错误列表 (faq-error.md); 如何解决错误 31-4302 (31-4302.md);</description>
       <category>Troubleshoot</category>
       <pubDate>Wed, 13 Dec 2023 18:38:23 GMT</pubDate>
       <content:encoded><![CDATA[<h2> 目录</h2>
 <ul>
+<li>
+<p><a href="/zh/troubleshoot/faq.html" target="blank">FAQ</a></p>
+</li>
 <li>
 <p><a href="/zh/troubleshoot/faq-error.html" target="blank">常见错误列表</a></p>
 </li>
@@ -1307,14 +1356,16 @@ CN</li>
       <category>Guide</category>
       <pubDate>Wed, 13 Dec 2023 18:38:23 GMT</pubDate>
       <content:encoded><![CDATA[<h2> 常见错误列表</h2>
-<h2> 为什么我的Korepi消失了？</h2>
+<h3> 为什么我的Korepi消失了？</h3>
 <p>确保您的防病毒软件已停用，创建一个新文件夹并将其添加到排除列表中。</p>
 <p><img src="/assets/images/docs/202312/virus.png" alt="" loading="lazy"></p>
 <p>在排除列表中解压Korepi并重新运行。</p>
-<h2> 状态：未发现活跃订阅，无效的许可密钥</h2>
+<hr>
+<h3> 状态：未发现活跃订阅，无效的许可密钥</h3>
 <p>您需要从“⁠★⋅micah-bot-verify⋅★”处<a href="/zh/guide/key-use.html" target="blank">获取一个新密钥</a>，如果无法获取密钥或密钥无效，您必须等待密钥到期。</p>
 <p><code>赞助商可以使用 F:Reset Key 代替</code></p>
-<h2> [DLL注入] 进程崩溃，退出码为0xc000005</h2>
+<hr>
+<h3> [DLL注入] 进程崩溃，退出码为0xc000005</h3>
 <p>以管理员身份打开命令提示符并输入以下命令：</p>
 <p><code>sfc /scannow</code></p>
 <p>之后，如果发现错误，请重新启动计算机并检查。
@@ -1322,22 +1373,28 @@ CN</li>
 <p><code>DISM.exe /Online /Cleanup-Image /RestoreHealth</code></p>
 <p>检查完成后，重新启动计算机并检查。</p>
 <p>如果这样无法解决问题，请重新安装Windows。</p>
-<h2> ImGUI：DirectX11后端初始化成功。</h2>
+<hr>
+<h3> ImGUI：DirectX11后端初始化成功。</h3>
 <p>错误是因为主题，清空主题文件夹。</p>
-<h2> 系统未检测到MSVCP140.dll</h2>
+<hr>
+<h3> 系统未检测到MSVCP140.dll</h3>
 <p>更新<a href="https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170#visual-studio-2015-2017-2019-and-2022" target="_blank" rel="noopener noreferrer">Microsoft Visual Studio C++</a></p>
 <p>更新<a href="https://www.microsoft.com/en-us/download/details.aspx?id=35" target="_blank" rel="noopener noreferrer">DirectX</a></p>
-<h2> 文件损坏！该程序已被篡改，可能已被感染。</h2>
+<hr>
+<h3> 文件损坏！该程序已被篡改，可能已被感染。</h3>
 <p><img src="/assets/images/docs/202312/virus2.png" alt="" loading="lazy"></p>
 <p>在这种情况下，您可以尝试使用<code>Malware Bytes</code>或<code>Dr.Web</code>进行全面扫描，如果发现任何病毒，请将其删除，然后重新启动并重试。如果这样也无效，则重新安装Windows是解决此问题的最简单方法。</p>
-<h2> 超时</h2>
+<hr>
+<h3> 超时</h3>
 <p><img src="/assets/images/docs/202312/error1.png" alt="" loading="lazy"></p>
 <p>重新启动路由器。
 关闭所有影响防火墙的应用程序。如果这些方法都无效，可能是您的网络出现了一些问题。
 某个防病毒软件可能正在阻止连接，请确保它不在任务管理器中运行。</p>
-<h2> DLL注入失败</h2>
+<hr>
+<h3> DLL注入失败</h3>
 <p>卸载颜色选择器文件夹，然后重新下载颜色选择器。</p>
-<h2> Windows无法访问指定的设备、路径或文件</h2>
+<hr>
+<h3> Windows无法访问指定的设备、路径或文件</h3>
 <p><img src="/assets/images/docs/202312/error2.png" alt="" loading="lazy"></p>
 <p>首先转到<a href="https://support.microsoft.com/en-us/topic/-windows-cannot-access-the-specified-device-path-or-file-error-when-you-try-to-install-update-or-start-a-program-or-file-46361133-47ed-6967-c13e-e75d3cc29657" target="_blank" rel="noopener noreferrer">此处</a>，并按照帖子中的步骤操作。</p>
 <p>在尝试上述解决方案后，下载一个防病毒软件并进行全系统检查！</p>
@@ -1347,13 +1404,16 @@ CN</li>
 <p><code>DISM.exe /Online /Cleanup-Image /RestoreHealth</code></p>
 <p>检查完成后，重新启动计算机并检查。</p>
 <p>如果这样无法解决问题，请重新安装Windows。</p>
-<h2> 签名校验和失败</h2>
+<hr>
+<h3> 签名校验和失败</h3>
 <p><img src="/assets/images/docs/202312/checksum.png" alt="" loading="lazy"></p>
 <p>服务器宕机或已关闭，请等待服务器重新上线。</p>
-<h2> 无法创建游戏进程，出现错误5</h2>
+<hr>
+<h3> 无法创建游戏进程，出现错误5</h3>
 <p><img src="/assets/images/docs/202312/error3.png" alt="" loading="lazy"></p>
 <p>删除<code>cfg.ini</code>。</p>
-<h2> SSL连接错误</h2>
+<hr>
+<h3> SSL连接错误</h3>
 <p><img src="/assets/images/docs/202312/error4.png" alt="" loading="lazy"></p>
 <p>重新启动您的计算机，重新启动您的路由器。</p>
 <p>如果没有用，尝试使用VPN。</p>

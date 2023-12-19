@@ -6,13 +6,59 @@
     <link>https://korepi.com/en/</link>
     <description>Help on Korepi</description>
     <language>en-US</language>
-    <pubDate>Tue, 19 Dec 2023 15:35:03 GMT</pubDate>
-    <lastBuildDate>Tue, 19 Dec 2023 15:35:03 GMT</lastBuildDate>
+    <pubDate>Tue, 19 Dec 2023 19:11:09 GMT</pubDate>
+    <lastBuildDate>Tue, 19 Dec 2023 19:11:09 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+    <category>FAQ</category>
     <category>Features</category>
     <category>Guide</category>
     <category>Troubleshoot</category>
+    <item>
+      <title>FAQ</title>
+      <link>https://korepi.com/en/troubleshoot/faq.html</link>
+      <guid>https://korepi.com/en/troubleshoot/faq.html</guid>
+      <source url="https://korepi.com/en/rss.xml">FAQ</source>
+      <description>List of FAQs Is Korepi free? Yes, it is free, in order to get it for the first time you have to do a 7 days sign-in (../start/sign-in.md), you can skip this by Sponsoring (../st...</description>
+      <category>FAQ</category>
+      <pubDate>Mon, 18 Dec 2023 17:07:27 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> List of FAQs</h2>
+<h3> Is Korepi free?</h3>
+<p>Yes, it is free, in order to get it for the first time you have to do a 7 days <a href="/en/start/sign-in.html" target="blank">sign-in</a>, you can skip this by <a href="/en/start/sponsor.html" target="blank">Sponsoring</a>, after that you can get the license every time your key expires.</p>
+<hr>
+<h3> What is the .rar/.zip password?</h3>
+<p>...</p>
+<p>Its <code>1234</code>, please read the download post next time.</p>
+<hr>
+<h3> Why my config doesn't save?</h3>
+<p>Keep in mind you have to extract the <code>.rar/.zip</code> file you got in another folder.</p>
+<p>If config is still not saving after this step, please contact with any helper in the server for more help.</p>
+<hr>
+<h3> Where do i find themes?</h3>
+<p>You can find themes for your Korepi on <code>community share</code> or you can make your own in Korepi settings.</p>
+<p><img src="/assets/images/docs/202312/theme-settings.png" alt="" loading="lazy"></p>
+<p>Check <code>Theme Customization</code> to start making your own theme.</p>
+<hr>
+<h3> Why did my /sign-in streak reset?</h3>
+<p>Most likely you surpassed the reset time, it resets daily, if you skip 1 day it will reset entirely</p>
+<div class="hint-container info">
+<p class="hint-container-title">Reset time is at GMT/UTC+8 00:00 everyday. Please convert to your timezone.</p>
+</div>
+<hr>
+<h3> Can i use Korepi when a new update comes?</h3>
+<p>No, you need to wait till a new Korepi version gets released.</p>
+<div class="hint-container info">
+<p class="hint-container-title">Using the old injector wont work, Korepi update takes 1-2 weeks approximately.</p>
+</div>
+<hr>
+<h3> Why the menu doesn't appear in game?</h3>
+<p>Make sure you have disabled every overlay(MSI Afterburner, GeForce Experience, etc.) before launching korepi.</p>
+<h3> Where do i get <span style="color:yellow;">Sponsor</span> and how much it is?</h3>
+<p>You can get Sponsor from the links provided in <code>#sponsorship</code> in the server.</p>
+<p>In order to get the Sponsor role, you need to donate at least 5$, any other donation below 5$ will be ignored.</p>
+]]></content:encoded>
+      <enclosure url="https://korepi.com/assets/images/docs/202312/theme-settings.png" type="image/png"/>
+    </item>
     <item>
       <title>Flycloak Modifier</title>
       <link>https://korepi.com/en/features/Visuals/flycloak-modifier.html</link>
@@ -65,6 +111,7 @@
 <div class="hint-container tip">
 <p class="hint-container-title">You have to switch to each character you want to activate the constellations first and then teleport far away to activate them.</p>
 </div>
+<hr>
 <h2> Example Video:</h2>
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/S9-g5weE9l8?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Constellation Modifier (Sponsor)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 ]]></content:encoded>
@@ -1231,13 +1278,16 @@ Note 2: Not recommended to use.</p>
       <link>https://korepi.com/en/troubleshoot/</link>
       <guid>https://korepi.com/en/troubleshoot/</guid>
       <source url="https://korepi.com/en/rss.xml">List of Errors</source>
-      <description>Catalog List of frequent Injector errors (faq-error.md); How to solve error 31-4302 (31-4302.md);</description>
+      <description>Catalog FAQ (faq.md); List of common Injector errors (faq-error.md); How to solve error 31-4302 (31-4302.md);</description>
       <category>Troubleshoot</category>
       <pubDate>Wed, 13 Dec 2023 02:00:05 GMT</pubDate>
       <content:encoded><![CDATA[<h2> Catalog</h2>
 <ul>
 <li>
-<p><a href="/en/troubleshoot/faq-error.html" target="blank">List of frequent Injector errors</a></p>
+<p><a href="/en/troubleshoot/faq.html" target="blank">FAQ</a></p>
+</li>
+<li>
+<p><a href="/en/troubleshoot/faq-error.html" target="blank">List of common Injector errors</a></p>
 </li>
 <li>
 <p><a href="/en/troubleshoot/31-4302.html" target="blank">How to solve error 31-4302</a></p>
@@ -1246,22 +1296,23 @@ Note 2: Not recommended to use.</p>
 ]]></content:encoded>
     </item>
     <item>
-      <title>Frequent Injector Errors</title>
+      <title>Common Injector Errors</title>
       <link>https://korepi.com/en/troubleshoot/faq-error.html</link>
       <guid>https://korepi.com/en/troubleshoot/faq-error.html</guid>
-      <source url="https://korepi.com/en/rss.xml">Frequent Injector Errors</source>
-      <description>List of frequent errors Why my korepi disappears? Make sure you got your anti-virus disabled, create a new folder and add it to exclusions. Extract korepi inside the excluded fo...</description>
+      <source url="https://korepi.com/en/rss.xml">Common Injector Errors</source>
+      <description>List of common errors Why my korepi disappears? Make sure you got your anti-virus disabled, create a new folder and add it to exclusions. Extract korepi inside the excluded fold...</description>
       <category>Troubleshoot</category>
       <pubDate>Wed, 13 Dec 2023 02:00:05 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> List of frequent errors</h2>
-<h2> Why my korepi disappears?</h2>
+      <content:encoded><![CDATA[<h2> List of common errors</h2>
+<h3> Why my korepi disappears?</h3>
 <p>Make sure you got your anti-virus disabled, create a new folder and add it to exclusions.</p>
 <p><img src="/assets/images/docs/202312/virus.png" alt="" loading="lazy"></p>
 <p>Extract korepi inside the excluded folder and run again.</p>
-<h2> Status: No active subscribtion(s) found, Invalid license key</h2>
+<hr>
+<h3> Status: No active subscription(s) found, Invalid license key</h3>
 <p>You need to <a href="/en/guide/getkey.html" target="blank">get a new key</a> from <code>⁠★⋅micah-bot-verify⋅★</code>, if you can't get a key or if the key doesn't work, you have to wait till key expiration.</p>
 <p><code>Sponsors can use F:Reset Key instead</code></p>
-<h2> [DLL injection]  Process crashed, exit code 0xc000005</h2>
+<h3> [DLL injection]  Process crashed, exit code 0xc000005</h3>
 <p>Open <code>cmd</code> as administrator and write the following command:</p>
 <p><code>sfc /scannow</code></p>
 <p>After that, if errors were found, restart the computer and check.
@@ -1269,23 +1320,29 @@ If after restarting it did not help or no errors were found, write this command:
 <p><code>DISM.exe /Online /Cleanup-Image /RestoreHealth</code></p>
 <p>After completing the checks, restart the computer and check.</p>
 <p>If it doesn't work, reinstall Windows.</p>
-<h2> ImGUI: DirectX11 backend initialized successfully.</h2>
+<hr>
+<h3> ImGUI: DirectX11 backend initialized successfully.</h3>
 <p>Error occurs because of themes installed, clear the <code>themes</code> folder.</p>
-<h2> The system did not detect MSVCP140.dll</h2>
+<hr>
+<h3> The system did not detect MSVCP140.dll</h3>
 <p>Update <a href="https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170#visual-studio-2015-2017-2019-and-2022" target="_blank" rel="noopener noreferrer">Microsoft Visual Studio C++</a></p>
 <p>Update <a href="https://www.microsoft.com/en-us/download/details.aspx?id=35" target="_blank" rel="noopener noreferrer">DirectX</a></p>
-<h2> File corrupted! This program has been manipulated and maybe it's infected.</h2>
+<hr>
+<h3> File corrupted! This program has been manipulated and maybe it's infected.</h3>
 <p><img src="/assets/images/docs/202312/virus2.png" alt="" loading="lazy"></p>
 <p>In this case, you can try using <code>Malware Bytes</code> or <code>Dr.Web</code> to do a full scan, if any virus is found, remove them, restart and try again. If it doesn't work, reinstall Windows is the easiest way to solve this issue.</p>
-<h2> Timeout was reached</h2>
+<hr>
+<h3> Timeout was reached</h3>
 <p><img src="/assets/images/docs/202312/error1.png" alt="" loading="lazy"></p>
 <p>Reboot your router.</p>
 <p>An antivirus may be blocking the connection, make sure that is not in the Task Manager.</p>
 <p>Use a VPN and try again.</p>
 <p>Turn off all applications that affect the firewall. If nothing works, then you might have some problems with the network.</p>
-<h2> DLL Injection failed</h2>
+<hr>
+<h3> DLL Injection failed</h3>
 <p>Uninstall colorpicker folder and download colorpicker again.</p>
-<h2> Windows cannot access the specified device, path, or file</h2>
+<hr>
+<h3> Windows cannot access the specified device, path, or file</h3>
 <p><img src="/assets/images/docs/202312/error2.png" alt="" loading="lazy"></p>
 <p>At first go to <a href="https://support.microsoft.com/en-us/topic/-windows-cannot-access-the-specified-device-path-or-file-error-when-you-try-to-install-update-or-start-a-program-or-file-46361133-47ed-6967-c13e-e75d3cc29657" target="_blank" rel="noopener noreferrer">HERE</a> and follow the steps on that post.</p>
 <p>Also after going to the solutions on the post, download an antivirus like <code>Dr.Web</code> or <code>Malware bytes</code> and run a full system check!</p>
@@ -1295,21 +1352,27 @@ If after restarting it did not help or no errors were found, write this command:
 <p><code>DISM.exe /Online /Cleanup-Image /RestoreHealth</code></p>
 <p>After completing the checks, restart the computer and check again.</p>
 <p>If it doesn't work, reinstall Windows.</p>
-<h2> Signature checksum failed</h2>
+<hr>
+<h3> Signature checksum failed</h3>
 <p><img src="/assets/images/docs/202312/checksum.png" alt="" loading="lazy"></p>
 <p>Servers are down or shut down, wait for servers to come back online.</p>
-<h2> Failed to create game process with Error 5</h2>
+<hr>
+<h3> Failed to create game process with Error 5</h3>
 <p><img src="/assets/images/docs/202312/error3.png" alt="" loading="lazy"></p>
 <p>Delete <code>cfg.ini</code>.</p>
-<h2> SSL connect error</h2>
+<hr>
+<h3> SSL connect error</h3>
 <p><img src="/assets/images/docs/202312/error4.png" alt="" loading="lazy"></p>
 <p>Restart your PC, restart your router.</p>
 <p>Try using a VPN if it doesn't work.</p>
-<h2> Failed to detect game version</h2>
+<hr>
+<h3> Failed to detect game version</h3>
 <p>Update your injector, follow the steps <a href="/en/start/download.html" target="blank">here</a></p>
-<h2> File ok</h2>
+<hr>
+<h3> File ok</h3>
 <p>Delete your cfg.json, something might be wrong with the file.</p>
-<h2> UserAssembly.dll isn't initialized, waiting for 2 sec.</h2>
+<hr>
+<h3> UserAssembly.dll isn't initialized, waiting for 2 sec.</h3>
 <p>If your injector crashes after this line try the following steps:</p>
 <p>Turn off all anti-viruses in PC.</p>
 <p>If its doesn't help use <code>sfc /scannow</code> command in cmd as administrator.</p>

@@ -6,15 +6,61 @@
     <link>https://korepi.com/ru/</link>
     <description>Помощь по Korepi</description>
     <language>ru-RU</language>
-    <pubDate>Tue, 19 Dec 2023 15:35:03 GMT</pubDate>
-    <lastBuildDate>Tue, 19 Dec 2023 15:35:03 GMT</lastBuildDate>
+    <pubDate>Tue, 19 Dec 2023 19:11:09 GMT</pubDate>
+    <lastBuildDate>Tue, 19 Dec 2023 19:11:09 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+    <category>FAQ</category>
     <category>Особенности</category>
     <category>Руководство</category>
     <category>Устранение Неполадок</category>
     <category>Features</category>
     <category>Гайд</category>
+    <item>
+      <title>FAQ</title>
+      <link>https://korepi.com/ru/troubleshoot/faq.html</link>
+      <guid>https://korepi.com/ru/troubleshoot/faq.html</guid>
+      <source url="https://korepi.com/ru/rss.xml">FAQ</source>
+      <description>List of FAQ Is Korepi free? Yes, it is free, in order to get it for the first time you have to do a 7 days sign-in (../start/sign-in.md), you can skip this by Sponsoring (../sta...</description>
+      <category>FAQ</category>
+      <pubDate>Mon, 18 Dec 2023 17:38:21 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> List of FAQ</h2>
+<h3> Is Korepi free?</h3>
+<p>Yes, it is free, in order to get it for the first time you have to do a 7 days <a href="/ru/start/sign-in.html" target="blank">sign-in</a>, you can skip this by <a href="/ru/start/sponsor.html" target="blank">Sponsoring</a>, after that you can get the license every time your key expires.</p>
+<hr>
+<h3> What is the .rar/.zip password?</h3>
+<p>...</p>
+<p>Its <code>1234</code>, please read the download post next time.</p>
+<hr>
+<h3> Why my config doesn't save?</h3>
+<p>Keep in mind you have to extract the <code>.rar/.zip</code> file you got in another folder.</p>
+<p>If config is still not saving after this step, please contact with any helper in the server for more help.</p>
+<hr>
+<h3> Where do i find themes?</h3>
+<p>You can find themes for your Korepi on <code>community share</code> or you can make your own in Korepi settings.</p>
+<p><img src="/assets/images/docs/202312/theme-settings.png" alt="" loading="lazy"></p>
+<p>Check <code>Theme Customization</code> to start making your own theme.</p>
+<hr>
+<h3> Why did my /sign-in streak reset?</h3>
+<p>Most likely you surpassed the reset time, it resets daily, if you skip 1 day it will reset entirely</p>
+<div class="hint-container info">
+<p class="hint-container-title">Reset time is at GMT/UTC+8 00:00 everyday. Please convert to your timezone.</p>
+</div>
+<hr>
+<h3> Can i use Korepi when a new update comes?</h3>
+<p>No, you need to wait till a new Korepi version gets released.</p>
+<div class="hint-container info">
+<p class="hint-container-title">Using the old injector wont work, Korepi update takes 1-2 weeks approximately.</p>
+</div>
+<hr>
+<h3> Why the menu doesn't appear in game?</h3>
+<p>Make sure you have disabled every overlay(MSI Afterburner, GeForce Experience, etc.) before launching korepi.</p>
+<h3> Where do i get <span style="color:yellow;">Sponsor</span> and how much it is?</h3>
+<p>You can get Sponsor from the links provided in <code>#sponsorship</code> in the server.</p>
+<p>In order to get the Sponsor role, you need to donate at least 5$, any other donation below 5$ will be ignored.</p>
+]]></content:encoded>
+      <enclosure url="https://korepi.com/assets/images/docs/202312/theme-settings.png" type="image/png"/>
+    </item>
     <item>
       <title>Список Функций</title>
       <link>https://korepi.com/ru/features/</link>
@@ -310,11 +356,14 @@ pass korepi</p>
       <link>https://korepi.com/ru/troubleshoot/</link>
       <guid>https://korepi.com/ru/troubleshoot/</guid>
       <source url="https://korepi.com/ru/rss.xml">Список Ошибок</source>
-      <description>Каталог Список частых ошибок (faq-error.md); Как решить ошибку 31-4302 (31-4302.md);</description>
+      <description>Каталог FAQ (faq.md); Список частых ошибок (faq-error.md); Как решить ошибку 31-4302 (31-4302.md);</description>
       <category>Устранение Неполадок</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
       <content:encoded><![CDATA[<h2> Каталог</h2>
 <ul>
+<li>
+<p><a href="/ru/troubleshoot/faq.html" target="blank">FAQ</a></p>
+</li>
 <li>
 <p><a href="/ru/troubleshoot/faq-error.html" target="blank">Список частых ошибок</a></p>
 </li>
@@ -337,9 +386,11 @@ pass korepi</p>
 <p>Убедитесь, что ваш антивирус отключен, создайте новую папку и добавьте ее в исключения.</p>
 <p><img src="/assets/images/docs/202312/virus.png" alt="" loading="lazy"></p>
 <p>Распакуйте korepi внутри исключенной папки и запустите снова.</p>
+<hr>
 <h2> Статус: No active subscribtion(s) found, Invalid license key</h2>
 <p>Вам нужно <a href="/ru/guide/getkey.html" target="blank">получить новый ключ</a> от <code>⁠★⋅micah-bot-verify⋅★</code>, если вы не можете получить ключ или ключ не работает, вам придется ждать истечения срока действия ключа.</p>
 <p><code>Спонсоры могут использовать F:Reset Key вместо этого</code></p>
+<hr>
 <h2> [DLL injection]  Process crashed, exit code 0xc000005</h2>
 <p>Откройте <code>cmd</code> от имени администратора и введите следующую команду:</p>
 <p><code>sfc /scannow</code></p>
@@ -348,22 +399,28 @@ pass korepi</p>
 <p><code>DISM.exe /Online /Cleanup-Image /RestoreHealth</code></p>
 <p>После завершения проверок перезагрузите компьютер и проверьте.</p>
 <p>Если это не помогло, переустановите Windows.</p>
+<hr>
 <h2> ImGUI: DirectX11 backend initialized successfully.</h2>
 <p>Ошибка возникает из-за установленных тем, очистите папку <code>themes</code>.</p>
+<hr>
 <h2> Система не обнаружила MSVCP140.dll</h2>
 <p>Обновите <a href="https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170#visual-studio-2015-2017-2019-and-2022" target="_blank" rel="noopener noreferrer">Microsoft Visual Studio C++</a></p>
 <p>Обновите <a href="https://www.microsoft.com/en-us/download/details.aspx?id=35" target="_blank" rel="noopener noreferrer">DirectX</a></p>
+<hr>
 <h2> Файл поврежден! Эта программа была изменена и, возможно, заражена.</h2>
 <p><img src="/assets/images/docs/202312/virus2.png" alt="" loading="lazy"></p>
 <p>В этом случае вы можете попробовать использовать <code>Malware Bytes</code> или <code>Dr.Web</code> для полного сканирования; если вирус найден, удалите его, перезагрузите и попробуйте снова. Если это не помогает, переустановка Windows - самый простой способ решения этой проблемы.</p>
+<hr>
 <h2> Timeout was reached</h2>
 <p><img src="/assets/images/docs/202312/error1.png" alt="" loading="lazy"></p>
 <p>Перезагрузите ваш маршрутизатор.</p>
 <p>Антивирус может блокировать соединение, убедитесь, что его нет в диспетчере задач.</p>
 <p>Используйте VPN и попробуйте снова.</p>
 <p>Отключите все приложения, влияющие на брандмауэр. Если ничего не помогает, возможно, у вас проблемы с сетью.</p>
+<hr>
 <h2> DLL Injection failed</h2>
 <p>Удалите папку colorpicker и снова загрузите colorpicker.</p>
+<hr>
 <h2> Windows cannot access the specified device, path, or file</h2>
 <p><img src="/assets/images/docs/202312/error2.png" alt="" loading="lazy"></p>
 <p>Сначала перейдите <a href="https://support.microsoft.com/en-us/topic/-windows-cannot-access-the-specified-device-path-or-file-error-when-you-try-to-install-update-or-start-a-program-or-file-46361133-47ed-6967-c13e-e75d3cc29657" target="_blank" rel="noopener noreferrer">СЮДА</a> и следуйте шагам в этом сообщении.</p>
@@ -374,20 +431,26 @@ pass korepi</p>
 <p><code>DISM.exe /Online /Cleanup-Image /RestoreHealth</code></p>
 <p>После завершения проверок перезагрузите компьютер и проверьте снова.</p>
 <p>Если это не помогает, переустановите Windows.</p>
+<hr>
 <h2> Signature checksum failed</h2>
 <p><img src="/assets/images/docs/202312/checksum.png" alt="" loading="lazy"></p>
 <p>Серверы выключены или отключены, подождите, пока серверы не включатся.</p>
+<hr>
 <h2> Failed to create game process with Error 5</h2>
 <p><img src="/assets/images/docs/202312/error3.png" alt="" loading="lazy"></p>
 <p>Удалите <code>cfg.ini</code>.</p>
+<hr>
 <h2> SSL connect error</h2>
 <p><img src="/assets/images/docs/202312/error4.png" alt="" loading="lazy"></p>
 <p>Перезагрузите компьютер, перезапустите маршрутизатор.</p>
 <p>Попробуйте использовать VPN, если это не помогает.</p>
+<hr>
 <h2> Failed to detect game version</h2>
 <p>Обновите ваш инжектор, следуйте шагам <a href="/ru/start/download.html" target="blank">здесь</a></p>
+<hr>
 <h2> File ok</h2>
 <p>Удалите ваш cfg.json, возможно, файл поврежден.</p>
+<hr>
 <h2> UserAssembly.dll isn't initialized, waiting for 2 sec.</h2>
 <p>Если ваш инжектор выходит из строя после этой строки, выполните следующие действия:</p>
 <p>Выключите все антивирусные программы на компьютере.</p>

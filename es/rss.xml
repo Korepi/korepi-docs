@@ -6,13 +6,59 @@
     <link>https://korepi.com/es/</link>
     <description>Ayuda en Korepi</description>
     <language>es-ES</language>
-    <pubDate>Tue, 19 Dec 2023 15:35:03 GMT</pubDate>
-    <lastBuildDate>Tue, 19 Dec 2023 15:35:03 GMT</lastBuildDate>
+    <pubDate>Tue, 19 Dec 2023 19:11:09 GMT</pubDate>
+    <lastBuildDate>Tue, 19 Dec 2023 19:11:09 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+    <category>FAQ</category>
     <category>Funciones</category>
     <category>Errores</category>
     <category>Guía</category>
+    <item>
+      <title>Preguntas Frecuentes</title>
+      <link>https://korepi.com/es/troubleshoot/faq.html</link>
+      <guid>https://korepi.com/es/troubleshoot/faq.html</guid>
+      <source url="https://korepi.com/es/rss.xml">Preguntas Frecuentes</source>
+      <description>Lista de Preguntas Frecuentes Es Korepi gratis?? Si solo tienes que hacer sign-in (../start/sign-in.md) por 7 días y lo podrás usar, puedes saltarte esto con Sponsor (../start/s...</description>
+      <category>FAQ</category>
+      <pubDate>Tue, 19 Dec 2023 17:09:24 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Lista de Preguntas Frecuentes</h2>
+<h3> Es Korepi gratis??</h3>
+<p>Si solo tienes que hacer <a href="/es/start/sign-in.html" target="blank">sign-in</a> por 7 días y lo podrás usar, puedes saltarte esto con <a href="/es/start/sponsor.html" target="blank">Sponsor</a>, después podrás conseguir una licencia cada vez que se expire.</p>
+<hr>
+<h3> Cual es la contraseña del .rar/.zip?</h3>
+<p>...</p>
+<p>Es <code>1234</code>, lee el post la proxima vez.</p>
+<hr>
+<h3> Por qué mi configuración no se guarda?</h3>
+<p>Tienes que extraer el <code>.rar/.zip</code> en alguna carpeta primero.</p>
+<p>Si sigue sin funcionar contacta con un <code>helper</code> para que te ayude con el caso.</p>
+<hr>
+<h3> Donde encuentro temas?</h3>
+<p>Puedes encontrar temas en <code>community share</code> o puedes hacer uno propio en los ajustes.</p>
+<p><img src="/assets/images/docs/202312/theme-settings.png" alt="" loading="lazy"></p>
+<p>Activa <code>Theme Customization</code> para hacer tu propio tema.</p>
+<hr>
+<h3> Por qué mi sign-in se ha reiniciado?</h3>
+<p>Lo más probable es que te hayas pasado del tiempo de restablecimiento.</p>
+<div class="hint-container info">
+<p class="hint-container-title">El tiempo de restablecimiento es a las GMT/UTC+8 00:00 everyday. Conviértelo a tu zona horaria.</p>
+</div>
+<hr>
+<h3> Puedo usar Korepi cuando se actualiza el juego?</h3>
+<p>No, necesitas esperar a que Korepi se actualice.</p>
+<div class="hint-container info">
+<p class="hint-container-title">Usar el mod viejo no va a funcionar, las actualizaciones tardan 1-2 semanas aproximadamente.</p>
+</div>
+<hr>
+<h3> Por qué el menu no aparece en el juego?</h3>
+<p>Desactiva todos los superposiciones(MSI Afterburner, GeForce Experience, etc.) antes de abrir Korepi.</p>
+<h3> Donde consigo <span style="color:yellow;">Sponsor</span> y cuanto cuesta?</h3>
+<p>Puedes conseguir sponsor a traves de cualquier link en el canal de <code>#sponsorship</code> dentro del servidor.</p>
+<p>Para conseguir el rol de <span style="color:yellow;">Sponsor</span> tienes que donar como mínimo 5$, una cantidad menor sera ignorada.</p>
+]]></content:encoded>
+      <enclosure url="https://korepi.com/assets/images/docs/202312/theme-settings.png" type="image/png"/>
+    </item>
     <item>
       <title>Modificador de Planeador</title>
       <link>https://korepi.com/es/features/Visuals/flycloak-modifier.html</link>
@@ -65,6 +111,7 @@
 <div class="hint-container tip">
 <p class="hint-container-title">Tienes que cambiar al personaje que quieras usar el modificador de Constelaciones y después teletransportarte lejos.</p>
 </div>
+<hr>
 <h2> Video de Ejemplo:</h2>
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/S9-g5weE9l8?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Constellation Modifier (Sponsor)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 ]]></content:encoded>
@@ -1232,13 +1279,16 @@ Nota 2: No se recomienda usar.</p>
       <link>https://korepi.com/es/troubleshoot/</link>
       <guid>https://korepi.com/es/troubleshoot/</guid>
       <source url="https://korepi.com/es/rss.xml">Lista de errores</source>
-      <description>Catalogo Lista de errores frecuentes del mod (faq-error.md); Como solucionar el error 31-4302 (31-4302.md);</description>
+      <description>Catalogo Preguntas Frecuentes (faq.md); Lista de errores comunes del mod (faq-error.md); Como solucionar el error 31-4302 (31-4302.md);</description>
       <category>Errores</category>
       <pubDate>Wed, 13 Dec 2023 02:23:02 GMT</pubDate>
       <content:encoded><![CDATA[<h2> Catalogo</h2>
 <ul>
 <li>
-<p><a href="/es/troubleshoot/faq-error.html" target="blank">Lista de errores frecuentes del mod</a></p>
+<p><a href="/es/troubleshoot/faq.html" target="blank">Preguntas Frecuentes</a></p>
+</li>
+<li>
+<p><a href="/es/troubleshoot/faq-error.html" target="blank">Lista de errores comunes del mod</a></p>
 </li>
 <li>
 <p><a href="/es/troubleshoot/31-4302.html" target="blank">Como solucionar el error 31-4302</a></p>
@@ -1255,35 +1305,43 @@ Nota 2: No se recomienda usar.</p>
       <category>Errores</category>
       <pubDate>Wed, 13 Dec 2023 02:23:02 GMT</pubDate>
       <content:encoded><![CDATA[<h2> Lista de errores frecuentes</h2>
-<h2> Por qué mi Korepi desaparece?</h2>
+<h3> Por qué mi Korepi desaparece?</h3>
 <p>Deshabilita el anti-virus y crea una carpeta nueva, pon korepi dentro y añádelo a exclusiones dentro del anti-virus:</p>
 <p><img src="/assets/images/docs/202312/virus.png" alt="" loading="lazy"></p>
 <p>Abre Korepi después de haber completado este paso.</p>
-<h2> Status: No active subscribtion(s) found, Invalid license key</h2>
+<hr>
+<h3> Status: No active subscription(s) found, Invalid license key</h3>
 <p>Necesitas <a href="/es/guide/getkey.html" target="blank">conseguir una nueva key</a> en <code>⁠★⋅micah-bot-verify⋅★</code>, si no puedes conseguir una key o si no te funciona la key tendrás que esperar hasta que se caduque.</p>
 <p><code>Los Sponsors pueden usar F:Reset Key para conseguir una nueva.</code></p>
-<h2> [DLL injection]  Process crashed, exit code 0xc000005</h2>
+<hr>
+<h3> [DLL injection]  Process crashed, exit code 0xc000005</h3>
 <p>Abre el cmd como administrador y escribe lo siguiente:</p>
 <p><code>sfc /scannow</code></p>
 <p>Si se encontraron errores, reinicia el ordenador y comprueba si funciona.</p>
 <p>Si al reiniciar no funciona o si no se encontró errores, prueba lo siguiente:</p>
 <p><code>DISM.exe /Online /Cleanup-Image /RestoreHealth</code></p>
 <p>Después de completar ese paso, reinicia el ordenador y comprueba si funciona, si no funciona tendrás que reinstalar windows.</p>
-<h2> ImGUI: DirectX11 backend initialized successfully.</h2>
+<hr>
+<h3> ImGUI: DirectX11 backend initialized successfully.</h3>
 <p>Este error ocurre por los temas instalados, borra tu carpeta de <code>themes</code>.</p>
-<h2> El sistema no detecto MSVCP140.dll</h2>
+<hr>
+<h3> El sistema no detecto MSVCP140.dll</h3>
 <p>Actualiza o Instala <a href="https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170#visual-studio-2015-2017-2019-and-2022" target="_blank" rel="noopener noreferrer">Microsoft Visual Studio C++</a>.</p>
 <p>Actualiza o Instala <a href="https://www.microsoft.com/en-us/download/details.aspx?id=35" target="_blank" rel="noopener noreferrer">DirectX</a>.</p>
-<h2> El Archivo está corrupto! ¡Este programa ha sido manipulado!</h2>
+<hr>
+<h3> El Archivo está corrupto! ¡Este programa ha sido manipulado!</h3>
 <p><img src="/assets/images/docs/202312/virus2.png" alt="" loading="lazy"></p>
 <p>En este caso deberás instalar <code>Malware Bytes</code> o <code>Dr.Web</code> y hacer un escaneo completo, si se encuentra un virus, bórrelo, y reinicia el ordenador, si no funciono, deberás reinstalar windows.</p>
-<h2> Timeout was reached</h2>
+<hr>
+<h3> Timeout was reached</h3>
 <p><img src="/assets/images/docs/202312/error1.png" alt="" loading="lazy"></p>
 <p>Reinicia tu router.</p>
 <p>Asegúrate de que ninguna aplicación te esté bloqueando la conexión como el antivirus.</p>
-<h2> DLL Injection failed</h2>
+<hr>
+<h3> DLL Injection failed</h3>
 <p>Reinstala el mod.</p>
-<h2> Windows cannot access the specified device, path, or file</h2>
+<hr>
+<h3> Windows cannot access the specified device, path, or file</h3>
 <p><img src="/assets/images/docs/202312/error2.png" alt="" loading="lazy"></p>
 <p>Prueba <a href="https://www.minitool.com/es/respaldar-datos/windows-no-tiene-acceso-al-dispositivo-especificado.html" target="_blank" rel="noopener noreferrer">esto</a> primero.</p>
 <p>Haz un escaneo de virus.</p>
@@ -1292,21 +1350,27 @@ Nota 2: No se recomienda usar.</p>
 <p>Si al reiniciar no funciona o si no se encontró errores, prueba lo siguiente:</p>
 <p><code>DISM.exe /Online /Cleanup-Image /RestoreHealth</code></p>
 <p>Después de completar ese paso, reinicia el ordenador y comprueba si funciona, si no funciona tendrás que reinstalar windows.</p>
-<h2> Signature checksum failed</h2>
+<hr>
+<h3> Signature checksum failed</h3>
 <p><img src="/assets/images/docs/202312/checksum.png" alt="" loading="lazy"></p>
 <p>Los servidores están caídos, espera a que vuelvan.</p>
-<h2> Failed to create game process with Error 5</h2>
+<hr>
+<h3> Failed to create game process with Error 5</h3>
 <p><img src="/assets/images/docs/202312/error3.png" alt="" loading="lazy"></p>
 <p>Borra <code>cfg.ini</code>.</p>
-<h2> SSL connect error</h2>
+<hr>
+<h3> SSL connect error</h3>
 <p><img src="/assets/images/docs/202312/error4.png" alt="" loading="lazy"></p>
 <p>Reinicia tu router y ordenador.</p>
 <p>Usa un VPN si sigue sin funcionar.</p>
-<h2> Failed to detect game version</h2>
+<hr>
+<h3> Failed to detect game version</h3>
 <p>Actualiza tu mod siguiendo <a href="/es/start/download.html" target="blank">estos</a> pasos.</p>
-<h2> File ok</h2>
+<hr>
+<h3> File ok</h3>
 <p>Borra tu <code>cfg.json</code>, algo esta mal con el archivo.</p>
-<h2> UserAssembly.dll isn't initialized, waiting for 2 sec.</h2>
+<hr>
+<h3> UserAssembly.dll isn't initialized, waiting for 2 sec.</h3>
 <p>Si el mod crashea después de esta linea sigue los siguientes pasos.</p>
 <p>Deshabilita todos los anti-virus que tengas.</p>
 <p>Si no funciona usa <code>sfc /scannow</code> en tu <code>cmd</code> como administrador.</p>

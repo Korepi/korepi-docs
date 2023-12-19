@@ -6,13 +6,59 @@
     <link>https://korepi.com/tr/</link>
     <description>Yardım için Korepi</description>
     <language>tr-TR</language>
-    <pubDate>Tue, 19 Dec 2023 15:35:03 GMT</pubDate>
-    <lastBuildDate>Tue, 19 Dec 2023 15:35:03 GMT</lastBuildDate>
+    <pubDate>Tue, 19 Dec 2023 19:11:09 GMT</pubDate>
+    <lastBuildDate>Tue, 19 Dec 2023 19:11:09 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+    <category>FAQ</category>
     <category>Features</category>
     <category>Guide</category>
     <category>Troubleshoot</category>
+    <item>
+      <title>FAQ</title>
+      <link>https://korepi.com/tr/troubleshoot/faq.html</link>
+      <guid>https://korepi.com/tr/troubleshoot/faq.html</guid>
+      <source url="https://korepi.com/tr/rss.xml">FAQ</source>
+      <description>List of FAQ Is Korepi free? Yes, it is free, in order to get it for the first time you have to do a 7 days sign-in (../start/sign-in.md), you can skip this by Sponsoring (../sta...</description>
+      <category>FAQ</category>
+      <pubDate>Tue, 19 Dec 2023 17:09:24 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> List of FAQ</h2>
+<h3> Is Korepi free?</h3>
+<p>Yes, it is free, in order to get it for the first time you have to do a 7 days <a href="/tr/start/sign-in.html" target="blank">sign-in</a>, you can skip this by <a href="/tr/start/sponsor.html" target="blank">Sponsoring</a>, after that you can get the license every time your key expires.</p>
+<hr>
+<h3> What is the .rar/.zip password?</h3>
+<p>...</p>
+<p>Its <code>1234</code>, please read the download post next time.</p>
+<hr>
+<h3> Why my config doesn't save?</h3>
+<p>Keep in mind you have to extract the <code>.rar/.zip</code> file you got in another folder.</p>
+<p>If config is still not saving after this step, please contact with any helper in the server for more help.</p>
+<hr>
+<h3> Where do i find themes?</h3>
+<p>You can find themes for your Korepi on <code>community share</code> or you can make your own in Korepi settings.</p>
+<p><img src="/assets/images/docs/202312/theme-settings.png" alt="" loading="lazy"></p>
+<p>Check <code>Theme Customization</code> to start making your own theme.</p>
+<hr>
+<h3> Why did my /sign-in streak reset?</h3>
+<p>Most likely you surpassed the reset time, it resets daily, if you skip 1 day it will reset entirely</p>
+<div class="hint-container info">
+<p class="hint-container-title">Reset time is at GMT/UTC+8 00:00 everyday. Please convert to your timezone.</p>
+</div>
+<hr>
+<h3> Can i use Korepi when a new update comes?</h3>
+<p>No, you need to wait till a new Korepi version gets released.</p>
+<div class="hint-container info">
+<p class="hint-container-title">Using the old injector wont work, Korepi update takes 1-2 weeks approximately.</p>
+</div>
+<hr>
+<h3> Why the menu doesn't appear in game?</h3>
+<p>Make sure you have disabled every overlay(MSI Afterburner, GeForce Experience, etc.) before launching korepi.</p>
+<h3> Where do i get <span style="color:yellow;">Sponsor</span> and how much it is?</h3>
+<p>You can get Sponsor from the links provided in <code>#sponsorship</code> in the server.</p>
+<p>In order to get the Sponsor role, you need to donate at least 5$, any other donation below 5$ will be ignored.</p>
+]]></content:encoded>
+      <enclosure url="https://korepi.com/assets/images/docs/202312/theme-settings.png" type="image/png"/>
+    </item>
     <item>
       <title>List of Features</title>
       <link>https://korepi.com/tr/features/</link>
@@ -522,11 +568,14 @@ Warning: Don't do anything yet.</p>
       <link>https://korepi.com/tr/troubleshoot/</link>
       <guid>https://korepi.com/tr/troubleshoot/</guid>
       <source url="https://korepi.com/tr/rss.xml">List of Errors</source>
-      <description>Catalog List of frequent Injector errors (faq-error.md); How to solve error 31-4302 (31-4302.md);</description>
+      <description>Catalog FAQ (faq.md); List of frequent Injector errors (faq-error.md); How to solve error 31-4302 (31-4302.md);</description>
       <category>Troubleshoot</category>
       <pubDate>Tue, 19 Dec 2023 12:28:02 GMT</pubDate>
       <content:encoded><![CDATA[<h2> Catalog</h2>
 <ul>
+<li>
+<p><a href="/tr/troubleshoot/faq.html" target="blank">FAQ</a></p>
+</li>
 <li>
 <p><a href="/tr/troubleshoot/faq-error.html" target="blank">List of frequent Injector errors</a></p>
 </li>
