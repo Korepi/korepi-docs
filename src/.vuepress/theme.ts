@@ -134,7 +134,7 @@ export default hopeTheme({
       metaLocales: {
           editLink: "Bu sayfayı GitHub'ta düzenle",
       },
-  },
+    },
   },
 
   plugins: {
@@ -165,7 +165,8 @@ export default hopeTheme({
               "당신이 <b>웹 프론트엔드 개발</b>과 <b>문서 관리</b>에 대한 경험이 있고, 이 문서 프로젝트에 기여하고 싶다면, 당신이 <a href='https://github.com/Korepi/korepi-docs'>우리 문서를 작성</a>하는 것을 환영합니다.",
             fullscreen: false,
             showOnce: false,
-          }
+          },
+          {
             path: "/ru/",
             title: "Помощь",
             content:
