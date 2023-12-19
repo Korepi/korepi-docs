@@ -1,6 +1,6 @@
 import { hopeTheme } from "vuepress-theme-hope";
-import { enNavbar, zhNavbar, ruNavbar, idNavbar, esNavbar, viNavbar, ptNavbar } from "./navbar/index.js";
-import { enSidebar, zhSidebar, ruSidebar, idSidebar, esSidebar, viSidebar, ptSidebar } from "./sidebar/index.js";
+import { enNavbar, zhNavbar, ruNavbar, idNavbar, esNavbar, viNavbar, ptNavbar, trNavbar } from "./navbar/index.js";
+import { enSidebar, zhSidebar, ruSidebar, idSidebar, esSidebar, viSidebar, ptSidebar, trSidebar } from "./sidebar/index.js";
 
 export default hopeTheme({
   hostname: "https://korepi.com/",
@@ -20,48 +20,33 @@ export default hopeTheme({
 
   locales: {
     "/en/": {
-      // navbar
       navbar: enNavbar,
-
-      // sidebar
       sidebar: enSidebar,
-
-      footer: "Provides the best gaming experience for PC players in Genshin Impact.",
-
+      footer:
+        "Provides the best gaming experience for PC players in Genshin Impact.",
       displayFooter: true,
-
       metaLocales: {
         editLink: "Edit this page on GitHub",
       },
     },
 
     "/ru/": {
-      // navbar
       navbar: ruNavbar,
-
-      // sidebar
       sidebar: ruSidebar,
-
-      footer: "Обеспечивает лучший игровой опыт для игроков на ПК в Genshin Impact",
-
+      footer:
+        "Обеспечивает лучший игровой опыт для игроков на ПК в Genshin Impact",
       displayFooter: true,
-
       metaLocales: {
         editLink: "Изменить эту страницу на GitHub",
       },
     },
 
     "/id/": {
-      // navbar
       navbar: idNavbar,
-
-      // sidebar
       sidebar: idSidebar,
-
-      footer: "Memberikan pengalaman bermain game terbaik untuk pemain PC di Genshin Impact.",
-
+      footer:
+        "Memberikan pengalaman bermain game terbaik untuk pemain PC di Genshin Impact.",
       displayFooter: true,
-
       metaLocales: {
         editLink: "Edit halaman ini di GitHub",
       },
@@ -70,9 +55,7 @@ export default hopeTheme({
      * Chinese locale config
      */
     "/zh/": {
-      // navbar
       navbar: zhNavbar,
-      // sidebar
       sidebar: zhSidebar,
       footer: "为原神 PC 端玩家带来最好的游戏体验",
       displayFooter: true,
@@ -93,62 +76,51 @@ export default hopeTheme({
       },
     },
     "/es/": {
-      // navbar
       navbar: esNavbar,
-
-      // sidebar
       sidebar: esSidebar,
-
-      footer: "Proporciona la mejor experiencia de juego para jugadores de PC en Genshin Impact.",
-
+      footer:
+        "Proporciona la mejor experiencia de juego para jugadores de PC en Genshin Impact.",
       displayFooter: true,
-
       metaLocales: {
         editLink: "Edita esta pagina en GitHub",
       },
     },
     "/vi/": {
-      // navbar
       navbar: viNavbar,
-
-      // sidebar
       sidebar: viSidebar,
       navbarLocales: {
-        // Change ui-ux visual lang 
+        // Change ui-ux visual lang
         selectLangAriaLabel: "Tiếng Việt",
         langName: "Tiếng Việt",
       },
-      footer: "Cung cấp trải nghiệm chơi game tốt nhất cho người chơi Genshin Impact trên PC.",
-
+      footer:
+        "Cung cấp trải nghiệm chơi game tốt nhất cho người chơi Genshin Impact trên PC.",
       displayFooter: true,
-
       metaLocales: {
         editLink: "Chỉnh sửa trang này trên GitHub",
       },
     },
     "/pt/": {
-      // navbar
       navbar: ptNavbar,
-
-      // sidebar
       sidebar: ptSidebar,
-
-      footer: "Proporciona a melhor experiencia para jogadores de PC em Genshin Impact",
-
+      footer:
+        "Fornece a melhor experiência de jogo para jogadores de PC em Genshin Impact.",
       displayFooter: true,
-
       metaLocales: {
         editLink: "Edite esta pagina em GitHub",
       },
     },
+    "/tr/": {
+      navbar: trNavbar,
+      sidebar: trSidebar,
+      footer:
+          "Genshin Impact'te PC oyuncuları için en iyi oyun deneyimini sunar.",
+      displayFooter: true,
+      metaLocales: {
+          editLink: "Bu sayfayı GitHub'ta düzenle",
+      },
+    },
   },
-
-  // encrypt: {
-  //   config: {
-  //     "/en/demo/encrypt.html": ["1234"],
-  //     "/zh/demo/encrypt.html": ["1234"],
-  //   },
-  // },
 
   plugins: {
     components: {
@@ -159,7 +131,7 @@ export default hopeTheme({
             path: "/zh/",
             title: "贡献力量",
             content:
-                "如果你有<b>网页前端</b>，<b>文档管理</b>的经验，并希望将其施展于当前文档项目中，欢迎<a href='https://github.com/Korepi/korepi-docs'>参与文档编写</a>",
+              "如果你有<b>网页前端</b>，<b>文档管理</b>的经验，并希望将其施展于当前文档项目中，欢迎<a href='https://github.com/Korepi/korepi-docs'>参与文档编写</a>",
             fullscreen: false,
             showOnce: false,
           },
@@ -167,18 +139,32 @@ export default hopeTheme({
             path: "/en/",
             title: "Contribute Your Skills",
             content:
-                "If you have experience in <b>web front-end development</b> and <b>document management</b>, and would like to apply it to this documentation project, you are welcome to <a href='https://github.com/Korepi/korepi-docs'>join us in writing the documentation</a>",
+              "If you have experience in <b>web front-end development</b> and <b>document management</b>, and would like to apply it to this documentation project, you are welcome to <a href='https://github.com/Korepi/korepi-docs'>join us in writing the documentation</a>",
             fullscreen: false,
             showOnce: false,
-          }
+          },
+          {
+            path: "/ko/",
+            title: "당신의 능력을 기여하세요.",
+            content:
+              "당신이 <b>웹 프론트엔드 개발</b>과 <b>문서 관리</b>에 대한 경험이 있고, 이 문서 프로젝트에 기여하고 싶다면, 당신이 <a href='https://github.com/Korepi/korepi-docs'>우리 문서를 작성</a>하는 것을 환영합니다.",
+            fullscreen: false,
+            showOnce: false,
+          },
+          {
+            path: "/ru/",
+            title: "Помощь",
+            content:
+              "Если у вас есть опыт работы в разработке <b> web Front-End </b> и <b> управления документами </b>, и вы хотели бы применить его к этому проекту документации, вы можете помочь в написании документации и ее переводу <a href = 'https://github.com/korepi/korepi-docs'> </a>",
+            fullscreen: false,
+            showOnce: false,
+          },
         ],
       },
     },
-    feed:{
-      rss:true,
-    },
+    feed: { rss: true },
     sitemap: {
-      changefreq: "weekly",
+      changefreq: "always",
     },
     // You should generate and use your own comment service
     comment: {
@@ -259,3 +245,5 @@ export default hopeTheme({
     },
   },
 });
+theme.ts
+8 KB

@@ -21,6 +21,12 @@ export const zhNavbar = navbar([
         prefix: "guide/",
         children: ["","config-change"],
       },
+      {
+        text: "功能",
+        icon: "sitemap",
+        prefix: "features/",
+        children: [""],
+      },
     ],
   },
 ]);

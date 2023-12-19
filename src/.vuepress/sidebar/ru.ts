@@ -15,5 +15,17 @@ export const ruSidebar = sidebar({
       prefix: "guide/",
       children: "structure",
     },
+    {
+      text: "Функции",
+      icon: "sitemap",
+      prefix: "features/",
+      children: "structure",
+    },
+    {
+      text: "Устранение неполадок",
+      icon: "info-circle",
+      prefix: "troubleshoot/",
+      children: "structure",
+    },
   ],
 });

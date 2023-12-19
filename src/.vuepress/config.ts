@@ -8,9 +8,7 @@ import { googleAnalyticsPlugin } from '@vuepress/plugin-google-analytics'
 
 export default defineUserConfig({
     base: "/",
-    head: [
-        ['meta', { name: 'baidu-site-verification', content: 'codeva-GnP8DZ1yQi' }]
-    ],
+    head: [['meta', { name: 'baidu-site-verification', content: 'codeva-GnP8DZ1yQi' }]],
     locales: {
         "/en/": {
             lang: "en-US",
@@ -45,7 +43,17 @@ export default defineUserConfig({
         "/pt/": {
             lang: "pt-BR",
             title: "Korepi",
-            description: "Ayuda en Korepi"
+            description: "Ajuda em Korepi"
+        },
+        "/ko/": {
+            lang: "ko-KR",
+            title: "Korepi",
+            description: "Korepi 도움말"
+        },
+        "/tr/": {
+            lang: "tr-TR",
+            title: "Korepi",
+            description: "Yardım için Korepi"
         },
     },
     plugins: [
@@ -166,7 +174,7 @@ export default defineUserConfig({
                                 selectText: "Выбрать",
                                 navigateText: "Переключить",
                                 closeText: "Закрыть",
-                                searchByText: "Мы используем поиск",
+                                searchByText: "Поиск",
                             },
                             noResultsScreen: {
                                 noResultsText: "Не удалось ничего найти по вашему запросу :",
@@ -268,38 +276,79 @@ export default defineUserConfig({
                         },
                         modal: {
                             searchBox: {
-                                resetButtonTitle: "Limpiar Criterio de Busqueda",
-                                resetButtonAriaLabel: "Limpiar Criterio de Busqueda",
-                                cancelButtonText: "Volver",
-                                cancelButtonAriaLabel: "Volver",
+                                resetButtonTitle: "Limpar Critério de Busca",
+                                resetButtonAriaLabel: "Limpar Critério de Busca",
+                                cancelButtonText: "Voltar",
+                                cancelButtonAriaLabel: "Voltar",
                             },
                             startScreen: {
-                                recentSearchesTitle: "Historial de Busqueda",
-                                noRecentSearchesText: "No hay historial de busqueda",
-                                saveRecentSearchButtonTitle: "Guardar en historial de busqueda",
-                                removeRecentSearchButtonTitle: "Quitar del historial de busqueda",
+                                recentSearchesTitle: "Histórico de Busca",
+                                noRecentSearchesText: "Sem histórico de busca",
+                                saveRecentSearchButtonTitle: "Salvar no histórico de busca",
+                                removeRecentSearchButtonTitle: "Remover do histórico de busca",
                                 favoriteSearchesTitle: "Favoritos",
-                                removeFavoriteSearchButtonTitle: "Quitar de Favoritos",
+                                removeFavoriteSearchButtonTitle: "Remover dos Favoritos",
                             },
                             errorScreen: {
-                                titleText: "No se pudieron recuperar los resultados",
-                                helpText: "Compureba tu conexion de internet y recursos solicitados.",
+                                titleText: "Sonuçlar getirilemedi.",
+                                helpText: "Verifique sua conexão com a internet e os recursos solicitados.",
                             },
                             footer: {
-                                selectText: "Seleccionar",
-                                navigateText: "Activar",
-                                closeText: "Cerrar",
-                                searchByText: "Usamos Busqueda",
+                                selectText: "Selecionar",
+                                navigateText: "Ativar",
+                                closeText: "Fechar",
+                                searchByText: "Usamos Pesquisa",
                             },
                             noResultsScreen: {
-                                noResultsText: "No se pudo encontrar nada para su consulta:",
-                                suggestedQueryText: "Puedes pruabr una consulta diferente",
-                                reportMissingResultsText: "¿Crees que esta consulta debería arrojar algunos resultados :> ?",
-                                reportMissingResultsLinkText: "Contactanos",
+                                noResultsText: "Nada foi encontrado para a sua consulta:",
+                                suggestedQueryText: "Você pode tentar uma consulta diferente",
+                                reportMissingResultsText: "Acha que esta consulta deveria retornar alguns resultados :> ?",
+                                reportMissingResultsLinkText: "Contate-nos",
                             },
                         },
                     },
                 },
+                "/tr/": {
+                    placeholder: "Arama",
+                    translations: {
+                        button: {
+                            buttonText: "Ara",
+                            buttonAriaLabel: "Ara",
+                        },
+                        modal: {
+                            searchBox: {
+                                resetButtonTitle: "Arama filtresini temizle.",
+                                resetButtonAriaLabel: "Arama Kriterlerini Temizle",
+                                cancelButtonText: "Geri",
+                                cancelButtonAriaLabel: "Geri",
+                            },
+                            startScreen: {
+                                recentSearchesTitle: "Arama Geçmişi",
+                                noRecentSearchesText: "Arama geçmişi yok",
+                                saveRecentSearchButtonTitle: "Arama Geçmişine Kaydet",
+                                removeRecentSearchButtonTitle: "Arama Geçmişinden Kaldır",
+                                favoriteSearchesTitle: "Favoriler",
+                                removeFavoriteSearchButtonTitle: "Favorilerden Kaldır",
+                            },
+                            errorScreen: {
+                                titleText: "Sonuçları Getirme Başarısız Oldu",
+                                helpText: "İnternet bağlantınızı ve bağlantı noktanızı kontrol edin.",
+                            },
+                            footer: {
+                                selectText: "Seç",
+                                navigateText: "Geçiş",
+                                closeText: "Kapat",
+                                searchByText: "Arama kullanıyoruz",
+                            },
+                            noResultsScreen: {
+                                noResultsText: "Sorgunuz için hiçbir şey bulunamadı:",
+                                suggestedQueryText: "Farklı bir sorgu deneyebilirsiniz",
+                                reportMissingResultsText: "Bu sorgunun sonuç vermesi gerektiğini düşünüyor musunuz :> ?",
+                                reportMissingResultsLinkText: "Bizimle iletişime geçin",
+                            },
+                        },
+                    },
+                },                
             },
         }),
         redirectPlugin({
@@ -314,6 +363,8 @@ export default defineUserConfig({
                 "/es/": ["es-ES", "es"],
                 "/vi/": ["vi-VN", "vi"],
                 "/pt/": ["pt-PT", "pt-BR", "pt"],
+                "/ko/": ["ko", "ko-KR"],
+                "/tr/": ["tr-TR", "tr"],
             },
         }),
         googleAnalyticsPlugin({

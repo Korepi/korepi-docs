@@ -46,7 +46,7 @@ author: Ryuzeen
 - [Zoom de Mapa](Visuals/map-zoom.md)
 - [Modificador de Monstros](Visuals/monster-changer.md)
 - [Modificador de Skins](Visuals/skin-modifier.md)
-- [Modificador de Texturas](visuals/skin-modifier.md)
+- [Modificador de Texturas](Visuals/skin-modifier.md)
 - [Outros](Visuals/others.md)`
 
 ### World

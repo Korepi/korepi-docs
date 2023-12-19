@@ -92,7 +92,6 @@ highlights:
     bgImageDark: https://theme-hope-assets.vuejs.press/bg/1-dark.svg
     features:
       - title: Auto Seleção de Diálogo está um pouco mais rápida agora
-icon: lightning-bolt
         icon: lightning-bolt
         details: Aumentada a velocidade de seleção de diálogos
       - title: Zoom no Mapa

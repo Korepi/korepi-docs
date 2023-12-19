@@ -46,7 +46,7 @@ Para conseguir tu `HWID` deberas abrir el mod `Local(V)` una vez, y se te copiar
 
 ### Paso 3: Consigue tu `enc.json`
 
-Ve al canal de `⁠★⋅micah-bot-verify⋅★` y dale click a `V:Verify`, saldrá una ventana preguntándote por tu `HWID`, pega el `HWID` y dale click a `Submit`, después descarga el archivo que te envie el bot.
+Ve al canal de `⁠★⋅micah-bot-verify⋅★` y dale click a `V:Verify`, saldrá una ventana preguntándote por tu `HWID`, pega el `HWID` y dale click a `Submit`, después descarga el archivo que te envié el bot.
 
 ### Paso 4: Pon tu archivo junto a Korepi
 
