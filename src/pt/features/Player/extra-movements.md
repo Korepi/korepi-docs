@@ -11,7 +11,7 @@ order: 5
 ::: info Somente para Patrocinador
 :::
 ---
-## Movimiento Extra: Cambia/Mejora ciertas acciones del jugador.
+## Movimiento Extra: Troca/Melhora algumas ações do jogo
 ### Correr sobre a Água:
 - Ativa a habilidade de caminhar sobre a água.
 ### Impulso ao Correr:
