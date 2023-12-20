@@ -44,7 +44,7 @@ highlights:
         icon: shield
         details: Позволяет персонажу быть неуязвимым
       - title: Модификатор атаки (Множественные удары/цели/анимация)
-        icon: sword
+        icon: gun
         details: Позволяет изменять характеристики атаки
       - title: Без перезарядки (Умения/Ультимейт/Спринт/Лук)
         icon: clock
@@ -68,7 +68,7 @@ highlights:
         icon: hammer
         details: Автоматически уничтожает различные объекты в окружающей среде
       - title: Автоматический сбор добычи/открытие сундуков
-        icon: chest
+        icon: box
         details: Автоматически собирает добычу и открывает сундуки
       - title: Дальность подбора предметов
         icon: compass
@@ -92,7 +92,7 @@ highlights:
     bgImageDark: https://theme-hope-assets.vuejs.press/bg/1-dark.svg
     features:
       - title: Автоматический выбор диалога теперь немного быстрее
-        icon: lightning-bolt
+        icon: comment
         details: Повышена скорость автоматического выбора диалога
       - title: Масштаб карты
         icon: search-plus
@@ -117,7 +117,7 @@ highlights:
     bgImageDark: https://theme-hope-assets.vuejs.press/bg/5-dark.svg
     highlights:
       - title: Отзывчивая поддержка 24/7
-        icon: headsets
+        icon: wind
         details: Мы готовы помочь в любое время дня и ночи, обеспечивая надежную поддержку 24/7.
       - title: Простота использования
         icon: user-friends

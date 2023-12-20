@@ -44,7 +44,7 @@ highlights:
         icon: shield
         details: Permite al jugador ser invencible
       - title: Modificador de Ataque
-        icon: sword
+        icon: gun
         details: Permite la modificación de las características de ataque, incluyendo multi-golpe, objetivo, y animación
       - title: Sin Enfriamientos
         icon: clock
@@ -68,7 +68,7 @@ highlights:
         icon: hammer
         details: Destruye automaticamente objetos variados en el ambiente
       - title: Auto Recoger/Abrir Cofres
-        icon: chest
+        icon: box
         details: Recoge automaticamente botín y abre cofres
       - title: Rango de Recogida
         icon: compass
@@ -92,7 +92,7 @@ highlights:
     bgImageDark: https://theme-hope-assets.vuejs.press/bg/1-dark.svg
     features:
       - title: Auto Seleccionar Dialogo es un poco más rápido ahora
-        icon: lightning-bolt
+        icon: comment
         details: Se aumento la velocidad de la selección de diálogos
       - title: Zoom de Mapa
         icon: search-plus
@@ -117,7 +117,7 @@ highlights:
     bgImageDark: https://theme-hope-assets.vuejs.press/bg/5-dark.svg
     highlights:
       - title: Soporte Activo 24/7
-        icon: headsets
+        icon: wind
         details: Estamos preparados para asistirte en cualquier momento, dia o noche, proporcionando un soporte 24/7 confiable.
       - title: Fácil de Usar
         icon: user-friends
