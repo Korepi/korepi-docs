@@ -5,7 +5,7 @@ category:
   - Fitur
 tag:
   - Auto Tree Farm
-author: Schvis, Natsume, Ikuyo
+author: Schvis, Natsume, Chloe
 order: 9
 ---
 ::: info Hanya Untuk Sponsor!

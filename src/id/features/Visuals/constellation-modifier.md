@@ -5,7 +5,7 @@ category:
   - Features
 tag:
   - Constellation Modifier
-author: Schvis, Kaede, Ikuyo
+author: Schvis, Kaede, Chloe
 order: 3
 ---
 ::: info Hanya sponsor.

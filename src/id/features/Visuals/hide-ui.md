@@ -5,7 +5,7 @@ category:
   - Features
 tag:
   - Hide UI
-author: Schvis, Kaede, Ikuyo
+author: Schvis, Kaede, Chloe
 order: 12
 ---
 

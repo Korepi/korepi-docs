@@ -6,7 +6,7 @@ category:
 tag:
   - Buku Pemula
   - Reset HWID
-author: Schvis, Ikuyo, Natsume
+author: Schvis, Chloe, Natsume
 order: 1
 ---
 

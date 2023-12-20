@@ -5,7 +5,7 @@ category:
   - Features
 tag:
   - Extra Visual Settings
-author: Schvis, Kaede, Ikuyo
+author: Schvis, Kaede, Chloe
 order: 7
 ---
 

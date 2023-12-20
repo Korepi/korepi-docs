@@ -5,7 +5,7 @@ category:
   - Features
 tag:
   - Monster Changer
-author: Schvis, Kaede, Ikuyo
+author: Schvis, Kaede, Chloe
 order: 13
 ---
 

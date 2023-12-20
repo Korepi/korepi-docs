@@ -5,7 +5,7 @@ category:
   - Panduan
 tag:
   - Buku Pemula
-author: Kaede, Ikuyo
+author: Kaede, Chloe
 order: 5
 ---
 

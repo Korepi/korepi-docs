@@ -6,7 +6,7 @@ category:
 tag:
   - Start
   - Sponsor
-author: Kaede, Ikuyo
+author: Kaede, Chloe
 order: 5
 ---
 

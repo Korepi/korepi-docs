@@ -5,7 +5,7 @@ category:
   - Panduan
 tag:
   - Buku Pemula
-author: rekiihype, Ikuyo, Natsume
+author: rekiihype, Chloe, Natsume
 order: 3
 ---
 
