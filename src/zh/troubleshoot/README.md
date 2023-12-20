@@ -10,7 +10,7 @@ author: Schvis
 
 ## 目录
 
-- [FAQ](faq.md)
+- [问题解答](faq.md)
 
 - [常见错误列表](faq-error.md)
 

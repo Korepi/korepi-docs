@@ -1,78 +1,99 @@
 ---
-title: FAQ
+title: 问题解答
 icon: info
 category:
-  - FAQ
+  - 问题解答
 tag:
   - Start
-author: Schvis
+author: Schvis，Double
 order: 1
 ---
 
-## List of FAQ
+# 问题列表
 
-### Is Korepi free?
+# 1.Korepi是免费的吗？
 
-Yes, it is free, in order to get it for the first time you have to do a 7 days [sign-in](../start/sign-in.md), you can skip this by [Sponsoring](../start/donate.md), after that you can get the license every time your key expires.
+是的，它是免费的，为了第一次获得它，你必须进行7天的[签到方法](../start/sign-in.md)，你可以通过[赞助](../start/donate.md)跳过这一步，然后每次密钥到期时你可以在频道中再次获取密钥。
+---
+
+# 2.<span style="color:#f1c40f;">赞助者</span>是一次性的？还是需要每个月赞助一次？
+
+是一次性的，赞助满5＄获取永久的sponsor身份。
 
 ---
-### What is the .rar/.zip password?
+# 3.在哪获取 <span style="color:#f1c40f;">赞助者身份</span>，赞助需要多少?
 
-...
+你可以在这[赞助](../start/donate.md) 或者在频道中的 `#sponsorship`获取赞助链接 。
 
-Its `1234`, please read the download post next time.
+为了获得赞助商的角色，您需要捐赠至少5美元(也就是最少35￥)，任何低于5美元的其他捐赠都将被忽略。
 
----
-### Why my config doesn't save?
-
-Keep in mind you have to extract the `.rar/.zip` file you got in another folder.
-
-If config is still not saving after this step, please contact with any helper in the server for more help.
+如果你第一次赞助了其他金额，你可以继续赞助，直到满35￥即可。
 
 ---
-### Where do i find themes?
 
-You can find themes for your Korepi on `community share` or you can make your own in Korepi settings.
+# 4.F版本的压缩文件的密码是什么?
+
+是 `1234`, 下次请阅读下载公告.
+
+---
+# 5.为什么我的配置不保存?
+
+请记住，您必须提取另一个文件夹中的“.rar/.zip”文件。
+
+如果在该步骤之后仍然没有保存配置，请与服务器中的任何帮助者联系以获取更多帮助。
+
+你的配置文件一般是cfg.json，只要你不更改它，你以前的配置就不会改变。
+
+路径文件是cfg.ini，这是你游戏路径文件，切服请在这把你游戏路径给删除。
+
+---
+# 6.在哪里我可以找到主题theme?
+
+您可以在`community share`上找到Korepi的主题，也可以在Korepi设置中创建自己的主题。
 
 ![](/assets/images/docs/202312/theme-settings.png)
 
-Check `Theme Customization` to start making your own theme.
+选中`Theme Customization(中文是主题自定义)`开始制作自己的主题。
+
+主题文件与korepi的注入器在同一个文件夹，文件夹名称`theme`。
 
 ---
-### Why did my /sign-in streak reset?
+# 7.为什么我的/连续签到重置了?
 
-Most likely you surpassed the reset time, it resets daily, if you skip 1 day it will reset entirely
+很可能你超过了重置时间，它每天都会重置，如果你跳过1天，它会完全重置
 
-::: info Reset time is at GMT/UTC+8 00:00 everyday. Please convert to your timezone.
+::: info 重置时间为每天GMT/UTC+8 00:00也就是中国时间。请转换到您的时区。
 :::
 ---
 
-### Can i use Korepi when a new update comes?
+# 8.当有新的更新时，我可以使用Korepi吗?
 
-No, you need to wait till a new Korepi version gets released.
+不，你需要等到Korepi的新版本发布。
 
-::: info Using the old injector wont work, Korepi update takes 1-2 weeks approximately.
+::: info 使用旧的注入器是没有用的，例如：1.1.0的Korepi只适配4.2的原神。Korepi更新大约需要1-2周。
 :::
 ---
 
-### Why the menu doesn't appear in game?
+# 9.为什么我启动游戏没有菜单，只有防欺诈警告?
 
-Make sure you have disabled every overlay(MSI Afterburner, GeForce Experience, etc.) before launching korepi.
-
----
-### Where do i get <span style='color:yellow;'>Sponsor</span> and how much it is?
-
-You can get [Sponsor](../start/donate.md) from the links provided in `#sponsorship` in the server.
-
-In order to get the Sponsor role, you need to donate at least 5$, any other donation below 5$ will be ignored.
+在启动korepi之前，请确保已禁用所有覆盖（MSI、GeForce Experience等）。
 
 ---
-### Why my game crashes in loading screen?
 
-If you get a error like this:
+# 10.为什么我的游戏在加载屏幕时崩溃?
+
+如果你遇到这样的错误:
 
 `atidxx64.dll caused an Access Violation (0xc0000005) in module atidxx64.dll at 0033:43d1356c.`
 
-Please update your drivers and try again.
+请更新驱动程序，然后重试。
 
-If you don't get that error, try setting more delay on launch on `cfg.ini`.
+如果您没有收到该错误，请尝试在上设置更多的启动延迟`cfg.ini`.
+具体情况请[点击这里](faq-error.md)
+---
+# 11.为什么我像是在海里面一直用头顶着一个地方，无法左右移动？
+
+请你把自动挑战关了，这是bug，在枫丹部分地区使用，会自动触碰到附近的洋流导致卡住。
+
+---
+
