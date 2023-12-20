@@ -6,8 +6,8 @@
     <link>https://korepi.com/tr/</link>
     <description>Yardım için Korepi</description>
     <language>tr-TR</language>
-    <pubDate>Wed, 20 Dec 2023 02:01:29 GMT</pubDate>
-    <lastBuildDate>Wed, 20 Dec 2023 02:01:29 GMT</lastBuildDate>
+    <pubDate>Wed, 20 Dec 2023 03:54:42 GMT</pubDate>
+    <lastBuildDate>Wed, 20 Dec 2023 03:54:42 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>FAQ</category>
@@ -54,7 +54,7 @@
 <h3> Why the menu doesn't appear in game?</h3>
 <p>Make sure you have disabled every overlay(MSI Afterburner, GeForce Experience, etc.) before launching korepi.</p>
 <h3> Where do i get <span style="color:yellow;">Sponsor</span> and how much it is?</h3>
-<p>You can get Sponsor from the links provided in <code>#sponsorship</code> in the server.</p>
+<p>You can get <a href="/tr/start/sponsor.html" target="blank">Sponsor</a> from the links provided in <code>#sponsorship</code> in the server.</p>
 <p>In order to get the Sponsor role, you need to donate at least 5$, any other donation below 5$ will be ignored.</p>
 ]]></content:encoded>
       <enclosure url="https://korepi.com/assets/images/docs/202312/theme-settings.png" type="image/png"/>

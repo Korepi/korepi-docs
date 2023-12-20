@@ -6,8 +6,8 @@
     <link>https://korepi.com/ru/</link>
     <description>Помощь по Korepi</description>
     <language>ru-RU</language>
-    <pubDate>Wed, 20 Dec 2023 02:01:29 GMT</pubDate>
-    <lastBuildDate>Wed, 20 Dec 2023 02:01:29 GMT</lastBuildDate>
+    <pubDate>Wed, 20 Dec 2023 03:54:42 GMT</pubDate>
+    <lastBuildDate>Wed, 20 Dec 2023 03:54:42 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>FAQ</category>
@@ -56,7 +56,7 @@
 <h3> Why the menu doesn't appear in game?</h3>
 <p>Make sure you have disabled every overlay(MSI Afterburner, GeForce Experience, etc.) before launching korepi.</p>
 <h3> Where do i get <span style="color:yellow;">Sponsor</span> and how much it is?</h3>
-<p>You can get Sponsor from the links provided in <code>#sponsorship</code> in the server.</p>
+<p>You can get <a href="/ru/start/sponsor.html" target="blank">Sponsor</a> from the links provided in <code>#sponsorship</code> in the server.</p>
 <p>In order to get the Sponsor role, you need to donate at least 5$, any other donation below 5$ will be ignored.</p>
 ]]></content:encoded>
       <enclosure url="https://korepi.com/assets/images/docs/202312/theme-settings.png" type="image/png"/>
@@ -1605,6 +1605,18 @@ Note 2: Not recommended to use.</p>
 <li>ezizfrostik</li>
 </ul>
 </div>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Привет?</title>
+      <link>https://korepi.com/ru/guide/page.html</link>
+      <guid>https://korepi.com/ru/guide/page.html</guid>
+      <source url="https://korepi.com/ru/rss.xml">Привет?</source>
+      <description>Введение Тут пусто</description>
+      <category>Гайд</category>
+      <pubDate>Fri, 24 Nov 2023 14:31:46 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Введение</h2>
+<p>Тут пусто</p>
 ]]></content:encoded>
     </item>
     <item>

@@ -6,8 +6,8 @@
     <link>https://korepi.com/es/</link>
     <description>Ayuda en Korepi</description>
     <language>es-ES</language>
-    <pubDate>Wed, 20 Dec 2023 02:01:29 GMT</pubDate>
-    <lastBuildDate>Wed, 20 Dec 2023 02:01:29 GMT</lastBuildDate>
+    <pubDate>Wed, 20 Dec 2023 03:54:42 GMT</pubDate>
+    <lastBuildDate>Wed, 20 Dec 2023 03:54:42 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>FAQ</category>
@@ -54,7 +54,7 @@
 <h3> Por qué el menu no aparece en el juego?</h3>
 <p>Desactiva todos los superposiciones(MSI Afterburner, GeForce Experience, etc.) antes de abrir Korepi.</p>
 <h3> Donde consigo <span style="color:yellow;">Sponsor</span> y cuanto cuesta?</h3>
-<p>Puedes conseguir sponsor a traves de cualquier link en el canal de <code>#sponsorship</code> dentro del servidor.</p>
+<p>Puedes conseguir <a href="/es/start/sponsor.html" target="blank">Sponsor</a> a traves de cualquier link en el canal de <code>#sponsorship</code> dentro del servidor.</p>
 <p>Para conseguir el rol de <span style="color:yellow;">Sponsor</span> tienes que donar como mínimo 5$, una cantidad menor sera ignorada.</p>
 ]]></content:encoded>
       <enclosure url="https://korepi.com/assets/images/docs/202312/theme-settings.png" type="image/png"/>
