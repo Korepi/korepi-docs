@@ -159,6 +159,46 @@ export default hopeTheme({
             fullscreen: false,
             showOnce: false,
           },
+          {
+            path: "/es/",
+            title: "Ayuda con tu talento",
+            content:
+              "Si tienes experiencia en <b>desarrollo front-end web</b> y <b>gestión de documentos</b>, y te gustaría aplicarlo en este proyecto de documentación, eres bienvenid@ a <a href='https://github.com/Korepi/korepi-docs'>unirte a ayudarnos con la documentación</a>",
+            fullscreen: false,
+            showOnce: false,
+          },
+          {
+            path: "/id/",
+            title: "Contribute Your Skills",
+            content:
+              "If you have experience in <b>web front-end development</b> and <b>document management</b>, and would like to apply it to this documentation project, you are welcome to <a href='https://github.com/Korepi/korepi-docs'>join us in writing the documentation</a>",
+            fullscreen: false,
+            showOnce: false,
+          },
+          {
+            path: "/tr/",
+            title: "Contribute Your Skills",
+            content:
+              "If you have experience in <b>web front-end development</b> and <b>document management</b>, and would like to apply it to this documentation project, you are welcome to <a href='https://github.com/Korepi/korepi-docs'>join us in writing the documentation</a>",
+            fullscreen: false,
+            showOnce: false,
+          },
+          {
+            path: "/pt/",
+            title: "Contribute Your Skills",
+            content:
+              "If you have experience in <b>web front-end development</b> and <b>document management</b>, and would like to apply it to this documentation project, you are welcome to <a href='https://github.com/Korepi/korepi-docs'>join us in writing the documentation</a>",
+            fullscreen: false,
+            showOnce: false,
+          },
+          {
+            path: "/vi/",
+            title: "Contribute Your Skills",
+            content:
+              "If you have experience in <b>web front-end development</b> and <b>document management</b>, and would like to apply it to this documentation project, you are welcome to <a href='https://github.com/Korepi/korepi-docs'>join us in writing the documentation</a>",
+            fullscreen: false,
+            showOnce: false,
+          },
         ],
       },
     },
