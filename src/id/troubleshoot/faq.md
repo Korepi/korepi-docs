@@ -59,6 +59,18 @@ Tidak, Anda harus menunggu hingga Korepi melakukan pembaruan versi terbaru.
 
 Pastikan Anda menon-aktifkan semua overlay(MSI Afterburner, GeForce Experience, etc.) sebelum membuka Korepi.
 
+---
 ### Di mana saya bisa mendapatkan <span style='color:yellow;'>Sponsor</span> dan berapa harganya?
 
 Harga sponsor ialah 5$ dan untuk mendapatkan sponsor anda dapat melihatnya di [sini](../start/sponsor.md).
+
+---
+### Why my game crashes in loading screen?
+
+If you get a error like this:
+
+`atidxx64.dll caused an Access Violation (0xc0000005) in module atidxx64.dll at 0033:43d1356c.`
+
+Please update your drivers and try again.
+
+If you don't get that error, try setting more delay on launch on `cfg.ini`.
