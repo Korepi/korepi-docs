@@ -5,7 +5,7 @@ export const viSidebar = sidebar({
     "",
     {
       text: "Bắt đầu",
-      icon: "info-circle",
+      icon: "lightbulb",
       prefix: "start/",
       children: "structure",
     },

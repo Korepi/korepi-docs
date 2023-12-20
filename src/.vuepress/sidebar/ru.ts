@@ -5,7 +5,7 @@ export const ruSidebar = sidebar({
     "",
     {
       text: "Начало",
-      icon: "info-circle",
+      icon: "lightbulb",
       prefix: "start/",
       children: "structure",
     },

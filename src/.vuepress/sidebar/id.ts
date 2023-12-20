@@ -5,7 +5,7 @@ export const idSidebar = sidebar({
     "",
     {
       text: "Buku Pemula",
-      icon: "info-circle",
+      icon: "lightbulb",
       prefix: "start/",
       children: "structure",
     },

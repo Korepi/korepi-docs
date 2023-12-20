@@ -1,6 +1,6 @@
 ---
 title: Список Функций
-icon: sitemap
+icon: "book"
 category:
   - Особенности
 tag:

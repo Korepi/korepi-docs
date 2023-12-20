@@ -15,8 +15,10 @@ actions:
     link: ./start/download
     type: primary
   - text: Buku Pemula
+    icon: lightbulb
     link: ./start/
   - text: Panduan
+    icon: book
     link: ./guide/
 
 highlights:

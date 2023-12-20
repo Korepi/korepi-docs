@@ -1,6 +1,6 @@
 ---
 title: Lista de Funções
-icon: sitemap
+icon: "book"
 category:
   - Funções
 tag:

@@ -5,7 +5,7 @@ export const esSidebar = sidebar({
     "",
     {
       text: "Inicio",
-      icon: "info-circle",
+      icon: "lightbulb",
       prefix: "start/",
       children: "structure",
     },
@@ -17,7 +17,7 @@ export const esSidebar = sidebar({
     },
     {
       text: "Lista de Funciones",
-      icon: "info-circle",
+      icon: "sitemap",
       prefix: "features/",
       children: "structure",
     },

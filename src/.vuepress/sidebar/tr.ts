@@ -5,7 +5,7 @@ export const trSidebar = sidebar({
         "",
         {
             text: "Başlangıç",
-            icon: "info-circle",
+            icon: "lightbulb",
             prefix: "start/",
             children: "structure",
         },

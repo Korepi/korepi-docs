@@ -15,8 +15,10 @@ actions:
   link: ./start/download
   type: primary
 - text: Hızlı Başlangıç
+  icon: lightbulb
   link: ./start/
 - text: Rehber
+  icon: book
   link: ./guide/
 
 highlights:

@@ -11,12 +11,14 @@ heroText: Korepi
 tagline: Мы предлагаем доступный, высококачественный и простой в использовании продукт Korepi!
 actions:
   - text: Скачать
-    icon: lightbulb
+    icon: download
     link: ./start/download
     type: primary
   - text: Быстрый старт
+    icon: lightbulb
     link: ./start/
   - text: Гайды
+    icon: book
     link: ./guide/
 
 highlights:

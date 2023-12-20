@@ -1,6 +1,6 @@
 ---
 title: 功能列表
-icon: sitemap
+icon: "book"
 category:
   - Features
 tag:

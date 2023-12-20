@@ -11,12 +11,14 @@ heroText: Korepi
 tagline: Chúng tôi cung cấp sản phẩm Korepi với giá cả phải chăng, chất lượng cao và dễ sử dụng!
 actions:
   - text: Tải xuống
-    icon: lightbulb
+    icon: download
     link: ./start/download
     type: primary
   - text: Bắt đầu nhanh
+    icon: lightbulb
     link: ./start/
   - text: Hướng dẫn
+    icon: book
     link: ./guide/
 
 highlights:

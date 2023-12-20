@@ -1,6 +1,6 @@
 ---
 title: Daftar Fitur
-icon: sitemap
+icon: "book"
 category:
   - Fitur
 tag:
