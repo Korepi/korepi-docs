@@ -15,8 +15,10 @@ actions:
     link: ./start/download
     type: primary
   - text: Buku Pemula
+    icon: lightbulb
     link: ./start/
   - text: Panduan
+    icon: book
     link: ./guide/
 
 highlights:
@@ -44,7 +46,7 @@ highlights:
         icon: shield
         details: Membuat karakter menjadi kebal dari serangan
       - title: Attack Modifier (Multi-Hit/Target/Animation)
-        icon: sword
+        icon: gun
         details: Mengizinkan modifikasi karakteristik serangan, termasuk multi-hit, target, dan animasi
       - title: No Cooldown (Skill/Ultimate/Sprint/Bow)
         icon: clock
@@ -68,7 +70,7 @@ highlights:
         icon: hammer
         details: Secara otomatis menghancurkan berbagai objek di sekitar anda
       - title: Auto Loot/Open Chests
-        icon: chest
+        icon: box
         details: Secara otomatis mengumpulkan item dan membuka peti
       - title: Pickup Range
         icon: compass
@@ -92,7 +94,7 @@ highlights:
     bgImageDark: https://theme-hope-assets.vuejs.press/bg/1-dark.svg
     features:
       - title: Auto Select Dialog sekarang makin cepat
-        icon: lightning-bolt
+        icon: comment
         details: Meningkatkan kecepatan pemilihan dialog secara otomatis
       - title: Map Zoom
         icon: search-plus
@@ -117,7 +119,7 @@ highlights:
     bgImageDark: https://theme-hope-assets.vuejs.press/bg/5-dark.svg
     highlights:
       - title: Bantuan Responsif 24/7
-        icon: headsets
+        icon: wind
         details: Kami siap membantu Anda kapan saja, siang maupun malam, dengan menyediakan bantuan 24/7 yang dipercayai.
       - title: Ramah Pengguna
         icon: user-friends

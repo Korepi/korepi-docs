@@ -15,8 +15,10 @@ actions:
     link: ./start/download
     type: primary
   - text: 快速开始
+    icon: lightbulb
     link: ./start/
   - text: 指南
+    icon: book
     link: ./guide/
 
 highlights:

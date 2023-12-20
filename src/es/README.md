@@ -11,12 +11,14 @@ heroText: Korepi
 tagline: Ofrecemos un producto asequible, de alta calidad y fácil de usar de Korepi
 actions:
   - text: Descargar
-    icon: lightbulb
+    icon: download
     link: ./start/download
     type: primary
   - text: Como Empezar
+    icon: lightbulb
     link: ./start/
   - text: Guías
+    icon: book
     link: ./guide/
 
 highlights:
@@ -28,7 +30,7 @@ highlights:
       - title: Desbloquea localizaciones inexploradas
       - title: Abre todo los cofres del mapa con solo unos clicks!
 
-  - header: Practico, Conveniente, Interacción de Genshin Tecnológica
+  - header: Práctico, Conveniente, Tecnología Interactiva con Genshin
     description: Funcionalidades exclusivas, gratis para usar
     image: /assets/images/web/markdown.svg
     bgImage: https://theme-hope-assets.vuejs.press/bg/2-light.svg
@@ -44,7 +46,7 @@ highlights:
         icon: shield
         details: Permite al jugador ser invencible
       - title: Modificador de Ataque
-        icon: sword
+        icon: gun
         details: Permite la modificación de las características de ataque, incluyendo multi-golpe, objetivo, y animación
       - title: Sin Enfriamientos
         icon: clock
@@ -68,7 +70,7 @@ highlights:
         icon: hammer
         details: Destruye automaticamente objetos variados en el ambiente
       - title: Auto Recoger/Abrir Cofres
-        icon: chest
+        icon: box
         details: Recoge automaticamente botín y abre cofres
       - title: Rango de Recogida
         icon: compass
@@ -86,13 +88,13 @@ highlights:
         icon: tornado
         details: Atrae diferentes mobs cercanos
 
-  - header: Últimos Arreglos
+  - header: Últimos Cambios
     image: /assets/images/web/features.svg
     bgImage: https://theme-hope-assets.vuejs.press/bg/1-light.svg
     bgImageDark: https://theme-hope-assets.vuejs.press/bg/1-dark.svg
     features:
       - title: Auto Seleccionar Dialogo es un poco más rápido ahora
-        icon: lightning-bolt
+        icon: comment
         details: Se aumento la velocidad de la selección de diálogos
       - title: Zoom de Mapa
         icon: search-plus
@@ -117,7 +119,7 @@ highlights:
     bgImageDark: https://theme-hope-assets.vuejs.press/bg/5-dark.svg
     highlights:
       - title: Soporte Activo 24/7
-        icon: headsets
+        icon: wind
         details: Estamos preparados para asistirte en cualquier momento, dia o noche, proporcionando un soporte 24/7 confiable.
       - title: Fácil de Usar
         icon: user-friends

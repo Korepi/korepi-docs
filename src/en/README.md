@@ -15,8 +15,10 @@ actions:
   link: ./start/download
   type: primary
 - text: Quick Start
+  icon: lightbulb
   link: ./start/
 - text: Guide
+  icon: book
   link: ./guide/
 
 highlights:

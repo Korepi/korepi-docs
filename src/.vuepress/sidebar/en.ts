@@ -5,7 +5,7 @@ export const enSidebar = sidebar({
     "",
     {
       text: "Start",
-      icon: "info-circle",
+      icon: "lightbulb",
       prefix: "start/",
       children: "structure",
     },

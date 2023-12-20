@@ -1,6 +1,6 @@
 ---
 title: List of Features
-icon: sitemap
+icon: "book"
 category:
   - Features
 tag:

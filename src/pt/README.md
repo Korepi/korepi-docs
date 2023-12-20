@@ -11,12 +11,14 @@ heroText: Korepi
 tagline: Oferecemos um produto acessível, de alta qualidade e fácil de usar do Korepi
 actions:
   - text: Baixar
-    icon: lightbulb
+    icon: download
     link: ./start/download
     type: primary
   - text: Como Começar
+    icon: lightbulb
     link: ./start/
   - text: Guias
+    icon: book
     link: ./guide/
 
 highlights:
@@ -44,7 +46,7 @@ highlights:
         icon: shield
         details: Permite que o jogador seja invencível
       - title: Modificador de Ataque
-        icon: sword
+        icon: gun
         details: Permite a modificação das características de ataque, incluindo multi-golpe, alvo e animação
       - title: Sem Tempo de Recarga
         icon: clock
@@ -68,7 +70,7 @@ highlights:
         icon: hammer
         details: Destrói automaticamente objetos variados no ambiente
       - title: Auto Coletar/Abrir Baús
-        icon: chest
+        icon: box
         details: Coleta automaticamente saques e abre baús
       - title: Alcance de Coleta
         icon: compass
@@ -92,7 +94,7 @@ highlights:
     bgImageDark: https://theme-hope-assets.vuejs.press/bg/1-dark.svg
     features:
       - title: Auto Seleção de Diálogo está um pouco mais rápida agora
-        icon: lightning-bolt
+        icon: comment
         details: Aumentada a velocidade de seleção de diálogos
       - title: Zoom no Mapa
         icon: search-plus
@@ -117,7 +119,7 @@ highlights:
     bgImageDark: https://theme-hope-assets.vuejs.press/bg/5-dark.svg
     highlights:
       - title: Suporte Ativo 24/7
-        icon: headsets
+        icon: wind
         details: Estamos prontos para ajudar a qualquer momento, dia ou noite, fornecendo suporte 24/7 confiável.
       - title: Fácil de Usar
         icon: user-friends

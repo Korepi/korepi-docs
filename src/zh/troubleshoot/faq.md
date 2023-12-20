@@ -13,7 +13,7 @@ order: 1
 
 ### Is Korepi free?
 
-Yes, it is free, in order to get it for the first time you have to do a 7 days [sign-in](../start/sign-in.md), you can skip this by [Sponsoring](../start/sponsor.md), after that you can get the license every time your key expires.
+Yes, it is free, in order to get it for the first time you have to do a 7 days [sign-in](../start/sign-in.md), you can skip this by [Sponsoring](../start/donate.md), after that you can get the license every time your key expires.
 
 ---
 ### What is the .rar/.zip password?
@@ -61,6 +61,6 @@ Make sure you have disabled every overlay(MSI Afterburner, GeForce Experience, e
 
 ### Where do i get <span style='color:yellow;'>Sponsor</span> and how much it is?
 
-You can get Sponsor from the links provided in `#sponsorship` in the server.
+You can get [Sponsor](../start/donate.md) from the links provided in `#sponsorship` in the server.
 
 In order to get the Sponsor role, you need to donate at least 5$, any other donation below 5$ will be ignored.

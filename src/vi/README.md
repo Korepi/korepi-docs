@@ -11,12 +11,14 @@ heroText: Korepi
 tagline: Chúng tôi cung cấp sản phẩm Korepi với giá cả phải chăng, chất lượng cao và dễ sử dụng!
 actions:
   - text: Tải xuống
-    icon: lightbulb
+    icon: download
     link: ./start/download
     type: primary
   - text: Bắt đầu nhanh
+    icon: lightbulb
     link: ./start/
   - text: Hướng dẫn
+    icon: book
     link: ./guide/
 
 highlights:
@@ -69,7 +71,7 @@ highlights:
         icon: hammer
         details: Tự động phá huỷ các vật thể khác nhau trong môi trường
       - title: Tự động nhặt/mở rương
-        icon: chest
+        icon: box
         details: Tự động thu thập chiến lợi phẩm và mở rương
       - title: Tuỳ chỉnh phạm vi Tự Động Nhặt
         icon: compass
@@ -93,7 +95,7 @@ highlights:
     bgImageDark: https://theme-hope-assets.vuejs.press/bg/1-dark.svg
     features:
       - title: Tự động chọn cuộc hội thoại bây giờ nhanh hơn một chút
-        icon: lightning-bolt
+        icon: comment
         details: Cải thiện tốc độ tự động chọn cuộc hội thoại
       - title: Thu phóng bản đồ
         icon: search-plus
@@ -118,7 +120,7 @@ highlights:
     bgImageDark: https://theme-hope-assets.vuejs.press/bg/5-dark.svg
     highlights:
       - title: Hỗ trợ 24/7
-        icon: headsets
+        icon: wind
         details: Chúng tôi sẵn sàng hỗ trợ bạn bất cứ lúc nào, kể cả ngày hay đêm, hỗ trợ 24/7.
       - title: Đơn giản và dễ sử dụng
         icon: user-friends
