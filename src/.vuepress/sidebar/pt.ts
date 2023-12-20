@@ -10,7 +10,7 @@ export const ptSidebar = sidebar({
       children: "structure",
     },
     {
-      text: "Guías",
+      text: "Guias",
       icon: "book",
       prefix: "guide/",
       children: "structure",
