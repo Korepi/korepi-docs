@@ -6,8 +6,8 @@
     <link>https://korepi.com/id/</link>
     <description>Pertolongan Korepi</description>
     <language>id-ID</language>
-    <pubDate>Wed, 20 Dec 2023 03:54:42 GMT</pubDate>
-    <lastBuildDate>Wed, 20 Dec 2023 03:54:42 GMT</lastBuildDate>
+    <pubDate>Wed, 20 Dec 2023 06:24:28 GMT</pubDate>
+    <lastBuildDate>Wed, 20 Dec 2023 06:24:28 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>FAQ</category>
@@ -55,8 +55,15 @@
 <hr>
 <h3> Kenapa menu Korepi tidak muncul?</h3>
 <p>Pastikan Anda menon-aktifkan semua overlay(MSI Afterburner, GeForce Experience, etc.) sebelum membuka Korepi.</p>
+<hr>
 <h3> Di mana saya bisa mendapatkan <span style="color:yellow;">Sponsor</span> dan berapa harganya?</h3>
 <p>Harga sponsor ialah 5$ dan untuk mendapatkan sponsor anda dapat melihatnya di <a href="/id/start/sponsor.html" target="blank">sini</a>.</p>
+<hr>
+<h3> Why my game crashes in loading screen?</h3>
+<p>If you get a error like this:</p>
+<p><code>atidxx64.dll caused an Access Violation (0xc0000005) in module atidxx64.dll at 0033:43d1356c.</code></p>
+<p>Please update your drivers and try again.</p>
+<p>If you don't get that error, try setting more delay on launch on <code>cfg.ini</code>.</p>
 ]]></content:encoded>
       <enclosure url="https://korepi.com/assets/images/docs/202312/theme-settings.png" type="image/png"/>
     </item>
