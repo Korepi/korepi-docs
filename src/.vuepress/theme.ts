@@ -163,7 +163,7 @@ export default hopeTheme({
             path: "/es/",
             title: "Ayuda con tu talento",
             content:
-              "Si tienes experiencia en <b>desarrollo front-end web</b> y <b>gestión de documentos</b>, y te gustaría aplicarlo en este proyecto de documentación, eres bienvenid@ a <a href='https://github.com/Korepi/korepi-docs'>unirte a ayudarnos con la documentación</a>",
+              "Si tienes experiencia en <b>desarrollo front-end</b> y <b>gestión de documentos</b>, y te gustaría aplicarlo en este proyecto, eres bienvenid@ a <a href='https://github.com/Korepi/korepi-docs'>unirte a ayudarnos con la documentación</a>",
             fullscreen: false,
             showOnce: false,
           },
