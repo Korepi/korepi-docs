@@ -6,8 +6,8 @@
     <link>https://korepi.com/pt/</link>
     <description>Ajuda em Korepi</description>
     <language>pt-BR</language>
-    <pubDate>Tue, 19 Dec 2023 19:11:09 GMT</pubDate>
-    <lastBuildDate>Tue, 19 Dec 2023 19:11:09 GMT</lastBuildDate>
+    <pubDate>Wed, 20 Dec 2023 01:59:16 GMT</pubDate>
+    <lastBuildDate>Wed, 20 Dec 2023 01:59:16 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>FAQ</category>
@@ -241,7 +241,7 @@
       <link>https://korepi.com/pt/features/Player/bunny-hop.html</link>
       <guid>https://korepi.com/pt/features/Player/bunny-hop.html</guid>
       <source url="https://korepi.com/pt/rss.xml">Salto De Coelho</source>
-      <description>Somente para Patrocinador Salto De Coelho: Saltará automaticamente após o primeiro salto. Video de Ejemplo:</description>
+      <description>Somente para Patrocinador Salto De Coelho: Saltará automaticamente após o primeiro salto. Video de Exemplo:</description>
       <category>Funções</category>
       <pubDate>Mon, 18 Dec 2023 04:22:05 GMT</pubDate>
       <content:encoded><![CDATA[<div class="hint-container info">
@@ -249,7 +249,7 @@
 </div>
 <hr>
 <h2> Salto De Coelho: Saltará automaticamente após o primeiro salto.</h2>
-<h2> Video de Ejemplo:</h2>
+<h2> Video de Exemplo:</h2>
 <div class="iframe-container"><iframe width="640" height="369" src="https://www.youtube.com/embed/Gh2GX23E6dw?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Bunnyhop (Sponsor)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 ]]></content:encoded>
     </item>
@@ -298,14 +298,14 @@
       <link>https://korepi.com/pt/features/Player/extra-movements.html</link>
       <guid>https://korepi.com/pt/features/Player/extra-movements.html</guid>
       <source url="https://korepi.com/pt/rss.xml">Movimiento Extra</source>
-      <description>Somente para Patrocinador Movimiento Extra: Cambia/Mejora ciertas acciones del jugador. Correr sobre a Água: Ativa a habilidade de caminhar sobre a água.; Impulso ao Correr: Aum...</description>
+      <description>Somente para Patrocinador Movimiento Extra: Troca/Melhora algumas ações do jogo Correr sobre a Água: Ativa a habilidade de caminhar sobre a água.; Impulso ao Correr: Aumenta a v...</description>
       <category>Funções</category>
       <pubDate>Mon, 18 Dec 2023 04:22:05 GMT</pubDate>
       <content:encoded><![CDATA[<div class="hint-container info">
 <p class="hint-container-title">Somente para Patrocinador</p>
 </div>
 <hr>
-<h2> Movimiento Extra: Cambia/Mejora ciertas acciones del jugador.</h2>
+<h2> Movimiento Extra: Troca/Melhora algumas ações do jogo</h2>
 <h3> Correr sobre a Água:</h3>
 <ul>
 <li>Ativa a habilidade de caminhar sobre a água.</li>
@@ -654,10 +654,10 @@ Nota 2: Você pode encontrar os IDs <a href="https://github.com/jie65535/Grasscu
 ]]></content:encoded>
     </item>
     <item>
-      <title>Trocador de Animación</title>
+      <title>Trocador de Animação</title>
       <link>https://korepi.com/pt/features/Visuals/animation-changer.html</link>
       <guid>https://korepi.com/pt/features/Visuals/animation-changer.html</guid>
-      <source url="https://korepi.com/pt/rss.xml">Trocador de Animación</source>
+      <source url="https://korepi.com/pt/rss.xml">Trocador de Animação</source>
       <description>Trocador de Animação: Permite trocar a animação do personagem atual para a animação selecionada.</description>
       <category>Funções</category>
       <pubDate>Mon, 18 Dec 2023 04:22:05 GMT</pubDate>
@@ -1038,10 +1038,10 @@ Nota 2: Você pode encontrar os IDs <a href="https://github.com/jie65535/Grasscu
       <link>https://korepi.com/pt/features/World/auto-loot.html</link>
       <guid>https://korepi.com/pt/features/World/auto-loot.html</guid>
       <source url="https://korepi.com/pt/rss.xml">Auto Coletar</source>
-      <description>Auto Recoger permite que você colete materiais como plantas, baús, drops e mais com classificações e atrasos personalizados. Video de Exemplo: Nota: Recomenda-se usar abaixo de ...</description>
+      <description>Auto Coletar permite que você colete materiais como plantas, baús, drops e mais com classificações e atrasos personalizados. Video de Exemplo: Nota: Recomenda-se usar abaixo de ...</description>
       <category>Funções</category>
       <pubDate>Mon, 18 Dec 2023 04:22:05 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Auto Recoger permite que você colete materiais como plantas, baús, drops e mais com classificações e atrasos personalizados.</h2>
+      <content:encoded><![CDATA[<h2> Auto Coletar permite que você colete materiais como plantas, baús, drops e mais com classificações e atrasos personalizados.</h2>
 <h2> Video de Exemplo:</h2>
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/wUyI2XO_Z4E?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Loot" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 <blockquote>
@@ -1327,7 +1327,7 @@ Para usar skins personalizadas no Korepi, você precisará baixar o aplicativo</
 <p><a href="/pt/guide/3DM-tutorial.html" target="blank">Como usar Skins Personalizadas</a></p>
 </li>
 <li>
-<p><a href="/pt/guide/3DM-skin.html" target="blank">Como Instalar Skins en GIMI</a></p>
+<p><a href="/pt/guide/3DM-skin.html" target="blank">Como Instalar Skins no GIMI</a></p>
 </li>
 <li>
 <p><a href="/pt/guide/custom-tp-setting.html" target="blank">Como usar teletransportes personalizados</a></p>
@@ -1493,7 +1493,7 @@ Para usar skins personalizadas no Korepi, você precisará baixar o aplicativo</
 <h2> Introdução</h2>
 <p>Bem-vindo à nossa comunidade! Para passar pela verificação do bot e receber o cargo <code>Newcomer</code>, segue os seguintes passos.</p>
 <h3> Passo 1: Junte-se ao nosso servidor e obtenha os cargos de <code>Newcomer</code> e <code>Fans</code></h3>
-<p>SSe ainda não se juntou ao servidor, por favor, leia a publicação de verificação, que explica como ingressar no servidor e obter as funções de <code>Newcomer</code> e <code>Fans</code>.</p>
+<p>Se ainda não se juntou ao servidor, por favor, leia a publicação de verificação, que explica como ingressar no servidor e obter as funções de <code>Newcomer</code> e <code>Fans</code>.</p>
 <h3> Passo 2: Vá para o canal <code>★⋅korepi-version-roles⋅★</code></h3>
 <p>Localize o canal <code>★⋅korepi-version-roles⋅★</code> e escolha a função correspondente à versão F ou V. Recomendamos escolher a função F.</p>
 <h3> Passo 3: Baixe os recursos necessários</h3>
