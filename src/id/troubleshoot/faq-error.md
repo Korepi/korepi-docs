@@ -5,7 +5,7 @@ category:
   - Solusi
 tag:
   - Mulai
-author: Schvis, Ikuyo
+author: Schvis, Chloe
 order: 2
 ---
 

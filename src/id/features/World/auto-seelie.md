@@ -5,7 +5,7 @@ category:
   - Fitur
 tag:
   - Auto Seelie
-author: Schvis, Natsume, Ikuyo
+author: Schvis, Natsume, Chloe
 order: 7
 ---
 

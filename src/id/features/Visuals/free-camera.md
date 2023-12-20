@@ -5,7 +5,7 @@ category:
   - Features
 tag:
   - Free Camera
-author: Schvis, Kaede, Ikuyo
+author: Schvis, Kaede, Chloe
 order: 11
 ---
 

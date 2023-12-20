@@ -5,7 +5,7 @@ category:
   - Features
 tag:
   - Camera Zoom
-author: Schvis, Kaede, Ikuyo
+author: Schvis, Kaede, Chloe
 order: 2
 ---
 
