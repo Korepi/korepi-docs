@@ -7,7 +7,7 @@ tag:
   - Buku Pemula
   - Fans
 
-author: rekiihype, Ikuyo
+author: rekiihype, Chloe
 ---
 
 ##  Katalog

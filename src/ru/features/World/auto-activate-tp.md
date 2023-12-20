@@ -5,7 +5,7 @@ category:
   - Features
 tag:
   - Auto Activate Teleport
-author: Schvis, Ikuyo
+author: Schvis, Chloe
 order: 1
 ---
 ::: info Sponsor Only

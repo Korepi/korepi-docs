@@ -5,7 +5,7 @@ category:
   - Features
 tag:
   - Auto Seelie
-author: Schvis, Ikuyo
+author: Schvis, Chloe
 order: 7
 ---
 

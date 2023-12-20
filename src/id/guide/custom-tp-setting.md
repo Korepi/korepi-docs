@@ -6,7 +6,7 @@ category:
 tag:
   - Buku Pemula
   - Teleports
-author: Schvis, Natsume, Ikuyo
+author: Schvis, Natsume, Chloe
 order: 5
 ---
 

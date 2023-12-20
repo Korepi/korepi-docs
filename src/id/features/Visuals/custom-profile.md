@@ -5,7 +5,7 @@ category:
   - Features
 tag:
   - Custom Profile
-author: Schvis, Kaede, Ikuyo
+author: Schvis, Kaede, Chloe
 order: 4
 ---
 

@@ -5,7 +5,7 @@ category:
   - Features
 tag:
   - Auto Loot
-author: Schvis, Ikuyo
+author: Schvis, Chloe
 order: 6
 ---
 

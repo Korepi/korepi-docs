@@ -59,8 +59,21 @@ No, you need to wait till a new Korepi version gets released.
 
 Make sure you have disabled every overlay(MSI Afterburner, GeForce Experience, etc.) before launching korepi.
 
+---
 ### Where do i get <span style='color:yellow;'>Sponsor</span> and how much it is?
 
 You can get [Sponsor](../start/sponsor.md) from the links provided in `#sponsorship` in the server.
 
 In order to get the Sponsor role, you need to donate at least 5$, any other donation below 5$ will be ignored.
+
+---
+### Why my game crashes in loading screen?
+
+If you get a error like this:
+
+`atidxx64.dll caused an Access Violation (0xc0000005) in module atidxx64.dll at 0033:43d1356c.`
+
+Please update your drivers and try again.
+
+If you don't get that error, try setting more delay on launch on `cfg.ini`.
+

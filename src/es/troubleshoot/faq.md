@@ -59,8 +59,18 @@ No, necesitas esperar a que Korepi se actualice.
 
 Desactiva todos los superposiciones(MSI Afterburner, GeForce Experience, etc.) antes de abrir Korepi.
 
+---
 ### Donde consigo <span style='color:yellow;'>Sponsor</span> y cuanto cuesta?
 
 Puedes conseguir [Sponsor](../start/sponsor.md) a traves de cualquier link en el canal de `#sponsorship` dentro del servidor.
 
 Para conseguir el rol de <span style='color:yellow;'>Sponsor</span> tienes que donar como mínimo 5$, una cantidad menor sera ignorada.
+
+---
+### Por qué mi juego crashea en la pantalla de carga?
+
+Si tienes un error como este:
+
+`atidxx64.dll caused an Access Violation (0xc0000005) in module atidxx64.dll at 0033:43d1356c.`
+
+Actualiza tus drivers e intenta de nuevo.

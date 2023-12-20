@@ -6,7 +6,7 @@ category:
 tag:
   - Buku pemula
   - Multi-Instance
-author: Schvis, Ikuyo
+author: Schvis, Chloe
 order: 2
 ---
 
