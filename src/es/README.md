@@ -28,7 +28,7 @@ highlights:
       - title: Desbloquea localizaciones inexploradas
       - title: Abre todo los cofres del mapa con solo unos clicks!
 
-  - header: Practico, Conveniente, Interacción de Genshin Tecnológica
+  - header: Práctico, Conveniente, Tecnología Interactiva con Genshin
     description: Funcionalidades exclusivas, gratis para usar
     image: /assets/images/web/markdown.svg
     bgImage: https://theme-hope-assets.vuejs.press/bg/2-light.svg
@@ -86,7 +86,7 @@ highlights:
         icon: tornado
         details: Atrae diferentes mobs cercanos
 
-  - header: Últimos Arreglos
+  - header: Últimos Cambios
     image: /assets/images/web/features.svg
     bgImage: https://theme-hope-assets.vuejs.press/bg/1-light.svg
     bgImageDark: https://theme-hope-assets.vuejs.press/bg/1-dark.svg
