@@ -1,6 +1,6 @@
 import { hopeTheme } from "vuepress-theme-hope";
-import { enNavbar, zhNavbar, ruNavbar, idNavbar, esNavbar, viNavbar, ptNavbar, trNavbar } from "./navbar/index.js";
-import { enSidebar, zhSidebar, ruSidebar, idSidebar, esSidebar, viSidebar, ptSidebar, trSidebar } from "./sidebar/index.js";
+import { enNavbar, zhNavbar, ruNavbar, idNavbar, esNavbar, mxNavbar, viNavbar, ptNavbar, trNavbar } from "./navbar/index.js";
+import { enSidebar, zhSidebar, ruSidebar, idSidebar, esSidebar, mxSidebar, viSidebar, ptSidebar, trSidebar } from "./sidebar/index.js";
 
 export default hopeTheme({
   hostname: "https://korepi.com/",
@@ -78,6 +78,16 @@ export default hopeTheme({
     "/es/": {
       navbar: esNavbar,
       sidebar: esSidebar,
+      footer:
+        "Proporciona la mejor experiencia de juego para jugadores de PC en Genshin Impact.",
+      displayFooter: true,
+      metaLocales: {
+        editLink: "Edita esta pagina en GitHub",
+      },
+    },
+    "/mx/": {
+      navbar: mxNavbar,
+      sidebar: mxSidebar,
       footer:
         "Proporciona la mejor experiencia de juego para jugadores de PC en Genshin Impact.",
       displayFooter: true,
