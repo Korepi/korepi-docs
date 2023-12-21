@@ -65,12 +65,12 @@ Pastikan Anda menon-aktifkan semua overlay(MSI Afterburner, GeForce Experience, 
 Harga sponsor ialah 5$ dan untuk mendapatkan sponsor anda dapat melihatnya di [sini](../start/sponsor.md).
 
 ---
-### Why my game crashes in loading screen?
+### Kenapa game saya crash saat loading?
 
-If you get a error like this:
+Jika Anda mendapatkan masalah seperti ini:
 
 `atidxx64.dll caused an Access Violation (0xc0000005) in module atidxx64.dll at 0033:43d1356c.`
 
-Please update your drivers and try again.
+Harap perbarui driver Anda dan coba kembali.
 
-If you don't get that error, try setting more delay on launch on `cfg.ini`.
+Jika tidak terjadi masalah seperti itu pada Anda, cobalah untuk meningkatkan penundaan peluncuran di `cfg.ini`.
