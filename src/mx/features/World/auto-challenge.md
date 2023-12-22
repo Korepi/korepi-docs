@@ -1,15 +1,15 @@
 ---
-title: Auto Desafió
+title: Auto Desafío
 icon: power-off
 category:
   - Funciones
 tag:
-  - Auto Desafió
-author: Schvis
+  - Auto Desafío
+author: Schvis, ll33ee
 order: 2
 ---
 
-### Auto Desafió completa los desafiós de tiempo activos con un rango personalizado y retraso personalizado.
+### Auto Desafío completa los desafío de tiempo activos con un rango y retraso personalizado.
 
 ## Video de Ejemplo:
 

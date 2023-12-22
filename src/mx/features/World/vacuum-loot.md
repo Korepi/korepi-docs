@@ -5,11 +5,11 @@ category:
   - Funciones
 tag:
   - Succión de Botín
-author: Schvis
+author: Schvis, ll33ee
 order: 13
 ---
 
-## Succión de Botín acerca a los drops con un rango y velocidad personalizados.
+## Atraer Botín acerca los drops con un rango y velocidad personalizados.
 
 ## Video de Ejemplo:
 

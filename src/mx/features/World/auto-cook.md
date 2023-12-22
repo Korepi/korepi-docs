@@ -5,11 +5,11 @@ category:
   - Funciones
 tag:
   - Auto Cocinar
-author: Schvis
+author: Schvis, ll33ee
 order: 3
 ---
 
-### Auto Cocinar deja que cocines automaticamente la cantidad deseada de la comida seleccionada, puedes elegir calidad, cantidad y completar la maestría.
+### Auto Cocinar permite cocinar la cantidad y calidad del platillo elejido, y así completar la maestría culinaria para obtener el Autococinar del juego.
 
 ## Video de Ejemplo:
 

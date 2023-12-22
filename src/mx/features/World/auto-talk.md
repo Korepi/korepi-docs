@@ -5,26 +5,28 @@ category:
   - Funciones
 tag:
   - Auto Conversar
-author: Schvis
+author: Schvis, ll33ee
 order: 8
 ---
 
-## Auto Conversar: Habla automaticamente con los NPCs
-### Dialogo Rápido:
+## Auto Conversar: Habla automáticamente con los NPCs
+### Diálogo Rápido:
 - Acelera el juego haciendo que el dialogo sea más rápido.
-> Nota: No se recomienda por encima de `5`.
-### Saltar Dialogo (<span style='color:yellow;'>Sponsor</span>):
-- Salta el dialogo con un retraso personalizado. Es más seguro que Dialogo Rápido.
-> Nota: No se recomienda user por debajo de `200ms`
+> Cuidado: No se recomienda por encima de `5`.
+### Saltar Diálogo (<span style='color:yellow;'>Sponsor</span>):
+- Salta el dialogo con un retraso personalizado. Es más seguro que Diálogo Rápido.
+> Cuidado: No se recomienda user por debajo de `200ms`
 ### Escenas Rápidas:
 - Acelera el juego haciendo que la escena sea más rápida.
-> Nota: No se recomienda usar por encima de `5`.
+> Cuidado: No se recomienda usar por encima de `5`.
 ### Saltar Conversaciones:
-- Salta las escenas de conversacion en curso o cuando empiezan.
-> Nota: Puede dar pantalla negra a veces.
+- Salta las escenas de conversación en curso o cuando empiezan.
+> Cuidado: Puede dar pantalla negra a veces.
 ### Saltar Escenas:
 - Salta las escenas de video en curso o cuando empiezan.
-> Nota: Puede dar pantalla negra a veces.
+> Cuidado: Puede dar pantalla negra a veces.
+
+Advertencia: El establecer valores más haya de lo recomendado eleva en gran medida el riesgo de que tu cuente sea baneada.
 
 ## Video de Ejemplo:
 

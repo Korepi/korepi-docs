@@ -5,13 +5,13 @@ category:
   - Funciones
 tag:
   - Auto Madera
-author: Schvis
+author: Schvis, ll33ee
 order: 9
 ---
 ::: info Solo para Sponsor
 :::
 ---
-### Auto Madera permite golpear arboles cercanos para conseguir madera con rango, golpes y retraso personalizado.
+### Auto Madera permite talar árboles con el rango, golpes y retraso que desees.
 
 ## Video de Ejemplo:
 

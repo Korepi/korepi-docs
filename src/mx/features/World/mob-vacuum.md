@@ -5,11 +5,11 @@ category:
   - Funciones
 tag:
   - Succión de Mobs
-author: Schvis
+author: Schvis, ll33ee
 order: 12
 ---
 
-## Succión de Mobs acerca a los enemigos con un rango y velocidad personalizados.
+## Atraer Mobs acerca a los enemigos con un rango y velocidad personalizados.
 
 ## Video de Ejemplo:
 

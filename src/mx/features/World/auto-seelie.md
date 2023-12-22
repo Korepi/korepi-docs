@@ -5,11 +5,11 @@ category:
   - Funciones
 tag:
   - Auto Seelie
-author: Schvis
+author: Schvis, ll33ee
 order: 7
 ---
 
-## Auto Seelie quita la necesidad de seguir al seelie hasta su estatua, ira sola cuando te acerques.
+## Auto Seelie evita que acompañes al seelie, sólo acercate a su ubicación inicial y el se irá automáticamente hasta su estatua.
 
 ## Video de Ejemplo:
 

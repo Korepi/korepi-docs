@@ -5,13 +5,13 @@ category:
   - Funciones
 tag:
   - Velocidad del Juego
-author: Schvis
+author: Schvis, ll33ee
 order: 10
 ---
 
-### Velocidad del Juego. Acelera o ralentiza el juego. No me lo esperaba.
+### Velocidad del Juego. Acelera o ralentiza el juego.
 
->Note: Not recommended to use outside of menus, or in general.
+><span style="color:red;">Cuidado: esto es peligroso. Riesgo de ban.</span>
 
 ## Video de Ejemplo:
 

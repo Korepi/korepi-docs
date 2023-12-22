@@ -5,11 +5,11 @@ category:
   - Funciones
 tag:
   - Auto Recoger
-author: Schvis
+author: Schvis, ll33ee
 order: 6
 ---
 
-## Auto Recoger te permite recoger materiales como plantas, cofres, drops y más con rangos y retrasos personalizados.
+## Auto Recoger te permite recoger materiales como plantas, cofres, drops y más con un rango y retraso personlizable.
 
 ## Video de Ejemplo:
 
