@@ -6,8 +6,8 @@
     <link>https://korepi.com/ru/</link>
     <description>Помощь по Korepi</description>
     <language>ru-RU</language>
-    <pubDate>Fri, 22 Dec 2023 06:33:44 GMT</pubDate>
-    <lastBuildDate>Fri, 22 Dec 2023 06:33:44 GMT</lastBuildDate>
+    <pubDate>Fri, 22 Dec 2023 07:13:23 GMT</pubDate>
+    <lastBuildDate>Fri, 22 Dec 2023 07:13:23 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>FAQ</category>
@@ -73,70 +73,8 @@
       <link>https://korepi.com/ru/features/</link>
       <guid>https://korepi.com/ru/features/</guid>
       <source url="https://korepi.com/ru/rss.xml">Список Функций</source>
-      <description>Список Функций PlayerAttack Effects (Player/attack-effects.md); Auto Run (Player/auto-run.md); Bunny Hop (Player/bunny-hop.md); Cooldown Effects (Player/cooldown-effects.md)...</description>
       <category>Особенности</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Список Функций</h2>
-<h3> Player</h3>
-<ul>
-<li><a href="/ru/features/Player/attack-effects.html" target="blank">Attack Effects</a></li>
-<li><a href="/ru/features/Player/auto-run.html" target="blank">Auto Run</a></li>
-<li><a href="/ru/features/Player/bunny-hop.html" target="blank">Bunny Hop</a></li>
-<li><a href="/ru/features/Player/cooldown-effects.html" target="blank">Cooldown Effects</a></li>
-<li><a href="/ru/features/Player/extra-movements.html" target="blank">Extra Movements</a></li>
-<li><a href="/ru/features/Player/fall-control.html" target="blank">Fall Control</a></li>
-<li><a href="/ru/features/Player/god-mode.html" target="blank">God Mode</a></li>
-<li><a href="/ru/features/Player/infinite-stamina.html" target="blank">Infinite Stamina</a></li>
-<li><a href="/ru/features/Player/no-clip.html" target="blank">No Clip</a></li>
-<li><a href="/ru/features/Player/player-speed.html" target="blank">Player Speed</a></li>
-<li><a href="/ru/features/Player/remote-utility.html" target="blank">Remote Utility</a></li>
-</ul>
-<h3> Teleport</h3>
-<ul>
-<li><a href="/ru/features/Teleport/0culi-teleport.html" target="blank">Oculi Teleport</a></li>
-<li><a href="/ru/features/Teleport/chest-teleport.html" target="blank">Chest Teleport</a></li>
-<li><a href="/ru/features/Teleport/custom-teleport.html" target="blank">Custom Teleport</a></li>
-<li><a href="/ru/features/Teleport/map-teleport.html" target="blank">Map Teleport</a></li>
-<li><a href="/ru/features/Teleport/quest-teleport.html" target="blank">Quest Teleport</a></li>
-</ul>
-<h3> Visuals</h3>
-<ul>
-<li><a href="/ru/features/Visuals/animation-changer.html" target="blank">Animation Changer</a></li>
-<li><a href="/ru/features/Visuals/camera-zoom.html" target="blank">Camera Zoom</a></li>
-<li><a href="/ru/features/Visuals/constellation-modifier.html" target="blank">Constellation Modifier</a></li>
-<li><a href="/ru/features/Visuals/custom-profile.html" target="blank">Custom Profile</a></li>
-<li><a href="/ru/features/Visuals/custom-weather.html" target="blank">Custom Weather</a></li>
-<li><a href="/ru/features/Visuals/emotion-changer.html" target="blank">Emotion Changer</a></li>
-<li><a href="/ru/features/Visuals/extra-visual-settings.html" target="blank">Extra Visual Settings</a></li>
-<li><a href="/ru/features/Visuals/fps-unlock.html" target="blank">FPS Unlock</a></li>
-<li><a href="/ru/features/Visuals/fake-time.html" target="blank">Fake Time</a></li>
-<li><a href="/ru/features/Visuals/flycloak-modifier.html" target="blank">Flycloak Modifier</a></li>
-<li><a href="/ru/features/Visuals/free-camera.html" target="blank">Free Camera</a></li>
-<li><a href="/ru/features/Visuals/hide-ui.html" target="blank">Hide UI</a></li>
-<li><a href="/ru/features/Visuals/map-zoom.html" target="blank">Map Zoom</a></li>
-<li><a href="/ru/features/Visuals/monster-changer.html" target="blank">Monster Changer</a></li>
-<li><a href="/ru/features/Visuals/skin-modifier.html" target="blank">Skin Modifier</a></li>
-<li><a href="/ru/features/Visuals/skin-modifier.html" target="blank">Texture Changer</a></li>
-<li><a href="/ru/features/Visuals/others.html" target="blank">Others</a></li>
-</ul>
-<h3> World</h3>
-<ul>
-<li><a href="/ru/features/World/auto-activate-tp.html" target="blank">Auto Activated Waypoints</a></li>
-<li><a href="/ru/features/World/auto-challenge.html" target="blank">Auto Challenge</a></li>
-<li><a href="/ru/features/World/auto-cook.html" target="blank">Auto Cook</a></li>
-<li><a href="/ru/features/World/auto-destroy.html" target="blank">Auto Destroy</a></li>
-<li><a href="/ru/features/World/auto-fish.html" target="blank">Auto Fish</a></li>
-<li><a href="/ru/features/World/auto-loot.html" target="blank">Auto Loot</a></li>
-<li><a href="/ru/features/World/auto-seelie.html" target="blank">Auto Seelie</a></li>
-<li><a href="/ru/features/World/auto-talk.html" target="blank">Auto Talk</a></li>
-<li><a href="/ru/features/World/auto-tree-farm.html" target="blank">Auto Tree Farm</a></li>
-<li><a href="/ru/features/World/elemental-aura.html" target="blank">Elemental Aura</a></li>
-<li><a href="/ru/features/World/game-speed.html" target="blank">Game Speed</a></li>
-<li><a href="/ru/features/World/kill-aura.html" target="blank">Kill Aura</a></li>
-<li><a href="/ru/features/World/mob-vacuum.html" target="blank">Mob Vacuum</a></li>
-<li><a href="/ru/features/World/vacuum-loot.html" target="blank">Vacuum Loot</a></li>
-</ul>
-]]></content:encoded>
     </item>
     <item>
       <title>ESP</title>
@@ -359,25 +297,25 @@ pass korepi</p>
       <enclosure url="https://korepi.com/assets/images/docs/202312/31-4302.png" type="image/png"/>
     </item>
     <item>
-      <title>Список Ошибок</title>
+      <title></title>
       <link>https://korepi.com/ru/troubleshoot/</link>
       <guid>https://korepi.com/ru/troubleshoot/</guid>
-      <source url="https://korepi.com/ru/rss.xml">Список Ошибок</source>
-      <description>КаталогFAQ (faq.md); Список частых ошибок (faq-error.md); Как решить ошибку 31-4302 (31-4302.md);</description>
-      <category>Устранение Неполадок</category>
+      <source url="https://korepi.com/ru/rss.xml"></source>
+      <description>&amp;lt; HEAD title: Список Ошибок icon: book category: Устранение Неполадок; tag: Начало; author: name: &amp;quot;QweRez&amp;quot; url: &amp;quot;https://github.com/qwerezon/&amp;quot; 698be1a19a5c858479e9933b1a9e58800d...</description>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Каталог</h2>
+      <content:encoded><![CDATA[<h2> &lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD</h2>
+<p>title: Список Ошибок
+icon: book
+category:</p>
 <ul>
-<li>
-<p><a href="/ru/troubleshoot/faq.html" target="blank">FAQ</a></p>
-</li>
-<li>
-<p><a href="/ru/troubleshoot/faq-error.html" target="blank">Список частых ошибок</a></p>
-</li>
-<li>
-<p><a href="/ru/troubleshoot/31-4302.html" target="blank">Как решить ошибку 31-4302</a></p>
-</li>
+<li>Устранение Неполадок
+tag:</li>
+<li>Начало
+author:
+name: "QweRez"
+url: "https://github.com/qwerezon/"</li>
 </ul>
+<hr>
 ]]></content:encoded>
     </item>
     <item>
@@ -870,34 +808,34 @@ P.s Я использую значение в 35 больше года by QweRez
 ]]></content:encoded>
     </item>
     <item>
-      <title>0culi Teleport</title>
+      <title>Тп по Окулам</title>
       <link>https://korepi.com/ru/features/Teleport/0culi-teleport.html</link>
       <guid>https://korepi.com/ru/features/Teleport/0culi-teleport.html</guid>
-      <source url="https://korepi.com/ru/rss.xml">0culi Teleport</source>
-      <description>Oculi Teleport will teleport the player to the nearest rendered oculi location when the hotkey is pressed. Note: Wait &amp;gt;15s between teleports for safety. Example Video:</description>
+      <source url="https://korepi.com/ru/rss.xml">Тп по Окулам</source>
+      <description>Oculi Teleport телепортирует игрока в ближайшее отображаемое местоположение Окула при нажатии горячей клавиши. Примечание: Подождите &amp;quot;&amp;gt;15 секунд&amp;quot; между телепортациями в целях б...</description>
       <category>Features</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Oculi Teleport will teleport the player to the nearest rendered oculi location when the hotkey is pressed.</h2>
+      <content:encoded><![CDATA[<h2> Oculi Teleport телепортирует игрока в ближайшее отображаемое местоположение Окула при нажатии горячей клавиши.</h2>
 <blockquote>
-<p>Note: Wait <code>&gt;15s</code> between teleports for safety.</p>
+<p>Примечание: Подождите "&gt;15 секунд" между телепортациями в целях безопасности.</p>
 </blockquote>
-<h2> Example Video:</h2>
+<h2> Пример Видео:</h2>
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/j2Yu31J7Yh4?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Oculi/ChestTeleport" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 ]]></content:encoded>
     </item>
     <item>
-      <title>Chest Teleport</title>
+      <title>Кастомный Телепорт</title>
       <link>https://korepi.com/ru/features/Teleport/chest-teleport.html</link>
       <guid>https://korepi.com/ru/features/Teleport/chest-teleport.html</guid>
-      <source url="https://korepi.com/ru/rss.xml">Chest Teleport</source>
-      <description>Chest Teleport will teleport the player to the nearest rendered chest location when the hotkey is pressed. Note: Wait &amp;gt;15s between teleports for safety. Example Video:</description>
+      <source url="https://korepi.com/ru/rss.xml">Кастомный Телепорт</source>
+      <description>Телепорт сундука при нажатии горячей клавиши игрок телепортируется в ближайшее отображаемое местоположение сундука. Примечание: Подождите &amp;quot;&amp;gt;15 секунд&amp;quot; между телепортациями в це...</description>
       <category>Features</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Chest Teleport will teleport the player to the nearest rendered chest location when the hotkey is pressed.</h2>
+      <content:encoded><![CDATA[<h2> Телепорт сундука при нажатии горячей клавиши игрок телепортируется в ближайшее отображаемое местоположение сундука.</h2>
 <blockquote>
-<p>Note: Wait <code>&gt;15s</code> between teleports for safety.</p>
+<p>Примечание: Подождите "&gt;15 секунд" между телепортациями в целях безопасности.</p>
 </blockquote>
-<h2> Example Video:</h2>
+<h2> Пример Видео:</h2>
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/j2Yu31J7Yh4?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Oculi/ChestTeleport" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 ]]></content:encoded>
     </item>
@@ -906,47 +844,47 @@ P.s Я использую значение в 35 больше года by QweRez
       <link>https://korepi.com/ru/features/Teleport/custom-teleport.html</link>
       <guid>https://korepi.com/ru/features/Teleport/custom-teleport.html</guid>
       <source url="https://korepi.com/ru/rss.xml">Custom Teleport</source>
-      <description>Custom Teleport: Allows the player to teleport to a selected location designed by a .json file. Interpolation Speed:Controls the teleportation animation speed, set to 0.1 to av...</description>
+      <description>Пользовательская телепортация: Позволяет игроку телепортироваться в выбранное местоположение, созданное с помощью файла .json. Скорость интерполяции: Управляет скоростью анимаци...</description>
       <category>Features</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Custom Teleport: Allows the player to teleport to a selected location designed by a <code>.json</code> file.</h2>
-<h3> Interpolation Speed:</h3>
+      <content:encoded><![CDATA[<h2> Пользовательская телепортация: Позволяет игроку телепортироваться в выбранное местоположение, созданное с помощью файла <code>.json</code>.</h2>
+<h3> Скорость интерполяции:</h3>
 <ul>
-<li>Controls the teleportation animation speed, set to <code>0.1</code> to avoid issues.</li>
+<li>Управляет скоростью анимации телепортации, установленной на <code>0.1</code>, чтобы избежать проблем.</li>
 </ul>
-<h3> Auto Teleport:</h3>
+<h3> Автоматическая телепортация:</h3>
 <ul>
-<li>Teleports automatically following the order of the provided <code>.json</code> files.
+<li>Телепортируется автоматически в соответствии с порядком предоставленных файлов <code>.json</code>.
 <ul>
-<li>Teleport Next: Teleports to next location after pressing the selected hotkey.</li>
-<li>Teleport Previous: Teleports to previous location after pressing the selected hotkey.</li>
+<li>Телепортировать следующий: Телепортируется в следующее местоположение после нажатия выбранной горячей клавиши.</li>
+<li>Телепортировать предыдущий: Телепортируется в предыдущее местоположение после нажатия выбранной горячей клавиши.</li>
 </ul>
 </li>
 </ul>
 <blockquote>
-<p>Note: Recommended to set above <code>15s</code> for safety.</p>
+<p>Примечание: Рекомендуется устанавливать значение выше <code>15 секунд</code> в целях безопасности.</p>
 </blockquote>
-<h1> You can find out more on how to use this feature <a href="/ru/guide/custom-tp-setting.html" target="blank">here</a></h1>
+<h1> Вы можете узнать больше о том, как использовать эту функцию <a href="/ru/guide/custom-tp-setting.html" target="blank">здесь</a></h1>
 ]]></content:encoded>
     </item>
     <item>
-      <title>Map Teleport</title>
+      <title>Тп по карте</title>
       <link>https://korepi.com/ru/features/Teleport/map-teleport.html</link>
       <guid>https://korepi.com/ru/features/Teleport/map-teleport.html</guid>
-      <source url="https://korepi.com/ru/rss.xml">Map Teleport</source>
-      <description>Map Teleport allows you to teleport to anywhere on the map.To use map teleport you have to enable it, and select the hotkey you going to use.; To teleport, hold the hotkey whi...</description>
+      <source url="https://korepi.com/ru/rss.xml">Тп по карте</source>
+      <description>Map Teleport позволяет вам телепортироваться в любую точку карты. Чтобы использовать map teleport, вы должны включить его и выбрать горячую клавишу, которую собираетесь использо...</description>
       <category>Features</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Map Teleport allows you to teleport to anywhere on the map.</h2>
+      <content:encoded><![CDATA[<h2> Map Teleport позволяет вам телепортироваться в любую точку карты.</h2>
 <ul>
-<li>To use map teleport you have to enable it, and select the hotkey you going to use.</li>
-<li>To teleport, hold the hotkey while having the map opened and click on where you want to teleport.</li>
+<li>Чтобы использовать map teleport, вы должны включить его и выбрать горячую клавишу, которую собираетесь использовать.</li>
+<li>Чтобы телепортироваться, удерживайте горячую клавишу, пока открыта карта, и нажмите на то место, куда вы хотите телепортироваться.</li>
 </ul>
-<h3> Fast Teleport (<span style="color:yellow;">Sponsor</span>):</h3>
+<h3> Быстрая телепортация (<span style="color:yellow;">Спонсор</span>):</h3>
 <ul>
-<li>Disables the loading screen within the selected distance while teleporting.</li>
+<li>Отключает экран загрузки в пределах выбранного расстояния во время телепортации.</li>
 </ul>
-<h2> Example Video:</h2>
+<h2> Пример видео:</h2>
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/Xm3mTEbIE9g?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Map TP/Fast TP" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 ]]></content:encoded>
     </item>
@@ -955,14 +893,14 @@ P.s Я использую значение в 35 больше года by QweRez
       <link>https://korepi.com/ru/features/Teleport/quest-teleport.html</link>
       <guid>https://korepi.com/ru/features/Teleport/quest-teleport.html</guid>
       <source url="https://korepi.com/ru/rss.xml">Quest Teleport</source>
-      <description>Quest Teleports allows you to teleport to the current on-going quest location.To use this feature, you must click your navigation hotkey first and then click on quest teleport ...</description>
+      <description>Quest Teleports позволяет вам телепортироваться в текущее местоположение выполняемого задания. Чтобы использовать эту функцию, вы должны сначала выбрать квест, а затем нажать го...</description>
       <category>Features</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Quest Teleports allows you to teleport to the current on-going quest location.</h2>
+      <content:encoded><![CDATA[<h2> Quest Teleports позволяет вам телепортироваться в текущее местоположение выполняемого задания.</h2>
 <ul>
-<li>To use this feature, you must click your navigation hotkey first and then click on quest teleport hotkey.</li>
+<li>Чтобы использовать эту функцию, вы должны сначала выбрать квест, а затем нажать горячую клавишу quest teleport.</li>
 </ul>
-<h2> Example Video:</h2>
+<h2> Пример видео:</h2>
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/HNdQu39G2Tc?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - QuestTP" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 ]]></content:encoded>
     </item>
@@ -971,10 +909,10 @@ P.s Я использую значение в 35 больше года by QweRez
       <link>https://korepi.com/ru/features/Visuals/animation-changer.html</link>
       <guid>https://korepi.com/ru/features/Visuals/animation-changer.html</guid>
       <source url="https://korepi.com/ru/rss.xml">Animation Changer</source>
-      <description>Animation Changer, allows the player to change their current character animation to the selected one.</description>
+      <description>Средство смены анимации, позволяющее игроку изменить текущую анимацию персонажа на выбранную.</description>
       <category>Features</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Animation Changer, allows the player to change their current character animation to the selected one.</h2>
+      <content:encoded><![CDATA[<h2> Средство смены анимации, позволяющее игроку изменить текущую анимацию персонажа на выбранную.</h2>
 ]]></content:encoded>
     </item>
     <item>
@@ -982,10 +920,10 @@ P.s Я использую значение в 35 больше года by QweRez
       <link>https://korepi.com/ru/features/Visuals/camera-zoom.html</link>
       <guid>https://korepi.com/ru/features/Visuals/camera-zoom.html</guid>
       <source url="https://korepi.com/ru/rss.xml">Camera Zoom</source>
-      <description>Camera zoom allows the user to change their camera zoom to their desired value.</description>
+      <description>Масштабирование камеры позволяет пользователю изменять масштаб своей камеры до желаемого значения.</description>
       <category>Features</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Camera zoom allows the user to change their camera zoom to their desired value.</h2>
+      <content:encoded><![CDATA[<h2> Масштабирование камеры позволяет пользователю изменять масштаб своей камеры до желаемого значения.</h2>
 ]]></content:encoded>
     </item>
     <item>
@@ -993,21 +931,18 @@ P.s Я использую значение в 35 больше года by QweRez
       <link>https://korepi.com/ru/features/Visuals/constellation-modifier.html</link>
       <guid>https://korepi.com/ru/features/Visuals/constellation-modifier.html</guid>
       <source url="https://korepi.com/ru/rss.xml">Constellation Modifier</source>
-      <description>::: info Sponsor Only ::: Constellation Modifier, will change your active character constellations if selected, visually and some of them will actually work.You can find more i...</description>
+      <description>::: Вы можете найти более подробную информацию о том, какие из них работают, в разделе &amp;quot;#cons-check&amp;quot; на сервере. ; ::: совет: Вам нужно сначала переключиться на каждого персонаж...</description>
       <category>Features</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
-      <content:encoded><![CDATA[<div class="hint-container info">
-<p class="hint-container-title">Sponsor Only</p>
-</div>
-<hr>
-<h2> Constellation Modifier, will change your active character constellations if selected, visually and some of them will actually work.</h2>
+      <content:encoded><![CDATA[<h2> ::: Спонсор
+:::</h2>
+<h1> Модификатор # Constellation, если он выбран, визуально изменит созвездия ваших активных персонажей, и некоторые из них действительно будут работать.</h1>
 <ul>
-<li>You can find more information about which of them work at <code>#⁠cons-check</code> in the server.</li>
+<li>Вы можете найти более подробную информацию о том, какие из них работают, в разделе "#cons-check" на сервере.</li>
 </ul>
-<div class="hint-container tip">
-<p class="hint-container-title">You have to switch to each character you want to activate the constellations first and then teleport far away to activate them.</p>
-</div>
-<h2> Example Video:</h2>
+<p>::: совет: Вам нужно сначала переключиться на каждого персонажа, которого вы хотите активировать, а затем телепортироваться подальше, чтобы активировать их.
+:::</p>
+<h2> Пример видео:</h2>
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/S9-g5weE9l8?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Constellation Modifier (Sponsor)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 ]]></content:encoded>
     </item>
@@ -1016,37 +951,37 @@ P.s Я использую значение в 35 больше года by QweRez
       <link>https://korepi.com/ru/features/Visuals/custom-profile.html</link>
       <guid>https://korepi.com/ru/features/Visuals/custom-profile.html</guid>
       <source url="https://korepi.com/ru/rss.xml">Custom Profile</source>
-      <description>Custom Profile: UID:Select the UID you want to be displayed.; Nickname:Select the Nickname you want to be displayed.; Level:Select the Level you want to be displayed.; EXP:S...</description>
+      <description>Пользовательский профиль: UID: Выберите UID, который вы хотите отобразить.; Ник: Выберите ник, который вы хотите отобразить.; Уровень: Выберите уровень, который вы хотите отобра...</description>
       <category>Features</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Custom Profile:</h2>
+      <content:encoded><![CDATA[<h2> Пользовательский профиль:</h2>
 <h3> UID:</h3>
 <ul>
-<li>Select the UID you want to be displayed.</li>
+<li>Выберите UID, который вы хотите отобразить.</li>
 </ul>
-<h3> Nickname:</h3>
+<h3> Ник:</h3>
 <ul>
-<li>Select the Nickname you want to be displayed.</li>
+<li>Выберите ник, который вы хотите отобразить.</li>
 </ul>
-<h3> Level:</h3>
+<h3> Уровень:</h3>
 <ul>
-<li>Select the Level you want to be displayed.</li>
+<li>Выберите уровень, который вы хотите отобразить.</li>
 </ul>
-<h3> EXP:</h3>
+<h3> Опыт:</h3>
 <ul>
-<li>Select the EXP you want to be displayed.</li>
+<li>Выберите опыт, который вы хотите отобразить.</li>
 </ul>
-<h3> World Level:</h3>
+<h3> Уровень мира:</h3>
 <ul>
-<li>Select the World Level you want to be displayed.</li>
+<li>Выберите уровень мира, который вы хотите отобразить.</li>
 </ul>
-<h3> Avatar Image:</h3>
+<h3> Изображение аватара:</h3>
 <ul>
-<li>Use a custom png as avatar image.</li>
+<li>Используйте пользовательский png в качестве изображения аватара.</li>
 </ul>
-<h3> Card Image:</h3>
+<h3> Изображение карточки:</h3>
 <ul>
-<li>Use a custom png as card image.</li>
+<li>Используйте пользовательский png в качестве изображения карточки.</li>
 </ul>
 ]]></content:encoded>
     </item>
@@ -1055,10 +990,10 @@ P.s Я использую значение в 35 больше года by QweRez
       <link>https://korepi.com/ru/features/Visuals/custom-weather.html</link>
       <guid>https://korepi.com/ru/features/Visuals/custom-weather.html</guid>
       <source url="https://korepi.com/ru/rss.xml">Custom Weather</source>
-      <description>Custom Wether allows you to change the weather to your liking.</description>
+      <description>Пользовательская погода позволяет вам изменять погоду по своему вкусу.</description>
       <category>Features</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Custom Wether allows you to change the weather to your liking.</h2>
+      <content:encoded><![CDATA[<h2> Пользовательская погода позволяет вам изменять погоду по своему вкусу.</h2>
 ]]></content:encoded>
     </item>
     <item>
@@ -1066,10 +1001,10 @@ P.s Я использую значение в 35 больше года by QweRez
       <link>https://korepi.com/ru/features/Visuals/emotion-changer.html</link>
       <guid>https://korepi.com/ru/features/Visuals/emotion-changer.html</guid>
       <source url="https://korepi.com/ru/rss.xml">Emotion Changer</source>
-      <description>Emotion Changer allows the player to change the current character emotion to the selected one.</description>
+      <description>Средство смены эмоций позволяет игроку изменить текущую эмоцию персонажа на выбранную.</description>
       <category>Features</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Emotion Changer allows the player to change the current character emotion to the selected one.</h2>
+      <content:encoded><![CDATA[<h2> Средство смены эмоций позволяет игроку изменить текущую эмоцию персонажа на выбранную.</h2>
 ]]></content:encoded>
     </item>
     <item>
@@ -1077,21 +1012,21 @@ P.s Я использую значение в 35 больше года by QweRez
       <link>https://korepi.com/ru/features/Visuals/extra-visual-settings.html</link>
       <guid>https://korepi.com/ru/features/Visuals/extra-visual-settings.html</guid>
       <source url="https://korepi.com/ru/rss.xml">Extra Visual Settings</source>
-      <description>Extra Visual Settings: Gamma:Allows you to change the gamma value of the game.; Outline Width:Allows you to change the outline of every character in the game.; Anti-Aliasing:...</description>
+      <description>Дополнительные визуальные настройки: Яркость: Позволяет изменять значение яркости в игре.; Ширина контура: Позволяет изменять контур каждого персонажа в игре.; Сглаживание: Позв...</description>
       <category>Features</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Extra Visual Settings:</h2>
-<h3> Gamma:</h3>
+      <content:encoded><![CDATA[<h2> Дополнительные визуальные настройки:</h2>
+<h3> Яркость:</h3>
 <ul>
-<li>Allows you to change the gamma value of the game.</li>
+<li>Позволяет изменять значение яркости в игре.</li>
 </ul>
-<h3> Outline Width:</h3>
+<h3> Ширина контура:</h3>
 <ul>
-<li>Allows you to change the outline of every character in the game.</li>
+<li>Позволяет изменять контур каждого персонажа в игре.</li>
 </ul>
-<h3> Anti-Aliasing:</h3>
+<h3> Сглаживание:</h3>
 <ul>
-<li>Allows the player to change the anti-aliasing module to use, including some that are not available natively.</li>
+<li>Позволяет проигрывателю изменить используемый модуль сглаживания, включая некоторые, которые недоступны изначально.</li>
 </ul>
 ]]></content:encoded>
     </item>
@@ -1100,12 +1035,12 @@ P.s Я использую значение в 35 больше года by QweRez
       <link>https://korepi.com/ru/features/Visuals/fake-time.html</link>
       <guid>https://korepi.com/ru/features/Visuals/fake-time.html</guid>
       <source url="https://korepi.com/ru/rss.xml">Fake Time</source>
-      <description>Fake Time:Changes in game time, hour and minutes.;</description>
+      <description>Фальшивое время: Изменения в игровом времени, часах и минутах.;</description>
       <category>Features</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Fake Time:</h2>
+      <content:encoded><![CDATA[<h2> Фальшивое время:</h2>
 <ul>
-<li>Changes in game time, hour and minutes.</li>
+<li>Изменения в игровом времени, часах и минутах.</li>
 </ul>
 ]]></content:encoded>
     </item>
@@ -1114,10 +1049,10 @@ P.s Я использую значение в 35 больше года by QweRez
       <link>https://korepi.com/ru/features/Visuals/flycloak-modifier.html</link>
       <guid>https://korepi.com/ru/features/Visuals/flycloak-modifier.html</guid>
       <source url="https://korepi.com/ru/rss.xml">Flycloak Modifier</source>
-      <description>Flycloak Modifier allow the player to change their glider skin even if they don&amp;apos;t own it.</description>
+      <description>Смена скина крыльев позволяет игроку менять скин крыльев, даже если их у него нету.</description>
       <category>Features</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Flycloak Modifier allow the player to change their glider skin even if they don't own it.</h2>
+      <content:encoded><![CDATA[<h2> Смена скина крыльев позволяет игроку менять скин крыльев, даже если их у него нету.</h2>
 ]]></content:encoded>
     </item>
     <item>
@@ -1125,13 +1060,17 @@ P.s Я использую значение в 35 больше года by QweRez
       <link>https://korepi.com/ru/features/Visuals/fps-unlock.html</link>
       <guid>https://korepi.com/ru/features/Visuals/fps-unlock.html</guid>
       <source url="https://korepi.com/ru/rss.xml">FPS Unlock</source>
-      <description>Unlocks FPS.Unlocks FPS yeah.Unlocks FPS wow. Limit background FPS:Set the max fps game can reach when its not focused.;</description>
+      <description>Разблокирует FPS.Разблокирует FPS yeah.Разблокирует FPS wow. Ограничьте фоновый FPS: - Установите максимальный fps, которого может достичь игра, когда она не сфокусирована.;</description>
       <category>Features</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Unlocks FPS.Unlocks FPS yeah.Unlocks FPS wow.</h2>
-<h3> Limit background FPS:</h3>
+      <content:encoded><![CDATA[<h2> Разблокирует FPS.Разблокирует FPS yeah.Разблокирует FPS wow.</h2>
+<h3> Ограничьте фоновый FPS:</h3>
 <ul>
-<li>Set the max fps game can reach when its not focused.</li>
+<li>
+<ul>
+<li>Установите максимальный fps, которого может достичь игра, когда она не сфокусирована.</li>
+</ul>
+</li>
 </ul>
 ]]></content:encoded>
     </item>
@@ -1140,24 +1079,28 @@ P.s Я использую значение в 35 больше года by QweRez
       <link>https://korepi.com/ru/features/Visuals/free-camera.html</link>
       <guid>https://korepi.com/ru/features/Visuals/free-camera.html</guid>
       <source url="https://korepi.com/ru/rss.xml">Free Camera</source>
-      <description>Free Camera:Move the camera freely without being locked to the character.; Freeze Character Animation:Freezes character animations.; Make Character Invisible:Makes character ...</description>
+      <description>Свободная камера: Свободно перемещать камеру, не привязывая ее к персонажу.; Заморозить анимацию персонажа: Замораживает анимацию персонажа.; Сделать персонажа невидимым: Делает...</description>
       <category>Features</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Free Camera:</h2>
+      <content:encoded><![CDATA[<h2> Свободная камера:</h2>
 <ul>
-<li>Move the camera freely without being locked to the character.</li>
+<li>Свободно перемещать камеру, не привязывая ее к персонажу.</li>
 </ul>
-<h3> Freeze Character Animation:</h3>
+<h3> Заморозить анимацию персонажа:</h3>
 <ul>
-<li>Freezes character animations.</li>
+<li>Замораживает анимацию персонажа.</li>
 </ul>
-<h3> Make Character Invisible:</h3>
+<h3> Сделать персонажа невидимым:</h3>
 <ul>
-<li>Makes character invisible.</li>
+<li>Делает персонажа невидимым.</li>
 </ul>
-<h3> Block User Input:</h3>
+<h3> Заблокировать пользовательский ввод:</h3>
 <ul>
-<li>Blocks user input therefore character wont move while moving the camera.</li>
+<li>
+<ul>
+<li>Блокирует пользовательский ввод, поэтому персонаж не будет двигаться при перемещении камеры.</li>
+</ul>
+</li>
 </ul>
 ]]></content:encoded>
     </item>
@@ -1166,24 +1109,24 @@ P.s Я использую значение в 35 больше года by QweRez
       <link>https://korepi.com/ru/features/Visuals/hide-ui.html</link>
       <guid>https://korepi.com/ru/features/Visuals/hide-ui.html</guid>
       <source url="https://korepi.com/ru/rss.xml">Hide UI</source>
-      <description>Hide UI:Hides player user interface entirely.; Hide Ping: (Sponsor)Hides ping only.; Hide HP Bar: (Sponsor)Hides current character HP bar only.; Hide Team HP Bar: (Sponsor)H...</description>
+      <description>Скрыть пользовательский интерфейс: Полностью скрывает пользовательский интерфейс игрока.; Скрыть пинг: (Спонсор) Скрывает только пинг.; Скрыть панель HP: (Спонсор) Скрывает толь...</description>
       <category>Features</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Hide UI:</h2>
+      <content:encoded><![CDATA[<h2> Скрыть пользовательский интерфейс:</h2>
 <ul>
-<li>Hides player user interface entirely.</li>
+<li>Полностью скрывает пользовательский интерфейс игрока.</li>
 </ul>
-<h3> Hide Ping: (<span style="color:yellow;">Sponsor</span>)</h3>
+<h3> Скрыть пинг: (<span style="color:yellow;">Спонсор</span>)</h3>
 <ul>
-<li>Hides ping only.</li>
+<li>Скрывает только пинг.</li>
 </ul>
-<h3> Hide HP Bar: (<span style="color:yellow;">Sponsor</span>)</h3>
+<h3> Скрыть панель HP: (<span style="color:yellow;">Спонсор</span>)</h3>
 <ul>
-<li>Hides current character HP bar only.</li>
+<li>Скрывает только панель HP текущего персонажа.</li>
 </ul>
-<h3> Hide Team HP Bar: (<span style="color:yellow;">Sponsor</span>)</h3>
+<h3> Скрыть панель HP команды: (<span style="color:yellow;">Спонсор</span>)</h3>
 <ul>
-<li>Hides team hp bar on the character tab only.</li>
+<li>Скрывает панель здоровья команды только на вкладке персонажа.</li>
 </ul>
 ]]></content:encoded>
     </item>
@@ -1192,10 +1135,10 @@ P.s Я использую значение в 35 больше года by QweRez
       <link>https://korepi.com/ru/features/Visuals/map-zoom.html</link>
       <guid>https://korepi.com/ru/features/Visuals/map-zoom.html</guid>
       <source url="https://korepi.com/ru/rss.xml">Map Zoom</source>
-      <description>Map Zoom modifies the values to be used in the map.</description>
+      <description>Масштабирование карты изменяет значения, которые будут использоваться на карте.</description>
       <category>Features</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Map Zoom modifies the values to be used in the map.</h2>
+      <content:encoded><![CDATA[<h2> Масштабирование карты изменяет значения, которые будут использоваться на карте.</h2>
 ]]></content:encoded>
     </item>
     <item>
@@ -1203,24 +1146,24 @@ P.s Я использую значение в 35 больше года by QweRez
       <link>https://korepi.com/ru/features/Visuals/monster-changer.html</link>
       <guid>https://korepi.com/ru/features/Visuals/monster-changer.html</guid>
       <source url="https://korepi.com/ru/rss.xml">Monster Changer</source>
-      <description>Monster Changer:When enabled, all new rendered monsters will be changed visually to the selected monster.; Exclude Animals:Enable or Disable changing animals.; Custom Monster ...</description>
+      <description>Средство смены монстров: При включении все новые визуализированные монстры будут визуально изменены на выбранного монстра.; Исключить животных: Включить или отключить изменение ...</description>
       <category>Features</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Monster Changer:</h2>
+      <content:encoded><![CDATA[<h2> Средство смены монстров:</h2>
 <ul>
-<li>When enabled, all new rendered monsters will be changed visually to the selected monster.</li>
+<li>При включении все новые визуализированные монстры будут визуально изменены на выбранного монстра.</li>
 </ul>
-<h3> Exclude Animals:</h3>
+<h3> Исключить животных:</h3>
 <ul>
-<li>Enable or Disable changing animals.</li>
+<li>Включить или отключить изменение животных.</li>
 </ul>
-<h3> Custom Monster ID:</h3>
+<h3> Пользовательский идентификатор монстра:</h3>
 <ul>
-<li>Use ID instead of the provided list.</li>
+<li>Используйте идентификатор вместо предоставленного списка.</li>
 </ul>
-<h3> Randomize Monster:</h3>
+<h3> Рандомизировать монстра:</h3>
 <ul>
-<li>The change will be random.</li>
+<li>Изменение будет случайным.</li>
 </ul>
 ]]></content:encoded>
     </item>
@@ -1229,26 +1172,26 @@ P.s Я использую значение в 35 больше года by QweRez
       <link>https://korepi.com/ru/features/Visuals/others.html</link>
       <guid>https://korepi.com/ru/features/Visuals/others.html</guid>
       <source url="https://korepi.com/ru/rss.xml">Others</source>
-      <description>Other Features: Show Chest Indicator Enable Peeking No Black Screen No fog No grass No map fog Paimon Follow Dolphin Dive GM Icon Menu Unlocker Sponsor Only No Camera Blur No Ca...</description>
+      <description>Другие функции: Показать индикатор сундуков Включить подглядывание :&amp;gt; Нет черного экрана Нет тумана Нет травы Нет тумана на карте Паймоном всегда рядом Dolphin Dive GM Icon Разб...</description>
       <category>Features</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Other Features:</h2>
-<h3> Show Chest Indicator</h3>
-<h3> Enable Peeking</h3>
-<h3> No Black Screen</h3>
-<h3> No fog</h3>
-<h3> No grass</h3>
-<h3> No map fog</h3>
-<h3> Paimon Follow</h3>
+      <content:encoded><![CDATA[<h2> Другие функции:</h2>
+<h3> Показать индикатор сундуков</h3>
+<h3> Включить подглядывание :&gt;</h3>
+<h3> Нет черного экрана</h3>
+<h3> Нет тумана</h3>
+<h3> Нет травы</h3>
+<h3> Нет тумана на карте</h3>
+<h3> Паймоном всегда рядом</h3>
 <h3> Dolphin Dive</h3>
 <h3> GM Icon</h3>
-<h3> Menu Unlocker</h3>
-<h2> <span style="color:yellow;">Sponsor Only</span></h2>
-<h3> No Camera Blur</h3>
-<h3> No Camera Shake</h3>
-<h3> No Footprints</h3>
+<h3> Разблокировка меню</h3>
+<h2> <span style="color:yellow;">Только для спонсоров</span></h2>
+<h3> Нет размытия камеры</h3>
+<h3> Нет дрожания камеры</h3>
+<h3> Нет следов ног</h3>
 <h3> No Burst Animation</h3>
-<h2> Example Video:</h2>
+<h2> Пример видео:</h2>
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/AjkJ8S8NHsI?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Visuals/Other" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>]]></content:encoded>
     </item>
     <item>
@@ -1256,10 +1199,10 @@ P.s Я использую значение в 35 больше года by QweRez
       <link>https://korepi.com/ru/features/Visuals/skin-modifier.html</link>
       <guid>https://korepi.com/ru/features/Visuals/skin-modifier.html</guid>
       <source url="https://korepi.com/ru/rss.xml">Skin Modifier</source>
-      <description>Skin Modifier allows the player to use in-game skins for free.</description>
+      <description>Модификатор скина позволяет игроку бесплатно использовать внутриигровые скины.</description>
       <category>Features</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Skin Modifier allows the player to use in-game skins for free.</h2>
+      <content:encoded><![CDATA[<h2> Модификатор скина позволяет игроку бесплатно использовать внутриигровые скины.</h2>
 ]]></content:encoded>
     </item>
     <item>
@@ -1267,14 +1210,12 @@ P.s Я использую значение в 35 больше года by QweRez
       <link>https://korepi.com/ru/features/Visuals/texture-changer.html</link>
       <guid>https://korepi.com/ru/features/Visuals/texture-changer.html</guid>
       <source url="https://korepi.com/ru/rss.xml">Texture Changer</source>
-      <description>::: info Its better to use GIMI (../../guide/3DM-tutorial.md) for changing textures. ::: Texture Changer allows to switch character parts to the provided .png files.</description>
+      <description>Для изменения текстур лучше использовать GIMI (../../guide/3DM-tutorial.md). Texture Changer позволяет переключать части персонажей в предоставленные файлы .png.</description>
       <category>Features</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
-      <content:encoded><![CDATA[<div class="hint-container info">
-<p class="hint-container-title">Its better to use [GIMI](../../guide/3DM-tutorial.md) for changing textures.</p>
-</div>
-<hr>
-<h2> Texture Changer allows to switch character parts to the provided .png files.</h2>
+      <content:encoded><![CDATA[<h2> ::: информация Для изменения текстур лучше использовать <a href="/ru/guide/3DM-tutorial.html" target="blank">GIMI</a>.
+:::</h2>
+<h2> Texture Changer позволяет переключать части персонажей в предоставленные файлы .png.</h2>
 ]]></content:encoded>
     </item>
     <item>
@@ -1282,15 +1223,13 @@ P.s Я использую значение в 35 больше года by QweRez
       <link>https://korepi.com/ru/features/World/auto-activate-tp.html</link>
       <guid>https://korepi.com/ru/features/World/auto-activate-tp.html</guid>
       <source url="https://korepi.com/ru/rss.xml">Auto Activate Teleport</source>
-      <description>::: info Sponsor Only ::: Auto Activate Teleport activates nearby waypoints up to 50m. Example Video:</description>
+      <description>Автоматическая активация телепорта активирует близлежащие телепорты на расстоянии до 50 м. Пример видео:</description>
       <category>Features</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
-      <content:encoded><![CDATA[<div class="hint-container info">
-<p class="hint-container-title">Sponsor Only</p>
-</div>
-<hr>
-<h3> Auto Activate Teleport activates nearby waypoints up to 50m.</h3>
-<h2> Example Video:</h2>
+      <content:encoded><![CDATA[<h2> ::: Спонсор
+:::</h2>
+<h3> Автоматическая активация телепорта активирует близлежащие телепорты на расстоянии до 50 м.</h3>
+<h2> Пример видео:</h2>
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/qstBErr9mJ0?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - AutoActivateTP (Sponsor)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 ]]></content:encoded>
     </item>
@@ -1315,11 +1254,11 @@ P.s Я использую значение в 35 больше года by QweRez
       <link>https://korepi.com/ru/features/World/auto-cook.html</link>
       <guid>https://korepi.com/ru/features/World/auto-cook.html</guid>
       <source url="https://korepi.com/ru/rss.xml">Auto Cook</source>
-      <description>Auto Cook lets you cook a specified quantity and quality of the selected food on the cooking page, it counts with an auto proficiency (Auto unlock auto cook) built-in. Example V...</description>
+      <description>Автоматическая готовка позволяет вам приготовить указанное количество и качество выбранных блюд на странице приготовления, это учитывается при использовании встроенной функции а...</description>
       <category>Features</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
-      <content:encoded><![CDATA[<h3> Auto Cook lets you cook a specified quantity and quality of the selected food on the cooking page, it counts with an auto proficiency (Auto unlock auto cook) built-in.</h3>
-<h2> Example Video:</h2>
+      <content:encoded><![CDATA[<h3> Автоматическая готовка позволяет вам приготовить указанное количество и качество выбранных блюд на странице приготовления, это учитывается при использовании встроенной функции автоматического приготовления (Auto unlock auto cook).</h3>
+<h2> Пример видео:</h2>
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/T_X13AXiAiY?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Cook" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 ]]></content:encoded>
     </item>
@@ -1609,7 +1548,6 @@ Note 2: Not recommended to use.</p>
 <ul>
 <li>qwerezon</li>
 <li>butterbrodskiy</li>
-<li>ezizfrostik</li>
 </ul>
 </div>
 ]]></content:encoded>
@@ -1631,28 +1569,8 @@ Note 2: Not recommended to use.</p>
       <link>https://korepi.com/ru/start/</link>
       <guid>https://korepi.com/ru/start/</guid>
       <source url="https://korepi.com/ru/rss.xml">Каталог</source>
-      <description>КаталогПрисоединение к серверу (join.md): Как присоединиться к нашему серверу и начать играть.; Верификация (verify.md): Процесс верификации для обеспечения безопасности на се...</description>
       <category>Гайд</category>
       <pubDate>Fri, 24 Nov 2023 14:31:46 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Каталог</h2>
-<ul>
-<li>
-<p><a href="/ru/start/join.html" target="blank">Присоединение к серверу</a>: Как присоединиться к нашему серверу и начать играть.</p>
-</li>
-<li>
-<p><a href="/ru/start/verify.html" target="blank">Верификация</a>: Процесс верификации для обеспечения безопасности на сервере.</p>
-</li>
-<li>
-<p><a href="/ru/start/sign-in.html" target="blank">Получение роли Fans</a>: Инструкции по получению роли Fans на сервере.</p>
-</li>
-<li>
-<p><a href="/ru/start/sponsor.html" target="blank">Становление спонсором</a>: Информация о том, как поддержать нас и стать спонсором.</p>
-</li>
-<li>
-<p><a href="/ru/start/download.html" target="blank">Скачивание</a>: Информация о том, как поддержать нас и стать спонсором.</p>
-</li>
-</ul>
-]]></content:encoded>
     </item>
     <item>
       <title>Присоединение к серверу</title>
@@ -1727,31 +1645,8 @@ Note 2: Not recommended to use.</p>
       <link>https://korepi.com/ru/guide/</link>
       <guid>https://korepi.com/ru/guide/</guid>
       <source url="https://korepi.com/ru/rss.xml">Гайды</source>
-      <description>КаталогКак получить ключ (getkey.md); Как сбросить hwid (resethwid.md); Как Multi-instance (multi-instance.md); Как использовать кастомные скины (3DM-tutorial.md); Как скач...</description>
       <category>Гайд</category>
       <pubDate>Fri, 24 Nov 2023 11:45:01 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Каталог</h2>
-<ul>
-<li>
-<p><a href="/ru/guide/getkey.html" target="blank">Как получить ключ</a></p>
-</li>
-<li>
-<p><a href="/ru/guide/resethwid.html" target="blank">Как сбросить hwid</a></p>
-</li>
-<li>
-<p><a href="/ru/guide/multi-instance.html" target="blank">Как Multi-instance</a></p>
-</li>
-<li>
-<p><a href="/ru/guide/3DM-tutorial.html" target="blank">Как использовать кастомные скины</a></p>
-</li>
-<li>
-<p><a href="/ru/guide/3DM-skin.html" target="blank">Как скачать скины</a></p>
-</li>
-<li>
-<p><a href="/ru/guide/custom-tp-setting.html" target="blank">Как использовать пользовательский TP</a></p>
-</li>
-</ul>
-]]></content:encoded>
     </item>
   </channel>
 </rss>
