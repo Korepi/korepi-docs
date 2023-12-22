@@ -9,4 +9,4 @@ author: Schvis
 order: 15
 ---
 
-## Skin Modifier allows the player to use in-game skins for free.
+## Модификатор скина позволяет игроку бесплатно использовать внутриигровые скины.

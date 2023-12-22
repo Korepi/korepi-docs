@@ -9,4 +9,4 @@ author: Schvis
 order: 2
 ---
 
-## Camera zoom allows the user to change their camera zoom to their desired value.
+## Масштабирование камеры позволяет пользователю изменять масштаб своей камеры до желаемого значения.

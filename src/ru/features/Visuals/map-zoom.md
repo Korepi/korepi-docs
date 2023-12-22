@@ -9,4 +9,4 @@ author: Schvis
 order: 13
 ---
 
-## Map Zoom modifies the values to be used in the map.
+## Масштабирование карты изменяет значения, которые будут использоваться на карте.
