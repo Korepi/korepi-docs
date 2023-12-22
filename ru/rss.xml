@@ -6,8 +6,8 @@
     <link>https://korepi.com/ru/</link>
     <description>Помощь по Korepi</description>
     <language>ru-RU</language>
-    <pubDate>Fri, 22 Dec 2023 07:13:23 GMT</pubDate>
-    <lastBuildDate>Fri, 22 Dec 2023 07:13:23 GMT</lastBuildDate>
+    <pubDate>Fri, 22 Dec 2023 07:27:01 GMT</pubDate>
+    <lastBuildDate>Fri, 22 Dec 2023 07:27:01 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>FAQ</category>
@@ -297,26 +297,12 @@ pass korepi</p>
       <enclosure url="https://korepi.com/assets/images/docs/202312/31-4302.png" type="image/png"/>
     </item>
     <item>
-      <title></title>
+      <title>Список Ошибок</title>
       <link>https://korepi.com/ru/troubleshoot/</link>
       <guid>https://korepi.com/ru/troubleshoot/</guid>
-      <source url="https://korepi.com/ru/rss.xml"></source>
-      <description>&amp;lt; HEAD title: Список Ошибок icon: book category: Устранение Неполадок; tag: Начало; author: name: &amp;quot;QweRez&amp;quot; url: &amp;quot;https://github.com/qwerezon/&amp;quot; 698be1a19a5c858479e9933b1a9e58800d...</description>
+      <source url="https://korepi.com/ru/rss.xml">Список Ошибок</source>
+      <category>Устранение Неполадок</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> &lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD</h2>
-<p>title: Список Ошибок
-icon: book
-category:</p>
-<ul>
-<li>Устранение Неполадок
-tag:</li>
-<li>Начало
-author:
-name: "QweRez"
-url: "https://github.com/qwerezon/"</li>
-</ul>
-<hr>
-]]></content:encoded>
     </item>
     <item>
       <title>Список Частых Ошибок Инжектора</title>
