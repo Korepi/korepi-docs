@@ -9,11 +9,11 @@ author: Schvis
 order: 14
 ---
 
-## Monster Changer:
-- When enabled, all new rendered monsters will be changed visually to the selected monster.
-### Exclude Animals:
-- Enable or Disable changing animals.
-### Custom Monster ID:
-- Use ID instead of the provided list.
-### Randomize Monster:
-- The change will be random.
+## Средство смены монстров:
+- При включении все новые визуализированные монстры будут визуально изменены на выбранного монстра.
+### Исключить животных:
+- Включить или отключить изменение животных.
+### Пользовательский идентификатор монстра:
+- Используйте идентификатор вместо предоставленного списка.
+### Рандомизировать монстра:
+- Изменение будет случайным.

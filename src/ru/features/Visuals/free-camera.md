@@ -9,11 +9,11 @@ author: Schvis
 order: 11
 ---
 
-## Free Camera:
-- Move the camera freely without being locked to the character.
-### Freeze Character Animation:
-- Freezes character animations.
-### Make Character Invisible:
-- Makes character invisible.
-### Block User Input:
-- Blocks user input therefore character wont move while moving the camera.
+## Свободная камера:
+- Свободно перемещать камеру, не привязывая ее к персонажу.
+### Заморозить анимацию персонажа:
+- Замораживает анимацию персонажа.
+### Сделать персонажа невидимым:
+- Делает персонажа невидимым.
+### Заблокировать пользовательский ввод:
+- - Блокирует пользовательский ввод, поэтому персонаж не будет двигаться при перемещении камеры.

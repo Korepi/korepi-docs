@@ -9,11 +9,11 @@ author: Schvis
 order: 12
 ---
 
-## Hide UI:
-- Hides player user interface entirely.
-### Hide Ping: (<span style='color:yellow;'>Sponsor</span>)
-- Hides ping only.
-### Hide HP Bar: (<span style='color:yellow;'>Sponsor</span>)
-- Hides current character HP bar only.
-### Hide Team HP Bar: (<span style='color:yellow;'>Sponsor</span>)
-- Hides team hp bar on the character tab only.
+## Скрыть пользовательский интерфейс:
+- Полностью скрывает пользовательский интерфейс игрока.
+### Скрыть пинг: (<span style='color:yellow;'>Спонсор</span>)
+- Скрывает только пинг.
+### Скрыть панель HP: (<span style='color:yellow;'>Спонсор</span>)
+- Скрывает только панель HP текущего персонажа.
+### Скрыть панель HP команды: (<span style='color:yellow;'>Спонсор</span>)
+- Скрывает панель здоровья команды только на вкладке персонажа.
