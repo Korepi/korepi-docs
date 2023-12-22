@@ -91,10 +91,10 @@ highlights:
         details: 吸附附近各种怪物
 
   - header: 最新 Bug 修复
-    image: /assets/images/web/功能.svg
+    image: /assets/images/web/features.svg
     bgImage: https://theme-hope-assets.vuejs.press/bg/1-light.svg
     bgImageDark: https://theme-hope-assets.vuejs.press/bg/1-dark.svg
-    功能:
+    features:
       - title: 自动选择对话现在稍快
         icon: comment
         details: 加快了自动选择对话的速度
