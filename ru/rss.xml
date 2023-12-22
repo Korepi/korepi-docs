@@ -6,8 +6,8 @@
     <link>https://korepi.com/ru/</link>
     <description>Помощь по Korepi</description>
     <language>ru-RU</language>
-    <pubDate>Fri, 22 Dec 2023 05:52:29 GMT</pubDate>
-    <lastBuildDate>Fri, 22 Dec 2023 05:52:29 GMT</lastBuildDate>
+    <pubDate>Fri, 22 Dec 2023 06:33:44 GMT</pubDate>
+    <lastBuildDate>Fri, 22 Dec 2023 06:33:44 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>FAQ</category>
@@ -73,7 +73,7 @@
       <link>https://korepi.com/ru/features/</link>
       <guid>https://korepi.com/ru/features/</guid>
       <source url="https://korepi.com/ru/rss.xml">Список Функций</source>
-      <description>Список Функций Player Attack Effects (Player/attack-effects.md); Auto Run (Player/auto-run.md); Bunny Hop (Player/bunny-hop.md); Cooldown Effects (Player/cooldown-effects.md); E...</description>
+      <description>Список Функций PlayerAttack Effects (Player/attack-effects.md); Auto Run (Player/auto-run.md); Bunny Hop (Player/bunny-hop.md); Cooldown Effects (Player/cooldown-effects.md)...</description>
       <category>Особенности</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
       <content:encoded><![CDATA[<h2> Список Функций</h2>
@@ -143,7 +143,7 @@
       <link>https://korepi.com/ru/features/esp.html</link>
       <guid>https://korepi.com/ru/features/esp.html</guid>
       <source url="https://korepi.com/ru/rss.xml">ESP</source>
-      <description>ESP позволяет игроку отслеживать и просматривать выбранные объекты через другие объекты с настраиваемыми визуальными эффектами. Примечание: Диапазон, объекты, визуалы могут быть...</description>
+      <description>ESP позволяет игроку отслеживать и просматривать выбранные объекты через другие объекты с настраиваемыми визуальными эффектами. Примечание: Диапазон, объекты, визуалы могут быт...</description>
       <category>Особенности</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
       <content:encoded><![CDATA[<h2> ESP позволяет игроку отслеживать и просматривать выбранные объекты через другие объекты с настраиваемыми визуальными эффектами.</h2>
@@ -179,7 +179,7 @@ pass korepi</p>
       <link>https://korepi.com/ru/guide/3DM-tutorial.html</link>
       <guid>https://korepi.com/ru/guide/3DM-tutorial.html</guid>
       <source url="https://korepi.com/ru/rss.xml">Как использовать собственные скины</source>
-      <description>Если в Korepi отображается echo off в cmd, вы можете просто нажать Numpad 0, чтобы удалить его, также вы можете отредактировать d3dx.ini и найти hunting= и установить 0. Как исп...</description>
+      <description>::: info Если в Korepi отображается echo off в cmd, вы можете просто нажать Numpad 0, чтобы удалить его, также вы можете отредактировать d3dx.ini и найти hunting= и установить 0...</description>
       <category>Руководство</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
       <content:encoded><![CDATA[<div class="hint-container info">
@@ -281,7 +281,7 @@ pass korepi</p>
       <link>https://korepi.com/ru/guide/multi-instance.html</link>
       <guid>https://korepi.com/ru/guide/multi-instance.html</guid>
       <source url="https://korepi.com/ru/rss.xml">Как использовать множественные экземпляры</source>
-      <description>Как использовать множественные экземпляры (открыть 2 окна игры одновременно) Работает только с версией Local (V)</description>
+      <description>Как использовать множественные экземпляры (открыть 2 окна игры одновременно) ::: info Работает только с версией Local (V) :::</description>
       <category>Руководство</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
       <content:encoded><![CDATA[<h2> Как использовать множественные экземпляры (открыть 2 окна игры одновременно)</h2>
@@ -363,7 +363,7 @@ pass korepi</p>
       <link>https://korepi.com/ru/troubleshoot/</link>
       <guid>https://korepi.com/ru/troubleshoot/</guid>
       <source url="https://korepi.com/ru/rss.xml">Список Ошибок</source>
-      <description>Каталог FAQ (faq.md); Список частых ошибок (faq-error.md); Как решить ошибку 31-4302 (31-4302.md);</description>
+      <description>КаталогFAQ (faq.md); Список частых ошибок (faq-error.md); Как решить ошибку 31-4302 (31-4302.md);</description>
       <category>Устранение Неполадок</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
       <content:encoded><![CDATA[<h2> Каталог</h2>
@@ -473,7 +473,7 @@ pass korepi</p>
       <link>https://korepi.com/ru/features/Player/attack-effects.html</link>
       <guid>https://korepi.com/ru/features/Player/attack-effects.html</guid>
       <source url="https://korepi.com/ru/rss.xml">Эффекты Атаки</source>
-      <description>Эффекты Атаки: Модификации для ваших атак Multi-Hit Mode: Режим Одного Удара: Пытается убить цель одним ударом.; Примечание: Не рекомендуется использовать. Модифицирует количест...</description>
+      <description>Эффекты Атаки: Модификации для ваших атак Multi-Hit Mode:Режим Одного Удара: Пытается убить цель одним ударом.;  Примечание: Не рекомендуется использовать.Модифицирует количе...</description>
       <category>Особенности</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
       <content:encoded><![CDATA[<h2> Эффекты Атаки: Модификации для ваших атак</h2>
@@ -553,7 +553,7 @@ pass korepi</p>
       <link>https://korepi.com/ru/features/Player/bunny-hop.html</link>
       <guid>https://korepi.com/ru/features/Player/bunny-hop.html</guid>
       <source url="https://korepi.com/ru/rss.xml">Банни Хоп</source>
-      <description>Только для Спонсоров Bunny Hop автоматически выполняет прыжок после первого прыжка при включении. Пример Видео:</description>
+      <description>::: info Только для Спонсоров ::: Bunny Hop автоматически выполняет прыжок после первого прыжка при включении. Пример Видео:</description>
       <category>Особенности</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
       <content:encoded><![CDATA[<div class="hint-container info">
@@ -570,7 +570,7 @@ pass korepi</p>
       <link>https://korepi.com/ru/features/Player/cooldown-effects.html</link>
       <guid>https://korepi.com/ru/features/Player/cooldown-effects.html</guid>
       <source url="https://korepi.com/ru/rss.xml">Эффекты Перезарядки</source>
-      <description>Cooldown Effects: Модификации времени перезарядки различных действий. Max Burst Energy: Убирает необходимость использовать элементарные взрывы.; Примечание: Энергетический пузыр...</description>
+      <description>Cooldown Effects: Модификации времени перезарядки различных действий. Max Burst Energy:Убирает необходимость использовать элементарные взрывы.;  Примечание: Энергетический пуз...</description>
       <category>Особенности</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
       <content:encoded><![CDATA[<h2> Cooldown Effects: Модификации времени перезарядки различных действий.</h2>
@@ -610,7 +610,7 @@ pass korepi</p>
       <link>https://korepi.com/ru/features/Player/extra-movements.html</link>
       <guid>https://korepi.com/ru/features/Player/extra-movements.html</guid>
       <source url="https://korepi.com/ru/rss.xml">Дополнительные Движения</source>
-      <description>Только для Спонсоров Дополнительные Движения: Модификации/Улучшения определенных действий для игрока. Run On Water: Позволяет ходить по воде.; Run Boost: Увеличивает скорость бе...</description>
+      <description>::: info Только для Спонсоров ::: Дополнительные Движения: Модификации/Улучшения определенных действий для игрока. Run On Water:Позволяет ходить по воде.; Run Boost:Увеличивае...</description>
       <category>Особенности</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
       <content:encoded><![CDATA[<div class="hint-container info">
@@ -687,7 +687,7 @@ pass korepi</p>
       <link>https://korepi.com/ru/features/Player/god-mode.html</link>
       <guid>https://korepi.com/ru/features/Player/god-mode.html</guid>
       <source url="https://korepi.com/ru/rss.xml">Режим Бога</source>
-      <description>God Mode отключит весь поступающий урон. Undead: При включении режим Бога активируется только в случае смертельного урона.; Условный: При включении режим Бога активируется тольк...</description>
+      <description>God Mode отключит весь поступающий урон. Undead:При включении режим Бога активируется только в случае смертельного урона.; Условный:При включении режим Бога активируется тольк...</description>
       <category>Особенности</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
       <content:encoded><![CDATA[<h2> God Mode отключит весь поступающий урон.</h2>
@@ -711,7 +711,7 @@ pass korepi</p>
       <link>https://korepi.com/ru/features/Player/infinite-stamina.html</link>
       <guid>https://korepi.com/ru/features/Player/infinite-stamina.html</guid>
       <source url="https://korepi.com/ru/rss.xml">Бесконечная Выносливость</source>
-      <description>Infinite Stamina отключает расход выносливости для всех действий. Move Sync Packet Replacement: При включении этой функции и отключении Бесконечной Выносливости предотвращает от...</description>
+      <description>Infinite Stamina отключает расход выносливости для всех действий. Move Sync Packet Replacement:При включении этой функции и отключении Бесконечной Выносливости предотвращает от...</description>
       <category>Особенности</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
       <content:encoded><![CDATA[<h2> Infinite Stamina отключает расход выносливости для всех действий.</h2>
@@ -731,7 +731,7 @@ pass korepi</p>
       <link>https://korepi.com/ru/features/Player/no-clip.html</link>
       <guid>https://korepi.com/ru/features/Player/no-clip.html</guid>
       <source url="https://korepi.com/ru/rss.xml">Полет No clip</source>
-      <description>No Clip позволит вам летать . No Animation: При включении отключит анимации персонажа при использовании без коллизий.; Camera-relative movement: При включении персонаж будет дви...</description>
+      <description>No Clip позволит вам летать . No Animation:При включении отключит анимации персонажа при использовании без коллизий.; Camera-relative movement:При включении персонаж будет дви...</description>
       <category>Особенности</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
       <content:encoded><![CDATA[<h2> No Clip позволит вам летать .</h2>
@@ -768,7 +768,7 @@ P.s Я использую значение в 35 больше года by QweRez
       <link>https://korepi.com/ru/features/Player/player-speed.html</link>
       <guid>https://korepi.com/ru/features/Player/player-speed.html</guid>
       <source url="https://korepi.com/ru/rss.xml">Скорость Игрока</source>
-      <description>Player Speed модифицирует скорость игрока. Реально. Не Имитация. Примечание: Рекомендуется использовать значение ниже 1.5. Примечание 2: Extra Movements (extra-movements.md) рек...</description>
+      <description>Player Speed модифицирует скорость игрока. Реально. Не Имитация. Примечание: Рекомендуется использовать значение ниже 1.5. Примечание 2: Extra Movements (extra-movements.md) р...</description>
       <category>Особенности</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
       <content:encoded><![CDATA[<h2> Player Speed модифицирует скорость игрока. Реально. Не Имитация.</h2>
@@ -785,7 +785,7 @@ P.s Я использую значение в 35 больше года by QweRez
       <link>https://korepi.com/ru/features/Player/remote-utility.html</link>
       <guid>https://korepi.com/ru/features/Player/remote-utility.html</guid>
       <source url="https://korepi.com/ru/rss.xml">Удаленная Утилита</source>
-      <description>Только для Спонсоров Remote Utility: Claim Daily Commission Reward: Получает ежедневное вознаграждение за выполнение всех 4-х квестов.; Custom Talk: Начинает разговор, используя...</description>
+      <description>::: info Только для Спонсоров ::: Remote Utility: Claim Daily Commission Reward:Получает ежедневное вознаграждение за выполнение всех 4-х квестов.; Custom Talk:Начинает разгов...</description>
       <category>Особенности</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
       <content:encoded><![CDATA[<div class="hint-container info">
@@ -874,7 +874,7 @@ P.s Я использую значение в 35 больше года by QweRez
       <link>https://korepi.com/ru/features/Teleport/0culi-teleport.html</link>
       <guid>https://korepi.com/ru/features/Teleport/0culi-teleport.html</guid>
       <source url="https://korepi.com/ru/rss.xml">0culi Teleport</source>
-      <description>Oculi Teleport will teleport the player to the nearest rendered oculi location when the hotkey is pressed. Note: Wait &amp;gt;15s between teleports for safety. Example Video:</description>
+      <description>Oculi Teleport will teleport the player to the nearest rendered oculi location when the hotkey is pressed. Note: Wait &amp;gt;15s between teleports for safety. Example Video:</description>
       <category>Features</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
       <content:encoded><![CDATA[<h2> Oculi Teleport will teleport the player to the nearest rendered oculi location when the hotkey is pressed.</h2>
@@ -890,7 +890,7 @@ P.s Я использую значение в 35 больше года by QweRez
       <link>https://korepi.com/ru/features/Teleport/chest-teleport.html</link>
       <guid>https://korepi.com/ru/features/Teleport/chest-teleport.html</guid>
       <source url="https://korepi.com/ru/rss.xml">Chest Teleport</source>
-      <description>Chest Teleport will teleport the player to the nearest rendered chest location when the hotkey is pressed. Note: Wait &amp;gt;15s between teleports for safety. Example Video:</description>
+      <description>Chest Teleport will teleport the player to the nearest rendered chest location when the hotkey is pressed. Note: Wait &amp;gt;15s between teleports for safety. Example Video:</description>
       <category>Features</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
       <content:encoded><![CDATA[<h2> Chest Teleport will teleport the player to the nearest rendered chest location when the hotkey is pressed.</h2>
@@ -906,7 +906,7 @@ P.s Я использую значение в 35 больше года by QweRez
       <link>https://korepi.com/ru/features/Teleport/custom-teleport.html</link>
       <guid>https://korepi.com/ru/features/Teleport/custom-teleport.html</guid>
       <source url="https://korepi.com/ru/rss.xml">Custom Teleport</source>
-      <description>Custom Teleport: Allows the player to teleport to a selected location designed by a .json file. Interpolation Speed: Controls the teleportation animation speed, set to 0.1 to av...</description>
+      <description>Custom Teleport: Allows the player to teleport to a selected location designed by a .json file. Interpolation Speed:Controls the teleportation animation speed, set to 0.1 to av...</description>
       <category>Features</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
       <content:encoded><![CDATA[<h2> Custom Teleport: Allows the player to teleport to a selected location designed by a <code>.json</code> file.</h2>
@@ -934,7 +934,7 @@ P.s Я использую значение в 35 больше года by QweRez
       <link>https://korepi.com/ru/features/Teleport/map-teleport.html</link>
       <guid>https://korepi.com/ru/features/Teleport/map-teleport.html</guid>
       <source url="https://korepi.com/ru/rss.xml">Map Teleport</source>
-      <description>Map Teleport allows you to teleport to anywhere on the map. To use map teleport you have to enable it, and select the hotkey you going to use.; To teleport, hold the hotkey whil...</description>
+      <description>Map Teleport allows you to teleport to anywhere on the map.To use map teleport you have to enable it, and select the hotkey you going to use.; To teleport, hold the hotkey whi...</description>
       <category>Features</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
       <content:encoded><![CDATA[<h2> Map Teleport allows you to teleport to anywhere on the map.</h2>
@@ -955,7 +955,7 @@ P.s Я использую значение в 35 больше года by QweRez
       <link>https://korepi.com/ru/features/Teleport/quest-teleport.html</link>
       <guid>https://korepi.com/ru/features/Teleport/quest-teleport.html</guid>
       <source url="https://korepi.com/ru/rss.xml">Quest Teleport</source>
-      <description>Quest Teleports allows you to teleport to the current on-going quest location. To use this feature, you must click your navigation hotkey first and then click on quest teleport ...</description>
+      <description>Quest Teleports allows you to teleport to the current on-going quest location.To use this feature, you must click your navigation hotkey first and then click on quest teleport ...</description>
       <category>Features</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
       <content:encoded><![CDATA[<h2> Quest Teleports allows you to teleport to the current on-going quest location.</h2>
@@ -993,7 +993,7 @@ P.s Я использую значение в 35 больше года by QweRez
       <link>https://korepi.com/ru/features/Visuals/constellation-modifier.html</link>
       <guid>https://korepi.com/ru/features/Visuals/constellation-modifier.html</guid>
       <source url="https://korepi.com/ru/rss.xml">Constellation Modifier</source>
-      <description>Sponsor Only Constellation Modifier, will change your active character constellations if selected, visually and some of them will actually work. You can find more information ab...</description>
+      <description>::: info Sponsor Only ::: Constellation Modifier, will change your active character constellations if selected, visually and some of them will actually work.You can find more i...</description>
       <category>Features</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
       <content:encoded><![CDATA[<div class="hint-container info">
@@ -1016,7 +1016,7 @@ P.s Я использую значение в 35 больше года by QweRez
       <link>https://korepi.com/ru/features/Visuals/custom-profile.html</link>
       <guid>https://korepi.com/ru/features/Visuals/custom-profile.html</guid>
       <source url="https://korepi.com/ru/rss.xml">Custom Profile</source>
-      <description>Custom Profile: UID: Select the UID you want to be displayed.; Nickname: Select the Nickname you want to be displayed.; Level: Select the Level you want to be displayed.; EXP: S...</description>
+      <description>Custom Profile: UID:Select the UID you want to be displayed.; Nickname:Select the Nickname you want to be displayed.; Level:Select the Level you want to be displayed.; EXP:S...</description>
       <category>Features</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
       <content:encoded><![CDATA[<h2> Custom Profile:</h2>
@@ -1077,7 +1077,7 @@ P.s Я использую значение в 35 больше года by QweRez
       <link>https://korepi.com/ru/features/Visuals/extra-visual-settings.html</link>
       <guid>https://korepi.com/ru/features/Visuals/extra-visual-settings.html</guid>
       <source url="https://korepi.com/ru/rss.xml">Extra Visual Settings</source>
-      <description>Extra Visual Settings: Gamma: Allows you to change the gamma value of the game.; Outline Width: Allows you to change the outline of every character in the game.; Anti-Aliasing: ...</description>
+      <description>Extra Visual Settings: Gamma:Allows you to change the gamma value of the game.; Outline Width:Allows you to change the outline of every character in the game.; Anti-Aliasing:...</description>
       <category>Features</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
       <content:encoded><![CDATA[<h2> Extra Visual Settings:</h2>
@@ -1100,7 +1100,7 @@ P.s Я использую значение в 35 больше года by QweRez
       <link>https://korepi.com/ru/features/Visuals/fake-time.html</link>
       <guid>https://korepi.com/ru/features/Visuals/fake-time.html</guid>
       <source url="https://korepi.com/ru/rss.xml">Fake Time</source>
-      <description>Fake Time: Changes in game time, hour and minutes.;</description>
+      <description>Fake Time:Changes in game time, hour and minutes.;</description>
       <category>Features</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
       <content:encoded><![CDATA[<h2> Fake Time:</h2>
@@ -1125,7 +1125,7 @@ P.s Я использую значение в 35 больше года by QweRez
       <link>https://korepi.com/ru/features/Visuals/fps-unlock.html</link>
       <guid>https://korepi.com/ru/features/Visuals/fps-unlock.html</guid>
       <source url="https://korepi.com/ru/rss.xml">FPS Unlock</source>
-      <description>Unlocks FPS.Unlocks FPS yeah.Unlocks FPS wow. Limit background FPS: Set the max fps game can reach when its not focused.;</description>
+      <description>Unlocks FPS.Unlocks FPS yeah.Unlocks FPS wow. Limit background FPS:Set the max fps game can reach when its not focused.;</description>
       <category>Features</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
       <content:encoded><![CDATA[<h2> Unlocks FPS.Unlocks FPS yeah.Unlocks FPS wow.</h2>
@@ -1140,7 +1140,7 @@ P.s Я использую значение в 35 больше года by QweRez
       <link>https://korepi.com/ru/features/Visuals/free-camera.html</link>
       <guid>https://korepi.com/ru/features/Visuals/free-camera.html</guid>
       <source url="https://korepi.com/ru/rss.xml">Free Camera</source>
-      <description>Free Camera: Move the camera freely without being locked to the character.; Freeze Character Animation: Freezes character animations.; Make Character Invisible: Makes character ...</description>
+      <description>Free Camera:Move the camera freely without being locked to the character.; Freeze Character Animation:Freezes character animations.; Make Character Invisible:Makes character ...</description>
       <category>Features</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
       <content:encoded><![CDATA[<h2> Free Camera:</h2>
@@ -1166,7 +1166,7 @@ P.s Я использую значение в 35 больше года by QweRez
       <link>https://korepi.com/ru/features/Visuals/hide-ui.html</link>
       <guid>https://korepi.com/ru/features/Visuals/hide-ui.html</guid>
       <source url="https://korepi.com/ru/rss.xml">Hide UI</source>
-      <description>Hide UI: Hides player user interface entirely.; Hide Ping: (Sponsor) Hides ping only.; Hide HP Bar: (Sponsor) Hides current character HP bar only.; Hide Team HP Bar: (Sponsor) H...</description>
+      <description>Hide UI:Hides player user interface entirely.; Hide Ping: (Sponsor)Hides ping only.; Hide HP Bar: (Sponsor)Hides current character HP bar only.; Hide Team HP Bar: (Sponsor)H...</description>
       <category>Features</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
       <content:encoded><![CDATA[<h2> Hide UI:</h2>
@@ -1203,7 +1203,7 @@ P.s Я использую значение в 35 больше года by QweRez
       <link>https://korepi.com/ru/features/Visuals/monster-changer.html</link>
       <guid>https://korepi.com/ru/features/Visuals/monster-changer.html</guid>
       <source url="https://korepi.com/ru/rss.xml">Monster Changer</source>
-      <description>Monster Changer: When enabled, all new rendered monsters will be changed visually to the selected monster.; Exclude Animals: Enable or Disable changing animals.; Custom Monster ...</description>
+      <description>Monster Changer:When enabled, all new rendered monsters will be changed visually to the selected monster.; Exclude Animals:Enable or Disable changing animals.; Custom Monster ...</description>
       <category>Features</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
       <content:encoded><![CDATA[<h2> Monster Changer:</h2>
@@ -1267,7 +1267,7 @@ P.s Я использую значение в 35 больше года by QweRez
       <link>https://korepi.com/ru/features/Visuals/texture-changer.html</link>
       <guid>https://korepi.com/ru/features/Visuals/texture-changer.html</guid>
       <source url="https://korepi.com/ru/rss.xml">Texture Changer</source>
-      <description>Its better to use GIMI (../../guide/3DM-tutorial.md) for changing textures. Texture Changer allows to switch character parts to the provided .png files.</description>
+      <description>::: info Its better to use GIMI (../../guide/3DM-tutorial.md) for changing textures. ::: Texture Changer allows to switch character parts to the provided .png files.</description>
       <category>Features</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
       <content:encoded><![CDATA[<div class="hint-container info">
@@ -1282,7 +1282,7 @@ P.s Я использую значение в 35 больше года by QweRez
       <link>https://korepi.com/ru/features/World/auto-activate-tp.html</link>
       <guid>https://korepi.com/ru/features/World/auto-activate-tp.html</guid>
       <source url="https://korepi.com/ru/rss.xml">Auto Activate Teleport</source>
-      <description>Sponsor Only Auto Activate Teleport activates nearby waypoints up to 50m. Example Video:</description>
+      <description>::: info Sponsor Only ::: Auto Activate Teleport activates nearby waypoints up to 50m. Example Video:</description>
       <category>Features</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
       <content:encoded><![CDATA[<div class="hint-container info">
@@ -1299,7 +1299,7 @@ P.s Я использую значение в 35 больше года by QweRez
       <link>https://korepi.com/ru/features/World/auto-challenge.html</link>
       <guid>https://korepi.com/ru/features/World/auto-challenge.html</guid>
       <source url="https://korepi.com/ru/rss.xml">Auto Challenge</source>
-      <description>Auto Challenge lets you complete the current active time trial within a specified range and delay time, you can configure these to your liking. Example Video: Note: Not recommen...</description>
+      <description>Auto Challenge lets you complete the current active time trial within a specified range and delay time, you can configure these to your liking. Example Video:Note: Not recommen...</description>
       <category>Features</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
       <content:encoded><![CDATA[<h3> Auto Challenge lets you complete the current active time trial within a specified range and delay time, you can configure these to your liking.</h3>
@@ -1344,7 +1344,7 @@ P.s Я использую значение в 35 больше года by QweRez
       <link>https://korepi.com/ru/features/World/auto-fish.html</link>
       <guid>https://korepi.com/ru/features/World/auto-fish.html</guid>
       <source url="https://korepi.com/ru/rss.xml">Auto Fish</source>
-      <description>Auto fish lets you skip the catching fish animation, which will reduce the time needed to catch a fish. Example Video: Note: Auto Recast is not working at the time creating this...</description>
+      <description>Auto fish lets you skip the catching fish animation, which will reduce the time needed to catch a fish. Example Video: Note: Auto Recast is not working at the time creating thi...</description>
       <category>Features</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
       <content:encoded><![CDATA[<h3> Auto fish lets you skip the catching fish animation, which will reduce the time needed to catch a fish.</h3>
@@ -1390,7 +1390,7 @@ Note 2: Higher the distance higher delay should be used.</p>
       <link>https://korepi.com/ru/features/World/auto-talk.html</link>
       <guid>https://korepi.com/ru/features/World/auto-talk.html</guid>
       <source url="https://korepi.com/ru/rss.xml">Auto Talk</source>
-      <description>Auto Talk: Talks automatically with the NPCs Fast Dialog: Speeds up the game with the selected value to make the dialog faster.; Note: Not recommended to use above 5. Skip Dialo...</description>
+      <description>Auto Talk: Talks automatically with the NPCs Fast Dialog:Speeds up the game with the selected value to make the dialog faster.;  Note: Not recommended to use above 5. Skip Dia...</description>
       <category>Features</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
       <content:encoded><![CDATA[<h2> Auto Talk: Talks automatically with the NPCs</h2>
@@ -1438,7 +1438,7 @@ Note 2: Higher the distance higher delay should be used.</p>
       <link>https://korepi.com/ru/features/World/auto-tree-farm.html</link>
       <guid>https://korepi.com/ru/features/World/auto-tree-farm.html</guid>
       <source url="https://korepi.com/ru/rss.xml">Auto Tree Farm</source>
-      <description>Sponsor Only Auto Tree Farm lets you punch nearby trees with the selected value and delay, therefore automatically getting wood from nearby trees. Example Video: Note: Not recom...</description>
+      <description>::: info Sponsor Only ::: Auto Tree Farm lets you punch nearby trees with the selected value and delay, therefore automatically getting wood from nearby trees. Example Video: N...</description>
       <category>Features</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
       <content:encoded><![CDATA[<div class="hint-container info">
@@ -1458,7 +1458,7 @@ Note 2: Higher the distance higher delay should be used.</p>
       <link>https://korepi.com/ru/features/World/elemental-aura.html</link>
       <guid>https://korepi.com/ru/features/World/elemental-aura.html</guid>
       <source url="https://korepi.com/ru/rss.xml">Elemental Aura</source>
-      <description>Sponsor Only Elemental Aura applies elements with the specified element, range and delay to targets, objects or yourself, multiple elements can be applied to nearby targets. Exa...</description>
+      <description>::: info Sponsor Only ::: Elemental Aura applies elements with the specified element, range and delay to targets, objects or yourself, multiple elements can be applied to nearby...</description>
       <category>Features</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
       <content:encoded><![CDATA[<div class="hint-container info">
@@ -1478,7 +1478,7 @@ Note 2: Higher the distance higher delay should be used.</p>
       <link>https://korepi.com/ru/features/World/game-speed.html</link>
       <guid>https://korepi.com/ru/features/World/game-speed.html</guid>
       <source url="https://korepi.com/ru/rss.xml">Game Speed</source>
-      <description>Game Speed. Speedups or slowdowns the game. Unexpected. Note: Not recommended to use outside of menus, or in general. Example Video:</description>
+      <description>Game Speed. Speedups or slowdowns the game. Unexpected.Note: Not recommended to use outside of menus, or in general. Example Video:</description>
       <category>Features</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
       <content:encoded><![CDATA[<h3> Game Speed. Speedups or slowdowns the game. Unexpected.</h3>
@@ -1494,7 +1494,7 @@ Note 2: Higher the distance higher delay should be used.</p>
       <link>https://korepi.com/ru/features/World/kill-aura.html</link>
       <guid>https://korepi.com/ru/features/World/kill-aura.html</guid>
       <source url="https://korepi.com/ru/rss.xml">Kill Aura</source>
-      <description>This feature has a high risk of ban. Kill Aura: Deals damage to surrounding enemies Crash Damage mode: Deals fall damage to surrounding enemies with the specified value, delay a...</description>
+      <description>::: danger This feature has a high risk of ban. ::: Kill Aura: Deals damage to surrounding enemies Crash Damage mode:Deals fall damage to surrounding enemies with the specified...</description>
       <category>Features</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
       <content:encoded><![CDATA[<div class="hint-container danger">
@@ -1541,7 +1541,7 @@ Note 2: Not recommended to use.</p>
       <link>https://korepi.com/ru/features/World/mob-vacuum.html</link>
       <guid>https://korepi.com/ru/features/World/mob-vacuum.html</guid>
       <source url="https://korepi.com/ru/rss.xml">Mob Vacuum</source>
-      <description>Mob Vacuum move nearby mobs to the player with the selected speed and range, the mobs that will be affected can be customized. Example Video: Note: Recommended below 20m.</description>
+      <description>Mob Vacuum move nearby mobs to the player with the selected speed and range, the mobs that will be affected can be customized. Example Video: Note: Recommended below 20m.</description>
       <category>Features</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
       <content:encoded><![CDATA[<h2> Mob Vacuum move nearby mobs to the player with the selected speed and range, the mobs that will be affected can be customized.</h2>
@@ -1557,7 +1557,7 @@ Note 2: Not recommended to use.</p>
       <link>https://korepi.com/ru/features/World/vacuum-loot.html</link>
       <guid>https://korepi.com/ru/features/World/vacuum-loot.html</guid>
       <source url="https://korepi.com/ru/rss.xml">Vacuum Loot</source>
-      <description>Vacuum Loot moves nearby drops to the player with the specified range and delay. Example Video: Note: Recommended below 20m.</description>
+      <description>Vacuum Loot moves nearby drops to the player with the specified range and delay. Example Video: Note: Recommended below 20m.</description>
       <category>Features</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
       <content:encoded><![CDATA[<h2> Vacuum Loot moves nearby drops to the player with the specified range and delay.</h2>
