@@ -40,7 +40,7 @@ highlights:
     bgImageStyle:
       background-repeat: repeat
       background-size: initial
-    功能:
+    features:
       - title: 传送
         icon: location-arrow
         details: 在地图/标记/任务之间传送
