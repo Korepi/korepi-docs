@@ -2,7 +2,7 @@
 title: 全局加速
 icon: forward-fast
 category:
-  - Features
+  - 功能
 tag:
   - 全局加速
 author: Double

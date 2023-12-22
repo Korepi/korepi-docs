@@ -2,7 +2,7 @@
 title: 自动砍树
 icon: tree
 category:
-  - Features
+  - 功能
 tag:
 - 自动砍树
 author: Double

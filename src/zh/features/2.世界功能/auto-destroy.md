@@ -2,7 +2,7 @@
 title: 自动摧毁物体
 icon: bomb
 category:
-  - Features
+  - 功能
 tag:
   - 自动摧毁物体
 author: Double

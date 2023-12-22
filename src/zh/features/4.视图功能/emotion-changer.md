@@ -2,7 +2,7 @@
 title: 表情修改
 icon: face-smile
 category:
-  - Features
+  - 功能
 tag:
   - 表情修改
 author: Double

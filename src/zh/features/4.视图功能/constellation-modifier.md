@@ -2,7 +2,7 @@
 title: 命座修改
 icon: retweet
 category:
-  - Features
+  - 功能
 tag:
   - 命座修改
 author: Double

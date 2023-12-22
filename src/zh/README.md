@@ -40,7 +40,7 @@ highlights:
     bgImageStyle:
       background-repeat: repeat
       background-size: initial
-    features:
+    功能:
       - title: 传送
         icon: location-arrow
         details: 在地图/标记/任务之间传送
@@ -91,10 +91,10 @@ highlights:
         details: 吸附附近各种怪物
 
   - header: 最新 Bug 修复
-    image: /assets/images/web/features.svg
+    image: /assets/images/web/功能.svg
     bgImage: https://theme-hope-assets.vuejs.press/bg/1-light.svg
     bgImageDark: https://theme-hope-assets.vuejs.press/bg/1-dark.svg
-    features:
+    功能:
       - title: 自动选择对话现在稍快
         icon: comment
         details: 加快了自动选择对话的速度

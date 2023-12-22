@@ -2,7 +2,7 @@
 title: 无CD
 icon: clock-rotate-left
 category:
-  - Features
+  - 功能
 tag:
   - 无CD
 author: Double

@@ -2,7 +2,7 @@
 title: 自动仙灵
 icon: arrows-split-up-and-left
 category:
-  - Features
+  - 功能
 tag:
   - 自动仙灵
 author: Double

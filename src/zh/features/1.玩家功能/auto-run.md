@@ -2,7 +2,7 @@
 title: 自动奔跑
 icon: person-running
 category:
-  - Features
+  - 功能
 tag:
   - 自动奔跑
 author: Double
