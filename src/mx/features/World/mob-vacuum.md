@@ -1,10 +1,10 @@
 ---
-title: Succión de Mobs
+title: Atraer Mobs
 icon: magnet
 category:
   - Funciones
 tag:
-  - Succión de Mobs
+  - Atraer Mobs
 author: Schvis, ll33ee
 order: 12
 ---

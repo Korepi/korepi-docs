@@ -1,10 +1,10 @@
 ---
-title: Succión de Botín
+title: Atraer Botín
 icon: magnet
 category:
   - Funciones
 tag:
-  - Succión de Botín
+  - Atraer Botín
 author: Schvis, ll33ee
 order: 13
 ---
