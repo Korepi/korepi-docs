@@ -2,7 +2,7 @@
 title: 无限视距
 icon: camera
 category:
-  - Features
+  - 功能
 tag:
   - 无限视距
 author: Double

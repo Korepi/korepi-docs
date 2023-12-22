@@ -2,7 +2,7 @@
 title: 额外视觉
 icon: eye
 category:
-  - Features
+  - 功能
 tag:
   - 额外视觉
 author: Double

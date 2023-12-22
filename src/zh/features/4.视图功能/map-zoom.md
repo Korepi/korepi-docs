@@ -2,7 +2,7 @@
 title: 地图缩放
 icon: map
 category:
-  - Features
+  - 功能
 tag:
   - 地图缩放
 author: Double

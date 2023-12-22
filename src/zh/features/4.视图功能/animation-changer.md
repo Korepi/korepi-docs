@@ -2,7 +2,7 @@
 title: 动画修改器
 icon: people-arrows
 category:
-  - Features
+  - 功能
 tag:
   - 动画修改器
 author: Double

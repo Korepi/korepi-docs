@@ -2,7 +2,7 @@
 title: 额外移动
 icon: bolt
 category:
-  - Features
+  - 功能
 tag:
   - 额外移动
 author: Double

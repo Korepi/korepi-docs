@@ -2,7 +2,7 @@
 title: 兔子跳
 icon: carrot
 category:
-  - Features
+  - 功能
 tag:
   - 兔子跳
 author: Double

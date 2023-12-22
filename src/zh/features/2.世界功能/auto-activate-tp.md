@@ -2,7 +2,7 @@
 title: 自动解锁锚点
 icon: satellite-dish
 category:
-  - Features
+  - 功能
 tag:
   - 自动解锁锚点
 author: Double

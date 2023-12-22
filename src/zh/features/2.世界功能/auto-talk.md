@@ -2,7 +2,7 @@
 title: 自动对话
 icon: comments
 category:
-  - Features
+  - 功能
 tag:
   - 自动对话
 author: Double

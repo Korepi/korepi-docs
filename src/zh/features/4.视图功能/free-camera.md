@@ -2,7 +2,7 @@
 title: 自由相机
 icon: camera-rotate
 category:
-  - Features
+  - 功能
 tag:
   - 自由相机
 author: Double

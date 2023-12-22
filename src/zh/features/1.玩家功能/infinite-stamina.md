@@ -2,7 +2,7 @@
 title: 无限体力
 icon: dumbbell
 category:
-  - Features
+  - 功能
 tag:
   - 无限体力
 author: Double

@@ -2,7 +2,7 @@
 title: 纹理转换器
 icon: list
 category:
-  - Features
+  - 功能
 tag:
   - 纹理转换器
 author: Double

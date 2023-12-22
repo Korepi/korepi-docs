@@ -2,7 +2,7 @@
 title: 其他
 icon: layer-group
 category:
-  - Features
+  - 功能
 tag:
   - 其他
 author: Double
