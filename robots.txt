@@ -12,6 +12,7 @@ Allow: /es/rss.xml
 Allow: /mx/rss.xml
 Allow: /vi/rss.xml
 Allow: /pt/rss.xml
+Allow: /ar/rss.xml
 
 # for debugging
 Allow: /rss.xml
