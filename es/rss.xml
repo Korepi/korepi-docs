@@ -6,14 +6,41 @@
     <link>https://korepi.com/es/</link>
     <description>Ayuda en Korepi</description>
     <language>es-ES</language>
-    <pubDate>Sat, 23 Dec 2023 07:40:11 GMT</pubDate>
-    <lastBuildDate>Sat, 23 Dec 2023 07:40:11 GMT</lastBuildDate>
+    <pubDate>Sat, 23 Dec 2023 19:38:06 GMT</pubDate>
+    <lastBuildDate>Sat, 23 Dec 2023 19:38:06 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+    <category>Guía</category>
     <category>FAQ</category>
     <category>Funciones</category>
     <category>Errores</category>
-    <category>Guía</category>
+    <item>
+      <title>Como añadir a exclusiones</title>
+      <link>https://korepi.com/es/guide/virus.html</link>
+      <guid>https://korepi.com/es/guide/virus.html</guid>
+      <source url="https://korepi.com/es/rss.xml">Como añadir a exclusiones</source>
+      <description>Otros antivirus pueden tener otros métodos, pero serán similares. Como añadir Korepi a exclusiones. Paso 1: Abre el antivirus Abre el buscador de windows y busca Seguridad de Wi...</description>
+      <category>Guía</category>
+      <pubDate>Sat, 23 Dec 2023 17:10:07 GMT</pubDate>
+      <content:encoded><![CDATA[<div class="hint-container info">
+<p class="hint-container-title">Otros antivirus pueden tener otros métodos, pero serán similares.</p>
+</div>
+<hr>
+<h2> Como añadir Korepi a exclusiones.</h2>
+<h3> Paso 1: Abre el antivirus</h3>
+<p>Abre el buscador de windows y busca <code>Seguridad de Windows</code>.</p>
+<p><img src="/assets/images/docs/202312/security.png" alt="" loading="lazy"></p>
+<p>Le damos click a <code>Protección antivirus y contra amenazas</code>.</p>
+<p><img src="/assets/images/docs/202312/virus1.png" alt="" loading="lazy"></p>
+<p>Después bajamos hasta encontrar <code>Configuración de protección antivirus y contra amenazas</code> y le damos click a <code>Administrar la configuración</code>.</p>
+<p><img src="/assets/images/docs/202312/virus3.png" alt="" loading="lazy"></p>
+<h3> Paso 2: Añadir a la lista de exclusiones.</h3>
+<p>Después de seguir el paso anterior, bajaremos hasta encontrar <code>Exclusiones</code> and then we click on <code>Agregar o quitar exclusiones</code>.</p>
+<p><img src="/assets/images/docs/202312/virus4.png" alt="" loading="lazy"></p>
+<p>Dale a <code>Si</code> en la ventana, y le damos a <code>Agregar Exclusión</code> y seleccionamos <code>Carpeta</code>, entonces seleccionamos la carpeta de Korepi.</p>
+]]></content:encoded>
+      <enclosure url="https://korepi.com/assets/images/docs/202312/security.png" type="image/png"/>
+    </item>
     <item>
       <title>Preguntas Frecuentes</title>
       <link>https://korepi.com/es/troubleshoot/faq.html</link>
@@ -1187,70 +1214,8 @@ Nota 2: No se recomienda usar.</p>
       <link>https://korepi.com/es/features/</link>
       <guid>https://korepi.com/es/features/</guid>
       <source url="https://korepi.com/es/rss.xml">Lista de Funciones</source>
-      <description>Lista de Funciones disponibles Player Efectos de Ataque (Player/attack-effects.md); Auto Correr (Player/auto-run.md); Salto de Conejo (Player/bunny-hop.md); Efectos de Enfriamie...</description>
       <category>Funciones</category>
       <pubDate>Fri, 15 Dec 2023 01:52:31 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Lista de Funciones disponibles</h2>
-<h3> Player</h3>
-<ul>
-<li><a href="/es/features/Player/attack-effects.html" target="blank">Efectos de Ataque</a></li>
-<li><a href="/es/features/Player/auto-run.html" target="blank">Auto Correr</a></li>
-<li><a href="/es/features/Player/bunny-hop.html" target="blank">Salto de Conejo</a></li>
-<li><a href="/es/features/Player/cooldown-effects.html" target="blank">Efectos de Enfriamiento</a></li>
-<li><a href="/es/features/Player/extra-movements.html" target="blank">Movimientos Extra</a></li>
-<li><a href="/es/features/Player/fall-control.html" target="blank">Control de Caída</a></li>
-<li><a href="/es/features/Player/god-mode.html" target="blank">Modo Dios</a></li>
-<li><a href="/es/features/Player/infinite-stamina.html" target="blank">Estamina Infinito</a></li>
-<li><a href="/es/features/Player/no-clip.html" target="blank">Sin Colisión</a></li>
-<li><a href="/es/features/Player/player-speed.html" target="blank">Velocidad del Jugador</a></li>
-<li><a href="/es/features/Player/remote-utility.html" target="blank">Utilidad Remota</a></li>
-</ul>
-<h3> Teleport</h3>
-<ul>
-<li><a href="/es/features/Teleport/0culi-teleport.html" target="blank">Teletransporte de Oculus</a></li>
-<li><a href="/es/features/Teleport/chest-teleport.html" target="blank">Teletransporte de Cofre</a></li>
-<li><a href="/es/features/Teleport/custom-teleport.html" target="blank">Teletransporte Personalizado</a></li>
-<li><a href="/es/features/Teleport/map-teleport.html" target="blank">Teletransporte de Mapa</a></li>
-<li><a href="/es/features/Teleport/quest-teleport.html" target="blank">Teletransporte de Misión</a></li>
-</ul>
-<h3> Visuals</h3>
-<ul>
-<li><a href="/es/features/Visuals/animation-changer.html" target="blank">Cambiador de Animación</a></li>
-<li><a href="/es/features/Visuals/camera-zoom.html" target="blank">Zoom de Cámara</a></li>
-<li><a href="/es/features/Visuals/constellation-modifier.html" target="blank">Modificador de Constelaciones</a></li>
-<li><a href="/es/features/Visuals/custom-profile.html" target="blank">Perfil Personalizado</a></li>
-<li><a href="/es/features/Visuals/custom-weather.html" target="blank">Clima Personalizado</a></li>
-<li><a href="/es/features/Visuals/emotion-changer.html" target="blank">Cambiador de Emociones</a></li>
-<li><a href="/es/features/Visuals/extra-visual-settings.html" target="blank">Extra Visual Settings</a></li>
-<li><a href="/es/features/Visuals/fps-unlock.html" target="blank">Desbloqueador de FPS</a></li>
-<li><a href="/es/features/Visuals/fake-time.html" target="blank">Tiempo Falso</a></li>
-<li><a href="/es/features/Visuals/flycloak-modifier.html" target="blank">Modificador de Planeador</a></li>
-<li><a href="/es/features/Visuals/free-camera.html" target="blank">Cámara Libre</a></li>
-<li><a href="/es/features/Visuals/hide-ui.html" target="blank">Esconder Interfaz</a></li>
-<li><a href="/es/features/Visuals/map-zoom.html" target="blank">Zoom de Mapa</a></li>
-<li><a href="/es/features/Visuals/monster-changer.html" target="blank">Cambiador de Monstruos</a></li>
-<li><a href="/es/features/Visuals/skin-modifier.html" target="blank">Modificador de Pieles</a></li>
-<li><a href="/es/features/Visuals/skin-modifier.html" target="blank">Cambiador de Texturas</a></li>
-<li><a href="/es/features/Visuals/others.html" target="blank">Otros</a></li>
-</ul>
-<h3> World</h3>
-<ul>
-<li><a href="/es/features/World/auto-activate-tp.html" target="blank">Auto Activar Teletransportes</a></li>
-<li><a href="/es/features/World/auto-challenge.html" target="blank">Auto Desafío</a></li>
-<li><a href="/es/features/World/auto-cook.html" target="blank">Auto Cocinar</a></li>
-<li><a href="/es/features/World/auto-destroy.html" target="blank">Auto Destruir Objetos</a></li>
-<li><a href="/es/features/World/auto-fish.html" target="blank">Auto Pescar</a></li>
-<li><a href="/es/features/World/auto-loot.html" target="blank">Auto Recoger</a></li>
-<li><a href="/es/features/World/auto-seelie.html" target="blank">Auto Seelie</a></li>
-<li><a href="/es/features/World/auto-talk.html" target="blank">Auto Conversar</a></li>
-<li><a href="/es/features/World/auto-tree-farm.html" target="blank">Auto Madera</a></li>
-<li><a href="/es/features/World/elemental-aura.html" target="blank">Aura Elemental</a></li>
-<li><a href="/es/features/World/game-speed.html" target="blank">Velocidad del Juego</a></li>
-<li><a href="/es/features/World/kill-aura.html" target="blank">Kill Aura</a></li>
-<li><a href="/es/features/World/mob-vacuum.html" target="blank">Succión de Mobs</a></li>
-<li><a href="/es/features/World/vacuum-loot.html" target="blank">Succión de Botín</a></li>
-</ul>
-]]></content:encoded>
     </item>
     <item>
       <title>Error 31-4302</title>
@@ -1285,22 +1250,8 @@ Nota 2: No se recomienda usar.</p>
       <link>https://korepi.com/es/troubleshoot/</link>
       <guid>https://korepi.com/es/troubleshoot/</guid>
       <source url="https://korepi.com/es/rss.xml">Lista de errores</source>
-      <description>Catalogo Preguntas Frecuentes (faq.md); Lista de errores comunes del mod (faq-error.md); Como solucionar el error 31-4302 (31-4302.md);</description>
       <category>Errores</category>
       <pubDate>Wed, 13 Dec 2023 02:23:02 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Catalogo</h2>
-<ul>
-<li>
-<p><a href="/es/troubleshoot/faq.html" target="blank">Preguntas Frecuentes</a></p>
-</li>
-<li>
-<p><a href="/es/troubleshoot/faq-error.html" target="blank">Lista de errores comunes del mod</a></p>
-</li>
-<li>
-<p><a href="/es/troubleshoot/31-4302.html" target="blank">Como solucionar el error 31-4302</a></p>
-</li>
-</ul>
-]]></content:encoded>
     </item>
     <item>
       <title>Errores Frecuentes del mod</title>
@@ -1624,62 +1575,16 @@ Para poder usar skins personalizadas en Korepi tendremos que descargar la aplica
       <link>https://korepi.com/es/guide/</link>
       <guid>https://korepi.com/es/guide/</guid>
       <source url="https://korepi.com/es/rss.xml">Guías</source>
-      <description>Catalogo Como conseguir la key (getkey.md); Restablecer HWID (resethwid.md); Como usar Multi-Instancia (multi-instance.md); Como usar Skins Personalizadas (3DM-tutorial.md); Com...</description>
       <category>Guía</category>
       <pubDate>Wed, 29 Nov 2023 17:50:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Catalogo</h2>
-<ul>
-<li>
-<p><a href="/es/guide/getkey.html" target="blank">Como conseguir la key</a></p>
-</li>
-<li>
-<p><a href="/es/guide/resethwid.html" target="blank">Restablecer HWID</a></p>
-</li>
-<li>
-<p><a href="/es/guide/multi-instance.html" target="blank">Como usar Multi-Instancia</a></p>
-</li>
-<li>
-<p><a href="/es/guide/3DM-tutorial.html" target="blank">Como usar Skins Personalizadas</a></p>
-</li>
-<li>
-<p><a href="/es/guide/3DM-skin.html" target="blank">Como descargar Skins en GIMI</a></p>
-</li>
-<li>
-<p><a href="/es/guide/custom-tp-setting.html" target="blank">Como usar teletransportes personalizados</a></p>
-</li>
-</ul>
-]]></content:encoded>
     </item>
     <item>
       <title>Inicio</title>
       <link>https://korepi.com/es/start/</link>
       <guid>https://korepi.com/es/start/</guid>
       <source url="https://korepi.com/es/rss.xml">Inicio</source>
-      <description>Catalogo Unirse al Servidor (join.md); Verificación (verify.md); Obteniendo el rol de Fans (sign-in.md); Convertirse en Sponsor (sponsor.md); Funciones Exclusivas de Sponsor (sp...</description>
       <category>Guía</category>
       <pubDate>Wed, 29 Nov 2023 17:50:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Catalogo</h2>
-<ul>
-<li>
-<p><a href="/es/start/join.html" target="blank">Unirse al Servidor</a></p>
-</li>
-<li>
-<p><a href="/es/start/verify.html" target="blank">Verificación</a></p>
-</li>
-<li>
-<p><a href="/es/start/sign-in.html" target="blank">Obteniendo el rol de Fans</a></p>
-</li>
-<li>
-<p><a href="/es/start/sponsor.html" target="blank">Convertirse en Sponsor</a></p>
-</li>
-<li>
-<p><a href="/es/start/sponsor-exclusive.html" target="blank">Funciones Exclusivas de Sponsor</a></p>
-</li>
-<li>
-<p><a href="/es/start/download.html" target="blank">Descargar</a></p>
-</li>
-</ul>
-]]></content:encoded>
     </item>
     <item>
       <title>Unirse al Servidor</title>

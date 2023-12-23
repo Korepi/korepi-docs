@@ -6,16 +6,44 @@
     <link>https://korepi.com/id/</link>
     <description>Pertolongan Korepi</description>
     <language>id-ID</language>
-    <pubDate>Sat, 23 Dec 2023 07:40:11 GMT</pubDate>
-    <lastBuildDate>Sat, 23 Dec 2023 07:40:11 GMT</lastBuildDate>
+    <pubDate>Sat, 23 Dec 2023 19:38:06 GMT</pubDate>
+    <lastBuildDate>Sat, 23 Dec 2023 19:38:06 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+    <category>Guide</category>
     <category>FAQ</category>
     <category>Features</category>
     <category>Fitur</category>
     <category>Quest Teleport</category>
     <category>Panduan</category>
     <category>Solusi</category>
+    <item>
+      <title>How to add to exclusion list</title>
+      <link>https://korepi.com/id/guide/virus.html</link>
+      <guid>https://korepi.com/id/guide/virus.html</guid>
+      <source url="https://korepi.com/id/rss.xml">How to add to exclusion list</source>
+      <description>Other antivirus will have similar steps, adapt depending on the antivirus you are using. How to add Korepi to antivirus exclusion list (Windows Defender) Step 1: Open the antivi...</description>
+      <category>Guide</category>
+      <pubDate>Sat, 23 Dec 2023 17:10:07 GMT</pubDate>
+      <content:encoded><![CDATA[<div class="hint-container info">
+<p class="hint-container-title">Other antivirus will have similar steps, adapt depending on the antivirus you are using.</p>
+</div>
+<hr>
+<h2> How to add Korepi to antivirus exclusion list (Windows Defender)</h2>
+<h3> Step 1: Open the antivirus</h3>
+<p>Open the windows search bar and search for <code>Windows Security</code> and open it.</p>
+<p><img src="/assets/images/docs/202312/security.png" alt="" loading="lazy"></p>
+<p>We click on <code>Virus &amp; threat protection</code>.</p>
+<p><img src="/assets/images/docs/202312/virus1.png" alt="" loading="lazy"></p>
+<p>Then we scroll till we find <code>Virus &amp; threat protection settings</code> and click on <code>Manage settings</code>.</p>
+<p><img src="/assets/images/docs/202312/virus3.png" alt="" loading="lazy"></p>
+<h3> Step 2: Adding to the exclusion list</h3>
+<p>After following the last step, we will scroll until we find <code>Exclusions</code> and then we click on <code>Add or remove exclusions</code>.</p>
+<p><img src="/assets/images/docs/202312/virus4.png" alt="" loading="lazy"></p>
+<p>Click yes to the popup, after that we click on <code>Add an Exclusion</code> and select folder, then we select our Korepi folder.</p>
+]]></content:encoded>
+      <enclosure url="https://korepi.com/assets/images/docs/202312/security.png" type="image/png"/>
+    </item>
     <item>
       <title>FAQ</title>
       <link>https://korepi.com/id/troubleshoot/faq.html</link>
@@ -872,70 +900,8 @@ Catatan 2: Anda dapat menemukan ID barang <a href="https://github.com/jie65535/G
       <link>https://korepi.com/id/features/</link>
       <guid>https://korepi.com/id/features/</guid>
       <source url="https://korepi.com/id/rss.xml">Daftar Fitur</source>
-      <description>Daftar Fitur Pemain Attack Effects (Player/attack-effects.md); Auto Run (Player/auto-run.md); Bunny Hop (Player/bunny-hop.md); Cooldown Effects (Player/cooldown-effects.md); Ext...</description>
       <category>Fitur</category>
       <pubDate>Fri, 15 Dec 2023 14:22:50 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Daftar Fitur</h2>
-<h3> Pemain</h3>
-<ul>
-<li><a href="/id/features/Player/attack-effects.html" target="blank">Attack Effects</a></li>
-<li><a href="/id/features/Player/auto-run.html" target="blank">Auto Run</a></li>
-<li><a href="/id/features/Player/bunny-hop.html" target="blank">Bunny Hop</a></li>
-<li><a href="/id/features/Player/cooldown-effects.html" target="blank">Cooldown Effects</a></li>
-<li><a href="/id/features/Player/extra-movements.html" target="blank">Extra Movements</a></li>
-<li><a href="/id/features/Player/fall-control.html" target="blank">Fall Control</a></li>
-<li><a href="/id/features/Player/god-mode.html" target="blank">God Mode</a></li>
-<li><a href="/id/features/Player/infinite-stamina.html" target="blank">Infinite Stamina</a></li>
-<li><a href="/id/features/Player/no-clip.html" target="blank">No Clip</a></li>
-<li><a href="/id/features/Player/player-speed.html" target="blank">Player Speed</a></li>
-<li><a href="/id/features/Player/remote-utility.html" target="blank">Remote Utility</a></li>
-</ul>
-<h3> Teleport</h3>
-<ul>
-<li><a href="/id/features/Teleport/0culi-teleport.html" target="blank">Oculi Teleport</a></li>
-<li><a href="/id/features/Teleport/chest-teleport.html" target="blank">Chest Teleport</a></li>
-<li><a href="/id/features/Teleport/custom-teleport.html" target="blank">Custom Teleport</a></li>
-<li><a href="/id/features/Teleport/map-teleport.html" target="blank">Map Teleport</a></li>
-<li><a href="/id/features/Teleport/quest-teleport.html" target="blank">Quest Teleport</a></li>
-</ul>
-<h3> Visuals</h3>
-<ul>
-<li><a href="/id/features/Visuals/animation-changer.html" target="blank">Animation Changer</a></li>
-<li><a href="/id/features/Visuals/camera-zoom.html" target="blank">Camera Zoom</a></li>
-<li><a href="/id/features/Visuals/constellation-modifier.html" target="blank">Constellation Modifier</a></li>
-<li><a href="/id/features/Visuals/custom-profile.html" target="blank">Custom Profile</a></li>
-<li><a href="/id/features/Visuals/custom-weather.html" target="blank">Custom Weather</a></li>
-<li><a href="/id/features/Visuals/emotion-changer.html" target="blank">Emotion Changer</a></li>
-<li><a href="/id/features/Visuals/extra-visual-settings.html" target="blank">Extra Visual Settings</a></li>
-<li><a href="/id/features/Visuals/fps-unlock.html" target="blank">FPS Unlock</a></li>
-<li><a href="/id/features/Visuals/fake-time.html" target="blank">Fake Time</a></li>
-<li><a href="/id/features/Visuals/flycloak-modifier.html" target="blank">Flycloak Modifier</a></li>
-<li><a href="/id/features/Visuals/free-camera.html" target="blank">Free Camera</a></li>
-<li><a href="/id/features/Visuals/hide-ui.html" target="blank">Hide UI</a></li>
-<li><a href="/id/features/Visuals/map-zoom.html" target="blank">Map Zoom</a></li>
-<li><a href="/id/features/Visuals/monster-changer.html" target="blank">Monster Changer</a></li>
-<li><a href="/id/features/Visuals/skin-modifier.html" target="blank">Skin Modifier</a></li>
-<li><a href="/id/features/Visuals/skin-modifier.html" target="blank">Texture Changer</a></li>
-<li><a href="/id/features/Visuals/others.html" target="blank">Others</a></li>
-</ul>
-<h3> Dunia</h3>
-<ul>
-<li><a href="/id/features/World/auto-activate-tp.html" target="blank">Auto Activated Waypoints</a></li>
-<li><a href="/id/features/World/auto-challenge.html" target="blank">Auto Challenge</a></li>
-<li><a href="/id/features/World/auto-cook.html" target="blank">Auto Cook</a></li>
-<li><a href="/id/features/World/auto-destroy.html" target="blank">Auto Destroy</a></li>
-<li><a href="/id/features/World/auto-fish.html" target="blank">Auto Fish</a></li>
-<li><a href="/id/features/World/auto-loot.html" target="blank">Auto Loot</a></li>
-<li><a href="/id/features/World/auto-seelie.html" target="blank">Auto Seelie</a></li>
-<li><a href="/id/features/World/auto-talk.html" target="blank">Auto Talk</a></li>
-<li><a href="/id/features/World/auto-tree-farm.html" target="blank">Auto Tree Farm</a></li>
-<li><a href="/id/features/World/elemental-aura.html" target="blank">Elemental Aura</a></li>
-<li><a href="/id/features/World/game-speed.html" target="blank">Game Speed</a></li>
-<li><a href="/id/features/World/kill-aura.html" target="blank">Kill Aura</a></li>
-<li><a href="/id/features/World/mob-vacuum.html" target="blank">Mob Vacuum</a></li>
-<li><a href="/id/features/World/vacuum-loot.html" target="blank">Vacuum Loot</a></li>
-</ul>
-]]></content:encoded>
     </item>
     <item>
       <title>Auto Activated Waypoints</title>
@@ -1288,22 +1254,8 @@ Catatan 2: Tidak disarankan untuk digunakan.</p>
       <link>https://korepi.com/id/troubleshoot/</link>
       <guid>https://korepi.com/id/troubleshoot/</guid>
       <source url="https://korepi.com/id/rss.xml">Daftar Masalah</source>
-      <description>katalog FAQ (faq.md); Daftar Masalah yang Sering Terjadi (faq-error.md); Cara Mengatasi Masalah 31-4302 (31-4302.md);</description>
       <category>Solusi</category>
       <pubDate>Wed, 13 Dec 2023 23:15:21 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> katalog</h2>
-<ul>
-<li>
-<p><a href="/id/troubleshoot/faq.html" target="blank">FAQ</a></p>
-</li>
-<li>
-<p><a href="/id/troubleshoot/faq-error.html" target="blank">Daftar Masalah yang Sering Terjadi</a></p>
-</li>
-<li>
-<p><a href="/id/troubleshoot/31-4302.html" target="blank">Cara Mengatasi Masalah 31-4302</a></p>
-</li>
-</ul>
-]]></content:encoded>
     </item>
     <item>
       <title>Masalah Yang Sering Terjadi.</title>
@@ -1604,62 +1556,16 @@ Catatan: Pastikan berkas tersebut bernama <code>enc.json</code>.</p>
       <link>https://korepi.com/id/guide/</link>
       <guid>https://korepi.com/id/guide/</guid>
       <source url="https://korepi.com/id/rss.xml">Panduan</source>
-      <description>Katalog Cara Get-Key (getkey.md); Cara Reset HWID (resethwid.md); Cara Multi-Instance (multi-instance.md); Cara Menggunakan Skin Kustom (3DM-tutorial.md); Cara Mengunduh Skin Ku...</description>
       <category>Panduan</category>
       <pubDate>Sun, 26 Nov 2023 15:29:27 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Katalog</h2>
-<ul>
-<li>
-<p><a href="/id/guide/getkey.html" target="blank">Cara Get-Key</a></p>
-</li>
-<li>
-<p><a href="/id/guide/resethwid.html" target="blank">Cara Reset HWID</a></p>
-</li>
-<li>
-<p><a href="/id/guide/multi-instance.html" target="blank">Cara Multi-Instance</a></p>
-</li>
-<li>
-<p><a href="/id/guide/3DM-tutorial.html" target="blank">Cara Menggunakan Skin Kustom</a></p>
-</li>
-<li>
-<p><a href="/id/guide/3DM-skin.html" target="blank">Cara Mengunduh Skin Kustom</a></p>
-</li>
-<li>
-<p><a href="/id/guide/custom-tp-setting.html" target="blank">Cara Menggunakan TP Kustom</a></p>
-</li>
-</ul>
-]]></content:encoded>
     </item>
     <item>
       <title>Katalog</title>
       <link>https://korepi.com/id/start/</link>
       <guid>https://korepi.com/id/start/</guid>
       <source url="https://korepi.com/id/rss.xml">Katalog</source>
-      <description>Katalog Cara Join Server (join.md); Cara Verifikasi Akun (verify.md); Cara Mendapatkan Role Fans (sign-in.md); Cara Sponsor (sponsor.md); Fitur Eksklusif Sponsor (sponsor-exclus...</description>
       <category>Panduan</category>
       <pubDate>Sun, 26 Nov 2023 15:29:27 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Katalog</h2>
-<ul>
-<li>
-<p><a href="/id/start/join.html" target="blank">Cara Join Server</a></p>
-</li>
-<li>
-<p><a href="/id/start/verify.html" target="blank">Cara Verifikasi Akun</a></p>
-</li>
-<li>
-<p><a href="/id/start/sign-in.html" target="blank">Cara Mendapatkan Role Fans</a></p>
-</li>
-<li>
-<p><a href="/id/start/sponsor.html" target="blank">Cara Sponsor</a></p>
-</li>
-<li>
-<p><a href="/id/start/sponsor-exclusive.html" target="blank">Fitur Eksklusif Sponsor</a></p>
-</li>
-<li>
-<p><a href="/id/start/download.html" target="blank">Cara Download</a></p>
-</li>
-</ul>
-]]></content:encoded>
     </item>
     <item>
       <title>Cara Bergabung di Server</title>

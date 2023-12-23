@@ -6,84 +6,49 @@
     <link>https://korepi.com/ar/</link>
     <description>للمساعدة Korepi</description>
     <language>ar</language>
-    <pubDate>Sat, 23 Dec 2023 07:40:11 GMT</pubDate>
-    <lastBuildDate>Sat, 23 Dec 2023 07:40:11 GMT</lastBuildDate>
+    <pubDate>Sat, 23 Dec 2023 19:38:06 GMT</pubDate>
+    <lastBuildDate>Sat, 23 Dec 2023 19:38:06 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+    <category>Guide</category>
     <category>الميزات</category>
     <category>Features</category>
-    <category>Guide</category>
     <category>Troubleshoot</category>
     <category>FAQ</category>
+    <item>
+      <title>How to add to exclusion list</title>
+      <link>https://korepi.com/ar/guide/virus.html</link>
+      <guid>https://korepi.com/ar/guide/virus.html</guid>
+      <source url="https://korepi.com/ar/rss.xml">How to add to exclusion list</source>
+      <description>Other antivirus will have similar steps, adapt depending on the antivirus you are using. How to add Korepi to antivirus exclusion list (Windows Defender) Step 1: Open the antivi...</description>
+      <category>Guide</category>
+      <pubDate>Sat, 23 Dec 2023 17:10:07 GMT</pubDate>
+      <content:encoded><![CDATA[<div class="hint-container info">
+<p class="hint-container-title">Other antivirus will have similar steps, adapt depending on the antivirus you are using.</p>
+</div>
+<hr>
+<h2> How to add Korepi to antivirus exclusion list (Windows Defender)</h2>
+<h3> Step 1: Open the antivirus</h3>
+<p>Open the windows search bar and search for <code>Windows Security</code> and open it.</p>
+<p><img src="/assets/images/docs/202312/security.png" alt="" loading="lazy"></p>
+<p>We click on <code>Virus &amp; threat protection</code>.</p>
+<p><img src="/assets/images/docs/202312/virus1.png" alt="" loading="lazy"></p>
+<p>Then we scroll till we find <code>Virus &amp; threat protection settings</code> and click on <code>Manage settings</code>.</p>
+<p><img src="/assets/images/docs/202312/virus3.png" alt="" loading="lazy"></p>
+<h3> Step 2: Adding to the exclusion list</h3>
+<p>After following the last step, we will scroll until we find <code>Exclusions</code> and then we click on <code>Add or remove exclusions</code>.</p>
+<p><img src="/assets/images/docs/202312/virus4.png" alt="" loading="lazy"></p>
+<p>Click yes to the popup, after that we click on <code>Add an Exclusion</code> and select folder, then we select our Korepi folder.</p>
+]]></content:encoded>
+      <enclosure url="https://korepi.com/assets/images/docs/202312/security.png" type="image/png"/>
+    </item>
     <item>
       <title>قائمة الميزات</title>
       <link>https://korepi.com/ar/features/</link>
       <guid>https://korepi.com/ar/features/</guid>
       <source url="https://korepi.com/ar/rss.xml">قائمة الميزات</source>
-      <description>قائمة الميزات لاعب تأثيرات الهجوم (Player/attack-effects.md); الجري التلقائي (Player/auto-run.md); الأرنب هوب (Player/bunny-hop.md); تأثيرات التهدئة (Player/cooldown-effects.md)...</description>
       <category>الميزات</category>
       <pubDate>Fri, 22 Dec 2023 11:31:21 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> قائمة الميزات</h2>
-<h3> لاعب</h3>
-<ul>
-<li><a href="/ar/features/Player/attack-effects.html" target="blank">تأثيرات الهجوم</a></li>
-<li><a href="/ar/features/Player/auto-run.html" target="blank">الجري التلقائي</a></li>
-<li><a href="/ar/features/Player/bunny-hop.html" target="blank">الأرنب هوب</a></li>
-<li><a href="/ar/features/Player/cooldown-effects.html" target="blank">تأثيرات التهدئة</a></li>
-<li><a href="/ar/features/Player/extra-movements.html" target="blank">حركات اضافية</a></li>
-<li><a href="/ar/features/Player/fall-control.html" target="blank">التحكم في السقوط</a></li>
-<li><a href="/ar/features/Player/god-mode.html" target="blank">الوضع الخارق</a></li>
-<li><a href="/ar/features/Player/infinite-stamina.html" target="blank">قوة التحمل القصوى</a></li>
-<li><a href="/ar/features/Player/no-clip.html" target="blank">بدون خطوات</a></li>
-<li><a href="/ar/features/Player/player-speed.html" target="blank">سرعة اللاعب</a></li>
-<li><a href="/ar/features/Player/remote-utility.html" target="blank">الأداة المساعدة عن بعد</a></li>
-</ul>
-<h3> النقل الفوري</h3>
-<ul>
-<li><a href="/ar/features/Teleport/0culi-teleport.html" target="blank">النقل الفوري للأعين</a></li>
-<li><a href="/ar/features/Teleport/chest-teleport.html" target="blank"> النقل الفوري للصناديق</a></li>
-<li><a href="/ar/features/Teleport/custom-teleport.html" target="blank">النقل الفوري المخصص</a></li>
-<li><a href="/ar/features/Teleport/map-teleport.html" target="blank">النقل الفوري عبر الخريطة</a></li>
-<li><a href="/ar/features/Teleport/quest-teleport.html" target="blank">النقل الفوري للمهام</a></li>
-</ul>
-<h3> مرئيات</h3>
-<ul>
-<li><a href="/ar/features/Visuals/animation-changer.html" target="blank">تغيير الرسوم المتحركة</a></li>
-<li><a href="/ar/features/Visuals/camera-zoom.html" target="blank">تكبير الكاميرا</a></li>
-<li><a href="/ar/features/Visuals/constellation-modifier.html" target="blank">تعديل الكونسليشن</a></li>
-<li><a href="/ar/features/Visuals/custom-profile.html" target="blank">تخصيص الملف الشخصي</a></li>
-<li><a href="/ar/features/Visuals/custom-weather.html" target="blank">الطقس المخصص</a></li>
-<li><a href="/ar/features/Visuals/emotion-changer.html" target="blank">تغيير حركات المشاعر</a></li>
-<li><a href="/ar/features/Visuals/extra-visual-settings.html" target="blank">إعدادات مرئية إضافية</a></li>
-<li><a href="/ar/features/Visuals/fps-unlock.html" target="blank">فتح FPS</a></li>
-<li><a href="/ar/features/Visuals/fake-time.html" target="blank">الوقت الزائف</a></li>
-<li><a href="/ar/features/Visuals/flycloak-modifier.html" target="blank">تغيير اجنحة الطيران</a></li>
-<li><a href="/ar/features/Visuals/free-camera.html" target="blank">الكاميرة الحرة</a></li>
-<li><a href="/ar/features/Visuals/hide-ui.html" target="blank">إخفاء واجهة المستخدم</a></li>
-<li><a href="/ar/features/Visuals/map-zoom.html" target="blank">تكبير الخريطة</a></li>
-<li><a href="/ar/features/Visuals/monster-changer.html" target="blank">تغيير الاعداء</a></li>
-<li><a href="/ar/features/Visuals/skin-modifier.html" target="blank">تغيير الشكل</a></li>
-<li><a href="/ar/features/Visuals/skin-modifier.html" target="blank">مغير البنية</a></li>
-<li><a href="/ar/features/Visuals/others.html" target="blank">اخر</a></li>
-</ul>
-<h3> عالم</h3>
-<ul>
-<li><a href="/ar/features/World/auto-activate-tp.html" target="blank">تفعيل ابراج النقل تلقائيا</a></li>
-<li><a href="/ar/features/World/auto-challenge.html" target="blank">التحدي التلقائي</a></li>
-<li><a href="/ar/features/World/auto-cook.html" target="blank">الطبخ التلقائي</a></li>
-<li><a href="/ar/features/World/auto-destroy.html" target="blank">التدمير التلقائي</a></li>
-<li><a href="/ar/features/World/auto-fish.html" target="blank">الصيد التلقائي</a></li>
-<li><a href="/ar/features/World/auto-loot.html" target="blank">التقاط الغنائم تلقائيا</a></li>
-<li><a href="/ar/features/World/auto-seelie.html" target="blank">تتبع الارواح تلقائيا</a></li>
-<li><a href="/ar/features/World/auto-talk.html" target="blank">التحدث التلقائي</a></li>
-<li><a href="/ar/features/World/auto-tree-farm.html" target="blank">قطع الاشجار تلقائيا</a></li>
-<li><a href="/ar/features/World/elemental-aura.html" target="blank">هالة العناصر</a></li>
-<li><a href="/ar/features/World/game-speed.html" target="blank">سرعة اللعبة</a></li>
-<li><a href="/ar/features/World/kill-aura.html" target="blank">هالة القتل</a></li>
-<li><a href="/ar/features/World/mob-vacuum.html" target="blank">مكنسة الوحوش</a></li>
-<li><a href="/ar/features/World/vacuum-loot.html" target="blank">مكنسة الغنائم</a></li>
-</ul>
-]]></content:encoded>
     </item>
     <item>
       <title>الرادار</title>
@@ -164,31 +129,8 @@ In order to use custom skins in we will need to download:</p>
       <link>https://korepi.com/ar/guide/</link>
       <guid>https://korepi.com/ar/guide/</guid>
       <source url="https://korepi.com/ar/rss.xml">Guides</source>
-      <description>Catalog How to get key (getkey.md); How to reset HWID (resethwid.md); How to Multi-instance (multi-instance.md); How to use custom skins (3DM-tutorial.md); How to download skins...</description>
       <category>Guide</category>
       <pubDate>Fri, 22 Dec 2023 11:31:21 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Catalog</h2>
-<ul>
-<li>
-<p><a href="/ar/guide/getkey.html" target="blank">How to get key</a></p>
-</li>
-<li>
-<p><a href="/ar/guide/resethwid.html" target="blank">How to reset HWID</a></p>
-</li>
-<li>
-<p><a href="/ar/guide/multi-instance.html" target="blank">How to Multi-instance</a></p>
-</li>
-<li>
-<p><a href="/ar/guide/3DM-tutorial.html" target="blank">How to use custom skins</a></p>
-</li>
-<li>
-<p><a href="/ar/guide/3DM-skin.html" target="blank">How to download skins</a></p>
-</li>
-<li>
-<p><a href="/ar/guide/custom-tp-setting.html" target="blank">How to use custom TP</a></p>
-</li>
-</ul>
-]]></content:encoded>
     </item>
     <item>
       <title>How to use Custom TP</title>
@@ -310,31 +252,9 @@ Warning: Don't do anything yet.</p>
       <link>https://korepi.com/ar/start/</link>
       <guid>https://korepi.com/ar/start/</guid>
       <source url="https://korepi.com/ar/rss.xml">Catalog</source>
-      <description>Catalog Joining the Server (join.md); Verification (verify.md); Obtaining the Fans Role (sign-in.md); Becoming a Sponsor (sponsor.md); Sponsor Exclusive Features (sponsor-exclus...</description>
+      <description>)</description>
       <category>Guide</category>
       <pubDate>Fri, 22 Dec 2023 11:31:21 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Catalog</h2>
-<ul>
-<li>
-<p><a href="/ar/start/join.html" target="blank">Joining the Server</a></p>
-</li>
-<li>
-<p><a href="/ar/start/verify.html" target="blank">Verification</a></p>
-</li>
-<li>
-<p><a href="/ar/start/sign-in.html" target="blank">Obtaining the Fans Role</a></p>
-</li>
-<li>
-<p><a href="/ar/start/sponsor.html" target="blank">Becoming a Sponsor</a></p>
-</li>
-<li>
-<p><a href="/ar/start/sponsor-exclusive.html" target="blank">Sponsor Exclusive Features</a></p>
-</li>
-<li>
-<p><a href="/ar/start/download.html" target="blank">Download</a></p>
-</li>
-</ul>
-]]></content:encoded>
     </item>
     <item>
       <title>Download</title>
@@ -524,22 +444,8 @@ Warning: Don't do anything yet.</p>
       <link>https://korepi.com/ar/troubleshoot/</link>
       <guid>https://korepi.com/ar/troubleshoot/</guid>
       <source url="https://korepi.com/ar/rss.xml">List of Errors</source>
-      <description>Catalog FAQ (faq.md); List of common Injector errors (faq-error.md); How to solve error 31-4302 (31-4302.md);</description>
       <category>Troubleshoot</category>
       <pubDate>Fri, 22 Dec 2023 11:31:21 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Catalog</h2>
-<ul>
-<li>
-<p><a href="/ar/troubleshoot/faq.html" target="blank">FAQ</a></p>
-</li>
-<li>
-<p><a href="/ar/troubleshoot/faq-error.html" target="blank">List of common Injector errors</a></p>
-</li>
-<li>
-<p><a href="/ar/troubleshoot/31-4302.html" target="blank">How to solve error 31-4302</a></p>
-</li>
-</ul>
-]]></content:encoded>
     </item>
     <item>
       <title>Common Injector Errors</title>

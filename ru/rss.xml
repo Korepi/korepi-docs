@@ -6,16 +6,44 @@
     <link>https://korepi.com/ru/</link>
     <description>Помощь по Korepi</description>
     <language>ru-RU</language>
-    <pubDate>Sat, 23 Dec 2023 07:40:11 GMT</pubDate>
-    <lastBuildDate>Sat, 23 Dec 2023 07:40:11 GMT</lastBuildDate>
+    <pubDate>Sat, 23 Dec 2023 19:38:06 GMT</pubDate>
+    <lastBuildDate>Sat, 23 Dec 2023 19:38:06 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+    <category>Guide</category>
     <category>FAQ</category>
     <category>Особенности</category>
     <category>Руководство</category>
     <category>Устранение Неполадок</category>
     <category>Features</category>
     <category>Гайд</category>
+    <item>
+      <title>How to add to exclusion list</title>
+      <link>https://korepi.com/ru/guide/virus.html</link>
+      <guid>https://korepi.com/ru/guide/virus.html</guid>
+      <source url="https://korepi.com/ru/rss.xml">How to add to exclusion list</source>
+      <description>Other antivirus will have similar steps, adapt depending on the antivirus you are using. How to add Korepi to antivirus exclusion list (Windows Defender) Step 1: Open the antivi...</description>
+      <category>Guide</category>
+      <pubDate>Sat, 23 Dec 2023 17:10:07 GMT</pubDate>
+      <content:encoded><![CDATA[<div class="hint-container info">
+<p class="hint-container-title">Other antivirus will have similar steps, adapt depending on the antivirus you are using.</p>
+</div>
+<hr>
+<h2> How to add Korepi to antivirus exclusion list (Windows Defender)</h2>
+<h3> Step 1: Open the antivirus</h3>
+<p>Open the windows search bar and search for <code>Windows Security</code> and open it.</p>
+<p><img src="/assets/images/docs/202312/security.png" alt="" loading="lazy"></p>
+<p>We click on <code>Virus &amp; threat protection</code>.</p>
+<p><img src="/assets/images/docs/202312/virus1.png" alt="" loading="lazy"></p>
+<p>Then we scroll till we find <code>Virus &amp; threat protection settings</code> and click on <code>Manage settings</code>.</p>
+<p><img src="/assets/images/docs/202312/virus3.png" alt="" loading="lazy"></p>
+<h3> Step 2: Adding to the exclusion list</h3>
+<p>After following the last step, we will scroll until we find <code>Exclusions</code> and then we click on <code>Add or remove exclusions</code>.</p>
+<p><img src="/assets/images/docs/202312/virus4.png" alt="" loading="lazy"></p>
+<p>Click yes to the popup, after that we click on <code>Add an Exclusion</code> and select folder, then we select our Korepi folder.</p>
+]]></content:encoded>
+      <enclosure url="https://korepi.com/assets/images/docs/202312/security.png" type="image/png"/>
+    </item>
     <item>
       <title>FAQ</title>
       <link>https://korepi.com/ru/troubleshoot/faq.html</link>

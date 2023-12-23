@@ -6,14 +6,41 @@
     <link>https://korepi.com/en/</link>
     <description>Help on Korepi</description>
     <language>en-US</language>
-    <pubDate>Sat, 23 Dec 2023 07:40:11 GMT</pubDate>
-    <lastBuildDate>Sat, 23 Dec 2023 07:40:11 GMT</lastBuildDate>
+    <pubDate>Sat, 23 Dec 2023 19:38:06 GMT</pubDate>
+    <lastBuildDate>Sat, 23 Dec 2023 19:38:06 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+    <category>Guide</category>
     <category>FAQ</category>
     <category>Features</category>
-    <category>Guide</category>
     <category>Troubleshoot</category>
+    <item>
+      <title>How to add to exclusion list</title>
+      <link>https://korepi.com/en/guide/virus.html</link>
+      <guid>https://korepi.com/en/guide/virus.html</guid>
+      <source url="https://korepi.com/en/rss.xml">How to add to exclusion list</source>
+      <description>Other antivirus will have similar steps, adapt depending on the antivirus you are using. How to add Korepi to antivirus exclusion list (Windows Defender) Step 1: Open the antivi...</description>
+      <category>Guide</category>
+      <pubDate>Sat, 23 Dec 2023 17:10:07 GMT</pubDate>
+      <content:encoded><![CDATA[<div class="hint-container info">
+<p class="hint-container-title">Other antivirus will have similar steps, adapt depending on the antivirus you are using.</p>
+</div>
+<hr>
+<h2> How to add Korepi to antivirus exclusion list (Windows Defender)</h2>
+<h3> Step 1: Open the antivirus</h3>
+<p>Open the windows search bar and search for <code>Windows Security</code> and open it.</p>
+<p><img src="/assets/images/docs/202312/security.png" alt="" loading="lazy"></p>
+<p>We click on <code>Virus &amp; threat protection</code>.</p>
+<p><img src="/assets/images/docs/202312/virus1.png" alt="" loading="lazy"></p>
+<p>Then we scroll till we find <code>Virus &amp; threat protection settings</code> and click on <code>Manage settings</code>.</p>
+<p><img src="/assets/images/docs/202312/virus3.png" alt="" loading="lazy"></p>
+<h3> Step 2: Adding to the exclusion list</h3>
+<p>After following the last step, we will scroll until we find <code>Exclusions</code> and then we click on <code>Add or remove exclusions</code>.</p>
+<p><img src="/assets/images/docs/202312/virus4.png" alt="" loading="lazy"></p>
+<p>Click yes to the popup, after that we click on <code>Add an Exclusion</code> and select folder, then we select our Korepi folder.</p>
+]]></content:encoded>
+      <enclosure url="https://korepi.com/assets/images/docs/202312/security.png" type="image/png"/>
+    </item>
     <item>
       <title>FAQ</title>
       <link>https://korepi.com/en/troubleshoot/faq.html</link>
@@ -1187,70 +1214,8 @@ Note 2: Not recommended to use.</p>
       <link>https://korepi.com/en/features/</link>
       <guid>https://korepi.com/en/features/</guid>
       <source url="https://korepi.com/en/rss.xml">List of Features</source>
-      <description>List of Features Player Attack Effects (Player/attack-effects.md); Auto Run (Player/auto-run.md); Bunny Hop (Player/bunny-hop.md); Cooldown Effects (Player/cooldown-effects.md);...</description>
       <category>Features</category>
       <pubDate>Thu, 14 Dec 2023 22:37:32 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> List of Features</h2>
-<h3> Player</h3>
-<ul>
-<li><a href="/en/features/Player/attack-effects.html" target="blank">Attack Effects</a></li>
-<li><a href="/en/features/Player/auto-run.html" target="blank">Auto Run</a></li>
-<li><a href="/en/features/Player/bunny-hop.html" target="blank">Bunny Hop</a></li>
-<li><a href="/en/features/Player/cooldown-effects.html" target="blank">Cooldown Effects</a></li>
-<li><a href="/en/features/Player/extra-movements.html" target="blank">Extra Movements</a></li>
-<li><a href="/en/features/Player/fall-control.html" target="blank">Fall Control</a></li>
-<li><a href="/en/features/Player/god-mode.html" target="blank">God Mode</a></li>
-<li><a href="/en/features/Player/infinite-stamina.html" target="blank">Infinite Stamina</a></li>
-<li><a href="/en/features/Player/no-clip.html" target="blank">No Clip</a></li>
-<li><a href="/en/features/Player/player-speed.html" target="blank">Player Speed</a></li>
-<li><a href="/en/features/Player/remote-utility.html" target="blank">Remote Utility</a></li>
-</ul>
-<h3> Teleport</h3>
-<ul>
-<li><a href="/en/features/Teleport/0culi-teleport.html" target="blank">Oculi Teleport</a></li>
-<li><a href="/en/features/Teleport/chest-teleport.html" target="blank">Chest Teleport</a></li>
-<li><a href="/en/features/Teleport/custom-teleport.html" target="blank">Custom Teleport</a></li>
-<li><a href="/en/features/Teleport/map-teleport.html" target="blank">Map Teleport</a></li>
-<li><a href="/en/features/Teleport/quest-teleport.html" target="blank">Quest Teleport</a></li>
-</ul>
-<h3> Visuals</h3>
-<ul>
-<li><a href="/en/features/Visuals/animation-changer.html" target="blank">Animation Changer</a></li>
-<li><a href="/en/features/Visuals/camera-zoom.html" target="blank">Camera Zoom</a></li>
-<li><a href="/en/features/Visuals/constellation-modifier.html" target="blank">Constellation Modifier</a></li>
-<li><a href="/en/features/Visuals/custom-profile.html" target="blank">Custom Profile</a></li>
-<li><a href="/en/features/Visuals/custom-weather.html" target="blank">Custom Weather</a></li>
-<li><a href="/en/features/Visuals/emotion-changer.html" target="blank">Emotion Changer</a></li>
-<li><a href="/en/features/Visuals/extra-visual-settings.html" target="blank">Extra Visual Settings</a></li>
-<li><a href="/en/features/Visuals/fps-unlock.html" target="blank">FPS Unlock</a></li>
-<li><a href="/en/features/Visuals/fake-time.html" target="blank">Fake Time</a></li>
-<li><a href="/en/features/Visuals/flycloak-modifier.html" target="blank">Flycloak Modifier</a></li>
-<li><a href="/en/features/Visuals/free-camera.html" target="blank">Free Camera</a></li>
-<li><a href="/en/features/Visuals/hide-ui.html" target="blank">Hide UI</a></li>
-<li><a href="/en/features/Visuals/map-zoom.html" target="blank">Map Zoom</a></li>
-<li><a href="/en/features/Visuals/monster-changer.html" target="blank">Monster Changer</a></li>
-<li><a href="/en/features/Visuals/skin-modifier.html" target="blank">Skin Modifier</a></li>
-<li><a href="/en/features/Visuals/skin-modifier.html" target="blank">Texture Changer</a></li>
-<li><a href="/en/features/Visuals/others.html" target="blank">Others</a></li>
-</ul>
-<h3> World</h3>
-<ul>
-<li><a href="/en/features/World/auto-activate-tp.html" target="blank">Auto Activated Waypoints</a></li>
-<li><a href="/en/features/World/auto-challenge.html" target="blank">Auto Challenge</a></li>
-<li><a href="/en/features/World/auto-cook.html" target="blank">Auto Cook</a></li>
-<li><a href="/en/features/World/auto-destroy.html" target="blank">Auto Destroy</a></li>
-<li><a href="/en/features/World/auto-fish.html" target="blank">Auto Fish</a></li>
-<li><a href="/en/features/World/auto-loot.html" target="blank">Auto Loot</a></li>
-<li><a href="/en/features/World/auto-seelie.html" target="blank">Auto Seelie</a></li>
-<li><a href="/en/features/World/auto-talk.html" target="blank">Auto Talk</a></li>
-<li><a href="/en/features/World/auto-tree-farm.html" target="blank">Auto Tree Farm</a></li>
-<li><a href="/en/features/World/elemental-aura.html" target="blank">Elemental Aura</a></li>
-<li><a href="/en/features/World/game-speed.html" target="blank">Game Speed</a></li>
-<li><a href="/en/features/World/kill-aura.html" target="blank">Kill Aura</a></li>
-<li><a href="/en/features/World/mob-vacuum.html" target="blank">Mob Vacuum</a></li>
-<li><a href="/en/features/World/vacuum-loot.html" target="blank">Vacuum Loot</a></li>
-</ul>
-]]></content:encoded>
     </item>
     <item>
       <title>Error 31-4302</title>
@@ -1285,22 +1250,8 @@ Note 2: Not recommended to use.</p>
       <link>https://korepi.com/en/troubleshoot/</link>
       <guid>https://korepi.com/en/troubleshoot/</guid>
       <source url="https://korepi.com/en/rss.xml">List of Errors</source>
-      <description>Catalog FAQ (faq.md); List of common Injector errors (faq-error.md); How to solve error 31-4302 (31-4302.md);</description>
       <category>Troubleshoot</category>
       <pubDate>Wed, 13 Dec 2023 02:00:05 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Catalog</h2>
-<ul>
-<li>
-<p><a href="/en/troubleshoot/faq.html" target="blank">FAQ</a></p>
-</li>
-<li>
-<p><a href="/en/troubleshoot/faq-error.html" target="blank">List of common Injector errors</a></p>
-</li>
-<li>
-<p><a href="/en/troubleshoot/31-4302.html" target="blank">How to solve error 31-4302</a></p>
-</li>
-</ul>
-]]></content:encoded>
     </item>
     <item>
       <title>Common Injector Errors</title>
@@ -1658,31 +1609,8 @@ Warning: Don't do anything yet.</p>
       <link>https://korepi.com/en/start/</link>
       <guid>https://korepi.com/en/start/</guid>
       <source url="https://korepi.com/en/rss.xml">Catalog</source>
-      <description>CatalogJoining the Server (join.md); Verification (verify.md); Obtaining the Fans Role (sign-in.md); Becoming a Sponsor (sponsor.md); Sponsor Exclusive Features (sponsor-ex...</description>
       <category>Guide</category>
       <pubDate>Fri, 24 Nov 2023 14:31:46 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Catalog</h2>
-<ul>
-<li>
-<p><a href="/en/start/join.html" target="blank">Joining the Server</a></p>
-</li>
-<li>
-<p><a href="/en/start/verify.html" target="blank">Verification</a></p>
-</li>
-<li>
-<p><a href="/en/start/sign-in.html" target="blank">Obtaining the Fans Role</a></p>
-</li>
-<li>
-<p><a href="/en/start/sponsor.html" target="blank">Becoming a Sponsor</a></p>
-</li>
-<li>
-<p><a href="/en/start/sponsor-exclusive.html" target="blank">Sponsor Exclusive Features</a></p>
-</li>
-<li>
-<p><a href="/en/start/download.html" target="blank">Download</a></p>
-</li>
-</ul>
-]]></content:encoded>
     </item>
     <item>
       <title>Joining the Server</title>
@@ -1753,31 +1681,8 @@ Warning: Don't do anything yet.</p>
       <link>https://korepi.com/en/guide/</link>
       <guid>https://korepi.com/en/guide/</guid>
       <source url="https://korepi.com/en/rss.xml">Guides</source>
-      <description>CatalogHow to get key (getkey.md); How to reset HWID (resethwid.md); How to Multi-instance (multi-instance.md); How to use custom skins (3DM-tutorial.md); How to download s...</description>
       <category>Guide</category>
       <pubDate>Mon, 20 Nov 2023 12:30:39 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Catalog</h2>
-<ul>
-<li>
-<p><a href="/en/guide/getkey.html" target="blank">How to get key</a></p>
-</li>
-<li>
-<p><a href="/en/guide/resethwid.html" target="blank">How to reset HWID</a></p>
-</li>
-<li>
-<p><a href="/en/guide/multi-instance.html" target="blank">How to Multi-instance</a></p>
-</li>
-<li>
-<p><a href="/en/guide/3DM-tutorial.html" target="blank">How to use custom skins</a></p>
-</li>
-<li>
-<p><a href="/en/guide/3DM-skin.html" target="blank">How to download skins</a></p>
-</li>
-<li>
-<p><a href="/en/guide/custom-tp-setting.html" target="blank">How to use custom TP</a></p>
-</li>
-</ul>
-]]></content:encoded>
     </item>
   </channel>
 </rss>
