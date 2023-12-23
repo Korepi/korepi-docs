@@ -1,6 +1,7 @@
 import { hopeTheme } from "vuepress-theme-hope";
-import { enNavbar, zhNavbar, ruNavbar, idNavbar, esNavbar, mxNavbar, viNavbar, ptNavbar, trNavbar } from "./navbar/index.js";
-import { enSidebar, zhSidebar, ruSidebar, idSidebar, esSidebar, mxSidebar, viSidebar, ptSidebar, trSidebar } from "./sidebar/index.js";
+import { enNavbar, zhNavbar, ruNavbar, idNavbar, esNavbar, mxNavbar, viNavbar, ptNavbar, trNavbar, arNavbar } from "./navbar/index.js";
+import { enSidebar, zhSidebar, ruSidebar, idSidebar, esSidebar, mxSidebar, viSidebar, ptSidebar, trSidebar, arSidebar } from "./sidebar/index.js";
+
 
 export default hopeTheme({
   hostname: "https://korepi.com/",
@@ -130,6 +131,16 @@ export default hopeTheme({
           editLink: "Bu sayfayı GitHub'ta düzenle",
       },
     },
+    "/ar/": {
+      navbar: arNavbar,
+      sidebar: arSidebar,
+      footer:
+        ".يوفر أفضل تجربة لعب للاعبي جينشن امباكت عل الحاسوب",
+      displayFooter: true,
+      metaLocales: {
+        editLink: "GitHub تحرير هذه الصفحة على",
+      },
+    },
   },
 
   plugins: {
@@ -214,6 +225,14 @@ export default hopeTheme({
             title: "Contribute Your Skills",
             content:
               "If you have experience in <b>web front-end development</b> and <b>document management</b>, and would like to apply it to this documentation project, you are welcome to <a href='https://github.com/Korepi/korepi-docs'>join us in writing the documentation</a>",
+            fullscreen: false,
+            showOnce: false,
+          },
+          {
+            path: "/ar/",
+            title: "ساهم بمهاراتك",
+            content:
+            "إذا كانت لديك خبرة في <b>تطوير واجهة الويب الأمامية</b> و<b>إدارة المستندات</b>، وترغب في تطبيقها على مشروع التوجيه هذا، فنحن نرحب بك في <a href='https ://github.com/Korepi/korepi-docs'>انضم إلينا في كتابة الوثائق</a>",
             fullscreen: false,
             showOnce: false,
           },

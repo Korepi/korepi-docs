@@ -60,6 +60,11 @@ export default defineUserConfig({
             title: "Korepi",
             description: "Yardım için Korepi"
         },
+        "/ar/": {
+            lang: "ar",
+            title: "Korepi",
+            description: "للمساعدة Korepi"
+        },
     },
     plugins: [
         docsearchPlugin({
@@ -394,6 +399,47 @@ export default defineUserConfig({
                             },
                         },
                     },
+                },
+                "/ar/": {
+                    placeholder: "يبحث",
+                    translations: {
+                        button: {
+                            buttonText: "يبحث",
+                            buttonAriaLabel: "يبحث",
+                        },
+                        modal: {
+                            searchBox: {
+                                resetButtonTitle: "مسح معايير البحث",
+                                resetButtonAriaLabel: "مسح معايير البحث",
+                                cancelButtonText: "رجوع",
+                                cancelButtonAriaLabel: "رجوع",
+                            },
+                            startScreen: {
+                                recentSearchesTitle: "سجل البحث",
+                                noRecentSearchesText: "لا يوجد سجل بحث",
+                                saveRecentSearchButtonTitle: "حفظ في سجل البحث",
+                                removeRecentSearchButtonTitle: "إزالة من سجل البحث",
+                                favoriteSearchesTitle: "المفضلة",
+                                removeFavoriteSearchButtonTitle: "إزالة من المفضلة",
+                            },
+                            errorScreen: {
+                                titleText: "فشل في الحصول على النتائج",
+                                helpText: ".تحقق من اتصالك بالإنترنت والمورد المطلوب",
+                            },
+                            footer: {
+                                selectText: "إختيار",
+                                navigateText: "تبديل",
+                                closeText: "إغلاق",
+                                searchByText: "نحن نستخدم البحث",
+                            },
+                            noResultsScreen: {
+                                noResultsText: "لم أتمكن من العثور على أي شيء لاستفسارك:",
+                                suggestedQueryText: "يمكنك تجربة استفسار مختلف",
+                                reportMissingResultsText: "هل تعتقد أن هذا الاستعلام يجب أن يؤدي إلى بعض النتائج :> ؟",
+                                reportMissingResultsLinkText: "تواصل معنا",
+                            },
+                        },
+                    },
                 },                
             },
         }),
@@ -412,6 +458,7 @@ export default defineUserConfig({
                 "/pt/": ["pt-PT", "pt-BR", "pt"],
                 "/ko/": ["ko", "ko-KR"],
                 "/tr/": ["tr-TR", "tr"],
+                "/ar/": ["ar", "ar-MA", "ar-SA", "ar-PS", "ar-DZ", "ar-BH", "ar-TD", "ar-KM", "ar-JO", "ar-EG", "ar-IQ", "ar-KW", "ar-LB", "ar-LY", "ar-MR", "ar-OM", "ar-QA", "ar-SO", "ar-SD", "ar-SY", "ar-TN", "ar-AE", "ar-YE",],
             },
         }),
         googleAnalyticsPlugin({
