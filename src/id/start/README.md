@@ -10,16 +10,4 @@ tag:
 author: rekiihype, Chloe
 ---
 
-##  Katalog
-
-- [Cara Join Server](join.md)
-
-- [Cara Verifikasi Akun](verify.md)
-
-- [Cara Mendapatkan Role Fans](sign-in.md)
-
-- [Cara Sponsor](sponsor.md)
-
-- [Fitur Eksklusif Sponsor](sponsor-exclusive.md)
-
-- [Cara Download](download.md)
+<AutoCatalog />

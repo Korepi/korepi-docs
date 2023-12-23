@@ -92,6 +92,9 @@ export default hopeTheme({
       footer:
         "Proporciona la mejor experiencia de juego para jugadores de PC en Genshin Impact.",
       displayFooter: true,
+      navbarLocales: {
+        langName: "Español Latino",
+      },
       metaLocales: {
         editLink: "Edita esta pagina en GitHub",
       },
@@ -136,7 +139,9 @@ export default hopeTheme({
       sidebar: arSidebar,
       footer:
         ".يوفر أفضل تجربة لعب للاعبي جينشن امباكت عل الحاسوب",
-      displayFooter: true,
+      navbarLocales: {
+        langName: "العربية",
+      },
       metaLocales: {
         editLink: "GitHub تحرير هذه الصفحة على",
       },
