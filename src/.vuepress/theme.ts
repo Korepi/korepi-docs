@@ -1,6 +1,6 @@
 import { hopeTheme } from "vuepress-theme-hope";
-import { enNavbar, zhNavbar, ruNavbar, idNavbar, esNavbar, viNavbar, ptNavbar, trNavbar } from "./navbar/index.js";
-import { enSidebar, zhSidebar, ruSidebar, idSidebar, esSidebar, viSidebar, ptSidebar, trSidebar } from "./sidebar/index.js";
+import { enNavbar, zhNavbar, ruNavbar, idNavbar, esNavbar, mxNavbar, viNavbar, ptNavbar, trNavbar } from "./navbar/index.js";
+import { enSidebar, zhSidebar, ruSidebar, idSidebar, esSidebar, mxSidebar, viSidebar, ptSidebar, trSidebar } from "./sidebar/index.js";
 
 export default hopeTheme({
   hostname: "https://korepi.com/",
@@ -78,6 +78,16 @@ export default hopeTheme({
     "/es/": {
       navbar: esNavbar,
       sidebar: esSidebar,
+      footer:
+        "Proporciona la mejor experiencia de juego para jugadores de PC en Genshin Impact.",
+      displayFooter: true,
+      metaLocales: {
+        editLink: "Edita esta pagina en GitHub",
+      },
+    },
+    "/mx/": {
+      navbar: mxNavbar,
+      sidebar: mxSidebar,
       footer:
         "Proporciona la mejor experiencia de juego para jugadores de PC en Genshin Impact.",
       displayFooter: true,
@@ -164,6 +174,14 @@ export default hopeTheme({
             title: "Ayuda con tu talento",
             content:
               "Si tienes experiencia en <b>desarrollo front-end</b> y <b>gestión de documentos</b>, y te gustaría aplicarlo en este proyecto, eres bienvenid@ a <a href='https://github.com/Korepi/korepi-docs'>unirte a ayudarnos con la documentación</a>",
+            fullscreen: false,
+            showOnce: false,
+          },
+          {
+            path: "/mx/",
+            title: "Ayuda con tu talento",
+            content:
+              "Si tienes experiencia en <b>desarrollo front-end</b> y <b>gestión de documentos</b>, y te gustaría participar en este proyecto, eres bienvenid@ a <a href='https://github.com/Korepi/korepi-docs'>unirte a ayudarnos con la documentación</a>",
             fullscreen: false,
             showOnce: false,
           },

@@ -35,6 +35,11 @@ export default defineUserConfig({
             title: "Korepi",
             description: "Ayuda en Korepi"
         },
+        "/mx/": {
+            lang: "es-MX",
+            title: "Korepi",
+            description: "Ayuda en Korepi"
+        },
         "/vi/": {
             lang: "vi-VN",
             title: "Korepi",
@@ -267,6 +272,47 @@ export default defineUserConfig({
                         },
                     },
                 },
+                "/mx/": {
+                    placeholder: "Buscar",
+                    translations: {
+                        button: {
+                            buttonText: "Buscar",
+                            buttonAriaLabel: "Buscar",
+                        },
+                        modal: {
+                            searchBox: {
+                                resetButtonTitle: "Limpiar Criterio de Búsqueda",
+                                resetButtonAriaLabel: "Limpiar Criterio de Búsqueda",
+                                cancelButtonText: "Volver",
+                                cancelButtonAriaLabel: "Volver",
+                            },
+                            startScreen: {
+                                recentSearchesTitle: "Historial de Búsqueda",
+                                noRecentSearchesText: "No hay historial de búsqueda",
+                                saveRecentSearchButtonTitle: "Guardar en historial de búsqueda",
+                                removeRecentSearchButtonTitle: "Quitar del historial de búsqueda",
+                                favoriteSearchesTitle: "Favoritos",
+                                removeFavoriteSearchButtonTitle: "Quitar de Favoritos",
+                            },
+                            errorScreen: {
+                                titleText: "No es posible obtener los resultados",
+                                helpText: "Por favor, comprueba tu conexión a internet.",
+                            },
+                            footer: {
+                                selectText: "Seleccionar",
+                                navigateText: "Cambiar",
+                                closeText: "Cerrar",
+                                searchByText: "Hecho por",
+                            },
+                            noResultsScreen: {
+                                noResultsText: "No se han encontrado resultados:",
+                                suggestedQueryText: "Intenta con una consulta diferente",
+                                reportMissingResultsText: "¿Crees que esta consulta debería arrojar algunos resultados :> ?",
+                                reportMissingResultsLinkText: "Contáctenos",
+                            },
+                        },
+                    },
+                },
                 "/pt/": {
                     placeholder: "Buscar",
                     translations: {
@@ -361,6 +407,7 @@ export default defineUserConfig({
                 "/ru/": ["ru-RU", "ru-KZ", "ru-BY", "ru-UA", "ru-MD", "ru-LV", "tt-RU", "ru"],
                 "/id/": ["id-ID", "id"],
                 "/es/": ["es-ES", "es"],
+                "/mx/": ["es-MX", "es-419", "es-AR", "es-BM", "es-BZ", "es-BO", "es-CL", "es-CO", "es-CR", "es-CU", "es-DO", "es-EC", "es-SV", "es-GT", "es-HN", "es-NI", "es-PA", "es-PY", "es-PE", "es-PR", "es-US", "es-UY", "es-VE"],
                 "/vi/": ["vi-VN", "vi"],
                 "/pt/": ["pt-PT", "pt-BR", "pt"],
                 "/ko/": ["ko", "ko-KR"],
