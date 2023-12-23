@@ -2,7 +2,7 @@
 title: 攻击效果
 icon: explosion
 category:
-  - Features
+  - 功能
 tag:
   - 攻击效果
 author: Double

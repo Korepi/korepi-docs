@@ -2,7 +2,7 @@
 title: 隐藏界面
 icon: square
 category:
-  - Features
+  - 功能
 tag:
   - 隐藏界面
 author: Double

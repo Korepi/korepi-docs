@@ -2,7 +2,7 @@
 title: 杀戮光环
 icon: street-view
 category:
-  - Features
+  - 功能
 tag:
   - 杀戮光环
 author: Double

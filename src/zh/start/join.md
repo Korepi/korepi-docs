@@ -9,19 +9,19 @@ author: QweRez
 order: 1
 ---
 
-## 介绍
+## 介绍：
 
 欢迎来到我们的社区！要加入 Discord 服务器并开始使用 Korepi，请按照以下步骤操作。
 
-## 步骤 1：创建 Discord 帐户
+##  1.创建 Discord 帐户。
 
 如果您还没有 Discord 帐户，请首先创建一个新帐户。访问 [官方 Discord 网站](https://discord.com/) 并按照注册说明进行操作。
 
-## 步骤 2：下载和安装 Discord
+##  2.下载和安装 Discord。
 
 创建帐户后，为您的操作系统下载 [Discord 客户端](https://discord.com/download)。按照屏幕上的说明安装客户端。
 
-## 步骤 3：加入服务器
+##  3.加入服务器。
 
 1. 复制管理员提供的 Discord 服务器的 [邀请链接](https://discord.gg/cottonbuds)。
 2. 在 Discord 客户端中，点击左下角的 "+" 按钮。

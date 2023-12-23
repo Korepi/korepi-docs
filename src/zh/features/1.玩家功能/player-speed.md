@@ -2,7 +2,7 @@
 title: 玩家速度
 icon: forward-fast
 category:
-  - Features
+  - 功能
 tag:
   - 玩家速度
 author: Double

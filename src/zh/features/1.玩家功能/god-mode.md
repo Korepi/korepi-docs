@@ -2,7 +2,7 @@
 title: 无敌模式
 icon: user
 category:
-  - Features
+  - 功能
 tag:
   - 无敌模式
 author: Double

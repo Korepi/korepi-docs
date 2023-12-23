@@ -2,7 +2,7 @@
 title: 自定义资料
 icon: users-gear
 category:
-  - Features
+  - 功能
 tag:
   - 自定义资料
 author: Double

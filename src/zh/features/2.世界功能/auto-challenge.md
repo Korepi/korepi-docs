@@ -2,7 +2,7 @@
 title: 自动挑战
 icon: power-off
 category:
-  - Features
+  - 功能
 tag:
   - 自动挑战
 author: Double

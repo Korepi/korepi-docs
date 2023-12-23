@@ -2,7 +2,7 @@
 title: 远程工具
 icon: tower-broadcast
 category:
-  - Features
+  - 功能
 tag:
   - 远程工具
 author: Double

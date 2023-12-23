@@ -2,7 +2,7 @@
 title: 皮肤修改器
 icon: list
 category:
-  - Features
+  - 功能
 tag:
   - 皮肤修改器
 author: Double

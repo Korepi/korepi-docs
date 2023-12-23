@@ -2,7 +2,7 @@
 title: 自定义天气
 icon: cloud
 category:
-  - Features
+  - 功能
 tag:
   - 自定义天气
 author: Double

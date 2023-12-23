@@ -2,7 +2,7 @@
 title: 元素光环
 icon: street-view
 category:
-  - Features
+  - 功能
 tag:
   - 元素光环
 author: Double

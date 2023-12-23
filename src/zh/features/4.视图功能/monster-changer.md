@@ -2,7 +2,7 @@
 title: 怪物替换
 icon: arrows-rotate
 category:
-  - Features
+  - 功能
 tag:
   - 怪物替换
 author: Double

@@ -2,7 +2,7 @@
 title: 伪装时间
 icon: clock
 category:
-  - Features
+  - 功能
 tag:
   - 伪装时间
 author: Double
