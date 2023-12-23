@@ -9,14 +9,14 @@ author: Schvis
 order: 3
 ---
 
-## Custom Teleport: Allows the player to teleport to a selected location designed by a `.json` file.
-### Interpolation Speed:
-- Controls the teleportation animation speed, set to `0.1` to avoid issues.
-### Auto Teleport:
-- Teleports automatically following the order of the provided `.json` files.
-    - Teleport Next: Teleports to next location after pressing the selected hotkey.
-    - Teleport Previous: Teleports to previous location after pressing the selected hotkey.
-> Note: Recommended to set above `15s` for safety.
+## Пользовательская телепортация: Позволяет игроку телепортироваться в выбранное местоположение, созданное с помощью файла `.json`.
+### Скорость интерполяции:
+- Управляет скоростью анимации телепортации, установленной на `0.1`, чтобы избежать проблем.
+### Автоматическая телепортация:
+- Телепортируется автоматически в соответствии с порядком предоставленных файлов `.json`.
+    - Телепортировать следующий: Телепортируется в следующее местоположение после нажатия выбранной горячей клавиши.
+    - Телепортировать предыдущий: Телепортируется в предыдущее местоположение после нажатия выбранной горячей клавиши.
+> Примечание: Рекомендуется устанавливать значение выше `15 секунд` в целях безопасности.
 
-# You can find out more on how to use this feature [here](../.././guide/custom-tp-setting.md)
+# Вы можете узнать больше о том, как использовать эту функцию [здесь](../.././guide/custom-tp-setting.md)
 

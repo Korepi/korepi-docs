@@ -8,7 +8,7 @@ tag:
 author: Schvis
 order: 16
 ---
-::: info Its better to use [GIMI](../../guide/3DM-tutorial.md) for changing textures.
+::: информация Для изменения текстур лучше использовать [GIMI](../../guide/3DM-tutorial.md).
 :::
 ---
-## Texture Changer allows to switch character parts to the provided .png files.
+## Texture Changer позволяет переключать части персонажей в предоставленные файлы .png.

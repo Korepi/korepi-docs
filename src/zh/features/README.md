@@ -2,9 +2,9 @@
 title: 功能列表
 icon: "book"
 category:
-  - Features
+  - 功能
 tag:
-  - Start
+  - 开始
 author: Double
 ---
 

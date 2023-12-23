@@ -9,4 +9,4 @@ author: Schvis
 order: 1
 ---
 
-## Animation Changer, allows the player to change their current character animation to the selected one.
+## Средство смены анимации, позволяющее игроку изменить текущую анимацию персонажа на выбранную.

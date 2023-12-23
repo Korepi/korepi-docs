@@ -16,15 +16,16 @@ export const zhSidebar = sidebar({
       children: "structure",
     },
     {
+      text: "功能",
+      icon: "sitemap",
+      prefix: "features/",
+      children: "structure",
+    },
+    {
       text: "故障排除",
       icon: "info-circle",
       prefix: "troubleshoot/",
       children: "structure",
     },
-    {text: "功能",
-      icon: "sitemap",
-      prefix: "features/",
-      children: "structure",
-      }
   ],
 });

@@ -1,7 +1,7 @@
 ---
 home: true
 icon: home
-title: Home
+title: Tela inicial
 heroImage: /logo2.svg
 bgImage: https://theme-hope-assets.vuejs.press/bg/6-light.svg
 bgImageDark: https://theme-hope-assets.vuejs.press/bg/6-dark.svg

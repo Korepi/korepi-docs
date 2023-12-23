@@ -2,7 +2,7 @@
 title: 自由移动
 icon: person-walking-dashed-line-arrow-right
 category:
-  - Features
+  - 功能
 tag:
   - 自由移动
 author: Double

@@ -2,7 +2,7 @@
 title: 自动钓鱼
 icon: fish-fins
 category:
-  - Features
+  - 功能
 tag:
   - 自动钓鱼
 author: Double

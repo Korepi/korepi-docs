@@ -2,7 +2,7 @@
 title: 自动烹饪
 icon: kitchen-set
 category:
-  - Features
+  - 功能
 tag:
   - 自动烹饪
 author: Double

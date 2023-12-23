@@ -9,4 +9,4 @@ author: Schvis
 order: 5
 ---
 
-## Custom Wether allows you to change the weather to your liking.
+## Пользовательская погода позволяет вам изменять погоду по своему вкусу.

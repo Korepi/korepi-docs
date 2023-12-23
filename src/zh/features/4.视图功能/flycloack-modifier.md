@@ -2,7 +2,7 @@
 title: 风之翼修改
 icon: arrows-rotate
 category:
-  - Features
+  - 功能
 tag:
   - 风之翼修改
 author: Double

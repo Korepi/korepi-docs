@@ -26,6 +26,5 @@ order: 4
 ::: tip Модераторы
 - qwerezon
 - butterbrodskiy
-- ezizfrostik
 :::
 

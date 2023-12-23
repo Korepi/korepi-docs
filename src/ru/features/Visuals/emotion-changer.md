@@ -9,4 +9,4 @@ author: Schvis
 order: 6
 ---
 
-## Emotion Changer allows the player to change the current character emotion to the selected one.
+## Средство смены эмоций позволяет игроку изменить текущую эмоцию персонажа на выбранную.

@@ -8,15 +8,15 @@ tag:
 author: Schvis
 order: 3
 ---
-::: info Sponsor Only
+::: Спонсор
 :::
 ---
-## Constellation Modifier, will change your active character constellations if selected, visually and some of them will actually work.
-- You can find more information about which of them work at `#⁠cons-check` in the server. 
+# Модификатор # Constellation, если он выбран, визуально изменит созвездия ваших активных персонажей, и некоторые из них действительно будут работать.
+- Вы можете найти более подробную информацию о том, какие из них работают, в разделе "#cons-check" на сервере. 
 
-::: tip You have to switch to each character you want to activate the constellations first and then teleport far away to activate them.
+::: совет: Вам нужно сначала переключиться на каждого персонажа, которого вы хотите активировать, а затем телепортироваться подальше, чтобы активировать их.
 :::
 
-## Example Video:
+## Пример видео:
 
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/S9-g5weE9l8?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Constellation Modifier (Sponsor)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>

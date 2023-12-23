@@ -2,7 +2,7 @@
 title: 生物吸附
 icon: magnet
 category:
-  - Features
+  - 功能
 tag:
   - 生物吸附
 author: Double

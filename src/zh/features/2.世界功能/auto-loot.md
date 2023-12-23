@@ -2,7 +2,7 @@
 title: 自动收集
 icon: hand
 category:
-  - Features
+  - 功能
 tag:
   - 自动收集
 author: Double

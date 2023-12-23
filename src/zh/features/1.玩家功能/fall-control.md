@@ -2,7 +2,7 @@
 title: 坠落控制
 icon: person-falling
 category:
-  - Features
+  - 功能
 tag:
   - 坠落控制
 author: Schvis

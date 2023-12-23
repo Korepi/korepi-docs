@@ -2,7 +2,7 @@
 title: FPS解锁
 icon: arrow-up-right-dots
 category:
-  - Features
+  - 功能
 tag:
   - FPS解锁
 author: Double
