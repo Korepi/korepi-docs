@@ -6,41 +6,40 @@
     <link>https://korepi.com/id/</link>
     <description>Pertolongan Korepi</description>
     <language>id-ID</language>
-    <pubDate>Sat, 23 Dec 2023 19:38:06 GMT</pubDate>
-    <lastBuildDate>Sat, 23 Dec 2023 19:38:06 GMT</lastBuildDate>
+    <pubDate>Sun, 24 Dec 2023 05:43:32 GMT</pubDate>
+    <lastBuildDate>Sun, 24 Dec 2023 05:43:32 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-    <category>Guide</category>
+    <category>Panduan</category>
     <category>FAQ</category>
     <category>Features</category>
     <category>Fitur</category>
     <category>Quest Teleport</category>
-    <category>Panduan</category>
     <category>Solusi</category>
     <item>
-      <title>How to add to exclusion list</title>
+      <title>Cara menambahkan ke daftar pengecualian</title>
       <link>https://korepi.com/id/guide/virus.html</link>
       <guid>https://korepi.com/id/guide/virus.html</guid>
-      <source url="https://korepi.com/id/rss.xml">How to add to exclusion list</source>
-      <description>Other antivirus will have similar steps, adapt depending on the antivirus you are using. How to add Korepi to antivirus exclusion list (Windows Defender) Step 1: Open the antivi...</description>
-      <category>Guide</category>
+      <source url="https://korepi.com/id/rss.xml">Cara menambahkan ke daftar pengecualian</source>
+      <description>Antivirus lain akan memiliki langkah serupa, sesuaikan tergantung pada antivirus yang Anda gunakan. Cara Menambahkan ke Daftar Pengecualian pada Antivirus Langkah 1: Buka Antivi...</description>
+      <category>Panduan</category>
       <pubDate>Sat, 23 Dec 2023 17:10:07 GMT</pubDate>
       <content:encoded><![CDATA[<div class="hint-container info">
-<p class="hint-container-title">Other antivirus will have similar steps, adapt depending on the antivirus you are using.</p>
+<p class="hint-container-title">Antivirus lain akan memiliki langkah serupa, sesuaikan tergantung pada antivirus yang Anda gunakan.</p>
 </div>
 <hr>
-<h2> How to add Korepi to antivirus exclusion list (Windows Defender)</h2>
-<h3> Step 1: Open the antivirus</h3>
-<p>Open the windows search bar and search for <code>Windows Security</code> and open it.</p>
+<h3> Cara Menambahkan ke Daftar Pengecualian pada Antivirus</h3>
+<h3> Langkah 1: Buka Antivirus</h3>
+<p>Buka bar pencarian Windows dan cari <code>Windows Security</code>, kemudian buka.</p>
 <p><img src="/assets/images/docs/202312/security.png" alt="" loading="lazy"></p>
-<p>We click on <code>Virus &amp; threat protection</code>.</p>
+<p>Klik <code>Virus &amp; threat protection</code>.</p>
 <p><img src="/assets/images/docs/202312/virus1.png" alt="" loading="lazy"></p>
-<p>Then we scroll till we find <code>Virus &amp; threat protection settings</code> and click on <code>Manage settings</code>.</p>
+<p>Gulir hingga temukan <code>Pengaturan Virus &amp; threat protection</code> dan klik <code>Manage settings</code>.</p>
 <p><img src="/assets/images/docs/202312/virus3.png" alt="" loading="lazy"></p>
-<h3> Step 2: Adding to the exclusion list</h3>
-<p>After following the last step, we will scroll until we find <code>Exclusions</code> and then we click on <code>Add or remove exclusions</code>.</p>
+<h3> Langkah 2: Menambahkan ke Daftar Pengecualian</h3>
+<p>Setelah mengikuti langkah sebelumnya, gulir hingga temukan <code>Exclusions</code>, lalu klik <code>Add or remove exclusions</code>.</p>
 <p><img src="/assets/images/docs/202312/virus4.png" alt="" loading="lazy"></p>
-<p>Click yes to the popup, after that we click on <code>Add an Exclusion</code> and select folder, then we select our Korepi folder.</p>
+<p>Klik ya pada jendela pop-up, setelah itu klik <code>Add an Exclusion</code> dan pilih folder, kemudian pilih folder Korepi kita.</p>
 ]]></content:encoded>
       <enclosure url="https://korepi.com/assets/images/docs/202312/security.png" type="image/png"/>
     </item>
