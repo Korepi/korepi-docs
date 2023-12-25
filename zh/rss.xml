@@ -6,40 +6,40 @@
     <link>https://korepi.com/zh/</link>
     <description>Korepi 中文文档介绍</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 24 Dec 2023 05:43:32 GMT</pubDate>
-    <lastBuildDate>Sun, 24 Dec 2023 05:43:32 GMT</lastBuildDate>
+    <pubDate>Mon, 25 Dec 2023 05:41:11 GMT</pubDate>
+    <lastBuildDate>Mon, 25 Dec 2023 05:41:11 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-    <category>Guide</category>
     <category>指南</category>
     <category>问题解答</category>
     <category>Features</category>
     <category>功能</category>
+    <category>Guide</category>
     <category>Troubleshoot</category>
     <item>
-      <title>How to add to exclusion list</title>
+      <title>如何将 Korepi 添加到杀毒软件排除列表</title>
       <link>https://korepi.com/zh/guide/virus.html</link>
       <guid>https://korepi.com/zh/guide/virus.html</guid>
-      <source url="https://korepi.com/zh/rss.xml">How to add to exclusion list</source>
-      <description>Other antivirus will have similar steps, adapt depending on the antivirus you are using. How to add Korepi to antivirus exclusion list (Windows Defender) Step 1: Open the antivi...</description>
-      <category>Guide</category>
+      <source url="https://korepi.com/zh/rss.xml">如何将 Korepi 添加到杀毒软件排除列表</source>
+      <description>其他杀毒软件也有类似的步骤，请根据所使用的杀毒软件进行调整。 如何将 Korepi 添加到杀毒软件排除列表（Windows Defender） 第 1 步：打开杀毒软件 打开 Windows 搜索栏，搜索 Winows 安全中心并打开。 我们点击 病毒和威胁防护。 然后滚动找到 病毒和威胁防护设置，点击 管理设置。 第 2 步：添加到排除列表 完成上一...</description>
+      <category>指南</category>
       <pubDate>Sat, 23 Dec 2023 17:10:07 GMT</pubDate>
       <content:encoded><![CDATA[<div class="hint-container info">
-<p class="hint-container-title">Other antivirus will have similar steps, adapt depending on the antivirus you are using.</p>
+<p class="hint-container-title">其他杀毒软件也有类似的步骤，请根据所使用的杀毒软件进行调整。</p>
 </div>
 <hr>
-<h2> How to add Korepi to antivirus exclusion list (Windows Defender)</h2>
-<h3> Step 1: Open the antivirus</h3>
-<p>Open the windows search bar and search for <code>Windows Security</code> and open it.</p>
+<h3> 如何将 Korepi 添加到杀毒软件排除列表（Windows Defender）</h3>
+<h3> 第 1 步：打开杀毒软件</h3>
+<p>打开 Windows 搜索栏，搜索 <code>Winows 安全中心</code>并打开。</p>
 <p><img src="/assets/images/docs/202312/security.png" alt="" loading="lazy"></p>
-<p>We click on <code>Virus &amp; threat protection</code>.</p>
+<p>我们点击 <code>病毒和威胁防护</code>。</p>
 <p><img src="/assets/images/docs/202312/virus1.png" alt="" loading="lazy"></p>
-<p>Then we scroll till we find <code>Virus &amp; threat protection settings</code> and click on <code>Manage settings</code>.</p>
+<p>然后滚动找到 <code>病毒和威胁防护设置</code>，点击 <code>管理设置</code>。</p>
 <p><img src="/assets/images/docs/202312/virus3.png" alt="" loading="lazy"></p>
-<h3> Step 2: Adding to the exclusion list</h3>
-<p>After following the last step, we will scroll until we find <code>Exclusions</code> and then we click on <code>Add or remove exclusions</code>.</p>
+<h3> 第 2 步：添加到排除列表</h3>
+<p>完成上一步后，我们将滚动直至找到 <code>排除项</code>，然后点击 <code>添加或删除排除项</code>。</p>
 <p><img src="/assets/images/docs/202312/virus4.png" alt="" loading="lazy"></p>
-<p>Click yes to the popup, after that we click on <code>Add an Exclusion</code> and select folder, then we select our Korepi folder.</p>
+<p>点击弹出的 <code>是</code>，然后点击 <code>添加排除项</code>并选择文件夹，然后选择 Korepi 文件夹。</p>
 ]]></content:encoded>
       <enclosure url="https://korepi.com/assets/images/docs/202312/security.png" type="image/png"/>
     </item>
