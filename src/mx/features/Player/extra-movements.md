@@ -5,33 +5,35 @@ category:
   - Funciones
 tag:
   - Movimiento Extra
-author: Schvis
+author: Schvis, ll33ee
 order: 5
 ---
-::: info Solo para Sponsor
+::: info Sólo para Sponsor
 :::
 ---
-## Movimiento Extra: Cambia/Mejora ciertas acciones del jugador.
+## Movimiento Extra: Modifica/Mejora ciertas acciones.
 ### Correr Sobre el Agua:
-- Activa la habilidad de caminar sobre el agua.
-### Impulso al Correr:
+- Activa la habilidad para desplazarte en la superficie del agua.
+### Correr Mejorado:
 - Aumenta la velocidad al correr.
 > Nota: No se recomienda cambiar los valores predeterminados.
-### Aumento de Salto:
+### Salto Mejorado:
 - Aumenta la altura que puede saltar el jugador.
-    - Aplicar En Medio Del Aire: Habilita la posibilidad de saltar en medio del aire.
+    - Salta mientras estás en el aire.
 > Nota: No se recomienda cambiar los valores predeterminados.
-### Aumento de Vuelo:
+### Volar Mejorado:
 - Aumenta la velocidad al planear.
 > Nota: No se recomienda cambiar los valores predeterminados.
-### Aumento de Nado:
+### Nadar Mejorado:
 - Aumenta la velocidad al nadar.
 > Nota: No se recomienda cambiar los valores predeterminados.
-### Aumento de Buceo:
+### Buceo Mejorado:
 - Aumenta la velocidad al bucear.
 > Nota: No se recomienda cambiar los valores predeterminados.
 ### Blink:
-- Permite al jugador moverse una distancia seleccionada al darle a una tecla
+- Desplaza al instante al jugador a una distancia establecida cuando se pulsa la tecla de acceso rápido.
+### Modo Sigilo:
+- Asigna una tecla de acceso rápido para entran en el modo de sigilo.
 
 ## Video de Ejemplo:
 

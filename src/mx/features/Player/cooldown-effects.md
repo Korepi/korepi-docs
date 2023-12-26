@@ -1,28 +1,28 @@
 ---
-title: Efectos de Enfriamiento
+title: Efectos de TdE
 icon: clock-rotate-left
 category:
   - Funciones
 tag:
-  - Efectos de Enfriamiento
-author: Schvis
+  - Efectos de TdE
+author: Schvis, ll33ee
 order: 4
 ---
 
-## Efectos de Enfriamiento: Cambia el enfriamiento de varias acciones.
-### Energia Máxima de la definitiva:
-- Quita la necesidad de tener energia para usar la definitiva.
-> Nota: La burbuja puede que aparezca incomplete pero se puede usar igualmente.
-### Sin Enfriamiento de Habilidades: Quita el enfriamiento de las habilidades y definitivas de los personajes.
-- Reducir Enfriamiento de Habilidades y Definitiva: En vez de quitar el enfriamiento se reducirá al valor especificado.
-> Nota: Puedes usar cualquier valor, solo no te pases. `ej. 40 veces en un 1m`
-### Sin Enfriamiento de Esprint:
-- Quita el retraso entre esprints.
+## Efectos de TdE: Cambia el <b>Tiempo de Espera</b> y restricciones de varias acciones.
+### Energía de la definitiva al máximo:
+- Habilidad Definitiva siempre cargada al máximo ignorando las restricciones.
+> Nota: La interfaz no muestra que está cargada, pero puedes usarla igualmente.
+### Sin TdE en Habilidades: Cambia el TdE de las habilidades y definitivas de los personajes.
+- Reducir el TdE de Habilidades y Definitiva: Al activarlo, si el TdE es mayor al valor seleccionado, se ajustará a ese valor.
+> Nota: Puedes usar cualquier valor, evita usarla en exceso. `Ej: 40 veces en un 1 minuto.`
+### Sin TdE al Correr:
+- Te permite Esquivar(iniciar Carrera) sin la restricción del TdE.
 ### Carga Instantánea de Ataque:
-- Arco: Quia el tiempo de carga de arcos.
-- Otro: Quia el tiempo de carga para otras armas.
-### Sin Enfriamiento de Habilidad del Vehículo:
-- Quita el enfriamiento de las habilidades del barco.
+- Arco: Carga completamente el arco al momento de apuntar.
+- Otro: Lanza inmediatamente el ataque cargado de las otras armas.
+### Sin TdE de Habilidad del Vehículo:
+- Ignora el TdE de las habilidades del barco.
 
 ## Video de Ejemplo:
 

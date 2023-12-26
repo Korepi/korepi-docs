@@ -5,23 +5,24 @@ category:
   - Funciones
 tag:
   - Sin Colisión
-author: Schvis
+author: Schvis, ll33ee
 order: 9
 ---
 
 ## Sin Colisión te permitirá pasar por objetos, volar y aumentar tu velocidad.
 ### Sin Animación:
 - Cuando esta activo, el personaje no tendrá animación usando sin colisión
-### Movimiento Relativo de la Cámara:
-- Cuando esta activo, el personaje se moverá dependiendo de la cámara en vez de donde este mirando.
+### Movimiento Relativo a la Cámara:
+- Al activarlo, el desplazamiento dependerá de a donde apunta la cámara.
+- Al desactivarlo, el desplazamiento dependerá de a donde mire el personaje.
 ### Sin Colisión Alternativo:
-- Cuando esta activo, la velocidad de sin colisión sera cambiada al darle a la tecla seleccionada a la velocidad seleccionada.
+- Al activarlo, la velocidad cambiará al presionar tecla de acceso para la velocidad seleccionada.
 ### Usar Teclas Personalizadas:
-- Activa la función de cambiar los controles de sin colisión.
-### Evitar Tirones:
-- Evita ser echado para atrás por el servidor por velocidad excesiva
+- Activa para cambiar los controles direcionales a tu gusto.
+### Anti-Retroceso:
+- Evita que el servidor te regrese por exceso de velocidad.
 
-> Nota: No se recomienda usar por encima de `20`.
+> Nota: No se recomienda valores superiores a `20`.
 
 ## Video de Ejemplo:
 
