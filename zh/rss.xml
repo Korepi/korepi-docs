@@ -6,8 +6,8 @@
     <link>https://korepi.com/zh/</link>
     <description>Korepi 中文文档介绍</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 25 Dec 2023 05:41:11 GMT</pubDate>
-    <lastBuildDate>Mon, 25 Dec 2023 05:41:11 GMT</lastBuildDate>
+    <pubDate>Tue, 26 Dec 2023 06:07:26 GMT</pubDate>
+    <lastBuildDate>Tue, 26 Dec 2023 06:07:26 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>指南</category>
@@ -16,6 +16,26 @@
     <category>功能</category>
     <category>Guide</category>
     <category>Troubleshoot</category>
+    <item>
+      <title>如何多开Korepi</title>
+      <link>https://korepi.com/zh/guide/Multi-korepi.html</link>
+      <guid>https://korepi.com/zh/guide/Multi-korepi.html</guid>
+      <source url="https://korepi.com/zh/rss.xml">如何多开Korepi</source>
+      <description>---Korepi目前只有V版本可以多开 1.下载Korepi的V版本。 2.打开Korepi的V版本所在文件夹，打开cfj.ini。 3.找到Multi korepi=，将false改为true。 展示视频：</description>
+      <category>指南</category>
+      <pubDate>Mon, 25 Dec 2023 07:31:38 GMT</pubDate>
+      <content:encoded><![CDATA[<hr>
+<div class="hint-container tip">
+<p class="hint-container-title">Korepi目前只有V版本可以多开</p>
+</div>
+<hr>
+<h2> 1.下载Korepi的V版本。</h2>
+<h2> 2.打开Korepi的V版本所在文件夹，打开<code>cfj.ini</code>。</h2>
+<h2> 3.找到Multi korepi=，将<code>false</code>改为<code>true</code>。</h2>
+<h2> 展示视频：</h2>
+ <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/pSAxKoneT64" title="Multi-Instance V (Updated)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+]]></content:encoded>
+    </item>
     <item>
       <title>如何将 Korepi 添加到杀毒软件排除列表</title>
       <link>https://korepi.com/zh/guide/virus.html</link>
@@ -1929,11 +1949,12 @@ CN</li>
       <link>https://korepi.com/zh/guide/</link>
       <guid>https://korepi.com/zh/guide/</guid>
       <source url="https://korepi.com/zh/rss.xml">指南</source>
-      <description>如何获取并使用密钥 (key-use.md); 如何切换korepi版本和更换设备 (change-hwid.md); 配置文件的切换 (config-change.md); 自定义传送的使用指南 (custom-tp-setting.md); esp调配设置 (esp-setting.md); Korepi与3DM同时运行教程 (3DM-t...</description>
+      <description>如何获取并使用密钥 (key-use.md); 如何多开Korepi (Multi-korepi.md); 如何切换korepi版本和更换设备 (change-hwid.md); 配置文件的切换 (config-change.md); 自定义传送的使用指南 (custom-tp-setting.md); esp调配设置 (esp-settin...</description>
       <category>指南</category>
       <pubDate>Mon, 20 Nov 2023 11:28:37 GMT</pubDate>
       <content:encoded><![CDATA[<ul>
 <li><a href="/zh/guide/key-use.html" target="blank">如何获取并使用密钥</a></li>
+<li><a href="/zh/guide/Multi-korepi.html" target="blank">如何多开Korepi</a></li>
 <li><a href="/zh/guide/change-hwid.html" target="blank">如何切换korepi版本和更换设备</a></li>
 <li><a href="/zh/guide/config-change.html" target="blank">配置文件的切换</a></li>
 <li><a href="/zh/guide/custom-tp-setting.html" target="blank">自定义传送的使用指南</a></li>
