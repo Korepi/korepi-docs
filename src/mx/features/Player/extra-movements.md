@@ -33,7 +33,7 @@ order: 5
 ### Blink:
 - Desplaza al instante al jugador a una distancia establecida cuando se pulsa la tecla de acceso rápido.
 ### Modo Sigilo:
-- Asigna una tecla de acceso rápido para entran en el modo de sigilo.
+- Asigna una tecla de acceso rápido para entrar en el modo de sigilo.
 
 ## Video de Ejemplo:
 
