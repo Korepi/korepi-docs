@@ -2,37 +2,37 @@
 title: Extra Movements
 icon: bolt
 category:
-  - Features
+  - المميزات
 tag:
   - Extra Movements
 author: Schvis
 order: 5
 ---
-::: info Sponsor Only
+::: info : للداعمين فقط
 :::
 ---
-## Extra Movements: Modifies/Enhances certain actions for the player.
+## الحركات الإضافية: تعديل/تحسين إجراءات معينة للاعب.
 ### Run On Water:
-- Enables the ability to walk on water.
+- يُمكّن من القدرة على المشي على الماء.
 ### Run Boost:
-- Enhances the speed when the player is running.
-> Note: Not recommended to change default values.
+- يعزز سرعة جري اللاعب.
+> ملاحظة: لا يوصى بتغيير القيم الافتراضية.
 ### Jump Boost:
-- Enhances the height of the jump for the player.
-    - Apply Mid Air: Enable jumping while not on the ground.
-> Note: Not recommended to change default values.
+- يعزز ارتفاع القفزة للاعب.
+- تمكين القفز أثناء عدم وجودك على الأرض.:(Mid Air) تفعيل
+> ملاحظة: لا يوصى بتغيير القيم الافتراضية
 ### Fly Boost:
-- Enhances the speed when the player is gliding.
-> Note: Not recommended to change default values.
+- يعزز السرعة عند طيران اللاعب.
+> ملاحظة: لا يوصى بتغيير القيم الافتراضية
 ### Swim Boost: 
-- Enhances the speed when the player is swimming.
-> Note: Not recommended to change default values.
+- يعزز السرعة عندما يقوم اللاعب بالسباحة.
+> ملاحظة: لا يوصى بتغيير القيم الافتراضية
 ### Dive Boost:
-- Enhances the speed when the player is diving.
-> Note: Not recommended to change default values.
+- يعزز السرعة عندما يقوم اللاعب بالغوص.
+> ملاحظة: لا يوصى بتغيير القيم الافتراضية
 ### Blink:
-- Allows the player to move certain distance after pressing a hotkey.
+- يسمح للاعب بالتحرك لمسافة معينة بعد الضغط على مفتاح التشغيل السريع.
 
-## Example Video:
+## فيديو توضيحي:
 
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/wMd9icqhFQg?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Extra Movement (Sponsor)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
