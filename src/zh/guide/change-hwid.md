@@ -1,13 +1,13 @@
 ---
 title: 如何切换korepi版本和更换设备
-icon: key
+icon: magic-wand-sparkles
 category:
   - 指南
 tag:
   - 开始
   - 教程
 author: Double
-order: 2
+order: 3
 ---
 ---
 ::: tip <span style="color:#f1c40f;">赞助者</span>每个月3点额度，可以用于切换korepi的版本和更换设备hwid。
