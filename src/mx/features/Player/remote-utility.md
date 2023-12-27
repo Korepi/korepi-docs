@@ -1,10 +1,10 @@
 ---
-title: Utilidad Remota
+title: Herramientas Remotas
 icon: tower-broadcast
 category:
   - Funciones
 tag:
-  - Utilidad Remota
+  - Herramientas Remotas
 author: Schvis, ll33ee
 order: 11
 ---
@@ -12,7 +12,7 @@ order: 11
 ::: info Solo para Sponsor
 :::
 ---
-## Herramientas Remota:
+## Herramientas Remotas:
 ### Reclamar Recompensas de Comisiones Diarias:
 - Reclama las recompensas cuando las 4 comisiones han sido terminados.
 ### Conversación Personalizada:
