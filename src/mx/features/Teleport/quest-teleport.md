@@ -5,12 +5,12 @@ category:
   - Funciones
 tag:
   - Teletransporte de Misión
-author: Schvis
+author: Schvis, ll33ee
 order: 5
 ---
 
 ## Teletransporte de Misión permite al jugador teletransportarse al lugar de la misión activa.
-- Para usar esta función debes estar siguiendo la misión y darle a la tecla designada.
+- Para usar esta función debes estar siguiendo la misión y presionar la tecla asignada.
 
 ## Video de Ejemplo:
 
