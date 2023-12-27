@@ -1,13 +1,13 @@
 ---
-title: Tiempo Falso
+title: Hora Falsa
 icon: clock
 category:
   - Funciones
 tag:
-  - Tiempo Falso
-author: Schvis
+  - Hora Falsa
+author: Schvis, ll33ee
 order: 9
 ---
 
-## Tiempo Falso:
-- Cambia el tiempo dentro del juego a tu gusto.
+## Hora Falsa:
+- Cambia la hora en el juego a tu gusto (Hora y minutos).

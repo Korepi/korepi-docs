@@ -5,16 +5,16 @@ category:
   - Funciones
 tag:
   - Modificador de Constelaciones
-author: Schvis
+author: Schvis, ll33ee
 order: 3
 ---
 ::: info Solo para Sponsor
 :::
 ---
-## Modificador de Constelaciones, cambiara las constelaciones del personaje visualmente, algunos funcionan de verdad.
-- Puedes ver cuales funcionan en `#⁠cons-check` dentro del servidor. 
+## Modificador de Constelaciones, cambiará las constelaciones activas del personaje visualmente y algunos funcionan de verdad.
+- Verifica las constelaciones que funcionan en el canal `#⁠cons-check` del servidor de Discord. 
 
-::: tip Tienes que cambiar al personaje que quieras usar el modificador de Constelaciones y después teletransportarte lejos.
+::: tip Tienes que cambiar al personaje que quieras usar en el modificador de Constelaciones y después teletransportarte lejos.
 :::
 ---
 ## Video de Ejemplo:

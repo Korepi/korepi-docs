@@ -5,8 +5,8 @@ category:
   - Funciones
 tag:
   - Cambiador de Animación
-author: Schvis
+author: Schvis, ll33ee
 order: 1
 ---
 
-## Cambiador de Animación, permite cambiar la animación del personaje actual a la animación seleccionada.
+## Cambiador de Animación, permite al jugador cambiar la animación actual de su personaje a la que elija.
