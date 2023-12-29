@@ -5,16 +5,16 @@ category:
   - Funciones
 tag:
   - Modo Dios
-author: Schvis
+author: Schvis, ll33ee
 order: 7
 ---
 
-## Modo Dios deshabilitara todo el daño recibido.
-### Muertos Vivientes: (<span style='color:yellow;'>Sponsor</span>)
-- Cuando esta activo, modo dios solo se activara si se recibe daño letal.
+## Modo Dios: no recibes daño.
+### Muerto Viviente: (<span style='color:yellow;'>Sponsor</span>)
+- Al activarlo, te permite recibir daño pero sólo evita que recibas un daño mortal.
 ### Condicional:
-- Cuando esta activo, modo dios solo se activara cuando la vida del personaje baje por debajo del valor seleccionado.
-> Nota: Se recomienda usar Condicional para el abismo.
+- Al activarlo, el modo dios no permite que tu vida baje del valor seleccionado.
+> <span style="color:red;">Cuidado: Se recomienda usar Condicional para el abismo.</span>
 
 ## Video de Ejemplo:
 

@@ -7,7 +7,7 @@ tag:
   - Inicio
   - Descargar
 author:
-  name: Schvis
+  name: Schvis, ll33ee
 order: 6
 ---
 
@@ -19,11 +19,14 @@ order: 6
 
 ### Paso 1: Únete a nuestro servidor y obtén los roles de `Newcomer` y `Fans`
 
-Si aún no te has unido al servidor, por favor, lee la publicación de verificación, que explica cómo unirse al servidor y obtener los roles de `Newcomer` y `Fans`.
+Si aún no te has unido al servidor, por favor, lee la publicación de verificación, que explica cómo unirse al servidor y obtener los roles.
 
 ### Paso 2: Ve al canal de `★⋅korepi-version-roles⋅★`
 
 Localiza el canal `★⋅korepi-version-roles⋅★` y elige el rol correspondiente a la versión F o V. Recomendamos seleccionar el rol F.
+
+<b style="padding: 0 2px 0 1px;">F</b> - Versión <b>Online</b>, recomendada.<br/>
+<b>V</b> - Versión <b>Local</b>.
 
 ### Paso 3: Descargar los recursos necesarios
 

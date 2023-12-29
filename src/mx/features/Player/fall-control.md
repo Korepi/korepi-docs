@@ -1,15 +1,15 @@
 ---
-title: Control de Caída
+title: Controlar Caída
 icon: person-falling
 category:
   - Funciones
 tag:
-  - Control de Caída
-author: Schvis
+  - Controlar Caída
+author: Schvis, ll33ee
 order: 6
 ---
 
-## Control de Caída permite al jugador moverse cuando esta cayendo.
+## Controlar Caída permite al jugador moverse cuando esta cayendo.
 
 ## Video de Ejemplo:
 

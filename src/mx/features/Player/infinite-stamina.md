@@ -4,15 +4,15 @@ icon: dumbbell
 category:
   - Funciones
 tag:
-  - Estamina Infinito
-author: Schvis
+  - Aguante Infinito
+author: Schvis, ll33ee
 order: 8
 ---
 
-## Estamina Infinito deshabilita el uso de estamina para todas las acciones.
-### Reemplazo de Paquetes de Movimiento Sincronizado:
-- Cuando esta activo, los paquetes de las acciones que consumen estamina no serán enviados al servidor.
-> Nota: Se recomienda usar el Reemplazo de Paquetes de Movimiento Sincronizado y desactivar EStamina Infinito.
+## Aguante Infinito deshabilita el uso de estamina para todas las acciones.
+### Remplazo de Paquetes Sincronizado de Movimientos:
+- Al activar esto y activar Aguante Infinito las acciones que consumen estamina no son enviadas al servidor. Algunas acciones como los ataques cargados podrían consumir aguante.
+> Nota: Se recomienda usar <b>Remplazo de Paquetes Sincronizado de Movimientos</b>.
 
 ## Video de Ejemplo:
 

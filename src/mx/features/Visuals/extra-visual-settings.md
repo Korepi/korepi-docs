@@ -1,18 +1,18 @@
 ---
-title: Extra Visual Settings
+title: Ajustes Visuales Extra
 icon: eye
 category:
   - Funciones
 tag:
-  - Extra Visual Settings
-author: Schvis
+  - Ajustes Visuales Extra
+author: Schvis, ll33ee
 order: 7
 ---
 
-## Extra Visual Settings:
+## Ajustes Visuales Extra:
 ### Gamma:
 - Cambia el Gamma del juego.
-### Anchura de Contorno:
+### Ancho de Contorno:
 - Cambia la anchura del contorno de todos los personajes.
-### Anti-Aliasing:
-- Cambia el modo de Anti-Aliasing por la selección del jugador, incluye algunas que no están disponibles dentro del juego.
+### Antialiasing:
+- Cambia el modo de Antialiasing por la selección del jugador, incluye algunas que no están disponibles dentro del juego.

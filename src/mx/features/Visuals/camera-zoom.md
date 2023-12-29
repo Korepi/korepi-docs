@@ -5,8 +5,8 @@ category:
   - Funciones
 tag:
   - Zoom de Cámara
-author: Schvis
+author: Schvis, ll33ee
 order: 2
 ---
 
-## Zoom de Cámara permite al jugador cambiar el zoom de la cámara a valores que no están disponibles.
+## Zoom de Cámara permite al jugador ajustar el zoom de la cámara al valor que desee.
