@@ -6,8 +6,8 @@
     <link>https://korepi.com/ar/</link>
     <description>للمساعدة Korepi</description>
     <language>ar</language>
-    <pubDate>Fri, 29 Dec 2023 07:22:24 GMT</pubDate>
-    <lastBuildDate>Fri, 29 Dec 2023 07:22:24 GMT</lastBuildDate>
+    <pubDate>Fri, 29 Dec 2023 07:23:05 GMT</pubDate>
+    <lastBuildDate>Fri, 29 Dec 2023 07:23:05 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Guide</category>
@@ -15,6 +15,7 @@
     <category>Features</category>
     <category>Troubleshoot</category>
     <category>FAQ</category>
+    <category>المميزات</category>
     <item>
       <title>How to add to exclusion list</title>
       <link>https://korepi.com/ar/guide/virus.html</link>
@@ -51,10 +52,10 @@
       <pubDate>Fri, 22 Dec 2023 11:31:21 GMT</pubDate>
     </item>
     <item>
-      <title>الرادار</title>
+      <title>ESP</title>
       <link>https://korepi.com/ar/features/esp.html</link>
       <guid>https://korepi.com/ar/features/esp.html</guid>
-      <source url="https://korepi.com/ar/rss.xml">الرادار</source>
+      <source url="https://korepi.com/ar/rss.xml">ESP</source>
       <description>يسمح الرادار للاعبين بعرض وتتبع الاغراض المختلفة من خلال اغراض اخرى ويمكن تخصيص العديد من العناصر المرئية ملاحظة: يمكن تخصيص النطاق والاغراض والمرئيات كلها. فيديو توضيحي : قريبا...</description>
       <category>Features</category>
       <pubDate>Fri, 22 Dec 2023 11:31:21 GMT</pubDate>
@@ -248,84 +249,84 @@ Warning: Don't do anything yet.</p>
 ]]></content:encoded>
     </item>
     <item>
-      <title>Catalog</title>
+      <title>فهرس</title>
       <link>https://korepi.com/ar/start/</link>
       <guid>https://korepi.com/ar/start/</guid>
-      <source url="https://korepi.com/ar/rss.xml">Catalog</source>
+      <source url="https://korepi.com/ar/rss.xml">فهرس</source>
       <description>)</description>
       <category>Guide</category>
       <pubDate>Fri, 22 Dec 2023 11:31:21 GMT</pubDate>
     </item>
     <item>
-      <title>Download</title>
+      <title>تحميل</title>
       <link>https://korepi.com/ar/start/download.html</link>
       <guid>https://korepi.com/ar/start/download.html</guid>
-      <source url="https://korepi.com/ar/rss.xml">Download</source>
-      <description>Introduction Welcome to our community! To pass the bot check and receive the Newcomer role, follow these steps. Step 1: Join our server and obtain the Newcomer and Fans roles If...</description>
+      <source url="https://korepi.com/ar/rss.xml">تحميل</source>
+      <description>مقدمة أهلا بك في مجتمعنا! لاجتياز فحص الروبوت والحصول على روول Newcomer اتبع الخطوات التالية الخطوة 1: انضم إلى السيرفر واحصل على روول Newcomer و Fans. إذا لم تنضم إلى الخادم بع...</description>
       <category>Guide</category>
       <pubDate>Fri, 22 Dec 2023 11:31:21 GMT</pubDate>
-      <content:encoded><![CDATA[<h1> Download</h1>
-<h2> Introduction</h2>
-<p>Welcome to our community! To pass the bot check and receive the <code>Newcomer</code> role, follow these steps.</p>
-<h3> Step 1: Join our server and obtain the <code>Newcomer</code> and <code>Fans</code> roles</h3>
-<p>If you haven't joined the server yet, please read the verification post, which describes how to join the server and obtain the <code>Newcomer</code> and <code>Fans</code> roles.</p>
-<h3> Step 2: Go to the channel <code>★⋅korepi-version-roles⋅★</code></h3>
-<p>Locate the channel <code>★⋅korepi-version-roles⋅★</code> and choose either the F or V version role. We recommend selecting the F role.</p>
-<h3> Step 3: Download the necessary resources</h3>
-<p>Once you've done that, you will gain access to the corresponding download channel: <code>★⋅f-download⋅★</code> or <code>★⋅v-download⋅★</code>.</p>
-<h3> Step 4: Ready!</h3>
-<p>In the channel, you will find a link to the current version and the password for the archive. Good luck!</p>
+      <content:encoded><![CDATA[<h1> تحميل</h1>
+<h2> مقدمة</h2>
+<p>أهلا بك في مجتمعنا! لاجتياز فحص الروبوت والحصول على روول <code>Newcomer</code> اتبع الخطوات التالية</p>
+<h3> الخطوة 1: انضم إلى السيرفر واحصل على روول <code>Newcomer</code> و <code>Fans</code>.</h3>
+<p>إذا لم تنضم إلى الخادم بعد، فيرجى قراءة منشور التحقق الذي يوضح كيفية الانضمام إلى الخادم والحصول على روول <code>Newcomer</code> و <code>Fans</code>.</p>
+<h3> الخطوة الثانية: اذهب إلى القناة <code>★⋅korepi-version-roles⋅★</code></h3>
+<p>حدد موقع القناة <code>★⋅korepi-version-roles⋅★</code> واختر إما روول الإصدار F أو V. نوصي باختيار روول F.</p>
+<h3> الخطوة 3: قم بتنزيل الموارد اللازمة</h3>
+<p>بمجرد القيام بذلك، ستتمكن من الوصول إلى قناة التنزيل المقابلة: <code>★⋅f-download⋅★</code> أو <code>★⋅v-download⋅★</code></p>
+<h3> الخطوة 4: جاهز!</h3>
+<p>ستجد في القناة رابط الإصدار الحالي وكلمة المرور للأرشيف. حظ سعيد!</p>
 ]]></content:encoded>
     </item>
     <item>
-      <title>Joining the Server</title>
+      <title>الانضمام إلى السيرفر</title>
       <link>https://korepi.com/ar/start/join.html</link>
       <guid>https://korepi.com/ar/start/join.html</guid>
-      <source url="https://korepi.com/ar/rss.xml">Joining the Server</source>
-      <description>Introduction Welcome to our community! To join the Discord server and start using Korepi, follow these steps. Step 1: Create a Discord Account If you don&amp;apos;t have a Discord accoun...</description>
+      <source url="https://korepi.com/ar/rss.xml">الانضمام إلى السيرفر</source>
+      <description>مقدمة أهلا بك في مجتمعنا! للانضمام إلى خادم ديسكورد والبدء في استخدام Korepi، اتبع الخطوات التالية. الخطوة 1: إنشاء حساب ديسكورد إذا لم يكن لديك حساب ديسكورد حتى الآن، فابدأ بإن...</description>
       <category>Guide</category>
       <pubDate>Fri, 22 Dec 2023 11:31:21 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Introduction</h2>
-<p>Welcome to our community! To join the Discord server and start using Korepi, follow these steps.</p>
-<h3> Step 1: Create a Discord Account</h3>
-<p>If you don't have a Discord account yet, start by creating a new one. Visit the <a href="https://discord.com/" target="_blank" rel="noopener noreferrer">official Discord website</a> and follow the registration instructions.</p>
-<h3> Step 2: Download and Install Discord</h3>
-<p>After creating an account, download the <a href="https://discord.com/download" target="_blank" rel="noopener noreferrer">Discord client</a> for your operating system. Install the client following the on-screen instructions.</p>
-<h3> Step 3: Joining the Server</h3>
+      <content:encoded><![CDATA[<h2> مقدمة</h2>
+<p>أهلا بك في مجتمعنا! للانضمام إلى خادم ديسكورد والبدء في استخدام Korepi، اتبع الخطوات التالية.</p>
+<h3> الخطوة 1: إنشاء حساب ديسكورد</h3>
+<p>إذا لم يكن لديك حساب ديسكورد حتى الآن، فابدأ بإنشاء حساب جديد. قم بزيارة <a href="https://discord.com/" target="_blank" rel="noopener noreferrer">الموقع الرسمي للديسكورد</a> واتبع تعليمات التسجيل.</p>
+<h3> الخطوة 2: تنزيل وتثبيت ديسكورد</h3>
+<p>بعد إنشاء الحساب، قم بتنزيل <a href="https://discord.com/download" target="_blank" rel="noopener noreferrer">برنامج الديسكورد</a> لنظام التشغيل الخاص بك. قم بتثبيت البرنامج باتباع التعليمات التي تظهر على الشاشة.</p>
+<h3> الخطوة 3: الانضمام إلى السيرفر</h3>
 <ol>
-<li>Copy the <a href="https://discord.gg/cottonbuds" target="_blank" rel="noopener noreferrer">invitation link</a> for the Discord server provided by the administrator.</li>
-<li>In the Discord client, click the "+" button in the bottom left corner.</li>
-<li>Select "Join a Server."</li>
-<li>Paste the invitation link and click "Join."</li>
+<li>انسخ <a href="https://discord.gg/cottonbuds" target="_blank" rel="noopener noreferrer">رابط الدعوة</a> لخادم الديسكورد المقدم من المسؤول.</li>
+<li>في برنامج الديسكورد انقر فوق الزر "+" في الزاوية اليسرى السفلية.</li>
+<li>اختر "الانضمام إلى الخادم".</li>
+<li>الصق رابط الدعوة وانقر على "انضمام".</li>
 </ol>
-<p>If the invitation link is invalid, the server may be temporarily closed. Please wait for it to reopen. Now you can proceed to the next step.</p>
+<p>إذا كان رابط الدعوة غير صالح، فقد يتم إغلاق الخادم مؤقتًا. يرجى الانتظار حتى يتم إعادة فتحه. الآن يمكنك المتابعة إلى الخطوة التالية.</p>
 ]]></content:encoded>
     </item>
     <item>
-      <title>Registration</title>
+      <title>تسجيل</title>
       <link>https://korepi.com/ar/start/sign-in.html</link>
       <guid>https://korepi.com/ar/start/sign-in.html</guid>
-      <source url="https://korepi.com/ar/rss.xml">Registration</source>
-      <description>Introduction Welcome to our community! To register and obtain the &amp;quot;Fans&amp;quot; role, follow these steps. Step 1: Join our server and get the &amp;quot;Newcomer&amp;quot; role if you haven&amp;apos;t already If ...</description>
+      <source url="https://korepi.com/ar/rss.xml">تسجيل</source>
+      <description>مقدمة أهلا بك في مجتمعنا! للتسجيل والحصول على روول &amp;quot;Fans&amp;quot;، اتبع الخطوات التالية. الخطوة 1: انضم إلى خادمنا واحصل على روول &amp;quot;Newcomer&amp;quot; إذا لم تكن قد حصلت عليه بالفعل إذا لم تكن في...</description>
       <category>Guide</category>
       <pubDate>Fri, 22 Dec 2023 11:31:21 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Introduction</h2>
-<p>Welcome to our community! To register and obtain the "Fans" role, follow these steps.</p>
-<h3> Step 1: Join our server and get the "Newcomer" role if you haven't already</h3>
-<p>If you are not on the server yet, please read the previous post, where it is described how to join the server and get the "Newcomer" role.</p>
-<h3> Step 2: Find the bot</h3>
-<p>Now you need to find the bot with the image of a goose and write to him in direct messages (micah-sign-bot#0245).</p>
-<h3> Step 3: Getting started</h3>
-<p>Write him the command <code>/sign-in</code>, solve the captcha. Note: if the bot does not respond to your captcha request, you probably entered it incorrectly. Try writing the captcha again (without the command). After successful input, the bot will send you the message "Consecutive &lt; days &gt; days".</p>
-<h3> Step 4: After receiving the "Fans" role</h3>
-<p>So now you need to enter this command every day for 7 days (every 24 hours). Note that if you make a mistake by a couple of hours, the bot will consider that you did not mark and reset your days. On the 7th day of check-ins, you will be given the "Fans" role, and you can stop checking in.</p>
+      <content:encoded><![CDATA[<h2> مقدمة</h2>
+<p>أهلا بك في مجتمعنا! للتسجيل والحصول على روول "Fans"، اتبع الخطوات التالية.</p>
+<h3> الخطوة 1: انضم إلى خادمنا واحصل على روول "Newcomer" إذا لم تكن قد حصلت عليه بالفعل</h3>
+<p>إذا لم تكن في السيرفر بعد، برجاء قراءة المنشور السابق، حيث يشرح كيفية الانضمام إلى الخادم والحصول على روول "Newcomer".</p>
+<h3> الخطوة 2: ابحث عن البوت</h3>
+<p>أنت الآن بحاجة إلى العثور على البوت الذي يحمل صورة أوزة (طائر الأوز) والكتابة إليه في رسالة مباشرة (micah-sign-bot#0245).</p>
+<h3> الخطوة 3: البدء</h3>
+<p>اكتب له الأمر <code>/sign-in</code>، وقم بحل كلمة التحقق. ملاحظة: إذا لم يستجب الروبوت لطلب التحقق الخاص بك، فمن المحتمل أنك أدخلته بشكل غير صحيح. حاول كتابة كلمة التحقق مرة أخرى (بدون الأمر). بعد الإدخال الناجح، سيرسل لك الروبوت رسالة "&lt; أيام &gt; أيام متتالية".</p>
+<h3> الخطوة 4: بعد حصولك على دور "Fans".</h3>
+<p>والآن أنت بحاجة إلى إدخال هذا الأمر كل يوم لمدة 7 أيام (كل 24 ساعة). لاحظ أنه إذا تاخرت لبضع ساعات، فسيعتبر الروبوت أنك لم تحدد أيامك وسيتم  إعادة تعيينها. في اليوم السابع من تسجيل الوصول، سيتم منحك دور "Fans"، ويمكنك التوقف عن تسجيل الوصول.</p>
 ]]></content:encoded>
     </item>
     <item>
-      <title>Sponsor Exclusive Features</title>
+      <title>الميزات الحصرية للداعمين</title>
       <link>https://korepi.com/ar/start/sponsor-exclusive.html</link>
       <guid>https://korepi.com/ar/start/sponsor-exclusive.html</guid>
-      <source url="https://korepi.com/ar/rss.xml">Sponsor Exclusive Features</source>
+      <source url="https://korepi.com/ar/rss.xml">الميزات الحصرية للداعمين</source>
       <description>Player Critical Hit Rate Probabilities (https://www.youtube.com/watch?v=ByucMEL7pXM&amp;list=PL5eI1Tb64p54t7LyUaudX0ume6HbS4ikD&amp;index=1&amp;pp=iAQB); Extra Movement (https://www.youtube...</description>
       <category>Guide</category>
       <pubDate>Fri, 22 Dec 2023 11:31:21 GMT</pubDate>
@@ -361,54 +362,54 @@ Warning: Don't do anything yet.</p>
 ]]></content:encoded>
     </item>
     <item>
-      <title>Becoming a Sponsor</title>
+      <title>اصبح داعم</title>
       <link>https://korepi.com/ar/start/sponsor.html</link>
       <guid>https://korepi.com/ar/start/sponsor.html</guid>
-      <source url="https://korepi.com/ar/rss.xml">Becoming a Sponsor</source>
-      <description>How to become a Sponsor? To becoming a Sponsor, you need to donate atleast $5 or equivalent if you are using another currency. Where to donate? Once you already in the server, p...</description>
+      <source url="https://korepi.com/ar/rss.xml">اصبح داعم</source>
+      <description>كيف تصبح داعم? لكي تصبح داعما، يتعين عليك التبرع بما لا يقل عن 5 دولارات أو ما يعادلها إذا كنت تستخدم عملة أخرى. أين التبرع؟ بمجرد دخولك إلى الخادم، يرجى الانتقال إلى قناة #spon...</description>
       <category>Guide</category>
       <pubDate>Fri, 22 Dec 2023 11:31:21 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> How to become a <span style="color:yellow;">Sponsor</span>?</h2>
-<p>To becoming a Sponsor, you need to donate atleast $5 or equivalent if you are using another currency.</p>
-<h2> Where to donate?</h2>
-<p>Once you already in the server, please go to <a href="https://discord.com/channels/1069057220802781265/1097565269985071205" target="_blank" rel="noopener noreferrer">#sponsorship</a> channel. Choose one of the links you prefer to donate. Please make sure to screenshot the process as proof for the next step.</p>
-<h2> What to do after I done donated?</h2>
-<p>If you already donated, you can send your proof to any available moderators. Please make sure to provide screenshots or donation link as proof.</p>
+      <content:encoded><![CDATA[<h2> كيف تصبح <span style="color:yellow;">داعم</span>?</h2>
+<p>لكي تصبح داعما، يتعين عليك التبرع بما لا يقل عن 5 دولارات أو ما يعادلها إذا كنت تستخدم عملة أخرى.</p>
+<h2> أين التبرع؟</h2>
+<p>بمجرد دخولك إلى الخادم، يرجى الانتقال إلى قناة <a href="https://discord.com/channels/1069057220802781265/1097565269985071205" target="_blank" rel="noopener noreferrer">#sponsorship</a> . اختر أحد الروابط التي تفضل التبرع بها. يرجى التأكد من التقاط لقطة شاشة للعملية كدليل على الخطوة التالية.</p>
+<h2> ماذا أفعل بعد أن انتهيت من التبرع؟</h2>
+<p>إذا كنت قد تبرعت بالفعل، فيمكنك إرسال إثباتك إلى أي مشرفين متاحين. يرجى التأكد من تقديم لقطات الشاشة أو رابط التبرع كدليل.</p>
 <p><a href="https://postimg.cc/MnTYS5cN" target="_blank" rel="noopener noreferrer"><img src="https://i.postimg.cc/3xjf2b38/proof.png" alt="" loading="lazy"></a></p>
-<h2> (FOR NON-FANS) How to claim Fans role after donation?</h2>
-<p>If you are a Sponsor and do not have Fans role, you can skip the 7-days sign-in and claim the role instantly</p>
-<h3> Step 1: Open a ticket</h3>
-<p>To do that, you need to go to #ticket-start channel (only visible when you already have Sponsor).</p>
+<h2> (FOR NON-FANS) كيف يمكنك المطالبة بروول FANS بعد التبرع؟</h2>
+<p>إذا كنت داعما وليس لديك روول FANS، فيمكنك تخطي تسجيل الدخول لمدة 7 أيام والمطالبة بالدور على الفور</p>
+<h3> الخطوة 1: افتح تذكرة</h3>
+<p>للقيام بذلك، عليك الذهاب إلى قناة #ticket-start (مرئية فقط عندما يكون لديك Sponsor بالفعل).</p>
 <p><a href="https://postimg.cc/dLD6D8jC" target="_blank" rel="noopener noreferrer"><img src="https://i.postimg.cc/NfkzJDyd/openticket1.png" alt="" loading="lazy"></a></p>
-<p>Once you click on 'open', you will see a new channel under the ticket channel.</p>
+<p>بمجرد النقر على "فتح"، سترى قناة جديدة ضمن قناة التذاكر.</p>
 <p><a href="https://postimg.cc/sMhJ4s8D" target="_blank" rel="noopener noreferrer"><img src="https://i.postimg.cc/Vk7H1NWM/openticket2.png" alt="" loading="lazy"></a></p>
-<h3> Step 2: Answer short survey</h3>
-<p>Press the 'form link' button to answer the survey.</p>
+<h3> الخطوة 2: الإجابة على الاستبيان القصير</h3>
+<p>اضغط على زر "form link" للإجابة على الاستبيان.</p>
 <p><a href="https://postimg.cc/mzbN4Mrt" target="_blank" rel="noopener noreferrer"><img src="https://i.postimg.cc/qRKm8xVX/openticket4.png" alt="" loading="lazy"></a></p>
-<p>Once you are done with the survey, do not forget to press 'Submit' button.</p>
+<p>بمجرد الانتهاء من الاستبيان، لا تنس الضغط على زر "Submit".</p>
 <p><a href="https://postimg.cc/GBnxM6wP" target="_blank" rel="noopener noreferrer"><img src="https://i.postimg.cc/GpHgp1Xf/openticket5.png" alt="" loading="lazy"></a></p>
-<p>After that, just wait patiently for the staffs to check your survey. Once you get your Fans role, then you are good to go.</p>
+<p>بعد ذلك، ما عليك سوى الانتظار بصبر حتى يقوم الموظفون بالتحقق من استبيانك. بمجرد حصولك على روول FANS، فأنت جاهز للانطلاق.</p>
 ]]></content:encoded>
       <enclosure url="https://i.postimg.cc/3xjf2b38/proof.png" type="image/png"/>
     </item>
     <item>
-      <title>Verification</title>
+      <title>التحقق</title>
       <link>https://korepi.com/ar/start/verify.html</link>
       <guid>https://korepi.com/ar/start/verify.html</guid>
-      <source url="https://korepi.com/ar/rss.xml">Verification</source>
-      <description>Introduction Welcome to our community! To pass the bot verification and obtain the &amp;quot;Newcomer&amp;quot; role, follow these steps. Step 1: Join our server if you haven&amp;apos;t already If you are...</description>
+      <source url="https://korepi.com/ar/rss.xml">التحقق</source>
+      <description>مقدمة أهلا بك في مجتمعنا! لاجتياز عملية التحقق من الروبوت والحصول على روول &amp;quot;Newcomer&amp;quot;، اتبع الخطوات التالية. الخطوة 1: انضم إلى السيرفر الخاص بنا إذا لم تكن قد قمت بذلك بالفعل إ...</description>
       <category>Guide</category>
       <pubDate>Fri, 22 Dec 2023 11:31:21 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Introduction</h2>
-<p>Welcome to our community! To pass the bot verification and obtain the "Newcomer" role, follow these steps.</p>
-<h3> Step 1: Join our server if you haven't already</h3>
-<p>If you are not on the server yet, please read the previous post, where it is described how to join the server.</p>
-<h3> Step 2: So, you are on the server</h3>
-<p>Now that you are on the server, choose the necessary channels and roles from the list, then go to the ★⋅rules⋅★ channel.</p>
-<h3> Step 3: ★⋅rules⋅★ channel</h3>
-<p>In the rules channel, familiarize yourself with the rules and undergo verification to confirm that you are not a bot. Find the "Verify" button, click on it, and the bot will send you a link that you need to follow and confirm that you are not a bot.</p>
-<h3> Step 4: After receiving the "Newcomer" role</h3>
-<p>After successful verification, the bot will assign you the "Newcomer" role. With this role, you will not be kicked by the bot without valid reasons. Now proceed to the next step.</p>
+      <content:encoded><![CDATA[<h2> مقدمة</h2>
+<p>أهلا بك في مجتمعنا! لاجتياز عملية التحقق من الروبوت والحصول على روول "Newcomer"، اتبع الخطوات التالية.</p>
+<h3> الخطوة 1: انضم إلى السيرفر الخاص بنا إذا لم تكن قد قمت بذلك بالفعل</h3>
+<p>إذا لم تكن في السيرفر بعد، يرجى قراءة المنشور السابق، حيث يتم شرح كيفية الانضمام إلى السيرفر.</p>
+<h3> الخطوة 2: إذن، أنت في السيرفر</h3>
+<p>الآن بعد أن أصبحت في السيرفر اختر القنوات و الروولات اللازمة من القائمة، ثم انتقل إلى قناة ★⋅rules⋅★.</p>
+<h3> الخطوة 3: قناة ★⋅rules⋅★</h3>
+<p>في قنات  ★⋅rules⋅★ ، تعرف على القواعد وقم بالتحقق للتأكد من أنك لست روبوتًا. ابحث عن زر "Verify"، وانقر عليه، وسيرسل لك الروبوت رابطًا يجب عليك اتباعه وتأكيد أنك لست روبوتًا.</p>
+<h3> الخطوة 4: بعد استلام دور "Newcomer".</h3>
+<p>بعد التحقق الناجح، سيقوم الروبوت بمنحك روول "Newcomer". مع هذا الروول لن يتم طردك من قبل الروبوت دون أسباب وجيهة. انتقل الآن إلى الخطوة التالية.</p>
 ]]></content:encoded>
     </item>
     <item>
@@ -416,173 +417,174 @@ Warning: Don't do anything yet.</p>
       <link>https://korepi.com/ar/troubleshoot/31-4302.html</link>
       <guid>https://korepi.com/ar/troubleshoot/31-4302.html</guid>
       <source url="https://korepi.com/ar/rss.xml">Error 31-4302</source>
-      <description>How to solve the error 31-4302 Method 1 If your game folder contains non-original files, this prompt might appear for you. Check that theres only original files like the next ex...</description>
+      <description>كيفية حل الخطأ 31-4302 طريقة 1 إذا كان مجلد اللعبة الخاص بك يحتوي على ملفات غير أصلية، فقد تظهر لك هذه النافدة. تأكد من وجود الملفات الأصلية فقط مثل الملف التالي مثال: إذا استمر...</description>
       <category>Guide</category>
       <pubDate>Fri, 22 Dec 2023 11:31:21 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> How to solve the error <code>31-4302</code></h2>
+      <content:encoded><![CDATA[<h2> كيفية حل الخطأ <code>31-4302</code></h2>
 <p><img src="/assets/images/docs/202312/31-4302.png" alt="" loading="lazy"></p>
-<h3> Method 1</h3>
-<p>If your game folder contains non-original files, this prompt might appear for you. Check that theres only original files like the next example:</p>
+<h3> طريقة 1</h3>
+<p>إذا كان مجلد اللعبة الخاص بك يحتوي على ملفات غير أصلية، فقد تظهر لك هذه النافدة. تأكد من وجود الملفات الأصلية فقط مثل الملف التالي
+مثال:</p>
 <p><img src="/assets/images/docs/202312/launcher.png" alt="" loading="lazy"></p>
 <p><img src="/assets/images/docs/202312/folder1.png" alt="" loading="lazy"></p>
-<p>If you keep getting the error in-game even after deleting the files continue reading.</p>
-<h3> Method 2</h3>
-<p>Go to your Korepi, go to <code>Settings --&gt; Other</code>.</p>
+<p>إذا استمر ظهور الخطأ داخل اللعبة حتى بعد حذف الملفات، فتابع القراءة.</p>
+<h3> الطريقة 2</h3>
+<p>اذهب إلى Korepi الخاص بك، اذهب إلى <code>Settings --&gt; Other</code>.</p>
 <p><img src="/assets/images/docs/202312/settings1.png" alt="" loading="lazy"></p>
-<p>Find <code>Bypass Intengrity</code> and uncheck it.</p>
+<p>ابحث عن "Bypass Intengrity" وقم بإلغاء تحديده.</p>
 <p><img src="/assets/images/docs/202312/settings2.png" alt="" loading="lazy"></p>
-<p>Now the error should disapear.</p>
-<h2> What if i can't enter Korepi</h2>
-<p>Head to your Korepi folder and find <code>cfg.json</code>, and click <code>CTRL + F</code>, type <code>bypass</code> and search, set the value to <code>false</code> and open Korepi.</p>
-<h2> What if nothing works?</h2>
-<p>You have to reinstall the game.</p>
+<p>الآن يجب أن يختفي الخطأ.</p>
+<h2> ماذا لو لم أتمكن من الدخول Korepi</h2>
+<p>توجه إلى مجلد Korepi الخاص بك وابحث عنه <code>cfg.json</code>, وانقر <code>CTRL + F</code>, اكتب <code>bypass</code> والبحث، قم بتعيين القيمة إلى <code>false</code> وافتح  Korepi.</p>
+<h2> ماذا لو لم ينجح شيء؟</h2>
+<p>يجب عليك إعادة تثبيت اللعبة.</p>
 ]]></content:encoded>
       <enclosure url="https://korepi.com/assets/images/docs/202312/31-4302.png" type="image/png"/>
     </item>
     <item>
-      <title>List of Errors</title>
+      <title>قائمة الأخطاء</title>
       <link>https://korepi.com/ar/troubleshoot/</link>
       <guid>https://korepi.com/ar/troubleshoot/</guid>
-      <source url="https://korepi.com/ar/rss.xml">List of Errors</source>
+      <source url="https://korepi.com/ar/rss.xml">قائمة الأخطاء</source>
       <category>Troubleshoot</category>
       <pubDate>Fri, 22 Dec 2023 11:31:21 GMT</pubDate>
     </item>
     <item>
-      <title>Common Injector Errors</title>
+      <title>أخطاء الحاقن الشائعة</title>
       <link>https://korepi.com/ar/troubleshoot/faq-error.html</link>
       <guid>https://korepi.com/ar/troubleshoot/faq-error.html</guid>
-      <source url="https://korepi.com/ar/rss.xml">Common Injector Errors</source>
-      <description>List of common errors Why my korepi disappears? Make sure you got your anti-virus disabled, create a new folder and add it to exclusions. Extract korepi inside the excluded fold...</description>
+      <source url="https://korepi.com/ar/rss.xml">أخطاء الحاقن الشائعة</source>
+      <description>قائمة الأخطاء الشائعة لماذا يختفي korepi الخاص بي؟ تأكد من تعطيل برنامج مكافحة الفيروسات لديك، وقم بإنشاء مجلد جديد وإضافته إلى الاستثناءات. قم باستخراج korepi داخل المجلد المست...</description>
       <category>Troubleshoot</category>
       <pubDate>Fri, 22 Dec 2023 11:31:21 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> List of common errors</h2>
-<h3> Why my korepi disappears?</h3>
-<p>Make sure you got your anti-virus disabled, create a new folder and add it to exclusions.</p>
+      <content:encoded><![CDATA[<h2> قائمة الأخطاء الشائعة</h2>
+<h3> لماذا يختفي korepi الخاص بي؟</h3>
+<p>تأكد من تعطيل برنامج مكافحة الفيروسات لديك، وقم بإنشاء مجلد جديد وإضافته إلى الاستثناءات.</p>
 <p><img src="/assets/images/docs/202312/virus.png" alt="" loading="lazy"></p>
-<p>Extract korepi inside the excluded folder and run again.</p>
+<p>قم باستخراج korepi داخل المجلد المستبعد وتشغيله مرة أخرى.</p>
 <hr>
 <h3> Status: No active subscription(s) found, Invalid license key</h3>
-<p>You need to <a href="/ar/guide/getkey.html" target="blank">get a new key</a> from <code>⁠★⋅micah-bot-verify⋅★</code>, if you can't get a key or if the key doesn't work, you have to wait till key expiration.</p>
-<p><code>Sponsors can use F:Reset Key instead</code></p>
+<p>أنت بحاجه إلى <a href="/ar/guide/getkey.html" target="blank">الحصول على مفتاح جديد</a> من <code>⁠★⋅micah-bot-verify⋅★</code>, إذا لم تتمكن من الحصول على المفتاح أو إذا كان المفتاح لا يعمل، عليك الانتظار حتى انتهاء صلاحية المفتاح.</p>
+<p><code>يمكن للداعمين استخدام مفتاح F:Reset بدلاً من ذلك</code></p>
 <h3> [DLL injection]  Process crashed, exit code 0xc000005</h3>
-<p>Open <code>cmd</code> as administrator and write the following command:</p>
+<p>افتح <code>cmd</code> كمسؤول واكتب الأمر التالي:</p>
 <p><code>sfc /scannow</code></p>
-<p>After that, if errors were found, restart the computer and check.
-If after restarting it did not help or no errors were found, write this command:</p>
+<p>بعد ذلك، إذا تم العثور على أخطاء، أعد تشغيل الكمبيوتر وتحقق.
+إذا لم يساعد ذلك بعد إعادة التشغيل أو لم يتم العثور على أي أخطاء، فاكتب هذا الأمر:</p>
 <p><code>DISM.exe /Online /Cleanup-Image /RestoreHealth</code></p>
-<p>After completing the checks, restart the computer and check.</p>
-<p>If it doesn't work, reinstall Windows.</p>
+<p>بعد الانتهاء من الاختبارات، أعد تشغيل الكمبيوتر وتحقق.</p>
+<p>إذا لم ينجح الأمر، فأعد تثبيت ويندوز.</p>
 <hr>
 <h3> ImGUI: DirectX11 backend initialized successfully.</h3>
-<p>Error occurs because of themes installed, clear the <code>themes</code> folder.</p>
+<p>حدث خطأ بسبب تثبيت السمات، قم بمسح مجلد "themes".</p>
 <hr>
 <h3> The system did not detect MSVCP140.dll</h3>
-<p>Update <a href="https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170#visual-studio-2015-2017-2019-and-2022" target="_blank" rel="noopener noreferrer">Microsoft Visual Studio C++</a></p>
-<p>Update <a href="https://www.microsoft.com/en-us/download/details.aspx?id=35" target="_blank" rel="noopener noreferrer">DirectX</a></p>
+<p>قم بتحديث <a href="https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170#visual-studio-2015-2017-2019-and-2022" target="_blank" rel="noopener noreferrer">Microsoft Visual Studio C++</a></p>
+<p>قم بتحديث <a href="https://www.microsoft.com/en-us/download/details.aspx?id=35" target="_blank" rel="noopener noreferrer">DirectX</a></p>
 <hr>
 <h3> File corrupted! This program has been manipulated and maybe it's infected.</h3>
 <p><img src="/assets/images/docs/202312/virus2.png" alt="" loading="lazy"></p>
-<p>In this case, you can try using <code>Malware Bytes</code> or <code>Dr.Web</code> to do a full scan, if any virus is found, remove them, restart and try again. If it doesn't work, reinstall Windows is the easiest way to solve this issue.</p>
+<p>في هذه الحالة، يمكنك تجربة استخدام "Malware Bytes" أو "Dr.Web" لإجراء فحص كامل، وفي حالة العثور على أي فيروس، قم بإزالته وإعادة التشغيل والمحاولة مرة أخرى. إذا لم ينجح الأمر، فإن إعادة تثبيت Windows هي أسهل طريقة لحل هذه المشكلة.</p>
 <hr>
 <h3> Timeout was reached</h3>
 <p><img src="/assets/images/docs/202312/error1.png" alt="" loading="lazy"></p>
-<p>Reboot your router.</p>
-<p>An antivirus may be blocking the connection, make sure that is not in the Task Manager.</p>
-<p>Use a VPN and try again.</p>
-<p>Turn off all applications that affect the firewall. If nothing works, then you might have some problems with the network.</p>
+<p>أعد تشغيل جهاز الراوتر الخاص بك.</p>
+<p>قد يكون برنامج مكافحة الفيروسات يمنع الاتصال، تأكد من عدم وجوده في Task Manager.</p>
+<p>استخدم VPN وحاول مرة أخرى.</p>
+<p>قم بإيقاف تشغيل كافة التطبيقات التي تؤثر على جدار الحماية. إذا لم ينجح أي شيء، فقد يكون لديك بعض المشاكل في الشبكة.</p>
 <hr>
 <h3> DLL Injection failed</h3>
-<p>Uninstall colorpicker folder and download colorpicker again.</p>
+<p>قم بإلغاء تثبيت مجلد colorpicker وقم بتنزيل colorpicker مرة أخرى.</p>
 <hr>
 <h3> Windows cannot access the specified device, path, or file</h3>
 <p><img src="/assets/images/docs/202312/error2.png" alt="" loading="lazy"></p>
-<p>At first go to <a href="https://support.microsoft.com/en-us/topic/-windows-cannot-access-the-specified-device-path-or-file-error-when-you-try-to-install-update-or-start-a-program-or-file-46361133-47ed-6967-c13e-e75d3cc29657" target="_blank" rel="noopener noreferrer">HERE</a> and follow the steps on that post.</p>
-<p>Also after going to the solutions on the post, download an antivirus like <code>Dr.Web</code> or <code>Malware bytes</code> and run a full system check!</p>
-<p>If it doesn't help open cmd as administrator and write <code>sfc /scannow</code></p>
-<p>After that, if errors were found, restart the computer and check.</p>
-<p>If after restarting it didn't help or no errors were found, write this command:</p>
+<p>في البداية اذهب الى <a href="https://support.microsoft.com/en-us/topic/-windows-cannot-access-the-specified-device-path-or-file-error-when-you-try-to-install-update-or-start-a-program-or-file-46361133-47ed-6967-c13e-e75d3cc29657" target="_blank" rel="noopener noreferrer">هنا</a> واتبع الخطوات الموجودة في هذا المنشور.</p>
+<p>وأيضًا بعد الانتقال إلى الحلول الموجودة في المنشور، قم بتنزيل برنامج مكافحة فيروسات مثل "Dr.Web" أو "Malware bytes" وقم بإجراء فحص كامل للنظام!</p>
+<p>إذا لم يساعد ذلك، فافتح cmd كمسؤول واكتب <code>sfc /scannow</code></p>
+<p>بعد ذلك، إذا تم العثور على أخطاء، أعد تشغيل الكمبيوتر وتحقق.</p>
+<p>إذا لم يساعد ذلك بعد إعادة التشغيل أو لم يتم العثور على أي أخطاء، فاكتب هذا الأمر:</p>
 <p><code>DISM.exe /Online /Cleanup-Image /RestoreHealth</code></p>
-<p>After completing the checks, restart the computer and check again.</p>
-<p>If it doesn't work, reinstall Windows.</p>
+<p>بعد الانتهاء من عمليات التحقق، أعد تشغيل الكمبيوتر وتحقق مرة أخرى.</p>
+<p>إذا لم ينجح الأمر، فأعد تثبيت Windows.</p>
 <hr>
 <h3> Signature checksum failed</h3>
 <p><img src="/assets/images/docs/202312/checksum.png" alt="" loading="lazy"></p>
-<p>Servers are down or shut down, wait for servers to come back online.</p>
+<p>الخوادم معطلة أو متوقفة عن العمل، انتظر حتى تعود الخوادم للعمل.</p>
 <hr>
 <h3> Failed to create game process with Error 5</h3>
 <p><img src="/assets/images/docs/202312/error3.png" alt="" loading="lazy"></p>
-<p>Delete <code>cfg.ini</code>.</p>
+<p>احدف <code>cfg.ini</code>.</p>
 <hr>
 <h3> SSL connect error</h3>
 <p><img src="/assets/images/docs/202312/error4.png" alt="" loading="lazy"></p>
-<p>Restart your PC, restart your router.</p>
-<p>Try using a VPN if it doesn't work.</p>
+<p>أعد تشغيل جهاز الكمبيوتر الخاص بك، أعد تشغيل جهاز الراوتر الخاص بك.</p>
+<p>حاول استخدام VPN إذا لم يعمل.</p>
 <hr>
 <h3> Failed to detect game version</h3>
-<p>Update your injector, follow the steps <a href="/ar/start/download.html" target="blank">here</a></p>
+<p>قم بتحديث injector الخاص بك، اتبع الخطوات <a href="/ar/start/download.html" target="blank">هنا</a></p>
 <hr>
 <h3> File ok</h3>
-<p>Delete your cfg.json, something might be wrong with the file.</p>
+<p>احذف ملف cfg.json، فقد يكون هناك خطأ ما في الملف.</p>
 <hr>
 <h3> UserAssembly.dll isn't initialized, waiting for 2 sec.</h3>
-<p>If your injector crashes after this line try the following steps:</p>
-<p>Turn off all anti-viruses in PC.</p>
-<p>If its doesn't help use <code>sfc /scannow</code> command in cmd as administrator.</p>
-<p>If errors are found after checking and Windows is unable to resolve them, use the <code>DISM.exe /Online /Cleanup-Image /RestoreHealth</code> command.</p>
-<p>After checking restart your computer and try to run colorpicker again.</p>
-<p>If the error repeats you can make factory reset of Windows.</p>
+<p>إذا تعطل injector الخاص بك بعد هذا الخط، فجرب الخطوات التالية:</p>
+<p>قم بإيقاف تشغيل كافة برامج مكافحة الفيروسات في جهاز الكمبيوتر.</p>
+<p>إذا لم يكن الأمر مفيدًا، فاستخدم الأمر <code>sfc /scannow</code> في cmd كمسؤول.</p>
+<p>إذا تم العثور على أخطاء بعد التحقق ولم يتمكن Windows من حلها، فاستخدم امر <code>DISM.exe /Online /Cleanup-Image /RestoreHealth</code>.</p>
+<p>بعد التحقق، قم بإعادة تشغيل جهاز الكمبيوتر الخاص بك وحاول تشغيل Colorpicker مرة أخرى.</p>
+<p>إذا تكرر الخطأ، يمكنك إجراء إعادة ضبط المصنع لنظام التشغيل Windows.</p>
 ]]></content:encoded>
       <enclosure url="https://korepi.com/assets/images/docs/202312/virus.png" type="image/png"/>
     </item>
     <item>
-      <title>FAQ</title>
+      <title>الأسئلة الشائعة</title>
       <link>https://korepi.com/ar/troubleshoot/faq.html</link>
       <guid>https://korepi.com/ar/troubleshoot/faq.html</guid>
-      <source url="https://korepi.com/ar/rss.xml">FAQ</source>
-      <description>List of FAQs Is Korepi free? Yes, it is free, in order to get it for the first time you have to do a 7 days sign-in (../start/sign-in.md), you can skip this by Sponsoring (../st...</description>
+      <source url="https://korepi.com/ar/rss.xml">الأسئلة الشائعة</source>
+      <description>قائمة الأسئلة الشائعة هل Korepi مجاني؟ نعم إنه مجاني، للحصول عليه لأول مرة عليك القيام بـ 7 أيام تسجيل الدخول (../start/sign-in.md), يمكنك تخطي هذا ب دعم (../start/sponsor.md), ...</description>
       <category>FAQ</category>
       <pubDate>Fri, 22 Dec 2023 11:31:21 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> List of FAQs</h2>
-<h3> Is Korepi free?</h3>
-<p>Yes, it is free, in order to get it for the first time you have to do a 7 days <a href="/ar/start/sign-in.html" target="blank">sign-in</a>, you can skip this by <a href="/ar/start/sponsor.html" target="blank">Sponsoring</a>, after that you can get the license every time your key expires.</p>
+      <content:encoded><![CDATA[<h2> قائمة الأسئلة الشائعة</h2>
+<h3> هل Korepi  مجاني؟</h3>
+<p>نعم إنه مجاني، للحصول عليه لأول مرة عليك القيام بـ 7 أيام <a href="/ar/start/sign-in.html" target="blank">تسجيل الدخول</a>, يمكنك تخطي هذا ب <a href="/ar/start/sponsor.html" target="blank">دعم</a>, وبعد ذلك يمكنك الحصول على الترخيص في كل مرة تنتهي فيها صلاحية مفتاحك.</p>
 <hr>
-<h3> What is the .rar/.zip password?</h3>
+<h3> ما هي كلمة المرور .rar/.zip؟</h3>
 <p>...</p>
-<p>Its <code>1234</code>, please read the download post next time.</p>
+<p>إنه <code>1234</code>، يرجى قراءة صفحة التنزيل في المرة القادمة.</p>
 <hr>
-<h3> Why my config doesn't save?</h3>
-<p>Keep in mind you have to extract the <code>.rar/.zip</code> file you got in another folder.</p>
-<p>If config is still not saving after this step, please contact with any helper in the server for more help.</p>
+<h3> لماذا لا يتم حفظ الاعدادات الخاص بي؟</h3>
+<p>ضع في اعتبارك أنه يتعين عليك استخراج الملف ".rar/.zip" الذي حصلت عليه في مجلد آخر.</p>
+<p>إذا لم يتم حفظ الاعدادات بعد هذه الخطوة، فيرجى الاتصال بأي مساعد في السيرفر للحصول على مزيد من المساعدة.</p>
 <hr>
-<h3> Where do i find themes?</h3>
-<p>You can find themes for your Korepi on <code>community share</code> or you can make your own in Korepi settings.</p>
+<h3> أين أجد السمات؟</h3>
+<p>يمكنك العثور على سمات لـ Korepi الخاصة بك على "community share" أو يمكنك إنشاء سمات خاصة بك في إعدادات Korepi.</p>
 <p><img src="/assets/images/docs/202312/theme-settings.png" alt="" loading="lazy"></p>
-<p>Check <code>Theme Customization</code> to start making your own theme.</p>
+<p>تفقد <code>Theme Customization</code> للبدء في صنع سمات خاصة بك.</p>
 <hr>
-<h3> Why did my /sign-in streak reset?</h3>
-<p>Most likely you surpassed the reset time, it resets daily, if you skip 1 day it will reset entirely</p>
+<h3> لماذا تمت إعادة ضبط /sign-in الخاص بي؟</h3>
+<p>على الأرجح أنك تجاوزت وقت إعادة التعيين، تتم إعادة التعيين يوميًا، إذا تخطيت يومًا واحدًا، فسيتم إعادة التعيين بالكامل</p>
 <div class="hint-container info">
-<p class="hint-container-title">Reset time is at GMT/UTC+8 00:00 everyday. Please convert to your timezone.</p>
+<p class="hint-container-title">وقت إعادة الضبط هو بتوقيت GMT/UTC+8 00:00 كل يوم. يرجى التحويل إلى منطقتك الزمنية.</p>
 </div>
 <hr>
-<h3> Can i use Korepi when a new update comes?</h3>
-<p>No, you need to wait till a new Korepi version gets released.</p>
+<h3> هل يمكنني استخدام Korepi عندما يأتي تحديث جديد؟</h3>
+<p>لا، أنت بحاجة إلى الانتظار حتى يتم إصدار إصدار جديد من Korepi.</p>
 <div class="hint-container info">
-<p class="hint-container-title">Using the old injector wont work, Korepi update takes 1-2 weeks approximately.</p>
+<p class="hint-container-title">لن يعمل الحاقن القديم، ويستغرق تحديث Korepi من أسبوع إلى أسبوعين تقريبًا.</p>
 </div>
 <hr>
-<h3> Why the menu doesn't appear in game?</h3>
-<p>Make sure you have disabled every overlay(MSI Afterburner, GeForce Experience, etc.) before launching korepi.</p>
+<h3> لماذا لا تظهر القائمة في اللعبة؟</h3>
+<p>تأكد من تعطيل كل التراكب(MSI Afterburner, GeForce Experience, etc.) قبل تشغيل korepi.</p>
 <hr>
-<h3> Where do i get <span style="color:yellow;">Sponsor</span> and how much it is?</h3>
-<p>You can get <a href="/ar/start/sponsor.html" target="blank">Sponsor</a> from the links provided in <code>#sponsorship</code> in the server.</p>
-<p>In order to get the Sponsor role, you need to donate at least 5$, any other donation below 5$ will be ignored.</p>
+<h3> أين يمكنني الحصول على <span style="color:yellow;">Sponsor</span> وكم هو؟</h3>
+<p>يمكنك الحصول <a href="/ar/start/sponsor.html" target="blank">Sponsor</a> من الروابط المقدمة في <code>#sponsorship</code> في السيرفر.</p>
+<p>للحصول على دور الداعم، يجب عليك التبرع بمبلغ لا يقل عن 5 دولارات، وسيتم تجاهل أي تبرع آخر أقل من 5 دولارات.</p>
 <hr>
-<h3> Why my game crashes in loading screen?</h3>
-<p>If you get a error like this:</p>
+<h3> لماذا تتعطل لعبتي في شاشة التحميل؟</h3>
+<p>إذا حصلت على خطأ مثل هذا:</p>
 <p><code>atidxx64.dll caused an Access Violation (0xc0000005) in module atidxx64.dll at 0033:43d1356c.</code></p>
-<p>Please update your drivers and try again.</p>
-<p>If you don't get that error, try setting more delay on launch on <code>cfg.ini</code>.</p>
+<p>يرجى تحديث برامج التشغيل الخاصة بك والمحاولة مرة أخرى.</p>
+<p>إذا لم تحصل على هذا الخطأ، فحاول تعيين المزيد من التأخير عند التشغيل <code>cfg.ini</code>.</p>
 ]]></content:encoded>
       <enclosure url="https://korepi.com/assets/images/docs/202312/theme-settings.png" type="image/png"/>
     </item>
@@ -591,65 +593,65 @@ If after restarting it did not help or no errors were found, write this command:
       <link>https://korepi.com/ar/features/Player/attack-effects.html</link>
       <guid>https://korepi.com/ar/features/Player/attack-effects.html</guid>
       <source url="https://korepi.com/ar/rss.xml">Attack Effects</source>
-      <description>Attack Effects: Modifications for your attacks Multi-Hit Mode: One Punch Mode: Tries to kill the target with 1 hit.; Note: Not recommended to use. Modifies the number of attacks...</description>
-      <category>Features</category>
+      <description>تأثيرات الضربات: تعديلات على ضرباتك Multi-Hit Mode: One Punch Mode: يحاول قتل الهدف بضربة واحدة.; ملاحظة: لا ينصح باستخدامه. يعدل عدد الهجمات التي يتلقاها الهدف.; ملحوظة: لا يوص...</description>
+      <category>المميزات</category>
       <pubDate>Fri, 22 Dec 2023 11:31:21 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Attack Effects: Modifications for your attacks</h2>
+      <content:encoded><![CDATA[<h2> تأثيرات الضربات: تعديلات على ضرباتك</h2>
 <h3> Multi-Hit Mode:</h3>
 <ul>
-<li>One Punch Mode: Tries to kill the target with 1 hit.</li>
+<li>One Punch Mode: يحاول قتل الهدف بضربة واحدة.</li>
 </ul>
 <blockquote>
-<p>Note: Not recommended to use.</p>
+<p>ملاحظة: لا ينصح باستخدامه.</p>
 </blockquote>
 <ul>
-<li>Modifies the number of attacks received by the target.</li>
+<li>يعدل عدد الهجمات التي يتلقاها الهدف.</li>
 </ul>
 <blockquote>
-<p>Note: Not recommended to go above <code>5</code>.</p>
+<p>ملحوظة: لا يوصى بالذهاب إلى ما فوق <code>5</code>.</p>
 </blockquote>
 <h3> Multi-Target:</h3>
 <ul>
-<li>Hit all the targets within the selected radius from the target hit.</li>
+<li>ضرب جميع الأهداف داخل نصف القطر المحدد من إصابة الهدف.</li>
 </ul>
 <blockquote>
-<p>Note: Not recommended to change default settings.</p>
+<p>ملاحظة: لا يوصى بتغيير الإعدادات الافتراضية.</p>
 </blockquote>
 <h3> Multi-Animation:</h3>
 <ul>
-<li>Modifies the number of times the character does an action.</li>
+<li>يعدل عدد المرات التي تقوم فيها الشخصية بإجراء ما.</li>
 </ul>
 <blockquote>
-<p>Note: Not recommended to use.</p>
+<p>ملاحظة: لا ينصح باستخدامه.</p>
 </blockquote>
 <h3> Attack Speed:</h3>
 <ul>
-<li>Modifies the speed of the normal attacks from the player.</li>
+<li>يعدل سرعة الضربات العادية من اللاعب.</li>
 </ul>
 <blockquote>
-<p>Note: Not recommended to use above <code>1.5</code>.</p>
+<p>ملحوظة: لا يُنصح باستخدامه فوق 1.5.</p>
 </blockquote>
 <h3> Custom Element:</h3>
 <ul>
-<li>Modifies the element of all outgoing attacks.</li>
+<li>يعدل عنصر جميع الهجمات الصادرة.</li>
 </ul>
 <h3> Infuse Element:</h3>
 <ul>
-<li>Modifies the element of normal attacks from sword, polearms and claymore.</li>
+<li>يعدل عنصر الهجمات العادية من السيف و الرمح والكلايمور.</li>
 </ul>
 <h3> Auto Weakspot:</h3>
 <ul>
-<li>Hits target weakspot therefore criting, only works with bow users.</li>
+<li>يضرب نقطة ضعف الهدف, يعمل فقط مع مستخدمي القوس.</li>
 </ul>
-<h3> Critical Hit (<span style="color:yellow;">Sponsor</span>):</h3>
+<h3> Critical Hit (<span style="color:yellow;">داعم</span>):</h3>
 <ul>
-<li>Changes the probability of critical hits.</li>
+<li>يغير احتمالية الضربات الحرجة.</li>
 </ul>
 <h3> Nullify Incoming Element:</h3>
 <ul>
-<li>Will nullify any incoming element converting it to physical damage instead.</li>
+<li>سيتم إبطال أي عنصر وارد وتحويله إلى ضرر مادي بدلاً من ذلك.</li>
 </ul>
-<h2> Example Video:</h2>
+<h2> فيديو توضيحي:</h2>
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/1BdKwxBjWyg?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Attack Effects" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 ]]></content:encoded>
     </item>
@@ -658,11 +660,11 @@ If after restarting it did not help or no errors were found, write this command:
       <link>https://korepi.com/ar/features/Player/auto-run.html</link>
       <guid>https://korepi.com/ar/features/Player/auto-run.html</guid>
       <source url="https://korepi.com/ar/rss.xml">Auto Run</source>
-      <description>Auto Run will move the player to the direction the player is facing automatically. Example Video:</description>
-      <category>Features</category>
+      <description>سيؤدي التحرك التلقائي إلى نقل اللاعب إلى الاتجاه الذي يواجهه اللاعب تلقائيًا. فيديو توضيحي:</description>
+      <category>المميزات</category>
       <pubDate>Fri, 22 Dec 2023 11:31:21 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Auto Run will move the player to the direction the player is facing automatically.</h2>
-<h2> Example Video:</h2>
+      <content:encoded><![CDATA[<h2> سيؤدي التحرك التلقائي إلى نقل اللاعب إلى الاتجاه الذي يواجهه اللاعب تلقائيًا.</h2>
+<h2> فيديو توضيحي:</h2>
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/BLDhPBMs7Es?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Run" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 ]]></content:encoded>
     </item>
@@ -671,15 +673,15 @@ If after restarting it did not help or no errors were found, write this command:
       <link>https://korepi.com/ar/features/Player/bunny-hop.html</link>
       <guid>https://korepi.com/ar/features/Player/bunny-hop.html</guid>
       <source url="https://korepi.com/ar/rss.xml">Bunny Hop</source>
-      <description>Sponsor Only Bunny Hop will jump automatically after first jump when enabled. Example Video:</description>
-      <category>Features</category>
+      <description>: للداعمين فقط سوف يقفز (الأرنب هوب) تلقائيًا بعد القفزة الأولى عند تمكينه. فيديو توضيحي:</description>
+      <category>المميزات</category>
       <pubDate>Fri, 22 Dec 2023 11:31:21 GMT</pubDate>
       <content:encoded><![CDATA[<div class="hint-container info">
-<p class="hint-container-title">Sponsor Only</p>
+<p class="hint-container-title">: للداعمين فقط</p>
 </div>
 <hr>
-<h2> Bunny Hop will jump automatically after first jump when enabled.</h2>
-<h2> Example Video:</h2>
+<h2> سوف يقفز (الأرنب هوب) تلقائيًا بعد القفزة الأولى عند تمكينه.</h2>
+<h2> فيديو توضيحي:</h2>
 <div class="iframe-container"><iframe width="640" height="369" src="https://www.youtube.com/embed/Gh2GX23E6dw?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Bunnyhop (Sponsor)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 ]]></content:encoded>
     </item>
@@ -688,38 +690,38 @@ If after restarting it did not help or no errors were found, write this command:
       <link>https://korepi.com/ar/features/Player/cooldown-effects.html</link>
       <guid>https://korepi.com/ar/features/Player/cooldown-effects.html</guid>
       <source url="https://korepi.com/ar/rss.xml">Cooldown Effects</source>
-      <description>Cooldown Effects: Modifies the cooldown time of various actions. Max Burst Energy: Removes the requirement needed to use elemental bursts.; Note: Energy bubble may appear incomp...</description>
+      <description>تأثيرات مؤقت الضربات: يعدل وقت التهدئة لمختلف الإجراءات. Max Burst Energy: يزيل المتطلبات اللازمة لاستخدام انفجار الطاقة (Q).; ملحوظة: قد يبدو الزر غير ممتلأ ولكنها ستظل قابلة ل...</description>
       <category>Features</category>
       <pubDate>Fri, 22 Dec 2023 11:31:21 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Cooldown Effects: Modifies the cooldown time of various actions.</h2>
+      <content:encoded><![CDATA[<h2> تأثيرات مؤقت الضربات: يعدل وقت التهدئة لمختلف الإجراءات.</h2>
 <h3> Max Burst Energy:</h3>
 <ul>
-<li>Removes the requirement needed to use elemental bursts.</li>
+<li>يزيل المتطلبات اللازمة لاستخدام انفجار الطاقة (Q).</li>
 </ul>
 <blockquote>
-<p>Note: Energy bubble may appear incomplete but will be still usable.</p>
+<p>ملحوظة: قد يبدو الزر غير ممتلأ ولكنها ستظل قابلة للاستخدام.</p>
 </blockquote>
 <h3> No Avatar Skill Cooldown: Removes the cooldown for character skill and burst.</h3>
 <ul>
-<li>Reduce Skill/Burst Cooldown: When activated instead of removing the cooldown, it will be set to the selected values if the cooldown is higher than the value selected.</li>
+<li>تقليل مؤقت الضربات للمهارة/الاندفاع: عند تفعيلها بدلاً من إزالة مؤقت الضربات، سيتم تعيينها على القيم المحددة إذا كان مؤقت الضربات أعلى من القيمة المحددة.</li>
 </ul>
 <blockquote>
-<p>Note: You can use any value for CD, but don't spam it too hard. <code>ex. 40 times in 1m</code></p>
+<p>ملاحظة: يمكنك استخدام أي قيمة لمؤقت الضربات، لاكن لاتقم بستخدامه بشكل مفرط 'مثال: 40 دقيقة لكل دقيقة واحدة'</p>
 </blockquote>
 <h3> No Sprint Cooldown:</h3>
 <ul>
-<li>Removes the delay between sprints.</li>
+<li>يزيل التأخير بين الخطوات السريعة.</li>
 </ul>
 <h3> Instant Charged Attack:</h3>
 <ul>
-<li>Bow: Removes the charge time for bow users.</li>
-<li>Other: Removes the charge time for other weapon users.</li>
+<li>القوس: يزيل وقت الشحن لمستخدمي القوس.</li>
+<li>أخر: يزيل وقت الشحن لمستخدمي الأسلحة الأخرى.</li>
 </ul>
 <h3> No Vehicle Skill Cooldown:</h3>
 <ul>
-<li>Removes the cooldown for the boat skills.</li>
+<li>يزيل المؤقت لمهارات القارب.</li>
 </ul>
-<h2> Example Video:</h2>
+<h2> فيديو توضيحي:</h2>
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/qv5ykSL3Ojw?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Cooldown Effects" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 ]]></content:encoded>
     </item>
@@ -728,62 +730,59 @@ If after restarting it did not help or no errors were found, write this command:
       <link>https://korepi.com/ar/features/Player/extra-movements.html</link>
       <guid>https://korepi.com/ar/features/Player/extra-movements.html</guid>
       <source url="https://korepi.com/ar/rss.xml">Extra Movements</source>
-      <description>Sponsor Only Extra Movements: Modifies/Enhances certain actions for the player. Run On Water: Enables the ability to walk on water.; Run Boost: Enhances the speed when the playe...</description>
-      <category>Features</category>
+      <description>: للداعمين فقط الحركات الإضافية: تعديل/تحسين إجراءات معينة للاعب. Run On Water: يُمكّن من القدرة على المشي على الماء.; Run Boost: يعزز سرعة جري اللاعب.; ملاحظة: لا يوصى بتغيير ا...</description>
+      <category>المميزات</category>
       <pubDate>Fri, 22 Dec 2023 11:31:21 GMT</pubDate>
       <content:encoded><![CDATA[<div class="hint-container info">
-<p class="hint-container-title">Sponsor Only</p>
+<p class="hint-container-title">: للداعمين فقط</p>
 </div>
 <hr>
-<h2> Extra Movements: Modifies/Enhances certain actions for the player.</h2>
+<h2> الحركات الإضافية: تعديل/تحسين إجراءات معينة للاعب.</h2>
 <h3> Run On Water:</h3>
 <ul>
-<li>Enables the ability to walk on water.</li>
+<li>يُمكّن من القدرة على المشي على الماء.</li>
 </ul>
 <h3> Run Boost:</h3>
 <ul>
-<li>Enhances the speed when the player is running.</li>
+<li>يعزز سرعة جري اللاعب.</li>
 </ul>
 <blockquote>
-<p>Note: Not recommended to change default values.</p>
+<p>ملاحظة: لا يوصى بتغيير القيم الافتراضية.</p>
 </blockquote>
 <h3> Jump Boost:</h3>
 <ul>
-<li>Enhances the height of the jump for the player.
-<ul>
-<li>Apply Mid Air: Enable jumping while not on the ground.</li>
-</ul>
-</li>
+<li>يعزز ارتفاع القفزة للاعب.</li>
+<li>تفعيل Mid Air: تمكين القفز أثناء عدم وجودك على الأرض.</li>
 </ul>
 <blockquote>
-<p>Note: Not recommended to change default values.</p>
+<p>ملاحظة: لا يوصى بتغيير القيم الافتراضية</p>
 </blockquote>
 <h3> Fly Boost:</h3>
 <ul>
-<li>Enhances the speed when the player is gliding.</li>
+<li>يعزز السرعة عند طيران اللاعب.</li>
 </ul>
 <blockquote>
-<p>Note: Not recommended to change default values.</p>
+<p>ملاحظة: لا يوصى بتغيير القيم الافتراضية</p>
 </blockquote>
 <h3> Swim Boost:</h3>
 <ul>
-<li>Enhances the speed when the player is swimming.</li>
+<li>يعزز السرعة عندما يقوم اللاعب بالسباحة.</li>
 </ul>
 <blockquote>
-<p>Note: Not recommended to change default values.</p>
+<p>ملاحظة: لا يوصى بتغيير القيم الافتراضية</p>
 </blockquote>
 <h3> Dive Boost:</h3>
 <ul>
-<li>Enhances the speed when the player is diving.</li>
+<li>يعزز السرعة عندما يقوم اللاعب بالغوص.</li>
 </ul>
 <blockquote>
-<p>Note: Not recommended to change default values.</p>
+<p>ملاحظة: لا يوصى بتغيير القيم الافتراضية</p>
 </blockquote>
 <h3> Blink:</h3>
 <ul>
-<li>Allows the player to move certain distance after pressing a hotkey.</li>
+<li>يسمح للاعب بالتحرك لمسافة معينة بعد الضغط على مفتاح التشغيل السريع.</li>
 </ul>
-<h2> Example Video:</h2>
+<h2> فيديو توضيحي:</h2>
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/wMd9icqhFQg?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Extra Movement (Sponsor)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 ]]></content:encoded>
     </item>
@@ -792,11 +791,11 @@ If after restarting it did not help or no errors were found, write this command:
       <link>https://korepi.com/ar/features/Player/fall-control.html</link>
       <guid>https://korepi.com/ar/features/Player/fall-control.html</guid>
       <source url="https://korepi.com/ar/rss.xml">Fall Control</source>
-      <description>Fall Control allows you to move with the selected speed while falling. Example Video:</description>
-      <category>Features</category>
+      <description>يتيح لك التحكم في سرعة السقوط فيديو توضيحي:</description>
+      <category>المميزات</category>
       <pubDate>Fri, 22 Dec 2023 11:31:21 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Fall Control allows you to move with the selected speed while falling.</h2>
-<h2> Example Video:</h2>
+      <content:encoded><![CDATA[<h2> يتيح لك التحكم في سرعة السقوط</h2>
+<h2> فيديو توضيحي:</h2>
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/BHiabtwSSNc?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Fall Control" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 ]]></content:encoded>
     </item>
@@ -805,22 +804,22 @@ If after restarting it did not help or no errors were found, write this command:
       <link>https://korepi.com/ar/features/Player/god-mode.html</link>
       <guid>https://korepi.com/ar/features/Player/god-mode.html</guid>
       <source url="https://korepi.com/ar/rss.xml">God Mode</source>
-      <description>God Mode will disable all incoming damage. Undead: When enabled, god mode only will turn on if damage is lethal.; Conditional: When enabled, god mode only will turn on if the ch...</description>
-      <category>Features</category>
+      <description>سيقوم الوضع الخارق بتعطيل جميع الأضرار الواردة. Undead: عند تمكينه، سيتم تشغيل الوضع الخارق فقط إذا كان الضرر مميتًا.; Conditional: عند تمكينه، سيتم تشغيل الوضع الخارق فقط إذا ك...</description>
+      <category>المميزات</category>
       <pubDate>Fri, 22 Dec 2023 11:31:21 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> God Mode will disable all incoming damage.</h2>
+      <content:encoded><![CDATA[<h2> سيقوم الوضع الخارق بتعطيل جميع الأضرار الواردة.</h2>
 <h3> Undead:</h3>
 <ul>
-<li>When enabled, god mode only will turn on if damage is lethal.</li>
+<li>عند تمكينه، سيتم تشغيل الوضع الخارق فقط إذا كان الضرر مميتًا.</li>
 </ul>
 <h3> Conditional:</h3>
 <ul>
-<li>When enabled, god mode only will turn on if the character hp falls below the specified value.</li>
+<li>عند تمكينه، سيتم تشغيل الوضع الخارق فقط إذا كانت صحة الشخصية أقل من القيمة المحددة.</li>
 </ul>
 <blockquote>
-<p>Note: Recommended to use conditional for abyss.</p>
+<p>ملحوظة: يوصى باستخدام الشرطية فيى الهاوية (abyss)</p>
 </blockquote>
-<h2> Example Video:</h2>
+<h2> فيديو توضيحي:</h2>
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/42utUUYNHRE?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - God Mode" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 ]]></content:encoded>
     </item>
@@ -829,18 +828,18 @@ If after restarting it did not help or no errors were found, write this command:
       <link>https://korepi.com/ar/features/Player/infinite-stamina.html</link>
       <guid>https://korepi.com/ar/features/Player/infinite-stamina.html</guid>
       <source url="https://korepi.com/ar/rss.xml">Infinite Stamina</source>
-      <description>Infinite Stamina disables the stamina consumption for all actions. Move Sync Packet Replacement: When this is enabled and Infinite Stamina is disabled, will prevent sending stam...</description>
-      <category>Features</category>
+      <description>تعمل القدرة اللانهائية على تعطيل استهلاك القدرة على التحمل لجميع الإجراءات. Move Sync Packet Replacement: عند تمكين هذا الخيار وتعطيل قوة التحمل القصوى، سيمنع إرسال حزم الإجراءا...</description>
+      <category>المميزات</category>
       <pubDate>Fri, 22 Dec 2023 11:31:21 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Infinite Stamina disables the stamina consumption for all actions.</h2>
+      <content:encoded><![CDATA[<h2> تعمل القدرة اللانهائية على تعطيل استهلاك القدرة على التحمل لجميع الإجراءات.</h2>
 <h3> Move Sync Packet Replacement:</h3>
 <ul>
-<li>When this is enabled and Infinite Stamina is disabled, will prevent sending stamina consuming action packets to server like running, climbing, swimming, etc.</li>
+<li>عند تمكين هذا الخيار وتعطيل قوة التحمل القصوى، سيمنع إرسال حزم الإجراءات التي تستهلك القدرة على التحمل إلى الخادم مثل الجري والتسلق والسباحة وما إلى ذلك.</li>
 </ul>
 <blockquote>
-<p>Note: Recommended to use Move Sync Packet Replacement.</p>
+<p>ملاحظة: يوصى باستخدام استبدال حزمة المزامنة المتحركة.</p>
 </blockquote>
-<h2> Example Video:</h2>
+<h2> فيديو توضيحي:</h2>
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/NZhfaMOLuY0?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Infinite Stamina" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 ]]></content:encoded>
     </item>
@@ -849,34 +848,34 @@ If after restarting it did not help or no errors were found, write this command:
       <link>https://korepi.com/ar/features/Player/no-clip.html</link>
       <guid>https://korepi.com/ar/features/Player/no-clip.html</guid>
       <source url="https://korepi.com/ar/rss.xml">No Clip</source>
-      <description>No Clip will allow you to have no collision, move faster and fly. No Animation: When enabled it will disable animations of the character while using no clip.; Camera-relative mo...</description>
-      <category>Features</category>
+      <description>يسمح لك وضع بدون خطوات بعدم الاصطدام والتحرك بشكل أسرع والطيران. No Animation: عند تمكينه، سيتم تعطيل الرسوم المتحركة للشخصية أثناء استخدام بدون خطوات.; Camera-relative movement...</description>
+      <category>المميزات</category>
       <pubDate>Fri, 22 Dec 2023 11:31:21 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> No Clip will allow you to have no collision, move faster and fly.</h2>
+      <content:encoded><![CDATA[<h2> يسمح لك وضع بدون خطوات بعدم الاصطدام والتحرك بشكل أسرع والطيران.</h2>
 <h3> No Animation:</h3>
 <ul>
-<li>When enabled it will disable animations of the character while using no clip.</li>
+<li>عند تمكينه، سيتم تعطيل الرسوم المتحركة للشخصية أثناء استخدام بدون خطوات.</li>
 </ul>
 <h3> Camera-relative movement:</h3>
 <ul>
-<li>When enabled, character will move based on camera view instead of where the character is facing.</li>
+<li>عند التمكين، ستتحرك الشخصية بناءً على عرض الكاميرا بدلاً من المكان الذي تواجهه الشخصية.</li>
 </ul>
 <h3> Alternate No-Clip:</h3>
 <ul>
-<li>When enabled, no clip speed will change after pressing the selected hotkey at the designed speed.</li>
+<li>عند التمكين، ستتغير سرعة بدون خطوات بعد الضغط على مفتاح التشغيل السريع المحدد بالسرعة المصممة.</li>
 </ul>
 <h3> Use Custom Keys:</h3>
 <ul>
-<li>Enables the option to change no-clip directional controls.</li>
+<li>لتمكين خيار تغيير عناصر التحكم في الاتجاه بدون خطوات.</li>
 </ul>
 <h3> DragBack Bypass:</h3>
 <ul>
-<li>Prevents the server to drag the character back due to excessive speed.</li>
+<li>يمنع الخادم من سحب الشخصية مرة أخرى بسبب السرعة الزائدة.</li>
 </ul>
 <blockquote>
-<p>Note: Not recommended to use above <code>20</code>.</p>
+<p>ملحوظة: لا يُنصح باستخدامه فوق 20.</p>
 </blockquote>
-<h2> Example Video:</h2>
+<h2> فيديو توضيحي:</h2>
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/nPdq-yzBt3k?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - NoClip" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 ]]></content:encoded>
     </item>
@@ -885,15 +884,17 @@ If after restarting it did not help or no errors were found, write this command:
       <link>https://korepi.com/ar/features/Player/player-speed.html</link>
       <guid>https://korepi.com/ar/features/Player/player-speed.html</guid>
       <source url="https://korepi.com/ar/rss.xml">Player Speed</source>
-      <description>Player Speed modifies player speed. Real. No Fake. Note: Recommended to use below 1.5. Note 2: Extra Movements (extra-movements.md) is recommended since its better synced with t...</description>
-      <category>Features</category>
+      <description>سرعة اللاعب تعدل سرعة اللاعب. حقيقي. لا وهمية. 1.5ملحوظة: يوصى باستخدامه أقل من . ملاحضة 2 : يوصى ب الحركات الإضافية (extra-movements.md) نظرًا لأنها متزامنة بشكل أفضل مع الخادم...</description>
+      <category>المميزات</category>
       <pubDate>Fri, 22 Dec 2023 11:31:21 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Player Speed modifies player speed. Real. No Fake.</h2>
+      <content:encoded><![CDATA[<h2> سرعة اللاعب تعدل سرعة اللاعب. حقيقي. لا وهمية.</h2>
 <blockquote>
-<p>Note: Recommended to use below <code>1.5</code>.
-Note 2: <a href="/ar/features/Player/extra-movements.html" target="blank">Extra Movements</a> is recommended since its better synced with the server (safer)(Sponsor)</p>
+<p><code>1.5</code>ملحوظة: يوصى باستخدامه أقل من .</p>
 </blockquote>
-<h2> Example Video:</h2>
+<blockquote>
+<p>ملاحضة 2 : يوصى ب <a href="/ar/features/Player/extra-movements.html" target="blank">الحركات الإضافية</a> نظرًا لأنها متزامنة بشكل أفضل مع الخادم (أكثر أمانًا)(للداعمين)</p>
+</blockquote>
+<h2> فيديو توضيحي:</h2>
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/HCxmOUMFRs8?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Player Speed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 ]]></content:encoded>
     </item>
@@ -902,87 +903,104 @@ Note 2: <a href="/ar/features/Player/extra-movements.html" target="blank">Extra 
       <link>https://korepi.com/ar/features/Player/remote-utility.html</link>
       <guid>https://korepi.com/ar/features/Player/remote-utility.html</guid>
       <source url="https://korepi.com/ar/rss.xml">Remote Utility</source>
-      <description>Sponsor Only Remote Utility: Claim Daily Commission Reward: Claims daily commission reward when all 4 comissions are completed.; Custom Talk: Starts a conversation using the con...</description>
-      <category>Features</category>
+      <description>: للداعمين فقط أدوات المساعدة عن بعد: Claim Daily Commission Reward: تحصيل مكافأة المهام اليومية عند اكتمال جميع المهام الأربعة.; Custom Talk: لبدء محادثة باستخدام معرف المحادثة...</description>
+      <category>المميزات</category>
       <pubDate>Fri, 22 Dec 2023 11:31:21 GMT</pubDate>
       <content:encoded><![CDATA[<div class="hint-container info">
-<p class="hint-container-title">Sponsor Only</p>
+<p class="hint-container-title">: للداعمين فقط</p>
 </div>
 <hr>
-<h2> Remote Utility:</h2>
+<h2> أدوات المساعدة عن بعد:</h2>
 <h3> Claim Daily Commission Reward:</h3>
 <ul>
-<li>Claims daily commission reward when all 4 comissions are completed.</li>
+<li>تحصيل مكافأة المهام اليومية عند اكتمال جميع المهام الأربعة.</li>
 </ul>
 <h3> Custom Talk:</h3>
 <ul>
-<li>Starts a conversation using the conversation ID, some conversations might not work.</li>
+<li>لبدء محادثة باستخدام معرف المحادثة، قد لا تعمل بعض المحادثات.</li>
 </ul>
 <blockquote>
-<p>Note: This feature is dangerous.
-Note: To get the conversation ID, enable <code>Debug Talk</code>, ID will be displayed in <code>cmd</code>.</p>
+<p>ملاحظة: هذه الميزة خطيرة.</p>
 </blockquote>
-<h3> Spawn Gadget:</h3>
+<blockquote>
+<p>"cmd".وسيتم عرض المعرف في"Debug Talk" ملاحظة: للحصول على معرف المحادثة، قم بتمكين</p>
+</blockquote>
+<h3> Spawn Gadget</h3>
 <ul>
-<li>Spawns the selected gadget by ID, some of them might not work.</li>
+<li>يولد الأداة المحددة بواسطة المعرف، وقد لا يعمل بعضها.</li>
 </ul>
 <blockquote>
-<p>Note: This feature is dangerous.
-Note 2: You can find the gadget IDs <a href="https://github.com/jie65535/GrasscutterCommandGenerator/blob/main/Source/GrasscutterTools/Resources/en-us/Gadget.txt" target="_blank" rel="noopener noreferrer">here</a></p>
+<p>.ملاحظة: هذه الميزة خطيرة</p>
+</blockquote>
+<blockquote>
+<p>ملاحظة 2: يمكنك العثور على معرفات الأدوات <a href="https://github.com/jie65535/GrasscutterCommandGenerator/blob/main/Source/GrasscutterTools/Resources/en-us/Gadget.txt" target="_blank" rel="noopener noreferrer">هنا</a></p>
 </blockquote>
 <h3> Crafting:</h3>
 <ul>
-<li>Condensed Resin: Crafts a condensed resin if you got the resin and the items.</li>
-<li>Spawn Alchemy Table: Spawns an Alchemy Table.</li>
-<li>Spawn Forging Table: Spawns a Forging Table.</li>
-<li>Custom Combine: Will try to combine the selected item using the current character.
+<li>
+<p>الريزن المكثف: اصنع ريزن مكثفًا إذا حصلت على الراتنج والعناصر.</p>
+</li>
+<li>
+<p>توليد طاولة الكيمياء: يولد طاولة الكيمياء.</p>
+</li>
+<li>
+<p>توليد طاولة الحداد</p>
+</li>
+<li>
+<p>الجمع المخصص: سيحاول دمج العنصر المحدد باستخدام الشخصية الحالية.</p>
 <blockquote>
-<p>Note: If successful, there will be no prompt. Please check inventory.
-Note 2: You can find the combine IDs <a href="https://github.com/jie65535/GrasscutterCommandGenerator/blob/main/Source/GrasscutterTools/Resources/en-us/Item.txt" target="_blank" rel="noopener noreferrer">here</a></p>
+<p>ملاحظة: في حالة النجاح، لن يكون هناك إعلام. يرجى التحقق من الحقيبة.</p>
+</blockquote>
+<blockquote>
+<p>ملاحظة 2: يمكنك العثور على معرفات الجمع <a href="https://github.com/jie65535/GrasscutterCommandGenerator/blob/main/Source/GrasscutterTools/Resources/en-us/Item.txt" target="_blank" rel="noopener noreferrer">هنا</a></p>
 </blockquote>
 </li>
 </ul>
 <h3> Summon NPC:</h3>
 <ul>
-<li>Summons the selected NPC by ID.</li>
+<li>يستدعي الشخصية غير القابلة للعب المحددة بواسطة المعرف.</li>
 </ul>
 <blockquote>
-<p>Note: Katheryne, Wagner and Prince already included.</p>
+<p>ملحوظة: تم تضمين كاثرين وفاغنر وبرنس بالفعل.</p>
 </blockquote>
 <h3> Summon Monster:</h3>
 <ul>
-<li>Summons the selected monster with the selected parameters by ID.</li>
+<li>يستدعي الوحش المحدد بالمعلمات المحددة بواسطة المعرف.</li>
 </ul>
 <blockquote>
-<p>Note: You can't kill them.
-Note 2: You can find the monster IDs <a href="https://github.com/jie65535/GrasscutterCommandGenerator/blob/main/Source/GrasscutterTools/Resources/en-us/Monsters.txt" target="_blank" rel="noopener noreferrer">here</a></p>
+<p>ملاحظة: لا يمكنك قتلهم.</p>
+</blockquote>
+<blockquote>
+<p>ملاحظة 2: يمكنك العثور على معرفات الوحش <a href="https://github.com/jie65535/GrasscutterCommandGenerator/blob/main/Source/GrasscutterTools/Resources/en-us/Monsters.txt" target="_blank" rel="noopener noreferrer">هنا</a></p>
 </blockquote>
 <h3> Summon Item:</h3>
 <ul>
-<li>Summons the selected item by ID.</li>
+<li>استدعاء عنصر محدد بواسطة المعرف.</li>
 </ul>
 <blockquote>
-<p>Note: Some items might not work.
-Note 2: You can find the items IDs <a href="https://github.com/jie65535/GrasscutterCommandGenerator/blob/main/Source/GrasscutterTools/Resources/en-us/Item.txt" target="_blank" rel="noopener noreferrer">here</a></p>
+<p>ملاحظة: قد لا تعمل بعض العناصر.</p>
+</blockquote>
+<blockquote>
+<p>ملاحظة 2: يمكنك العثور على معرفات العناصر <a href="https://github.com/jie65535/GrasscutterCommandGenerator/blob/main/Source/GrasscutterTools/Resources/en-us/Item.txt" target="_blank" rel="noopener noreferrer">هنا</a></p>
 </blockquote>
 <h3> Open UI Page:</h3>
 <ul>
-<li>Open Paimon Menu Page: Opens the menu.</li>
-<li>Open Cooking Page: Opens cooking page.
+<li>Open Paimon Menu Page: يفتح القائمة.</li>
+<li>Open Cooking Page: يفتح صفحة الطبخ.
 <blockquote>
-<p>Note: Needs to open cooking page once before using this feature.</p>
+<p>ملحوظة: يجب فتح صفحة الطبخ مرة واحدة قبل استخدام هذه الميزة.</p>
 </blockquote>
 </li>
 </ul>
 <h3> Worship Statue:</h3>
 <ul>
-<li>Will worship the selected Statue of the Seven with the amount selected, need to have the oculus to do this.</li>
+<li>سيتم منح الاعين لتمثال السبعة المحدد بالمبلغ المحدد، ويحتاج إلى الحصول على العين للقيام بذلك.</li>
 </ul>
 <h3> Change Traveler Element:</h3>
 <ul>
-<li>Allows player to change traveler element anywhere.</li>
+<li>يسمح للاعب بتغيير عنصر المسافر في أي مكان.</li>
 </ul>
-<h2> Example Video:</h2>
+<h2> فيديو توضيحي:</h2>
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/XGztUEy82sE?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Remote Utilities (Sponsor)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 ]]></content:encoded>
     </item>
@@ -991,14 +1009,14 @@ Note 2: You can find the items IDs <a href="https://github.com/jie65535/Grasscut
       <link>https://korepi.com/ar/features/Teleport/0culi-teleport.html</link>
       <guid>https://korepi.com/ar/features/Teleport/0culi-teleport.html</guid>
       <source url="https://korepi.com/ar/rss.xml">0culi Teleport</source>
-      <description>Oculi Teleport will teleport the player to the nearest rendered oculi location when the hotkey is pressed. Note: Wait &amp;gt;15s between teleports for safety. Example Video:</description>
+      <description>سوف يقوم (انقل الى الاعين) بنقل اللاعب إلى أقرب موقع (عين) معروض عند الضغط على مفتاح التشغيل السريع. ملحوظة: انتظر &amp;gt; 15 ثانية بين عمليات النقل الآني من أجل السلامة. فيديو توضيحي:</description>
       <category>Features</category>
       <pubDate>Fri, 22 Dec 2023 11:31:21 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Oculi Teleport will teleport the player to the nearest rendered oculi location when the hotkey is pressed.</h2>
+      <content:encoded><![CDATA[<h2> سوف يقوم (انقل الى الاعين) بنقل اللاعب إلى أقرب موقع (عين) معروض عند الضغط على مفتاح التشغيل السريع.</h2>
 <blockquote>
-<p>Note: Wait <code>&gt;15s</code> between teleports for safety.</p>
+<p>ملحوظة: انتظر <code>&gt; 15 ثانية</code> بين عمليات النقل الآني من أجل السلامة.</p>
 </blockquote>
-<h2> Example Video:</h2>
+<h2> فيديو توضيحي:</h2>
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/j2Yu31J7Yh4?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Oculi/ChestTeleport" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 ]]></content:encoded>
     </item>
@@ -1007,14 +1025,14 @@ Note 2: You can find the items IDs <a href="https://github.com/jie65535/Grasscut
       <link>https://korepi.com/ar/features/Teleport/chest-teleport.html</link>
       <guid>https://korepi.com/ar/features/Teleport/chest-teleport.html</guid>
       <source url="https://korepi.com/ar/rss.xml">Chest Teleport</source>
-      <description>Chest Teleport will teleport the player to the nearest rendered chest location when the hotkey is pressed. Note: Wait &amp;gt;15s between teleports for safety. Example Video:</description>
+      <description>سيقوم (النقل الى الصناديق) بنقل اللاعب إلى أقرب صندوق عند الضغط على مفتاح التشغيل السريع. ملحوظة: انتظر &amp;gt; 15 ثانية بين عمليات النقل الآني من أجل السلامة. فيديو توضيحي:</description>
       <category>Features</category>
       <pubDate>Fri, 22 Dec 2023 11:31:21 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Chest Teleport will teleport the player to the nearest rendered chest location when the hotkey is pressed.</h2>
+      <content:encoded><![CDATA[<h2> سيقوم (النقل الى الصناديق) بنقل اللاعب إلى أقرب صندوق عند الضغط على مفتاح التشغيل السريع.</h2>
 <blockquote>
-<p>Note: Wait <code>&gt;15s</code> between teleports for safety.</p>
+<p>ملحوظة: انتظر <code>&gt; 15 ثانية</code> بين عمليات النقل الآني من أجل السلامة.</p>
 </blockquote>
-<h2> Example Video:</h2>
+<h2> فيديو توضيحي:</h2>
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/j2Yu31J7Yh4?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Oculi/ChestTeleport" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 ]]></content:encoded>
     </item>
@@ -1023,27 +1041,27 @@ Note 2: You can find the items IDs <a href="https://github.com/jie65535/Grasscut
       <link>https://korepi.com/ar/features/Teleport/custom-teleport.html</link>
       <guid>https://korepi.com/ar/features/Teleport/custom-teleport.html</guid>
       <source url="https://korepi.com/ar/rss.xml">Custom Teleport</source>
-      <description>Custom Teleport: Allows the player to teleport to a selected location designed by a .json file. Interpolation Speed: Controls the teleportation animation speed, set to 0.1 to av...</description>
+      <description>النقل الفوري المخصص: يسمح للاعب بالانتقال الفوري إلى موقع محدد مصمم بواسطة ملف &amp;quot;.json&amp;quot;. Interpolation Speed: يتحكم في سرعة الرسوم المتحركة للانتقال الآني، ويتم ضبطها على 0.1 لتج...</description>
       <category>Features</category>
       <pubDate>Fri, 22 Dec 2023 11:31:21 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Custom Teleport: Allows the player to teleport to a selected location designed by a <code>.json</code> file.</h2>
+      <content:encoded><![CDATA[<h2> النقل الفوري المخصص: يسمح للاعب بالانتقال الفوري إلى موقع محدد مصمم بواسطة ملف ".json".</h2>
 <h3> Interpolation Speed:</h3>
 <ul>
-<li>Controls the teleportation animation speed, set to <code>0.1</code> to avoid issues.</li>
+<li>يتحكم في سرعة الرسوم المتحركة للانتقال الآني، ويتم ضبطها على <code>0.1</code> لتجنب المشكلات.</li>
 </ul>
 <h3> Auto Teleport:</h3>
 <ul>
-<li>Teleports automatically following the order of the provided <code>.json</code> files.
+<li>يتم النقل الفوري تلقائيًا باتباع ترتيب ملفات<code>.json</code>.
 <ul>
-<li>Teleport Next: Teleports to next location after pressing the selected hotkey.</li>
-<li>Teleport Previous: Teleports to previous location after pressing the selected hotkey.</li>
+<li>النقل الفوري التالي: النقل الفوري إلى الموقع التالي بعد الضغط على مفتاح التشغيل السريع المحدد.</li>
+<li>النقل الفوري السابق: النقل الفوري إلى الموقع السابق بعد الضغط على مفتاح التشغيل السريع المحدد.</li>
 </ul>
 </li>
 </ul>
 <blockquote>
-<p>Note: Recommended to set above <code>15s</code> for safety.</p>
+<p>ملحوظة: يوصى بتعيينه فوق 15 ثانية من أجل السلامة.</p>
 </blockquote>
-<h1> You can find out more on how to use this feature <a href="/ar/guide/custom-tp-setting.html" target="blank">here</a></h1>
+<h1> يمكنك معرفة المزيد حول كيفية استخدام هذه الميزة <a href="/ar/guide/custom-tp-setting.html" target="blank">هنا</a></h1>
 ]]></content:encoded>
     </item>
     <item>
@@ -1051,19 +1069,19 @@ Note 2: You can find the items IDs <a href="https://github.com/jie65535/Grasscut
       <link>https://korepi.com/ar/features/Teleport/map-teleport.html</link>
       <guid>https://korepi.com/ar/features/Teleport/map-teleport.html</guid>
       <source url="https://korepi.com/ar/rss.xml">Map Teleport</source>
-      <description>Map Teleport allows you to teleport to anywhere on the map. To use map teleport you have to enable it, and select the hotkey you going to use.; To teleport, hold the hotkey whil...</description>
+      <description>Map Teleport : يسمح لك بالانتقال الفوري إلى أي مكان على الخريطة. لاستخدام النقل الفوري للخريطة، يجب عليك تمكينه وتحديد مفتاح التشغيل السريع الذي ستستخدمه.; للانتقال الفوري، اضغط...</description>
       <category>Features</category>
       <pubDate>Fri, 22 Dec 2023 11:31:21 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Map Teleport allows you to teleport to anywhere on the map.</h2>
+      <content:encoded><![CDATA[<h2> Map Teleport : يسمح لك بالانتقال الفوري إلى أي مكان على الخريطة.</h2>
 <ul>
-<li>To use map teleport you have to enable it, and select the hotkey you going to use.</li>
-<li>To teleport, hold the hotkey while having the map opened and click on where you want to teleport.</li>
+<li>لاستخدام النقل الفوري للخريطة، يجب عليك تمكينه وتحديد مفتاح التشغيل السريع الذي ستستخدمه.</li>
+<li>للانتقال الفوري، اضغط مع الاستمرار على مفتاح التشغيل السريع أثناء فتح الخريطة وانقر على المكان الذي تريد الانتقال الفوري إليه.</li>
 </ul>
-<h3> Fast Teleport (<span style="color:yellow;">Sponsor</span>):</h3>
+<h3> Fast Teleport (<span style="color:yellow;">للداعمين</span>):</h3>
 <ul>
-<li>Disables the loading screen within the selected distance while teleporting.</li>
+<li>تعطيل شاشة التحميل ضمن المسافة المحددة أثناء النقل الآني.</li>
 </ul>
-<h2> Example Video:</h2>
+<h2> فيديو توضيحي:</h2>
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/Xm3mTEbIE9g?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Map TP/Fast TP" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 ]]></content:encoded>
     </item>
@@ -1072,14 +1090,14 @@ Note 2: You can find the items IDs <a href="https://github.com/jie65535/Grasscut
       <link>https://korepi.com/ar/features/Teleport/quest-teleport.html</link>
       <guid>https://korepi.com/ar/features/Teleport/quest-teleport.html</guid>
       <source url="https://korepi.com/ar/rss.xml">Quest Teleport</source>
-      <description>Quest Teleports allows you to teleport to the current on-going quest location. To use this feature, you must click your navigation hotkey first and then click on quest teleport ...</description>
+      <description>Quest Teleports يسمح لك بالانتقال الفوري إلى موقع المهمة الحالية . لاستخدام هذه الميزة، يجب عليك النقر فوق مفتاح تتبع المهمة الخاصة بك أولاً ثم النقر فوق مفتاح التشغيل السريع ال...</description>
       <category>Features</category>
       <pubDate>Fri, 22 Dec 2023 11:31:21 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Quest Teleports allows you to teleport to the current on-going quest location.</h2>
+      <content:encoded><![CDATA[<h2> Quest Teleports يسمح لك بالانتقال الفوري إلى موقع المهمة الحالية .</h2>
 <ul>
-<li>To use this feature, you must click your navigation hotkey first and then click on quest teleport hotkey.</li>
+<li>لاستخدام هذه الميزة، يجب عليك النقر فوق مفتاح تتبع المهمة الخاصة بك أولاً ثم النقر فوق مفتاح التشغيل السريع الخاص بالمهمة الآنية.</li>
 </ul>
-<h2> Example Video:</h2>
+<h2> فيديو توضيحي:</h2>
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/HNdQu39G2Tc?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - QuestTP" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 ]]></content:encoded>
     </item>
