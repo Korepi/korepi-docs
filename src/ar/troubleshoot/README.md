@@ -1,5 +1,5 @@
 ---
-title: List of Errors
+title: قائمة الأخطاء
 icon: book
 category:
   - Troubleshoot

@@ -1,5 +1,5 @@
 ---
-title: Joining the Server
+title: الانضمام إلى السيرفر
 icon: server
 category:
   - Guide
@@ -9,23 +9,23 @@ author: QweRez
 order: 1
 ---
 
-## Introduction
+## مقدمة
 
-Welcome to our community! To join the Discord server and start using Korepi, follow these steps.
+أهلا بك في مجتمعنا! للانضمام إلى خادم ديسكورد والبدء في استخدام Korepi، اتبع الخطوات التالية.
 
-### Step 1: Create a Discord Account
+### الخطوة 1: إنشاء حساب ديسكورد
 
-If you don't have a Discord account yet, start by creating a new one. Visit the [official Discord website](https://discord.com/) and follow the registration instructions.
+إذا لم يكن لديك حساب ديسكورد حتى الآن، فابدأ بإنشاء حساب جديد. قم بزيارة [الموقع الرسمي للديسكورد](https://discord.com/) واتبع تعليمات التسجيل.
 
-### Step 2: Download and Install Discord
+### الخطوة 2: تنزيل وتثبيت ديسكورد
 
-After creating an account, download the [Discord client](https://discord.com/download) for your operating system. Install the client following the on-screen instructions.
+بعد إنشاء الحساب، قم بتنزيل [برنامج الديسكورد](https://discord.com/download) لنظام التشغيل الخاص بك. قم بتثبيت البرنامج باتباع التعليمات التي تظهر على الشاشة.
 
-### Step 3: Joining the Server
+### الخطوة 3: الانضمام إلى السيرفر
 
-1. Copy the [invitation link](https://discord.gg/cottonbuds) for the Discord server provided by the administrator.
-2. In the Discord client, click the "+" button in the bottom left corner.
-3. Select "Join a Server."
-4. Paste the invitation link and click "Join."
+1. انسخ [رابط الدعوة](https://discord.gg/cottonbuds) لخادم الديسكورد المقدم من المسؤول.
+2. في برنامج الديسكورد انقر فوق الزر "+" في الزاوية اليسرى السفلية.
+3. اختر "الانضمام إلى الخادم".
+4. الصق رابط الدعوة وانقر على "انضمام".
 
-If the invitation link is invalid, the server may be temporarily closed. Please wait for it to reopen. Now you can proceed to the next step.
+إذا كان رابط الدعوة غير صالح، فقد يتم إغلاق الخادم مؤقتًا. يرجى الانتظار حتى يتم إعادة فتحه. الآن يمكنك المتابعة إلى الخطوة التالية.

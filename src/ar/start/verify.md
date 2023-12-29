@@ -1,5 +1,5 @@
 ---
-title: Verification
+title: التحقق
 icon: lock
 category:
   - Guide
@@ -9,22 +9,22 @@ author: QweRez
 order: 2
 ---
 
-## Introduction
+## مقدمة
 
-Welcome to our community! To pass the bot verification and obtain the "Newcomer" role, follow these steps.
+أهلا بك في مجتمعنا! لاجتياز عملية التحقق من الروبوت والحصول على روول "Newcomer"، اتبع الخطوات التالية.
 
-### Step 1: Join our server if you haven't already
+### الخطوة 1: انضم إلى السيرفر الخاص بنا إذا لم تكن قد قمت بذلك بالفعل
 
-If you are not on the server yet, please read the previous post, where it is described how to join the server.
+إذا لم تكن في السيرفر بعد، يرجى قراءة المنشور السابق، حيث يتم شرح كيفية الانضمام إلى السيرفر.
 
-### Step 2: So, you are on the server
+### الخطوة 2: إذن، أنت في السيرفر
 
-Now that you are on the server, choose the necessary channels and roles from the list, then go to the ★⋅rules⋅★ channel.
+الآن بعد أن أصبحت في السيرفر اختر القنوات و الروولات اللازمة من القائمة، ثم انتقل إلى قناة ★⋅rules⋅★.
 
-### Step 3: ★⋅rules⋅★ channel
+### الخطوة 3: قناة ★⋅rules⋅★
 
-In the rules channel, familiarize yourself with the rules and undergo verification to confirm that you are not a bot. Find the "Verify" button, click on it, and the bot will send you a link that you need to follow and confirm that you are not a bot.
+في قنات  ★⋅rules⋅★ ، تعرف على القواعد وقم بالتحقق للتأكد من أنك لست روبوتًا. ابحث عن زر "Verify"، وانقر عليه، وسيرسل لك الروبوت رابطًا يجب عليك اتباعه وتأكيد أنك لست روبوتًا.
 
-### Step 4: After receiving the "Newcomer" role
+### الخطوة 4: بعد استلام دور "Newcomer".
 
-After successful verification, the bot will assign you the "Newcomer" role. With this role, you will not be kicked by the bot without valid reasons. Now proceed to the next step.
+بعد التحقق الناجح، سيقوم الروبوت بمنحك روول "Newcomer". مع هذا الروول لن يتم طردك من قبل الروبوت دون أسباب وجيهة. انتقل الآن إلى الخطوة التالية.
