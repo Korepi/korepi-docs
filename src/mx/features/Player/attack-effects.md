@@ -28,9 +28,9 @@ order: 1
 ### Elemento Personalizado:
 - Modifica el elemento que aplican los ataques que haces.
 ### Imbuir Elemento:
-- Madifica el elemento de los ataques normales de espada, gran espada y lanza.
+- Modifica el elemento de los ataques normales de espada, gran espada y lanza.
 ### Auto Punto Débil:
-- Ataca automaticamente al punto débil del objetivo, solo para arcos.
+- Ataca automáticamente al punto débil del objetivo, solo para arcos.
 ### Golpe Crítico (Sponsor):
 - Modifica la probabilidad de critico.
 ### Anular Elemento Recibido:
