@@ -30,7 +30,7 @@ Entraremos en los ajustes dentro de Korepi de nuevo e iremos a la siguiente secc
 
 ![](/assets/images/docs/202312/teleport2.png)
 
-Le daremos click a select path, y elegiremos la carpeta de los teletransportes que deseamos utilizar.
+Le daremos clic a select path, y elegiremos la carpeta de los teletransportes que deseamos utilizar.
 
 ### Paso 4: Empezar los teletransportes
 
@@ -44,6 +44,6 @@ La activamos y le damos a `Select`:
 
 ### Paso 5: Disfrutar
 
-Ahora los teletransportes empezaran, si tienes [Sponsor](../start/sponsor.md) habrá un contador del tiempo que tardara.
+Ahora los teletransportes empezarán, si tienes [Sponsor](../start/sponsor.md) habrá un contador del tiempo que tardara.
 
 
