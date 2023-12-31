@@ -1,5 +1,5 @@
 ---
-title: How to add to exclusion list
+title: Как добавить в исключения
 icon: info-circle
 category:
   - Guide
@@ -12,26 +12,26 @@ order: 7
 ::: info Other antivirus will have similar steps, adapt depending on the antivirus you are using.
 :::
 ---
-## How to add Korepi to antivirus exclusion list (Windows Defender)
+## Как добавить Korepi в исключения антивируса (Windows Defender)
 
-### Step 1: Open the antivirus
+### Шаг 1: Откройте антивирус
 
-Open the windows search bar and search for `Windows Security` and open it.
+Откройте строку поиска Windows'a и впишите `Windows Security` и откройте его.
 
 ![](/assets/images/docs/202312/security.png)
 
-We click on `Virus & threat protection`.
+Дальше откройте раздел `Virus & threat protection`.
 
 ![](/assets/images/docs/202312/virus1.png)
 
-Then we scroll till we find `Virus & threat protection settings` and click on `Manage settings`.
+Теперь переместившись ниже мы найдем `Virus & threat protection settings`, после чего нажимем на `Manage settings`.
 
 ![](/assets/images/docs/202312/virus3.png)
 
-### Step 2: Adding to the exclusion list
+### Шаг 2: Добавление в список исключений
 
-After following the last step, we will scroll until we find `Exclusions` and then we click on `Add or remove exclusions`.
+После выполнения предыдущего шага, мы спустясь ниже найдем `Exclusions`, после чего нажимаем на `Add or remove exclusions`.
 
 ![](/assets/images/docs/202312/virus4.png)
 
-Click yes to the popup, after that we click on `Add an Exclusion` and select folder, then we select our Korepi folder.
+Нажмите "Да" во всплывающем окне, после чего нажмите на `Add an Exclusion`. Нам нужно добавить в исключение папку, поэтому мы выбираем пункт `Исключить папку`, после чего находим и добавляем папку Korepi.
