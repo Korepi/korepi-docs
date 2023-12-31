@@ -9,71 +9,71 @@ author: Schvis
 order: 1
 ---
 
-## List of FAQ
+## Список FAQ
 
-### Is Korepi free?
+### Korepi бесплатен?
 
-Yes, it is free, in order to get it for the first time you have to do a 7 days [sign-in](../start/sign-in.md), you can skip this by [Sponsoring](../start/sponsor.md), after that you can get the license every time your key expires.
+Да, он бесплатный, однако, чтобы получить его в первый раз вам нужно 7 дней [sign-in](../start/sign-in.md), но вы можете пропустить эту часть с помощью [Спонсорства](../start/sponsor.md), после этого вы сможете получать лицензионный ключ, когда заканчивает срок действия у прошлого.
 
 ---
-### What is the .rar/.zip password?
+### Какой пароль у  архива .rar/.zip?
 
 ...
 
-Its `1234`, please read the download post next time.
+Пароль очень простой: `1234`. Пожалуйста в следующий раз читайте пост загрузки в канале.
 
 ---
-### Why my config doesn't save?
+### Почему мой Config не сохранился?
 
-Keep in mind you have to extract the `.rar/.zip` file you got in another folder.
+Зайте, что вы должны сначала извлечить и архива `.rar/.zip` все файлы в другую папку.
 
-If config is still not saving after this step, please contact with any helper in the server for more help.
+Если ваш Config все ещё не сохраняется после данных действий, пожалуйста обратитесь к любому помошнику на нашем сервере, для получшения помощи.
 
 ---
-### Where do i find themes?
+### Где я могу найти "Темы" для Korepi?
 
-You can find themes for your Korepi on `community share` or you can make your own in Korepi settings.
+Вы можете найти Темы для вашего Korepi в `community share` или вы моежете сделать свою в настройках Korepi.
 
 ![](/assets/images/docs/202312/theme-settings.png)
 
-Check `Theme Customization` to start making your own theme.
+Проверьте `Theme Customization` чтобы начать создавать свою тему.
 
 ---
-### Why did my /sign-in streak reset?
+### Почему мой /sign-in подряд был сброшен?
 
-Most likely you surpassed the reset time, it resets daily, if you skip 1 day it will reset entirely
+Скорее всего вы превысили время сброса, оно сбрасывается каждый день, если вы пропустите 1 день, то в этом случае все ваши дни сбросятся
 
-::: info Reset time is at GMT/UTC+8 00:00 everyday. Please convert to your timezone.
+::: info Сброс происходит по часовому поясу GMT/UTC+8 в 00:00 каждый день. Пожалуйста переведите это время в свой часовой пояс.
 :::
 ---
 
-### Can i use Korepi when a new update comes?
+### Могу ли я использовать Korepi когда выходит новое обновление?
 
-No, you need to wait till a new Korepi version gets released.
+Нет, вам нужно подождать пока новая версия Korepi не будет выпущена.
 
-::: info Using the old injector wont work, Korepi update takes 1-2 weeks approximately.
+::: info Использование старого инжектора не будет работать, обновления Korepi занимает примерно 1-2 недели.
 :::
 ---
 
-### Why the menu doesn't appear in game?
+### Почему меню не появляется в саомй игре?
 
-Make sure you have disabled every overlay(MSI Afterburner, GeForce Experience, etc.) before launching korepi.
-
----
-### Where do i get <span style='color:yellow;'>Sponsor</span> and how much it is?
-
-You can get [Sponsor](../start/sponsor.md) from the links provided in `#sponsorship` in the server.
-
-In order to get the Sponsor role, you need to donate at least 5$, any other donation below 5$ will be ignored.
+Убедитесь что вы отключили любые оверлеи (Например: MSI Afterburner, GeForce Experience и другие) перед запуском Korepi.
 
 ---
-### Why my game crashes in loading screen?
+### Где я могу получить <span style='color:D0E31B;'>Спонсор</span>'а и сколько это будет стоить?
 
-If you get a error like this:
+Вы можете получить [Спонсорство](../start/sponsor.md) по ссылкам, которые находятся в канале `#sponsorship`, в Discord'e Korepi.
+
+Для того чтобы получить роль Спонсора, вам нужно пожертвовать по крайней мере 5$, другие пожертвования ниже 5$ будут проигнорированны.
+
+---
+### Почему моя игра крашит на загрузочном экране?
+
+Если вам выдаёт ошибку как эта:
 
 `atidxx64.dll caused an Access Violation (0xc0000005) in module atidxx64.dll at 0033:43d1356c.`
 
-Please update your drivers and try again.
+Пожалуйста обновите ваши драйвера и попробуйте снова.
 
-If you don't get that error, try setting more delay on launch on `cfg.ini`.
+Если у вас не такая ошибка, попробуйте выставить настройку более большой delay в `cfg.ini`, после чего запустите снова.
 
