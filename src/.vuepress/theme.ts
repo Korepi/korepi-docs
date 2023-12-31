@@ -137,6 +137,8 @@ export default hopeTheme({
     "/ar/": {
       navbar: arNavbar,
       sidebar: arSidebar,
+      // right to left support
+      rtl: true,
       footer:
         ".يوفر أفضل تجربة لعب للاعبي جينشن امباكت عل الحاسوب",
       navbarLocales: {

@@ -1,5 +1,5 @@
 ---
-title: Catalog
+title: فهرس
 icon: book
 category:
   - Guide

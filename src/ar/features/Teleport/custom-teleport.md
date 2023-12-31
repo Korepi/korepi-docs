@@ -9,14 +9,14 @@ author: Schvis
 order: 3
 ---
 
-## Custom Teleport: Allows the player to teleport to a selected location designed by a `.json` file.
+## النقل الفوري المخصص: يسمح للاعب بالانتقال الفوري إلى موقع محدد مصمم بواسطة ملف ".json".
 ### Interpolation Speed:
-- Controls the teleportation animation speed, set to `0.1` to avoid issues.
+- يتحكم في سرعة الرسوم المتحركة للانتقال الآني، ويتم ضبطها على `0.1` لتجنب المشكلات.
 ### Auto Teleport:
-- Teleports automatically following the order of the provided `.json` files.
-    - Teleport Next: Teleports to next location after pressing the selected hotkey.
-    - Teleport Previous: Teleports to previous location after pressing the selected hotkey.
-> Note: Recommended to set above `15s` for safety.
+-  يتم النقل الفوري تلقائيًا باتباع ترتيب ملفات`.json`.
+    - النقل الفوري التالي: النقل الفوري إلى الموقع التالي بعد الضغط على مفتاح التشغيل السريع المحدد.
+    - النقل الفوري السابق: النقل الفوري إلى الموقع السابق بعد الضغط على مفتاح التشغيل السريع المحدد.
+> ملحوظة: يوصى بتعيينه فوق 15 ثانية من أجل السلامة.
 
-# You can find out more on how to use this feature [here](../.././guide/custom-tp-setting.md)
+# يمكنك معرفة المزيد حول كيفية استخدام هذه الميزة [هنا](../.././guide/custom-tp-setting.md)
 

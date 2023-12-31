@@ -1,5 +1,5 @@
 ---
-title: Common Injector Errors
+title: أخطاء الحاقن الشائعة
 icon: info
 category:
   - Troubleshoot
@@ -9,141 +9,141 @@ author: Schvis
 order: 2
 ---
 
-## List of common errors
+## قائمة الأخطاء الشائعة
 
-### Why my korepi disappears?
+### لماذا يختفي korepi الخاص بي؟
 
-Make sure you got your anti-virus disabled, create a new folder and add it to exclusions.
+تأكد من تعطيل برنامج مكافحة الفيروسات لديك، وقم بإنشاء مجلد جديد وإضافته إلى الاستثناءات.
 
 ![](/assets/images/docs/202312/virus.png)
 
-Extract korepi inside the excluded folder and run again.
+قم باستخراج korepi داخل المجلد المستبعد وتشغيله مرة أخرى.
 
 ---
 ### Status: No active subscription(s) found, Invalid license key
 
-You need to [get a new key](../guide/getkey.md) from `⁠★⋅micah-bot-verify⋅★`, if you can't get a key or if the key doesn't work, you have to wait till key expiration.
+أنت بحاجه إلى [الحصول على مفتاح جديد](../guide/getkey.md) من `⁠★⋅micah-bot-verify⋅★`, إذا لم تتمكن من الحصول على المفتاح أو إذا كان المفتاح لا يعمل، عليك الانتظار حتى انتهاء صلاحية المفتاح.
 
-`Sponsors can use F:Reset Key instead`
+`يمكن للداعمين استخدام مفتاح F:Reset بدلاً من ذلك`
 
 ### [DLL injection]  Process crashed, exit code 0xc000005
 
-Open `cmd` as administrator and write the following command:
+افتح `cmd` كمسؤول واكتب الأمر التالي:
 
 `sfc /scannow`
 
-After that, if errors were found, restart the computer and check.
-If after restarting it did not help or no errors were found, write this command:
+بعد ذلك، إذا تم العثور على أخطاء، أعد تشغيل الكمبيوتر وتحقق.
+إذا لم يساعد ذلك بعد إعادة التشغيل أو لم يتم العثور على أي أخطاء، فاكتب هذا الأمر:
 
 `DISM.exe /Online /Cleanup-Image /RestoreHealth`
 
-After completing the checks, restart the computer and check.
+بعد الانتهاء من الاختبارات، أعد تشغيل الكمبيوتر وتحقق.
 
-If it doesn't work, reinstall Windows.
+إذا لم ينجح الأمر، فأعد تثبيت ويندوز.
 
 ---
 ### ImGUI: DirectX11 backend initialized successfully.
 
-Error occurs because of themes installed, clear the `themes` folder.
+حدث خطأ بسبب تثبيت السمات، قم بمسح مجلد "themes".
 
 ---
 ### The system did not detect MSVCP140.dll
 
-Update [Microsoft Visual Studio C++](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170#visual-studio-2015-2017-2019-and-2022)
+قم بتحديث [Microsoft Visual Studio C++](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170#visual-studio-2015-2017-2019-and-2022)
 
-Update [DirectX](https://www.microsoft.com/en-us/download/details.aspx?id=35)
+قم بتحديث [DirectX](https://www.microsoft.com/en-us/download/details.aspx?id=35)
 
 ---
 ### File corrupted! This program has been manipulated and maybe it's infected.
 
 ![](/assets/images/docs/202312/virus2.png)
 
-In this case, you can try using `Malware Bytes` or `Dr.Web` to do a full scan, if any virus is found, remove them, restart and try again. If it doesn't work, reinstall Windows is the easiest way to solve this issue.
+في هذه الحالة، يمكنك تجربة استخدام "Malware Bytes" أو "Dr.Web" لإجراء فحص كامل، وفي حالة العثور على أي فيروس، قم بإزالته وإعادة التشغيل والمحاولة مرة أخرى. إذا لم ينجح الأمر، فإن إعادة تثبيت Windows هي أسهل طريقة لحل هذه المشكلة.
 
 ---
 ### Timeout was reached
 
 ![](/assets/images/docs/202312/error1.png)
 
-Reboot your router.
+أعد تشغيل جهاز الراوتر الخاص بك.
 
-An antivirus may be blocking the connection, make sure that is not in the Task Manager.
+قد يكون برنامج مكافحة الفيروسات يمنع الاتصال، تأكد من عدم وجوده في Task Manager.
 
-Use a VPN and try again.
+استخدم VPN وحاول مرة أخرى.
 
-Turn off all applications that affect the firewall. If nothing works, then you might have some problems with the network.
+قم بإيقاف تشغيل كافة التطبيقات التي تؤثر على جدار الحماية. إذا لم ينجح أي شيء، فقد يكون لديك بعض المشاكل في الشبكة.
 
 ---
 ### DLL Injection failed
 
-Uninstall colorpicker folder and download colorpicker again.
+قم بإلغاء تثبيت مجلد colorpicker وقم بتنزيل colorpicker مرة أخرى.
 
 ---
 ### Windows cannot access the specified device, path, or file
 
 ![](/assets/images/docs/202312/error2.png)
 
-At first go to [HERE](https://support.microsoft.com/en-us/topic/-windows-cannot-access-the-specified-device-path-or-file-error-when-you-try-to-install-update-or-start-a-program-or-file-46361133-47ed-6967-c13e-e75d3cc29657) and follow the steps on that post.
+في البداية اذهب الى [هنا](https://support.microsoft.com/en-us/topic/-windows-cannot-access-the-specified-device-path-or-file-error-when-you-try-to-install-update-or-start-a-program-or-file-46361133-47ed-6967-c13e-e75d3cc29657) واتبع الخطوات الموجودة في هذا المنشور.
 
-Also after going to the solutions on the post, download an antivirus like `Dr.Web` or `Malware bytes` and run a full system check!
+وأيضًا بعد الانتقال إلى الحلول الموجودة في المنشور، قم بتنزيل برنامج مكافحة فيروسات مثل "Dr.Web" أو "Malware bytes" وقم بإجراء فحص كامل للنظام!
 
-If it doesn't help open cmd as administrator and write `sfc /scannow`
+إذا لم يساعد ذلك، فافتح cmd كمسؤول واكتب `sfc /scannow`
 
-After that, if errors were found, restart the computer and check.
+بعد ذلك، إذا تم العثور على أخطاء، أعد تشغيل الكمبيوتر وتحقق.
 
-If after restarting it didn't help or no errors were found, write this command:
+إذا لم يساعد ذلك بعد إعادة التشغيل أو لم يتم العثور على أي أخطاء، فاكتب هذا الأمر:
 
 `DISM.exe /Online /Cleanup-Image /RestoreHealth`
 
-After completing the checks, restart the computer and check again.
+بعد الانتهاء من عمليات التحقق، أعد تشغيل الكمبيوتر وتحقق مرة أخرى.
 
-If it doesn't work, reinstall Windows.
+إذا لم ينجح الأمر، فأعد تثبيت Windows.
 
 ---
 ### Signature checksum failed
 
 ![](/assets/images/docs/202312/checksum.png)
 
-Servers are down or shut down, wait for servers to come back online.
+الخوادم معطلة أو متوقفة عن العمل، انتظر حتى تعود الخوادم للعمل.
 
 ---
 ### Failed to create game process with Error 5
 
 ![](/assets/images/docs/202312/error3.png)
 
-Delete `cfg.ini`.
+احدف `cfg.ini`.
 
 ---
 ### SSL connect error
 
 ![](/assets/images/docs/202312/error4.png)
 
-Restart your PC, restart your router.
+أعد تشغيل جهاز الكمبيوتر الخاص بك، أعد تشغيل جهاز الراوتر الخاص بك.
 
-Try using a VPN if it doesn't work.
+حاول استخدام VPN إذا لم يعمل.
 
 ---
 ### Failed to detect game version
 
-Update your injector, follow the steps [here](../start/download.md)
+قم بتحديث injector الخاص بك، اتبع الخطوات [هنا](../start/download.md)
 
 ---
 ### File ok
 
-Delete your cfg.json, something might be wrong with the file.
+احذف ملف cfg.json، فقد يكون هناك خطأ ما في الملف.
 
 ---
 ### UserAssembly.dll isn't initialized, waiting for 2 sec.
 
-If your injector crashes after this line try the following steps:
+إذا تعطل injector الخاص بك بعد هذا الخط، فجرب الخطوات التالية:
 
-Turn off all anti-viruses in PC.
+قم بإيقاف تشغيل كافة برامج مكافحة الفيروسات في جهاز الكمبيوتر.
 
-If its doesn't help use `sfc /scannow` command in cmd as administrator.
+إذا لم يكن الأمر مفيدًا، فاستخدم الأمر `sfc /scannow` في cmd كمسؤول.
 
-If errors are found after checking and Windows is unable to resolve them, use the `DISM.exe /Online /Cleanup-Image /RestoreHealth` command. 
+إذا تم العثور على أخطاء بعد التحقق ولم يتمكن Windows من حلها، فاستخدم امر `DISM.exe /Online /Cleanup-Image /RestoreHealth`. 
 
-After checking restart your computer and try to run colorpicker again.
+بعد التحقق، قم بإعادة تشغيل جهاز الكمبيوتر الخاص بك وحاول تشغيل Colorpicker مرة أخرى.
 
-If the error repeats you can make factory reset of Windows.
+إذا تكرر الخطأ، يمكنك إجراء إعادة ضبط المصنع لنظام التشغيل Windows.
 
