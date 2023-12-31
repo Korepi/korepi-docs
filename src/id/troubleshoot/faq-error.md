@@ -17,14 +17,14 @@ Pastikan Anda telah non-aktifkan anti-virus, buat folder baru dan tambahkan fold
 
 ![](/assets/images/docs/202312/virus.png)
 
-Ekstrak korepi di dalam folder yang sudah dikecualikan dan jalankan lagi.
+Ekstrak Korepi di dalam folder yang sudah dikecualikan dan jalankan lagi.
 
 ---
 ### Status: No active subscription(s) found, Invalid license key
 
 Anda harus [Ambil Key baru](../guide/getkey.md) di `⁠★⋅micah-bot-verify⋅★`, jika Anda tidak dapat mengambil Key atau Key tidak berfungsi, maka Anda harus menunggu hingga masa berlaku Key berakhir.
 
-`Sponsors can use F:Reset Key instead`
+`Sponsors dapat menggunakan F:Reset Key sebagai alternatif`
 
 ---
 ### [DLL injection]  Process crashed, exit code 0xc000005
@@ -33,12 +33,12 @@ buka `cmd` sebagai administrator dan ketik perintah berikut:
 
 `sfc /scannow`
 
-Setelah itu, Jika ditemukan masalah, ulang buka komputer dan periksa.
-Jika setelah ulang buka tidak membantu atau masalah tidak ditemukan, ketiklah perintah ini:
+Setelah itu, Jika ditemukan masalah, ulang nyalakan komputer dan periksa.
+Jika setelah ulang nyalakan tidak membantu atau masalah tidak ditemukan, ketiklah perintah ini:
 
 `DISM.exe /Online /Cleanup-Image /RestoreHealth`
 
-Setelah selesai memeriksanya, ulang buka komputer dan periksa.
+Setelah selesai memeriksanya, ulang nyalakan komputer dan periksa.
 
 Jika tidak berhasil, pasang ulang windows.
 
@@ -80,18 +80,18 @@ Hapus folder colorpicker dan unduh colorpicker lagi.
 
 ![](/assets/images/docs/202312/error2.png)
 
-Pertama pergi ke [SINI](https://support.microsoft.com/en-us/topic/-windows-cannot-access-the-specified-device-path-or-file-error-when-you-try-to-install-update-or-start-a-program-or-file-46361133-47ed-6967-c13e-e75d3cc29657) dan ikuti langkah-lngkah pada website tersebut.
+Pertama pergi ke [SINI](https://support.microsoft.com/en-us/topic/-windows-cannot-access-the-specified-device-path-or-file-error-when-you-try-to-install-update-or-start-a-program-or-file-46361133-47ed-6967-c13e-e75d3cc29657) dan ikuti langkah-langkah pada website tersebut.
 
 Lalu setelah pergi ke website, unduh anti-virus seperti `Dr.Web` atau `Malware bytes` dan jalankan pemeriksaan penuh sistem!
 Jika tidak berhasil, buka cmd sebagai administrator dan ketik `sfc /scannow`
 
-Setelah itu, jika masalah ditemukan, ulang buka komputer dan periksa.
+Setelah itu, jika masalah ditemukan, ulang nyalakan komputer dan periksa.
 
-Jika setelah ulang buka tidak membantu atau masalah tidak ditemukan, ketik perintah ini:
+Jika setelah ulang nyalakan tidak membantu atau masalah tidak ditemukan, ketik perintah ini:
 
 `DISM.exe /Online /Cleanup-Image /RestoreHealth`
 
-Setelah selesai melakukan pemeriksaan, ulang buka komputer dan periksa.
+Setelah selesai melakukan pemeriksaan, ulang nyalakan komputer dan periksa.
 
 Jika tidak berhasil, pasang ulang windows.
 
@@ -114,7 +114,7 @@ Hapus `cfg.ini`.
 
 ![](/assets/images/docs/202312/error4.png)
 
-Ulang buka komputer, ulang buka router.
+Ulang nyalakan komputer, ulang nyalakan router.
 
 Jika tidak berhasil, coba menggunakan VPN.
 
