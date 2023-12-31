@@ -1,5 +1,5 @@
 ---
-title: Registration
+title: تسجيل
 icon: user-plus
 category:
   - Guide
@@ -9,30 +9,30 @@ author: QweRez
 order: 3
 ---
 
-## Introduction
+## مقدمة
 
-Welcome to our community! To register and obtain the "Fans" role, follow these steps.
+أهلا بك في مجتمعنا! للتسجيل والحصول على روول "Fans"، اتبع الخطوات التالية.
 
-### Step 1: Join our server and get the "Newcomer" role if you haven't already
+### الخطوة 1: انضم إلى خادمنا واحصل على روول "Newcomer" إذا لم تكن قد حصلت عليه بالفعل
 
-If you are not on the server yet, please read the previous post, where it is described how to join the server and get the "Newcomer" role.
+إذا لم تكن في السيرفر بعد، برجاء قراءة المنشور السابق، حيث يشرح كيفية الانضمام إلى الخادم والحصول على روول "Newcomer".
 
-### Step 2: Find the bot
+### الخطوة 2: ابحث عن البوت
 
-Now you need to find the bot with the image of a goose and write to him in direct messages (micah-sign-bot#0245).
+أنت الآن بحاجة إلى العثور على البوت الذي يحمل صورة أوزة (طائر الأوز) والكتابة إليه في رسالة مباشرة (micah-sign-bot#0245).
 
 ![Sign-in](/assets/images/docs/202312/signin1.png)
 
-### Step 3: Getting started
+### الخطوة 3: البدء
 
-Write him the command `/sign-in`, solve the captcha. Note: if the bot does not respond to your captcha request, you probably entered it incorrectly. Try writing the captcha again (without the command). After successful input, the bot will send you the message "Consecutive < days > days".
+اكتب له الأمر `/sign-in`، وقم بحل كلمة التحقق. ملاحظة: إذا لم يستجب الروبوت لطلب التحقق الخاص بك، فمن المحتمل أنك أدخلته بشكل غير صحيح. حاول كتابة كلمة التحقق مرة أخرى (بدون الأمر). بعد الإدخال الناجح، سيرسل لك الروبوت رسالة "< أيام > أيام متتالية".
 
 ![Sign-in](/assets/images/docs/202312/signin2.png)
 
 ![Sign-in](/assets/images/docs/202312/signin3.png)
 
-### Step 4: After receiving the "Fans" role
+### الخطوة 4: بعد حصولك على دور "Fans".
 
-So now you need to enter this command every day for 7 days (every 24 hours). Note that if you make a mistake by a couple of hours, the bot will consider that you did not mark and reset your days. On the 7th day of check-ins, you will be given the "Fans" role, and you can stop checking in.
+والآن أنت بحاجة إلى إدخال هذا الأمر كل يوم لمدة 7 أيام (كل 24 ساعة). لاحظ أنه إذا تاخرت لبضع ساعات، فسيعتبر الروبوت أنك لم تحدد أيامك وسيتم  إعادة تعيينها. في اليوم السابع من تسجيل الوصول، سيتم منحك دور "Fans"، ويمكنك التوقف عن تسجيل الوصول.
 
 ![Sign-in](/assets/images/docs/202312/signin4.png)

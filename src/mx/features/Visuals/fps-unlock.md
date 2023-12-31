@@ -5,10 +5,10 @@ category:
   - Funciones
 tag:
   - Desbloquear FPS
-author: Schvis
+author: Schvis, ll33ee
 order: 8
 ---
 
-## Desbloquea FPS.Si desbloquea FPS.Desbloquea FPS wow.
+## Desbloquea FPS. Así es, desbloquea los FPS. Desbloquea FPS ya!
 ### Limitar FPS de fondo:
-- Elige los fps máximos del juego cuando no estés dentro del juego
+- FPS máximos cuando el juego está en segundo plano, es decir, que pierde el enfoque, como cuando usas otro programa o al minimizarlo.

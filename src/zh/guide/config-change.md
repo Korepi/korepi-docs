@@ -8,7 +8,7 @@ tag:
   - 配置文件
   - 教程
 author: Micah
-order: 2
+order: 4
 ---
 
 # 配置文件的切换与绑定

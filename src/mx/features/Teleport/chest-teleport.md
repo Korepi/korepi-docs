@@ -1,17 +1,17 @@
 ---
-title: Teletransporte de Cofre
+title: Teletransporte a Cofre
 icon: person-rays
 category:
   - Funciones
 tag:
-  - Teletransporte de Cofre
-author: Schvis
+  - Teletransporte a Cofre
+author: Schvis, ll33ee
 order: 2
 ---
 
-## Teletransporte de Cofre te teletransportara al cofre más cercano renderizado.
+## Teletransporte a Cofre te teletransportara al cofre más cercano renderizado.
 
-> Nota: Espera `>15s` entre teletransportes por seguridad.
+> Nota: Por seguridad, espera `15s` cada vez que teletransportes.
 
 ## Video de Ejemplo:
 

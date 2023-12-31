@@ -5,14 +5,15 @@ category:
   - Funciones
 tag:
   - Velocidad de Jugador
-author: Schvis
+author: Schvis, ll33ee
 order: 10
 ---
 
-## Velocidad de Jugador cambia la velocidad del jugador. Real. No Fake.
+## Velocidad de Jugador: cambia la velocidad del jugador.
 
 > Nota: Se recomienda usar por debajo de `1.5`.
-> Nota 2: [Movimientos Extra](extra-movements.md) es recomendado. (Más Seguro)(Sponsor)
+
+> <span style="color:red;">Cuidado:</span> Para evitar riesgos, se recomienda usar con [Movimiento Extra](extra-movements.md) (exclusivo de Sponsor).
 
 ## Video de Ejemplo:
 
