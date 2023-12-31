@@ -1,5 +1,5 @@
 ---
-title: Sponsor Exclusive Features
+title: الميزات الحصرية للداعمين
 icon: server
 category:
   - Guide

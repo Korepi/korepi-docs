@@ -2,53 +2,58 @@
 title: Remote Utility
 icon: tower-broadcast
 category:
-  - Features
+  - المميزات
 tag:
   - Remote Utility
 author: Schvis
 order: 11
 ---
-::: info Sponsor Only
+::: info : للداعمين فقط
 :::
 ---
-## Remote Utility:
+## أدوات المساعدة عن بعد:
 ### Claim Daily Commission Reward:
-- Claims daily commission reward when all 4 comissions are completed.
+- تحصيل مكافأة المهام اليومية عند اكتمال جميع المهام الأربعة.
 ### Custom Talk:
-- Starts a conversation using the conversation ID, some conversations might not work.
-> Note: This feature is dangerous.
-> Note: To get the conversation ID, enable `Debug Talk`, ID will be displayed in `cmd`.
-### Spawn Gadget:
-- Spawns the selected gadget by ID, some of them might not work.
-> Note: This feature is dangerous.
-> Note 2: You can find the gadget IDs [here](https://github.com/jie65535/GrasscutterCommandGenerator/blob/main/Source/GrasscutterTools/Resources/en-us/Gadget.txt)
-### Crafting:
-- Condensed Resin: Crafts a condensed resin if you got the resin and the items.
-- Spawn Alchemy Table: Spawns an Alchemy Table.
-- Spawn Forging Table: Spawns a Forging Table.
-- Custom Combine: Will try to combine the selected item using the current character.
-    > Note: If successful, there will be no prompt. Please check inventory.
-    > Note 2: You can find the combine IDs [here](https://github.com/jie65535/GrasscutterCommandGenerator/blob/main/Source/GrasscutterTools/Resources/en-us/Item.txt)
-### Summon NPC:
-- Summons the selected NPC by ID.
-> Note: Katheryne, Wagner and Prince already included.
-### Summon Monster:
-- Summons the selected monster with the selected parameters by ID.
-> Note: You can't kill them.
-> Note 2: You can find the monster IDs [here](https://github.com/jie65535/GrasscutterCommandGenerator/blob/main/Source/GrasscutterTools/Resources/en-us/Monsters.txt)
-### Summon Item:
-- Summons the selected item by ID.
-> Note: Some items might not work.
-> Note 2: You can find the items IDs [here](https://github.com/jie65535/GrasscutterCommandGenerator/blob/main/Source/GrasscutterTools/Resources/en-us/Item.txt)
-### Open UI Page:
-- Open Paimon Menu Page: Opens the menu.
-- Open Cooking Page: Opens cooking page.
-    > Note: Needs to open cooking page once before using this feature.
-### Worship Statue:
-- Will worship the selected Statue of the Seven with the amount selected, need to have the oculus to do this.
-### Change Traveler Element:
-- Allows player to change traveler element anywhere.
+- لبدء محادثة باستخدام معرف المحادثة، قد لا تعمل بعض المحادثات.
+> ملاحظة: هذه الميزة خطيرة.
 
-## Example Video:
+> "cmd".وسيتم عرض المعرف في"Debug Talk" ملاحظة: للحصول على معرف المحادثة، قم بتمكين
+### Spawn Gadget
+- يولد الأداة المحددة بواسطة المعرف، وقد لا يعمل بعضها.
+> .ملاحظة: هذه الميزة خطيرة
+
+> ملاحظة 2: يمكنك العثور على معرفات الأدوات [هنا](https://github.com/jie65535/GrasscutterCommandGenerator/blob/main/Source/GrasscutterTools/Resources/en-us/Gadget.txt)
+### Crafting:
+- الريزن المكثف: اصنع ريزن مكثفًا إذا حصلت على الراتنج والعناصر.
+- توليد طاولة الكيمياء: يولد طاولة الكيمياء.
+- توليد طاولة الحداد 
+- الجمع المخصص: سيحاول دمج العنصر المحدد باستخدام الشخصية الحالية.
+    > ملاحظة: في حالة النجاح، لن يكون هناك إعلام. يرجى التحقق من الحقيبة.
+
+    > ملاحظة 2: يمكنك العثور على معرفات الجمع [هنا](https://github.com/jie65535/GrasscutterCommandGenerator/blob/main/Source/GrasscutterTools/Resources/en-us/Item.txt)
+### Summon NPC:
+- يستدعي الشخصية غير القابلة للعب المحددة بواسطة المعرف.
+> ملحوظة: تم تضمين كاثرين وفاغنر وبرنس بالفعل.
+### Summon Monster:
+- يستدعي الوحش المحدد بالمعلمات المحددة بواسطة المعرف.
+> ملاحظة: لا يمكنك قتلهم.
+
+> ملاحظة 2: يمكنك العثور على معرفات الوحش [هنا](https://github.com/jie65535/GrasscutterCommandGenerator/blob/main/Source/GrasscutterTools/Resources/en-us/Monsters.txt)
+### Summon Item:
+- استدعاء عنصر محدد بواسطة المعرف.
+> ملاحظة: قد لا تعمل بعض العناصر.
+
+> ملاحظة 2: يمكنك العثور على معرفات العناصر [هنا](https://github.com/jie65535/GrasscutterCommandGenerator/blob/main/Source/GrasscutterTools/Resources/en-us/Item.txt)
+### Open UI Page:
+- Open Paimon Menu Page: يفتح القائمة.
+- Open Cooking Page: يفتح صفحة الطبخ.
+    > ملحوظة: يجب فتح صفحة الطبخ مرة واحدة قبل استخدام هذه الميزة.
+### Worship Statue:
+- سيتم منح الاعين لتمثال السبعة المحدد بالمبلغ المحدد، ويحتاج إلى الحصول على العين للقيام بذلك.
+### Change Traveler Element:
+- يسمح للاعب بتغيير عنصر المسافر في أي مكان.
+
+## فيديو توضيحي:
 
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/XGztUEy82sE?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Remote Utilities (Sponsor)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>

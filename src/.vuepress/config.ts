@@ -64,6 +64,7 @@ export default defineUserConfig({
             lang: "ar",
             title: "Korepi",
             description: "للمساعدة Korepi"
+
         },
     },
     plugins: [

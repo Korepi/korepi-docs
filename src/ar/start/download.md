@@ -1,5 +1,5 @@
 ---
-title: Download
+title: تحميل
 icon: download
 category:
   - Guide
@@ -12,24 +12,24 @@ author:
 order: 6
 ---
 
-# Download
+# تحميل
 
-## Introduction
+## مقدمة
 
-Welcome to our community! To pass the bot check and receive the `Newcomer` role, follow these steps.
+أهلا بك في مجتمعنا! لاجتياز فحص الروبوت والحصول على روول `Newcomer` اتبع الخطوات التالية
 
-### Step 1: Join our server and obtain the `Newcomer` and `Fans` roles
+###  الخطوة 1: انضم إلى السيرفر واحصل على روول `Newcomer` و `Fans`.
 
-If you haven't joined the server yet, please read the verification post, which describes how to join the server and obtain the `Newcomer` and `Fans` roles.
+إذا لم تنضم إلى الخادم بعد، فيرجى قراءة منشور التحقق الذي يوضح كيفية الانضمام إلى الخادم والحصول على روول `Newcomer` و `Fans`.
 
-### Step 2: Go to the channel `★⋅korepi-version-roles⋅★`
+###  الخطوة الثانية: اذهب إلى القناة `★⋅korepi-version-roles⋅★`
 
-Locate the channel `★⋅korepi-version-roles⋅★` and choose either the F or V version role. We recommend selecting the F role.
+حدد موقع القناة `★⋅korepi-version-roles⋅★` واختر إما روول الإصدار F أو V. نوصي باختيار روول F.
 
-### Step 3: Download the necessary resources
+### الخطوة 3: قم بتنزيل الموارد اللازمة
 
-Once you've done that, you will gain access to the corresponding download channel: `★⋅f-download⋅★` or `★⋅v-download⋅★`.
+بمجرد القيام بذلك، ستتمكن من الوصول إلى قناة التنزيل المقابلة: `★⋅f-download⋅★` أو `★⋅v-download⋅★`
 
-### Step 4: Ready!
+### الخطوة 4: جاهز!
 
-In the channel, you will find a link to the current version and the password for the archive. Good luck!
+ستجد في القناة رابط الإصدار الحالي وكلمة المرور للأرشيف. حظ سعيد!

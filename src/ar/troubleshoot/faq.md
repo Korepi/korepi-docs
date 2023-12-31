@@ -1,5 +1,5 @@
 ---
-title: FAQ
+title: الأسئلة الشائعة
 icon: info
 category:
   - FAQ
@@ -9,70 +9,70 @@ author: Schvis
 order: 1
 ---
 
-## List of FAQs
+## قائمة الأسئلة الشائعة
 
-### Is Korepi free?
+### هل Korepi  مجاني؟
 
-Yes, it is free, in order to get it for the first time you have to do a 7 days [sign-in](../start/sign-in.md), you can skip this by [Sponsoring](../start/sponsor.md), after that you can get the license every time your key expires.
+نعم إنه مجاني، للحصول عليه لأول مرة عليك القيام بـ 7 أيام [تسجيل الدخول](../start/sign-in.md), يمكنك تخطي هذا ب [دعم](../start/sponsor.md), وبعد ذلك يمكنك الحصول على الترخيص في كل مرة تنتهي فيها صلاحية مفتاحك.
 
 ---
-### What is the .rar/.zip password?
+### ما هي كلمة المرور .rar/.zip؟
 
 ...
 
-Its `1234`, please read the download post next time.
+إنه `1234`، يرجى قراءة صفحة التنزيل في المرة القادمة.
 
 ---
-### Why my config doesn't save?
+### لماذا لا يتم حفظ الاعدادات الخاص بي؟
 
-Keep in mind you have to extract the `.rar/.zip` file you got in another folder.
+ضع في اعتبارك أنه يتعين عليك استخراج الملف ".rar/.zip" الذي حصلت عليه في مجلد آخر.
 
-If config is still not saving after this step, please contact with any helper in the server for more help.
+إذا لم يتم حفظ الاعدادات بعد هذه الخطوة، فيرجى الاتصال بأي مساعد في السيرفر للحصول على مزيد من المساعدة.
 
 ---
-### Where do i find themes?
+### أين أجد السمات؟
 
-You can find themes for your Korepi on `community share` or you can make your own in Korepi settings.
+يمكنك العثور على سمات لـ Korepi الخاصة بك على "community share" أو يمكنك إنشاء سمات خاصة بك في إعدادات Korepi.
 
 ![](/assets/images/docs/202312/theme-settings.png)
 
-Check `Theme Customization` to start making your own theme.
+تفقد `Theme Customization` للبدء في صنع سمات خاصة بك.
 
 ---
-### Why did my /sign-in streak reset?
+### لماذا تمت إعادة ضبط /sign-in الخاص بي؟
 
-Most likely you surpassed the reset time, it resets daily, if you skip 1 day it will reset entirely
+على الأرجح أنك تجاوزت وقت إعادة التعيين، تتم إعادة التعيين يوميًا، إذا تخطيت يومًا واحدًا، فسيتم إعادة التعيين بالكامل
 
-::: info Reset time is at GMT/UTC+8 00:00 everyday. Please convert to your timezone.
+::: info وقت إعادة الضبط هو بتوقيت GMT/UTC+8 00:00 كل يوم. يرجى التحويل إلى منطقتك الزمنية.
 :::
 ---
 
-### Can i use Korepi when a new update comes?
+### هل يمكنني استخدام Korepi عندما يأتي تحديث جديد؟
 
-No, you need to wait till a new Korepi version gets released.
+لا، أنت بحاجة إلى الانتظار حتى يتم إصدار إصدار جديد من Korepi.
 
-::: info Using the old injector wont work, Korepi update takes 1-2 weeks approximately.
+::: info لن يعمل الحاقن القديم، ويستغرق تحديث Korepi من أسبوع إلى أسبوعين تقريبًا.
 :::
 ---
 
-### Why the menu doesn't appear in game?
+### لماذا لا تظهر القائمة في اللعبة؟
 
-Make sure you have disabled every overlay(MSI Afterburner, GeForce Experience, etc.) before launching korepi.
-
----
-### Where do i get <span style='color:yellow;'>Sponsor</span> and how much it is?
-
-You can get [Sponsor](../start/sponsor.md) from the links provided in `#sponsorship` in the server.
-
-In order to get the Sponsor role, you need to donate at least 5$, any other donation below 5$ will be ignored.
+تأكد من تعطيل كل التراكب(MSI Afterburner, GeForce Experience, etc.) قبل تشغيل korepi.
 
 ---
-### Why my game crashes in loading screen?
+### أين يمكنني الحصول على <span style='color:yellow;'>Sponsor</span> وكم هو؟
 
-If you get a error like this:
+يمكنك الحصول [Sponsor](../start/sponsor.md) من الروابط المقدمة في `#sponsorship` في السيرفر.
+
+للحصول على دور الداعم، يجب عليك التبرع بمبلغ لا يقل عن 5 دولارات، وسيتم تجاهل أي تبرع آخر أقل من 5 دولارات.
+
+---
+### لماذا تتعطل لعبتي في شاشة التحميل؟
+
+إذا حصلت على خطأ مثل هذا:
 
 `atidxx64.dll caused an Access Violation (0xc0000005) in module atidxx64.dll at 0033:43d1356c.`
 
-Please update your drivers and try again.
+يرجى تحديث برامج التشغيل الخاصة بك والمحاولة مرة أخرى.
 
-If you don't get that error, try setting more delay on launch on `cfg.ini`.
+إذا لم تحصل على هذا الخطأ، فحاول تعيين المزيد من التأخير عند التشغيل `cfg.ini`.
