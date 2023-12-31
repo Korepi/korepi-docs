@@ -6,8 +6,8 @@
     <link>https://korepi.com/ru/</link>
     <description>Помощь по Korepi</description>
     <language>ru-RU</language>
-    <pubDate>Fri, 29 Dec 2023 07:23:05 GMT</pubDate>
-    <lastBuildDate>Fri, 29 Dec 2023 07:23:05 GMT</lastBuildDate>
+    <pubDate>Sun, 31 Dec 2023 06:33:09 GMT</pubDate>
+    <lastBuildDate>Sun, 31 Dec 2023 06:33:09 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Guide</category>
@@ -1564,18 +1564,6 @@ Note 2: Not recommended to use.</p>
 <li>butterbrodskiy</li>
 </ul>
 </div>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Привет?</title>
-      <link>https://korepi.com/ru/guide/page.html</link>
-      <guid>https://korepi.com/ru/guide/page.html</guid>
-      <source url="https://korepi.com/ru/rss.xml">Привет?</source>
-      <description>Введение Тут пусто</description>
-      <category>Гайд</category>
-      <pubDate>Fri, 24 Nov 2023 14:31:46 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Введение</h2>
-<p>Тут пусто</p>
 ]]></content:encoded>
     </item>
     <item>
