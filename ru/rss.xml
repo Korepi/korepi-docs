@@ -6,8 +6,8 @@
     <link>https://korepi.com/ru/</link>
     <description>Помощь по Korepi</description>
     <language>ru-RU</language>
-    <pubDate>Sun, 31 Dec 2023 12:25:44 GMT</pubDate>
-    <lastBuildDate>Sun, 31 Dec 2023 12:25:44 GMT</lastBuildDate>
+    <pubDate>Sun, 31 Dec 2023 12:26:49 GMT</pubDate>
+    <lastBuildDate>Sun, 31 Dec 2023 12:26:49 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Guide</category>
@@ -49,50 +49,50 @@
       <link>https://korepi.com/ru/troubleshoot/faq.html</link>
       <guid>https://korepi.com/ru/troubleshoot/faq.html</guid>
       <source url="https://korepi.com/ru/rss.xml">FAQ</source>
-      <description>List of FAQ Is Korepi free? Yes, it is free, in order to get it for the first time you have to do a 7 days sign-in (../start/sign-in.md), you can skip this by Sponsoring (../sta...</description>
+      <description>Список FAQ Korepi бесплатен? Да, он бесплатный, однако, чтобы получить его в первый раз вам нужно 7 дней sign-in (../start/sign-in.md), но вы можете пропустить эту часть с помощ...</description>
       <category>FAQ</category>
       <pubDate>Mon, 18 Dec 2023 17:38:21 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> List of FAQ</h2>
-<h3> Is Korepi free?</h3>
-<p>Yes, it is free, in order to get it for the first time you have to do a 7 days <a href="/ru/start/sign-in.html" target="blank">sign-in</a>, you can skip this by <a href="/ru/start/sponsor.html" target="blank">Sponsoring</a>, after that you can get the license every time your key expires.</p>
+      <content:encoded><![CDATA[<h2> Список FAQ</h2>
+<h3> Korepi бесплатен?</h3>
+<p>Да, он бесплатный, однако, чтобы получить его в первый раз вам нужно 7 дней <a href="/ru/start/sign-in.html" target="blank">sign-in</a>, но вы можете пропустить эту часть с помощью <a href="/ru/start/sponsor.html" target="blank">Спонсорства</a>, после этого вы сможете получать лицензионный ключ, когда заканчивает срок действия у прошлого.</p>
 <hr>
-<h3> What is the .rar/.zip password?</h3>
+<h3> Какой пароль у  архива .rar/.zip?</h3>
 <p>...</p>
-<p>Its <code>1234</code>, please read the download post next time.</p>
+<p>Пароль очень простой: <code>1234</code>. Пожалуйста в следующий раз читайте пост загрузки в канале.</p>
 <hr>
-<h3> Why my config doesn't save?</h3>
-<p>Keep in mind you have to extract the <code>.rar/.zip</code> file you got in another folder.</p>
-<p>If config is still not saving after this step, please contact with any helper in the server for more help.</p>
+<h3> Почему мой Config не сохранился?</h3>
+<p>Зайте, что вы должны сначала извлечить и архива <code>.rar/.zip</code> все файлы в другую папку.</p>
+<p>Если ваш Config все ещё не сохраняется после данных действий, пожалуйста обратитесь к любому помошнику на нашем сервере, для получшения помощи.</p>
 <hr>
-<h3> Where do i find themes?</h3>
-<p>You can find themes for your Korepi on <code>community share</code> or you can make your own in Korepi settings.</p>
+<h3> Где я могу найти "Темы" для Korepi?</h3>
+<p>Вы можете найти Темы для вашего Korepi в <code>community share</code> или вы моежете сделать свою в настройках Korepi.</p>
 <p><img src="/assets/images/docs/202312/theme-settings.png" alt="" loading="lazy"></p>
-<p>Check <code>Theme Customization</code> to start making your own theme.</p>
+<p>Проверьте <code>Theme Customization</code> чтобы начать создавать свою тему.</p>
 <hr>
-<h3> Why did my /sign-in streak reset?</h3>
-<p>Most likely you surpassed the reset time, it resets daily, if you skip 1 day it will reset entirely</p>
+<h3> Почему мой /sign-in подряд был сброшен?</h3>
+<p>Скорее всего вы превысили время сброса, оно сбрасывается каждый день, если вы пропустите 1 день, то в этом случае все ваши дни сбросятся</p>
 <div class="hint-container info">
-<p class="hint-container-title">Reset time is at GMT/UTC+8 00:00 everyday. Please convert to your timezone.</p>
+<p class="hint-container-title">Сброс происходит по часовому поясу GMT/UTC+8 в 00:00 каждый день. Пожалуйста переведите это время в свой часовой пояс.</p>
 </div>
 <hr>
-<h3> Can i use Korepi when a new update comes?</h3>
-<p>No, you need to wait till a new Korepi version gets released.</p>
+<h3> Могу ли я использовать Korepi когда выходит новое обновление?</h3>
+<p>Нет, вам нужно подождать пока новая версия Korepi не будет выпущена.</p>
 <div class="hint-container info">
-<p class="hint-container-title">Using the old injector wont work, Korepi update takes 1-2 weeks approximately.</p>
+<p class="hint-container-title">Использование старого инжектора не будет работать, обновления Korepi занимает примерно 1-2 недели.</p>
 </div>
 <hr>
-<h3> Why the menu doesn't appear in game?</h3>
-<p>Make sure you have disabled every overlay(MSI Afterburner, GeForce Experience, etc.) before launching korepi.</p>
+<h3> Почему меню не появляется в саомй игре?</h3>
+<p>Убедитесь что вы отключили любые оверлеи (Например: MSI Afterburner, GeForce Experience и другие) перед запуском Korepi.</p>
 <hr>
-<h3> Where do i get <span style="color:yellow;">Sponsor</span> and how much it is?</h3>
-<p>You can get <a href="/ru/start/sponsor.html" target="blank">Sponsor</a> from the links provided in <code>#sponsorship</code> in the server.</p>
-<p>In order to get the Sponsor role, you need to donate at least 5$, any other donation below 5$ will be ignored.</p>
+<h3> Где я могу получить <span style="color:D0E31B;">Спонсор</span>'а и сколько это будет стоить?</h3>
+<p>Вы можете получить <a href="/ru/start/sponsor.html" target="blank">Спонсорство</a> по ссылкам, которые находятся в канале <code>#sponsorship</code>, в Discord'e Korepi.</p>
+<p>Для того чтобы получить роль Спонсора, вам нужно пожертвовать по крайней мере 5$, другие пожертвования ниже 5$ будут проигнорированны.</p>
 <hr>
-<h3> Why my game crashes in loading screen?</h3>
-<p>If you get a error like this:</p>
+<h3> Почему моя игра крашит на загрузочном экране?</h3>
+<p>Если вам выдаёт ошибку как эта:</p>
 <p><code>atidxx64.dll caused an Access Violation (0xc0000005) in module atidxx64.dll at 0033:43d1356c.</code></p>
-<p>Please update your drivers and try again.</p>
-<p>If you don't get that error, try setting more delay on launch on <code>cfg.ini</code>.</p>
+<p>Пожалуйста обновите ваши драйвера и попробуйте снова.</p>
+<p>Если у вас не такая ошибка, попробуйте выставить настройку более большой delay в <code>cfg.ini</code>, после чего запустите снова.</p>
 ]]></content:encoded>
       <enclosure url="https://korepi.com/assets/images/docs/202312/theme-settings.png" type="image/png"/>
     </item>
