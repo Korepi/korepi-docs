@@ -6,8 +6,8 @@
     <link>https://korepi.com/ar/</link>
     <description>للمساعدة Korepi</description>
     <language>ar</language>
-    <pubDate>Mon, 01 Jan 2024 08:35:27 GMT</pubDate>
-    <lastBuildDate>Mon, 01 Jan 2024 08:35:27 GMT</lastBuildDate>
+    <pubDate>Mon, 01 Jan 2024 08:35:39 GMT</pubDate>
+    <lastBuildDate>Mon, 01 Jan 2024 08:35:39 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Guide</category>
@@ -316,11 +316,16 @@ Warning: Don't do anything yet.</p>
 <p>إذا لم تكن في السيرفر بعد، برجاء قراءة المنشور السابق، حيث يشرح كيفية الانضمام إلى الخادم والحصول على روول "Newcomer".</p>
 <h3> الخطوة 2: ابحث عن البوت</h3>
 <p>أنت الآن بحاجة إلى العثور على البوت الذي يحمل صورة أوزة (طائر الأوز) والكتابة إليه في رسالة مباشرة (micah-sign-bot#0245).</p>
+<p><img src="/assets/images/docs/202312/signin1.png" alt="Sign-in" loading="lazy"></p>
 <h3> الخطوة 3: البدء</h3>
 <p>اكتب له الأمر <code>/sign-in</code>، وقم بحل كلمة التحقق. ملاحظة: إذا لم يستجب الروبوت لطلب التحقق الخاص بك، فمن المحتمل أنك أدخلته بشكل غير صحيح. حاول كتابة كلمة التحقق مرة أخرى (بدون الأمر). بعد الإدخال الناجح، سيرسل لك الروبوت رسالة "&lt; أيام &gt; أيام متتالية".</p>
+<p><img src="/assets/images/docs/202312/signin2.png" alt="Sign-in" loading="lazy"></p>
+<p><img src="/assets/images/docs/202312/signin3.png" alt="Sign-in" loading="lazy"></p>
 <h3> الخطوة 4: بعد حصولك على دور "Fans".</h3>
 <p>والآن أنت بحاجة إلى إدخال هذا الأمر كل يوم لمدة 7 أيام (كل 24 ساعة). لاحظ أنه إذا تاخرت لبضع ساعات، فسيعتبر الروبوت أنك لم تحدد أيامك وسيتم  إعادة تعيينها. في اليوم السابع من تسجيل الوصول، سيتم منحك دور "Fans"، ويمكنك التوقف عن تسجيل الوصول.</p>
+<p><img src="/assets/images/docs/202312/signin4.png" alt="Sign-in" loading="lazy"></p>
 ]]></content:encoded>
+      <enclosure url="https://korepi.com/assets/images/docs/202312/signin1.png" type="image/png"/>
     </item>
     <item>
       <title>الميزات الحصرية للداعمين</title>

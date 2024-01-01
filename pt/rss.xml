@@ -6,8 +6,8 @@
     <link>https://korepi.com/pt/</link>
     <description>Ajuda em Korepi</description>
     <language>pt-BR</language>
-    <pubDate>Mon, 01 Jan 2024 08:35:27 GMT</pubDate>
-    <lastBuildDate>Mon, 01 Jan 2024 08:35:27 GMT</lastBuildDate>
+    <pubDate>Mon, 01 Jan 2024 08:35:39 GMT</pubDate>
+    <lastBuildDate>Mon, 01 Jan 2024 08:35:39 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Guide</category>
@@ -1467,11 +1467,16 @@ Para usar skins personalizadas no Korepi, você precisará baixar o aplicativo</
 <p>Se ainda não estiver no servidor, por favor, leia a publicação anterior, onde é explicado como se juntar ao servidor e obter o papel de "Newcomer".</p>
 <h3> Passo 2: Encontre o bot</h3>
 <p>Agora você precisa encontrar o bot com a imagem de um ganso e enviar uma mensagem direta a ele (micah-sign-bot#0245).</p>
+<p><img src="/assets/images/docs/202312/signin1.png" alt="Sign-in" loading="lazy"></p>
 <h3> Passo 3: Como começar</h3>
 <p>Envie o comando <code>/sign-in</code>, resolva o captcha. Nota: se o bot não responder à solução do captcha, provavelmente você o digitou incorretamente. Tente escrever o captcha novamente (sem o comando). Se estiver correto, o bot enviará a seguinte mensagem "Consecutive &lt; dias &gt; dias".</p>
+<p><img src="/assets/images/docs/202312/signin2.png" alt="Sign-in" loading="lazy"></p>
+<p><img src="/assets/images/docs/202312/signin3.png" alt="Sign-in" loading="lazy"></p>
 <h3> Passo 4: Depois de receber o papel de "Fans"</h3>
 <p>Você precisa usar este comando por 7 dias (a cada 24 horas). Se você se atrasar algumas horas, o bot considerará que você não fez o check-in diário e reiniciará seus dias. No 7º dia de check-ins, você receberá o papel de "Fans" e poderá parar.</p>
+<p><img src="/assets/images/docs/202312/signin4.png" alt="Sign-in" loading="lazy"></p>
 ]]></content:encoded>
+      <enclosure url="https://korepi.com/assets/images/docs/202312/signin1.png" type="image/png"/>
     </item>
     <item>
       <title>Funções Exclusivas de Patrocinadorr</title>

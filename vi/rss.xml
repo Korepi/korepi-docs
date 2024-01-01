@@ -6,8 +6,8 @@
     <link>https://korepi.com/vi/</link>
     <description>Trợ giúp về Korepi</description>
     <language>vi-VN</language>
-    <pubDate>Mon, 01 Jan 2024 08:35:27 GMT</pubDate>
-    <lastBuildDate>Mon, 01 Jan 2024 08:35:27 GMT</lastBuildDate>
+    <pubDate>Mon, 01 Jan 2024 08:35:39 GMT</pubDate>
+    <lastBuildDate>Mon, 01 Jan 2024 08:35:39 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Guide</category>
@@ -1589,17 +1589,21 @@ Note 2: Not recommended to use.</p>
 <p>Nếu bạn chưa có mặt trên máy chủ, vui lòng đọc những bài trước đó, nơi nó được mô tả cách tham gia máy chủ và lấy Role "Newcomer".</p>
 <h2> Bước 2: Tìm đến bot</h2>
 <p>Giờ bạn cần tìm đến bot với ảnh đại diện là một con ngỗng và viết tin nhắn trực tiếp cho nó (micah-sign-bot#0245)</p>
-<p></p>
+<p><img src="/assets/images/docs/202312/signin1.png" alt="Sign-in" loading="lazy"></p>
 <h2> Bước 3: Điểm danh</h2>
 <p>Viết lệnh <code>/sign-in</code> và giải captcha.
 Lưu ý: nếu như bot không phải hồi với mã captcha bạn yêu cầu, có thể là bạn đã nhập sai. Hãy thử viết lại captcha.</p>
 <p>Sau khi nhập thành công, bot sẽ gửi cho bạn thông báo <code>"Consecutive &lt;days&gt; days"</code> như ảnh dưới
 </p>
+<p><img src="/assets/images/docs/202312/signin1.png" alt="Sign-in" loading="lazy"></p>
+<p><img src="/assets/images/docs/202312/signin1.png" alt="Sign-in" loading="lazy"></p>
 <h2> Bước 4: Sau khi nhận Role "Fans"</h2>
 <p>Như vậy bây giờ bạn cần nhập lệnh này hằng ngày trong vòng 7 ngày (mỗi 24 giờ).
 <strong>Lưu ý</strong> rằng nếu bạn chỉ cần trễ vài giờ, thì bot sẽ coi như bạn không điểm danh vào ngày hôm đó và bạn sẽ phải bắt lại từ đầu.
 Vào ngày thứ 7 khi bạn đã điểm danh thành công, bạn sẽ được nhận Role "Fans", và bạn có thể dừng điểm danh.</p>
+<p><img src="/assets/images/docs/202312/signin4.png" alt="Sign-in" loading="lazy"></p>
 ]]></content:encoded>
+      <enclosure url="https://korepi.com/assets/images/docs/202312/signin1.png" type="image/png"/>
     </item>
     <item>
       <title>Trở thành nhà tài trợ</title>
