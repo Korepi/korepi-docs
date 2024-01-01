@@ -6,8 +6,8 @@
     <link>https://korepi.com/id/</link>
     <description>Pertolongan Korepi</description>
     <language>id-ID</language>
-    <pubDate>Sun, 31 Dec 2023 12:26:49 GMT</pubDate>
-    <lastBuildDate>Sun, 31 Dec 2023 12:26:49 GMT</lastBuildDate>
+    <pubDate>Mon, 01 Jan 2024 08:35:27 GMT</pubDate>
+    <lastBuildDate>Mon, 01 Jan 2024 08:35:27 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Panduan</category>
@@ -1261,26 +1261,26 @@ Catatan 2: Tidak disarankan untuk digunakan.</p>
       <link>https://korepi.com/id/troubleshoot/faq-error.html</link>
       <guid>https://korepi.com/id/troubleshoot/faq-error.html</guid>
       <source url="https://korepi.com/id/rss.xml">Masalah Yang Sering Terjadi.</source>
-      <description>Daftar Masalah yang Sering Terjadi Kenapa Korepi Saya Menghilang? Pastikan Anda telah non-aktifkan anti-virus, buat folder baru dan tambahkan folder pada Pengecualian. Ekstrak k...</description>
+      <description>Daftar Masalah yang Sering Terjadi Kenapa Korepi Saya Menghilang? Pastikan Anda telah non-aktifkan anti-virus, buat folder baru dan tambahkan folder pada Pengecualian. Ekstrak K...</description>
       <category>Solusi</category>
       <pubDate>Wed, 13 Dec 2023 23:15:21 GMT</pubDate>
       <content:encoded><![CDATA[<h2> Daftar Masalah yang Sering Terjadi</h2>
 <h3> Kenapa Korepi Saya Menghilang?</h3>
 <p>Pastikan Anda telah non-aktifkan anti-virus, buat folder baru dan tambahkan folder pada Pengecualian.</p>
 <p><img src="/assets/images/docs/202312/virus.png" alt="" loading="lazy"></p>
-<p>Ekstrak korepi di dalam folder yang sudah dikecualikan dan jalankan lagi.</p>
+<p>Ekstrak Korepi di dalam folder yang sudah dikecualikan dan jalankan lagi.</p>
 <hr>
 <h3> Status: No active subscription(s) found, Invalid license key</h3>
 <p>Anda harus <a href="/id/guide/getkey.html" target="blank">Ambil Key baru</a> di <code>⁠★⋅micah-bot-verify⋅★</code>, jika Anda tidak dapat mengambil Key atau Key tidak berfungsi, maka Anda harus menunggu hingga masa berlaku Key berakhir.</p>
-<p><code>Sponsors can use F:Reset Key instead</code></p>
+<p><code>Sponsors dapat menggunakan F:Reset Key sebagai alternatif</code></p>
 <hr>
 <h3> [DLL injection]  Process crashed, exit code 0xc000005</h3>
 <p>buka <code>cmd</code> sebagai administrator dan ketik perintah berikut:</p>
 <p><code>sfc /scannow</code></p>
-<p>Setelah itu, Jika ditemukan masalah, ulang buka komputer dan periksa.
-Jika setelah ulang buka tidak membantu atau masalah tidak ditemukan, ketiklah perintah ini:</p>
+<p>Setelah itu, Jika ditemukan masalah, ulang nyalakan komputer dan periksa.
+Jika setelah ulang nyalakan tidak membantu atau masalah tidak ditemukan, ketiklah perintah ini:</p>
 <p><code>DISM.exe /Online /Cleanup-Image /RestoreHealth</code></p>
-<p>Setelah selesai memeriksanya, ulang buka komputer dan periksa.</p>
+<p>Setelah selesai memeriksanya, ulang nyalakan komputer dan periksa.</p>
 <p>Jika tidak berhasil, pasang ulang windows.</p>
 <hr>
 <h3> ImGUI: DirectX11 backend initialized successfully.</h3>
@@ -1305,13 +1305,13 @@ Anti-virus berkemungkinan memblokir jaringan, pastikan tidak aktif pada menu Tas
 <hr>
 <h3> Windows cannot access the specified device, path, or file</h3>
 <p><img src="/assets/images/docs/202312/error2.png" alt="" loading="lazy"></p>
-<p>Pertama pergi ke <a href="https://support.microsoft.com/en-us/topic/-windows-cannot-access-the-specified-device-path-or-file-error-when-you-try-to-install-update-or-start-a-program-or-file-46361133-47ed-6967-c13e-e75d3cc29657" target="_blank" rel="noopener noreferrer">SINI</a> dan ikuti langkah-lngkah pada website tersebut.</p>
+<p>Pertama pergi ke <a href="https://support.microsoft.com/en-us/topic/-windows-cannot-access-the-specified-device-path-or-file-error-when-you-try-to-install-update-or-start-a-program-or-file-46361133-47ed-6967-c13e-e75d3cc29657" target="_blank" rel="noopener noreferrer">SINI</a> dan ikuti langkah-langkah pada website tersebut.</p>
 <p>Lalu setelah pergi ke website, unduh anti-virus seperti <code>Dr.Web</code> atau <code>Malware bytes</code> dan jalankan pemeriksaan penuh sistem!
 Jika tidak berhasil, buka cmd sebagai administrator dan ketik <code>sfc /scannow</code></p>
-<p>Setelah itu, jika masalah ditemukan, ulang buka komputer dan periksa.</p>
-<p>Jika setelah ulang buka tidak membantu atau masalah tidak ditemukan, ketik perintah ini:</p>
+<p>Setelah itu, jika masalah ditemukan, ulang nyalakan komputer dan periksa.</p>
+<p>Jika setelah ulang nyalakan tidak membantu atau masalah tidak ditemukan, ketik perintah ini:</p>
 <p><code>DISM.exe /Online /Cleanup-Image /RestoreHealth</code></p>
-<p>Setelah selesai melakukan pemeriksaan, ulang buka komputer dan periksa.</p>
+<p>Setelah selesai melakukan pemeriksaan, ulang nyalakan komputer dan periksa.</p>
 <p>Jika tidak berhasil, pasang ulang windows.</p>
 <hr>
 <h3> Signature checksum failed</h3>
@@ -1324,7 +1324,7 @@ Jika tidak berhasil, buka cmd sebagai administrator dan ketik <code>sfc /scannow
 <hr>
 <h3> SSL connect error</h3>
 <p><img src="/assets/images/docs/202312/error4.png" alt="" loading="lazy"></p>
-<p>Ulang buka komputer, ulang buka router.</p>
+<p>Ulang nyalakan komputer, ulang nyalakan router.</p>
 <p>Jika tidak berhasil, coba menggunakan VPN.</p>
 ]]></content:encoded>
       <enclosure url="https://korepi.com/assets/images/docs/202312/virus.png" type="image/png"/>
