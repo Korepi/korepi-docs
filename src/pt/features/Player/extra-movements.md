@@ -1,5 +1,5 @@
 ---
-title: Movimiento Extra
+title: Movimento Extra
 icon: bolt
 category:
   - Funções
