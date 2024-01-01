@@ -1,5 +1,5 @@
 ---
-title: Guides
+title: إرشادات
 icon: book
 category:
   - Guide

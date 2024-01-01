@@ -9,27 +9,27 @@ author: Schvis
 order: 12
 ---
 
-::: danger This feature has a high risk of ban.
+::: danger هذه الميزة لديها مخاطر عالية للحظر.
 :::
 ---
-## Kill Aura: Deals damage to surrounding enemies
+## هالة القتل: يلحق الضرر بالأعداء المحيطين به
 
-### Crash Damage mode:
-- Deals fall damage to surrounding enemies with the specified value, delay and range.
-> Note: Not recommended to use very high values.
-### Percent Mode:
-- Number of hits needed to kill an enemy.
-> Note: Recommended to use `3` or higher values.
-### Left HP:
-- Whether or not to leave the specified amount of HP to surrounding enemies.
-### Instant Death Mode:
-- Will try to make the enemy disappear
-> Note: Might get buggy with some bosses.
-> Note 2: Not recommended to use.
-### Only Hostile/Aggro:
-- Whether or not to target only hostile mobs.
+### وضع ضرر التحطم:
+- تتسبب في حدوث ضرر للأعداء المحيطين بالقيمة والتأخير والمدى المحددين.
+> ملاحظة: لا يُنصح باستخدام قيم عالية جدًا.
+### وضع النسبة:
+- عدد الضربات اللازمة لقتل العدو.
+>ملاحظة: يوصى باستخدام "ثلاثة" أو قيم أعلى.
+### الصحة المتبقية:
+- ما إذا كان سيتم ترك الكمية المحددة من الصحة للأعداء المحيطين أم لا.
+### وضع الموت الفوري:
+- سيحاول أن يجعل العدو يمحى
+> ملاحظة: قد تحصل على قلتشات مع بعض الزعماء.
+> الملاحظة الثانية: لا ينصح باستخدامه.
+### معادية/عدائية فقط:
+- ما إذا كان سيتم استهداف الأعداء المعادين فقط أم لا.
 
-## Example Video:
+## مقطع المثال:
 
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/NiAh00VBy-w?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Kill Aura" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
 

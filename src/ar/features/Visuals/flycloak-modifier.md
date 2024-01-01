@@ -9,4 +9,4 @@ author: Schvis
 order: 10
 ---
 
-## Flycloak Modifier allow the player to change their glider skin even if they don't own it.
+## معدل شكل الاجنحة: يسمح بتغير مظهر الاجنحة حتى لو لم تمتلكها

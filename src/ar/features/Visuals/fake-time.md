@@ -10,4 +10,4 @@ order: 9
 ---
 
 ## Fake Time:
-- Changes in game time (hour and minutes).
+- تغير وقت العالم (الساعة والدقائق).
