@@ -9,4 +9,4 @@ author: Schvis
 order: 13
 ---
 
-## Map Zoom modifies the values to be used in the map.
+## يقوم بتقريب وتبعيد وتعديل القيم التي يتم استخدامها في الخريطة

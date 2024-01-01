@@ -11,4 +11,4 @@ order: 8
 
 ## Unlocks FPS.Unlocks FPS yeah.Unlocks FPS wow.
 ### Limit background FPS:
-- Set the max fps game can reach when its not focused.
+- قم بتعيين الحد الأقصى لعدد الإطارات في الثانية الذي يمكن أن تصل إليه اللعبة عندما لا تكون مركزة.

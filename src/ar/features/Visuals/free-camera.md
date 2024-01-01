@@ -10,10 +10,10 @@ order: 11
 ---
 
 ## Free Camera:
-- Move the camera freely without being locked to the character.
+- حرك الكاميرا بحرية دون أن تكون مقيدًا بالشخصية.
 ### Freeze Character Animation:
-- Freezes character animations.
+-توقيف الرسوم المتحركة للشخصية.
 ### Make Character Invisible:
-- Makes character invisible.
+- جعل شخصيتك خفية
 ### Block User Input:
-- Blocks user input therefore character wont move while moving the camera.
+- يحظر إدخال المستخدم وبالتالي لن تتحرك الشخصية أثناء تحريك الكاميرا.

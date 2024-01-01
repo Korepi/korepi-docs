@@ -10,10 +10,10 @@ order: 12
 ---
 
 ## Hide UI:
-- Hides player user interface entirely.
+- يخفي واجهة مستخدم اللاعب بالكامل.
 ### Hide Ping: (<span style='color:yellow;'>Sponsor</span>)
-- Hides ping only.
+-اخفاء سرعة الاتصال والبينق الخاص بك 
 ### Hide HP Bar: (<span style='color:yellow;'>Sponsor</span>)
-- Hides current character HP bar only.
+- يخفي نقاط الحياة من الشاشة.
 ### Hide Team HP Bar: (<span style='color:yellow;'>Sponsor</span>)
-- Hides team hp bar on the character tab only.
+- يخفي نقاط الحياة الخاصة بالشخصيات الأخرى بالفريق

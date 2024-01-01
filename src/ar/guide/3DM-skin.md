@@ -1,5 +1,5 @@
 ---
-title: Install Skins
+title: تثبيت السكنات
 icon: magic-wand-sparkles
 category:
   - Guide
@@ -10,16 +10,16 @@ author: Schvis
 order: 5
 ---
 
-## How to install custom Skins in `GIMI`
+## كيفية تثبيت سكنات مخصصة في `GIMI`
 
-### Step 1: Download the Skin
+### الخطوة 1: تحميل السكنات
 
-Head to [Gamebanana](https://gamebanana.com/games/8552) and download a skin of your choice.
+توجه الى [Gamebanana](https://gamebanana.com/games/8552) وقم بتنزيل السكنات التي تختارها.
 
-### Step 2: Install the Skin
+### الخطوة 2: تثبيت السكنات
 
-We will head to our `GIMI` folder and look for `Mods` folder, inside that folder we will extract the file we just downloaded.
+سوف نتوجه إلى مجلد "GIMI" الخاص بنا ونبحث عن مجلد "Mods"، داخل هذا المجلد سنقوم باستخراج الملف الذي قمنا بتنزيله للتو.
 
-### Step 3: Apply the skin
+### الخطوة 3: تطبيق السكن
 
-If we are already inside the game we will use `F10` to reload the Skins, if not, we will open the game following the [last post](3DM-tutorial.md) and the skin should be applied.
+إذا كنا داخل اللعبة بالفعل، فسنستخدم `F10` لإعادة تحميل السكنات، وإذا لم يكن الأمر كذلك، فسنفتح اللعبة باتباع شرح [المنشور السابق](3DM-tutorial.md) وسيتم تطبيق السكنات.
