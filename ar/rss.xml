@@ -6,8 +6,8 @@
     <link>https://korepi.com/ar/</link>
     <description>للمساعدة Korepi</description>
     <language>ar</language>
-    <pubDate>Mon, 01 Jan 2024 08:35:53 GMT</pubDate>
-    <lastBuildDate>Mon, 01 Jan 2024 08:35:53 GMT</lastBuildDate>
+    <pubDate>Mon, 01 Jan 2024 19:45:04 GMT</pubDate>
+    <lastBuildDate>Mon, 01 Jan 2024 19:45:04 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Guide</category>
@@ -17,29 +17,29 @@
     <category>FAQ</category>
     <category>المميزات</category>
     <item>
-      <title>How to add to exclusion list</title>
+      <title>كيفية الإضافة إلى قائمة الاستبعاد</title>
       <link>https://korepi.com/ar/guide/virus.html</link>
       <guid>https://korepi.com/ar/guide/virus.html</guid>
-      <source url="https://korepi.com/ar/rss.xml">How to add to exclusion list</source>
-      <description>Other antivirus will have similar steps, adapt depending on the antivirus you are using. How to add Korepi to antivirus exclusion list (Windows Defender) Step 1: Open the antivi...</description>
+      <source url="https://korepi.com/ar/rss.xml">كيفية الإضافة إلى قائمة الاستبعاد</source>
+      <description>سيكون لبرامج مكافحة الفيروسات الأخرى خطوات مماثلة، وتتكيف وفقًا لبرنامج مكافحة الفيروسات الذي تستخدمه. كيفية إضافة Korepi إلى قائمة استبعاد برامج مكافحة الفيروسات (Windows Defen...</description>
       <category>Guide</category>
       <pubDate>Sat, 23 Dec 2023 17:10:07 GMT</pubDate>
       <content:encoded><![CDATA[<div class="hint-container info">
-<p class="hint-container-title">Other antivirus will have similar steps, adapt depending on the antivirus you are using.</p>
+<p class="hint-container-title">سيكون لبرامج مكافحة الفيروسات الأخرى خطوات مماثلة، وتتكيف وفقًا لبرنامج مكافحة الفيروسات الذي تستخدمه.</p>
 </div>
 <hr>
-<h2> How to add Korepi to antivirus exclusion list (Windows Defender)</h2>
-<h3> Step 1: Open the antivirus</h3>
-<p>Open the windows search bar and search for <code>Windows Security</code> and open it.</p>
+<h2> كيفية إضافة Korepi إلى قائمة استبعاد برامج مكافحة الفيروسات (Windows Defender)</h2>
+<h3> الخطوة 1: افتح برنامج مكافحة الفيروسات</h3>
+<p>افتح شريط بحث Windows وابحث عن "Windows Security" وافتحه.</p>
 <p><img src="/assets/images/docs/202312/security.png" alt="" loading="lazy"></p>
-<p>We click on <code>Virus &amp; threat protection</code>.</p>
+<p>نضغط على <code>Virus &amp; threat protection</code>.</p>
 <p><img src="/assets/images/docs/202312/virus1.png" alt="" loading="lazy"></p>
-<p>Then we scroll till we find <code>Virus &amp; threat protection settings</code> and click on <code>Manage settings</code>.</p>
+<p>ثم ننتقل حتى نجد <code>Virus &amp; threat protection settings</code> وانقر على <code>Manage settings</code>.</p>
 <p><img src="/assets/images/docs/202312/virus3.png" alt="" loading="lazy"></p>
-<h3> Step 2: Adding to the exclusion list</h3>
-<p>After following the last step, we will scroll until we find <code>Exclusions</code> and then we click on <code>Add or remove exclusions</code>.</p>
+<h3> الخطوة 2: الإضافة إلى قائمة الاستبعاد</h3>
+<p>بعد اتباع الخطوة الأخيرة، سوف نقوم بالتمرير حتى نجد <code>Exclusions</code> ومن ثم نضغط على <code>Add or remove exclusions</code>.</p>
 <p><img src="/assets/images/docs/202312/virus4.png" alt="" loading="lazy"></p>
-<p>Click yes to the popup, after that we click on <code>Add an Exclusion</code> and select folder, then we select our Korepi folder.</p>
+<p>انقر فوق نعم في النافذة المنبثقة، وبعد ذلك نضغط عليها <code>Add an Exclusion</code> وحدد المجلد، ثم نختار مجلد Korepi الخاص بنا.</p>
 ]]></content:encoded>
       <enclosure url="https://korepi.com/assets/images/docs/202312/security.png" type="image/png"/>
     </item>
@@ -68,97 +68,97 @@
 ]]></content:encoded>
     </item>
     <item>
-      <title>Install Skins</title>
+      <title>تثبيت السكنات</title>
       <link>https://korepi.com/ar/guide/3DM-skin.html</link>
       <guid>https://korepi.com/ar/guide/3DM-skin.html</guid>
-      <source url="https://korepi.com/ar/rss.xml">Install Skins</source>
-      <description>How to install custom Skins in GIMI Step 1: Download the Skin Head to Gamebanana (https://gamebanana.com/games/8552) and download a skin of your choice. Step 2: Install the Skin...</description>
+      <source url="https://korepi.com/ar/rss.xml">تثبيت السكنات</source>
+      <description>كيفية تثبيت سكنات مخصصة في GIMI الخطوة 1: تحميل السكنات توجه الى Gamebanana (https://gamebanana.com/games/8552) وقم بتنزيل السكنات التي تختارها. الخطوة 2: تثبيت السكنات سوف نتوج...</description>
       <category>Guide</category>
       <pubDate>Fri, 22 Dec 2023 11:31:21 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> How to install custom Skins in <code>GIMI</code></h2>
-<h3> Step 1: Download the Skin</h3>
-<p>Head to <a href="https://gamebanana.com/games/8552" target="_blank" rel="noopener noreferrer">Gamebanana</a> and download a skin of your choice.</p>
-<h3> Step 2: Install the Skin</h3>
-<p>We will head to our <code>GIMI</code> folder and look for <code>Mods</code> folder, inside that folder we will extract the file we just downloaded.</p>
-<h3> Step 3: Apply the skin</h3>
-<p>If we are already inside the game we will use <code>F10</code> to reload the Skins, if not, we will open the game following the <a href="/ar/guide/3DM-tutorial.html" target="blank">last post</a> and the skin should be applied.</p>
+      <content:encoded><![CDATA[<h2> كيفية تثبيت سكنات مخصصة في <code>GIMI</code></h2>
+<h3> الخطوة 1: تحميل السكنات</h3>
+<p>توجه الى <a href="https://gamebanana.com/games/8552" target="_blank" rel="noopener noreferrer">Gamebanana</a> وقم بتنزيل السكنات التي تختارها.</p>
+<h3> الخطوة 2: تثبيت السكنات</h3>
+<p>سوف نتوجه إلى مجلد "GIMI" الخاص بنا ونبحث عن مجلد "Mods"، داخل هذا المجلد سنقوم باستخراج الملف الذي قمنا بتنزيله للتو.</p>
+<h3> الخطوة 3: تطبيق السكن</h3>
+<p>إذا كنا داخل اللعبة بالفعل، فسنستخدم <code>F10</code> لإعادة تحميل السكنات، وإذا لم يكن الأمر كذلك، فسنفتح اللعبة باتباع شرح <a href="/ar/guide/3DM-tutorial.html" target="blank">المنشور السابق</a> وسيتم تطبيق السكنات.</p>
 ]]></content:encoded>
     </item>
     <item>
-      <title>How to use custom skins</title>
+      <title>كيفية استخدام السكنات المخصصة</title>
       <link>https://korepi.com/ar/guide/3DM-tutorial.html</link>
       <guid>https://korepi.com/ar/guide/3DM-tutorial.html</guid>
-      <source url="https://korepi.com/ar/rss.xml">How to use custom skins</source>
-      <description>If GIMI shows echo off on the cmd, you can just press Numpad 0 to remove it, you can also edit d3dx.ini and search for hunting= and set to 0. How to use custom Skins in Korepi I...</description>
+      <source url="https://korepi.com/ar/rss.xml">كيفية استخدام السكنات المخصصة</source>
+      <description>ادا اضهر GIMI echo off على cmd يمكنك فقط الضغط Numpad 0 لإزالته، يمكنك أيضًا التعديل على d3dx.ini والبحث عن hunting= وتعيين ل 0. كيفية استخدام السكنات المخصصة في Korepi من أجل ا...</description>
       <category>Guide</category>
       <pubDate>Fri, 22 Dec 2023 11:31:21 GMT</pubDate>
       <content:encoded><![CDATA[<div class="hint-container info">
-<p class="hint-container-title">If GIMI shows `echo off` on the cmd, you can just press `Numpad 0` to remove it, you can also edit `d3dx.ini` and search for `hunting=` and set to `0`.</p>
+<p class="hint-container-title">ادا اضهر GIMI  `echo off` على cmd يمكنك فقط الضغط `Numpad 0` لإزالته، يمكنك أيضًا التعديل على `d3dx.ini` والبحث عن `hunting=` وتعيين ل `0`.</p>
 </div>
 <hr>
-<h2> How to use custom Skins in Korepi</h2>
+<h2> كيفية استخدام السكنات المخصصة في Korepi</h2>
 <p><img src="/assets/images/docs/202312/example.png" alt="" loading="lazy">
-In order to use custom skins in we will need to download:</p>
+من أجل استخدام السكنات المخصصة، سنحتاج إلى تنزيل:</p>
 <p><code>3DMigoto(GIMI)</code>.</p>
-<h2> <span style="color:blue;">Method 1</span></h2>
-<h3> Step 1: Download <code>GIMI</code></h3>
-<p>Download <code>GIMI</code> in their oficial <a href="https://github.com/SilentNightSound/GI-Model-Importer/releases/tag/v7.0" target="_blank" rel="noopener noreferrer">Github</a> and download the file named: <code>3dmigoto-GIMI-for-playing-mods.zip</code>.</p>
+<h2> <span style="color:blue;">طريقة 1</span></h2>
+<h3> الخطوة 1: التنزيل <code>GIMI</code></h3>
+<p>حمل <code>GIMI</code> من الموقع الرسمي <a href="https://github.com/SilentNightSound/GI-Model-Importer/releases/tag/v7.0" target="_blank" rel="noopener noreferrer">Github</a> و قم بتحميل الملف المسمى: <code>3dmigoto-GIMI-for-playing-mods.zip</code>.</p>
 <p><img src="/assets/images/docs/202312/3dm-1.png" alt="" loading="lazy"></p>
-<h3> Step 2: Extract <code>GIMI</code> into a folder</h3>
-<p>After downloading <code>GIMI</code>, we will need to extract it into any folder of your choice, inside that folder you will find <code>d3d11.dll</code>, we will copy the path and add <code>/d3d11.dll</code> to the end, for example:</p>
+<h3> الخطوة 2: قم باستخراج "GIMI" إلى مجلد</h3>
+<p>بعد تحميل <code>GIMI</code> سنحتاج إلى استخراجه في أي مجلد من اختيارك، داخل هذا المجلد ستجد <code>d3d11.dll</code>، سنقوم بنسخ المسار وإضافة <code>/d3d11.dll</code> في النهاية، على سبيل المثال :</p>
 <p><code>"path/d3d11.dll"</code></p>
-<h3> Step 3: Add <code>GIMI</code> to Korepi</h3>
-<p>To do this we will need to add the next lines in <code>cfg.ini</code> inside korepi folder.</p>
+<h3> الخطوة 3: أضف "GIMI" إلى Korepi</h3>
+<p>للقيام بذلك، سنحتاج إلى إضافة الأسطر التالية في <code>cfg.ini</code> داخل مجلد korepi.</p>
 <p><img src="/assets/images/docs/202312/3dm-2.png" alt="" loading="lazy"></p>
-<p>On <code>DllPath</code> we will paste the path we copied in the last step.</p>
+<p>في <code>DllPath</code> سنقوم بلصق المسار الذي نسخناه في الخطوة السابقة.</p>
 <p><img src="/assets/images/docs/202312/3dm-3.png" alt="" loading="lazy"></p>
-<h3> Step 4: Open Korepi</h3>
-<p>If you followed the steps right, Korepi should launch with <code>GIMI</code> every time.</p>
-<h2> <span style="color:blue;">Method 2</span></h2>
-<h3> Step 1: Download <code>GIMI</code></h3>
-<p>Download <code>GIMI</code> in their oficial <a href="https://github.com/SilentNightSound/GI-Model-Importer/releases/tag/v7.0" target="_blank" rel="noopener noreferrer">Github</a> and download the file named: <code>3dmigoto-GIMI-for-playing-mods.zip</code>.</p>
+<h3> الخطوة 4: افتح Korepi</h3>
+<p>لو اتبعت الخطوات صح Korepi سيفتح مع <code>GIMI</code> كل مرة.</p>
+<h2> <span style="color:blue;">الطريقة 2</span></h2>
+<h3> Step 1: تحميل <code>GIMI</code></h3>
+<p>حمل <code>GIMI</code> من الموقع الرسمي <a href="https://github.com/SilentNightSound/GI-Model-Importer/releases/tag/v7.0" target="_blank" rel="noopener noreferrer">Github</a> و قم بتحميل الملف المسمى: <code>3dmigoto-GIMI-for-playing-mods.zip</code>.</p>
 <p><img src="/assets/images/docs/202312/3dm-1.png" alt="" loading="lazy"></p>
-<h3> Step 2: Extract <code>GIMI</code> into a folder</h3>
-<p>After downloading <code>GIMI</code>, we will need to extract it into any folder of your choice, inside that folder you will find <code>3DMigoto Loader.exe</code>, we will run this file first.</p>
-<h3> Step 4: Open Korepi</h3>
-<p>After running <code>GIMI</code>, we will run Korepi, <code>GIMI</code> will be loaded with Korepi after this, you will need to repeat these steps every time you want to launch Korepi with <code>GIMI</code>.</p>
+<h3> الخطوة 2: قم باستخراج "GIMI" إلى مجلد</h3>
+<p>بعد تنزيل <code>GIMI</code>, سنحتاج إلى استخراجه في أي مجلد من اختيارك، ستجد داخل هذا المجلد <code>3DMigoto Loader.exe</code>, سوف نقوم بتشغيل هذا الملف أولا.</p>
+<h3> الخطوة 4: افتح Korepi</h3>
+<p>بعد تشغيل <code>GIMI</code>، سنقوم بتشغيل Korepi، وسيتم تحميل <code>GIMI</code> مع Korepi بعد ذلك، وسوف تحتاج إلى تكرار هذه الخطوات في كل مرة تريد فيها تشغيل Korepi مع <code>GIMI</code>.</p>
 ]]></content:encoded>
       <enclosure url="https://korepi.com/assets/images/docs/202312/example.png" type="image/png"/>
     </item>
     <item>
-      <title>Guides</title>
+      <title>إرشادات</title>
       <link>https://korepi.com/ar/guide/</link>
       <guid>https://korepi.com/ar/guide/</guid>
-      <source url="https://korepi.com/ar/rss.xml">Guides</source>
+      <source url="https://korepi.com/ar/rss.xml">إرشادات</source>
       <category>Guide</category>
       <pubDate>Fri, 22 Dec 2023 11:31:21 GMT</pubDate>
     </item>
     <item>
-      <title>How to use Custom TP</title>
+      <title>كيفية استخدام تيليبورت مخصص</title>
       <link>https://korepi.com/ar/guide/custom-tp-setting.html</link>
       <guid>https://korepi.com/ar/guide/custom-tp-setting.html</guid>
-      <source url="https://korepi.com/ar/rss.xml">How to use Custom TP</source>
-      <description>How to use custom TP Step 1: Settings to use We will use the following settings. The recommended delay time is &amp;gt;15s. Step 2: Download the .json files for the custom tp We can fi...</description>
+      <source url="https://korepi.com/ar/rss.xml">كيفية استخدام تيليبورت مخصص</source>
+      <description>كيفية استخدام تيليبورت مخصص الخطوة 1: الإعدادات المستخدمة سوف نستخدم الإعدادات التالية. وقت التأخير الموصى به هو &amp;gt; 15 ثانية. الخطوة 2: قم بتنزيل ملفات .json للتيليبورت مخصص يمكن...</description>
       <category>Guide</category>
       <pubDate>Fri, 22 Dec 2023 11:31:21 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> How to use custom TP</h2>
-<h3> Step 1: Settings to use</h3>
-<p>We will use the following settings.</p>
+      <content:encoded><![CDATA[<h2> كيفية استخدام تيليبورت مخصص</h2>
+<h3> الخطوة 1: الإعدادات المستخدمة</h3>
+<p>سوف نستخدم الإعدادات التالية.</p>
 <p><img src="/assets/images/docs/202312/teleport1.png" alt="" loading="lazy"></p>
-<p>The recommended delay time is &gt;15s.</p>
-<h3> Step 2: Download the <code>.json</code> files for the custom tp</h3>
-<p>We can find these files in <code>community-share</code> pinned post in the server. Download the ones that suits your needs.</p>
-<h3> Step 3: Select the tp files</h3>
-<p>Head to custom tp settings and go to this section:</p>
+<p>وقت التأخير الموصى به هو &gt; 15 ثانية.</p>
+<h3> الخطوة 2: قم بتنزيل ملفات <code>.json</code> للتيليبورت مخصص</h3>
+<p>يمكننا العثور على هذه الملفات في منشور <code>community-share</code> المثبت في السيرفر. قم بتنزيل تلك التي تناسب احتياجاتك.</p>
+<h3> الخطوة 3: حدد ملفات التيليبورت</h3>
+<p>توجه الى custom tp settings واذهب إلى هذا القسم:</p>
 <p><img src="/assets/images/docs/202312/teleport2.png" alt="" loading="lazy"></p>
-<p>Click on select path and select the folder containing the tp files you want to use.</p>
-<h3> Step 4: How to start the tps</h3>
-<p>After selecting the folder, check this checkbox:</p>
+<p>انقر فوق تحديد المسار وحدد المجلد الذي يحتوي على ملفات التيليبورت التي تريد استخدامها.</p>
+<h3> الخطوة 4: كيفية البدء tps</h3>
+<p>بعد تحديد المجلد، حدد مربع الاختيار هذا:</p>
 <p><img src="/assets/images/docs/202312/teleport3.png" alt="" loading="lazy"></p>
-<p>After that we click on <code>Select</code>:</p>
+<p>بعد ذلك نضغط على <code>Select</code>:</p>
 <p><img src="/assets/images/docs/202312/teleport4.png" alt="" loading="lazy"></p>
-<h3> Step 5: Enjoy the ride</h3>
-<p>The TPs will start automatically, if you got <a href="/ar/start/sponsor.html" target="blank">Sponsor</a>, you will be able to see the progress and remaining time.</p>
+<h3> الخطوة 5: استمتع بالرحلة</h3>
+<p>سيبدأ التيليبورت تلقائيًا، إذا كنت حصلت على <a href="/ar/start/sponsor.html" target="blank">Sponsor</a>, سوف تكون قادرا على رؤية التقدم والوقت المتبقي.</p>
 ]]></content:encoded>
       <enclosure url="https://korepi.com/assets/images/docs/202312/teleport1.png" type="image/png"/>
     </item>
@@ -195,57 +195,57 @@ In order to use custom skins in we will need to download:</p>
 ]]></content:encoded>
     </item>
     <item>
-      <title>How to Multi-Instance</title>
+      <title>فتح نافذتين للعبة في نفس الوقت</title>
       <link>https://korepi.com/ar/guide/multi-instance.html</link>
       <guid>https://korepi.com/ar/guide/multi-instance.html</guid>
-      <source url="https://korepi.com/ar/rss.xml">How to Multi-Instance</source>
-      <description>How to Multi-instance (Open 2 game window at the same time) Only works with Local(V) version</description>
+      <source url="https://korepi.com/ar/rss.xml">فتح نافذتين للعبة في نفس الوقت</source>
+      <description>How To Multi-instance (فتح نافذتين للعبة في نفس الوقت) يعمل فقط مع الإصدار المحلي (V).</description>
       <category>Guide</category>
       <pubDate>Fri, 22 Dec 2023 11:31:21 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> How to Multi-instance (Open 2 game window at the same time)</h2>
+      <content:encoded><![CDATA[<h2> How To Multi-instance (فتح نافذتين للعبة في نفس الوقت)</h2>
 <div class="hint-container info">
-<p class="hint-container-title">Only works with Local(V) version</p>
+<p class="hint-container-title">يعمل فقط مع الإصدار المحلي (V).</p>
 </div>
 <hr>
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/pSAxKoneT64" title="Multi-Instance V (Updated)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 ]]></content:encoded>
     </item>
     <item>
-      <title>How to reset HWID</title>
+      <title>كيفية إعادة التعيين HWID</title>
       <link>https://korepi.com/ar/guide/resethwid.html</link>
       <guid>https://korepi.com/ar/guide/resethwid.html</guid>
-      <source url="https://korepi.com/ar/rss.xml">How to reset HWID</source>
-      <description>Reset HWID: Network(F) Step 1: Enter Korepi login page Please head to Korepi Login Page (https://keyauth.cc/panel/Strigger/Korepi) Warning: Don&amp;apos;t do anything yet. Step 2: Get yo...</description>
+      <source url="https://korepi.com/ar/rss.xml">كيفية إعادة التعيين HWID</source>
+      <description>إعادة تعيين HWID: Network(F) الخطوة 1: أدخل صفحة تسجيل الدخول إلى Korepi يرجى التوجه إلى Korepi صفحة تسجيل الدخول (https://keyauth.cc/panel/Strigger/Korepi) تحذير: لا تفعل أي شي...</description>
       <category>Guide</category>
       <pubDate>Fri, 22 Dec 2023 11:31:21 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Reset HWID: Network(F)</h2>
+      <content:encoded><![CDATA[<h2> إعادة تعيين HWID: Network(F)</h2>
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/DRSEmYsl4F4" title="how to change hwid for F" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
-<h3> Step 1: Enter Korepi login page</h3>
-<p>Please head to <a href="https://keyauth.cc/panel/Strigger/Korepi" target="_blank" rel="noopener noreferrer">Korepi Login Page</a>
-Warning: Don't do anything yet.</p>
-<h3> Step 2: Get your key</h3>
-<p>Get your key from your <code>license.json</code> or head to <code>★⋅micah-bot-verify⋅★</code> and click on <code>F: Getkey</code> to get your current key.</p>
-<h3> Step 3: Login in Korepi</h3>
-<p>After getting your key, head to <a href="https://keyauth.cc/panel/Strigger/Korepi" target="_blank" rel="noopener noreferrer">Korepi Login Page</a>, and paste your key on both fields, click on login, after that, click on <code>Reset HWID</code>.</p>
-<h3> Step 4: Open Injector</h3>
-<p>After your HWID reset, head to your injector and paste your key once again.</p>
-<p>Enjoy Korepi again!</p>
-<h2> Reset HWID: Network(F) (Sponsor)</h2>
+<h3> الخطوة 1: أدخل صفحة تسجيل الدخول إلى Korepi</h3>
+<p>يرجى التوجه إلى <a href="https://keyauth.cc/panel/Strigger/Korepi" target="_blank" rel="noopener noreferrer">Korepi صفحة تسجيل الدخول</a>
+تحذير: لا تفعل أي شيء بعد.</p>
+<h3> الخطوة 2: احصل على مفتاحك</h3>
+<p>احصل على مفتاحك من <code>license.json</code> أو التوجه إلى <code>★⋅micah-bot-verify⋅★</code> وانقر على <code>F: Getkey</code> للحصول على مفتاحك الحالي.</p>
+<h3> الخطوة 3: تسجيل الدخول الى Korepi</h3>
+<p>بعد الحصول على المفتاح الخاص بك، توجه إلى <a href="https://keyauth.cc/panel/Strigger/Korepi" target="_blank" rel="noopener noreferrer">Korepi صفحة تسجيل الدخول</a>, والصق المفتاح الخاص بك في كلا الحقلين، ثم انقر فوق تسجيل الدخول، وبعد ذلك، انقر فوق <code>Reset HWID</code>.</p>
+<h3> الخطوة 4: افتح الحاقن</h3>
+<p>بعد إعادة ضبط HWID، توجه إلى الحاقن الخاص بك وألصق مفتاحك مرة أخرى.</p>
+<p>استمتع بكوريبي مرة أخرى!</p>
+<h2> إعادة تعيين HWID: Network(F) (Sponsor)</h2>
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/WCuRAyqWMHg" title="Reset HWID F version (Sponsor)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
-<h3> Step 1: Head to <code>★⋅micah-bot-verify⋅★</code> channel</h3>
-<p>Head to <code>★⋅micah-bot-verify⋅★</code> channel and click on <code>F:Reset Key</code>, after that click on <code>F:Getkey</code> to recieve your new key.</p>
-<h3> Step 2: Replace your old key</h3>
-<p>Go to your korepi folder and delete <code>license.json</code>, after that open Korepi and paste in the new key you got.</p>
-<p>Enjoy Korepi!</p>
-<h2> Reset HWID: Local(V) (Sponsor)</h2>
+<h3> الخطوة 1: توجه إلى قناة <code>★⋅micah-bot-verify⋅★</code></h3>
+<p>توجه إلى قناة <code>★⋅micah-bot-verify⋅★</code> وانقر على <code>F:Reset Key</code>، وبعد ذلك انقر على <code>F:Getkey</code> للحصول على مفتاحك الجديد.</p>
+<h3> الخطوة 2: استبدل مفتاحك القديم</h3>
+<p>انتقل إلى مجلد korepi الخاص بك واحذف "license.json"، وبعد ذلك افتح Korepi والصق المفتاح الجديد الذي حصلت عليه.</p>
+<p>استمتع بكوريبي!</p>
+<h2> إعادة تعيين HWID: Local(V) (Sponsor)</h2>
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/q0G9UZHErrg?list=PL5eI1Tb64p56Mp6JqoR_o3BYk9UFTbOQI" title="How to reset Local V HWID" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
-<h3> Step 1: Get your current HWID</h3>
-<p>To get your current HWID, you will need to open your <code>Local(V) injector</code>, and it will automatically copy your HWID into your clipboard.</p>
-<h3> Step 2: Find <code>★⋅micah-bot-verify⋅★</code> channel</h3>
-<p>After finding <code>★⋅micah-bot-verify⋅★</code>, click on <code>V:Change HWID</code>, a window will pop up asking for your current HWID, paste it and click <code>Submit</code>.</p>
-<h3> Step 3: Get your new <code>enc.json</code></h3>
-<p>After your HWID reset, click on <code>V:Verify</code> and paste your current HWID into the window and click <code>Submit</code>. Now download the new <code>enc.json</code> and replace the file in your Korepi folder.</p>
-<p>Note: Remember that the file name has to be <code>enc.json</code>.</p>
+<h3> الخطوة 1: احضر HWID الخاص بك</h3>
+<p>للحصول على HWID الحالي، ستحتاج إلى فتح "الحاقن المحلي (V)"، وسيقوم تلقائيًا بنسخ HWID الخاص بك إلى الحافظة الخاصة بك.</p>
+<h3> الخطوة 2: ابحث عن قناة <code>⋅micah-bot-verify⋅</code></h3>
+<p>بعد العثور على <code>★⋅micah-bot-verify⋅★</code>، انقر فوق <code>V:Change HWID</code>، ستظهر نافذة تطلب منك معرف HWID الحالي الخاص بك، قم بلصقه ثم انقر فوق <code>Submit</code>.</p>
+<h3> الخطوة 3: احصل على ملف enc.json الجديد</h3>
+<p>بعد إعادة تعيين HWID، انقر فوق "V:Verify" والصق HWID الحالي في النافذة وانقر فوق "Submit". الآن قم بتنزيل enc.json الجديد واستبدل الملف الموجود في مجلد Korepi الخاص بك.</p>
+<p>ملاحظة: تذكر أن اسم الملف يجب أن يكون "enc.json".</p>
 ]]></content:encoded>
     </item>
     <item>
@@ -1111,10 +1111,10 @@ Warning: Don't do anything yet.</p>
       <link>https://korepi.com/ar/features/Visuals/animation-changer.html</link>
       <guid>https://korepi.com/ar/features/Visuals/animation-changer.html</guid>
       <source url="https://korepi.com/ar/rss.xml">Animation Changer</source>
-      <description>Animation Changer, allows the player to change their current character animation to the selected one.</description>
+      <description>##مغير الرسوم المتحركة, يسمح للاعب بتغيير الرسوم المتحركة لشخصيته الحالية إلى الصورة المختارة.</description>
       <category>Features</category>
       <pubDate>Fri, 22 Dec 2023 11:31:21 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Animation Changer, allows the player to change their current character animation to the selected one.</h2>
+      <content:encoded><![CDATA[<p>##مغير الرسوم المتحركة, يسمح للاعب بتغيير الرسوم المتحركة لشخصيته الحالية إلى الصورة المختارة.</p>
 ]]></content:encoded>
     </item>
     <item>
@@ -1122,10 +1122,10 @@ Warning: Don't do anything yet.</p>
       <link>https://korepi.com/ar/features/Visuals/camera-zoom.html</link>
       <guid>https://korepi.com/ar/features/Visuals/camera-zoom.html</guid>
       <source url="https://korepi.com/ar/rss.xml">Camera Zoom</source>
-      <description>Camera zoom allows the user to change their camera zoom to their desired value.</description>
+      <description>يتيح تكبير الكاميرا للمستخدم تغيير حجم الكاميرا إلى القيمة المطلوبة.</description>
       <category>Features</category>
       <pubDate>Fri, 22 Dec 2023 11:31:21 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Camera zoom allows the user to change their camera zoom to their desired value.</h2>
+      <content:encoded><![CDATA[<h2> يتيح تكبير الكاميرا للمستخدم تغيير حجم الكاميرا إلى القيمة المطلوبة.</h2>
 ]]></content:encoded>
     </item>
     <item>
@@ -1133,22 +1133,22 @@ Warning: Don't do anything yet.</p>
       <link>https://korepi.com/ar/features/Visuals/constellation-modifier.html</link>
       <guid>https://korepi.com/ar/features/Visuals/constellation-modifier.html</guid>
       <source url="https://korepi.com/ar/rss.xml">Constellation Modifier</source>
-      <description>Sponsor Only Constellation Modifier, will change your active character constellations if selected, visually and some of them will actually work. You can find more information ab...</description>
+      <description>Sponsor Only تعديل الكونستليشن، سيغير الكونستليشن شخصياتك المختارة. إذا تم تحديدها، ستعمل بصريًا وسيعمل بعضها بالفعل. يمكنك العثور على مزيد من المعلومات حول أي منهم يعمل`#⁠cons-...</description>
       <category>Features</category>
       <pubDate>Fri, 22 Dec 2023 11:31:21 GMT</pubDate>
       <content:encoded><![CDATA[<div class="hint-container info">
 <p class="hint-container-title">Sponsor Only</p>
 </div>
 <hr>
-<h2> Constellation Modifier, will change your active character constellations if selected, visually and some of them will actually work.</h2>
+<h2> تعديل الكونستليشن، سيغير الكونستليشن شخصياتك المختارة. إذا تم تحديدها، ستعمل بصريًا وسيعمل بعضها بالفعل.</h2>
 <ul>
-<li>You can find more information about which of them work at <code>#⁠cons-check</code> in the server.</li>
+<li>يمكنك العثور على مزيد من المعلومات حول أي منهم يعمل`#⁠cons-check' في سيرفر الديسكورد.</li>
 </ul>
-<div class="hint-container tip">
-<p class="hint-container-title">You have to switch to each character you want to activate the constellations first and then teleport far away to activate them.</p>
+<div class="hint-container info">
+<p class="hint-container-title">عليك التبديل إلى كل شخصية تريد تفعيل الكونستليشن الخاص بها أولاً ثم الانتقال بعيدًا لتنشيطها.</p>
 </div>
 <hr>
-<h2> Example Video:</h2>
+<h2> فيديو توضيحي:</h2>
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/S9-g5weE9l8?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Constellation Modifier (Sponsor)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 ]]></content:encoded>
     </item>
@@ -1157,37 +1157,37 @@ Warning: Don't do anything yet.</p>
       <link>https://korepi.com/ar/features/Visuals/custom-profile.html</link>
       <guid>https://korepi.com/ar/features/Visuals/custom-profile.html</guid>
       <source url="https://korepi.com/ar/rss.xml">Custom Profile</source>
-      <description>Custom Profile: UID: Select the UID you want to be displayed.; Nickname: Select the Nickname you want to be displayed.; Level: Select the Level you want to be displayed.; EXP: S...</description>
+      <description>Custom Profile: UID: حدد المعرف الفريد الذي تريد عرضه.; Nickname: حدد اللقب الذي تريد عرضه.; Level: حدد المستوى الذي تريد عرضه.; EXP: حدد نقطة الخبرة التي تريد عرضها.; World Lev...</description>
       <category>Features</category>
       <pubDate>Fri, 22 Dec 2023 11:31:21 GMT</pubDate>
       <content:encoded><![CDATA[<h2> Custom Profile:</h2>
 <h3> UID:</h3>
 <ul>
-<li>Select the UID you want to be displayed.</li>
+<li>حدد المعرف الفريد الذي تريد عرضه.</li>
 </ul>
 <h3> Nickname:</h3>
 <ul>
-<li>Select the Nickname you want to be displayed.</li>
+<li>حدد اللقب الذي تريد عرضه.</li>
 </ul>
 <h3> Level:</h3>
 <ul>
-<li>Select the Level you want to be displayed.</li>
+<li>حدد المستوى الذي تريد عرضه.</li>
 </ul>
 <h3> EXP:</h3>
 <ul>
-<li>Select the EXP you want to be displayed.</li>
+<li>حدد نقطة الخبرة التي تريد عرضها.</li>
 </ul>
 <h3> World Level:</h3>
 <ul>
-<li>Select the World Level you want to be displayed.</li>
+<li>حدد المستوى العالمي الذي تريد عرضه.</li>
 </ul>
 <h3> Avatar Image:</h3>
 <ul>
-<li>Use a custom png as avatar image.</li>
+<li>استخدم صورة مخصصة كصورة للملف الشخصي.</li>
 </ul>
 <h3> Card Image:</h3>
 <ul>
-<li>Use a custom png as card image.</li>
+<li>استخدم صورة مخصصة كصورة بطاقة.</li>
 </ul>
 ]]></content:encoded>
     </item>
@@ -1196,10 +1196,10 @@ Warning: Don't do anything yet.</p>
       <link>https://korepi.com/ar/features/Visuals/custom-weather.html</link>
       <guid>https://korepi.com/ar/features/Visuals/custom-weather.html</guid>
       <source url="https://korepi.com/ar/rss.xml">Custom Weather</source>
-      <description>Custom Wether allows you to change the weather to your liking.</description>
+      <description>الطقس المخصص يسمح لك بتغيير الطقس حسب رغبتك.</description>
       <category>Features</category>
       <pubDate>Fri, 22 Dec 2023 11:31:21 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Custom Wether allows you to change the weather to your liking.</h2>
+      <content:encoded><![CDATA[<h2> الطقس المخصص يسمح لك بتغيير الطقس حسب رغبتك.</h2>
 ]]></content:encoded>
     </item>
     <item>
@@ -1207,10 +1207,10 @@ Warning: Don't do anything yet.</p>
       <link>https://korepi.com/ar/features/Visuals/emotion-changer.html</link>
       <guid>https://korepi.com/ar/features/Visuals/emotion-changer.html</guid>
       <source url="https://korepi.com/ar/rss.xml">Emotion Changer</source>
-      <description>Emotion Changer allows the player to change the current character emotion to the selected one.</description>
+      <description>مغير العاطفة يسمح للاعب بتغيير مشاعر الشخصية الحالية إلى العاطفة المحددة.</description>
       <category>Features</category>
       <pubDate>Fri, 22 Dec 2023 11:31:21 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Emotion Changer allows the player to change the current character emotion to the selected one.</h2>
+      <content:encoded><![CDATA[<h2> مغير العاطفة يسمح للاعب بتغيير مشاعر الشخصية الحالية إلى العاطفة المحددة.</h2>
 ]]></content:encoded>
     </item>
     <item>
@@ -1218,21 +1218,19 @@ Warning: Don't do anything yet.</p>
       <link>https://korepi.com/ar/features/Visuals/extra-visual-settings.html</link>
       <guid>https://korepi.com/ar/features/Visuals/extra-visual-settings.html</guid>
       <source url="https://korepi.com/ar/rss.xml">Extra Visual Settings</source>
-      <description>Extra Visual Settings: Gamma: Allows you to change the gamma value of the game.; Outline Width: Allows you to change the outline of every character in the game.; Anti-Aliasing: ...</description>
+      <description>Extra Visual Settings: Gamma: يسمح لك بتغيير قيمة جاما للعبة .; Outline Width: -يسمح لك بتغيير الخطوط العريضة لكل شخصية في اللعبة. Anti-Aliasing: يسمح للاعب بتغير الانتي الايسيت...</description>
       <category>Features</category>
       <pubDate>Fri, 22 Dec 2023 11:31:21 GMT</pubDate>
       <content:encoded><![CDATA[<h2> Extra Visual Settings:</h2>
 <h3> Gamma:</h3>
 <ul>
-<li>Allows you to change the gamma value of the game.</li>
+<li>يسمح لك بتغيير قيمة جاما للعبة .</li>
 </ul>
 <h3> Outline Width:</h3>
-<ul>
-<li>Allows you to change the outline of every character in the game.</li>
-</ul>
+<p>-يسمح لك بتغيير الخطوط العريضة لكل شخصية في اللعبة.</p>
 <h3> Anti-Aliasing:</h3>
 <ul>
-<li>Allows the player to change the anti-aliasing module to use, including some that are not available natively.</li>
+<li>يسمح للاعب بتغير الانتي الايسيتق, بما في ذلك بعض الوحدات غير المتوفرة</li>
 </ul>
 ]]></content:encoded>
     </item>
@@ -1241,12 +1239,12 @@ Warning: Don't do anything yet.</p>
       <link>https://korepi.com/ar/features/Visuals/fake-time.html</link>
       <guid>https://korepi.com/ar/features/Visuals/fake-time.html</guid>
       <source url="https://korepi.com/ar/rss.xml">Fake Time</source>
-      <description>Fake Time: Changes in game time (hour and minutes).;</description>
+      <description>Fake Time: تغير وقت العالم (الساعة والدقائق).;</description>
       <category>Features</category>
       <pubDate>Fri, 22 Dec 2023 11:31:21 GMT</pubDate>
       <content:encoded><![CDATA[<h2> Fake Time:</h2>
 <ul>
-<li>Changes in game time (hour and minutes).</li>
+<li>تغير وقت العالم (الساعة والدقائق).</li>
 </ul>
 ]]></content:encoded>
     </item>
@@ -1255,10 +1253,10 @@ Warning: Don't do anything yet.</p>
       <link>https://korepi.com/ar/features/Visuals/flycloak-modifier.html</link>
       <guid>https://korepi.com/ar/features/Visuals/flycloak-modifier.html</guid>
       <source url="https://korepi.com/ar/rss.xml">Flycloak Modifier</source>
-      <description>Flycloak Modifier allow the player to change their glider skin even if they don&amp;apos;t own it.</description>
+      <description>معدل شكل الاجنحة: يسمح بتغير مظهر الاجنحة حتى لو لم تمتلكها</description>
       <category>Features</category>
       <pubDate>Fri, 22 Dec 2023 11:31:21 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Flycloak Modifier allow the player to change their glider skin even if they don't own it.</h2>
+      <content:encoded><![CDATA[<h2> معدل شكل الاجنحة: يسمح بتغير مظهر الاجنحة حتى لو لم تمتلكها</h2>
 ]]></content:encoded>
     </item>
     <item>
@@ -1266,13 +1264,13 @@ Warning: Don't do anything yet.</p>
       <link>https://korepi.com/ar/features/Visuals/fps-unlock.html</link>
       <guid>https://korepi.com/ar/features/Visuals/fps-unlock.html</guid>
       <source url="https://korepi.com/ar/rss.xml">FPS Unlock</source>
-      <description>Unlocks FPS.Unlocks FPS yeah.Unlocks FPS wow. Limit background FPS: Set the max fps game can reach when its not focused.;</description>
+      <description>Unlocks FPS.Unlocks FPS yeah.Unlocks FPS wow. Limit background FPS: قم بتعيين الحد الأقصى لعدد الإطارات في الثانية الذي يمكن أن تصل إليه اللعبة عندما لا تكون مركزة.;</description>
       <category>Features</category>
       <pubDate>Fri, 22 Dec 2023 11:31:21 GMT</pubDate>
       <content:encoded><![CDATA[<h2> Unlocks FPS.Unlocks FPS yeah.Unlocks FPS wow.</h2>
 <h3> Limit background FPS:</h3>
 <ul>
-<li>Set the max fps game can reach when its not focused.</li>
+<li>قم بتعيين الحد الأقصى لعدد الإطارات في الثانية الذي يمكن أن تصل إليه اللعبة عندما لا تكون مركزة.</li>
 </ul>
 ]]></content:encoded>
     </item>
@@ -1281,24 +1279,22 @@ Warning: Don't do anything yet.</p>
       <link>https://korepi.com/ar/features/Visuals/free-camera.html</link>
       <guid>https://korepi.com/ar/features/Visuals/free-camera.html</guid>
       <source url="https://korepi.com/ar/rss.xml">Free Camera</source>
-      <description>Free Camera: Move the camera freely without being locked to the character.; Freeze Character Animation: Freezes character animations.; Make Character Invisible: Makes character ...</description>
+      <description>Free Camera: حرك الكاميرا بحرية دون أن تكون مقيدًا بالشخصية.; Freeze Character Animation: -توقيف الرسوم المتحركة للشخصية. Make Character Invisible: جعل شخصيتك خفية; Block User I...</description>
       <category>Features</category>
       <pubDate>Fri, 22 Dec 2023 11:31:21 GMT</pubDate>
       <content:encoded><![CDATA[<h2> Free Camera:</h2>
 <ul>
-<li>Move the camera freely without being locked to the character.</li>
+<li>حرك الكاميرا بحرية دون أن تكون مقيدًا بالشخصية.</li>
 </ul>
 <h3> Freeze Character Animation:</h3>
-<ul>
-<li>Freezes character animations.</li>
-</ul>
+<p>-توقيف الرسوم المتحركة للشخصية.</p>
 <h3> Make Character Invisible:</h3>
 <ul>
-<li>Makes character invisible.</li>
+<li>جعل شخصيتك خفية</li>
 </ul>
 <h3> Block User Input:</h3>
 <ul>
-<li>Blocks user input therefore character wont move while moving the camera.</li>
+<li>يحظر إدخال المستخدم وبالتالي لن تتحرك الشخصية أثناء تحريك الكاميرا.</li>
 </ul>
 ]]></content:encoded>
     </item>
@@ -1307,24 +1303,22 @@ Warning: Don't do anything yet.</p>
       <link>https://korepi.com/ar/features/Visuals/hide-ui.html</link>
       <guid>https://korepi.com/ar/features/Visuals/hide-ui.html</guid>
       <source url="https://korepi.com/ar/rss.xml">Hide UI</source>
-      <description>Hide UI: Hides player user interface entirely.; Hide Ping: (Sponsor) Hides ping only.; Hide HP Bar: (Sponsor) Hides current character HP bar only.; Hide Team HP Bar: (Sponsor) H...</description>
+      <description>Hide UI: يخفي واجهة مستخدم اللاعب بالكامل.; Hide Ping: (Sponsor) -اخفاء سرعة الاتصال والبينق الخاص بك Hide HP Bar: (Sponsor) يخفي نقاط الحياة من الشاشة.; Hide Team HP Bar: (Spon...</description>
       <category>Features</category>
       <pubDate>Fri, 22 Dec 2023 11:31:21 GMT</pubDate>
       <content:encoded><![CDATA[<h2> Hide UI:</h2>
 <ul>
-<li>Hides player user interface entirely.</li>
+<li>يخفي واجهة مستخدم اللاعب بالكامل.</li>
 </ul>
 <h3> Hide Ping: (<span style="color:yellow;">Sponsor</span>)</h3>
-<ul>
-<li>Hides ping only.</li>
-</ul>
+<p>-اخفاء سرعة الاتصال والبينق الخاص بك</p>
 <h3> Hide HP Bar: (<span style="color:yellow;">Sponsor</span>)</h3>
 <ul>
-<li>Hides current character HP bar only.</li>
+<li>يخفي نقاط الحياة من الشاشة.</li>
 </ul>
 <h3> Hide Team HP Bar: (<span style="color:yellow;">Sponsor</span>)</h3>
 <ul>
-<li>Hides team hp bar on the character tab only.</li>
+<li>يخفي نقاط الحياة الخاصة بالشخصيات الأخرى بالفريق</li>
 </ul>
 ]]></content:encoded>
     </item>
@@ -1333,10 +1327,10 @@ Warning: Don't do anything yet.</p>
       <link>https://korepi.com/ar/features/Visuals/map-zoom.html</link>
       <guid>https://korepi.com/ar/features/Visuals/map-zoom.html</guid>
       <source url="https://korepi.com/ar/rss.xml">Map Zoom</source>
-      <description>Map Zoom modifies the values to be used in the map.</description>
+      <description>يقوم بتقريب وتبعيد وتعديل القيم التي يتم استخدامها في الخريطة</description>
       <category>Features</category>
       <pubDate>Fri, 22 Dec 2023 11:31:21 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Map Zoom modifies the values to be used in the map.</h2>
+      <content:encoded><![CDATA[<h2> يقوم بتقريب وتبعيد وتعديل القيم التي يتم استخدامها في الخريطة</h2>
 ]]></content:encoded>
     </item>
     <item>
@@ -1344,24 +1338,24 @@ Warning: Don't do anything yet.</p>
       <link>https://korepi.com/ar/features/Visuals/monster-changer.html</link>
       <guid>https://korepi.com/ar/features/Visuals/monster-changer.html</guid>
       <source url="https://korepi.com/ar/rss.xml">Monster Changer</source>
-      <description>Monster Changer: When enabled, all new rendered monsters will be changed visually to the selected monster.; Exclude Animals: Enable or Disable changing animals.; Custom Monster ...</description>
+      <description>Monster Changer: عند التمكين، سيتم تغيير جميع الوحوش الجديدة بشكل مرئي إلى الوحش المختارة.; Exclude Animals: تفعيل أو تعطيل تغيير الحيوانات.; Custom Monster ID: استخدم المعرف بد...</description>
       <category>Features</category>
       <pubDate>Fri, 22 Dec 2023 11:31:21 GMT</pubDate>
       <content:encoded><![CDATA[<h2> Monster Changer:</h2>
 <ul>
-<li>When enabled, all new rendered monsters will be changed visually to the selected monster.</li>
+<li>عند التمكين، سيتم تغيير جميع الوحوش الجديدة بشكل مرئي إلى الوحش المختارة.</li>
 </ul>
 <h3> Exclude Animals:</h3>
 <ul>
-<li>Enable or Disable changing animals.</li>
+<li>تفعيل أو تعطيل تغيير الحيوانات.</li>
 </ul>
 <h3> Custom Monster ID:</h3>
 <ul>
-<li>Use ID instead of the provided list.</li>
+<li>استخدم المعرف بدلاً من القائمة المتوفرة للوحوش.</li>
 </ul>
 <h3> Randomize Monster:</h3>
 <ul>
-<li>The change will be random.</li>
+<li>التغيير سيكون عشوائيا.</li>
 </ul>
 ]]></content:encoded>
     </item>
@@ -1397,10 +1391,10 @@ Warning: Don't do anything yet.</p>
       <link>https://korepi.com/ar/features/Visuals/skin-modifier.html</link>
       <guid>https://korepi.com/ar/features/Visuals/skin-modifier.html</guid>
       <source url="https://korepi.com/ar/rss.xml">Skin Modifier</source>
-      <description>Skin Modifier allows the player to use in-game skins for free.</description>
+      <description>معدل الملابس يسمح للاعب باستخدام الملابس داخل اللعبة مجانًا.</description>
       <category>Features</category>
       <pubDate>Fri, 22 Dec 2023 11:31:21 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Skin Modifier allows the player to use in-game skins for free.</h2>
+      <content:encoded><![CDATA[<h2> معدل الملابس يسمح للاعب باستخدام الملابس داخل اللعبة مجانًا.</h2>
 ]]></content:encoded>
     </item>
     <item>
@@ -1408,14 +1402,14 @@ Warning: Don't do anything yet.</p>
       <link>https://korepi.com/ar/features/Visuals/texture-changer.html</link>
       <guid>https://korepi.com/ar/features/Visuals/texture-changer.html</guid>
       <source url="https://korepi.com/ar/rss.xml">Texture Changer</source>
-      <description>Its better to use GIMI (../../guide/3DM-tutorial.md) for changing textures. Texture Changer allows to switch character parts to the provided .png files.</description>
+      <description>Its better to use GIMI (../../guide/3DM-tutorial.md) for changing textures. مغير الملمس يسمح بتبديل أجزاء الشخصيات إلى ملفات الصور المتوفرة.</description>
       <category>Features</category>
       <pubDate>Fri, 22 Dec 2023 11:31:21 GMT</pubDate>
       <content:encoded><![CDATA[<div class="hint-container info">
 <p class="hint-container-title">Its better to use [GIMI](../../guide/3DM-tutorial.md) for changing textures.</p>
 </div>
 <hr>
-<h2> Texture Changer allows to switch character parts to the provided .png files.</h2>
+<h2> مغير الملمس يسمح بتبديل أجزاء الشخصيات إلى ملفات الصور المتوفرة.</h2>
 ]]></content:encoded>
     </item>
     <item>
@@ -1423,15 +1417,15 @@ Warning: Don't do anything yet.</p>
       <link>https://korepi.com/ar/features/World/auto-activate-tp.html</link>
       <guid>https://korepi.com/ar/features/World/auto-activate-tp.html</guid>
       <source url="https://korepi.com/ar/rss.xml">Auto Activate Teleport</source>
-      <description>Sponsor Only Auto Activate Teleport activates nearby waypoints up to 50m. Example Video:</description>
+      <description>Sponsor Only يقوم بالتنشيط التلقائي لنقاط الطريق القريبة التي يصل بعدها إلى 50 مترًا. فيديو توضيحي:</description>
       <category>Features</category>
       <pubDate>Fri, 22 Dec 2023 11:31:21 GMT</pubDate>
       <content:encoded><![CDATA[<div class="hint-container info">
 <p class="hint-container-title">Sponsor Only</p>
 </div>
 <hr>
-<h3> Auto Activate Teleport activates nearby waypoints up to 50m.</h3>
-<h2> Example Video:</h2>
+<h3> يقوم بالتنشيط التلقائي لنقاط الطريق القريبة التي يصل بعدها إلى 50 مترًا.</h3>
+<h2> فيديو توضيحي:</h2>
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/qstBErr9mJ0?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - AutoActivateTP (Sponsor)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 ]]></content:encoded>
     </item>
@@ -1440,14 +1434,14 @@ Warning: Don't do anything yet.</p>
       <link>https://korepi.com/ar/features/World/auto-challenge.html</link>
       <guid>https://korepi.com/ar/features/World/auto-challenge.html</guid>
       <source url="https://korepi.com/ar/rss.xml">Auto Challenge</source>
-      <description>Auto Challenge lets you complete the current active time trial within a specified range and delay time, you can configure these to your liking. Example Video: Note: Not recommen...</description>
+      <description>يتيح لك التحدي التلقائي إكمال تحديات العالم المفتوح ذات الفترة الزمنية, التي تقوم بتنشيطها ضمن نطاق محدد ووقت تأخير، ويمكنك تكوينهما حسب رغبتك. فيديو المثال: Note: لا يُنصح باست...</description>
       <category>Features</category>
       <pubDate>Fri, 22 Dec 2023 11:31:21 GMT</pubDate>
-      <content:encoded><![CDATA[<h3> Auto Challenge lets you complete the current active time trial within a specified range and delay time, you can configure these to your liking.</h3>
-<h2> Example Video:</h2>
+      <content:encoded><![CDATA[<h3> يتيح لك التحدي التلقائي إكمال تحديات العالم المفتوح ذات الفترة الزمنية, التي تقوم بتنشيطها ضمن نطاق محدد ووقت تأخير، ويمكنك تكوينهما حسب رغبتك.</h3>
+<h2> فيديو المثال:</h2>
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/7JNegfQiK2U?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Challenge" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 <blockquote>
-<p>Note: Not recommended to use in low delays and very high ranges.</p>
+<p>Note: لا يُنصح باستخدامه في فترات تأخير منخفضة ونطاقات عالية جدًا.</p>
 </blockquote>
 ]]></content:encoded>
     </item>
@@ -1456,11 +1450,11 @@ Warning: Don't do anything yet.</p>
       <link>https://korepi.com/ar/features/World/auto-cook.html</link>
       <guid>https://korepi.com/ar/features/World/auto-cook.html</guid>
       <source url="https://korepi.com/ar/rss.xml">Auto Cook</source>
-      <description>Auto Cook lets you cook a specified quantity and quality of the selected food on the cooking page, it counts with an auto proficiency (Auto unlock auto cook) built-in. Example V...</description>
+      <description>يتيح لك الطهي التلقائي طهي كمية ونوعية محددة من الطعام المحدد في صفحة الطهي، ويتم احتسابه من خلال الكفاءة التلقائية (فتح القفل للطهي التلقائي). فيديو المثال:</description>
       <category>Features</category>
       <pubDate>Fri, 22 Dec 2023 11:31:21 GMT</pubDate>
-      <content:encoded><![CDATA[<h3> Auto Cook lets you cook a specified quantity and quality of the selected food on the cooking page, it counts with an auto proficiency (Auto unlock auto cook) built-in.</h3>
-<h2> Example Video:</h2>
+      <content:encoded><![CDATA[<h3> يتيح لك الطهي التلقائي طهي كمية ونوعية محددة من الطعام المحدد في صفحة الطهي، ويتم احتسابه من خلال الكفاءة التلقائية (فتح القفل للطهي التلقائي).</h3>
+<h2> فيديو المثال:</h2>
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/T_X13AXiAiY?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Cook" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 ]]></content:encoded>
     </item>
@@ -1469,14 +1463,14 @@ Warning: Don't do anything yet.</p>
       <link>https://korepi.com/ar/features/World/auto-destroy.html</link>
       <guid>https://korepi.com/ar/features/World/auto-destroy.html</guid>
       <source url="https://korepi.com/ar/rss.xml">Auto Destroy Objects</source>
-      <description>Auto Destroy Objects lets you destroy customizable objects within a specified range, in which it includes, ores, plants, rock piles, chests, special objects, shields, etc. Examp...</description>
+      <description>تدمير الأهداف التلقائي يتيح لك تدمير الأهداف القابلة للتخصيص ضمن نطاق محدد، والذي يشمل الخامات والنباتات وأكوام الصخور والصناديق والأشياء الخاصة والدروع وما إلى ذلك. فيديو المثا...</description>
       <category>Features</category>
       <pubDate>Fri, 22 Dec 2023 11:31:21 GMT</pubDate>
-      <content:encoded><![CDATA[<h3> Auto Destroy Objects lets you destroy customizable objects within a specified range, in which it includes, ores, plants, rock piles, chests, special objects, shields, etc.</h3>
-<h2> Example Video:</h2>
+      <content:encoded><![CDATA[<h3> تدمير الأهداف التلقائي يتيح لك تدمير الأهداف القابلة للتخصيص ضمن نطاق محدد، والذي يشمل الخامات والنباتات وأكوام الصخور والصناديق والأشياء الخاصة والدروع وما إلى ذلك.</h3>
+<h2> فيديو المثال:</h2>
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/3ML6s3SR8nE?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Destroy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 <blockquote>
-<p>Note: Recommended value is below <code>20m</code>, not recommended to use at max range (<code>40m</code>)</p>
+<p>Note: القيمة الموصى بها أقل من <code>20 مترًا</code>، ولا يُنصح باستخدامها في النطاق الأقصى (<code>40 مترًا</code>)</p>
 </blockquote>
 ]]></content:encoded>
     </item>
@@ -1485,14 +1479,14 @@ Warning: Don't do anything yet.</p>
       <link>https://korepi.com/ar/features/World/auto-fish.html</link>
       <guid>https://korepi.com/ar/features/World/auto-fish.html</guid>
       <source url="https://korepi.com/ar/rss.xml">Auto Fish</source>
-      <description>Auto fish lets you skip the catching fish animation, which will reduce the time needed to catch a fish. Example Video: Note: Auto Recast is not working at the time creating this...</description>
+      <description>يتيح لك الصيد التلقائي تخطي الرسوم المتحركة الخاصة بصيد الأسماك، مما سيقلل من الوقت اللازم لاصطياد السمكة. فيديو المثال: Note: إعادة رمي السنارة لا تعمل في وقت إنشاء هذا المنشور.</description>
       <category>Features</category>
       <pubDate>Fri, 22 Dec 2023 11:31:21 GMT</pubDate>
-      <content:encoded><![CDATA[<h3> Auto fish lets you skip the catching fish animation, which will reduce the time needed to catch a fish.</h3>
-<h2> Example Video:</h2>
+      <content:encoded><![CDATA[<h3> يتيح لك الصيد التلقائي تخطي الرسوم المتحركة الخاصة بصيد الأسماك، مما سيقلل من الوقت اللازم لاصطياد السمكة.</h3>
+<h2> فيديو المثال:</h2>
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/K_l4Tg-81iQ?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Fish" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 <blockquote>
-<p>Note: Auto Recast is not working at the time creating this post.</p>
+<p>Note: إعادة رمي السنارة لا تعمل في وقت إنشاء هذا المنشور.</p>
 </blockquote>
 ]]></content:encoded>
     </item>
@@ -1501,15 +1495,15 @@ Warning: Don't do anything yet.</p>
       <link>https://korepi.com/ar/features/World/auto-loot.html</link>
       <guid>https://korepi.com/ar/features/World/auto-loot.html</guid>
       <source url="https://korepi.com/ar/rss.xml">Auto Loot</source>
-      <description>Auto loot lets you auto collect loot withing the selected range and delay, the loot that will be collected can be customized, including chests, mob drops and more. Example Video...</description>
+      <description>يتيح لك آخذ الغنائم التلقائي بجمع الغنائم تلقائيًا مع النطاق والتأخير المحددين، ويمكن تخصيص الغنائم التي سيتم جمعها، بما في ذلك الصناديق وإسقاطات الوحوش والمزيد. فيديو المثال: م...</description>
       <category>Features</category>
       <pubDate>Fri, 22 Dec 2023 11:31:21 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Auto loot lets you auto collect loot withing the selected range and delay, the loot that will be collected can be customized, including chests, mob drops and more.</h2>
-<h2> Example Video:</h2>
+      <content:encoded><![CDATA[<h2> يتيح لك آخذ الغنائم التلقائي بجمع الغنائم تلقائيًا مع النطاق والتأخير المحددين، ويمكن تخصيص الغنائم التي سيتم جمعها، بما في ذلك الصناديق وإسقاطات الوحوش والمزيد.</h2>
+<h2> فيديو المثال:</h2>
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/wUyI2XO_Z4E?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Loot" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 <blockquote>
-<p>Note: Recommended below <code>10m</code> for normal use and <code>20m</code> if using custom tp.
-Note 2: Higher the distance higher delay should be used.</p>
+<p>ملحوظة: يوصى به ادنى من "عشرة أمتار" للاستخدام العادي و"عشرين مترًا" في حالة استخدام الانتقال المخصص.
+ملاحظة أخرى: كلما زادت المسافة، يجب استخدام تأخير أعلى.</p>
 </blockquote>
 ]]></content:encoded>
     </item>
@@ -1518,11 +1512,11 @@ Note 2: Higher the distance higher delay should be used.</p>
       <link>https://korepi.com/ar/features/World/auto-seelie.html</link>
       <guid>https://korepi.com/ar/features/World/auto-seelie.html</guid>
       <source url="https://korepi.com/ar/rss.xml">Auto Seelie</source>
-      <description>Auto Seelie removes the necesity of the player to follow the seelie constantly, seelie with go to the designed destination when the player gets close. Example Video:</description>
+      <description>تتبع السيلي التلقائي يلغي ضرورة متابعة اللاعب للحركة بشكل مستمر، و ذهاب السيلي تلقائيا إلى الوجهة المصممة عندما يقترب اللاعب. فيديو المثال:</description>
       <category>Features</category>
       <pubDate>Fri, 22 Dec 2023 11:31:21 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Auto Seelie removes the necesity of the player to follow the seelie constantly, seelie with go to the designed destination when the player gets close.</h2>
-<h2> Example Video:</h2>
+      <content:encoded><![CDATA[<h2> تتبع السيلي التلقائي يلغي ضرورة متابعة اللاعب للحركة بشكل مستمر، و ذهاب السيلي تلقائيا إلى الوجهة المصممة عندما يقترب اللاعب.</h2>
+<h2> فيديو المثال:</h2>
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/uETIJ4KS39M?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Seelie" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 ]]></content:encoded>
     </item>
@@ -1531,46 +1525,44 @@ Note 2: Higher the distance higher delay should be used.</p>
       <link>https://korepi.com/ar/features/World/auto-talk.html</link>
       <guid>https://korepi.com/ar/features/World/auto-talk.html</guid>
       <source url="https://korepi.com/ar/rss.xml">Auto Talk</source>
-      <description>Auto Talk: Talks automatically with the NPCs Fast Dialog: Speeds up the game with the selected value to make the dialog faster.; Note: Not recommended to use above 5. Skip Dialo...</description>
+      <description>التحدث التلقائي: يتحدث تلقائيًا مع الشخصيات غير القابلة للعب مسرع الحوارات: يسرع اللعبة بالقيمة المحددة لجعل الحوار أسرع.; ملحوظة: لا يُنصح باستخدامه فوق الخمسة&amp;quot;. تخطي الحوار (S...</description>
       <category>Features</category>
       <pubDate>Fri, 22 Dec 2023 11:31:21 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Auto Talk: Talks automatically with the NPCs</h2>
-<h3> Fast Dialog:</h3>
+      <content:encoded><![CDATA[<h2> التحدث التلقائي: يتحدث تلقائيًا مع الشخصيات غير القابلة للعب</h2>
+<h3> مسرع الحوارات:</h3>
 <ul>
-<li>Speeds up the game with the selected value to make the dialog faster.</li>
+<li>يسرع اللعبة بالقيمة المحددة لجعل الحوار أسرع.</li>
 </ul>
 <blockquote>
-<p>Note: Not recommended to use above <code>5</code>.</p>
+<p>ملحوظة: لا يُنصح باستخدامه فوق `الخمسة".</p>
 </blockquote>
-<h3> Skip Dialog (Sponsor):</h3>
+<h3> تخطي الحوار (Sponsor):</h3>
+<p>-تخطي الحوار مع التأخير المحدد. إنه أكثر أمانًا من الحوار السريع.</p>
+<blockquote>
+<p>ملحوظة: لا يُنصح باستخدام أقل من `مائتين مللي ثانية"</p>
+</blockquote>
+<h3> :مشهد سريع</h3>
 <ul>
-<li>Skips the dialog with the selected delay. Its safer than fast dialog.</li>
+<li>يعمل على تسريع اللعبة بالقيمة المحددة لجعل المشهد السينمائي أسرع.</li>
 </ul>
 <blockquote>
-<p>Note: Not recommended to use below <code>200ms</code></p>
+<p>ملحوظة: لا يُنصح باستخدامه فوق "الخمسة".</p>
 </blockquote>
-<h3> Fast Cutscene:</h3>
+<h3> تخطي مشاهد الحديث:</h3>
 <ul>
-<li>Speeds up the game with the selected value to make the cutscene faster.</li>
+<li>تخطي مشهد الحديث إذا تم تشغيله أو استمراره.</li>
 </ul>
 <blockquote>
-<p>Note: Not recommended to use above <code>5</code></p>
+<p>ملاحظة: قد تحصل على شاشة سوداء أثناء استخدامه.</p>
 </blockquote>
-<h3> Skip Talk Scenes:</h3>
+<h3> تخطي المشهدالسينمائي:</h3>
 <ul>
-<li>Skips a talk scene if its triggered or on-going.</li>
+<li>تخطي المشهد السينمائي إذا تم تشغيله أو استمراره.</li>
 </ul>
 <blockquote>
-<p>Note: Might get black screen while using it.</p>
+<p>ملاحظة: قد تحصل على شاشة سوداء أثناء استخدامه.</p>
 </blockquote>
-<h3> Skip Cutscene:</h3>
-<ul>
-<li>Skips a Cutscene if its triggered or on-going.</li>
-</ul>
-<blockquote>
-<p>Note: Might get black screen while using it.</p>
-</blockquote>
-<h2> Example Video:</h2>
+<h2> مثال المقطع:</h2>
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/IS0BvLLO1xc?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - AutoTalk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 ]]></content:encoded>
     </item>
@@ -1579,18 +1571,18 @@ Note 2: Higher the distance higher delay should be used.</p>
       <link>https://korepi.com/ar/features/World/auto-tree-farm.html</link>
       <guid>https://korepi.com/ar/features/World/auto-tree-farm.html</guid>
       <source url="https://korepi.com/ar/rss.xml">Auto Tree Farm</source>
-      <description>Sponsor Only Auto Tree Farm lets you punch nearby trees with the selected value and delay, therefore automatically getting wood from nearby trees. Example Video: Note: Not recom...</description>
+      <description>Sponsor Only تفريم الشجر التلقائي يتيح لك تدمير الأشجار القريبة بالقيمة والتأخير المحددين، وبالتالي الحصول على الخشب تلقائيًا من الأشجار القريبة. فيديو المثال: ملاحظة: لا يوصى ب...</description>
       <category>Features</category>
       <pubDate>Fri, 22 Dec 2023 11:31:21 GMT</pubDate>
       <content:encoded><![CDATA[<div class="hint-container info">
 <p class="hint-container-title">Sponsor Only</p>
 </div>
 <hr>
-<h3> Auto Tree Farm lets you punch nearby trees with the selected value and delay, therefore automatically getting wood from nearby trees.</h3>
-<h2> Example Video:</h2>
+<h3> تفريم الشجر التلقائي يتيح لك تدمير الأشجار القريبة بالقيمة والتأخير المحددين، وبالتالي الحصول على الخشب تلقائيًا من الأشجار القريبة.</h3>
+<h2> فيديو المثال:</h2>
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/v95_NOxc4do?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Tree Farm" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 <blockquote>
-<p>Note: Not recommended to change default values.</p>
+<p>ملاحظة: لا يوصى بتغيير القيم العادية.</p>
 </blockquote>
 ]]></content:encoded>
     </item>
@@ -1599,18 +1591,18 @@ Note 2: Higher the distance higher delay should be used.</p>
       <link>https://korepi.com/ar/features/World/elemental-aura.html</link>
       <guid>https://korepi.com/ar/features/World/elemental-aura.html</guid>
       <source url="https://korepi.com/ar/rss.xml">Elemental Aura</source>
-      <description>Sponsor Only Elemental Aura applies elements with the specified element, range and delay to targets, objects or yourself, multiple elements can be applied to nearby targets. Exa...</description>
+      <description>Sponsor Only هالة عنصرية تطبق هالة ذات العنصر المحدد والمدى والتأخير على الأهداف أو الكائنات أو نفسك، ويمكن تطبيق عناصر متعددة على الأهداف القريبة. فيديو المثال: ملحوظة: أوقات ا...</description>
       <category>Features</category>
       <pubDate>Fri, 22 Dec 2023 11:31:21 GMT</pubDate>
       <content:encoded><![CDATA[<div class="hint-container info">
 <p class="hint-container-title">Sponsor Only</p>
 </div>
 <hr>
-<h3> Elemental Aura applies elements with the specified element, range and delay to  targets, objects or yourself, multiple elements can be applied to nearby targets.</h3>
-<h2> Example Video:</h2>
+<h3> هالة عنصرية تطبق هالة ذات العنصر المحدد والمدى والتأخير على الأهداف أو الكائنات أو نفسك، ويمكن تطبيق عناصر متعددة على الأهداف القريبة.</h3>
+<h2> فيديو المثال:</h2>
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/FskTJiknOgQ?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Elemental Aura (Sponsor)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 <blockquote>
-<p>Note: Low delay times will increase the chance of detection.</p>
+<p>ملحوظة: أوقات التأخير المنخفضة ستزيد من فرصة تعرضك للاكتشاف.</p>
 </blockquote>
 ]]></content:encoded>
     </item>
@@ -1619,14 +1611,14 @@ Note 2: Higher the distance higher delay should be used.</p>
       <link>https://korepi.com/ar/features/World/game-speed.html</link>
       <guid>https://korepi.com/ar/features/World/game-speed.html</guid>
       <source url="https://korepi.com/ar/rss.xml">Game Speed</source>
-      <description>Game Speed. Speedups or slowdowns the game. Unexpected. Note: Not recommended to use outside of menus, or in general. Example Video:</description>
+      <description>سرعة اللعبة. تسريع أو تباطؤ اللعبة. غير متوقع. ملحوظة: لا ينصح باستخدامه خارج القوائم أو بشكل عام. فيديو المثال:</description>
       <category>Features</category>
       <pubDate>Fri, 22 Dec 2023 11:31:21 GMT</pubDate>
-      <content:encoded><![CDATA[<h3> Game Speed. Speedups or slowdowns the game. Unexpected.</h3>
+      <content:encoded><![CDATA[<h3> سرعة اللعبة. تسريع أو تباطؤ اللعبة. غير متوقع.</h3>
 <blockquote>
-<p>Note: Not recommended to use outside of menus, or in general.</p>
+<p>ملحوظة: لا ينصح باستخدامه خارج القوائم أو بشكل عام.</p>
 </blockquote>
-<h2> Example Video:</h2>
+<h2> فيديو المثال:</h2>
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/MzXhudYkaDg?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Game Speed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 ]]></content:encoded>
     </item>
@@ -1635,45 +1627,45 @@ Note 2: Higher the distance higher delay should be used.</p>
       <link>https://korepi.com/ar/features/World/kill-aura.html</link>
       <guid>https://korepi.com/ar/features/World/kill-aura.html</guid>
       <source url="https://korepi.com/ar/rss.xml">Kill Aura</source>
-      <description>This feature has a high risk of ban. Kill Aura: Deals damage to surrounding enemies Crash Damage mode: Deals fall damage to surrounding enemies with the specified value, delay a...</description>
+      <description>هذه الميزة لديها مخاطر عالية للحظر. هالة القتل: يلحق الضرر بالأعداء المحيطين به وضع ضرر التحطم: تتسبب في حدوث ضرر للأعداء المحيطين بالقيمة والتأخير والمدى المحددين.; ملاحظة: لا ...</description>
       <category>Features</category>
       <pubDate>Fri, 22 Dec 2023 11:31:21 GMT</pubDate>
       <content:encoded><![CDATA[<div class="hint-container danger">
-<p class="hint-container-title">This feature has a high risk of ban.</p>
+<p class="hint-container-title">هذه الميزة لديها مخاطر عالية للحظر.</p>
 </div>
 <hr>
-<h2> Kill Aura: Deals damage to surrounding enemies</h2>
-<h3> Crash Damage mode:</h3>
+<h2> هالة القتل: يلحق الضرر بالأعداء المحيطين به</h2>
+<h3> وضع ضرر التحطم:</h3>
 <ul>
-<li>Deals fall damage to surrounding enemies with the specified value, delay and range.</li>
+<li>تتسبب في حدوث ضرر للأعداء المحيطين بالقيمة والتأخير والمدى المحددين.</li>
 </ul>
 <blockquote>
-<p>Note: Not recommended to use very high values.</p>
+<p>ملاحظة: لا يُنصح باستخدام قيم عالية جدًا.</p>
 </blockquote>
-<h3> Percent Mode:</h3>
+<h3> وضع النسبة:</h3>
 <ul>
-<li>Number of hits needed to kill an enemy.</li>
+<li>عدد الضربات اللازمة لقتل العدو.</li>
 </ul>
 <blockquote>
-<p>Note: Recommended to use <code>3</code> or higher values.</p>
+<p>ملاحظة: يوصى باستخدام "ثلاثة" أو قيم أعلى.</p>
 </blockquote>
-<h3> Left HP:</h3>
+<h3> الصحة المتبقية:</h3>
 <ul>
-<li>Whether or not to leave the specified amount of HP to surrounding enemies.</li>
+<li>ما إذا كان سيتم ترك الكمية المحددة من الصحة للأعداء المحيطين أم لا.</li>
 </ul>
-<h3> Instant Death Mode:</h3>
+<h3> وضع الموت الفوري:</h3>
 <ul>
-<li>Will try to make the enemy disappear</li>
+<li>سيحاول أن يجعل العدو يمحى</li>
 </ul>
 <blockquote>
-<p>Note: Might get buggy with some bosses.
-Note 2: Not recommended to use.</p>
+<p>ملاحظة: قد تحصل على قلتشات مع بعض الزعماء.
+الملاحظة الثانية: لا ينصح باستخدامه.</p>
 </blockquote>
-<h3> Only Hostile/Aggro:</h3>
+<h3> معادية/عدائية فقط:</h3>
 <ul>
-<li>Whether or not to target only hostile mobs.</li>
+<li>ما إذا كان سيتم استهداف الأعداء المعادين فقط أم لا.</li>
 </ul>
-<h2> Example Video:</h2>
+<h2> مقطع المثال:</h2>
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/NiAh00VBy-w?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Kill Aura" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 ]]></content:encoded>
     </item>
@@ -1682,14 +1674,15 @@ Note 2: Not recommended to use.</p>
       <link>https://korepi.com/ar/features/World/mob-vacuum.html</link>
       <guid>https://korepi.com/ar/features/World/mob-vacuum.html</guid>
       <source url="https://korepi.com/ar/rss.xml">Mob Vacuum</source>
-      <description>Mob Vacuum move nearby mobs to the player with the selected speed and range, the mobs that will be affected can be customized. Example Video: Note: Recommended below 20m.</description>
+      <description>مختطف العدو يقوم بنقل الأعداء القريبين إلى اللاعب بالسرعة والنطاق المحددين، ويمكن تخصيص الأعداء الذين سيتأثرون. فيديو المثال: ملحوظة: يوصى بأدنى من &amp;quot;عشرين مترًا&amp;quot;.</description>
       <category>Features</category>
       <pubDate>Fri, 22 Dec 2023 11:31:21 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Mob Vacuum move nearby mobs to the player with the selected speed and range, the mobs that will be affected can be customized.</h2>
-<h2> Example Video:</h2>
+      <content:encoded><![CDATA[<h2> مختطف العدو</h2>
+<p>يقوم بنقل الأعداء القريبين إلى اللاعب بالسرعة والنطاق المحددين، ويمكن تخصيص الأعداء الذين سيتأثرون.</p>
+<h2> فيديو المثال:</h2>
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/KNzVgG_V10I?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Mob Vacuum" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 <blockquote>
-<p>Note: Recommended below <code>20m</code>.</p>
+<p>ملحوظة: يوصى بأدنى من "عشرين مترًا".</p>
 </blockquote>
 ]]></content:encoded>
     </item>
@@ -1698,14 +1691,14 @@ Note 2: Not recommended to use.</p>
       <link>https://korepi.com/ar/features/World/vacuum-loot.html</link>
       <guid>https://korepi.com/ar/features/World/vacuum-loot.html</guid>
       <source url="https://korepi.com/ar/rss.xml">Vacuum Loot</source>
-      <description>Vacuum Loot moves nearby drops to the player with the specified range and delay. Example Video: Note: Recommended below 20m.</description>
+      <description>كانس الغنائم يحضر الغنائم الساقطة القريبة الى اللاعب بالنطاق والتأخير المحددين. مقطع المثال: ملحوظة: يوصى بأدنى من &amp;quot;عشرين مترًا&amp;quot;.</description>
       <category>Features</category>
       <pubDate>Fri, 22 Dec 2023 11:31:21 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Vacuum Loot moves nearby drops to the player with the specified range and delay.</h2>
-<h2> Example Video:</h2>
+      <content:encoded><![CDATA[<h2> كانس الغنائم يحضر الغنائم الساقطة القريبة الى اللاعب بالنطاق والتأخير المحددين.</h2>
+<h2> مقطع المثال:</h2>
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/iMElTsNF77c?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Vacuum Loot" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 <blockquote>
-<p>Note: Recommended below <code>20m</code>.</p>
+<p>ملحوظة: يوصى بأدنى من "عشرين مترًا".</p>
 </blockquote>
 ]]></content:encoded>
     </item>
