@@ -6,8 +6,8 @@
     <link>https://korepi.com/pt/</link>
     <description>Ajuda em Korepi</description>
     <language>pt-BR</language>
-    <pubDate>Mon, 01 Jan 2024 08:35:39 GMT</pubDate>
-    <lastBuildDate>Mon, 01 Jan 2024 08:35:39 GMT</lastBuildDate>
+    <pubDate>Mon, 01 Jan 2024 08:35:53 GMT</pubDate>
+    <lastBuildDate>Mon, 01 Jan 2024 08:35:53 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Guide</category>
@@ -267,10 +267,10 @@
 ]]></content:encoded>
     </item>
     <item>
-      <title>Movimiento Extra</title>
+      <title>Movimento Extra</title>
       <link>https://korepi.com/pt/features/Player/extra-movements.html</link>
       <guid>https://korepi.com/pt/features/Player/extra-movements.html</guid>
-      <source url="https://korepi.com/pt/rss.xml">Movimiento Extra</source>
+      <source url="https://korepi.com/pt/rss.xml">Movimento Extra</source>
       <description>Somente para Patrocinador Movimiento Extra: Troca/Melhora algumas ações do jogo Correr sobre a Água: Ativa a habilidade de caminhar sobre a água.; Impulso ao Correr: Aumenta a v...</description>
       <category>Funções</category>
       <pubDate>Mon, 18 Dec 2023 04:22:05 GMT</pubDate>
