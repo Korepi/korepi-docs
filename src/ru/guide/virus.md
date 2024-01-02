@@ -9,7 +9,7 @@ author: Schvis
 order: 7
 ---
 
-::: info Other antivirus will have similar steps, adapt depending on the antivirus you are using.
+::: info У других анти-вирусов будут похожие шаги, адаптируйте их под антивирус, который вы используете.
 :::
 ---
 ## Как добавить Korepi в исключения антивируса (Windows Defender)
