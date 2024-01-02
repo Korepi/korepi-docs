@@ -6,8 +6,8 @@
     <link>https://korepi.com/ru/</link>
     <description>Помощь по Korepi</description>
     <language>ru-RU</language>
-    <pubDate>Mon, 01 Jan 2024 19:45:04 GMT</pubDate>
-    <lastBuildDate>Mon, 01 Jan 2024 19:45:04 GMT</lastBuildDate>
+    <pubDate>Tue, 02 Jan 2024 18:24:11 GMT</pubDate>
+    <lastBuildDate>Tue, 02 Jan 2024 18:24:11 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Guide</category>
@@ -22,11 +22,11 @@
       <link>https://korepi.com/ru/guide/virus.html</link>
       <guid>https://korepi.com/ru/guide/virus.html</guid>
       <source url="https://korepi.com/ru/rss.xml">Как добавить в исключения</source>
-      <description>Other antivirus will have similar steps, adapt depending on the antivirus you are using. Как добавить Korepi в исключения антивируса (Windows Defender) Шаг 1: Откройте антивирус...</description>
+      <description>У других анти-вирусов будут похожие шаги, адаптируйте их под антивирус, который вы используете. Как добавить Korepi в исключения антивируса (Windows Defender) Шаг 1: Откройте ан...</description>
       <category>Guide</category>
       <pubDate>Sat, 23 Dec 2023 17:10:07 GMT</pubDate>
       <content:encoded><![CDATA[<div class="hint-container info">
-<p class="hint-container-title">Other antivirus will have similar steps, adapt depending on the antivirus you are using.</p>
+<p class="hint-container-title">У других анти-вирусов будут похожие шаги, адаптируйте их под антивирус, который вы используете.</p>
 </div>
 <hr>
 <h2> Как добавить Korepi в исключения антивируса (Windows Defender)</h2>
