@@ -6,8 +6,8 @@
     <link>https://korepi.com/ar/</link>
     <description>للمساعدة Korepi</description>
     <language>ar</language>
-    <pubDate>Wed, 03 Jan 2024 09:59:39 GMT</pubDate>
-    <lastBuildDate>Wed, 03 Jan 2024 09:59:39 GMT</lastBuildDate>
+    <pubDate>Wed, 03 Jan 2024 11:31:56 GMT</pubDate>
+    <lastBuildDate>Wed, 03 Jan 2024 11:31:56 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Guide</category>
@@ -163,35 +163,35 @@
       <enclosure url="https://korepi.com/assets/images/docs/202312/teleport1.png" type="image/png"/>
     </item>
     <item>
-      <title>How to get key</title>
+      <title>كيفية الحصول على المفتاح</title>
       <link>https://korepi.com/ar/guide/getkey.html</link>
       <guid>https://korepi.com/ar/guide/getkey.html</guid>
-      <source url="https://korepi.com/ar/rss.xml">How to get key</source>
-      <description>How to get key for Network(F) Step 1: Get F Auth role Head to ★⋅korepi-version-roles⋅★ on the server and click on F Auth to get the role. Note: Check if you got the role, if you...</description>
+      <source url="https://korepi.com/ar/rss.xml">كيفية الحصول على المفتاح</source>
+      <description>كيفية الحصول على مفتاح لنسخة Network(F) الخطوة 1: احصل على روول F Auth توجه الى قنات ★⋅korepi-version-roles⋅★ في السيرفر وانقر على F Auth للحصول على الروول. ملاحظة: تحقق مما إذا...</description>
       <category>Guide</category>
       <pubDate>Fri, 22 Dec 2023 11:31:21 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> How to get key for Network(F)</h2>
+      <content:encoded><![CDATA[<h2> كيفية الحصول على مفتاح لنسخة Network(F)</h2>
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/-9bXOMH0-WM" title="Korepi - How to get V key" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
-<h3> Step 1: Get F Auth role</h3>
-<p>Head to <code>★⋅korepi-version-roles⋅★</code> on the server and click on <code>F Auth</code> to get the role.</p>
-<p><code>Note: Check if you got the role, if you didn't click on F Auth again</code></p>
-<h3> Step 2: Get your key</h3>
-<p>Head to <code>⁠★⋅micah-bot-verify⋅★</code> and click on <code>F:Getkey</code>, the bot will reply with some information including the key, copy it.</p>
-<h3> Step 3: Use your key</h3>
-<p>Open Korepi, when it asks for your key, paste it and press enter, complete the steps mentioned by the injector and you should be good to go.</p>
-<p>Enjoy Koprepi!</p>
-<h2> How to get key for Local(V)</h2>
+<h3> الخطوة 1: احصل على روول F Auth</h3>
+<p>توجه الى قنات <code>★⋅korepi-version-roles⋅★</code> في السيرفر وانقر على <code>F Auth</code> للحصول على الروول.</p>
+<p><code>ملاحظة: تحقق مما إذا كنت قد حصلت على الروول, ادا لم تحصل عليه. انقر مرة اخرى على F Auth</code></p>
+<h3> الخطوة 2: احصل على مفتاحك</h3>
+<p>توجه الى قنات <code>⁠★⋅micah-bot-verify⋅★</code> وانقر على <code>F:Getkey</code>, سوف يقوم البوت بالرد ببعض المعلومات بما في ذلك المفتاح، قم بنسخه.</p>
+<h3> الخطوة 3: استخدم مفتاحك</h3>
+<p>افتح Korepi، عندما يطلب منك المفتاح، قم بلصقه ثم اضغط على زر الإدخال، وأكمل الخطوات المذكورة بواسطة الحاقن وستكون جاهزًا للبدء.</p>
+<p>استمتع بKorepi!</p>
+<h2> كيفية الحصول على مفتاح لنسخة Local(V)</h2>
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/OTCSboZdexc" title="Korepi - How to get V key" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
-<h3> Step 1: Get V Auth role</h3>
-<p>Head to <code>★⋅korepi-version-roles⋅★</code> on the server and click on <code>V Auth</code> to get the role.</p>
-<p><code>Note: Check if you got the role, if you didn't click on V Auth again</code></p>
-<h3> Step 2: Get your <code>HWID</code></h3>
-<p>To get your <code>HWID</code> you will need to open <code>Local(V) Injector</code> once, and it will copy it to your clipboard</p>
-<h3> Step 3: Get your <code>enc.json</code></h3>
-<p>Head to <code>⁠★⋅micah-bot-verify⋅★</code> and click on <code>V:Verify</code>, a pop up will ask you for your <code>HWID</code> paste and click <code>Submit</code>, and download the file sent by the bot</p>
-<h3> Step 4: Place your file with Korepi</h3>
-<p>After getting the file, place it on your Korepi folder, keep in mind that the file should be name <code>enc.json</code> in order to work, open Korepi and then:</p>
-<p>Enjoy Korepi!</p>
+<h3> الخطوة 1: احصل على روول V Auth</h3>
+<p>توجه الى قنات <code>★⋅korepi-version-roles⋅★</code> في السيرفر وانقر على <code>V Auth</code> للحصول على الروول.</p>
+<p><code>ملاحظة: تحقق مما إذا كنت قد حصلت على الروول, ادا لم تحصل عليه. انقر مرة اخرى على V Auth</code></p>
+<h3> الخطوة 2: احصل على <code>HWID</code></h3>
+<p>للحصول على <code>HWID</code> الخاص بك سوف تحتاج إلى فتح <code>Local(V) Injector</code> مرة واحدة، وسيتم نسخه إلى الحافظة الخاصة بك</p>
+<h3> الخطوة 3: احصل على <code>enc.json</code> الخاص بك</h3>
+<p>توجه الى قنات <code>⁠★⋅micah-bot-verify⋅★</code> وانقر على <code>V:Verify</code>, ستطلب منك نافذة منبثقة لصق <code>HWID</code> الخاص بك، ثم النقر فوق <code>Submit</code>، وتنزيل الملف الذي أرسله البوت</p>
+<h3> الخطوة 4: ضع ملفك مع Korepi</h3>
+<p>بعد الحصول على الملف، ضعه في مجلد Korepi الخاص بك، وتذكر أن الملف يجب أن يكون اسمه <code>enc.json</code> لكي يعمل، افتح Korepi ثم:</p>
+<p>استمتع بKorepi!</p>
 ]]></content:encoded>
     </item>
     <item>
@@ -253,7 +253,6 @@
       <link>https://korepi.com/ar/start/</link>
       <guid>https://korepi.com/ar/start/</guid>
       <source url="https://korepi.com/ar/rss.xml">فهرس</source>
-      <description>)</description>
       <category>Guide</category>
       <pubDate>Fri, 22 Dec 2023 11:31:21 GMT</pubDate>
     </item>
@@ -371,10 +370,10 @@
       <link>https://korepi.com/ar/start/sponsor.html</link>
       <guid>https://korepi.com/ar/start/sponsor.html</guid>
       <source url="https://korepi.com/ar/rss.xml">اصبح داعم</source>
-      <description>كيف تصبح داعم? لكي تصبح داعما، يتعين عليك التبرع بما لا يقل عن 5 دولارات أو ما يعادلها إذا كنت تستخدم عملة أخرى. أين التبرع؟ بمجرد دخولك إلى الخادم، يرجى الانتقال إلى قناة #spon...</description>
+      <description>كيف تصبح Sponsor? لكي تصبح داعما، يتعين عليك التبرع بما لا يقل عن 5 دولارات أو ما يعادلها إذا كنت تستخدم عملة أخرى. أين التبرع؟ بمجرد دخولك إلى الخادم، يرجى الانتقال إلى قناة #s...</description>
       <category>Guide</category>
       <pubDate>Fri, 22 Dec 2023 11:31:21 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> كيف تصبح <span style="color:yellow;">داعم</span>?</h2>
+      <content:encoded><![CDATA[<h2> كيف تصبح <span style="color:yellow;">Sponsor</span>?</h2>
 <p>لكي تصبح داعما، يتعين عليك التبرع بما لا يقل عن 5 دولارات أو ما يعادلها إذا كنت تستخدم عملة أخرى.</p>
 <h2> أين التبرع؟</h2>
 <p>بمجرد دخولك إلى الخادم، يرجى الانتقال إلى قناة <a href="https://discord.com/channels/1069057220802781265/1097565269985071205" target="_blank" rel="noopener noreferrer">#sponsorship</a> . اختر أحد الروابط التي تفضل التبرع بها. يرجى التأكد من التقاط لقطة شاشة للعملية كدليل على الخطوة التالية.</p>
@@ -1627,7 +1626,7 @@
       <link>https://korepi.com/ar/features/World/kill-aura.html</link>
       <guid>https://korepi.com/ar/features/World/kill-aura.html</guid>
       <source url="https://korepi.com/ar/rss.xml">Kill Aura</source>
-      <description>هذه الميزة لديها مخاطر عالية للحظر. هالة القتل: يلحق الضرر بالأعداء المحيطين به وضع ضرر التحطم: تتسبب في حدوث ضرر للأعداء المحيطين بالقيمة والتأخير والمدى المحددين.; ملاحظة: لا ...</description>
+      <description>هذه الميزة لديها مخاطر عالية للحظر. هالة القتل: يلحق الضرر بالأعداء المحيطين به Crash Damage mode: تتسبب في حدوث ضرر للأعداء المحيطين بالقيمة والتأخير والمدى المحددين.; ملاحظة: ...</description>
       <category>Features</category>
       <pubDate>Fri, 22 Dec 2023 11:31:21 GMT</pubDate>
       <content:encoded><![CDATA[<div class="hint-container danger">
@@ -1635,33 +1634,35 @@
 </div>
 <hr>
 <h2> هالة القتل: يلحق الضرر بالأعداء المحيطين به</h2>
-<h3> وضع ضرر التحطم:</h3>
+<h3> Crash Damage mode:</h3>
 <ul>
 <li>تتسبب في حدوث ضرر للأعداء المحيطين بالقيمة والتأخير والمدى المحددين.</li>
 </ul>
 <blockquote>
 <p>ملاحظة: لا يُنصح باستخدام قيم عالية جدًا.</p>
 </blockquote>
-<h3> وضع النسبة:</h3>
+<h3> Percent Mode:</h3>
 <ul>
 <li>عدد الضربات اللازمة لقتل العدو.</li>
 </ul>
 <blockquote>
 <p>ملاحظة: يوصى باستخدام "ثلاثة" أو قيم أعلى.</p>
 </blockquote>
-<h3> الصحة المتبقية:</h3>
+<h3> Left HP:</h3>
 <ul>
 <li>ما إذا كان سيتم ترك الكمية المحددة من الصحة للأعداء المحيطين أم لا.</li>
 </ul>
-<h3> وضع الموت الفوري:</h3>
+<h3> Instant Death Mode:</h3>
 <ul>
 <li>سيحاول أن يجعل العدو يمحى</li>
 </ul>
 <blockquote>
-<p>ملاحظة: قد تحصل على قلتشات مع بعض الزعماء.
-الملاحظة الثانية: لا ينصح باستخدامه.</p>
+<p>ملاحظة: قد تحصل على قلتشات مع بعض الزعماء.</p>
 </blockquote>
-<h3> معادية/عدائية فقط:</h3>
+<blockquote>
+<p>الملاحظة الثانية: لا ينصح باستخدامه.</p>
+</blockquote>
+<h3> Only Hostile/Aggro:</h3>
 <ul>
 <li>ما إذا كان سيتم استهداف الأعداء المعادين فقط أم لا.</li>
 </ul>
