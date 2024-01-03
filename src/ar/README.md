@@ -8,7 +8,7 @@ bgImageDark: https://theme-hope-assets.vuejs.press/bg/6-dark.svg
 bgImageStyle:
  background-attachment: fixed
 heroText: Korepi
-tagline: (Korepi) توفير جودة-عالية وسهلة الاستخدام ادوات كوريبي!
+tagline: توفير جودة-عالية وسهلة الاستخدام ادوات كوريبي!
 actions:
 - text: تحميل
   icon: download
@@ -115,7 +115,7 @@ highlights:
       details: تم إصلاح التفاعل مع التماثيل الاركونز
 
 - header: إيجابياتنا
-  description: اكتشف البعضًا منا! 
+  description: اكتشف بعضًا من منتجاتنا! 
   image: /assets/images/web/blog.svg
   bgImage: https://theme-hope-assets.vuejs.press/bg/5-light.svg
   bgImageDark: https://theme-hope-assets.vuejs.press/bg/5-dark.svg
