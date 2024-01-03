@@ -1,5 +1,5 @@
 ---
-title: How to get key
+title: كيفية الحصول على المفتاح
 icon: key
 category:
   - Guide
@@ -10,46 +10,46 @@ author: Schvis
 order: 1
 ---
 
-## How to get key for Network(F)
+## كيفية الحصول على مفتاح لنسخة Network(F)
 
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/-9bXOMH0-WM" title="Korepi - How to get V key" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
 
-### Step 1: Get F Auth role
+### الخطوة 1: احصل على روول F Auth
 
-Head to `★⋅korepi-version-roles⋅★` on the server and click on `F Auth` to get the role.
+توجه الى قنات `★⋅korepi-version-roles⋅★` في السيرفر وانقر على `F Auth` للحصول على الروول.
 
-`Note: Check if you got the role, if you didn't click on F Auth again`
+`ملاحظة: تحقق مما إذا كنت قد حصلت على الروول, ادا لم تحصل عليه. انقر مرة اخرى على F Auth`
 
-### Step 2: Get your key
+### الخطوة 2: احصل على مفتاحك
 
-Head to `⁠★⋅micah-bot-verify⋅★` and click on `F:Getkey`, the bot will reply with some information including the key, copy it.
+توجه الى قنات `⁠★⋅micah-bot-verify⋅★` وانقر على `F:Getkey`, سوف يقوم البوت بالرد ببعض المعلومات بما في ذلك المفتاح، قم بنسخه.
 
-### Step 3: Use your key
+### الخطوة 3: استخدم مفتاحك
 
-Open Korepi, when it asks for your key, paste it and press enter, complete the steps mentioned by the injector and you should be good to go.
+افتح Korepi، عندما يطلب منك المفتاح، قم بلصقه ثم اضغط على زر الإدخال، وأكمل الخطوات المذكورة بواسطة الحاقن وستكون جاهزًا للبدء.
 
-Enjoy Koprepi!
+استمتع بKorepi!
 
-## How to get key for Local(V)
+## كيفية الحصول على مفتاح لنسخة Local(V)
 
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/OTCSboZdexc" title="Korepi - How to get V key" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
 
-### Step 1: Get V Auth role
+### الخطوة 1: احصل على روول V Auth
 
-Head to `★⋅korepi-version-roles⋅★` on the server and click on `V Auth` to get the role.
+توجه الى قنات `★⋅korepi-version-roles⋅★` في السيرفر وانقر على `V Auth` للحصول على الروول.
 
-`Note: Check if you got the role, if you didn't click on V Auth again`
+`ملاحظة: تحقق مما إذا كنت قد حصلت على الروول, ادا لم تحصل عليه. انقر مرة اخرى على V Auth`
 
-### Step 2: Get your `HWID`
+### الخطوة 2: احصل على `HWID`
 
-To get your `HWID` you will need to open `Local(V) Injector` once, and it will copy it to your clipboard
+للحصول على `HWID` الخاص بك سوف تحتاج إلى فتح `Local(V) Injector` مرة واحدة، وسيتم نسخه إلى الحافظة الخاصة بك
 
-### Step 3: Get your `enc.json`
+### الخطوة 3: احصل على `enc.json` الخاص بك
 
-Head to `⁠★⋅micah-bot-verify⋅★` and click on `V:Verify`, a pop up will ask you for your `HWID` paste and click `Submit`, and download the file sent by the bot
+توجه الى قنات `⁠★⋅micah-bot-verify⋅★` وانقر على `V:Verify`, ستطلب منك نافذة منبثقة لصق `HWID` الخاص بك، ثم النقر فوق `Submit`، وتنزيل الملف الذي أرسله البوت
 
-### Step 4: Place your file with Korepi
+### الخطوة 4: ضع ملفك مع Korepi
 
-After getting the file, place it on your Korepi folder, keep in mind that the file should be name `enc.json` in order to work, open Korepi and then:
+بعد الحصول على الملف، ضعه في مجلد Korepi الخاص بك، وتذكر أن الملف يجب أن يكون اسمه `enc.json` لكي يعمل، افتح Korepi ثم:
 
-Enjoy Korepi!
+استمتع بKorepi!
