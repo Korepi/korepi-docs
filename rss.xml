@@ -1,14 +1,1687 @@
 <?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="https://korepi.com/rss.xsl"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <atom:link href="https://korepi.com/rss.xml" rel="self" type="application/rss+xml"/>
     <title></title>
     <link>https://korepi.com/</link>
     <description></description>
     <language>en-US</language>
-    <pubDate>Tue, 02 Jan 2024 18:24:21 GMT</pubDate>
-    <lastBuildDate>Tue, 02 Jan 2024 18:24:21 GMT</lastBuildDate>
+    <pubDate>Wed, 03 Jan 2024 09:59:39 GMT</pubDate>
+    <lastBuildDate>Wed, 03 Jan 2024 09:59:39 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+    <category>特徴</category>
+    <category>ガイド</category>
+    <category>トラブルシューティング</category>
+    <category>FAQ</category>
+    <item>
+      <title>機能一覧</title>
+      <link>https://korepi.com/jp/features/</link>
+      <guid>https://korepi.com/jp/features/</guid>
+      <source url="https://korepi.com/rss.xml">機能一覧</source>
+      <category>特徴</category>
+      <pubDate>Wed, 03 Jan 2024 06:45:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>ESP</title>
+      <link>https://korepi.com/jp/features/esp.html</link>
+      <guid>https://korepi.com/jp/features/esp.html</guid>
+      <source url="https://korepi.com/rss.xml">ESP</source>
+      <description>ESPは、カスタマイズ可能な視覚効果で、フィルターから他のオブジェクトを通して選択したオブジェクトを追跡し、表示することができます。 注：範囲、オブジェクト、ビジュアルはすべてカスタマイズ可能です。 ビデオ もうすぐ...</description>
+      <category>特徴</category>
+      <pubDate>Wed, 03 Jan 2024 06:45:45 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> ESPは、カスタマイズ可能な視覚効果で、フィルターから他のオブジェクトを通して選択したオブジェクトを追跡し、表示することができます。</h2>
+<blockquote>
+<p>注：範囲、オブジェクト、ビジュアルはすべてカスタマイズ可能です。</p>
+</blockquote>
+<h2> ビデオ</h2>
+<h3> もうすぐ...</h3>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>スキンのインストール</title>
+      <link>https://korepi.com/jp/guide/3DM-skin.html</link>
+      <guid>https://korepi.com/jp/guide/3DM-skin.html</guid>
+      <source url="https://korepi.com/rss.xml">スキンのインストール</source>
+      <description>GIMI にカスタムスキンをインストールする方法 ステップ 1: スキンをダウンロードする Gamebanana (https://gamebanana.com/games/8552) を開き、お好みのスキンをダウンロードしてください。 ステップ 2: スキンをインストールする GIMIフォルダに移動してModsフォルダを探し、その中に先ほどダウンロー...</description>
+      <category>ガイド</category>
+      <pubDate>Wed, 03 Jan 2024 06:45:45 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> <code>GIMI</code> にカスタムスキンをインストールする方法</h2>
+<h3> ステップ 1: スキンをダウンロードする</h3>
+<p><a href="https://gamebanana.com/games/8552" target="_blank" rel="noopener noreferrer">Gamebanana</a> を開き、お好みのスキンをダウンロードしてください。</p>
+<h3> ステップ 2: スキンをインストールする</h3>
+<p><code>GIMI</code>フォルダに移動して<code>Mods</code>フォルダを探し、その中に先ほどダウンロードしたファイルを解凍します。</p>
+<h3> ステップ 3: スキンを適用する</h3>
+<p>すでにゲーム内にいる場合は<code>F10</code>でスキンをリロードし、そうでない場合は前回の投稿に従ってゲームを開き、スキンが適用されるはずだ。</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>カスタムスキンの使用方法</title>
+      <link>https://korepi.com/jp/guide/3DM-tutorial.html</link>
+      <guid>https://korepi.com/jp/guide/3DM-tutorial.html</guid>
+      <source url="https://korepi.com/rss.xml">カスタムスキンの使用方法</source>
+      <description>もしGIMIがコマンドで echo off と表示したら、 Numpad 0を押せば削除できる。また、d3dx.ini を編集して hunting= を検索し、0に設定することもできる。 Korepiでカスタムスキンを使用する方法 カスタム スキンを使用するには、以下をダウンロードする必要があります。 3DMigoto(GIMI). 方法 1 ステップ...</description>
+      <category>ガイド</category>
+      <pubDate>Wed, 03 Jan 2024 06:45:45 GMT</pubDate>
+      <content:encoded><![CDATA[<div class="hint-container info">
+<p class="hint-container-title">もしGIMIがコマンドで `echo off` と表示したら、 `Numpad 0`を押せば削除できる。また、`d3dx.ini` を編集して `hunting=` を検索し、`0`に設定することもできる。</p>
+</div>
+<hr>
+<h2> Korepiでカスタムスキンを使用する方法</h2>
+<p><img src="/assets/images/docs/202312/example.png" alt="" loading="lazy">
+カスタム スキンを使用するには、以下をダウンロードする必要があります。</p>
+<p><code>3DMigoto(GIMI)</code>.</p>
+<h2> <span style="color:blue;">方法 1</span></h2>
+<h3> ステップ 1:  <code>GIMI</code>をダウンロード</h3>
+<p><code>GIMI</code>公式 <a href="https://github.com/SilentNightSound/GI-Model-Importer/releases/tag/v7.0" target="_blank" rel="noopener noreferrer">Github</a> で次の名前のファイルをダウンロードします: <code>3dmigoto-GIMI-for-playing-mods.zip</code>。</p>
+<p><img src="/assets/images/docs/202312/3dm-1.png" alt="" loading="lazy"></p>
+<h3> ステップ2：<code>GIMI</code>をフォルダに展開する</h3>
+<p><code>GIMI</code>をダウンロードしたら、それをお好きなフォルダに解凍し、そのフォルダの中に <code>d3d11.dll</code>があるので、そのパスをコピーし、最後に<code>/d3d11.dll</code> を追加します。例：</p>
+<p><code>"path/d3d11.dll"</code></p>
+<h3> ステップ3：Korepiに<code>GIMI</code>を追加する</h3>
+<p>そのためには、korepiフォルダ内の<code>cfg.ini</code>に次の行を追加する必要があります。</p>
+<p><img src="/assets/images/docs/202312/3dm-2.png" alt="" loading="lazy"></p>
+<p><code>DllPath</code> には、最後のステップでコピーしたパスを貼り付ける。</p>
+<p><img src="/assets/images/docs/202312/3dm-3.png" alt="" loading="lazy"></p>
+<h3> ステップ 4: Korepiを開く</h3>
+<p>正しい手順を踏んでいれば、コレピは毎回<code>GIMI</code> 起動するはずだ。</p>
+<h2> <span style="color:blue;">方法 2</span></h2>
+<h3> ステップ 1:  <code>GIMI</code>をダウンロード</h3>
+<p><code>GIMI</code>公式 <a href="https://github.com/SilentNightSound/GI-Model-Importer/releases/tag/v7.0" target="_blank" rel="noopener noreferrer">Github</a> で次の名前のファイルをダウンロードします: <code>3dmigoto-GIMI-for-playing-mods.zip</code></p>
+<p><img src="/assets/images/docs/202312/3dm-1.png" alt="" loading="lazy"></p>
+<h3> ステップ2：<code>GIMI</code>をフォルダに展開する</h3>
+<p><code>GIMI</code>をダウンロードしたら、お好きなフォルダに解凍してください。そのフォルダの中に<code>3DMigoto Loader.exe</code>がありますので、まずこのファイルを実行してください。</p>
+<h3> ステップ 4: Korepiを開く</h3>
+<p><code>GIMI</code>を起動した後、Korepiを起動します。この後、<code>GIMI</code>はKorepiと共にロードされますので、<code>GIMI</code>と共にKorepiを起動したい場合は、毎回この手順を繰り返す必要があります。</p>
+]]></content:encoded>
+      <enclosure url="https://korepi.com/assets/images/docs/202312/example.png" type="image/png"/>
+    </item>
+    <item>
+      <title>ガイド</title>
+      <link>https://korepi.com/jp/guide/</link>
+      <guid>https://korepi.com/jp/guide/</guid>
+      <source url="https://korepi.com/rss.xml">ガイド</source>
+      <category>ガイド</category>
+      <pubDate>Wed, 03 Jan 2024 06:45:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>カスタムTPの使い方</title>
+      <link>https://korepi.com/jp/guide/custom-tp-setting.html</link>
+      <guid>https://korepi.com/jp/guide/custom-tp-setting.html</guid>
+      <source url="https://korepi.com/rss.xml">カスタムTPの使い方</source>
+      <description>カスタムTPの使い方 ステップ 1: 使用する設定 以下の設定を使用します。 推奨される遅延時間は 15 秒以上です。 ステップ 2: jsonカスタム tp のファイルをダウンロードする これらのファイルは、サーバー内のコミュニティ共有のピン留めポストにあります。必要なものをダウンロードしてください。 ステップ 3: tp ファイルを選択する カスタ...</description>
+      <category>ガイド</category>
+      <pubDate>Wed, 03 Jan 2024 06:45:45 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> カスタムTPの使い方</h2>
+<h3> ステップ 1: 使用する設定</h3>
+<p>以下の設定を使用します。</p>
+<p><img src="/assets/images/docs/202312/teleport1.png" alt="" loading="lazy"></p>
+<p>推奨される遅延時間は 15 秒以上です。</p>
+<h3> ステップ 2: <code>jsonカスタム</code> tp のファイルをダウンロードする</h3>
+<p>これらのファイルは、サーバー内のコミュニティ共有のピン留めポストにあります。必要なものをダウンロードしてください。</p>
+<h3> ステップ 3: tp ファイルを選択する</h3>
+<p>カスタム tp 設定に進み、このセクションに進みます。</p>
+<p><img src="/assets/images/docs/202312/teleport2.png" alt="" loading="lazy"></p>
+<p>[パスの選択] をクリックし、使用する tp ファイルが含まれるフォルダーを選択します</p>
+<h3> ステップ4：TPSの起動方法</h3>
+<p>フォルダーを選択した後、次のチェックボックスをオンにします。</p>
+<p><img src="/assets/images/docs/202312/teleport3.png" alt="" loading="lazy"></p>
+<p>その後 <code>Select</code>　をクリックします。</p>
+<p><img src="/assets/images/docs/202312/teleport4.png" alt="" loading="lazy"></p>
+<h3> ステップ5：ドライブを楽しむ</h3>
+<p>TP は自動的に開始され、 <a href="/jp/start/sponsor.html" target="blank">スポンサー</a>を獲得している場合は、進行状況と残り時間を確認できます。</p>
+]]></content:encoded>
+      <enclosure url="https://korepi.com/assets/images/docs/202312/teleport1.png" type="image/png"/>
+    </item>
+    <item>
+      <title>キーの入手方法</title>
+      <link>https://korepi.com/jp/guide/getkey.html</link>
+      <guid>https://korepi.com/jp/guide/getkey.html</guid>
+      <source url="https://korepi.com/rss.xml">キーの入手方法</source>
+      <description>ネットワーク(F)版のキー取得方法 ステップ 1: F 認証ロールを取得する ★⋅korepi-version-roles⋅★ チャンネルに移動し、 F Auth をクリックして、ロールを取得します。 Note: ロールを取得したかどうかを確認し、取得していない場合は、もう一度F Authをクリックします。 ステップ 2: キーを取得する ⁠★⋅mic...</description>
+      <category>ガイド</category>
+      <pubDate>Wed, 03 Jan 2024 06:45:45 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> ネットワーク(F)版のキー取得方法</h2>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/-9bXOMH0-WM" title="Korepi - How to get V key" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+<h3> ステップ 1: F 認証ロールを取得する</h3>
+<p><code>★⋅korepi-version-roles⋅★</code> チャンネルに移動し、 <code>F Auth</code> をクリックして、ロールを取得します。</p>
+<p><code>Note: ロールを取得したかどうかを確認し、取得していない場合は、もう一度F Authをクリックします。</code></p>
+<h3> ステップ 2: キーを取得する</h3>
+<p><code>⁠★⋅micah-bot-verify⋅★</code> へ進み <code>F:Getkey</code>をクリックすると、botはキーを含む情報を送信しますので、それをコピーします。</p>
+<h3> ステップ 3: キーを使用する</h3>
+<p>Korepi を開き、キーの入力を求められたら、キーを貼り付けて Enter キーを押し、インジェクターによって示された手順を完了すれば準備完了です。</p>
+<p>Koprepiを楽しんで!</p>
+<h2> ローカル(V)版のキー取得方法</h2>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/OTCSboZdexc" title="Korepi - How to get V key" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+<h3> ステップ 1: V 認証ロールを取得する</h3>
+<p><code>★⋅korepi-version-roles⋅★</code> チャンネルに移動し、 <code>V Auth</code> をクリックして、ロールを取得します。</p>
+<p><code>Note: ロールを取得したかどうかを確認し、取得していない場合は再度V Authをクリックします。</code></p>
+<h3> ステップ 2:  <code>HWID</code>を入手します。</h3>
+<p><code>HWID</code>を取得するには、<code>Local(V) Injector</code>を一度開き、クリップボードにコピーする必要があります。</p>
+<h3> ステップ 3:  <code>enc.json</code>を入手する</h3>
+<p><code>⁠★⋅micah-bot-verify⋅★</code> へ進み <code>V:Verify</code>をクリックするとあなたの<code>HWID</code>を聞いてくるのでペーストし <code>Submit</code>をクリックして、botから送られてきたファイルをダウンロードする。</p>
+<h3> ステップ 4: Korepiファイルに置く</h3>
+<p><code>enc.json</code> ファイルを取得したら、それをKorepiフォルダーに置きます。ファイル名はenc.jsonでなければならないことに注意して、Korepiを開いてください：</p>
+<p>Korepiを楽しんで!</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>マルチインスタンスの方法</title>
+      <link>https://korepi.com/jp/guide/multi-instance.html</link>
+      <guid>https://korepi.com/jp/guide/multi-instance.html</guid>
+      <source url="https://korepi.com/rss.xml">マルチインスタンスの方法</source>
+      <description>マルチインスタンスのやり方（2つのゲームウィンドウを同時に開く） Local(V)バージョンでのみ動作します</description>
+      <category>ガイド</category>
+      <pubDate>Wed, 03 Jan 2024 06:45:45 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> マルチインスタンスのやり方（2つのゲームウィンドウを同時に開く）</h2>
+<div class="hint-container info">
+<p class="hint-container-title">Local(V)バージョンでのみ動作します</p>
+</div>
+<hr>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/pSAxKoneT64" title="Multi-Instance V (Updated)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>HWIDをリセットする方法</title>
+      <link>https://korepi.com/jp/guide/resethwid.html</link>
+      <guid>https://korepi.com/jp/guide/resethwid.html</guid>
+      <source url="https://korepi.com/rss.xml">HWIDをリセットする方法</source>
+      <description>HWIDリセット：ネットワーク(F)版 ステップ 1: Korepi ログインページに入る Korepiログインページ (https://keyauth.cc/panel/Strigger/Korepi) へお進みください。警告: まだ何もしないでください。 ステップ 2: キーを取得する license.json からキーを取得するか、 ★⋅mica...</description>
+      <category>ガイド</category>
+      <pubDate>Wed, 03 Jan 2024 06:45:45 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> HWIDリセット：ネットワーク(F)版</h2>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/DRSEmYsl4F4" title="how to change hwid for F" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+<h3> ステップ 1: Korepi ログインページに入る</h3>
+<p><a href="https://keyauth.cc/panel/Strigger/Korepi" target="_blank" rel="noopener noreferrer">Korepiログインページ</a>
+へお進みください。警告: まだ何もしないでください。</p>
+<h3> ステップ 2: キーを取得する</h3>
+<p><code>license.json</code> からキーを取得するか、 <code>★⋅micah-bot-verify⋅★</code> にアクセスし、 <code>F: Getkey</code> をクリックして現在のキーを取得してください。</p>
+<h3> ステップ 3: Korepi にログインする</h3>
+<p>キーを取得したら、 <a href="https://keyauth.cc/panel/Strigger/Korepi" target="_blank" rel="noopener noreferrer">Korepi ログインページ</a>にアクセスし、両方の欄にキーを貼り付け「ログイン」をクリックしそのあと<code>Reset HWID</code>をクリックします。</p>
+<h3> ステップ 4: インジェクターを開く</h3>
+<p>HWID をリセットした後、インジェクターに移動し、キーをもう一度貼り付けます。</p>
+<p>コレピをまた楽しんでください！</p>
+<h2> HWID リセット: ネットワーク(F)版 (スポンサー)</h2>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/WCuRAyqWMHg" title="Reset HWID F version (Sponsor)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+<h3> ステップ 1: <code>★⋅micah-bot-verify⋅★</code> チャンネルへ向かう</h3>
+<p><code>★⋅micah-bot-verify⋅★</code> チャンネルにアクセスし、 <code>F:Reset Key</code>, をクリックし、 <code>F:Getkey</code> をクリックして新しいキーを取得してください。</p>
+<h3> ステップ2：古いキーを交換する</h3>
+<p>korepi フォルダーに移動して <code>license.json</code>を削除し、その後 Korepi を開いて、取得した新しいキーを貼り付けます。</p>
+<p>コレピを楽しんでください！</p>
+<h2> HWIDリセット: ローカル(V)版 (スポンサー)</h2>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/q0G9UZHErrg?list=PL5eI1Tb64p56Mp6JqoR_o3BYk9UFTbOQI" title="How to reset Local V HWID" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+<h3> ステップ1：現在のHWIDを取得する</h3>
+<p>現在のHWIDを取得するには <code>Local(V) injector</code>を開く必要があり、自動的にクリップボードにHWIDがコピーされます。</p>
+<h3> ステップ 2: <code>★⋅micah-bot-verify⋅★</code> チャンネルを見つける</h3>
+<p><code>★⋅micah-bot-verify⋅★</code>を見つけた後、<code>V:Change HWID</code>をクリックすると、現在のHWIDを尋ねるウィンドウがポップアップするので、それを貼り付けて<code>Submit</code>をクリックする。</p>
+<h3> ステップ3：新しい<code>enc.json</code>を取得する</h3>
+<p>HWIDリセット後、 <code>V:Verify</code> をクリックし、現在のHWIDをウィンドウに貼り付け、 <code>Submit</code>をクリックします。新しい<code>enc.json</code> をダウンロードし、Korepiフォルダ内のファイルを置き換えます。</p>
+<p>注：ファイル名は<code>enc.json</code>でなければならないことをお忘れなく。</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>除外リストに追加する方法</title>
+      <link>https://korepi.com/jp/guide/virus.html</link>
+      <guid>https://korepi.com/jp/guide/virus.html</guid>
+      <source url="https://korepi.com/rss.xml">除外リストに追加する方法</source>
+      <description>他のウイルス対策ソフトウェアにも同様の手順があり、使用しているウイルス対策ウイルスに応じて調整してください。 Korepi をウイルス対策の除外リストに追加する方法 (Windows Defender) ステップ 1: ウイルス対策ソフトを開く Windows の検索バーを開き、 Windows Security を検索し、開きます ウイルスと脅威の防...</description>
+      <category>ガイド</category>
+      <pubDate>Wed, 03 Jan 2024 06:45:45 GMT</pubDate>
+      <content:encoded><![CDATA[<div class="hint-container info">
+<p class="hint-container-title">他のウイルス対策ソフトウェアにも同様の手順があり、使用しているウイルス対策ウイルスに応じて調整してください。</p>
+</div>
+<hr>
+<h2> Korepi をウイルス対策の除外リストに追加する方法 (Windows Defender)</h2>
+<h3> ステップ 1: ウイルス対策ソフトを開く</h3>
+<p>Windows の検索バーを開き、 <code>Windows Security</code> を検索し、開きます</p>
+<p><img src="/assets/images/docs/202312/security.png" alt="" loading="lazy"></p>
+<p><code>ウイルスと脅威の防止</code>をクリックします。</p>
+<p><img src="/assets/images/docs/202312/virus1.png" alt="" loading="lazy"></p>
+<p>次に<code>ウイルスと脅威の防止設定</code> を見つけ <code>設定の管理</code>をクリックします。</p>
+<p><img src="/assets/images/docs/202312/virus3.png" alt="" loading="lazy"></p>
+<h3> ステップ 2: 除外リストに追加する</h3>
+<p>最後のステップに従った後、<code>除外項目</code> を見つけ、 <code>除外項目の追加と削除</code>をクリックする。</p>
+<p><img src="/assets/images/docs/202312/virus4.png" alt="" loading="lazy"></p>
+<p>ポップアップに[はい]をクリックし、[除外の追加]をクリックしてフォルダを選択し、Korepiフォルダを選択します。</p>
+]]></content:encoded>
+      <enclosure url="https://korepi.com/assets/images/docs/202312/security.png" type="image/png"/>
+    </item>
+    <item>
+      <title>カタログ</title>
+      <link>https://korepi.com/jp/start/</link>
+      <guid>https://korepi.com/jp/start/</guid>
+      <source url="https://korepi.com/rss.xml">カタログ</source>
+      <category>ガイド</category>
+      <pubDate>Wed, 03 Jan 2024 06:45:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>ダウンロード</title>
+      <link>https://korepi.com/jp/start/download.html</link>
+      <guid>https://korepi.com/jp/start/download.html</guid>
+      <source url="https://korepi.com/rss.xml">ダウンロード</source>
+      <description>導入 私たちのコミュニティへようこそ！botチェックに合格して Newcomer ロールを受け取るには次の手順に従います。 ステップ 1: サーバーに参加し Newcomer と Fans ロールを取得する。 まだサーバーに参加していない場合は、サーバーに参加し、Newcomer と Fans のロールを取得する方法を説明した記事をお読みください。 ス...</description>
+      <category>ガイド</category>
+      <pubDate>Wed, 03 Jan 2024 06:45:45 GMT</pubDate>
+      <content:encoded><![CDATA[<h1> ダウンロード</h1>
+<h2> 導入</h2>
+<p>私たちのコミュニティへようこそ！botチェックに合格して <code>Newcomer</code> ロールを受け取るには次の手順に従います。</p>
+<h3> ステップ 1: サーバーに参加し <code>Newcomer</code> と <code>Fans</code> ロールを取得する。</h3>
+<p>まだサーバーに参加していない場合は、サーバーに参加し、<code>Newcomer</code> と <code>Fans</code> のロールを取得する方法を説明した記事をお読みください。</p>
+<h3> ステップ 2: <code>★⋅korepi-version-roles⋅★</code>チャンネルに移動します</h3>
+<p>★⋅korepi-version-roles⋅★チャンネルを見つけて、F または V バージョンのロールを選択します。F ロールを選択することをお勧めします。</p>
+<h3> ステップ 3: 必要なリソースをダウンロードする</h3>
+<p>そうすると、対応するダウンロードチャンネルにアクセスできるようになります。 <code>★⋅f-download⋅★</code> または <code>★⋅v-download⋅★</code>.</p>
+<h3> ステップ 4: 準備完了!</h3>
+<p>チャンネルには、現在のバージョンへのリンクとアーカイブのパスワードが掲載されます。幸運を！</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>サーバーに参加する</title>
+      <link>https://korepi.com/jp/start/join.html</link>
+      <guid>https://korepi.com/jp/start/join.html</guid>
+      <source url="https://korepi.com/rss.xml">サーバーに参加する</source>
+      <description>導入 私たちのコミュニティへようこそ！Discord サーバーに参加して Korepi の使用を始めるには、次の手順に従います。 ステップ 1: Discord アカウントを作成する Discord アカウントをまだお持ちでない場合は、まず新しいアカウントを作成してください。 公式 Discord ウェブサイト (https://discord.com...</description>
+      <category>ガイド</category>
+      <pubDate>Wed, 03 Jan 2024 06:45:45 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> 導入</h2>
+<p>私たちのコミュニティへようこそ！Discord サーバーに参加して Korepi の使用を始めるには、次の手順に従います。</p>
+<h3> ステップ 1: Discord アカウントを作成する</h3>
+<p>Discord アカウントをまだお持ちでない場合は、まず新しいアカウントを作成してください。 <a href="https://discord.com/" target="_blank" rel="noopener noreferrer">公式 Discord ウェブサイト</a> にアクセスし、登録手順にしたがってください。</p>
+<h3> ステップ 2: Discord をインストールする</h3>
+<p>アカウント作成後<a href="https://discord.com/download" target="_blank" rel="noopener noreferrer">Discord クライアント</a> をダウンロードします。お使いのオペレーティング システムに合わせて、画面上の指示に従ってクライアントをインストールします。</p>
+<h3> ステップ 3: サーバーに参加する</h3>
+<ol>
+<li><a href="https://discord.gg/cottonbuds" target="_blank" rel="noopener noreferrer">招待リンク</a> をコピーする。</li>
+<li>Discord クライアントで、左下隅にある「+」ボタンをクリックします。</li>
+<li>「サーバーに参加する」を選択します。</li>
+<li>招待リンクを貼り付けて、「参加」をクリックします。</li>
+</ol>
+<p>招待リンクが無効な場合、サーバーが一時的に閉鎖されている可能性があります。再開までお待ちください。これで、次のステップに進むことができます。</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>登録</title>
+      <link>https://korepi.com/jp/start/sign-in.html</link>
+      <guid>https://korepi.com/jp/start/sign-in.html</guid>
+      <source url="https://korepi.com/rss.xml">登録</source>
+      <description>導入 私たちのコミュニティへようこそ！「Fans」ロールを取得するには、次の手順に従います。 ステップ 1: サーバーに参加し、「Newcomer」ロールをまだ取得していない場合は取得します。 まだサーバーに参加していない場合は、サーバーに参加して「Newcomer」ロールを取得する方法が説明されている前の投稿を読んでください。 ステップ 2: ボット...</description>
+      <category>ガイド</category>
+      <pubDate>Wed, 03 Jan 2024 06:45:45 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> 導入</h2>
+<p>私たちのコミュニティへようこそ！「Fans」ロールを取得するには、次の手順に従います。</p>
+<h3> ステップ 1: サーバーに参加し、「Newcomer」ロールをまだ取得していない場合は取得します。</h3>
+<p>まだサーバーに参加していない場合は、サーバーに参加して「Newcomer」ロールを取得する方法が説明されている前の投稿を読んでください。</p>
+<h3> ステップ 2: ボットを見つける</h3>
+<p>次に、ガチョウの画像を持つボットを見つけて、ダイレクトメッセージを彼に送る必要があります (micah-sign-bot#0245)。</p>
+<h3> ステップ 3: 始める</h3>
+<p>彼に <code>/sign-in</code>,コマンドを書いて、captchaを解いてください。 注意：ボットがあなたのcaptchaリクエストに反応しない場合、おそらく入力が間違っています。もう一度（コマンドなしで）キャプチャを書き込んでみてください。入力に成功すると、ボットは「連続&lt;日&gt;日」というメッセージを送信します。</p>
+<h3> ステップ 4: 「Fans」ロールを受け取った後</h3>
+<p>このコマンドを7日間（24時間ごと）毎日入力する必要があります。数時間でも間違えると、ボットはマークしていないとみなし、日数をリセットするので注意してください。チェックイン7日目には「Fans」ロールが与えられ、チェックインをしなくてもよくなります。</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>スポンサー限定機能</title>
+      <link>https://korepi.com/jp/start/sponsor-exclusive.html</link>
+      <guid>https://korepi.com/jp/start/sponsor-exclusive.html</guid>
+      <source url="https://korepi.com/rss.xml">スポンサー限定機能</source>
+      <description>プレイヤー クリティカルヒット率 (https://www.youtube.com/watch?v=ByucMEL7pXM&amp;list=PL5eI1Tb64p54t7LyUaudX0ume6HbS4ikD&amp;index=1&amp;pp=iAQB); エクストラ・ムーブメント (https://www.youtube.com/watch?v=wMd9icqhFQg...</description>
+      <category>ガイド</category>
+      <pubDate>Wed, 03 Jan 2024 06:45:45 GMT</pubDate>
+      <content:encoded><![CDATA[<h3> プレイヤー</h3>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=ByucMEL7pXM&amp;list=PL5eI1Tb64p54t7LyUaudX0ume6HbS4ikD&amp;index=1&amp;pp=iAQB" target="_blank" rel="noopener noreferrer">クリティカルヒット率</a></li>
+<li><a href="https://www.youtube.com/watch?v=wMd9icqhFQg&amp;list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa&amp;index=5&amp;pp=iAQB" target="_blank" rel="noopener noreferrer">エクストラ・ムーブメント</a></li>
+<li><a href="https://youtu.be/42utUUYNHRE?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa&amp;t=16" target="_blank" rel="noopener noreferrer">アンデッド( 無敵モード )</a></li>
+<li><a href="https://www.youtube.com/watch?v=XGztUEy82sE&amp;list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa&amp;index=12&amp;pp=iAQB" target="_blank" rel="noopener noreferrer">リモート・ユーティリティー</a>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=Ggnvh8ORJZU&amp;list=PL5eI1Tb64p54t7LyUaudX0ume6HbS4ikD&amp;index=3&amp;pp=iAQB" target="_blank" rel="noopener noreferrer">遠隔デイリー任務報酬受け取り</a></li>
+<li><a href="https://www.youtube.com/watch?v=HZuyD6b-qYc&amp;list=PL5eI1Tb64p54t7LyUaudX0ume6HbS4ikD&amp;index=4&amp;pp=iAQB" target="_blank" rel="noopener noreferrer">遠隔で濃縮樹脂作成</a></li>
+<li><a href="https://youtu.be/XGztUEy82sE?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa&amp;t=62" target="_blank" rel="noopener noreferrer">召喚機能</a></li>
+</ul>
+</li>
+<li><a href="https://www.youtube.com/watch?v=Gh2GX23E6dw&amp;list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa&amp;index=21&amp;pp=iAQB" target="_blank" rel="noopener noreferrer">バニーホップ</a></li>
+</ul>
+<h3> ワールド</h3>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=qstBErr9mJ0&amp;list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa&amp;index=22&amp;pp=iAQB" target="_blank" rel="noopener noreferrer">ウェイポイントの自動解放</a></li>
+<li><a href="https://www.youtube.com/watch?v=v95_NOxc4do&amp;list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa&amp;index=31&amp;pp=iAQB" target="_blank" rel="noopener noreferrer">自動伐採</a></li>
+<li><a href="https://www.youtube.com/watch?v=FskTJiknOgQ&amp;list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa&amp;index=32&amp;pp=iAQB" target="_blank" rel="noopener noreferrer">元素オーラ</a></li>
+<li><a href="https://www.youtube.com/watch?v=fF6LC552cvY&amp;list=PL5eI1Tb64p54t7LyUaudX0ume6HbS4ikD&amp;index=2&amp;pp=iAQB" target="_blank" rel="noopener noreferrer">スキップダイアログ (高速ダイアログよりも安全)</a></li>
+</ul>
+<h3> ビジュアル</h3>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=S9-g5weE9l8&amp;list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa&amp;index=37&amp;pp=iAQB" target="_blank" rel="noopener noreferrer">コンステレーション・モディファイア</a></li>
+<li><a href="https://youtu.be/EtRT95qEW6Y?si=v2AoRfRnjYrR93J5" target="_blank" rel="noopener noreferrer">UIを隠す</a></li>
+<li><a href="https://youtu.be/AjkJ8S8NHsI?si=pZ3FDJXHcmfpe7Ee&amp;t=101" target="_blank" rel="noopener noreferrer">カメラブラー無効化</a></li>
+<li><a href="https://youtu.be/AjkJ8S8NHsI?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa&amp;t=102" target="_blank" rel="noopener noreferrer">カメラの揺れ無効化</a></li>
+<li>足跡なし</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>スポンサーになる</title>
+      <link>https://korepi.com/jp/start/sponsor.html</link>
+      <guid>https://korepi.com/jp/start/sponsor.html</guid>
+      <source url="https://korepi.com/rss.xml">スポンサーになる</source>
+      <description>スポンサーになるにはどうすればよいですか？ スポンサーになるには、少なくとも 5 ドルまたは別の通貨を使用している場合は同等額を寄付する必要があります。 どこに寄付するの？ サーバーにアクセスしたら #sponsorship (https://discord.com/channels/1069057220802781265/10975652699850...</description>
+      <category>ガイド</category>
+      <pubDate>Wed, 03 Jan 2024 06:45:45 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> <span style="color:yellow;">スポンサー</span>になるにはどうすればよいですか？</h2>
+<p>スポンサーになるには、少なくとも 5 ドルまたは別の通貨を使用している場合は同等額を寄付する必要があります。</p>
+<h2> どこに寄付するの？</h2>
+<p>サーバーにアクセスしたら <a href="https://discord.com/channels/1069057220802781265/1097565269985071205" target="_blank" rel="noopener noreferrer">#sponsorship</a> チャンネルにアクセスしてください。次のステップの証拠として、必ずプロセスのスクリーンショットを撮ってください。</p>
+<h2> 寄付を終えた後はどうすればよいですか?</h2>
+<p>寄付を完了している場合は、モデレーターに証拠を送信してください。証拠としてスクリーンショットまたは寄付リンクを必ず提供してください</p>
+<p><a href="https://postimg.cc/MnTYS5cN" target="_blank" rel="noopener noreferrer"><img src="https://i.postimg.cc/3xjf2b38/proof.png" alt="" loading="lazy"></a></p>
+<h2> (Fans以外の場合) 寄付後にファンの役割を申請するにはどうすればよいですか?</h2>
+<p>あなたがスポンサーであり、ファンの役割を持っていない場合は、7 日間のサインインをスキップして、即座に役割を申請できます。</p>
+<h3> ステップ 1: チケットを開く</h3>
+<p>これを行うには、#ticket-start チャンネルに移動する必要があります (すでにスポンサーを持っている場合にのみ表示されます)。</p>
+<p><a href="https://postimg.cc/dLD6D8jC" target="_blank" rel="noopener noreferrer"><img src="https://i.postimg.cc/NfkzJDyd/openticket1.png" alt="" loading="lazy"></a></p>
+<p>「open」をクリックすると、チケット チャネルの下に新しいチャネルが表示されます。</p>
+<p><a href="https://postimg.cc/sMhJ4s8D" target="_blank" rel="noopener noreferrer"><img src="https://i.postimg.cc/Vk7H1NWM/openticket2.png" alt="" loading="lazy"></a></p>
+<h3> ステップ 2: 簡単なアンケートに回答する</h3>
+<p>「フォームリンク」ボタンを押してアンケートに回答してください。</p>
+<p><a href="https://postimg.cc/mzbN4Mrt" target="_blank" rel="noopener noreferrer"><img src="https://i.postimg.cc/qRKm8xVX/openticket4.png" alt="" loading="lazy"></a></p>
+<p>アンケートが完了したら、忘れずに「送信」ボタンを押してください。</p>
+<p><a href="https://postimg.cc/GBnxM6wP" target="_blank" rel="noopener noreferrer"><img src="https://i.postimg.cc/GpHgp1Xf/openticket5.png" alt="" loading="lazy"></a></p>
+<p>その後、スタッフがアンケートを確認するまで気長に待ちます。Fansロールを取得したら、準備完了です。</p>
+]]></content:encoded>
+      <enclosure url="https://i.postimg.cc/3xjf2b38/proof.png" type="image/png"/>
+    </item>
+    <item>
+      <title>検証</title>
+      <link>https://korepi.com/jp/start/verify.html</link>
+      <guid>https://korepi.com/jp/start/verify.html</guid>
+      <source url="https://korepi.com/rss.xml">検証</source>
+      <description>導入 コミュニティへようこそ！bot認証に合格し、「Newcomer」ロールを取得するには、以下の手順に従ってください。 ステップ 1: サーバーにまだ参加していない場合は参加してください まだサーバーに接続していない場合は、サーバーに参加する方法が説明されている前の投稿を読んでください。 ステップ 2: サーバーに参加した後 サーバーに参加したら、リ...</description>
+      <category>ガイド</category>
+      <pubDate>Wed, 03 Jan 2024 06:45:45 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> 導入</h2>
+<p>コミュニティへようこそ！bot認証に合格し、「Newcomer」ロールを取得するには、以下の手順に従ってください。</p>
+<h3> ステップ 1: サーバーにまだ参加していない場合は参加してください</h3>
+<p>まだサーバーに接続していない場合は、サーバーに参加する方法が説明されている前の投稿を読んでください。</p>
+<h3> ステップ 2: サーバーに参加した後</h3>
+<p>サーバーに参加したら、リストから必要なチャンネルとロールを選択し、★⋅rules⋅★ チャンネルに移動します。</p>
+<h3> ステップ 3: ★⋅rules⋅★ チャンネル</h3>
+<p>ルール チャネルでは、ルールをよく理解し、ボットではないことを確認するための検証を受けてください。[Verify] ボタンを見つけてクリックすると、ボットからリンクが送信されます。このリンクに従って、あなたがボットではないことを確認する必要があります。</p>
+<h3> ステップ 4:  "Newcomer" ロールを受け取った後</h3>
+<p>認証が成功するとbotによって"Newcomer" ロールが割り当てられます。 このロールを入手していれば、正当な理由なしにbotによってキックされることはありません。次のステップに進みます。</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>エラー 31-4302</title>
+      <link>https://korepi.com/jp/troubleshoot/31-4302.html</link>
+      <guid>https://korepi.com/jp/troubleshoot/31-4302.html</guid>
+      <source url="https://korepi.com/rss.xml">エラー 31-4302</source>
+      <description>エラーの解決方法 31-4302 手順 1 ゲームフォルダにオリジナル以外のファイルがある場合、このプロンプトが表示されることがあります。次の例のように、オリジナルファイルのみであることを確認してください： ファイルを削除した後もゲーム内でエラーが発生し続ける場合は、読み続けてください。 手順 2 コレピの 設定 --&amp;gt; その他。 整合性回避 を見つけ...</description>
+      <category>ガイド</category>
+      <pubDate>Wed, 03 Jan 2024 06:45:45 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> エラーの解決方法 <code>31-4302</code></h2>
+<p><img src="/assets/images/docs/202312/31-4302.png" alt="" loading="lazy"></p>
+<h3> 手順 1</h3>
+<p>ゲームフォルダにオリジナル以外のファイルがある場合、このプロンプトが表示されることがあります。次の例のように、オリジナルファイルのみであることを確認してください：</p>
+<p><img src="/assets/images/docs/202312/launcher.png" alt="" loading="lazy"></p>
+<p><img src="/assets/images/docs/202312/folder1.png" alt="" loading="lazy"></p>
+<p>ファイルを削除した後もゲーム内でエラーが発生し続ける場合は、読み続けてください。</p>
+<h3> 手順 2</h3>
+<p>コレピの <code>設定 --&gt; その他</code>。</p>
+<p><img src="/assets/images/docs/202312/settings1.png" alt="" loading="lazy"></p>
+<p><code>整合性回避</code> を見つけチェックを外します。</p>
+<p><img src="/assets/images/docs/202312/settings2.png" alt="" loading="lazy"></p>
+<p>これでエラーは消えるはずです</p>
+<h2> コレピに入れない場合はどうすればよいですか？</h2>
+<p>Korepiフォルダに移動し <code>cfg.json</code>, をみつけ <code>CTRL + F</code>, を押し、<code>bypass</code> と入力して検索し、値を <code>false</code> に設定してKorepiを開きます。</p>
+<h2> 何も機能しない場合はどうすればよいですか？</h2>
+<p>ゲームを再インストールする必要があります。</p>
+]]></content:encoded>
+      <enclosure url="https://korepi.com/assets/images/docs/202312/31-4302.png" type="image/png"/>
+    </item>
+    <item>
+      <title>エラーリスト</title>
+      <link>https://korepi.com/jp/troubleshoot/</link>
+      <guid>https://korepi.com/jp/troubleshoot/</guid>
+      <source url="https://korepi.com/rss.xml">エラーリスト</source>
+      <category>トラブルシューティング</category>
+      <pubDate>Wed, 03 Jan 2024 06:45:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>一般的なインジェクターエラー</title>
+      <link>https://korepi.com/jp/troubleshoot/faq-error.html</link>
+      <guid>https://korepi.com/jp/troubleshoot/faq-error.html</guid>
+      <source url="https://korepi.com/rss.xml">一般的なインジェクターエラー</source>
+      <description>よくあるエラーリスト コレピが消えてしまうのはなぜですか? ウィルス対策ソフトが無効になっていることを確認し、新しいフォルダを作成して除外項目に追加します。 除外フォルダ内にkorepiを展開し、再度実行する。 ステータス: ライセンスキーが無効です。 新しく キーを取得する (../guide/getkey.md) 必要があります。⁠★⋅micah-...</description>
+      <category>トラブルシューティング</category>
+      <pubDate>Wed, 03 Jan 2024 06:45:45 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> よくあるエラーリスト</h2>
+<h3> コレピが消えてしまうのはなぜですか?</h3>
+<p>ウィルス対策ソフトが無効になっていることを確認し、新しいフォルダを作成して除外項目に追加します。</p>
+<p><img src="/assets/images/docs/202312/virus.png" alt="" loading="lazy"></p>
+<p>除外フォルダ内にkorepiを展開し、再度実行する。</p>
+<hr>
+<h3> ステータス: ライセンスキーが無効です。</h3>
+<p>新しく <a href="/jp/guide/getkey.html" target="blank">キーを取得する</a> 必要があります。<code>⁠★⋅micah-bot-verify⋅★</code>, 鍵が手に入らなかったり、鍵が使えなかったりした場合は、鍵の有効期限が切れるまで待たなければなりません。</p>
+<p><code>スポンサーは、F:リセットキーを使用することができます。</code></p>
+<h3> [DLL インジェクション] プロセスがクラッシュ、終了コード 0xc000005</h3>
+<p><code>cmd</code> を管理者として開き、以下のコマンドを書く：</p>
+<p><code>sfc /scannow</code></p>
+<p>その後、エラーが見つかった場合は、コンピュータを再起動して確認する。再起動しても解決しなかったり、エラーが見つからなかった場合は、次のコマンドを書いてください：</p>
+<p><code>DISM.exe /Online /Cleanup-Image /RestoreHealth</code></p>
+<p>チェックを終えたら、コンピュータを再起動して確認します。</p>
+<p>うまくいかない場合は、Windowsを再インストールしてください。</p>
+<hr>
+<h3> ImGUI：DirectX11バックエンドが正常に初期化されました。</h3>
+<p>インストールしたテーマが原因でエラーが発生している場合は、 <code>themes</code> フォルダーを消してください。</p>
+<hr>
+<h3> システムはMSVCP140.dllを検出しませんでした。</h3>
+<p><a href="https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170#visual-studio-2015-2017-2019-and-2022" target="_blank" rel="noopener noreferrer">Microsoft Visual Studio C++</a>　を更新してください。</p>
+<p><a href="https://www.microsoft.com/en-us/download/details.aspx?id=35" target="_blank" rel="noopener noreferrer">DirectX</a>　を更新してください</p>
+<hr>
+<h3> ファイルが破損しています！このプログラムは変更されており、感染している可能性があります。</h3>
+<p><img src="/assets/images/docs/202312/virus2.png" alt="" loading="lazy"></p>
+<p>この場合、ウイルス対策ソフトを使用して完全スキャンを行い、ウイルスが見つかった場合はそれらを削除し、再起動してから再度スキャンを行ってみてください。それでもうまくいかない場合は、Windowsを再インストールするのがこの問題を解決する最も簡単な方法です。</p>
+<hr>
+<h3> タイムアウトに達しました</h3>
+<p><img src="/assets/images/docs/202312/error1.png" alt="" loading="lazy"></p>
+<p>ルーターを再起動します。</p>
+<p>ウイルス対策ソフトが接続をブロックしている可能性があります。それがタスクマネージャーにないことを確認してください。</p>
+<p>VPNを使用して再試行してください。</p>
+<p>ファイアウォールに影響を与えるアプリケーションをすべてオフにする。何も効果がない場合は、ネットワークに何らかの問題がある可能性があります。</p>
+<hr>
+<h3> DLLインジェクションに失敗しました</h3>
+<p>colorpicker をアンインストールし、colorpicker をもう一度ダウンロードします。</p>
+<hr>
+<h3> Windows は指定されたデバイス、パス、またはファイルにアクセスできません</h3>
+<p><img src="/assets/images/docs/202312/error2.png" alt="" loading="lazy"></p>
+<p>まず<a href="https://support.microsoft.com/en-us/topic/-windows-cannot-access-the-specified-device-path-or-file-error-when-you-try-to-install-update-or-start-a-program-or-file-46361133-47ed-6967-c13e-e75d3cc29657" target="_blank" rel="noopener noreferrer">こちらへ</a> そしてその当行の手順に従ってください。</p>
+<p>また、投稿の解決策が進んだ後、ウイルス対策ソフトウェアをダウンロードして、完全なシステムチェックを実行してください。</p>
+<p>今後問題が解決しない場合は、管理者として cmd を開き、次のように書きます。 <code>sfc /scannow</code></p>
+<p>その後、エラーがあった場合は、コンピュータを再起動して確認してください。</p>
+<p>再起動しても問題が解決しなかった場合、またはエラーが発生しなかった場合は、次のコマンドを記述します。</p>
+<p><code>DISM.exe /Online /Cleanup-Image /RestoreHealth</code></p>
+<p>確認が完了しましたら、コンピュータを再起動して再度確認してください。</p>
+<p>動作しない場合は、Windowsを再インストールします。</p>
+<hr>
+<h3> 署名チェックサムの失敗</h3>
+<p><img src="/assets/images/docs/202312/checksum.png" alt="" loading="lazy"></p>
+<p>サーバーがダウンまたはシャットダウンしています。サーバーがオンラインになるまで待ってください。</p>
+<hr>
+<h3> エラー5 ゲームプロセスの作成に失敗しました。</h3>
+<p><img src="/assets/images/docs/202312/error3.png" alt="" loading="lazy"></p>
+<p>消去 <code>cfg.ini</code>.</p>
+<hr>
+<h3> SSL 接続エラー</h3>
+<p><img src="/assets/images/docs/202312/error4.png" alt="" loading="lazy"></p>
+<p>PCを再起動し、ルーターを再起動します。</p>
+<p>うまくいかない場合はVPNを使ってみてください。</p>
+<hr>
+<h3> ゲームのバージョンを検出できませんでした</h3>
+<p>インジェクターを更新し、手順に沿ってください <a href="/jp/start/download.html" target="blank">ここ</a></p>
+<hr>
+<h3> ファイル ok</h3>
+<p>cfg.json を削除してください。ファイルに問題がある可能性があります。</p>
+<hr>
+<h3> UserAssembly.dllが初期化されていません。2秒間待機してください。</h3>
+<p>この行の後にインジェクターがクラッシュした場合は、次の手順を試してください。</p>
+<p>PCのウイルス対策ソフトをすべてオフにします。</p>
+<p>問題が解決しない場合<code>sfc /scannow</code> 管理者として cmd でコマンドを使用してください。</p>
+<p>チェック後にエラーが見つかり、Windowsが解決できない場合は、 <code>DISM.exe /Online /Cleanup-Image /RestoreHealth</code> コマンドを使用します。</p>
+<p>確認後、コンピューターを再起動し、カラーピッカーをもう一度実行してみてください。</p>
+<p>エラーが繰り返し発生する場合は、Windows を出荷時にリセットしてください。</p>
+]]></content:encoded>
+      <enclosure url="https://korepi.com/assets/images/docs/202312/virus.png" type="image/png"/>
+    </item>
+    <item>
+      <title>FAQ</title>
+      <link>https://korepi.com/jp/troubleshoot/faq.html</link>
+      <guid>https://korepi.com/jp/troubleshoot/faq.html</guid>
+      <source url="https://korepi.com/rss.xml">FAQ</source>
+      <description>FAQリスト Korepiは無料ですか？ はい、無料です。初めて使用する場合7日間のサインイン (../start/sign-in.md)が必要です。スポンサー (../start/sponsor.md), になることでこれをスキップすることができます。 .rar/.zipのパスワードは何ですか？ ... 1234, 次回はダウンロードの投稿をお読みく...</description>
+      <category>FAQ</category>
+      <pubDate>Wed, 03 Jan 2024 06:45:45 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> FAQリスト</h2>
+<h3> Korepiは無料ですか？</h3>
+<p>はい、無料です。初めて使用する場合7日間の<a href="/jp/start/sign-in.html" target="blank">サインイン</a>が必要です。<a href="/jp/start/sponsor.html" target="blank">スポンサー</a>, になることでこれをスキップすることができます。</p>
+<hr>
+<h3> .rar/.zipのパスワードは何ですか？</h3>
+<p>...</p>
+<p><code>1234</code>, 次回はダウンロードの投稿をお読みください。</p>
+<hr>
+<h3> 設定が保存されないのはなぜですか?</h3>
+<p>入手した <code>.rar/.zip</code> ファイルを別のフォルダに解凍する必要があることに注意してください。</p>
+<p>この手順を行ってもコンフィグが保存されない場合は、サーバーのヘルパーにお問い合わせください。</p>
+<hr>
+<h3> ### テーマはどこにありますか？</h3>
+<p>コレピのテーマはコミュニティ共有で見つけることができますし、コレピの設定で自分で作ることもできます。</p>
+<p><img src="/assets/images/docs/202312/theme-settings.png" alt="" loading="lazy"></p>
+<p>チェック <code>Theme Customization</code> を入れて独自のテーマを作成しましょう。</p>
+<hr>
+<h3> サインイン連続記録がリセットされたのはなぜですか?</h3>
+<p>リセット時間が超過した可能性があります。毎日リセットされます。1日でもサインインを忘れると完全にリセットされます。</p>
+<div class="hint-container info">
+<p class="hint-container-title">リセット時間は毎日 JST 09:00 です。</p>
+</div>
+<hr>
+<h3> 新しいアップデートが来たときにコレピを使用できますか?</h3>
+<p>いいえ、Korepi の新しいバージョンがリリースされるまで待つ必要があります。</p>
+<div class="hint-container info">
+<p class="hint-container-title">古いインジェクターは機能しません。Korepi のアップデートには約 1 ～ 2 週間かかります。</p>
+</div>
+<hr>
+<h3> ゲーム内にメニューが表示されないのはなぜですか?</h3>
+<p>korepi を起動する前に、すべてのオーバーレイ (MSI Afterburner、GeForce Experience など) が有効になっていることを確認してください。</p>
+<hr>
+<h3> <span style="color:yellow;">スポンサー</span> はどこで入手できますか？</h3>
+<p>サーバー内にあるリンクから<a href="/jp/start/sponsor.html" target="blank">スポンサー</a> を入手できます。 <code>#sponsorship</code></p>
+<p>スポンサーの役割を獲得するには、少なくとも 5 ドルを寄付する必要があります。5 ドル未満の寄付は無視されます。</p>
+<hr>
+<h3> ロード画面でゲームがクラッシュするのはなぜですか?</h3>
+<p>次のようなエラーが発生した場合:</p>
+<p><code>atidxx64.dll caused an Access Violation (0xc0000005) in module atidxx64.dll at 0033:43d1356c.</code></p>
+<p>ドライバーを更新して再試行してください。</p>
+<p>このエラーが発生しない場合は、 の起動時の遅延をさらに設定してみてください<code>cfg.ini</code>.</p>
+]]></content:encoded>
+      <enclosure url="https://korepi.com/assets/images/docs/202312/theme-settings.png" type="image/png"/>
+    </item>
+    <item>
+      <title>攻撃効果</title>
+      <link>https://korepi.com/jp/features/Player/attack-effects.html</link>
+      <guid>https://korepi.com/jp/features/Player/attack-effects.html</guid>
+      <source url="https://korepi.com/rss.xml">攻撃効果</source>
+      <description>攻撃効果: 攻撃の変更 マルチヒットモード: ワンパンチモード: ターゲットを 1 ヒットで倒します。; 注: 使用はお勧めしません。 ターゲットが受ける攻撃の回数を変更する。; 注：5以上は推奨されない。 ルチターゲット: ヒットしたターゲットから選択した半径内のすべてのターゲットにヒットする。; 注：デフォルト設定を変更することは推奨されません。 ...</description>
+      <category>特徴</category>
+      <pubDate>Wed, 03 Jan 2024 06:45:45 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> 攻撃効果: 攻撃の変更</h2>
+<h3> マルチヒットモード:</h3>
+<ul>
+<li>ワンパンチモード: ターゲットを 1 ヒットで倒します。</li>
+</ul>
+<blockquote>
+<p>注: 使用はお勧めしません。</p>
+</blockquote>
+<ul>
+<li>ターゲットが受ける攻撃の回数を変更する。</li>
+</ul>
+<blockquote>
+<p>注：5以上は推奨されない。</p>
+</blockquote>
+<h3> ルチターゲット:</h3>
+<ul>
+<li>ヒットしたターゲットから選択した半径内のすべてのターゲットにヒットする。</li>
+</ul>
+<blockquote>
+<p>注：デフォルト設定を変更することは推奨されません。</p>
+</blockquote>
+<h3> マルチアニメーション:</h3>
+<ul>
+<li>キャラクターがアクションを行う回数を変更する。</li>
+</ul>
+<blockquote>
+<p>注：使用は推奨されない。</p>
+</blockquote>
+<h3> 攻撃速度:</h3>
+<ul>
+<li>攻撃速度の高速化を有効化します。</li>
+</ul>
+<blockquote>
+<p>注： <code>1.5以上</code>での使用は推奨されない。</p>
+</blockquote>
+<h3> 元素変更:</h3>
+<ul>
+<li>攻撃ダメージの元素種類を変更します。</li>
+</ul>
+<h3> 元素付着:</h3>
+<ul>
+<li>元素攻撃の種類を変更できます。</li>
+</ul>
+<h3> 弱点攻撃:</h3>
+<ul>
+<li>ターゲットを攻撃するとクリティカルとなる。弓キャラにのみ機能します。</li>
+</ul>
+<h3> クリティカルヒット (<span style="color:yellow;">スポンサー</span>):</h3>
+<ul>
+<li>クリティカルヒットの確率を変更します。</li>
+</ul>
+<h3> 付着元素無効化:</h3>
+<ul>
+<li>プレイヤーへの元素ダメージを無効化し、物理ダメージへ変換する。</li>
+</ul>
+<h2> ビデオ:</h2>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/1BdKwxBjWyg?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Attack Effects" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>自動ダッシュ</title>
+      <link>https://korepi.com/jp/features/Player/auto-run.html</link>
+      <guid>https://korepi.com/jp/features/Player/auto-run.html</guid>
+      <source url="https://korepi.com/rss.xml">自動ダッシュ</source>
+      <description>自動ダッシュは、プレーヤーが向いている方向に自動的に移動します。 ビデオ:</description>
+      <category>特徴</category>
+      <pubDate>Wed, 03 Jan 2024 06:45:45 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> 自動ダッシュは、プレーヤーが向いている方向に自動的に移動します。</h2>
+<h2> ビデオ:</h2>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/BLDhPBMs7Es?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Run" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>バニーホップ</title>
+      <link>https://korepi.com/jp/features/Player/bunny-hop.html</link>
+      <guid>https://korepi.com/jp/features/Player/bunny-hop.html</guid>
+      <source url="https://korepi.com/rss.xml">バニーホップ</source>
+      <description>スポンサーのみ バニーホップを有効にすると、最初のジャンプ後に自動的にジャンプします。 ビデオ:</description>
+      <category>特徴</category>
+      <pubDate>Wed, 03 Jan 2024 06:45:45 GMT</pubDate>
+      <content:encoded><![CDATA[<div class="hint-container info">
+<p class="hint-container-title">スポンサーのみ</p>
+</div>
+<hr>
+<h2> バニーホップを有効にすると、最初のジャンプ後に自動的にジャンプします。</h2>
+<h2> ビデオ:</h2>
+<div class="iframe-container"><iframe width="640" height="369" src="https://www.youtube.com/embed/Gh2GX23E6dw?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Bunnyhop (Sponsor)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>クールタイム効果</title>
+      <link>https://korepi.com/jp/features/Player/cooldown-effects.html</link>
+      <guid>https://korepi.com/jp/features/Player/cooldown-effects.html</guid>
+      <source url="https://korepi.com/rss.xml">クールタイム効果</source>
+      <description>クールタイム効果: さまざまなアクションのクールタイムを変更します。 元素爆発即チャージ: 元素爆発に必要なエネルギーを削除する。; 注：元素ゲージは不足しているように見えるかもしれないが、使用可能です。 プレイヤースキルのクールタイム無効化. スキル/元素爆発のクールダウンを短縮する。クールタイムが選択した値より高い場合、選択した値に設定される。; ...</description>
+      <category>特徴</category>
+      <pubDate>Wed, 03 Jan 2024 06:45:45 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> クールタイム効果: さまざまなアクションのクールタイムを変更します。</h2>
+<h3> 元素爆発即チャージ:</h3>
+<ul>
+<li>元素爆発に必要なエネルギーを削除する。</li>
+</ul>
+<blockquote>
+<p>注：元素ゲージは不足しているように見えるかもしれないが、使用可能です。</p>
+</blockquote>
+<h3> プレイヤースキルのクールタイム無効化.</h3>
+<ul>
+<li>スキル/元素爆発のクールダウンを短縮する。クールタイムが選択した値より高い場合、選択した値に設定される。</li>
+</ul>
+<blockquote>
+<p>注：CTはどのような値でも使用可能だが、早すぎるのは禁物。 <code>例1分で40回</code></p>
+</blockquote>
+<h3> ダッシュクールタイム無効化:</h3>
+<ul>
+<li>ダッシュのクールタイムを無効化する。</li>
+</ul>
+<h3> 即重撃:</h3>
+<ul>
+<li>弓：弓のチャージ時間がなくなる。</li>
+<li>その他：他の武器のチャージ時間を削除する。</li>
+</ul>
+<h3> 乗り物スキルのクールタイム無効化:</h3>
+<ul>
+<li>ボートスキルのクールタイムを削除する。</li>
+</ul>
+<h2> ビデオ:</h2>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/qv5ykSL3Ojw?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Cooldown Effects" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>追加の速度設定</title>
+      <link>https://korepi.com/jp/features/Player/extra-movements.html</link>
+      <guid>https://korepi.com/jp/features/Player/extra-movements.html</guid>
+      <source url="https://korepi.com/rss.xml">追加の速度設定</source>
+      <description>スポンサーのみ 追加の速度設定: プレイヤーの特定のアクションを変更/強化します。 水上を走る: 水の上を歩く能力を可能にします。.; 歩行ブースト: プレイヤーの走る速度が向上します。; 注: デフォルト値を変更することはお勧めしません。 ジャンプブースト: プレイヤーのジャンプの高さを高めます。; ミッドエアを適用する：地上にいない状態でジャンプで...</description>
+      <category>特徴</category>
+      <pubDate>Wed, 03 Jan 2024 06:45:45 GMT</pubDate>
+      <content:encoded><![CDATA[<div class="hint-container info">
+<p class="hint-container-title">スポンサーのみ</p>
+</div>
+<hr>
+<h2> 追加の速度設定: プレイヤーの特定のアクションを変更/強化します。</h2>
+<h3> 水上を走る:</h3>
+<ul>
+<li>水の上を歩く能力を可能にします。.</li>
+</ul>
+<h3> 歩行ブースト:</h3>
+<ul>
+<li>プレイヤーの走る速度が向上します。</li>
+</ul>
+<blockquote>
+<p>注: デフォルト値を変更することはお勧めしません。</p>
+</blockquote>
+<h3> ジャンプブースト:</h3>
+<ul>
+<li>プレイヤーのジャンプの高さを高めます。
+<ul>
+<li>ミッドエアを適用する：地上にいない状態でジャンプできるようにする。</li>
+</ul>
+</li>
+</ul>
+<blockquote>
+<p>注: デフォルト値を変更することはお勧めしません。</p>
+</blockquote>
+<h3> フライブースト:</h3>
+<ul>
+<li>プレイヤーの滑空しているときの速度が向上します。</li>
+</ul>
+<blockquote>
+<p>注: デフォルト値を変更することはお勧めしません。</p>
+</blockquote>
+<h3> スイムブースト:</h3>
+<ul>
+<li>プレイヤーの泳いでいる時の速度を高めます。</li>
+</ul>
+<blockquote>
+<p>注: デフォルト値を変更することはお勧めしません。</p>
+</blockquote>
+<h3> ダイブブースト:</h3>
+<ul>
+<li>プレイヤーがダイブする際の速度が向上します。</li>
+</ul>
+<blockquote>
+<p>注: デフォルト値を変更することはお勧めしません。</p>
+</blockquote>
+<h3> 瞬間移動:</h3>
+<ul>
+<li>ホットキーを押した後にプレーヤーが一定距離を移動できるようにします。</li>
+</ul>
+<h2> ビデオ:</h2>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/wMd9icqhFQg?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Extra Movement (Sponsor)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>落下コントロール</title>
+      <link>https://korepi.com/jp/features/Player/fall-control.html</link>
+      <guid>https://korepi.com/jp/features/Player/fall-control.html</guid>
+      <source url="https://korepi.com/rss.xml">落下コントロール</source>
+      <description>落下コントロールでは、落下中スピードを変更することができる。 ビデオ:</description>
+      <category>特徴</category>
+      <pubDate>Wed, 03 Jan 2024 06:45:45 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> 落下コントロールでは、落下中スピードを変更することができる。</h2>
+<h2> ビデオ:</h2>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/BHiabtwSSNc?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Fall Control" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>無敵モード</title>
+      <link>https://korepi.com/jp/features/Player/god-mode.html</link>
+      <guid>https://korepi.com/jp/features/Player/god-mode.html</guid>
+      <source url="https://korepi.com/rss.xml">無敵モード</source>
+      <description>無敵モードはすべてのダメージを無効化する。 アンデッド: 無敵モードが有効になるのは、致命的なダメージを受けたときだけになります。; 発動条件: キャラクターの体力が低下している場合のみ無敵モード有効。指定された最小値を下回った場合のみ有効になります。; 注：螺旋には条件付きの使用を推奨。 ビデオ:</description>
+      <category>特徴</category>
+      <pubDate>Wed, 03 Jan 2024 06:45:45 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> 無敵モードはすべてのダメージを無効化する。</h2>
+<h3> アンデッド:</h3>
+<ul>
+<li>無敵モードが有効になるのは、致命的なダメージを受けたときだけになります。</li>
+</ul>
+<h3> 発動条件:</h3>
+<ul>
+<li>キャラクターの体力が低下している場合のみ無敵モード有効。指定された最小値を下回った場合のみ有効になります。</li>
+</ul>
+<blockquote>
+<p>注：螺旋には条件付きの使用を推奨。</p>
+</blockquote>
+<h2> ビデオ:</h2>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/42utUUYNHRE?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - God Mode" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>無限スタミナ</title>
+      <link>https://korepi.com/jp/features/Player/infinite-stamina.html</link>
+      <guid>https://korepi.com/jp/features/Player/infinite-stamina.html</guid>
+      <source url="https://korepi.com/rss.xml">無限スタミナ</source>
+      <description>無限スタミナは、すべての行動のスタミナ消費を無効にする。 移動同期パケットの置き換え: このモードは、スタミナ消費に関する行動のパケット送信を防ぎます。; 注：移動同期パケットの置き換えの使用を推奨。 ビデオ:</description>
+      <category>特徴</category>
+      <pubDate>Wed, 03 Jan 2024 06:45:45 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> 無限スタミナは、すべての行動のスタミナ消費を無効にする。</h2>
+<h3> 移動同期パケットの置き換え:</h3>
+<ul>
+<li>このモードは、スタミナ消費に関する行動のパケット送信を防ぎます。</li>
+</ul>
+<blockquote>
+<p>注：移動同期パケットの置き換えの使用を推奨。</p>
+</blockquote>
+<h2> ビデオ:</h2>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/NZhfaMOLuY0?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Infinite Stamina" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>ノークリップ</title>
+      <link>https://korepi.com/jp/features/Player/no-clip.html</link>
+      <guid>https://korepi.com/jp/features/Player/no-clip.html</guid>
+      <source url="https://korepi.com/rss.xml">ノークリップ</source>
+      <description>ノークリップ(高速移動＋当たり判定無効化) アニメーションなし: プレイヤーのアニメーションを無効にする。; カメラ方向に移動: プレイヤーが見ている方向ではなく、カメラが向いている方向に移動する。; 別の速度設定: 左Ctrlキーを押すことで、この項目で設定した移動速度に変更できます。; カスタムキーを使用: カスタムホットキーを有効にする。; ロー...</description>
+      <category>特徴</category>
+      <pubDate>Wed, 03 Jan 2024 06:45:45 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> ノークリップ(高速移動＋当たり判定無効化)</h2>
+<h3> アニメーションなし:</h3>
+<ul>
+<li>プレイヤーのアニメーションを無効にする。</li>
+</ul>
+<h3> カメラ方向に移動:</h3>
+<ul>
+<li>プレイヤーが見ている方向ではなく、カメラが向いている方向に移動する。</li>
+</ul>
+<h3> 別の速度設定:</h3>
+<ul>
+<li>左Ctrlキーを押すことで、この項目で設定した移動速度に変更できます。</li>
+</ul>
+<h3> カスタムキーを使用:</h3>
+<ul>
+<li>カスタムホットキーを有効にする。</li>
+</ul>
+<h3> ロールバック回避:</h3>
+<ul>
+<li>速度超過によるサーバーからのロールバックを回避する。</li>
+</ul>
+<blockquote>
+<p>注：20以上の使用は推奨されない。</p>
+</blockquote>
+<h2> ビデオ:</h2>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/nPdq-yzBt3k?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - NoClip" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>移動速度</title>
+      <link>https://korepi.com/jp/features/Player/player-speed.html</link>
+      <guid>https://korepi.com/jp/features/Player/player-speed.html</guid>
+      <source url="https://korepi.com/rss.xml">移動速度</source>
+      <description>プレーヤーのスピードを変更します。 注：1.5以下の使用を推奨。 注2： 追加の速度設定 (extra-movements.md) の方がサーバーとの同期が良いのでお勧め（安全）(スポンサーのみ) ビデオ:</description>
+      <category>特徴</category>
+      <pubDate>Wed, 03 Jan 2024 06:45:45 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> プレーヤーのスピードを変更します。</h2>
+<blockquote>
+<p>注：1.5以下の使用を推奨。
+注2： <a href="/jp/features/Player/extra-movements.html" target="blank">追加の速度設定</a> の方がサーバーとの同期が良いのでお勧め（安全）(スポンサーのみ)</p>
+</blockquote>
+<h2> ビデオ:</h2>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/HCxmOUMFRs8?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Player Speed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>リモートユーティリティー</title>
+      <link>https://korepi.com/jp/features/Player/remote-utility.html</link>
+      <guid>https://korepi.com/jp/features/Player/remote-utility.html</guid>
+      <source url="https://korepi.com/rss.xml">リモートユーティリティー</source>
+      <description>スポンサーのみ リモートユーティリティー: デイリー報酬を受け取る: デイリー任務をすべて達成すると、リモートで報酬が受け取れる。; カスタム会話: 会話IDを使用して会話を開始します。; 注：この機能は危険です。 注：会話IDを取得するには、Debug Talkを有効にすると、IDがcmdに表示されます。 ガジェット召喚: IDによって選択されたガジ...</description>
+      <category>特徴</category>
+      <pubDate>Wed, 03 Jan 2024 06:45:45 GMT</pubDate>
+      <content:encoded><![CDATA[<div class="hint-container info">
+<p class="hint-container-title">スポンサーのみ</p>
+</div>
+<hr>
+<h2> リモートユーティリティー:</h2>
+<h3> デイリー報酬を受け取る:</h3>
+<ul>
+<li>デイリー任務をすべて達成すると、リモートで報酬が受け取れる。</li>
+</ul>
+<h3> カスタム会話:</h3>
+<ul>
+<li>会話IDを使用して会話を開始します。</li>
+</ul>
+<blockquote>
+<p>注：この機能は危険です。
+注：会話IDを取得するには、<code>Debug Talk</code>を有効にすると、IDが<code>cmd</code>に表示されます。</p>
+</blockquote>
+<h3> ガジェット召喚:</h3>
+<ul>
+<li>IDによって選択されたガジェットを召喚します。</li>
+</ul>
+<blockquote>
+<p>注：この機能は危険です。
+注2：ガジェットIDは <a href="https://github.com/jie65535/GrasscutterCommandGenerator/blob/main/Source/GrasscutterTools/Resources/en-us/Gadget.txt" target="_blank" rel="noopener noreferrer">こちら</a>で確認できます。</p>
+</blockquote>
+<h3> 合成:</h3>
+<ul>
+<li>濃縮樹脂: 樹脂と蝶があれば、濃縮樹脂を作ることができる。</li>
+<li>合成台を召喚: 合成台を召喚します。</li>
+<li>鍛冶台を召喚: 鍛冶台を召喚します。</li>
+<li>カスタムコンビ: 選択されたアイテムを現在のキャラクターを使って組み合わせようとします。
+<blockquote>
+<p>注：成功した場合、プロンプトは表示されません。在庫を確認してください。
+注2：コンバインIDは<a href="https://github.com/jie65535/GrasscutterCommandGenerator/blob/main/Source/GrasscutterTools/Resources/en-us/Item.txt" target="_blank" rel="noopener noreferrer">こちら</a>で確認できます。</p>
+</blockquote>
+</li>
+</ul>
+<h3> NPCを召喚:</h3>
+<ul>
+<li>IDで選択したNPCを呼び出す。</li>
+</ul>
+<blockquote>
+<p>注：キャサリン、ワグナー、プリンスはすでに含まれている。</p>
+</blockquote>
+<h3> モンスターを召喚:</h3>
+<ul>
+<li>IDで選択したモンスターを選択したパラメータで召喚する。</li>
+</ul>
+<blockquote>
+<p>注：彼らを殺すことはできない。
+注2：モンスターIDは<a href="https://github.com/jie65535/GrasscutterCommandGenerator/blob/main/Source/GrasscutterTools/Resources/en-us/Monsters.txt" target="_blank" rel="noopener noreferrer">こちら</a>で確認できます。</p>
+</blockquote>
+<h3> アイテム召喚:</h3>
+<ul>
+<li>IDで選択したアイテムを呼び出す。</li>
+</ul>
+<blockquote>
+<p>注意：一部のアイテムは動作しない場合があります。
+注2：アイテムのIDは<a href="https://github.com/jie65535/GrasscutterCommandGenerator/blob/main/Source/GrasscutterTools/Resources/en-us/Item.txt" target="_blank" rel="noopener noreferrer">こちら</a>で確認できます。</p>
+</blockquote>
+<h3> UI画面を開く:</h3>
+<ul>
+<li>パイモンメニューページを開く: メニューを開きます。</li>
+<li>料理のページを開く: 料理のページを開きます。
+<blockquote>
+<p>注：この機能を使用する前に、一度料理ページを開く必要があります。</p>
+</blockquote>
+</li>
+</ul>
+<h3> 奉納状況:</h3>
+<ul>
+<li>七神像に奉納されている瞳の状況を確認します。</li>
+</ul>
+<h3> 旅人の元素変更:</h3>
+<ul>
+<li>プレーヤーがどこでも旅人の元素を変更できるようにする。</li>
+</ul>
+<h2> ビデオ:</h2>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/XGztUEy82sE?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Remote Utilities (Sponsor)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>神の目テレポート</title>
+      <link>https://korepi.com/jp/features/Teleport/0culi-teleport.html</link>
+      <guid>https://korepi.com/jp/features/Teleport/0culi-teleport.html</guid>
+      <source url="https://korepi.com/rss.xml">神の目テレポート</source>
+      <description>神の瞳テレポートは、ホットキーが押されると、最も近いレンダリングされた神の瞳の場所にプレイヤーをテレポートさせる。 注意：安全のため、テレポートの間隔を15秒以上空けること。 ビデオ:</description>
+      <category>特徴</category>
+      <pubDate>Wed, 03 Jan 2024 06:45:45 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> 神の瞳テレポートは、ホットキーが押されると、最も近いレンダリングされた神の瞳の場所にプレイヤーをテレポートさせる。</h2>
+<blockquote>
+<p>注意：安全のため、テレポートの間隔を<code>15秒以上</code>空けること。</p>
+</blockquote>
+<h2> ビデオ:</h2>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/j2Yu31J7Yh4?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Oculi/ChestTeleport" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>チェストテレポート</title>
+      <link>https://korepi.com/jp/features/Teleport/chest-teleport.html</link>
+      <guid>https://korepi.com/jp/features/Teleport/chest-teleport.html</guid>
+      <source url="https://korepi.com/rss.xml">チェストテレポート</source>
+      <description>Chest Teleportはホットキーが押された時に、最も近いレンダリングされたチェストの場所にプレイヤーをテレポートさせます。 注：安全のため、テレポートの間隔を15秒以上空けること。 ビデオ:</description>
+      <category>特徴</category>
+      <pubDate>Wed, 03 Jan 2024 06:45:45 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Chest Teleportはホットキーが押された時に、最も近いレンダリングされたチェストの場所にプレイヤーをテレポートさせます。</h2>
+<blockquote>
+<p>注：安全のため、テレポートの間隔を<code>15秒以上</code>空けること。</p>
+</blockquote>
+<h2> ビデオ:</h2>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/j2Yu31J7Yh4?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Oculi/ChestTeleport" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>カスタムテレポート</title>
+      <link>https://korepi.com/jp/features/Teleport/custom-teleport.html</link>
+      <guid>https://korepi.com/jp/features/Teleport/custom-teleport.html</guid>
+      <source url="https://korepi.com/rss.xml">カスタムテレポート</source>
+      <description>カスタムテレポート：.jsonファイルでリストされた場所にテレポートすることができます。 TP速度: テレポートの速度をコントロールする。問題を避けるために0.1に設定する。; 自動テレポート: 提供された.jsonファイルの順序に従って自動的にテレポートする。; 次へTP：選択したホットキーを押した後、次の場所にテレポートする。; 前へTP: 選択し...</description>
+      <category>特徴</category>
+      <pubDate>Wed, 03 Jan 2024 06:45:45 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> カスタムテレポート：<code>.jsonファイル</code>でリストされた場所にテレポートすることができます。</h2>
+<h3> TP速度:</h3>
+<ul>
+<li>テレポートの速度をコントロールする。問題を避けるために0.1に設定する。</li>
+</ul>
+<h3> 自動テレポート:</h3>
+<ul>
+<li>提供された<code>.jsonファイル</code>の順序に従って自動的にテレポートする。
+<ul>
+<li>次へTP：選択したホットキーを押した後、次の場所にテレポートする。</li>
+<li>前へTP: 選択したホットキーを押した後、前の場所にテレポートする。</li>
+</ul>
+</li>
+</ul>
+<blockquote>
+<p>注：安全のため、<code>15秒以上</code>に設定することを推奨。</p>
+</blockquote>
+<h1> この機能の使用方法については <a href="/jp/guide/custom-tp-setting.html" target="blank">こちら</a></h1>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>マップテレポート</title>
+      <link>https://korepi.com/jp/features/Teleport/map-teleport.html</link>
+      <guid>https://korepi.com/jp/features/Teleport/map-teleport.html</guid>
+      <source url="https://korepi.com/rss.xml">マップテレポート</source>
+      <description>マップ テレポートを使用すると、マップ上の任意の場所にテレポートできます。 マップテレポートを使うには、それを有効にして、使用するホットキーを選択する必要がある。; テレポートするには、マップを開いた状態でホットキーを押し、テレポートしたい場所をクリックする。; 高速テレポート (スポンサー): テレポート中に選択した距離内のロード画面を無効にする。;...</description>
+      <category>特徴</category>
+      <pubDate>Wed, 03 Jan 2024 06:45:45 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> マップ テレポートを使用すると、マップ上の任意の場所にテレポートできます。</h2>
+<ul>
+<li>マップテレポートを使うには、それを有効にして、使用するホットキーを選択する必要がある。</li>
+<li>テレポートするには、マップを開いた状態でホットキーを押し、テレポートしたい場所をクリックする。</li>
+</ul>
+<h3> 高速テレポート (<span style="color:yellow;">スポンサー</span>):</h3>
+<ul>
+<li>テレポート中に選択した距離内のロード画面を無効にする。</li>
+</ul>
+<h2> ビデオ:</h2>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/Xm3mTEbIE9g?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Map TP/Fast TP" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>クエストテレポート</title>
+      <link>https://korepi.com/jp/features/Teleport/quest-teleport.html</link>
+      <guid>https://korepi.com/jp/features/Teleport/quest-teleport.html</guid>
+      <source url="https://korepi.com/rss.xml">クエストテレポート</source>
+      <description>クエスト テレポートを使用すると、現在進行中のクエストの場所にテレポートできます。 この機能を使うには、まずナビゲーションホットキーをクリックし、次にクエストテレポートホットキーをクリックする必要がある。; ビデオ:</description>
+      <category>特徴</category>
+      <pubDate>Wed, 03 Jan 2024 06:45:45 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> クエスト テレポートを使用すると、現在進行中のクエストの場所にテレポートできます。</h2>
+<ul>
+<li>この機能を使うには、まずナビゲーションホットキーをクリックし、次にクエストテレポートホットキーをクリックする必要がある。</li>
+</ul>
+<h2> ビデオ:</h2>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/HNdQu39G2Tc?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - QuestTP" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>アニメーション変更</title>
+      <link>https://korepi.com/jp/features/Visuals/animation-changer.html</link>
+      <guid>https://korepi.com/jp/features/Visuals/animation-changer.html</guid>
+      <source url="https://korepi.com/rss.xml">アニメーション変更</source>
+      <description>アニメーションチェンジャーは、現在のキャラクターアニメーションを選択したアニメーションに変更することができます。</description>
+      <category>特徴</category>
+      <pubDate>Wed, 03 Jan 2024 06:45:45 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> アニメーションチェンジャーは、現在のキャラクターアニメーションを選択したアニメーションに変更することができます。</h2>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>カメラズーム</title>
+      <link>https://korepi.com/jp/features/Visuals/camera-zoom.html</link>
+      <guid>https://korepi.com/jp/features/Visuals/camera-zoom.html</guid>
+      <source url="https://korepi.com/rss.xml">カメラズーム</source>
+      <description>カメラのズームは、ユーザーが希望する値に変更することができます。</description>
+      <category>特徴</category>
+      <pubDate>Wed, 03 Jan 2024 06:45:45 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> カメラのズームは、ユーザーが希望する値に変更することができます。</h2>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>命ノ星座変更</title>
+      <link>https://korepi.com/jp/features/Visuals/constellation-modifier.html</link>
+      <guid>https://korepi.com/jp/features/Visuals/constellation-modifier.html</guid>
+      <source url="https://korepi.com/rss.xml">命ノ星座変更</source>
+      <description>スポンサーのみ 命ノ星座変更は、キャラクターの命ノ星座を視覚的に変化させるもので、実際に機能するものもある。 サーバー内の#⁠cons-checkで、これらのうちどれが機能するかについての詳細情報を見ることができる。; まず星座を発動させたい各キャラクターに切り替えてから、遠くにテレポートして発動させなければならない。 ビデオ:</description>
+      <category>特徴</category>
+      <pubDate>Wed, 03 Jan 2024 06:45:45 GMT</pubDate>
+      <content:encoded><![CDATA[<div class="hint-container info">
+<p class="hint-container-title">スポンサーのみ</p>
+</div>
+<hr>
+<h2> 命ノ星座変更は、キャラクターの命ノ星座を視覚的に変化させるもので、実際に機能するものもある。</h2>
+<ul>
+<li>サーバー内の<code>#⁠cons-check</code>で、これらのうちどれが機能するかについての詳細情報を見ることができる。</li>
+</ul>
+<div class="hint-container tip">
+<p class="hint-container-title">まず星座を発動させたい各キャラクターに切り替えてから、遠くにテレポートして発動させなければならない。</p>
+</div>
+<hr>
+<h2> ビデオ:</h2>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/S9-g5weE9l8?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Constellation Modifier (Sponsor)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>プロフィール変更</title>
+      <link>https://korepi.com/jp/features/Visuals/custom-profile.html</link>
+      <guid>https://korepi.com/jp/features/Visuals/custom-profile.html</guid>
+      <source url="https://korepi.com/rss.xml">プロフィール変更</source>
+      <description>プロフィール変更: UID: 表示させたいUIDを選択する。; ニックネーム: 表示させたいニックネームを選択します。; レベル: 表示させたいレベルを選択する。; 経験地: 表示させたい経験値を選択する。; 世界ランク: 表示させたい世界ランクを選択します。; アバター画像: カスタムpngをアバター画像として使用する。; 名刺の画像: カード画像に...</description>
+      <category>特徴</category>
+      <pubDate>Wed, 03 Jan 2024 06:45:45 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> プロフィール変更:</h2>
+<h3> UID:</h3>
+<ul>
+<li>表示させたいUIDを選択する。</li>
+</ul>
+<h3> ニックネーム:</h3>
+<ul>
+<li>表示させたいニックネームを選択します。</li>
+</ul>
+<h3> レベル:</h3>
+<ul>
+<li>表示させたいレベルを選択する。</li>
+</ul>
+<h3> 経験地:</h3>
+<ul>
+<li>表示させたい経験値を選択する。</li>
+</ul>
+<h3> 世界ランク:</h3>
+<ul>
+<li>表示させたい世界ランクを選択します。</li>
+</ul>
+<h3> アバター画像:</h3>
+<ul>
+<li>カスタムpngをアバター画像として使用する。</li>
+</ul>
+<h3> 名刺の画像:</h3>
+<ul>
+<li>カード画像にカスタムpngを使用する。</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>天候変更</title>
+      <link>https://korepi.com/jp/features/Visuals/custom-weather.html</link>
+      <guid>https://korepi.com/jp/features/Visuals/custom-weather.html</guid>
+      <source url="https://korepi.com/rss.xml">天候変更</source>
+      <description>天候変更は、お好みの天候に変更することができます。</description>
+      <category>特徴</category>
+      <pubDate>Wed, 03 Jan 2024 06:45:45 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> 天候変更は、お好みの天候に変更することができます。</h2>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>表情変更</title>
+      <link>https://korepi.com/jp/features/Visuals/emotion-changer.html</link>
+      <guid>https://korepi.com/jp/features/Visuals/emotion-changer.html</guid>
+      <source url="https://korepi.com/rss.xml">表情変更</source>
+      <description>エモーションチェンジャーは、プレイヤーが現在のキャラクターの感情を選択した感情に変更することができます。</description>
+      <category>特徴</category>
+      <pubDate>Wed, 03 Jan 2024 06:45:45 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> エモーションチェンジャーは、プレイヤーが現在のキャラクターの感情を選択した感情に変更することができます。</h2>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>追加の描画設定</title>
+      <link>https://korepi.com/jp/features/Visuals/extra-visual-settings.html</link>
+      <guid>https://korepi.com/jp/features/Visuals/extra-visual-settings.html</guid>
+      <source url="https://korepi.com/rss.xml">追加の描画設定</source>
+      <description>追加の描画設定: ガンマ: ゲームのガンマ値を変更できます。; 輪郭の幅: ゲーム内のすべてのキャラクターの輪郭を変更できる。; アンチエイリアス: プレイヤーが使用するアンチエイリアスモジュールを変更できるようにします。;</description>
+      <category>特徴</category>
+      <pubDate>Wed, 03 Jan 2024 06:45:45 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> 追加の描画設定:</h2>
+<h3> ガンマ:</h3>
+<ul>
+<li>ゲームのガンマ値を変更できます。</li>
+</ul>
+<h3> 輪郭の幅:</h3>
+<ul>
+<li>ゲーム内のすべてのキャラクターの輪郭を変更できる。</li>
+</ul>
+<h3> アンチエイリアス:</h3>
+<ul>
+<li>プレイヤーが使用するアンチエイリアスモジュールを変更できるようにします。</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>時間偽装</title>
+      <link>https://korepi.com/jp/features/Visuals/fake-time.html</link>
+      <guid>https://korepi.com/jp/features/Visuals/fake-time.html</guid>
+      <source url="https://korepi.com/rss.xml">時間偽装</source>
+      <description>時間偽装: 時間（時、分）の変更。;</description>
+      <category>特徴</category>
+      <pubDate>Wed, 03 Jan 2024 06:45:45 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> 時間偽装:</h2>
+<ul>
+<li>時間（時、分）の変更。</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>風の翼変更</title>
+      <link>https://korepi.com/jp/features/Visuals/flycloak-modifier.html</link>
+      <guid>https://korepi.com/jp/features/Visuals/flycloak-modifier.html</guid>
+      <source url="https://korepi.com/rss.xml">風の翼変更</source>
+      <description>風の翼変更は、プレイヤーがスキンを所有していなくても変更できるようにする。</description>
+      <category>特徴</category>
+      <pubDate>Wed, 03 Jan 2024 06:45:45 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> 風の翼変更は、プレイヤーがスキンを所有していなくても変更できるようにする。</h2>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>FPS上限解放</title>
+      <link>https://korepi.com/jp/features/Visuals/fps-unlock.html</link>
+      <guid>https://korepi.com/jp/features/Visuals/fps-unlock.html</guid>
+      <source url="https://korepi.com/rss.xml">FPS上限解放</source>
+      <description>FPSの上限を開放する。 バックグラウンドのFPSを制限する： ゲームに集中していないときに到達できる最大FPSを設定します。;</description>
+      <category>特徴</category>
+      <pubDate>Wed, 03 Jan 2024 06:45:45 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> FPSの上限を開放する。</h2>
+<h3> バックグラウンドのFPSを制限する：</h3>
+<ul>
+<li>ゲームに集中していないときに到達できる最大FPSを設定します。</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>幽体離脱</title>
+      <link>https://korepi.com/jp/features/Visuals/free-camera.html</link>
+      <guid>https://korepi.com/jp/features/Visuals/free-camera.html</guid>
+      <source url="https://korepi.com/rss.xml">幽体離脱</source>
+      <description>幽体離脱: カメラはキャラクターに固定されることなく自由に動かせる。; キャラクターのアニメーションを固定する: キャラクターのアニメーションがフリーズする。; キャラクター透明化: キャラクターを見えなくする。; キー入力をブロックする: キー入力をブロックするので、カメラを動かしてもキャラクターは動かない。;</description>
+      <category>特徴</category>
+      <pubDate>Wed, 03 Jan 2024 06:45:45 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> 幽体離脱:</h2>
+<ul>
+<li>カメラはキャラクターに固定されることなく自由に動かせる。</li>
+</ul>
+<h3> キャラクターのアニメーションを固定する:</h3>
+<ul>
+<li>キャラクターのアニメーションがフリーズする。</li>
+</ul>
+<h3> キャラクター透明化:</h3>
+<ul>
+<li>キャラクターを見えなくする。</li>
+</ul>
+<h3> キー入力をブロックする:</h3>
+<ul>
+<li>キー入力をブロックするので、カメラを動かしてもキャラクターは動かない。</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>UI非表示</title>
+      <link>https://korepi.com/jp/features/Visuals/hide-ui.html</link>
+      <guid>https://korepi.com/jp/features/Visuals/hide-ui.html</guid>
+      <source url="https://korepi.com/rss.xml">UI非表示</source>
+      <description>UI非表示: プレーヤーのユーザーインターフェイスを完全に隠します。; 通信速度を隠す: (スポンサー) pingのみを隠す。.; 体力バーを隠す: (スポンサー) 現在のキャラクターのHPバーのみを隠す。; 編成の体力バーを隠す: (スポンサー) キャラクタータブのチームHPバーのみを隠す。;</description>
+      <category>特徴</category>
+      <pubDate>Wed, 03 Jan 2024 06:45:45 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> UI非表示:</h2>
+<ul>
+<li>プレーヤーのユーザーインターフェイスを完全に隠します。</li>
+</ul>
+<h3> 通信速度を隠す: (<span style="color:yellow;">スポンサー</span>)</h3>
+<ul>
+<li>pingのみを隠す。.</li>
+</ul>
+<h3> 体力バーを隠す: (<span style="color:yellow;">スポンサー</span>)</h3>
+<ul>
+<li>現在のキャラクターのHPバーのみを隠す。</li>
+</ul>
+<h3> 編成の体力バーを隠す: (<span style="color:yellow;">スポンサー</span>)</h3>
+<ul>
+<li>キャラクタータブのチームHPバーのみを隠す。</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>マップズーム</title>
+      <link>https://korepi.com/jp/features/Visuals/map-zoom.html</link>
+      <guid>https://korepi.com/jp/features/Visuals/map-zoom.html</guid>
+      <source url="https://korepi.com/rss.xml">マップズーム</source>
+      <description>マップズームは、マップで使用する拡大倍率を変更します。</description>
+      <category>特徴</category>
+      <pubDate>Wed, 03 Jan 2024 06:45:45 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> マップズームは、マップで使用する拡大倍率を変更します。</h2>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>モンスター変更</title>
+      <link>https://korepi.com/jp/features/Visuals/monster-changer.html</link>
+      <guid>https://korepi.com/jp/features/Visuals/monster-changer.html</guid>
+      <source url="https://korepi.com/rss.xml">モンスター変更</source>
+      <description>モンスター変更: 有効にすると、新しくレンダリングされたモンスターはすべて、選択したモンスターにビジュアルが変更される。; 動物を除く： 動物の変更を有効または無効にする。; カスタムモンスターID： 提供されたリストの代わりにIDを使用する。; モンスターをランダム化する： 変更はランダムに行われる。;</description>
+      <category>特徴</category>
+      <pubDate>Wed, 03 Jan 2024 06:45:45 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> モンスター変更:</h2>
+<ul>
+<li>有効にすると、新しくレンダリングされたモンスターはすべて、選択したモンスターにビジュアルが変更される。</li>
+</ul>
+<h3> 動物を除く：</h3>
+<ul>
+<li>動物の変更を有効または無効にする。</li>
+</ul>
+<h3> カスタムモンスターID：</h3>
+<ul>
+<li>提供されたリストの代わりにIDを使用する。</li>
+</ul>
+<h3> モンスターをランダム化する：</h3>
+<ul>
+<li>変更はランダムに行われる。</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>その他</title>
+      <link>https://korepi.com/jp/features/Visuals/others.html</link>
+      <guid>https://korepi.com/jp/features/Visuals/others.html</guid>
+      <source url="https://korepi.com/rss.xml">その他</source>
+      <description>その他の機能： 宝箱を表示 ？き見を有効化 No Black Screen 霧消し 除草 マップの霧消し パイモンを召喚 イルカジャンプ GMアイコン メニューをアンロック スポンサーのみ カメラのブラー無効化 カメラの揺れ無効化 足跡無効化 元素爆発の演出無効化 ビデオ:</description>
+      <category>特徴</category>
+      <pubDate>Wed, 03 Jan 2024 06:45:45 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> その他の機能：</h2>
+<h3> 宝箱を表示</h3>
+<h3> ？き見を有効化</h3>
+<h3> No Black Screen</h3>
+<h3> 霧消し</h3>
+<h3> 除草</h3>
+<h3> マップの霧消し</h3>
+<h3> パイモンを召喚</h3>
+<h3> イルカジャンプ</h3>
+<h3> GMアイコン</h3>
+<h3> メニューをアンロック</h3>
+<h2> <span style="color:yellow;">スポンサーのみ</span></h2>
+<h3> カメラのブラー無効化</h3>
+<h3> カメラの揺れ無効化</h3>
+<h3> 足跡無効化</h3>
+<h3> 元素爆発の演出無効化</h3>
+<h2> ビデオ:</h2>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/AjkJ8S8NHsI?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Visuals/Other" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>]]></content:encoded>
+    </item>
+    <item>
+      <title>スキン変更</title>
+      <link>https://korepi.com/jp/features/Visuals/skin-modifier.html</link>
+      <guid>https://korepi.com/jp/features/Visuals/skin-modifier.html</guid>
+      <source url="https://korepi.com/rss.xml">スキン変更</source>
+      <description>Skin Modifierでは、ゲーム内のスキンを無料で使用できる。</description>
+      <category>特徴</category>
+      <pubDate>Wed, 03 Jan 2024 06:45:45 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Skin Modifierでは、ゲーム内のスキンを無料で使用できる。</h2>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>テクスチャ変更</title>
+      <link>https://korepi.com/jp/features/Visuals/texture-changer.html</link>
+      <guid>https://korepi.com/jp/features/Visuals/texture-changer.html</guid>
+      <source url="https://korepi.com/rss.xml">テクスチャ変更</source>
+      <description>テクスチャの変更にはGIMI (../../guide/3DM-tutorial.md)を使うのがよいでしょう。 テクスチャチェンジャーは、提供された.pngファイルにキャラクターのパーツを切り替えることができます。</description>
+      <category>特徴</category>
+      <pubDate>Wed, 03 Jan 2024 06:45:45 GMT</pubDate>
+      <content:encoded><![CDATA[<div class="hint-container info">
+<p class="hint-container-title">テクスチャの変更には[GIMI](../../guide/3DM-tutorial.md)を使うのがよいでしょう。</p>
+</div>
+<hr>
+<h2> テクスチャチェンジャーは、提供された.pngファイルにキャラクターのパーツを切り替えることができます。</h2>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>自動開放</title>
+      <link>https://korepi.com/jp/features/World/auto-activate-tp.html</link>
+      <guid>https://korepi.com/jp/features/World/auto-activate-tp.html</guid>
+      <source url="https://korepi.com/rss.xml">自動開放</source>
+      <description>スポンサーのみ 自動開放は、50mまでの近くのウェイポイントをアクティブにする。 ビデオ:</description>
+      <category>特徴</category>
+      <pubDate>Wed, 03 Jan 2024 06:45:45 GMT</pubDate>
+      <content:encoded><![CDATA[<div class="hint-container info">
+<p class="hint-container-title">スポンサーのみ</p>
+</div>
+<hr>
+<h3> 自動開放は、50mまでの近くのウェイポイントをアクティブにする。</h3>
+<h2> ビデオ:</h2>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/qstBErr9mJ0?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - AutoActivateTP (Sponsor)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>自動挑戦</title>
+      <link>https://korepi.com/jp/features/World/auto-challenge.html</link>
+      <guid>https://korepi.com/jp/features/World/auto-challenge.html</guid>
+      <source url="https://korepi.com/rss.xml">自動挑戦</source>
+      <description>自動挑戦は、指定された範囲と遅延時間内に、現在アクティブなタイムトライアルを完了させることができます。 ビデオ: 注：低遅延や非常に高いレンジでの使用は推奨されない。</description>
+      <category>特徴</category>
+      <pubDate>Wed, 03 Jan 2024 06:45:45 GMT</pubDate>
+      <content:encoded><![CDATA[<h3> 自動挑戦は、指定された範囲と遅延時間内に、現在アクティブなタイムトライアルを完了させることができます。</h3>
+<h2> ビデオ:</h2>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/7JNegfQiK2U?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Challenge" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+<blockquote>
+<p>注：低遅延や非常に高いレンジでの使用は推奨されない。</p>
+</blockquote>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>自動調理</title>
+      <link>https://korepi.com/jp/features/World/auto-cook.html</link>
+      <guid>https://korepi.com/jp/features/World/auto-cook.html</guid>
+      <source url="https://korepi.com/rss.xml">自動調理</source>
+      <description>自動調理は、調理ページで選択された食品の指定された量と品質を調理することができ、それは自動熟練度（自動ロック解除自動調理）内蔵でカウントされます。 ビデオ:</description>
+      <category>特徴</category>
+      <pubDate>Wed, 03 Jan 2024 06:45:45 GMT</pubDate>
+      <content:encoded><![CDATA[<h3> 自動調理は、調理ページで選択された食品の指定された量と品質を調理することができ、それは自動熟練度（自動ロック解除自動調理）内蔵でカウントされます。</h3>
+<h2> ビデオ:</h2>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/T_X13AXiAiY?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Cook" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>自動破壊</title>
+      <link>https://korepi.com/jp/features/World/auto-destroy.html</link>
+      <guid>https://korepi.com/jp/features/World/auto-destroy.html</guid>
+      <source url="https://korepi.com/rss.xml">自動破壊</source>
+      <description>自動破壊は、鉱石、植物、岩山、チェスト、特別なオブジェクト、シールドなどを含む、指定された範囲内のカスタマイズ可能なオブジェクトを破壊することができます。 ビデオ: 注：推奨値は20m以下、最大レンジ(40m)での使用は推奨しない。</description>
+      <category>特徴</category>
+      <pubDate>Wed, 03 Jan 2024 06:45:45 GMT</pubDate>
+      <content:encoded><![CDATA[<h3> 自動破壊は、鉱石、植物、岩山、チェスト、特別なオブジェクト、シールドなどを含む、指定された範囲内のカスタマイズ可能なオブジェクトを破壊することができます。</h3>
+<h2> ビデオ:</h2>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/3ML6s3SR8nE?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Destroy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+<blockquote>
+<p>注：推奨値<code>は</code>20m以下、最大レンジ(<code>40m</code>)での使用は推奨しない。</p>
+</blockquote>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>自動釣り</title>
+      <link>https://korepi.com/jp/features/World/auto-fish.html</link>
+      <guid>https://korepi.com/jp/features/World/auto-fish.html</guid>
+      <source url="https://korepi.com/rss.xml">自動釣り</source>
+      <description>自動釣りは、魚をキャッチするアニメーションをスキップすることができ、魚をキャッチするのに必要な時間を短縮することができます。 ビデオ: 注：この記事を作成している時点では、自動リキャストは機能していません。</description>
+      <category>特徴</category>
+      <pubDate>Wed, 03 Jan 2024 06:45:45 GMT</pubDate>
+      <content:encoded><![CDATA[<h3> 自動釣りは、魚をキャッチするアニメーションをスキップすることができ、魚をキャッチするのに必要な時間を短縮することができます。</h3>
+<h2> ビデオ:</h2>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/K_l4Tg-81iQ?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Fish" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+<blockquote>
+<p>注：この記事を作成している時点では、自動リキャストは機能していません。</p>
+</blockquote>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>自動取得</title>
+      <link>https://korepi.com/jp/features/World/auto-loot.html</link>
+      <guid>https://korepi.com/jp/features/World/auto-loot.html</guid>
+      <source url="https://korepi.com/rss.xml">自動取得</source>
+      <description>自動取得は、選択した範囲と遅延でドロップ品を自動収集することができます。収集されるドロップ品は、チェスト、モブドロップなどを含むカスタマイズが可能です。 ビデオ: 注：通常の使用では10m以下、カスタムTPを使用する場合は20m以下を推奨。 注2：距離が長いほど高い遅延を使用すべきである。</description>
+      <category>特徴</category>
+      <pubDate>Wed, 03 Jan 2024 06:45:45 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> 自動取得は、選択した範囲と遅延でドロップ品を自動収集することができます。収集されるドロップ品は、チェスト、モブドロップなどを含むカスタマイズが可能です。</h2>
+<h2> ビデオ:</h2>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/wUyI2XO_Z4E?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Loot" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+<blockquote>
+<p>注：通常の使用では10m以下、カスタムTPを使用する場合は20m以下を推奨。
+注2：距離が長いほど高い遅延を使用すべきである。</p>
+</blockquote>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>自動仙霊</title>
+      <link>https://korepi.com/jp/features/World/auto-seelie.html</link>
+      <guid>https://korepi.com/jp/features/World/auto-seelie.html</guid>
+      <source url="https://korepi.com/rss.xml">自動仙霊</source>
+      <description>自動仙霊は、プレイヤーが常に仙霊を追いかける必要性をなくし、プレイヤーが近づくと仙霊は目的地に自動で行く。 ビデオ:</description>
+      <category>特徴</category>
+      <pubDate>Wed, 03 Jan 2024 06:45:45 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> 自動仙霊は、プレイヤーが常に仙霊を追いかける必要性をなくし、プレイヤーが近づくと仙霊は目的地に自動で行く。</h2>
+<h2> ビデオ:</h2>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/uETIJ4KS39M?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Seelie" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>自動会話</title>
+      <link>https://korepi.com/jp/features/World/auto-talk.html</link>
+      <guid>https://korepi.com/jp/features/World/auto-talk.html</guid>
+      <source url="https://korepi.com/rss.xml">自動会話</source>
+      <description>自動会話：NPCと自動的に会話する 高速会話: 会話をより速くするために、選択された値で会話を行います。; 注：5以上の使用は推奨されない。 会話スキップ (スポンサー): 選択された遅延の会話をスキップする。高速会話よりも安全です。; 注：200ms以下での使用は推奨しない 高速カットシーン: カットシーンをより速くするために、選択された値スピードア...</description>
+      <category>特徴</category>
+      <pubDate>Wed, 03 Jan 2024 06:45:45 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> 自動会話：NPCと自動的に会話する</h2>
+<h3> 高速会話:</h3>
+<ul>
+<li>会話をより速くするために、選択された値で会話を行います。</li>
+</ul>
+<blockquote>
+<p>注：<code>5以上</code>の使用は推奨されない。</p>
+</blockquote>
+<h3> 会話スキップ (スポンサー):</h3>
+<ul>
+<li>選択された遅延の会話をスキップする。高速会話よりも安全です。</li>
+</ul>
+<blockquote>
+<p>注：<code>200ms以下</code>での使用は推奨しない</p>
+</blockquote>
+<h3> 高速カットシーン:</h3>
+<ul>
+<li>カットシーンをより速くするために、選択された値スピードアップする。</li>
+</ul>
+<blockquote>
+<p>注：<code>5以上</code>の使用は推奨されない</p>
+</blockquote>
+<h3> 会話シーンスキップ:</h3>
+<ul>
+<li>トークシーンがトリガーされたり、進行中の場合はスキップする。</li>
+</ul>
+<blockquote>
+<p>注：使用中に黒い画面が表示されることがあります。</p>
+</blockquote>
+<h3> カットシーンスキップ:</h3>
+<ul>
+<li>カットシーンをスキップする。</li>
+</ul>
+<blockquote>
+<p>注：使用中に黒い画面が表示されることがあります。</p>
+</blockquote>
+<h2> ビデオ:</h2>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/IS0BvLLO1xc?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - AutoTalk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>自動伐採</title>
+      <link>https://korepi.com/jp/features/World/auto-tree-farm.html</link>
+      <guid>https://korepi.com/jp/features/World/auto-tree-farm.html</guid>
+      <source url="https://korepi.com/rss.xml">自動伐採</source>
+      <description>スポンサーのみ 自動伐採では、選択した値と遅延で近くの木を伐採し、自動的に近くの木から木材を得ることができます。 ビデオ: 注：デフォルト値を変更することは推奨されない。</description>
+      <category>特徴</category>
+      <pubDate>Wed, 03 Jan 2024 06:45:45 GMT</pubDate>
+      <content:encoded><![CDATA[<div class="hint-container info">
+<p class="hint-container-title">スポンサーのみ</p>
+</div>
+<hr>
+<h3> 自動伐採では、選択した値と遅延で近くの木を伐採し、自動的に近くの木から木材を得ることができます。</h3>
+<h2> ビデオ:</h2>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/v95_NOxc4do?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Tree Farm" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+<blockquote>
+<p>注：デフォルト値を変更することは推奨されない。</p>
+</blockquote>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>元素オーラ</title>
+      <link>https://korepi.com/jp/features/World/elemental-aura.html</link>
+      <guid>https://korepi.com/jp/features/World/elemental-aura.html</guid>
+      <source url="https://korepi.com/rss.xml">元素オーラ</source>
+      <description>スポンサーのみ 元素オーラは、指定した元素、範囲を持つ元素を、ターゲット、オブジェクト、または自分自身に適用する。 ビデオ: 注：遅延時間が短いと、検知される可能性が高くなります。</description>
+      <category>特徴</category>
+      <pubDate>Wed, 03 Jan 2024 06:45:45 GMT</pubDate>
+      <content:encoded><![CDATA[<div class="hint-container info">
+<p class="hint-container-title">スポンサーのみ</p>
+</div>
+<hr>
+<h3> 元素オーラは、指定した元素、範囲を持つ元素を、ターゲット、オブジェクト、または自分自身に適用する。</h3>
+<h2> ビデオ:</h2>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/FskTJiknOgQ?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Elemental Aura (Sponsor)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+<blockquote>
+<p>注：遅延時間が短いと、検知される可能性が高くなります。</p>
+</blockquote>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>ゲーム速度</title>
+      <link>https://korepi.com/jp/features/World/game-speed.html</link>
+      <guid>https://korepi.com/jp/features/World/game-speed.html</guid>
+      <source url="https://korepi.com/rss.xml">ゲーム速度</source>
+      <description>ゲームのスピード。ゲームのスピードアップやスピードダウン。 注：メニュー以外や一般的な使用は推奨しない。 ビデオ:</description>
+      <category>特徴</category>
+      <pubDate>Wed, 03 Jan 2024 06:45:45 GMT</pubDate>
+      <content:encoded><![CDATA[<h3> ゲームのスピード。ゲームのスピードアップやスピードダウン。</h3>
+<blockquote>
+<p>注：メニュー以外や一般的な使用は推奨しない。</p>
+</blockquote>
+<h2> ビデオ:</h2>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/MzXhudYkaDg?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Game Speed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>キルオーラ</title>
+      <link>https://korepi.com/jp/features/World/kill-aura.html</link>
+      <guid>https://korepi.com/jp/features/World/kill-aura.html</guid>
+      <source url="https://korepi.com/rss.xml">キルオーラ</source>
+      <description>この機能はBANされるリスクが高い。 キルオーラ：周囲の敵にダメージを与える 粉砕ダメージモード： 指定した値、範囲、射程で周囲の敵に落下ダメージを与える。; 注：非常に高い値を使用することは推奨されない。 パーセントモード: 敵を倒すのに必要なヒット数。; 注：3以上の値を使用することを推奨。 体力を残す: 指定したHPを敵に残す。; 即死モード: ...</description>
+      <category>特徴</category>
+      <pubDate>Wed, 03 Jan 2024 06:45:45 GMT</pubDate>
+      <content:encoded><![CDATA[<div class="hint-container danger">
+<p class="hint-container-title">この機能はBANされるリスクが高い。</p>
+</div>
+<hr>
+<h2> キルオーラ：周囲の敵にダメージを与える</h2>
+<h3> 粉砕ダメージモード：</h3>
+<ul>
+<li>指定した値、範囲、射程で周囲の敵に落下ダメージを与える。</li>
+</ul>
+<blockquote>
+<p>注：非常に高い値を使用することは推奨されない。</p>
+</blockquote>
+<h3> パーセントモード:</h3>
+<ul>
+<li>敵を倒すのに必要なヒット数。</li>
+</ul>
+<blockquote>
+<p>注：<code>3</code>以上の値を使用することを推奨。</p>
+</blockquote>
+<h3> 体力を残す:</h3>
+<ul>
+<li>指定したHPを敵に残す。</li>
+</ul>
+<h3> 即死モード:</h3>
+<ul>
+<li>敵を消す。</li>
+</ul>
+<blockquote>
+<p>注：一部のボスでバグが発生する可能性がある。
+注2：使用は推奨されない。</p>
+</blockquote>
+<h3> 対象/敵対状態のみ:</h3>
+<ul>
+<li>敵対的なモブだけをターゲットにする。</li>
+</ul>
+<h2> ビデオ:</h2>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/NiAh00VBy-w?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Kill Aura" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>モブ吸い寄せ</title>
+      <link>https://korepi.com/jp/features/World/mob-vacuum.html</link>
+      <guid>https://korepi.com/jp/features/World/mob-vacuum.html</guid>
+      <source url="https://korepi.com/rss.xml">モブ吸い寄せ</source>
+      <description>モブ吸い寄せは、選択した速度と範囲で近くのモブをプレイヤーに移動させる。 ビデオ: 注：20m以下を推奨。</description>
+      <category>特徴</category>
+      <pubDate>Wed, 03 Jan 2024 06:45:45 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> モブ吸い寄せは、選択した速度と範囲で近くのモブをプレイヤーに移動させる。</h2>
+<h2> ビデオ:</h2>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/KNzVgG_V10I?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Mob Vacuum" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+<blockquote>
+<p>注：<code>20m以下</code>を推奨。</p>
+</blockquote>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>ドロップ品吸い寄せ</title>
+      <link>https://korepi.com/jp/features/World/vacuum-loot.html</link>
+      <guid>https://korepi.com/jp/features/World/vacuum-loot.html</guid>
+      <source url="https://korepi.com/rss.xml">ドロップ品吸い寄せ</source>
+      <description>ドロップ品吸い寄せは、指定した範囲で、近くのドロップ品をプレイヤーに移動させる。 ビデオ: 注： 20m以下を推奨。</description>
+      <category>特徴</category>
+      <pubDate>Wed, 03 Jan 2024 06:45:45 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> ドロップ品吸い寄せは、指定した範囲で、近くのドロップ品をプレイヤーに移動させる。</h2>
+<h2> ビデオ:</h2>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/iMElTsNF77c?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Vacuum Loot" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+<blockquote>
+<p>注： <code>20m以下</code>を推奨。</p>
+</blockquote>
+]]></content:encoded>
+    </item>
   </channel>
 </rss>
