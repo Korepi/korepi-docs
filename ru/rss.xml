@@ -6,41 +6,36 @@
     <link>https://korepi.com/ru/</link>
     <description>Помощь по Korepi</description>
     <language>ru-RU</language>
-    <pubDate>Wed, 03 Jan 2024 11:32:33 GMT</pubDate>
-    <lastBuildDate>Wed, 03 Jan 2024 11:32:33 GMT</lastBuildDate>
+    <pubDate>Wed, 03 Jan 2024 17:45:04 GMT</pubDate>
+    <lastBuildDate>Wed, 03 Jan 2024 17:45:04 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-    <category>Guide</category>
+    <category>Руководство</category>
     <category>FAQ</category>
     <category>Особенности</category>
-    <category>Руководство</category>
     <category>Устранение Неполадок</category>
-    <category>Features</category>
     <category>Гайд</category>
     <item>
-      <title>Как добавить в исключения</title>
+      <title>Как добавить в исключение</title>
       <link>https://korepi.com/ru/guide/virus.html</link>
       <guid>https://korepi.com/ru/guide/virus.html</guid>
-      <source url="https://korepi.com/ru/rss.xml">Как добавить в исключения</source>
-      <description>У других анти-вирусов будут похожие шаги, адаптируйте их под антивирус, который вы используете. Как добавить Korepi в исключения антивируса (Windows Defender) Шаг 1: Откройте ан...</description>
-      <category>Guide</category>
+      <source url="https://korepi.com/ru/rss.xml">Как добавить в исключение</source>
+      <description>::: Информация: другие антивирусы могут иметь схожие шаги; адаптируйте их под используемый вами антивирус ::: Как добавить Korepi в исключения антивируса (Windows Defender) Шаг ...</description>
+      <category>Руководство</category>
       <pubDate>Sat, 23 Dec 2023 17:10:07 GMT</pubDate>
-      <content:encoded><![CDATA[<div class="hint-container info">
-<p class="hint-container-title">У других анти-вирусов будут похожие шаги, адаптируйте их под антивирус, который вы используете.</p>
-</div>
-<hr>
+      <content:encoded><![CDATA[<h2> ::: Информация: другие антивирусы могут иметь схожие шаги; адаптируйте их под используемый вами антивирус :::</h2>
 <h2> Как добавить Korepi в исключения антивируса (Windows Defender)</h2>
 <h3> Шаг 1: Откройте антивирус</h3>
-<p>Откройте строку поиска Windows'a и впишите <code>Windows Security</code> и откройте его.</p>
+<p>Откройте строку поиска в Windows и введите <code>Windows Security</code>, затем откройте его.</p>
 <p><img src="/assets/images/docs/202312/security.png" alt="" loading="lazy"></p>
-<p>Дальше откройте раздел <code>Virus &amp; threat protection</code>.</p>
+<p>Затем перейдите в раздел <code>Virus &amp; threat protection</code>.</p>
 <p><img src="/assets/images/docs/202312/virus1.png" alt="" loading="lazy"></p>
-<p>Теперь переместившись ниже мы найдем <code>Virus &amp; threat protection settings</code>, после чего нажимем на <code>Manage settings</code>.</p>
+<p>Теперь прокрутите вниз и найдите <code>Virus &amp; threat protection settings</code>, затем нажмите <code>Manage settings</code>.</p>
 <p><img src="/assets/images/docs/202312/virus3.png" alt="" loading="lazy"></p>
 <h3> Шаг 2: Добавление в список исключений</h3>
-<p>После выполнения предыдущего шага, мы спустясь ниже найдем <code>Exclusions</code>, после чего нажимаем на <code>Add or remove exclusions</code>.</p>
+<p>После выполнения предыдущего шага, прокрутите вниз и найдите <code>Exclusions</code>, затем нажмите <code>Add or remove exclusions</code>.</p>
 <p><img src="/assets/images/docs/202312/virus4.png" alt="" loading="lazy"></p>
-<p>Нажмите "Да" во всплывающем окне, после чего нажмите на <code>Add an Exclusion</code>. Нам нужно добавить в исключение папку, поэтому мы выбираем пункт <code>Исключить папку</code>, после чего находим и добавляем папку Korepi.</p>
+<p>Нажмите "Да" во всплывающем окне, затем нажмите <code>Add an Exclusion</code>. Нам нужно добавить в исключение папку, поэтому выберите <code>Исключить папку</code>, затем найдите и добавьте папку Korepi.</p>
 ]]></content:encoded>
       <enclosure url="https://korepi.com/assets/images/docs/202312/security.png" type="image/png"/>
     </item>
@@ -49,50 +44,43 @@
       <link>https://korepi.com/ru/troubleshoot/faq.html</link>
       <guid>https://korepi.com/ru/troubleshoot/faq.html</guid>
       <source url="https://korepi.com/ru/rss.xml">FAQ</source>
-      <description>Список FAQ Korepi бесплатен? Да, он бесплатный, однако, чтобы получить его в первый раз вам нужно 7 дней sign-in (../start/sign-in.md), но вы можете пропустить эту часть с помощ...</description>
+      <description>Список Часто Задаваемых Вопросов Бесплатен ли Korepi? Да, Korepi бесплатен. Однако, чтобы получить его в первый раз, вам потребуется 7 дней для входа в систему (../start/sign-in...</description>
       <category>FAQ</category>
       <pubDate>Mon, 18 Dec 2023 17:38:21 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Список FAQ</h2>
-<h3> Korepi бесплатен?</h3>
-<p>Да, он бесплатный, однако, чтобы получить его в первый раз вам нужно 7 дней <a href="/ru/start/sign-in.html" target="blank">sign-in</a>, но вы можете пропустить эту часть с помощью <a href="/ru/start/sponsor.html" target="blank">Спонсорства</a>, после этого вы сможете получать лицензионный ключ, когда заканчивает срок действия у прошлого.</p>
+      <content:encoded><![CDATA[<h2> Список Часто Задаваемых Вопросов</h2>
+<h3> Бесплатен ли Korepi?</h3>
+<p>Да, Korepi бесплатен. Однако, чтобы получить его в первый раз, вам потребуется 7 дней для <a href="/ru/start/sign-in.html" target="blank">входа в систему</a>. Вы можете пропустить этот этап с помощью <a href="/ru/start/sponsor.html" target="blank">Спонсорства</a>. После этого вы сможете получать лицензионный ключ при окончании срока действия предыдущего.</p>
 <hr>
-<h3> Какой пароль у  архива .rar/.zip?</h3>
-<p>...</p>
-<p>Пароль очень простой: <code>1234</code>. Пожалуйста в следующий раз читайте пост загрузки в канале.</p>
+<h3> Какой пароль у архива?</h3>
+<p>Пароль очень прост, вы можете найти его в канале где скачали версию</p>
 <hr>
-<h3> Почему мой Config не сохранился?</h3>
-<p>Зайте, что вы должны сначала извлечить и архива <code>.rar/.zip</code> все файлы в другую папку.</p>
-<p>Если ваш Config все ещё не сохраняется после данных действий, пожалуйста обратитесь к любому помошнику на нашем сервере, для получшения помощи.</p>
+<h3> Почему не сохраняется мой Config?</h3>
+<p>Убедитесь, что вы извлекли все файлы из архива <code>.rar/.zip</code> в другую папку перед сохранением Config.</p>
+<p>Если ваш Config по-прежнему не сохраняется после этого, обратитесь за помощью к любому помощнику на нашем сервере.</p>
 <hr>
-<h3> Где я могу найти "Темы" для Korepi?</h3>
-<p>Вы можете найти Темы для вашего Korepi в <code>community share</code> или вы моежете сделать свою в настройках Korepi.</p>
+<h3> Где найти "Темы" для Korepi?</h3>
+<p>Вы можете найти темы для вашего Korepi в разделе <code>community share</code> или создать свою в настройках Korepi.</p>
 <p><img src="/assets/images/docs/202312/theme-settings.png" alt="" loading="lazy"></p>
-<p>Проверьте <code>Theme Customization</code> чтобы начать создавать свою тему.</p>
+<p>Посмотрите раздел <code>Theme Customization</code>, чтобы начать создание своей темы.</p>
 <hr>
-<h3> Почему мой /sign-in подряд был сброшен?</h3>
-<p>Скорее всего вы превысили время сброса, оно сбрасывается каждый день, если вы пропустите 1 день, то в этом случае все ваши дни сбросятся</p>
-<div class="hint-container info">
-<p class="hint-container-title">Сброс происходит по часовому поясу GMT/UTC+8 в 00:00 каждый день. Пожалуйста переведите это время в свой часовой пояс.</p>
-</div>
+<h3> Почему мой /sign-in был сброшен?</h3>
+<p>Скорее всего, вы превысили время сброса. Оно происходит ежедневно, и если вы пропустите 1 день, все ваши дни сбросятся.</p>
+<h2> ::: Информация: Сброс происходит в 00:00 каждый день по времени GMT/UTC+8. Пожалуйста, учтите это для своего часового пояса :::</h2>
+<h3> Могу ли я использовать Korepi после нового обновления?</h3>
+<p>Нет, вам нужно подождать, пока не выйдет новая версия Korepi.</p>
+<h2> ::: Информация: Использование старого инжектора не будет работать, обновление Korepi занимает примерно 1-2 недели :::</h2>
+<h3> Почему меню не появляется в моей игре?</h3>
+<p>Убедитесь, что вы отключили все оверлеи (например: MSI Afterburner, GeForce Experience и другие) перед запуском Korepi.</p>
 <hr>
-<h3> Могу ли я использовать Korepi когда выходит новое обновление?</h3>
-<p>Нет, вам нужно подождать пока новая версия Korepi не будет выпущена.</p>
-<div class="hint-container info">
-<p class="hint-container-title">Использование старого инжектора не будет работать, обновления Korepi занимает примерно 1-2 недели.</p>
-</div>
+<h3> Где получить <span style="color:D0E31B;">Спонсор</span>'а и сколько это стоит?</h3>
+<p>Вы можете получить <a href="/ru/start/sponsor.html" target="blank">Спонсорство</a>, перейдя по ссылкам в канале <code>#sponsorship</code> в Discord Korepi.</p>
+<p>Чтобы получить роль Спонсора, вам нужно сделать пожертвование не менее 5$. Пожертвования меньше 5$ будут проигнорированы.</p>
 <hr>
-<h3> Почему меню не появляется в саомй игре?</h3>
-<p>Убедитесь что вы отключили любые оверлеи (Например: MSI Afterburner, GeForce Experience и другие) перед запуском Korepi.</p>
-<hr>
-<h3> Где я могу получить <span style="color:D0E31B;">Спонсор</span>'а и сколько это будет стоить?</h3>
-<p>Вы можете получить <a href="/ru/start/sponsor.html" target="blank">Спонсорство</a> по ссылкам, которые находятся в канале <code>#sponsorship</code>, в Discord'e Korepi.</p>
-<p>Для того чтобы получить роль Спонсора, вам нужно пожертвовать по крайней мере 5$, другие пожертвования ниже 5$ будут проигнорированны.</p>
-<hr>
-<h3> Почему моя игра крашит на загрузочном экране?</h3>
-<p>Если вам выдаёт ошибку как эта:</p>
-<p><code>atidxx64.dll caused an Access Violation (0xc0000005) in module atidxx64.dll at 0033:43d1356c.</code></p>
-<p>Пожалуйста обновите ваши драйвера и попробуйте снова.</p>
-<p>Если у вас не такая ошибка, попробуйте выставить настройку более большой delay в <code>cfg.ini</code>, после чего запустите снова.</p>
+<h3> Почему моя игра вылетает на экране загрузки?</h3>
+<p>Если вы видите ошибку, наподобие:</p>
+<p><code>atidxx64.dll вызвало нарушение доступа (0xc0000005) в модуле atidxx64.dll по адресу 0033:43d1356c.</code></p>
+<p>Пожалуйста, обновите ваши драйверы и попробуйте еще раз.</p>
+<p>Если у вас другая ошибка, попробуйте установить более длительную задержку в <code>cfg.ini</code>, а затем запустите игру снова.</p>
 ]]></content:encoded>
       <enclosure url="https://korepi.com/assets/images/docs/202312/theme-settings.png" type="image/png"/>
     </item>
@@ -109,14 +97,14 @@
       <link>https://korepi.com/ru/features/esp.html</link>
       <guid>https://korepi.com/ru/features/esp.html</guid>
       <source url="https://korepi.com/ru/rss.xml">ESP</source>
-      <description>ESP позволяет игроку отслеживать и просматривать выбранные объекты через другие объекты с настраиваемыми визуальными эффектами. Примечание: Диапазон, объекты, визуалы могут быт...</description>
+      <description>ESP позволяет игроку отслеживать и просматривать выбранные объекты через другие объекты с настраиваемыми визуальными эффектами. Примечание: Диапазон, объекты и визуальные эффект...</description>
       <category>Особенности</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
       <content:encoded><![CDATA[<h2> ESP позволяет игроку отслеживать и просматривать выбранные объекты через другие объекты с настраиваемыми визуальными эффектами.</h2>
 <blockquote>
-<p>Примечание: Диапазон, объекты, визуалы могут быть настроены.</p>
+<p>Примечание: Диапазон, объекты и визуальные эффекты могут быть настроены.</p>
 </blockquote>
-<h2> Пример Видео:</h2>
+<h2> Пример видео:</h2>
 <h3> Скоро...</h3>
 ]]></content:encoded>
     </item>
@@ -125,17 +113,17 @@
       <link>https://korepi.com/ru/guide/3DM-skin.html</link>
       <guid>https://korepi.com/ru/guide/3DM-skin.html</guid>
       <source url="https://korepi.com/ru/rss.xml">Установка скинов</source>
-      <description>Как установить собственные скины в GIMI Шаг 1: Загрузите скин Перейдите на Gamebanana (https://gamebanana.com/games/8552) и загрузите скин по своему выбору. Если вам нужно, есть...</description>
+      <description>Как установить собственные скины в GIMI Шаг 1: Загрузите скин Перейдите на Gamebanana (https://gamebanana.com/games/8552) и загрузите скин по своему вкусу. Если у вас нет учетно...</description>
       <category>Руководство</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
       <content:encoded><![CDATA[<h2> Как установить собственные скины в <code>GIMI</code></h2>
 <h3> Шаг 1: Загрузите скин</h3>
-<p>Перейдите на <a href="https://gamebanana.com/games/8552" target="_blank" rel="noopener noreferrer">Gamebanana</a> и загрузите скин по своему выбору.
-Если вам нужно, есть публичный аккаунт:
+<p>Перейдите на <a href="https://gamebanana.com/games/8552" target="_blank" rel="noopener noreferrer">Gamebanana</a> и загрузите скин по своему вкусу.
+Если у вас нет учетной записи, можете использовать публичный аккаунт
 login: korepi
 pass korepi</p>
 <h3> Шаг 2: Установите скин</h3>
-<p>Откройте нашу папку <code>GIMI</code> и найдите папку <code>Mods</code>, внутри этой папки извлеките файл, который мы только что загрузили.</p>
+<p>Откройте папку <code>GIMI</code> и найдите папку <code>Mods</code>. Внутри этой папки извлеките файл, который вы только что загрузили.</p>
 <h3> Шаг 3: Примените скин</h3>
 <p>Если вы уже в игре, используйте <code>F10</code>, чтобы перезагрузить скины. В противном случае откройте игру, следуя <a href="/ru/guide/3DM-tutorial.html" target="blank">последнему посту</a>, и скин должен быть применен.</p>
 ]]></content:encoded>
@@ -145,39 +133,34 @@ pass korepi</p>
       <link>https://korepi.com/ru/guide/3DM-tutorial.html</link>
       <guid>https://korepi.com/ru/guide/3DM-tutorial.html</guid>
       <source url="https://korepi.com/ru/rss.xml">Как использовать собственные скины</source>
-      <description>::: info Если в Korepi отображается echo off в cmd, вы можете просто нажать Numpad 0, чтобы удалить его, также вы можете отредактировать d3dx.ini и найти hunting= и установить 0...</description>
+      <description>::: Информация: Если в Korepi отображается echo off в cmd, вы можете просто нажать Numpad 0, чтобы удалить его. Также вы можете отредактировать файл d3dx.ini, найти строку hunti...</description>
       <category>Руководство</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
-      <content:encoded><![CDATA[<div class="hint-container info">
-<p class="hint-container-title">Если в Korepi отображается `echo off` в cmd, вы можете просто нажать `Numpad 0`, чтобы удалить его, также вы можете отредактировать `d3dx.ini` и найти `hunting=` и установить `0`.</p>
-</div>
-<hr>
+      <content:encoded><![CDATA[<h2> ::: Информация: Если в Korepi отображается <code>echo off</code> в cmd, вы можете просто нажать <code>Numpad 0</code>, чтобы удалить его. Также вы можете отредактировать файл <code>d3dx.ini</code>, найти строку <code>hunting=</code> и установить значение <code>0</code> :::</h2>
 <h2> Как использовать собственные скины в Korepi</h2>
 <p><img src="/assets/images/docs/202312/example.png" alt="" loading="lazy">
-Чтобы использовать собственные скины в Korepi, нам нужно скачать:</p>
-<p><code>3DMigoto (GIMI)</code>.</p>
+Чтобы использовать собственные скины в Korepi, вам нужно скачать: <code>3DMigoto (GIMI)</code>.</p>
 <h2> <span style="color:blue;">Метод 1</span></h2>
-<h3> Шаг 1: Загрузите <code>GIMI</code></h3>
-<p>Скачайте <code>GIMI</code> на официальной странице <a href="https://github.com/SilentNightSound/GI-Model-Importer/releases/tag/v7.0" target="_blank" rel="noopener noreferrer">Github</a> и скачайте файл с именем: <code>3dmigoto-GIMI-for-playing-mods.zip</code>.</p>
+<h3> Шаг 1: Скачайте <code>GIMI</code></h3>
+<p>Скачайте <code>GIMI</code> с <a href="https://github.com/SilentNightSound/GI-Model-Importer/releases/tag/v7.0" target="_blank" rel="noopener noreferrer">официальной страницы Github</a> и получите файл с именем: <code>3dmigoto-GIMI-for-playing-mods.zip</code>.</p>
 <p><img src="/assets/images/docs/202312/3dm-1.png" alt="" loading="lazy"></p>
 <h3> Шаг 2: Извлеките <code>GIMI</code> в папку</h3>
-<p>После скачивания <code>GIMI</code> нам нужно извлечь его в любую папку по вашему выбору. Внутри этой папки вы найдете файл <code>d3d11.dll</code>. Скопируйте путь и добавьте <code>/d3d11.dll</code> в конец, например:</p>
-<p><code>"путь/d3d11.dll"</code></p>
+<p>После загрузки <code>GIMI</code> извлеките его в любую папку на ваш выбор. Внутри этой папки вы найдете файл <code>d3d11.dll</code>. Скопируйте путь и добавьте <code>/d3d11.dll</code> в конец, например: <code>"путь/d3d11.dll"</code></p>
 <h3> Шаг 3: Добавьте <code>GIMI</code> в Korepi</h3>
-<p>Для этого мы должны добавить следующие строки в файл <code>cfg.ini</code>, который находится в папке Korepi.</p>
+<p>Для этого добавьте следующие строки в файл <code>cfg.ini</code>, который находится в папке Korepi.</p>
 <p><img src="/assets/images/docs/202312/3dm-2.png" alt="" loading="lazy"></p>
-<p>В <code>DllPath</code> мы вставим путь, который мы скопировали на последнем шаге.</p>
+<p>В <code>DllPath</code> вставьте путь, скопированный на предыдущем шаге.</p>
 <p><img src="/assets/images/docs/202312/3dm-3.png" alt="" loading="lazy"></p>
 <h3> Шаг 4: Откройте Korepi</h3>
-<p>Если вы следовали указаниям, Korepi должен запускаться с <code>GIMI</code> каждый раз.</p>
+<p>Если вы следовали указаниям, Korepi будет запускаться с <code>GIMI</code> каждый раз.</p>
 <h2> <span style="color:blue;">Метод 2</span></h2>
-<h3> Шаг 1: Загрузите <code>GIMI</code></h3>
-<p>Скачайте <code>GIMI</code> на официальной странице <a href="https://github.com/SilentNightSound/GI-Model-Importer/releases/tag/v7.0" target="_blank" rel="noopener noreferrer">Github</a> и скачайте файл с именем: <code>3dmigoto-GIMI-for-playing-mods.zip</code>.</p>
+<h3> Шаг 1: Скачайте <code>GIMI</code></h3>
+<p>Скачайте <code>GIMI</code> с <a href="https://github.com/SilentNightSound/GI-Model-Importer/releases/tag/v7.0" target="_blank" rel="noopener noreferrer">официальной страницы Github</a> и получите файл с именем: <code>3dmigoto-GIMI-for-playing-mods.zip</code>.</p>
 <p><img src="/assets/images/docs/202312/3dm-1.png" alt="" loading="lazy"></p>
 <h3> Шаг 2: Извлеките <code>GIMI</code> в папку</h3>
-<p>После скачивания <code>GIMI</code> нам нужно извлечь его в любую папку по вашему выбору. Внутри этой папки вы найдете файл <code>3DMigoto Loader.exe</code>. Сначала мы запустим этот файл.</p>
+<p>После загрузки <code>GIMI</code> извлеките его в любую папку по вашему выбору. Внутри этой папки вы найдете файл <code>3DMigoto Loader.exe</code>. Сначала запустите этот файл.</p>
 <h3> Шаг 4: Откройте Korepi</h3>
-<p>После запуска <code>GIMI</code> мы запускаем Korepi, <code>GIMI</code> будет загружен с Korepi. После этого вам нужно будет повторить эти шаги каждый раз, когда вы хотите запустить Korepi с <code>GIMI</code>.</p>
+<p>После запуска <code>GIMI</code> откройте Korepi; <code>GIMI</code> будет загружен с Korepi. После этого вам нужно будет повторять эти шаги каждый раз, когда вы хотите запустить Korepi с <code>GIMI</code>.</p>
 ]]></content:encoded>
       <enclosure url="https://korepi.com/assets/images/docs/202312/example.png" type="image/png"/>
     </item>
@@ -186,27 +169,27 @@ pass korepi</p>
       <link>https://korepi.com/ru/guide/custom-tp-setting.html</link>
       <guid>https://korepi.com/ru/guide/custom-tp-setting.html</guid>
       <source url="https://korepi.com/ru/rss.xml">Как использовать пользовательские точки телепорта</source>
-      <description>Как использовать пользовательские точки телепорта Шаг 1: Установка параметров использования Мы будем использовать следующие параметры. Рекомендуемое время задержки &amp;gt;15 секунд. Ш...</description>
+      <description>Как использовать пользовательские точки телепорта Шаг 1: Установка параметров использования Мы будем использовать следующие параметры. Рекомендуемое время задержки более 15 секу...</description>
       <category>Руководство</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
       <content:encoded><![CDATA[<h2> Как использовать пользовательские точки телепорта</h2>
 <h3> Шаг 1: Установка параметров использования</h3>
 <p>Мы будем использовать следующие параметры.</p>
 <p><img src="/assets/images/docs/202312/teleport1.png" alt="" loading="lazy"></p>
-<p>Рекомендуемое время задержки &gt;15 секунд.</p>
+<p>Рекомендуемое время задержки более 15 секунд.</p>
 <h3> Шаг 2: Загрузка файлов <code>.json</code> для пользовательских точек телепорта</h3>
 <p>Вы можете найти эти файлы в закрепленном посте <code>community-share</code> на сервере. Скачайте те, которые соответствуют вашим потребностям.</p>
 <h3> Шаг 3: Выбор файлов телепорта</h3>
 <p>Перейдите в настройки пользовательских телепортов и перейдите в этот раздел:</p>
 <p><img src="/assets/images/docs/202312/teleport2.png" alt="" loading="lazy"></p>
-<p>Нажмите на "Выбрать путь" и выберите папку с файлами телепорта, которые вы хотите использовать.</p>
+<p>Нажмите "Выбрать путь" и выберите папку с файлами телепорта, которые вы хотите использовать.</p>
 <h3> Шаг 4: Как запустить телепорты</h3>
 <p>После выбора папки установите флажок:</p>
 <p><img src="/assets/images/docs/202312/teleport3.png" alt="" loading="lazy"></p>
-<p>После этого мы нажимаем на "Выбрать":</p>
+<p>После этого нажмите "Выбрать":</p>
 <p><img src="/assets/images/docs/202312/teleport4.png" alt="" loading="lazy"></p>
 <h3> Шаг 5: Наслаждайтесь поездкой</h3>
-<p>Телепорты запустятся автоматически, если у вас есть <a href="/ru/start/sponsor.html" target="blank">Спонсор</a>, вы сможете видеть прогресс и оставшееся время.</p>
+<p>Телепорты запустятся автоматически. Если у вас есть <a href="/ru/start/sponsor.html" target="blank">Спонсор</a>, вы сможете видеть прогресс и оставшееся время.</p>
 ]]></content:encoded>
       <enclosure url="https://korepi.com/assets/images/docs/202312/teleport1.png" type="image/png"/>
     </item>
@@ -215,31 +198,35 @@ pass korepi</p>
       <link>https://korepi.com/ru/guide/getkey.html</link>
       <guid>https://korepi.com/ru/guide/getkey.html</guid>
       <source url="https://korepi.com/ru/rss.xml">Как получить ключ</source>
-      <description>Как получить ключ для Network (F) Шаг 1: Получение роли F Auth Перейдите в ★⋅korepi-version-roles⋅★ на сервере и нажмите на F Auth, чтобы получить роль. Примечание: Проверьте, п...</description>
+      <description>Как получить ключ для Network (F) Шаг 1: Получение роли F Auth Перейдите на сервер в раздел ★⋅korepi-version-roles⋅★ и выберите F Auth, чтобы получить соответствующую роль. Прим...</description>
       <category>Руководство</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
       <content:encoded><![CDATA[<h2> Как получить ключ для Network (F)</h2>
-<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/-9bXOMH0-WM" title="Korepi - How to get V key" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/-9bXOMH0-WM" title="Korepi - Как получить ключ V" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 <h3> Шаг 1: Получение роли F Auth</h3>
-<p>Перейдите в <code>★⋅korepi-version-roles⋅★</code> на сервере и нажмите на <code>F Auth</code>, чтобы получить роль.</p>
-<p><code>Примечание: Проверьте, получили ли вы роль. Если нет, снова нажмите на F Auth</code></p>
+<p>Перейдите на сервер в раздел <code>★⋅korepi-version-roles⋅★</code> и выберите <code>F Auth</code>, чтобы получить соответствующую роль.</p>
+<blockquote>
+<p>Примечание: Убедитесь, что вы получили роль. В противном случае, повторите действие снова, нажав на F Auth</p>
+</blockquote>
 <h3> Шаг 2: Получение ключа</h3>
-<p>Перейдите в <code>⁠★⋅micah-bot-verify⋅★</code> и нажмите на <code>F:Getkey</code>. Бот ответит вам некоторой информацией, включая ключ. Скопируйте его.</p>
+<p>Откройте <code>⁠★⋅micah-bot-verify⋅★</code> и нажмите <code>F:Getkey</code>. Бот предоставит вам информацию, включая ключ. Скопируйте его.</p>
 <h3> Шаг 3: Использование ключа</h3>
-<p>Откройте Korepi. Когда он запросит ключ, вставьте его и нажмите Enter. Завершите шаги, указанные инжектором, и вы готовы к использованию.</p>
-<p>Наслаждайтесь Korepi!</p>
+<p>Запустите Korepi. Когда система запросит ключ, вставьте его и нажмите Enter. Выполните указанные инжектором шаги и вы готовы к использованию.</p>
+<div style="color: #4CAF50; font-size: 18px; font-weight: bold;">Наслаждайтесь Korepi!</div>
 <h2> Как получить ключ для Local (V)</h2>
-<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/OTCSboZdexc" title="Korepi - How to get V key" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/OTCSboZdexc" title="Korepi - Как получить ключ V" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 <h3> Шаг 1: Получение роли V Auth</h3>
-<p>Перейдите в <code>★⋅korepi-version-roles⋅★</code> на сервере и нажмите на <code>V Auth</code>, чтобы получить роль.</p>
-<p><code>Примечание: Проверьте, получили ли вы роль. Если нет, снова нажмите на V Auth</code></p>
+<p>Перейдите на сервер в раздел <code>★⋅korepi-version-roles⋅★</code> и выберите <code>V Auth</code>, чтобы получить соответствующую роль.</p>
+<blockquote>
+<p>Примечание: Убедитесь, что вы получили роль. В противном случае, повторите действие снова, нажав на V Auth</p>
+</blockquote>
 <h3> Шаг 2: Получение вашего <code>HWID</code></h3>
-<p>Чтобы получить ваш <code>HWID</code>, вам нужно открыть <code>Local(V) Injector</code> один раз, и он скопирует его в буфер обмена.</p>
+<p>Откройте <code>Local(V) Injector</code> один раз, чтобы скопировать ваш <code>HWID</code> в буфер обмена.</p>
 <h3> Шаг 3: Получение вашего <code>enc.json</code></h3>
-<p>Перейдите в <code>⁠★⋅micah-bot-verify⋅★</code> и нажмите на <code>V:Verify</code>. Всплывающее окно запросит ваш <code>HWID</code>. Вставьте его и нажмите <code>Submit</code>, а затем загрузите файл, отправленный ботом.</p>
+<p>Перейдите в <code>⁠★⋅micah-bot-verify⋅★</code> и выберите <code>V:Verify</code>. Всплывающее окно запросит ваш <code>HWID</code>. Вставьте его и нажмите <code>Submit</code>, затем загрузите файл, отправленный ботом.</p>
 <h3> Шаг 4: Разместите файл с Korepi</h3>
-<p>После получения файла поместите его в папку Korepi. Учтите, что файл должен называться <code>enc.json</code>, чтобы он работал. Затем откройте Korepi и:</p>
-<p>Наслаждайтесь Korepi!</p>
+<p>После получения файла поместите его в папку Korepi. Убедитесь, что файл называется <code>enc.json</code>, чтобы он корректно работал. Затем откройте Korepi.</p>
+<div style="color: #4CAF50; font-size: 18px; font-weight: bold;">Наслаждайтесь Korepi!</div>
 ]]></content:encoded>
     </item>
     <item>
@@ -247,15 +234,13 @@ pass korepi</p>
       <link>https://korepi.com/ru/guide/multi-instance.html</link>
       <guid>https://korepi.com/ru/guide/multi-instance.html</guid>
       <source url="https://korepi.com/ru/rss.xml">Как использовать множественные экземпляры</source>
-      <description>Как использовать множественные экземпляры (открыть 2 окна игры одновременно) ::: info Работает только с версией Local (V) :::</description>
+      <description>::: Информация: работает только с локальной версией (V) ::: Как использовать несколько экземпляров (открыть два окна игры одновременно)</description>
       <category>Руководство</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Как использовать множественные экземпляры (открыть 2 окна игры одновременно)</h2>
-<div class="hint-container info">
-<p class="hint-container-title">Работает только с версией Local (V)</p>
-</div>
+      <content:encoded><![CDATA[<h2> ::: Информация: работает только с локальной версией (V) :::</h2>
+<h2> Как использовать несколько экземпляров (открыть два окна игры одновременно)</h2>
 <hr>
-<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/pSAxKoneT64" title="Multi-Instance V (Updated)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/pSAxKoneT64" title="Multi-Instance V (Обновлено)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 ]]></content:encoded>
     </item>
     <item>
@@ -263,37 +248,39 @@ pass korepi</p>
       <link>https://korepi.com/ru/guide/resethwid.html</link>
       <guid>https://korepi.com/ru/guide/resethwid.html</guid>
       <source url="https://korepi.com/ru/rss.xml">Как сбросить HWID</source>
-      <description>Сброс HWID: Network(F) Шаг 1: Войдите на страницу входа в Korepi Перейдите на страницу входа в Korepi (https://keyauth.cc/panel/Strigger/Korepi) Предупреждение: Пока ничего не д...</description>
+      <description>Сброс HWID: Network(F) Шаг 1: Вход на страницу Korepi Перейдите на страницу входа в Korepi (https://keyauth.cc/panel/Strigger/Korepi) ### Предупреждение: Пока не предпринимайте ...</description>
       <category>Руководство</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
       <content:encoded><![CDATA[<h2> Сброс HWID: Network(F)</h2>
-<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/DRSEmYsl4F4" title="how to change hwid for F" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
-<h3> Шаг 1: Войдите на страницу входа в Korepi</h3>
-<p>Перейдите на <a href="https://keyauth.cc/panel/Strigger/Korepi" target="_blank" rel="noopener noreferrer">страницу входа в Korepi</a>
-Предупреждение: Пока ничего не делайте.</p>
-<h3> Шаг 2: Получите свой ключ</h3>
-<p>Получите свой ключ из вашего <code>license.json</code> или перейдите в канал <code>★⋅micah-bot-verify⋅★</code> и нажмите на <code>F: Getkey</code>, чтобы получить текущий ключ.</p>
-<h3> Шаг 3: Войдите в Korepi</h3>
-<p>Получив свой ключ, перейдите на <a href="https://keyauth.cc/panel/Strigger/Korepi" target="_blank" rel="noopener noreferrer">страницу входа в Korepi</a>, вставьте свой ключ в оба поля, нажмите "войти", после этого нажмите "Сброс HWID".</p>
-<h3> Шаг 4: Откройте инжектор</h3>
-<p>После сброса вашего HWID перейдите в ваш инжектор и снова вставьте свой ключ.</p>
-<p>Наслаждайтесь Korepi снова!</p>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/DRSEmYsl4F4" title="Как изменить HWID для F" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+<h3> Шаг 1: Вход на страницу Korepi</h3>
+<p>Перейдите на <a href="https://keyauth.cc/panel/Strigger/Korepi" target="_blank" rel="noopener noreferrer">страницу входа в Korepi</a></p>
+<blockquote>
+<h3> Предупреждение: Пока не предпринимайте никаких действий.</h3>
+</blockquote>
+<h3> Шаг 2: Получение ключа</h3>
+<p>Получите свой ключ из файла <code>license.json</code> или посетите канал <code>★⋅micah-bot-verify⋅★</code> и нажмите <code>F: Getkey</code>, чтобы получить текущий ключ.</p>
+<h3> Шаг 3: Вход в Korepi</h3>
+<p>Получив ключ, перейдите на <a href="https://keyauth.cc/panel/Strigger/Korepi" target="_blank" rel="noopener noreferrer">страницу входа в Korepi</a>, вставьте ключ в оба поля, нажмите "Войти", затем "Сброс HWID".</p>
+<h3> Шаг 4: Открытие инжектора</h3>
+<p>После сброса HWID, откройте ваш инжектор и вставьте ключ снова.</p>
+<div style="color: #4CAF50; font-size: 18px; font-weight: bold;">Наслаждайтесь использованием Korepi снова!</div>
 <h2> Сброс HWID: Network(F) (Спонсор)</h2>
-<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/WCuRAyqWMHg" title="Reset HWID F version (Sponsor)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
-<h3> Шаг 1: Перейдите в канал <code>★⋅micah-bot-verify⋅★</code></h3>
-<p>Перейдите в канал <code>★⋅micah-bot-verify⋅★</code> и нажмите на <code>F:Reset Key</code>, затем нажмите <code>F:Getkey</code>, чтобы получить свой новый ключ.</p>
-<h3> Шаг 2: Замените старый ключ</h3>
-<p>Перейдите в папку с вашим Korepi и удалите <code>license.json</code>, после чего откройте Korepi и вставьте новый ключ, который вы получили.</p>
-<p>Наслаждайтесь Korepi!</p>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/WCuRAyqWMHg" title="Сброс HWID F-версии (Спонсор)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+<h3> Шаг 1: Переход в канал <code>★⋅micah-bot-verify⋅★</code></h3>
+<p>Перейдите в канал <code>★⋅micah-bot-verify⋅★</code> и нажмите <code>F:Reset Key</code>, затем <code>F:Getkey</code>, чтобы получить новый ключ.</p>
+<h3> Шаг 2: Замена старого ключа</h3>
+<p>Перейдите в папку с вашим Korepi, удалите <code>license.json</code>, откройте Korepi и вставьте новый ключ.</p>
+<p>Наслаждайтесь использованием Korepi!</p>
 <h2> Сброс HWID: Local(V) (Спонсор)</h2>
-<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/q0G9UZHErrg?list=PL5eI1Tb64p56Mp6JqoR_o3BYk9UFTbOQI" title="How to reset Local V HWID" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
-<h3> Шаг 1: Получите ваш текущий HWID</h3>
-<p>Чтобы получить текущий HWID, вам нужно открыть ваш <code>Local(V) инжектор</code>, и он автоматически скопирует ваш HWID в буфер обмена.</p>
-<h3> Шаг 2: Найдите канал <code>★⋅micah-bot-verify⋅★</code></h3>
-<p>После того, как вы найдете <code>★⋅micah-bot-verify⋅★</code>, нажмите на <code>V:Change HWID</code>, появится окно, запрашивающее ваш текущий HWID, вставьте его и нажмите <code>Submit</code>.</p>
-<h3> Шаг 3: Получите свой новый <code>enc.json</code></h3>
-<p>После сброса HWID нажмите на <code>V:Verify</code> и вставьте свой текущий HWID в окно, затем нажмите <code>Submit</code>. Теперь загрузите новый <code>enc.json</code> и замените файл в вашей папке Korepi.</p>
-<p>Примечание: Помните, что имя файла должно быть <code>enc.json</code>.</p>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/q0G9UZHErrg?list=PL5eI1Tb64p56Mp6JqoR_o3BYk9UFTbOQI" title="Как сбросить HWID Local V" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+<h3> Шаг 1: Получение текущего HWID</h3>
+<p>Для получения текущего HWID откройте <code>Local(V) инжектор</code>, который автоматически скопирует HWID в буфер обмена.</p>
+<h3> Шаг 2: Поиск канала <code>★⋅micah-bot-verify⋅★</code></h3>
+<p>Когда вы найдете <code>★⋅micah-bot-verify⋅★</code>, нажмите <code>V:Change HWID</code>, появится окно для ввода текущего HWID, вставьте его и нажмите <code>Submit</code>.</p>
+<h3> Шаг 3: Получение нового <code>enc.json</code></h3>
+<p>После сброса HWID, нажмите <code>V:Verify</code>, вставьте текущий HWID, затем <code>Submit</code>. Теперь загрузите новый <code>enc.json</code> и замените файл в папке Korepi.</p>
+<p>Примечание: Убедитесь, что имя файла - <code>enc.json</code>.</p>
 ]]></content:encoded>
     </item>
     <item>
@@ -301,26 +288,26 @@ pass korepi</p>
       <link>https://korepi.com/ru/troubleshoot/31-4302.html</link>
       <guid>https://korepi.com/ru/troubleshoot/31-4302.html</guid>
       <source url="https://korepi.com/ru/rss.xml">Ошибка 31-4302</source>
-      <description>Как решить ошибку 31-4302 Метод 1 Если в вашей папке с игрой есть неоригинальные файлы, возможно, появится такое предупреждение. Проверьте, что там только оригинальные файлы, ка...</description>
+      <description>Решение проблемы с ошибкой 31-4302 Метод 1 Если в вашей папке с игрой есть неоригинальные файлы, возможно, появится такое предупреждение. Убедитесь, что в папке находятся только...</description>
       <category>Руководство</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Как решить ошибку <code>31-4302</code></h2>
+      <content:encoded><![CDATA[<h2> Решение проблемы с ошибкой <code>31-4302</code></h2>
 <p><img src="/assets/images/docs/202312/31-4302.png" alt="" loading="lazy"></p>
 <h3> Метод 1</h3>
-<p>Если в вашей папке с игрой есть неоригинальные файлы, возможно, появится такое предупреждение. Проверьте, что там только оригинальные файлы, как на следующем примере:</p>
+<p>Если в вашей папке с игрой есть неоригинальные файлы, возможно, появится такое предупреждение. Убедитесь, что в папке находятся только оригинальные файлы, как показано на следующем примере:</p>
 <p><img src="/assets/images/docs/202312/launcher.png" alt="" loading="lazy"></p>
 <p><img src="/assets/images/docs/202312/folder1.png" alt="" loading="lazy"></p>
-<p>Если вы продолжаете получать ошибку в игре даже после удаления файлов:.</p>
+<p>Если вы продолжаете получать ошибку в игре даже после удаления файлов:</p>
 <h3> Метод 2</h3>
-<p>Перейдите в свой Korepi, перейдите в <code>Настройки --&gt; Другое</code>.</p>
+<p>Откройте Korepi, затем перейдите в <code>Настройки --&gt; Другое</code>.</p>
 <p><img src="/assets/images/docs/202312/settings1.png" alt="" loading="lazy"></p>
-<p>Найдите <code>Bypass Intengrity</code> и снимите флажок.</p>
+<p>Найдите опцию <code>Bypass Intengrity</code> и снимите флажок.</p>
 <p><img src="/assets/images/docs/202312/settings2.png" alt="" loading="lazy"></p>
 <p>Теперь ошибка должна исчезнуть.</p>
-<h2> Что если я не могу войти в Korepi</h2>
-<p>Перейдите в папку Korepi, найдите <code>cfg.json</code>, и нажмите <code>CTRL + F</code>, введите <code>bypass</code> и выполните поиск, установите значение <code>false</code> и откройте Korepi.</p>
-<h2> Что если ничего не помогает?</h2>
-<p>Вам придется переустановить игру.</p>
+<h2> Что делать, если я не могу войти в Korepi</h2>
+<p>Перейдите в папку Korepi, найдите файл <code>cfg.json</code>, нажмите <code>CTRL + F</code>, введите <code>bypass</code> и выполните поиск, установите значение <code>false</code>, после чего откройте Korepi.</p>
+<h2> Что, если ничего не помогает?</h2>
+<p>Придется выполнить переустановку игры.</p>
 ]]></content:encoded>
       <enclosure url="https://korepi.com/assets/images/docs/202312/31-4302.png" type="image/png"/>
     </item>
@@ -337,18 +324,18 @@ pass korepi</p>
       <link>https://korepi.com/ru/troubleshoot/faq-error.html</link>
       <guid>https://korepi.com/ru/troubleshoot/faq-error.html</guid>
       <source url="https://korepi.com/ru/rss.xml">Список Частых Ошибок Инжектора</source>
-      <description>Список Частых Ошибок Почему мой Korepi исчезает? Убедитесь, что ваш антивирус отключен, создайте новую папку и добавьте ее в исключения. Распакуйте korepi внутри исключенной пап...</description>
+      <description>Список Частых Ошибок Почему мой Korepi исчезает? Убедитесь, что ваш антивирус отключен, создайте новую папку и добавьте ее в исключения. Распакуйте Korepi внутри исключенной пап...</description>
       <category>Устранение Неполадок</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
       <content:encoded><![CDATA[<h2> Список Частых Ошибок</h2>
 <h2> Почему мой Korepi исчезает?</h2>
 <p>Убедитесь, что ваш антивирус отключен, создайте новую папку и добавьте ее в исключения.</p>
 <p><img src="/assets/images/docs/202312/virus.png" alt="" loading="lazy"></p>
-<p>Распакуйте korepi внутри исключенной папки и запустите снова.</p>
+<p>Распакуйте Korepi внутри исключенной папки и запустите снова.</p>
 <hr>
-<h2> Статус: No active subscribtion(s) found, Invalid license key</h2>
+<h2> Статус: No active subscription(s) found, Invalid license key</h2>
 <p>Вам нужно <a href="/ru/guide/getkey.html" target="blank">получить новый ключ</a> от <code>⁠★⋅micah-bot-verify⋅★</code>, если вы не можете получить ключ или ключ не работает, вам придется ждать истечения срока действия ключа.</p>
-<p><code>Спонсоры могут использовать F:Reset Key вместо этого</code></p>
+<h3> <code>Спонсоры могут использовать F:Reset Key вместо этого</code></h3>
 <hr>
 <h2> [DLL injection]  Process crashed, exit code 0xc000005</h2>
 <p>Откройте <code>cmd</code> от имени администратора и введите следующую команду:</p>
@@ -393,7 +380,7 @@ pass korepi</p>
 <hr>
 <h2> Signature checksum failed</h2>
 <p><img src="/assets/images/docs/202312/checksum.png" alt="" loading="lazy"></p>
-<p>Серверы выключены или отключены, подождите, пока серверы не включатся.</p>
+<p>Серверы выключены, подождите, пока серверы не включатся.</p>
 <hr>
 <h2> Failed to create game process with Error 5</h2>
 <p><img src="/assets/images/docs/202312/error3.png" alt="" loading="lazy"></p>
@@ -408,7 +395,7 @@ pass korepi</p>
 <p>Обновите ваш инжектор, следуйте шагам <a href="/ru/start/download.html" target="blank">здесь</a></p>
 <hr>
 <h2> File ok</h2>
-<p>Удалите ваш cfg.json, возможно, файл поврежден.</p>
+<p>Удалите ваш <code>cfg.json</code>, возможно, файл поврежден.</p>
 <hr>
 <h2> UserAssembly.dll isn't initialized, waiting for 2 sec.</h2>
 <p>Если ваш инжектор выходит из строя после этой строки, выполните следующие действия:</p>
@@ -425,13 +412,13 @@ pass korepi</p>
       <link>https://korepi.com/ru/features/Player/attack-effects.html</link>
       <guid>https://korepi.com/ru/features/Player/attack-effects.html</guid>
       <source url="https://korepi.com/ru/rss.xml">Эффекты Атаки</source>
-      <description>Эффекты Атаки: Модификации для ваших атак Multi-Hit Mode:Режим Одного Удара: Пытается убить цель одним ударом.;  Примечание: Не рекомендуется использовать.Модифицирует количе...</description>
+      <description>Эффекты Атаки: Модификации для ваших атак Режим Одного Удара (Multi-Hit Mode): Пытается убить цель одним ударом.; Примечание: Не рекомендуется использовать. Модифицирует количес...</description>
       <category>Особенности</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
       <content:encoded><![CDATA[<h2> Эффекты Атаки: Модификации для ваших атак</h2>
-<h3> Multi-Hit Mode:</h3>
+<h3> Режим Одного Удара (Multi-Hit Mode):</h3>
 <ul>
-<li>Режим Одного Удара: Пытается убить цель одним ударом.</li>
+<li>Пытается убить цель одним ударом.</li>
 </ul>
 <blockquote>
 <p>Примечание: Не рекомендуется использовать.</p>
@@ -442,79 +429,77 @@ pass korepi</p>
 <blockquote>
 <p>Примечание: Не рекомендуется устанавливать значение выше <code>5</code>.</p>
 </blockquote>
-<h3> Multi-Target:</h3>
+<h3> Многоцелевой Режим (Multi-Target):</h3>
 <ul>
-<li>Поражает все цели в выбранном радиусе от цели удара.</li>
+<li>Поражает все цели в выбранном радиусе.</li>
 </ul>
 <blockquote>
 <p>Примечание: Не рекомендуется изменять настройки по умолчанию.</p>
 </blockquote>
-<h3> Multi-Animation:</h3>
+<h3> Множество Анимаций (Multi-Animation):</h3>
 <ul>
 <li>Модифицирует количество раз, когда персонаж выполняет действие.</li>
 </ul>
 <blockquote>
 <p>Примечание: Не рекомендуется использовать.</p>
 </blockquote>
-<h3> Attack Speed:</h3>
+<h3> Скорость Атаки (Attack Speed):</h3>
 <ul>
 <li>Модифицирует скорость обычных атак игрока.</li>
 </ul>
 <blockquote>
 <p>Примечание: Не рекомендуется устанавливать значение выше <code>1.5</code>.</p>
 </blockquote>
-<h3> Custom Element:</h3>
+<h3> Измененный Элемент (Custom Element):</h3>
 <ul>
 <li>Модифицирует элемент всех исходящих атак.</li>
 </ul>
-<h3> Infuse Element:</h3>
+<h3> Насыщение Элементом (Infuse Element):</h3>
 <ul>
 <li>Модифицирует элемент обычных атак мечей, копий и глеф.</li>
 </ul>
-<h3> Auto Weakspot:</h3>
+<h3> Автоматическое Попадание в Уязвимое Место (Auto Weakspot):</h3>
 <ul>
 <li>Поражает слабое место цели, вызывая критический урон, работает только с лучниками.</li>
 </ul>
-<h3> Critical Hit (<span style="color:yellow;">Спонсор</span>):</h3>
+<h3> Критический Удар (Critical Hit) (<span style="color:yellow;">Спонсор</span>):</h3>
 <ul>
 <li>Изменяет вероятность критических ударов.</li>
 </ul>
-<h3> Nullify Incoming Element:</h3>
+<h3> Обнуление Поступающего Элемента (Nullify Incoming Element):</h3>
 <ul>
-<li>Обнуляет любой поступающий элемент, преобразуя его в физический урон вместо него.</li>
+<li>Обнуляет любой поступающий элемент, преобразуя его в физический урон.</li>
 </ul>
 <h2> Пример Видео:</h2>
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/1BdKwxBjWyg?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Эффекты Атаки" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 ]]></content:encoded>
     </item>
     <item>
-      <title>Автоматический Запуск</title>
+      <title>Автоматический Бег</title>
       <link>https://korepi.com/ru/features/Player/auto-run.html</link>
       <guid>https://korepi.com/ru/features/Player/auto-run.html</guid>
-      <source url="https://korepi.com/ru/rss.xml">Автоматический Запуск</source>
-      <description>Auto run автоматически перемещает игрока в направлении, в котором он смотрит. Пример Видео:</description>
+      <source url="https://korepi.com/ru/rss.xml">Автоматический Бег</source>
+      <description>Автоматический Бег (Auto run) перемещает игрока в направлении, куда он смотрит. Пример Видео:</description>
       <category>Особенности</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Auto run автоматически перемещает игрока в направлении, в котором он смотрит.</h2>
+      <content:encoded><![CDATA[<h2> Автоматический Бег (Auto run) перемещает игрока в направлении, куда он смотрит.</h2>
 <h2> Пример Видео:</h2>
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/BLDhPBMs7Es?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Автоматический Запуск" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 ]]></content:encoded>
     </item>
     <item>
-      <title>Банни Хоп</title>
+      <title>Банни-хоп</title>
       <link>https://korepi.com/ru/features/Player/bunny-hop.html</link>
       <guid>https://korepi.com/ru/features/Player/bunny-hop.html</guid>
-      <source url="https://korepi.com/ru/rss.xml">Банни Хоп</source>
-      <description>::: info Только для Спонсоров ::: Bunny Hop автоматически выполняет прыжок после первого прыжка при включении. Пример Видео:</description>
+      <source url="https://korepi.com/ru/rss.xml">Банни-хоп</source>
+      <description>::: Информация только для спонсоров ::: Автоматический Банни-хоп (Bunny Hop) Банни-хоп автоматически выполняет последующие прыжки после первого, когда функция включена. Пример В...</description>
       <category>Особенности</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
-      <content:encoded><![CDATA[<div class="hint-container info">
-<p class="hint-container-title">Только для Спонсоров</p>
-</div>
-<hr>
-<h2> Bunny Hop автоматически выполняет прыжок после первого прыжка при включении.</h2>
-<h2> Пример Видео:</h2>
-<div class="iframe-container"><iframe width="640" height="369" src="https://www.youtube.com/embed/Gh2GX23E6dw?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Банни Хоп (Спонсор)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+      <content:encoded><![CDATA[<p>::: Информация только для спонсоров :::</p>
+<h2> Автоматический Банни-хоп (Bunny Hop)</h2>
+<p>Банни-хоп автоматически выполняет последующие прыжки после первого, когда функция включена.</p>
+<h3> Пример Видео:</h3>
+<div class="iframe-container"><iframe width="640" height="369" src="https://www.youtube.com/embed/Gh2GX23E6dw?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Банни-хоп (Спонсор)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 ]]></content:encoded>
     </item>
     <item>
@@ -522,38 +507,38 @@ pass korepi</p>
       <link>https://korepi.com/ru/features/Player/cooldown-effects.html</link>
       <guid>https://korepi.com/ru/features/Player/cooldown-effects.html</guid>
       <source url="https://korepi.com/ru/rss.xml">Эффекты Перезарядки</source>
-      <description>Cooldown Effects: Модификации времени перезарядки различных действий. Max Burst Energy:Убирает необходимость использовать элементарные взрывы.;  Примечание: Энергетический пуз...</description>
+      <description>Эффекты перезарядки: Модификация времени перезарядки различных действий. Максимальная энергия ультимейта (Max Burst Energy): Исключает необходимость собирать энергетические част...</description>
       <category>Особенности</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Cooldown Effects: Модификации времени перезарядки различных действий.</h2>
-<h3> Max Burst Energy:</h3>
+      <content:encoded><![CDATA[<h2> Эффекты перезарядки: Модификация времени перезарядки различных действий.</h2>
+<h3> Максимальная энергия ультимейта (Max Burst Energy):</h3>
 <ul>
-<li>Убирает необходимость использовать элементарные взрывы.</li>
+<li>Исключает необходимость собирать энергетические частицы.</li>
 </ul>
 <blockquote>
-<p>Примечание: Энергетический пузырь может выглядеть неполным, но останется пригодным к использованию.</p>
+<p>Примечание: Иконка ультимейта может выглядеть неполной, но его можно использовать.</p>
 </blockquote>
-<h3> No Avatar Skill Cooldown: Убирает перезарядку для навыков и взрывов персонажа (Q и E).</h3>
+<h3> Отключить перезарядку навыков (No Avatar Skill Cooldown): Убирает перезарядку для навыков и взрывов стихий (Q и E).</h3>
 <ul>
-<li>Уменьшение Перезарядки Навыка/Взрыва: При активации вместо удаления перезарядки она будет установлена на выбранные значения, если перезарядка выше выбранного значения.</li>
+<li>Уменьшение перезарядки навыка/взрыва: При активации устанавливает перезарядку на выбранное значение.</li>
 </ul>
 <blockquote>
-<p>Примечание: Можно использовать любое значение для перезарядки, но не переусердствуйте. <code>например, 40 раз в 1 минуту</code></p>
+<p>Примечание: Можно использовать любое значение для перезарядки, но не переусердствуйте. (Например, 40 раз в 1 минуту)</p>
 </blockquote>
-<h3> No Sprint Cooldown:</h3>
+<h3> Спринт без перезарядки (No Sprint Cooldown):</h3>
 <ul>
-<li>Убирает задержку между спринтами.</li>
+<li>Исключает задержку между спринтами.</li>
 </ul>
-<h3> Instant Charged Attack:</h3>
+<h3> Мгновенный заряд атаки (Instant Charged Attack):</h3>
 <ul>
-<li>Лук: Убирает время зарядки для лучников.</li>
-<li>Другие: Убирает время зарядки для пользователей другого оружия.</li>
+<li>Лук: Исключает время зарядки для лучников.</li>
+<li>Другие: Исключает время зарядки для пользователей другого оружия.</li>
 </ul>
-<h3> No Vehicle Skill Cooldown:</h3>
+<h3> Навыка транспорта без перезарядки (No Vehicle Skill Cooldown):</h3>
 <ul>
-<li>Убирает перезарядку для навыков лодки.</li>
+<li>Исключает перезарядку для навыков лодки.</li>
 </ul>
-<h2> Пример Видео:</h2>
+<h2> Пример видео:</h2>
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/qv5ykSL3Ojw?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Эффекты Перезарядки" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 ]]></content:encoded>
     </item>
@@ -562,58 +547,56 @@ pass korepi</p>
       <link>https://korepi.com/ru/features/Player/extra-movements.html</link>
       <guid>https://korepi.com/ru/features/Player/extra-movements.html</guid>
       <source url="https://korepi.com/ru/rss.xml">Дополнительные Движения</source>
-      <description>::: info Только для Спонсоров ::: Дополнительные Движения: Модификации/Улучшения определенных действий для игрока. Run On Water:Позволяет ходить по воде.; Run Boost:Увеличивае...</description>
+      <description>::: Информация только для Спонсоров ::: Дополнительные Движения: Модификации/Улучшения определенных действий для игрока. Бег по воде (Run On Water): Позволяет пересекать водную ...</description>
       <category>Особенности</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
-      <content:encoded><![CDATA[<div class="hint-container info">
-<p class="hint-container-title">Только для Спонсоров</p>
-</div>
+      <content:encoded><![CDATA[<p>::: Информация только для Спонсоров :::</p>
 <hr>
 <h2> Дополнительные Движения: Модификации/Улучшения определенных действий для игрока.</h2>
-<h3> Run On Water:</h3>
+<h3> Бег по воде (Run On Water):</h3>
 <ul>
-<li>Позволяет ходить по воде.</li>
+<li>Позволяет пересекать водную поверхность пешком.</li>
 </ul>
-<h3> Run Boost:</h3>
+<h3> Ускорение (Run Boost):</h3>
 <ul>
 <li>Увеличивает скорость бега игрока.</li>
 </ul>
 <blockquote>
 <p>Примечание: Не рекомендуется изменять настройки по умолчанию.</p>
 </blockquote>
-<h3> Jump Boost:</h3>
+<h3> Усиление прыжка (Jump Boost):</h3>
 <ul>
 <li>Увеличивает высоту прыжка игрока.
 <ul>
-<li>Применять в Полете: Включить прыжки в воздухе.</li>
+<li>Применять в полете: Включить прыжки в воздухе.</li>
 </ul>
 </li>
 </ul>
 <blockquote>
 <p>Примечание: Не рекомендуется изменять настройки по умолчанию.</p>
 </blockquote>
-<h3> Fly Boost:</h3>
+<h3> Увеличение скорости полета (Fly Boost):</h3>
 <ul>
 <li>Увеличивает скорость полета игрока.</li>
 </ul>
 <blockquote>
 <p>Примечание: Не рекомендуется изменять настройки по умолчанию.</p>
 </blockquote>
-<h3> Swim Boost:</h3>
+<h3> Увеличение скорости плаванья (Swim Boost):</h3>
 <ul>
 <li>Увеличивает скорость плавания игрока.</li>
 </ul>
 <blockquote>
 <p>Примечание: Не рекомендуется изменять настройки по умолчанию.</p>
 </blockquote>
-<h3> Dive Boost:</h3>
+<h3> Увеличение скорости погружения игрока (Dive Boost):</h3>
 <ul>
 <li>Увеличивает скорость погружения игрока.</li>
 </ul>
 <blockquote>
 <p>Примечание: Не рекомендуется изменять настройки по умолчанию.</p>
 </blockquote>
-<h3> Blink:</h3>
+<h3> Телепорт (Blink):</h3>
 <ul>
 <li>Позволяет игроку перемещаться на определенное расстояние после нажатия горячей клавиши.</li>
 </ul>
@@ -626,11 +609,11 @@ pass korepi</p>
       <link>https://korepi.com/ru/features/Player/fall-control.html</link>
       <guid>https://korepi.com/ru/features/Player/fall-control.html</guid>
       <source url="https://korepi.com/ru/rss.xml">Управление Падением</source>
-      <description>Fall Control позволяет вам двигаться с выбранной скоростью во время падения. Пример Видео:</description>
+      <description>Управление Падением (Fall Control) позволяет вам управлять своим движением с выбранной скоростью во время падения. Пример видео:</description>
       <category>Особенности</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Fall Control позволяет вам двигаться с выбранной скоростью во время падения.</h2>
-<h2> Пример Видео:</h2>
+      <content:encoded><![CDATA[<h2> Управление Падением (Fall Control) позволяет вам управлять своим движением с выбранной скоростью во время падения.</h2>
+<h2> Пример видео:</h2>
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/BHiabtwSSNc?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Управление Падением" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 ]]></content:encoded>
     </item>
@@ -639,97 +622,94 @@ pass korepi</p>
       <link>https://korepi.com/ru/features/Player/god-mode.html</link>
       <guid>https://korepi.com/ru/features/Player/god-mode.html</guid>
       <source url="https://korepi.com/ru/rss.xml">Режим Бога</source>
-      <description>God Mode отключит весь поступающий урон. Undead:При включении режим Бога активируется только в случае смертельного урона.; Условный:При включении режим Бога активируется тольк...</description>
+      <description>Режим Бога (God Mode) отключает весь получаемый урон. На пороге смерти (Undead): Активируется только при получении смертельного урона в режиме Бога.; Условный: Срабатывает тольк...</description>
       <category>Особенности</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> God Mode отключит весь поступающий урон.</h2>
-<h3> Undead:</h3>
+      <content:encoded><![CDATA[<h2> Режим Бога (God Mode) отключает весь получаемый урон.</h2>
+<h3> На пороге смерти (Undead):</h3>
 <ul>
-<li>При включении режим Бога активируется только в случае смертельного урона.</li>
+<li>Активируется только при получении смертельного урона в режиме Бога.</li>
 </ul>
 <h3> Условный:</h3>
 <ul>
-<li>При включении режим Бога активируется только при падении здоровья персонажа ниже указанного значения.</li>
+<li>Срабатывает только при падении здоровья персонажа ниже указанного значения в режиме Бога.</li>
 </ul>
 <blockquote>
-<p>Примечание: Рекомендуется использовать условный режим в Абиссе.</p>
+<p>Примечание: Рекомендуется использовать условный режим в бездне.</p>
 </blockquote>
-<h2> Пример Видео:</h2>
+<h2> Пример видео:</h2>
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/42utUUYNHRE?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Режим Бога" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 ]]></content:encoded>
     </item>
     <item>
-      <title>Бесконечная Выносливость</title>
+      <title>Бесконечная выносливость</title>
       <link>https://korepi.com/ru/features/Player/infinite-stamina.html</link>
       <guid>https://korepi.com/ru/features/Player/infinite-stamina.html</guid>
-      <source url="https://korepi.com/ru/rss.xml">Бесконечная Выносливость</source>
-      <description>Infinite Stamina отключает расход выносливости для всех действий. Move Sync Packet Replacement:При включении этой функции и отключении Бесконечной Выносливости предотвращает от...</description>
+      <source url="https://korepi.com/ru/rss.xml">Бесконечная выносливость</source>
+      <description>Бесконечная выносливость (Infinite Stamina) отключает расход выносливости для всех действий. Замена Пакета Синхронизации Движения (Move Sync Packet Replacement): При включении э...</description>
       <category>Особенности</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Infinite Stamina отключает расход выносливости для всех действий.</h2>
-<h3> Move Sync Packet Replacement:</h3>
-<ul>
-<li>При включении этой функции и отключении Бесконечной Выносливости предотвращает отправку пакетов действий, потребляющих выносливость, на сервер, таких как бег, восхождение, плавание, и так далее.</li>
-</ul>
+      <content:encoded><![CDATA[<h2> Бесконечная выносливость (Infinite Stamina) отключает расход выносливости для всех действий.</h2>
+<h3> Замена Пакета Синхронизации Движения (Move Sync Packet Replacement):</h3>
+<p>При включении этой функции и отключении Бесконечной Выносливости предотвращается отправка пакетов действий, потребляющих выносливость, на сервер, таких как бег, вскарабкивание, плавание и другие.</p>
 <blockquote>
-<p>Примечание: Рекомендуется использовать Замену Пакета Синхронизации Движения.</p>
+<p>Примечание: Рекомендуется использовать Замену Пакета Синхронизации Движения (Move Sync Packet Replacement).</p>
 </blockquote>
-<h2> Пример Видео:</h2>
-<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/NZhfaMOLuY0?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Бесконечная Выносливость" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+<h2> Пример видео:</h2>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/NZhfaMOLuY0?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Бесконечная выносливость" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 ]]></content:encoded>
     </item>
     <item>
-      <title>Полет No clip</title>
+      <title>Режим полета</title>
       <link>https://korepi.com/ru/features/Player/no-clip.html</link>
       <guid>https://korepi.com/ru/features/Player/no-clip.html</guid>
-      <source url="https://korepi.com/ru/rss.xml">Полет No clip</source>
-      <description>No Clip позволит вам летать . No Animation:При включении отключит анимации персонажа при использовании без коллизий.; Camera-relative movement:При включении персонаж будет дви...</description>
+      <source url="https://korepi.com/ru/rss.xml">Режим полета</source>
+      <description>Режим полета (No Clip) позволяет вам летать. Отключение Анимации (No Animation): При включении этой опции анимации персонажа будут отключены при использовании режима без коллизи...</description>
       <category>Особенности</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> No Clip позволит вам летать .</h2>
-<h3> No Animation:</h3>
+      <content:encoded><![CDATA[<h2> Режим полета (No Clip) позволяет вам летать.</h2>
+<h3> Отключение Анимации (No Animation):</h3>
 <ul>
-<li>При включении отключит анимации персонажа при использовании без коллизий.</li>
+<li>При включении этой опции анимации персонажа будут отключены при использовании режима без коллизий.</li>
 </ul>
-<h3> Camera-relative movement:</h3>
+<h3> Движение относительно камеры (Camera-relative movement):</h3>
 <ul>
-<li>При включении персонаж будет двигаться в соответствии с видом камеры, а не тем, куда смотрит персонаж.</li>
+<li>При включении этой опции персонаж будет двигаться в соответствии с направлением камеры, а не тем, куда смотрит персонаж.</li>
 </ul>
-<h3> Alternate No-Clip:</h3>
+<h3> Альтернативный (No-Clip):</h3>
 <ul>
-<li>При включении скорость без коллизий изменится после нажатия выбранной горячей клавиши на заданную скорость.</li>
+<li>При включении этой опции скорость в режиме без коллизий изменится после нажатия выбранной горячей клавиши на указанную скорость.</li>
 </ul>
-<h3> Use Custom Keys:</h3>
+<h3> Использование специальных клавиш (Use Custom Keys):</h3>
 <ul>
-<li>Включает возможность изменения управления направлением без коллизий.</li>
+<li>Включает возможность настройки управления направлением в режиме без коллизий.</li>
 </ul>
-<h3> DragBack Bypass:</h3>
+<h3> Обход торможения при отпускании клавиши (DragBack Bypass):</h3>
 <ul>
-<li>Предотвращает серверу торможение персонажа из-за чрезмерной скорости.</li>
+<li>Предотвращает торможение персонажа на сервере из-за чрезмерной скорости.</li>
 </ul>
 <blockquote>
-<p>Примечание: Не рекомендуется устанавливать значение выше <code>20</code>.
-P.s Я использую значение в 35 больше года by QweRez</p>
+<p>Примечание: Не рекомендуется устанавливать значение выше <code>20</code>.</p>
 </blockquote>
-<h2> Пример Видео:</h2>
+<h2> Пример видео:</h2>
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/nPdq-yzBt3k?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Без Коллизий" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 ]]></content:encoded>
     </item>
     <item>
-      <title>Скорость Игрока</title>
+      <title>Скорость игрока</title>
       <link>https://korepi.com/ru/features/Player/player-speed.html</link>
       <guid>https://korepi.com/ru/features/Player/player-speed.html</guid>
-      <source url="https://korepi.com/ru/rss.xml">Скорость Игрока</source>
-      <description>Player Speed модифицирует скорость игрока. Реально. Не Имитация. Примечание: Рекомендуется использовать значение ниже 1.5. Примечание 2: Extra Movements (extra-movements.md) р...</description>
+      <source url="https://korepi.com/ru/rss.xml">Скорость игрока</source>
+      <description>Модификация скорости игрока (Player Speed): реальность, а не имитация. Примечание: Рекомендуется использовать значение ниже 1.5. Примечание: Дополнительные движения (Extra Movem...</description>
       <category>Особенности</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Player Speed модифицирует скорость игрока. Реально. Не Имитация.</h2>
+      <content:encoded><![CDATA[<h2> Модификация скорости игрока (Player Speed): реальность, а не имитация.</h2>
 <blockquote>
-<p>Примечание: Рекомендуется использовать значение ниже <code>1.5</code>.
-Примечание 2: <a href="/ru/features/Player/extra-movements.html" target="blank">Extra Movements</a> рекомендуется, так как они лучше синхронизированы с сервером (безопаснее) (Спонсор).</p>
+<p>Примечание: Рекомендуется использовать значение ниже <code>1.5</code>.</p>
+<p>Примечание: Дополнительные движения (<a href="/ru/features/Player/extra-movements.html" target="blank">Extra Movements</a>) рекомендуется, так как они лучше синхронизированы с сервером (безопаснее) (спонсор).</p>
 </blockquote>
-<h2> Пример Видео:</h2>
-<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/HCxmOUMFRs8?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Скорость Игрока" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+<h2> Пример видео:</h2>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/HCxmOUMFRs8?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Скорость игрока" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 ]]></content:encoded>
     </item>
     <item>
@@ -737,236 +717,242 @@ P.s Я использую значение в 35 больше года by QweRez
       <link>https://korepi.com/ru/features/Player/remote-utility.html</link>
       <guid>https://korepi.com/ru/features/Player/remote-utility.html</guid>
       <source url="https://korepi.com/ru/rss.xml">Удаленная Утилита</source>
-      <description>::: info Только для Спонсоров ::: Remote Utility: Claim Daily Commission Reward:Получает ежедневное вознаграждение за выполнение всех 4-х квестов.; Custom Talk:Начинает разгов...</description>
+      <description>::: Инфорамация только для Спонсоров ::: Удаленная Утилита (Remote Utility): Получение ежедневного вознаграждения за выполнение всех 4-х квестов (Claim Daily Commission Reward):...</description>
       <category>Особенности</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
-      <content:encoded><![CDATA[<div class="hint-container info">
-<p class="hint-container-title">Только для Спонсоров</p>
-</div>
+      <content:encoded><![CDATA[<p>::: Инфорамация только для Спонсоров :::</p>
 <hr>
-<h2> Remote Utility:</h2>
-<h3> Claim Daily Commission Reward:</h3>
+<h2> Удаленная Утилита (Remote Utility):</h2>
+<h3> Получение ежедневного вознаграждения за выполнение всех 4-х квестов (Claim Daily Commission Reward):</h3>
 <ul>
-<li>Получает ежедневное вознаграждение за выполнение всех 4-х квестов.</li>
+<li>Выдается ежедневное вознаграждение за выполнение всех четырех квестов.</li>
 </ul>
-<h3> Custom Talk:</h3>
+<h3> Созданный разговор (Custom Talk):</h3>
 <ul>
-<li>Начинает разговор, используя идентификатор разговора; некоторые разговоры могут не работать.</li>
+<li>Запуск разговора с использованием идентификатора разговора; некоторые разговоры могут не работать.</li>
 </ul>
 <blockquote>
-<p>Примечание: Эта функция опасна.
-Примечание: Чтобы получить идентификатор разговора, включите <code>Отладочный Разговор</code>, идентификатор будет отображен в <code>cmd</code>.</p>
+<p>Примечание: Эта функция опасна.</p>
+<p>Примечание: Для получения идентификатора разговора включите <code>Отладочный Разговор</code>; идентификатор будет отображен в <code>cmd</code>.</p>
 </blockquote>
-<h3> Spawn Gadget:</h3>
+<h3> Призыв гаджета (Spawn Gadget):</h3>
 <ul>
-<li>Призывает выбранный гаджет по идентификатору; некоторые из них могут не работать.</li>
+<li>Вызов выбранного гаджета по его идентификатору; некоторые из них могут не работать.</li>
 </ul>
 <blockquote>
-<p>Примечание: Эта функция опасна.
-Примечание 2: Вы можете найти идентификаторы гаджетов <a href="https://github.com/jie65535/GrasscutterCommandGenerator/blob/main/Source/GrasscutterTools/Resources/en-us/Gadget.txt" target="_blank" rel="noopener noreferrer">здесь</a></p>
+<p>Примечание: Эта функция опасна.</p>
+<p>Примечание: Идентификаторы гаджетов можно найти <a href="https://github.com/jie65535/GrasscutterCommandGenerator/blob/main/Source/GrasscutterTools/Resources/en-us/Gadget.txt" target="_blank" rel="noopener noreferrer">здесь</a></p>
 </blockquote>
-<h3> Crafting:</h3>
+<h3> Крафтинг (Crafting):</h3>
 <ul>
-<li>Сжатая Смола: Создает сжатую смолу, если у вас есть смола и необходимые предметы.</li>
-<li>Призыв Стола Алхимика: Призывает стол алхимика.</li>
-<li>Призыв Кузнечного Стола: Призывает кузнечный стол.</li>
-<li>Пользовательская Комбинация: Попытается объединить выбранный предмет с использованием текущего персонажа.
+<li>Создание сжатой смолы, если у вас есть смола и необходимые предметы.</li>
+<li>Призыв стола алхимика.</li>
+<li>Призыв кузнечного стола.</li>
+<li>Попытка объединения выбранного предмета с использованием текущего персонажа.
 <blockquote>
-<p>Примечание: Если успешно, не будет подсказки. Пожалуйста, проверьте инвентарь.
-Примечание 2: Вы можете найти идентификаторы комбинаций <a href="https://github.com/jie65535/GrasscutterCommandGenerator/blob/main/Source/GrasscutterTools/Resources/en-us/Item.txt" target="_blank" rel="noopener noreferrer">здесь</a></p>
+<p>Примечание: В случае успеха подсказки не будет. Пожалуйста, проверьте инвентарь.</p>
+<p>Примечание: Идентификаторы комбинаций можно найти <a href="https://github.com/jie65535/GrasscutterCommandGenerator/blob/main/Source/GrasscutterTools/Resources/en-us/Item.txt" target="_blank" rel="noopener noreferrer">здесь</a></p>
 </blockquote>
 </li>
 </ul>
-<h3> Summon NPC:</h3>
+<h3> Призыв NPC (Summon NPC):</h3>
 <ul>
-<li>Призывает выбранного NPC по идентификатору.</li>
+<li>Вызов выбранного NPC по его идентификатору.</li>
 </ul>
 <blockquote>
 <p>Примечание: Катерина, Вагнер и Принц уже включены.</p>
 </blockquote>
-<h3> Summon Monster:</h3>
+<h3> Призыв монстра (Summon Monster):</h3>
 <ul>
-<li>Призывает выбранного монстра с выбранными параметрами по идентификатору.</li>
+<li>Вызов выбранного монстра с выбранными параметрами по его идентификатору.</li>
 </ul>
 <blockquote>
-<p>Примечание: Вы не можете их убить.
-Примечание 2: Вы можете найти идентификаторы монстров <a href="https://github.com/jie65535/GrasscutterCommandGenerator/blob/main/Source/GrasscutterTools/Resources/en-us/Monsters.txt" target="_blank" rel="noopener noreferrer">здесь</a></p>
+<p>Примечание: Их нельзя убить.</p>
+<p>Примечание: Идентификаторы монстров можно найти <a href="https://github.com/jie65535/GrasscutterCommandGenerator/blob/main/Source/GrasscutterTools/Resources/en-us/Monsters.txt" target="_blank" rel="noopener noreferrer">здесь</a></p>
 </blockquote>
-<h3> Summon Item:</h3>
+<h3> Призыв предмета (Summon Item):</h3>
 <ul>
-<li>Призывает выбранный предмет по идентификатору.</li>
+<li>Вызов выбранного предмета по его идентификатору.</li>
 </ul>
 <blockquote>
 <p>Примечание: Некоторые предметы могут не работать.
-Примечание 2: Вы можете найти идентификаторы предметов <a href="https://github.com/jie65535/GrasscutterCommandGenerator/blob/main/Source/GrasscutterTools/Resources/en-us/Item.txt" target="_blank" rel="noopener noreferrer">здесь</a></p>
+Примечание: Идентификаторы предметов можно найти <a href="https://github.com/jie65535/GrasscutterCommandGenerator/blob/main/Source/GrasscutterTools/Resources/en-us/Item.txt" target="_blank" rel="noopener noreferrer">здесь</a></p>
 </blockquote>
-<h3> Open UI Page:</h3>
+<h3> Открытие страницы пользовательского интерфейса (Open UI Page):</h3>
 <ul>
-<li>Открыть Меню Паймона: Открывает меню.</li>
-<li>Открыть Страницу Готовки: Открывает страницу готовки.
+<li>Открытие меню Паймона.</li>
+<li>Открытие страницы готовки.
 <blockquote>
 <p>Примечание: Необходимо открыть страницу готовки один раз перед использованием этой функции.</p>
 </blockquote>
 </li>
 </ul>
-<h3> Worship Statue:</h3>
+<h3> Поклонение статуе (Worship Statue):</h3>
 <ul>
-<li>Поклонится выбранной статуе Семи с выбранным количеством; нужно иметь оккультный глаз для этого.</li>
+<li>Поклонение выбранной статуе Семи с выбранным количеством; необходим оккультный глаз.</li>
 </ul>
-<h3> Change Traveler Element:</h3>
+<h3> Изменение элемента путешественника (Change Traveler Element):</h3>
 <ul>
 <li>Позволяет игроку изменить элемент путешественника в любом месте.</li>
 </ul>
-<h2> Пример Видео:</h2>
-<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/XGztUEy82sE?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Remote Utilities (Sponsor)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+<h2> Пример видео:</h2>
+<div class="iframe-container">
+  <iframe width="640" height="360" src="https://www.youtube.com/embed/XGztUEy82sE?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Remote Utilities (Sponsor)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+</div>
 ]]></content:encoded>
     </item>
     <item>
-      <title>Тп по Окулам</title>
+      <title>Гайд по телепорту к окулам</title>
       <link>https://korepi.com/ru/features/Teleport/0culi-teleport.html</link>
       <guid>https://korepi.com/ru/features/Teleport/0culi-teleport.html</guid>
-      <source url="https://korepi.com/ru/rss.xml">Тп по Окулам</source>
-      <description>Oculi Teleport телепортирует игрока в ближайшее отображаемое местоположение Окула при нажатии горячей клавиши. Примечание: Подождите &amp;quot;&amp;gt;15 секунд&amp;quot; между телепортациями в целях б...</description>
-      <category>Features</category>
+      <source url="https://korepi.com/ru/rss.xml">Гайд по телепорту к окулам</source>
+      <description>телепорту к окулу (Oculi Teleport): телепортация игрока в ближайшее отображаемое местоположение Окула при нажатии горячей клавиши. Примечание: Пожалуйста, подождите не менее 15 ...</description>
+      <category>Особенности</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Oculi Teleport телепортирует игрока в ближайшее отображаемое местоположение Окула при нажатии горячей клавиши.</h2>
+      <content:encoded><![CDATA[<h2> телепорту к окулу (Oculi Teleport): телепортация игрока в ближайшее отображаемое местоположение Окула при нажатии горячей клавиши.</h2>
 <blockquote>
-<p>Примечание: Подождите "&gt;15 секунд" между телепортациями в целях безопасности.</p>
+<p>Примечание: Пожалуйста, подождите не менее 15 секунд между телепортациями в целях обеспечения безопасности.</p>
 </blockquote>
-<h2> Пример Видео:</h2>
+<h2> Пример видео:</h2>
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/j2Yu31J7Yh4?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Oculi/ChestTeleport" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 ]]></content:encoded>
     </item>
     <item>
-      <title>Кастомный Телепорт</title>
+      <title>Телепорт к сундукам</title>
       <link>https://korepi.com/ru/features/Teleport/chest-teleport.html</link>
       <guid>https://korepi.com/ru/features/Teleport/chest-teleport.html</guid>
-      <source url="https://korepi.com/ru/rss.xml">Кастомный Телепорт</source>
-      <description>Телепорт сундука при нажатии горячей клавиши игрок телепортируется в ближайшее отображаемое местоположение сундука. Примечание: Подождите &amp;quot;&amp;gt;15 секунд&amp;quot; между телепортациями в це...</description>
-      <category>Features</category>
+      <source url="https://korepi.com/ru/rss.xml">Телепорт к сундукам</source>
+      <description>Телепорт к сундукам При нажатии горячей клавиши игрок телепортируется в ближайшее отображаемое местоположение сундука. Примечание: Подождите не менее 15 секунд между телепортаци...</description>
+      <category>Особенности</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Телепорт сундука при нажатии горячей клавиши игрок телепортируется в ближайшее отображаемое местоположение сундука.</h2>
+      <content:encoded><![CDATA[<h2> Телепорт к сундукам</h2>
+<p>При нажатии горячей клавиши игрок телепортируется в ближайшее отображаемое местоположение сундука.</p>
 <blockquote>
-<p>Примечание: Подождите "&gt;15 секунд" между телепортациями в целях безопасности.</p>
+<p>Примечание: Подождите не менее 15 секунд между телепортациями в целях обеспечения безопасности.</p>
 </blockquote>
-<h2> Пример Видео:</h2>
+<h2> Пример видео:</h2>
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/j2Yu31J7Yh4?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Oculi/ChestTeleport" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 ]]></content:encoded>
     </item>
     <item>
-      <title>Custom Teleport</title>
+      <title>Пользовательская  телепортация</title>
       <link>https://korepi.com/ru/features/Teleport/custom-teleport.html</link>
       <guid>https://korepi.com/ru/features/Teleport/custom-teleport.html</guid>
-      <source url="https://korepi.com/ru/rss.xml">Custom Teleport</source>
-      <description>Пользовательская телепортация: Позволяет игроку телепортироваться в выбранное местоположение, созданное с помощью файла .json. Скорость интерполяции: Управляет скоростью анимаци...</description>
-      <category>Features</category>
+      <source url="https://korepi.com/ru/rss.xml">Пользовательская  телепортация</source>
+      <description>Описание: Позволяет игроку телепортироваться в заранее выбранное местоположение, определенное в файле .json. Скорость интерполяции: Управляет скоростью анимации телепортации. Зн...</description>
+      <category>Особенности</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Пользовательская телепортация: Позволяет игроку телепортироваться в выбранное местоположение, созданное с помощью файла <code>.json</code>.</h2>
+      <content:encoded><![CDATA[<h2> Описание:</h2>
+<p>Позволяет игроку телепортироваться в заранее выбранное местоположение, определенное в файле <code>.json</code>.</p>
 <h3> Скорость интерполяции:</h3>
-<ul>
-<li>Управляет скоростью анимации телепортации, установленной на <code>0.1</code>, чтобы избежать проблем.</li>
-</ul>
+<p>Управляет скоростью анимации телепортации. Значение установлено на <code>0.1</code> для избежания возможных проблем.</p>
 <h3> Автоматическая телепортация:</h3>
+<p>Телепортирует автоматически в соответствии с порядком файлов <code>.json</code>.</p>
 <ul>
-<li>Телепортируется автоматически в соответствии с порядком предоставленных файлов <code>.json</code>.
+<li>
+<p><strong>Телепортировать к следующему месту:</strong></p>
 <ul>
-<li>Телепортировать следующий: Телепортируется в следующее местоположение после нажатия выбранной горячей клавиши.</li>
-<li>Телепортировать предыдущий: Телепортируется в предыдущее местоположение после нажатия выбранной горячей клавиши.</li>
+<li>Переходит в следующее местоположение после нажатия выбранной горячей клавиши.</li>
+</ul>
+</li>
+<li>
+<p><strong>Телепортировать к предыдущему месту:</strong></p>
+<ul>
+<li>Переходит в предыдущее местоположение после нажатия выбранной горячей клавиши.</li>
 </ul>
 </li>
 </ul>
 <blockquote>
 <p>Примечание: Рекомендуется устанавливать значение выше <code>15 секунд</code> в целях безопасности.</p>
 </blockquote>
-<h1> Вы можете узнать больше о том, как использовать эту функцию <a href="/ru/guide/custom-tp-setting.html" target="blank">здесь</a></h1>
+<h1> Дополнительную информацию об использовании этой функции можно найти <a href="/ru/guide/custom-tp-setting.html" target="blank">здесь</a></h1>
 ]]></content:encoded>
     </item>
     <item>
-      <title>Тп по карте</title>
+      <title>Гайд по использованию карты с функцией телепортации</title>
       <link>https://korepi.com/ru/features/Teleport/map-teleport.html</link>
       <guid>https://korepi.com/ru/features/Teleport/map-teleport.html</guid>
-      <source url="https://korepi.com/ru/rss.xml">Тп по карте</source>
-      <description>Map Teleport позволяет вам телепортироваться в любую точку карты. Чтобы использовать map teleport, вы должны включить его и выбрать горячую клавишу, которую собираетесь использо...</description>
-      <category>Features</category>
+      <source url="https://korepi.com/ru/rss.xml">Гайд по использованию карты с функцией телепортации</source>
+      <description>Телепортация по карте (Map Teleport): быстрая навигация по карте Телепортация по карте (Map Teleport) предоставляет вам возможность мгновенно переместиться в любую точку карты. ...</description>
+      <category>Особенности</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Map Teleport позволяет вам телепортироваться в любую точку карты.</h2>
+      <content:encoded><![CDATA[<h2> Телепортация по карте (Map Teleport): быстрая навигация по карте</h2>
+<p>Телепортация по карте (Map Teleport) предоставляет вам возможность мгновенно переместиться в любую точку карты.</p>
 <ul>
-<li>Чтобы использовать map teleport, вы должны включить его и выбрать горячую клавишу, которую собираетесь использовать.</li>
-<li>Чтобы телепортироваться, удерживайте горячую клавишу, пока открыта карта, и нажмите на то место, куда вы хотите телепортироваться.</li>
+<li>Чтобы воспользоваться функцией map teleport, необходимо активировать ее и назначить удобную горячую клавишу для использования.</li>
+<li>Для телепортации достаточно удерживать горячую клавишу при открытой карте и выбрать желаемую точку для перемещения.</li>
 </ul>
 <h3> Быстрая телепортация (<span style="color:yellow;">Спонсор</span>):</h3>
 <ul>
-<li>Отключает экран загрузки в пределах выбранного расстояния во время телепортации.</li>
+<li>Отключает экран загрузки в определенном радиусе во время телепортации.</li>
 </ul>
-<h2> Пример видео:</h2>
+<h2> Пример в действии:</h2>
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/Xm3mTEbIE9g?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Map TP/Fast TP" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 ]]></content:encoded>
     </item>
     <item>
-      <title>Quest Teleport</title>
+      <title>Телепорт к заданию</title>
       <link>https://korepi.com/ru/features/Teleport/quest-teleport.html</link>
       <guid>https://korepi.com/ru/features/Teleport/quest-teleport.html</guid>
-      <source url="https://korepi.com/ru/rss.xml">Quest Teleport</source>
-      <description>Quest Teleports позволяет вам телепортироваться в текущее местоположение выполняемого задания. Чтобы использовать эту функцию, вы должны сначала выбрать квест, а затем нажать го...</description>
-      <category>Features</category>
+      <source url="https://korepi.com/ru/rss.xml">Телепорт к заданию</source>
+      <description>Телепорт к заданию (Quest Teleports) позволяет вам перемещаться в текущее местоположение выполняемого задания. Для использования этой функции, вам необходимо сначала выбрать кве...</description>
+      <category>Особенности</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Quest Teleports позволяет вам телепортироваться в текущее местоположение выполняемого задания.</h2>
+      <content:encoded><![CDATA[<h2> Телепорт к заданию (Quest Teleports) позволяет вам перемещаться в текущее местоположение выполняемого задания.</h2>
 <ul>
-<li>Чтобы использовать эту функцию, вы должны сначала выбрать квест, а затем нажать горячую клавишу quest teleport.</li>
+<li>Для использования этой функции, вам необходимо сначала выбрать квест, а затем нажать горячую клавишу Телепорт к заданию (Quest Teleports).</li>
 </ul>
 <h2> Пример видео:</h2>
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/HNdQu39G2Tc?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - QuestTP" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 ]]></content:encoded>
     </item>
     <item>
-      <title>Animation Changer</title>
+      <title>Изменение анимации персонажа</title>
       <link>https://korepi.com/ru/features/Visuals/animation-changer.html</link>
       <guid>https://korepi.com/ru/features/Visuals/animation-changer.html</guid>
-      <source url="https://korepi.com/ru/rss.xml">Animation Changer</source>
-      <description>Средство смены анимации, позволяющее игроку изменить текущую анимацию персонажа на выбранную.</description>
-      <category>Features</category>
+      <source url="https://korepi.com/ru/rss.xml">Изменение анимации персонажа</source>
+      <description>Инструмент для смены анимации, который позволяет игроку изменить текущую анимацию персонажа на выбранную.</description>
+      <category>Особенности</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Средство смены анимации, позволяющее игроку изменить текущую анимацию персонажа на выбранную.</h2>
+      <content:encoded><![CDATA[<h2> Инструмент для смены анимации, который позволяет игроку изменить текущую анимацию персонажа на выбранную.</h2>
 ]]></content:encoded>
     </item>
     <item>
-      <title>Camera Zoom</title>
+      <title>Масштабирование камеры</title>
       <link>https://korepi.com/ru/features/Visuals/camera-zoom.html</link>
       <guid>https://korepi.com/ru/features/Visuals/camera-zoom.html</guid>
-      <source url="https://korepi.com/ru/rss.xml">Camera Zoom</source>
-      <description>Масштабирование камеры позволяет пользователю изменять масштаб своей камеры до желаемого значения.</description>
-      <category>Features</category>
+      <source url="https://korepi.com/ru/rss.xml">Масштабирование камеры</source>
+      <description>Функция масштабирования камеры позволяет пользователю изменять уровень увеличения своей камеры до желаемого значения.</description>
+      <category>Особенности</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Масштабирование камеры позволяет пользователю изменять масштаб своей камеры до желаемого значения.</h2>
+      <content:encoded><![CDATA[<h2> Функция масштабирования камеры позволяет пользователю изменять уровень увеличения своей камеры до желаемого значения.</h2>
 ]]></content:encoded>
     </item>
     <item>
-      <title>Constellation Modifier</title>
+      <title>Модификатор созвездия</title>
       <link>https://korepi.com/ru/features/Visuals/constellation-modifier.html</link>
       <guid>https://korepi.com/ru/features/Visuals/constellation-modifier.html</guid>
-      <source url="https://korepi.com/ru/rss.xml">Constellation Modifier</source>
-      <description>::: Вы можете найти более подробную информацию о том, какие из них работают, в разделе &amp;quot;#cons-check&amp;quot; на сервере. ; ::: совет: Вам нужно сначала переключиться на каждого персонаж...</description>
-      <category>Features</category>
+      <source url="https://korepi.com/ru/rss.xml">Модификатор созвездия</source>
+      <description>::: Дополнительную информацию о том, какие именно из них активируются, можно найти в разделе &amp;quot;#cons-check&amp;quot; на сервере.; ::: Совет: Сначала переключитесь на каждого персонажа, ко...</description>
+      <category>Особенности</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> ::: Спонсор
-:::</h2>
-<h1> Модификатор # Constellation, если он выбран, визуально изменит созвездия ваших активных персонажей, и некоторые из них действительно будут работать.</h1>
+      <content:encoded><![CDATA[<h2> ::: Спонсор :::</h2>
+<h1> Модификатор созвездий, когда выбран, визуально изменяет созвездия ваших активных персонажей, и некоторые из них действительно начинают работать.</h1>
 <ul>
-<li>Вы можете найти более подробную информацию о том, какие из них работают, в разделе "#cons-check" на сервере.</li>
+<li>Дополнительную информацию о том, какие именно из них активируются, можно найти в разделе "#cons-check" на сервере.</li>
 </ul>
-<p>::: совет: Вам нужно сначала переключиться на каждого персонажа, которого вы хотите активировать, а затем телепортироваться подальше, чтобы активировать их.
-:::</p>
+<p>::: Совет: Сначала переключитесь на каждого персонажа, которого вы хотите активировать, а затем телепортируйтесь подальше, чтобы их активировать. :::</p>
 <h2> Пример видео:</h2>
-<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/S9-g5weE9l8?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Constellation Modifier (Sponsor)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/S9-g5weE9l8?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Модификатор созвездия (Спонсор)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 ]]></content:encoded>
     </item>
     <item>
-      <title>Custom Profile</title>
+      <title>Пользовательский профиль</title>
       <link>https://korepi.com/ru/features/Visuals/custom-profile.html</link>
       <guid>https://korepi.com/ru/features/Visuals/custom-profile.html</guid>
-      <source url="https://korepi.com/ru/rss.xml">Custom Profile</source>
+      <source url="https://korepi.com/ru/rss.xml">Пользовательский профиль</source>
       <description>Пользовательский профиль: UID: Выберите UID, который вы хотите отобразить.; Ник: Выберите ник, который вы хотите отобразить.; Уровень: Выберите уровень, который вы хотите отобра...</description>
-      <category>Features</category>
+      <category>Особенности</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
       <content:encoded><![CDATA[<h2> Пользовательский профиль:</h2>
 <h3> UID:</h3>
@@ -991,114 +977,110 @@ P.s Я использую значение в 35 больше года by QweRez
 </ul>
 <h3> Изображение аватара:</h3>
 <ul>
-<li>Используйте пользовательский png в качестве изображения аватара.</li>
+<li>Используйте пользовательский PNG в качестве изображения аватара.</li>
 </ul>
 <h3> Изображение карточки:</h3>
 <ul>
-<li>Используйте пользовательский png в качестве изображения карточки.</li>
+<li>Используйте пользовательский PNG в качестве изображения карточки.</li>
 </ul>
 ]]></content:encoded>
     </item>
     <item>
-      <title>Custom Weather</title>
+      <title>Пользовательская Погода</title>
       <link>https://korepi.com/ru/features/Visuals/custom-weather.html</link>
       <guid>https://korepi.com/ru/features/Visuals/custom-weather.html</guid>
-      <source url="https://korepi.com/ru/rss.xml">Custom Weather</source>
-      <description>Пользовательская погода позволяет вам изменять погоду по своему вкусу.</description>
-      <category>Features</category>
+      <source url="https://korepi.com/ru/rss.xml">Пользовательская Погода</source>
+      <description>Пользовательская погода дает вам возможность настроить погоду по вашему вкусу.</description>
+      <category>Особенности</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Пользовательская погода позволяет вам изменять погоду по своему вкусу.</h2>
+      <content:encoded><![CDATA[<h2> Пользовательская погода дает вам возможность настроить погоду по вашему вкусу.</h2>
 ]]></content:encoded>
     </item>
     <item>
-      <title>Emotion Changer</title>
+      <title>Изменитель эмоций</title>
       <link>https://korepi.com/ru/features/Visuals/emotion-changer.html</link>
       <guid>https://korepi.com/ru/features/Visuals/emotion-changer.html</guid>
-      <source url="https://korepi.com/ru/rss.xml">Emotion Changer</source>
-      <description>Средство смены эмоций позволяет игроку изменить текущую эмоцию персонажа на выбранную.</description>
-      <category>Features</category>
+      <source url="https://korepi.com/ru/rss.xml">Изменитель эмоций</source>
+      <description>Инструмент смены эмоций, позволяет игроку изменить текущее эмоциональное состояние персонажа на выбранное.</description>
+      <category>Особенности</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Средство смены эмоций позволяет игроку изменить текущую эмоцию персонажа на выбранную.</h2>
+      <content:encoded><![CDATA[<h2> Инструмент смены эмоций, позволяет игроку изменить текущее эмоциональное состояние персонажа на выбранное.</h2>
 ]]></content:encoded>
     </item>
     <item>
-      <title>Extra Visual Settings</title>
+      <title>Дополнительные настройки визуала</title>
       <link>https://korepi.com/ru/features/Visuals/extra-visual-settings.html</link>
       <guid>https://korepi.com/ru/features/Visuals/extra-visual-settings.html</guid>
-      <source url="https://korepi.com/ru/rss.xml">Extra Visual Settings</source>
-      <description>Дополнительные визуальные настройки: Яркость: Позволяет изменять значение яркости в игре.; Ширина контура: Позволяет изменять контур каждого персонажа в игре.; Сглаживание: Позв...</description>
-      <category>Features</category>
+      <source url="https://korepi.com/ru/rss.xml">Дополнительные настройки визуала</source>
+      <description>Дополнительные визуальные настройки: Яркость: Позволяет изменять уровень яркости в игре.; Ширина контура: Позволяет регулировать ширину контура каждого персонажа в игре.; Сглажи...</description>
+      <category>Особенности</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
       <content:encoded><![CDATA[<h2> Дополнительные визуальные настройки:</h2>
 <h3> Яркость:</h3>
 <ul>
-<li>Позволяет изменять значение яркости в игре.</li>
+<li>Позволяет изменять уровень яркости в игре.</li>
 </ul>
 <h3> Ширина контура:</h3>
 <ul>
-<li>Позволяет изменять контур каждого персонажа в игре.</li>
+<li>Позволяет регулировать ширину контура каждого персонажа в игре.</li>
 </ul>
 <h3> Сглаживание:</h3>
 <ul>
-<li>Позволяет проигрывателю изменить используемый модуль сглаживания, включая некоторые, которые недоступны изначально.</li>
+<li>Позволяет игроку изменять используемый метод сглаживания, включая некоторые, которые изначально недоступны.</li>
 </ul>
 ]]></content:encoded>
     </item>
     <item>
-      <title>Fake Time</title>
+      <title>Фальшивое время</title>
       <link>https://korepi.com/ru/features/Visuals/fake-time.html</link>
       <guid>https://korepi.com/ru/features/Visuals/fake-time.html</guid>
-      <source url="https://korepi.com/ru/rss.xml">Fake Time</source>
-      <description>Фальшивое время: Изменения в игровом времени, часах и минутах.;</description>
-      <category>Features</category>
+      <source url="https://korepi.com/ru/rss.xml">Фальшивое время</source>
+      <description>Функция &amp;quot;Фальшивое время&amp;quot;: Изменения в игровом времени, часах и минутах.;</description>
+      <category>Особенности</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Фальшивое время:</h2>
+      <content:encoded><![CDATA[<h2> Функция "Фальшивое время":</h2>
 <ul>
 <li>Изменения в игровом времени, часах и минутах.</li>
 </ul>
 ]]></content:encoded>
     </item>
     <item>
-      <title>Flycloak Modifier</title>
+      <title>Модификатор крыльев</title>
       <link>https://korepi.com/ru/features/Visuals/flycloak-modifier.html</link>
       <guid>https://korepi.com/ru/features/Visuals/flycloak-modifier.html</guid>
-      <source url="https://korepi.com/ru/rss.xml">Flycloak Modifier</source>
-      <description>Смена скина крыльев позволяет игроку менять скин крыльев, даже если их у него нету.</description>
-      <category>Features</category>
+      <source url="https://korepi.com/ru/rss.xml">Модификатор крыльев</source>
+      <description>Модификация внешнего вида крыльев позволяет игроку изменять его скин, даже если у вас их нет.</description>
+      <category>Особенности</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Смена скина крыльев позволяет игроку менять скин крыльев, даже если их у него нету.</h2>
+      <content:encoded><![CDATA[<h2> Модификация внешнего вида крыльев позволяет игроку изменять его скин, даже если у вас их нет.</h2>
 ]]></content:encoded>
     </item>
     <item>
-      <title>FPS Unlock</title>
+      <title>Разблокировка FPS</title>
       <link>https://korepi.com/ru/features/Visuals/fps-unlock.html</link>
       <guid>https://korepi.com/ru/features/Visuals/fps-unlock.html</guid>
-      <source url="https://korepi.com/ru/rss.xml">FPS Unlock</source>
-      <description>Разблокирует FPS.Разблокирует FPS yeah.Разблокирует FPS wow. Ограничьте фоновый FPS: - Установите максимальный fps, которого может достичь игра, когда она не сфокусирована.;</description>
-      <category>Features</category>
+      <source url="https://korepi.com/ru/rss.xml">Разблокировка FPS</source>
+      <description>Разблокировка FPS. Ограничение фонового FPS: Установите максимальный FPS, который может достигнуть игра, когда она не сфокусирована.;</description>
+      <category>Особенности</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Разблокирует FPS.Разблокирует FPS yeah.Разблокирует FPS wow.</h2>
-<h3> Ограничьте фоновый FPS:</h3>
+      <content:encoded><![CDATA[<h2> Разблокировка FPS.</h2>
+<h3> Ограничение фонового FPS:</h3>
 <ul>
-<li>
-<ul>
-<li>Установите максимальный fps, которого может достичь игра, когда она не сфокусирована.</li>
-</ul>
-</li>
+<li>Установите максимальный FPS, который может достигнуть игра, когда она не сфокусирована.</li>
 </ul>
 ]]></content:encoded>
     </item>
     <item>
-      <title>Free Camera</title>
+      <title>Свободная камера</title>
       <link>https://korepi.com/ru/features/Visuals/free-camera.html</link>
       <guid>https://korepi.com/ru/features/Visuals/free-camera.html</guid>
-      <source url="https://korepi.com/ru/rss.xml">Free Camera</source>
-      <description>Свободная камера: Свободно перемещать камеру, не привязывая ее к персонажу.; Заморозить анимацию персонажа: Замораживает анимацию персонажа.; Сделать персонажа невидимым: Делает...</description>
-      <category>Features</category>
+      <source url="https://korepi.com/ru/rss.xml">Свободная камера</source>
+      <description>Свободная камера: Позволяет свободно перемещать камеру, не привязывая ее к персонажу.; Заморозить анимацию персонажа: Замораживает анимацию персонажа.; Сделать персонажа невидим...</description>
+      <category>Особенности</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
       <content:encoded><![CDATA[<h2> Свободная камера:</h2>
 <ul>
-<li>Свободно перемещать камеру, не привязывая ее к персонажу.</li>
+<li>Позволяет свободно перемещать камеру, не привязывая ее к персонажу.</li>
 </ul>
 <h3> Заморозить анимацию персонажа:</h3>
 <ul>
@@ -1110,438 +1092,422 @@ P.s Я использую значение в 35 больше года by QweRez
 </ul>
 <h3> Заблокировать пользовательский ввод:</h3>
 <ul>
-<li>
-<ul>
-<li>Блокирует пользовательский ввод, поэтому персонаж не будет двигаться при перемещении камеры.</li>
-</ul>
-</li>
+<li>Блокирует пользовательский ввод, предотвращая движение персонажа при перемещении камеры.</li>
 </ul>
 ]]></content:encoded>
     </item>
     <item>
-      <title>Hide UI</title>
+      <title>Скрыть интерфейс</title>
       <link>https://korepi.com/ru/features/Visuals/hide-ui.html</link>
       <guid>https://korepi.com/ru/features/Visuals/hide-ui.html</guid>
-      <source url="https://korepi.com/ru/rss.xml">Hide UI</source>
-      <description>Только для Спонсоров. Скрыть пользовательский интерфейс: Полностью скрывает пользовательский интерфейс игрока.; Скрыть пинг: Скрывает только пинг.; Скрыть панель HP: Скрывает то...</description>
-      <category>Features</category>
+      <source url="https://korepi.com/ru/rss.xml">Скрыть интерфейс</source>
+      <description>::: Информация только для Спонсоров ::: Опция &amp;quot;Скрыть пользовательский интерфейс&amp;quot;: Полностью скрывает пользовательский интерфейс игрока.; Опция &amp;quot;Скрыть пинг&amp;quot;: Скрывает только от...</description>
+      <category>Особенности</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
-      <content:encoded><![CDATA[<div class="hint-container info">
-<p class="hint-container-title">Только для Спонсоров.</p>
-</div>
-<h2> Скрыть пользовательский интерфейс:</h2>
+      <content:encoded><![CDATA[<p>::: Информация только для Спонсоров :::</p>
+<h2> Опция "Скрыть пользовательский интерфейс":</h2>
 <ul>
 <li>Полностью скрывает пользовательский интерфейс игрока.</li>
 </ul>
-<h3> Скрыть пинг:</h3>
+<h3> Опция "Скрыть пинг":</h3>
 <ul>
-<li>Скрывает только пинг.</li>
+<li>Скрывает только отметки пинга.</li>
 </ul>
-<h3> Скрыть панель HP:</h3>
+<h3> Опция "Скрыть панель здоровья (HP)":</h3>
 <ul>
-<li>Скрывает только панель HP текущего персонажа.</li>
+<li>Скрывает только панель здоровья текущего персонажа.</li>
 </ul>
-<h3> Скрыть панель HP команды:</h3>
+<h3> Опция "Скрыть панель здоровья (HP) команды":</h3>
 <ul>
 <li>Скрывает панель здоровья команды только на вкладке персонажа.</li>
 </ul>
 ]]></content:encoded>
     </item>
     <item>
-      <title>Map Zoom</title>
+      <title>Увеличение карты</title>
       <link>https://korepi.com/ru/features/Visuals/map-zoom.html</link>
       <guid>https://korepi.com/ru/features/Visuals/map-zoom.html</guid>
-      <source url="https://korepi.com/ru/rss.xml">Map Zoom</source>
-      <description>Масштабирование карты изменяет значения, которые будут использоваться на карте.</description>
-      <category>Features</category>
+      <source url="https://korepi.com/ru/rss.xml">Увеличение карты</source>
+      <description>Изменение масштаба карты влияет на значения, используемые на карте.</description>
+      <category>Особенности</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Масштабирование карты изменяет значения, которые будут использоваться на карте.</h2>
+      <content:encoded><![CDATA[<h2> Изменение масштаба карты влияет на значения, используемые на карте.</h2>
 ]]></content:encoded>
     </item>
     <item>
-      <title>Monster Changer</title>
+      <title>Монстроизменитель</title>
       <link>https://korepi.com/ru/features/Visuals/monster-changer.html</link>
       <guid>https://korepi.com/ru/features/Visuals/monster-changer.html</guid>
-      <source url="https://korepi.com/ru/rss.xml">Monster Changer</source>
-      <description>Средство смены монстров: При включении все новые визуализированные монстры будут визуально изменены на выбранного монстра.; Исключить животных: Включить или отключить изменение ...</description>
-      <category>Features</category>
+      <source url="https://korepi.com/ru/rss.xml">Монстроизменитель</source>
+      <description>Инструмент для изменения монстров: При активации все визуализированные монстры будут внешне преобразованы в выбранного монстра.; Исключение животных: Включить или выключить изме...</description>
+      <category>Особенности</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Средство смены монстров:</h2>
+      <content:encoded><![CDATA[<h2> Инструмент для изменения монстров:</h2>
 <ul>
-<li>При включении все новые визуализированные монстры будут визуально изменены на выбранного монстра.</li>
+<li>При активации все визуализированные монстры будут внешне преобразованы в выбранного монстра.</li>
 </ul>
-<h3> Исключить животных:</h3>
+<h3> Исключение животных:</h3>
 <ul>
-<li>Включить или отключить изменение животных.</li>
+<li>Включить или выключить изменения животных.</li>
 </ul>
 <h3> Пользовательский идентификатор монстра:</h3>
 <ul>
 <li>Используйте идентификатор вместо предоставленного списка.</li>
 </ul>
-<h3> Рандомизировать монстра:</h3>
+<h3> Рандомизация монстра:</h3>
 <ul>
-<li>Изменение будет случайным.</li>
+<li>Преобразование будет происходить случайным образом.</li>
 </ul>
 ]]></content:encoded>
     </item>
     <item>
-      <title>Others</title>
+      <title>Другие функции</title>
       <link>https://korepi.com/ru/features/Visuals/others.html</link>
       <guid>https://korepi.com/ru/features/Visuals/others.html</guid>
-      <source url="https://korepi.com/ru/rss.xml">Others</source>
-      <description>Другие функции: Показать индикатор сундуков Включить подглядывание :&amp;gt; Нет черного экрана Нет тумана Нет травы Нет тумана на карте Паймоном всегда рядом Dolphin Dive GM Icon Разб...</description>
-      <category>Features</category>
+      <source url="https://korepi.com/ru/rss.xml">Другие функции</source>
+      <description>Дополнительные возможности: Отображение индикатора сундуков Включение подглядывания Отсутствие черного экрана Отсутствие тумана Отсутствие травы Отсутствие тумана на карте Всегд...</description>
+      <category>Особенности</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Другие функции:</h2>
-<h3> Показать индикатор сундуков</h3>
-<h3> Включить подглядывание :&gt;</h3>
-<h3> Нет черного экрана</h3>
-<h3> Нет тумана</h3>
-<h3> Нет травы</h3>
-<h3> Нет тумана на карте</h3>
-<h3> Паймоном всегда рядом</h3>
-<h3> Dolphin Dive</h3>
-<h3> GM Icon</h3>
+      <content:encoded><![CDATA[<h2> Дополнительные возможности:</h2>
+<h3> Отображение индикатора сундуков</h3>
+<h3> Включение подглядывания</h3>
+<h3> Отсутствие черного экрана</h3>
+<h3> Отсутствие тумана</h3>
+<h3> Отсутствие травы</h3>
+<h3> Отсутствие тумана на карте</h3>
+<h3> Всегда рядом с Паймоном</h3>
+<h3> Погружение</h3>
+<h3> Иконка GM</h3>
 <h3> Разблокировка меню</h3>
 <h2> <span style="color:yellow;">Только для спонсоров</span></h2>
-<h3> Нет размытия камеры</h3>
-<h3> Нет дрожания камеры</h3>
-<h3> Нет следов ног</h3>
-<h3> No Burst Animation</h3>
+<h3> Отсутствие размытия камеры</h3>
+<h3> Отсутствие дрожания камеры</h3>
+<h3> Отсутствие следов ног</h3>
+<h3> Отсутствие анимации выстрела</h3>
 <h2> Пример видео:</h2>
-<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/AjkJ8S8NHsI?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Visuals/Other" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>]]></content:encoded>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/AjkJ8S8NHsI?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Visuals/Other" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+]]></content:encoded>
     </item>
     <item>
-      <title>Skin Modifier</title>
+      <title>Модификатор скина</title>
       <link>https://korepi.com/ru/features/Visuals/skin-modifier.html</link>
       <guid>https://korepi.com/ru/features/Visuals/skin-modifier.html</guid>
-      <source url="https://korepi.com/ru/rss.xml">Skin Modifier</source>
-      <description>Модификатор скина позволяет игроку бесплатно использовать внутриигровые скины.</description>
-      <category>Features</category>
+      <source url="https://korepi.com/ru/rss.xml">Модификатор скина</source>
+      <description>Модификатор скина позволяет игроку бесплатно использовать скины в игре.</description>
+      <category>Особенности</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Модификатор скина позволяет игроку бесплатно использовать внутриигровые скины.</h2>
+      <content:encoded><![CDATA[<h2> Модификатор скина позволяет игроку бесплатно использовать скины в игре.</h2>
 ]]></content:encoded>
     </item>
     <item>
-      <title>Texture Changer</title>
+      <title>Изменение текстур</title>
       <link>https://korepi.com/ru/features/Visuals/texture-changer.html</link>
       <guid>https://korepi.com/ru/features/Visuals/texture-changer.html</guid>
-      <source url="https://korepi.com/ru/rss.xml">Texture Changer</source>
-      <description>Для изменения текстур лучше использовать GIMI (../../guide/3DM-tutorial.md). Texture Changer позволяет переключать части персонажей в предоставленные файлы .png.</description>
-      <category>Features</category>
+      <source url="https://korepi.com/ru/rss.xml">Изменение текстур</source>
+      <description>::: Для изменения текстур рекомендуется использовать GIMI (../../guide/3DM-tutorial.md) ::: Изменение текстур позволяет заменять части персонажей предоставленными файлами .png.</description>
+      <category>Особенности</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> ::: информация Для изменения текстур лучше использовать <a href="/ru/guide/3DM-tutorial.html" target="blank">GIMI</a>.
-:::</h2>
-<h2> Texture Changer позволяет переключать части персонажей в предоставленные файлы .png.</h2>
+      <content:encoded><![CDATA[<h2> ::: Для изменения текстур рекомендуется использовать <a href="/ru/guide/3DM-tutorial.html" target="blank">GIMI</a> :::</h2>
+<h2> Изменение текстур позволяет заменять части персонажей предоставленными файлами .png.</h2>
 ]]></content:encoded>
     </item>
     <item>
-      <title>Auto Activate Teleport</title>
+      <title>Автоматическая активация телепорта</title>
       <link>https://korepi.com/ru/features/World/auto-activate-tp.html</link>
       <guid>https://korepi.com/ru/features/World/auto-activate-tp.html</guid>
-      <source url="https://korepi.com/ru/rss.xml">Auto Activate Teleport</source>
-      <description>Автоматическая активация телепорта активирует близлежащие телепорты на расстоянии до 50 м. Пример видео:</description>
-      <category>Features</category>
+      <source url="https://korepi.com/ru/rss.xml">Автоматическая активация телепорта</source>
+      <description>::: Спонсор ::: Функция &amp;quot;Автоматическая активация телепорта&amp;quot; включает близлежащие телепорты в радиусе до 50 метров. Пример видео:</description>
+      <category>Особенности</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> ::: Спонсор
-:::</h2>
-<h3> Автоматическая активация телепорта активирует близлежащие телепорты на расстоянии до 50 м.</h3>
+      <content:encoded><![CDATA[<h2> ::: Спонсор :::</h2>
+<h3> Функция "Автоматическая активация телепорта" включает близлежащие телепорты в радиусе до 50 метров.</h3>
 <h2> Пример видео:</h2>
-<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/qstBErr9mJ0?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - AutoActivateTP (Sponsor)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/qstBErr9mJ0?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - AutoActivateTP (Спонсор)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 ]]></content:encoded>
     </item>
     <item>
-      <title>Auto Challenge</title>
+      <title>Авто-Испытание</title>
       <link>https://korepi.com/ru/features/World/auto-challenge.html</link>
       <guid>https://korepi.com/ru/features/World/auto-challenge.html</guid>
-      <source url="https://korepi.com/ru/rss.xml">Auto Challenge</source>
-      <description>Auto Challenge lets you complete the current active time trial within a specified range and delay time, you can configure these to your liking. Example Video:Note: Not recommen...</description>
-      <category>Features</category>
+      <source url="https://korepi.com/ru/rss.xml">Авто-Испытание</source>
+      <description>Авто-Испытание позволяет вам завершить текущее активное испытание на время в указанном диапазоне и с задержкой, которую вы можете настроить по своему усмотрению. Примечание: Не ...</description>
+      <category>Особенности</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
-      <content:encoded><![CDATA[<h3> Auto Challenge lets you complete the current active time trial within a specified range and delay time, you can configure these to your liking.</h3>
-<h2> Example Video:</h2>
-<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/7JNegfQiK2U?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Challenge" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+      <content:encoded><![CDATA[<h3> Авто-Испытание позволяет вам завершить текущее активное испытание на время в указанном диапазоне и с задержкой, которую вы можете настроить по своему усмотрению.</h3>
 <blockquote>
-<p>Note: Not recommended to use in low delays and very high ranges.</p>
+<p>Примечание: Не рекомендуется использовать при низких задержках и очень высоких диапазонах.</p>
 </blockquote>
+<h2> Пример видео:</h2>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/7JNegfQiK2U?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Авто-Испытание" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 ]]></content:encoded>
     </item>
     <item>
-      <title>Auto Cook</title>
+      <title>Авто-приготовление</title>
       <link>https://korepi.com/ru/features/World/auto-cook.html</link>
       <guid>https://korepi.com/ru/features/World/auto-cook.html</guid>
-      <source url="https://korepi.com/ru/rss.xml">Auto Cook</source>
-      <description>Автоматическая готовка позволяет вам приготовить указанное количество и качество выбранных блюд на странице приготовления, это учитывается при использовании встроенной функции а...</description>
-      <category>Features</category>
+      <source url="https://korepi.com/ru/rss.xml">Авто-приготовление</source>
+      <description>Функция авто-приготовления позволяет вам приготовить указанное количество выбранных блюд высокого качества на странице приготовления. Это учитывается при использовании встроенно...</description>
+      <category>Особенности</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
-      <content:encoded><![CDATA[<h3> Автоматическая готовка позволяет вам приготовить указанное количество и качество выбранных блюд на странице приготовления, это учитывается при использовании встроенной функции автоматического приготовления (Auto unlock auto cook).</h3>
+      <content:encoded><![CDATA[<h3> Функция авто-приготовления позволяет вам приготовить указанное количество выбранных блюд высокого качества на странице приготовления. Это учитывается при использовании встроенной функции автоматического разблокирования авто-приготовления (Auto unlock auto cook).</h3>
 <h2> Пример видео:</h2>
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/T_X13AXiAiY?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Cook" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 ]]></content:encoded>
     </item>
     <item>
-      <title>Auto Destroy Objects</title>
+      <title>Автоматическое уничтожение объектов</title>
       <link>https://korepi.com/ru/features/World/auto-destroy.html</link>
       <guid>https://korepi.com/ru/features/World/auto-destroy.html</guid>
-      <source url="https://korepi.com/ru/rss.xml">Auto Destroy Objects</source>
-      <description>Auto Destroy Objects lets you destroy customizable objects within a specified range, in which it includes, ores, plants, rock piles, chests, special objects, shields, etc. Examp...</description>
-      <category>Features</category>
+      <source url="https://korepi.com/ru/rss.xml">Автоматическое уничтожение объектов</source>
+      <description>Автоматическое уничтожение объектов позволяет вам уничтожать настраиваемые объекты в определенном радиусе, к которым относятся руды, растения, груды камней, сундуки, специальные...</description>
+      <category>Особенности</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
-      <content:encoded><![CDATA[<h3> Auto Destroy Objects lets you destroy customizable objects within a specified range, in which it includes, ores, plants, rock piles, chests, special objects, shields, etc.</h3>
-<h2> Example Video:</h2>
-<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/3ML6s3SR8nE?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Destroy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+      <content:encoded><![CDATA[<h3> Автоматическое уничтожение объектов позволяет вам уничтожать настраиваемые объекты в определенном радиусе, к которым относятся руды, растения, груды камней, сундуки, специальные объекты, щиты и т. д.</h3>
 <blockquote>
-<p>Note: Recommended value is below <code>20m</code>, not recommended to use at max range (<code>40m</code>)</p>
+<p>Примечание: Рекомендуемое значение - менее <code>20м</code>, не рекомендуется использовать на максимальной дистанции (<code>40м</code>).</p>
 </blockquote>
+<h2> Пример видео:</h2>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/3ML6s3SR8nE?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Автоматическое уничтожение" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 ]]></content:encoded>
     </item>
     <item>
-      <title>Auto Fish</title>
+      <title>Авто-рыбалка</title>
       <link>https://korepi.com/ru/features/World/auto-fish.html</link>
       <guid>https://korepi.com/ru/features/World/auto-fish.html</guid>
-      <source url="https://korepi.com/ru/rss.xml">Auto Fish</source>
-      <description>Auto fish lets you skip the catching fish animation, which will reduce the time needed to catch a fish. Example Video: Note: Auto Recast is not working at the time creating thi...</description>
-      <category>Features</category>
+      <source url="https://korepi.com/ru/rss.xml">Авто-рыбалка</source>
+      <description>Авто-рыбалка позволяет пропустить анимацию ловли рыбы, что сократит время, необходимое для её улова. Примечание: На момент создания этого сообщения функция Авто-рыбалка не работ...</description>
+      <category>Особенности</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
-      <content:encoded><![CDATA[<h3> Auto fish lets you skip the catching fish animation, which will reduce the time needed to catch a fish.</h3>
-<h2> Example Video:</h2>
-<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/K_l4Tg-81iQ?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Fish" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+      <content:encoded><![CDATA[<h3> Авто-рыбалка позволяет пропустить анимацию ловли рыбы, что сократит время, необходимое для её улова.</h3>
 <blockquote>
-<p>Note: Auto Recast is not working at the time creating this post.</p>
+<p>Примечание: На момент создания этого сообщения функция Авто-рыбалка не работает.</p>
 </blockquote>
+<h2> Пример видео:</h2>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/K_l4Tg-81iQ?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Авто-рыбалка" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 ]]></content:encoded>
     </item>
     <item>
-      <title>Auto Loot</title>
+      <title>Авто Сбор</title>
       <link>https://korepi.com/ru/features/World/auto-loot.html</link>
       <guid>https://korepi.com/ru/features/World/auto-loot.html</guid>
-      <source url="https://korepi.com/ru/rss.xml">Auto Loot</source>
-      <description>Auto loot lets you auto collect loot withing the selected range and delay, the loot that will be collected can be customized, including chests, mob drops and more. Example Video...</description>
-      <category>Features</category>
+      <source url="https://korepi.com/ru/rss.xml">Авто Сбор</source>
+      <description>Авто сбор позволяет вам автоматически собирать добычу в выбранном диапазоне и с задержкой. Собираемая добыча может быть настроена по вашему усмотрению, включая сундуки, дроп моб...</description>
+      <category>Особенности</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Auto loot lets you auto collect loot withing the selected range and delay, the loot that will be collected can be customized, including chests, mob drops and more.</h2>
-<h2> Example Video:</h2>
-<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/wUyI2XO_Z4E?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Loot" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+      <content:encoded><![CDATA[<h2> Авто сбор позволяет вам автоматически собирать добычу в выбранном диапазоне и с задержкой. Собираемая добыча может быть настроена по вашему усмотрению, включая сундуки, дроп мобов и многое другое.</h2>
 <blockquote>
-<p>Note: Recommended below <code>10m</code> for normal use and <code>20m</code> if using custom tp.
-Note 2: Higher the distance higher delay should be used.</p>
+<p>Примечание: Рекомендуется использовать на расстоянии до <code>10м</code> для обычного использования и до <code>20м</code> при использовании пользовательского телепорта.</p>
+<p>Примечание: Чем больше расстояние, тем больше следует использовать задержку.</p>
 </blockquote>
+<h2> Пример видео:</h2>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/wUyI2XO_Z4E?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Авто Сбор" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 ]]></content:encoded>
     </item>
     <item>
-      <title>Auto Seelie</title>
+      <title>Автоматический поиск</title>
       <link>https://korepi.com/ru/features/World/auto-seelie.html</link>
       <guid>https://korepi.com/ru/features/World/auto-seelie.html</guid>
-      <source url="https://korepi.com/ru/rss.xml">Auto Seelie</source>
-      <description>Auto Seelie removes the necesity of the player to follow the seelie constantly, seelie with go to the designed destination when the player gets close. Example Video:</description>
-      <category>Features</category>
+      <source url="https://korepi.com/ru/rss.xml">Автоматический поиск</source>
+      <description>Автоматический поиск избавляет игрока от необходимости постоянно следовать за поисковиком, отправляясь в назначенное место назначения. Пример видео:</description>
+      <category>Особенности</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Auto Seelie removes the necesity of the player to follow the seelie constantly, seelie with go to the designed destination when the player gets close.</h2>
-<h2> Example Video:</h2>
+      <content:encoded><![CDATA[<h2> Автоматический поиск избавляет игрока от необходимости постоянно следовать за поисковиком, отправляясь в назначенное место назначения.</h2>
+<h2> Пример видео:</h2>
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/uETIJ4KS39M?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Seelie" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 ]]></content:encoded>
     </item>
     <item>
-      <title>Auto Talk</title>
+      <title>Авто-разговор</title>
       <link>https://korepi.com/ru/features/World/auto-talk.html</link>
       <guid>https://korepi.com/ru/features/World/auto-talk.html</guid>
-      <source url="https://korepi.com/ru/rss.xml">Auto Talk</source>
-      <description>Auto Talk: Talks automatically with the NPCs Fast Dialog:Speeds up the game with the selected value to make the dialog faster.;  Note: Not recommended to use above 5. Skip Dia...</description>
-      <category>Features</category>
+      <source url="https://korepi.com/ru/rss.xml">Авто-разговор</source>
+      <description>Авто-разговор: Автоматически общается с НИП Быстрый диалог: Ускоряет игру с выбранным значением, делая диалог более быстрым.; Примечание: Не рекомендуется использовать выше 5. П...</description>
+      <category>Особенности</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Auto Talk: Talks automatically with the NPCs</h2>
-<h3> Fast Dialog:</h3>
+      <content:encoded><![CDATA[<h2> Авто-разговор: Автоматически общается с НИП</h2>
+<h3> Быстрый диалог:</h3>
 <ul>
-<li>Speeds up the game with the selected value to make the dialog faster.</li>
+<li>Ускоряет игру с выбранным значением, делая диалог более быстрым.</li>
 </ul>
 <blockquote>
-<p>Note: Not recommended to use above <code>5</code>.</p>
+<p>Примечание: Не рекомендуется использовать выше <code>5</code>.</p>
 </blockquote>
-<h3> Skip Dialog (Sponsor):</h3>
+<h3> Пропустить диалог (Спонсор):</h3>
 <ul>
-<li>Skips the dialog with the selected delay. Its safer than fast dialog.</li>
+<li>Пропускает диалог с выбранной задержкой. Безопаснее, чем быстрый диалог.</li>
 </ul>
 <blockquote>
-<p>Note: Not recommended to use below <code>200ms</code></p>
+<p>Примечание: Не рекомендуется использовать ниже <code>200 мс</code>.</p>
 </blockquote>
-<h3> Fast Cutscene:</h3>
+<h3> Быстрая кат-сцена:</h3>
 <ul>
-<li>Speeds up the game with the selected value to make the cutscene faster.</li>
+<li>Ускоряет игру с выбранным значением, делая кат-сцену более быстрой.</li>
 </ul>
 <blockquote>
-<p>Note: Not recommended to use above <code>5</code></p>
+<p>Примечание: Не рекомендуется использовать выше <code>5</code>.</p>
 </blockquote>
-<h3> Skip Talk Scenes:</h3>
+<h3> Пропустить сцены разговоров:</h3>
 <ul>
-<li>Skips a talk scene if its triggered or on-going.</li>
+<li>Пропускает сцену разговора, если она активирована или находится в процессе.</li>
 </ul>
 <blockquote>
-<p>Note: Might get black screen while using it.</p>
+<p>Примечание: Возможно появление черного экрана при использовании.</p>
 </blockquote>
-<h3> Skip Cutscene:</h3>
+<h3> Пропустить кат-сцену:</h3>
 <ul>
-<li>Skips a Cutscene if its triggered or on-going.</li>
+<li>Пропускает кат-сцену, если она активирована или находится в процессе.</li>
 </ul>
 <blockquote>
-<p>Note: Might get black screen while using it.</p>
+<p>Примечание: Возможно появление черного экрана при использовании.</p>
 </blockquote>
-<h2> Example Video:</h2>
+<h2> Пример видео:</h2>
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/IS0BvLLO1xc?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - AutoTalk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 ]]></content:encoded>
     </item>
     <item>
-      <title>Auto Tree Farm</title>
+      <title>Автоматический сбор дерева</title>
       <link>https://korepi.com/ru/features/World/auto-tree-farm.html</link>
       <guid>https://korepi.com/ru/features/World/auto-tree-farm.html</guid>
-      <source url="https://korepi.com/ru/rss.xml">Auto Tree Farm</source>
-      <description>::: info Sponsor Only ::: Auto Tree Farm lets you punch nearby trees with the selected value and delay, therefore automatically getting wood from nearby trees. Example Video: N...</description>
-      <category>Features</category>
+      <source url="https://korepi.com/ru/rss.xml">Автоматический сбор дерева</source>
+      <description>::: Информация только для спонсоров ::: Автоматический сбор дерева позволяет вам ударять близлежащие деревья с выбранным значением и задержкой, тем самым автоматически получая д...</description>
+      <category>Особенности</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
-      <content:encoded><![CDATA[<div class="hint-container info">
-<p class="hint-container-title">Sponsor Only</p>
-</div>
-<hr>
-<h3> Auto Tree Farm lets you punch nearby trees with the selected value and delay, therefore automatically getting wood from nearby trees.</h3>
-<h2> Example Video:</h2>
-<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/v95_NOxc4do?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Tree Farm" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+      <content:encoded><![CDATA[<h2> ::: Информация только для спонсоров :::</h2>
+<h3> Автоматический сбор дерева позволяет вам ударять близлежащие деревья с выбранным значением и задержкой, тем самым автоматически получая древесину из окружающих деревьев.</h3>
 <blockquote>
-<p>Note: Not recommended to change default values.</p>
+<p>Примечание: Не рекомендуется изменять значения по умолчанию.</p>
 </blockquote>
+<h2> Пример видео:</h2>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/v95_NOxc4do?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Автоматическая деревоферма" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 ]]></content:encoded>
     </item>
     <item>
-      <title>Elemental Aura</title>
+      <title>Элементальная Аура</title>
       <link>https://korepi.com/ru/features/World/elemental-aura.html</link>
       <guid>https://korepi.com/ru/features/World/elemental-aura.html</guid>
-      <source url="https://korepi.com/ru/rss.xml">Elemental Aura</source>
-      <description>::: info Sponsor Only ::: Elemental Aura applies elements with the specified element, range and delay to targets, objects or yourself, multiple elements can be applied to nearby...</description>
-      <category>Features</category>
+      <source url="https://korepi.com/ru/rss.xml">Элементальная Аура</source>
+      <description>::: Информация только для Спонсоров ::: Элементальная Аура применяет элементы с указанным типом, диапазоном и задержкой к целям, объектам или самому себе; несколько элементов мо...</description>
+      <category>Особенности</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
-      <content:encoded><![CDATA[<div class="hint-container info">
-<p class="hint-container-title">Sponsor Only</p>
-</div>
-<hr>
-<h3> Elemental Aura applies elements with the specified element, range and delay to  targets, objects or yourself, multiple elements can be applied to nearby targets.</h3>
-<h2> Example Video:</h2>
-<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/FskTJiknOgQ?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Elemental Aura (Sponsor)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+      <content:encoded><![CDATA[<h2> ::: Информация только для Спонсоров :::</h2>
+<h3> Элементальная Аура применяет элементы с указанным типом, диапазоном и задержкой к целям, объектам или самому себе; несколько элементов могут быть применены к близким целям.</h3>
 <blockquote>
-<p>Note: Low delay times will increase the chance of detection.</p>
+<p>Примечание: Низкое время задержки увеличивает вероятность обнаружения.</p>
 </blockquote>
+<h2> Пример видео:</h2>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/FskTJiknOgQ?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Элементальная Аура (Спонсор)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 ]]></content:encoded>
     </item>
     <item>
-      <title>Game Speed</title>
+      <title>Скорость игры</title>
       <link>https://korepi.com/ru/features/World/game-speed.html</link>
       <guid>https://korepi.com/ru/features/World/game-speed.html</guid>
-      <source url="https://korepi.com/ru/rss.xml">Game Speed</source>
-      <description>Game Speed. Speedups or slowdowns the game. Unexpected.Note: Not recommended to use outside of menus, or in general. Example Video:</description>
-      <category>Features</category>
+      <source url="https://korepi.com/ru/rss.xml">Скорость игры</source>
+      <description>Скорость игры. Ускорение или замедление игры. Примечание: Не рекомендуется использовать вне меню или вообще. Пример видео:</description>
+      <category>Особенности</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
-      <content:encoded><![CDATA[<h3> Game Speed. Speedups or slowdowns the game. Unexpected.</h3>
+      <content:encoded><![CDATA[<h3> Скорость игры. Ускорение или замедление игры.</h3>
 <blockquote>
-<p>Note: Not recommended to use outside of menus, or in general.</p>
+<p>Примечание: Не рекомендуется использовать вне меню или вообще.</p>
 </blockquote>
-<h2> Example Video:</h2>
-<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/MzXhudYkaDg?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Game Speed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+<h2> Пример видео:</h2>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/MzXhudYkaDg?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Скорость игры" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 ]]></content:encoded>
     </item>
     <item>
-      <title>Kill Aura</title>
+      <title>Убийственная Аура</title>
       <link>https://korepi.com/ru/features/World/kill-aura.html</link>
       <guid>https://korepi.com/ru/features/World/kill-aura.html</guid>
-      <source url="https://korepi.com/ru/rss.xml">Kill Aura</source>
-      <description>::: danger This feature has a high risk of ban. ::: Kill Aura: Deals damage to surrounding enemies Crash Damage mode:Deals fall damage to surrounding enemies with the specified...</description>
-      <category>Features</category>
+      <source url="https://korepi.com/ru/rss.xml">Убийственная Аура</source>
+      <description>::: Эта функция имеет высокий риск блокировки аккаунта ::: Убийственная Аура (Kill Aura): Наносит урон окружающим врагам Режим Урона при Падении: Наносит урон окружающим врагам ...</description>
+      <category>Особенности</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
-      <content:encoded><![CDATA[<div class="hint-container danger">
-<p class="hint-container-title">This feature has a high risk of ban.</p>
-</div>
-<hr>
-<h2> Kill Aura: Deals damage to surrounding enemies</h2>
-<h3> Crash Damage mode:</h3>
+      <content:encoded><![CDATA[<h2> ::: Эта функция имеет высокий риск блокировки аккаунта :::</h2>
+<h2> Убийственная Аура (Kill Aura): Наносит урон окружающим врагам</h2>
+<h3> Режим Урона при Падении:</h3>
 <ul>
-<li>Deals fall damage to surrounding enemies with the specified value, delay and range.</li>
+<li>Наносит урон окружающим врагам с указанным значением, задержкой и дальностью.</li>
 </ul>
 <blockquote>
-<p>Note: Not recommended to use very high values.</p>
+<p>Примечание: Не рекомендуется использовать очень высокие значения.</p>
 </blockquote>
-<h3> Percent Mode:</h3>
+<h3> Режим в Процентах:</h3>
 <ul>
-<li>Number of hits needed to kill an enemy.</li>
+<li>Количество ударов, необходимых для убийства врага.</li>
 </ul>
 <blockquote>
-<p>Note: Recommended to use <code>3</code> or higher values.</p>
+<p>Примечание: Рекомендуется использовать значения <code>3</code> или выше.</p>
 </blockquote>
-<h3> Left HP:</h3>
+<h3> Оставшиеся ХП:</h3>
 <ul>
-<li>Whether or not to leave the specified amount of HP to surrounding enemies.</li>
+<li>Оставлять или нет указанное количество ХП окружающим врагам.</li>
 </ul>
-<h3> Instant Death Mode:</h3>
+<h3> Режим Мгновенной Смерти:</h3>
 <ul>
-<li>Will try to make the enemy disappear</li>
+<li>Попытается заставить врага исчезнуть.</li>
 </ul>
 <blockquote>
-<p>Note: Might get buggy with some bosses.
-Note 2: Not recommended to use.</p>
+<p>Примечание: Может вызвать ошибки с некоторыми боссами.</p>
+<p>Примечание: Не рекомендуется к использованию.</p>
 </blockquote>
-<h3> Only Hostile/Aggro:</h3>
+<h3> Только Враждебные/Агрессивные:</h3>
 <ul>
-<li>Whether or not to target only hostile mobs.</li>
+<li>Атаковать лишь враждебных мобов.</li>
 </ul>
-<h2> Example Video:</h2>
-<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/NiAh00VBy-w?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Kill Aura" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+<h2> Пример Видео:</h2>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/NiAh00VBy-w?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Убийственная Аура" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 ]]></content:encoded>
     </item>
     <item>
-      <title>Mob Vacuum</title>
+      <title>Притягивание мобов</title>
       <link>https://korepi.com/ru/features/World/mob-vacuum.html</link>
       <guid>https://korepi.com/ru/features/World/mob-vacuum.html</guid>
-      <source url="https://korepi.com/ru/rss.xml">Mob Vacuum</source>
-      <description>Mob Vacuum move nearby mobs to the player with the selected speed and range, the mobs that will be affected can be customized. Example Video: Note: Recommended below 20m.</description>
-      <category>Features</category>
+      <source url="https://korepi.com/ru/rss.xml">Притягивание мобов</source>
+      <description>Притягивание мобов перемещает окрестных мобов к игроку с выбранной скоростью и дальностью, мобы, которых это затронет, могут быть настроены. Примечание: Рекомендуется расстояние...</description>
+      <category>Особенности</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Mob Vacuum move nearby mobs to the player with the selected speed and range, the mobs that will be affected can be customized.</h2>
-<h2> Example Video:</h2>
-<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/KNzVgG_V10I?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Mob Vacuum" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+      <content:encoded><![CDATA[<h2> Притягивание мобов перемещает окрестных мобов к игроку с выбранной скоростью и дальностью, мобы, которых это затронет, могут быть настроены.</h2>
 <blockquote>
-<p>Note: Recommended below <code>20m</code>.</p>
+<p>Примечание: Рекомендуется расстояние менее <code>20м</code>.</p>
 </blockquote>
+<h2> Пример видео:</h2>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/KNzVgG_V10I?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Пылесос для мобов" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 ]]></content:encoded>
     </item>
     <item>
-      <title>Vacuum Loot</title>
+      <title>Притягивание лута</title>
       <link>https://korepi.com/ru/features/World/vacuum-loot.html</link>
       <guid>https://korepi.com/ru/features/World/vacuum-loot.html</guid>
-      <source url="https://korepi.com/ru/rss.xml">Vacuum Loot</source>
-      <description>Vacuum Loot moves nearby drops to the player with the specified range and delay. Example Video: Note: Recommended below 20m.</description>
-      <category>Features</category>
+      <source url="https://korepi.com/ru/rss.xml">Притягивание лута</source>
+      <description>Притягивание лута перемещает близлежащие предметы к игроку в указанном диапазоне и с задержкой. Примечание: Рекомендуется расстояние менее 20м. Пример видео:</description>
+      <category>Особенности</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Vacuum Loot moves nearby drops to the player with the specified range and delay.</h2>
-<h2> Example Video:</h2>
-<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/iMElTsNF77c?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Vacuum Loot" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+      <content:encoded><![CDATA[<h2> Притягивание лута перемещает близлежащие предметы к игроку в указанном диапазоне и с задержкой.</h2>
 <blockquote>
-<p>Note: Recommended below <code>20m</code>.</p>
+<p>Примечание: Рекомендуется расстояние менее <code>20м</code>.</p>
 </blockquote>
+<h2> Пример видео:</h2>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/iMElTsNF77c?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Пылесборный лут" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 ]]></content:encoded>
     </item>
     <item>
-      <title>Скачать</title>
+      <title>Загрузка</title>
       <link>https://korepi.com/ru/start/download.html</link>
       <guid>https://korepi.com/ru/start/download.html</guid>
-      <source url="https://korepi.com/ru/rss.xml">Скачать</source>
-      <description>Введение Добро пожаловать в наше сообщество! Чтобы пройти проверку на бота и получить роль Newcomer, выполните следующие шаги. Шаг 1: Присоединение к нашему серверу и получение ...</description>
-      <category>Гайд</category>
+      <source url="https://korepi.com/ru/rss.xml">Загрузка</source>
+      <description>Введение Добро пожаловать в наше сообщество! Чтобы пройти проверку на бота и получить роль Новичок (Newcomer), выполните следующие шаги. Шаг 1: Присоединение к нашему серверу и ...</description>
+      <category>Руководство</category>
       <pubDate>Wed, 29 Nov 2023 18:44:10 GMT</pubDate>
-      <content:encoded><![CDATA[<h1> Скачивание</h1>
+      <content:encoded><![CDATA[<h1> Загрузка</h1>
 <h2> Введение</h2>
-<p>Добро пожаловать в наше сообщество! Чтобы пройти проверку на бота и получить роль <code>Newcomer</code>, выполните следующие шаги.</p>
-<h2> Шаг 1: Присоединение к нашему серверу и получение роли <code>Newcomer</code> и <code>Fans</code></h2>
-<p>Если вы еще не на сервере, пожалуйста, прочтите предыдущий пост, где описано, как присоединиться к серверу и получить роль <code>Newcomer</code>.</p>
+<p>Добро пожаловать в наше сообщество! Чтобы пройти проверку на бота и получить роль <code>Новичок (Newcomer)</code>, выполните следующие шаги.</p>
+<h2> Шаг 1: Присоединение к нашему серверу и получение роли <code>Новичок (Newcomer)</code> и <code>Поклонник (Fans)</code></h2>
+<p>Если вы еще не на сервере, пожалуйста, прочтите предыдущий пост, где описано, как присоединиться к серверу и получить роль <code>Новичок (Newcomer)</code>.</p>
 <h2> Шаг 2: Перейдите в канал <code>★⋅korepi-version-roles⋅★</code></h2>
 <p>Найдите канал <code>★⋅korepi-version-roles⋅★</code> и получите роль F или V версии. Мы рекомендуем выбрать роль F.</p>
-<h2> Шаг 3: Скачайте необходимые ресурсы</h2>
-<p>После этого вам откроется доступ к соответствующему каналу для скачивания: <code>★⋅f-download⋅★</code> или <code>★⋅v-download⋅★</code>.</p>
-<h2> Шаг 4: Готово к участию!</h2>
+<h2> Шаг 3: Загрузите необходимые ресурсы</h2>
+<p>После этого вам откроется доступ к соответствующему каналу для загрузки: <code>★⋅f-download⋅★</code> или <code>★⋅v-download⋅★</code>.</p>
+<h2> Шаг 4: Готовы к участию!</h2>
 <p>В канале вы найдете ссылку на актуальную версию и пароль от архива.
 После распакуйте все в папку НА АНГЛИЙСКОМ ЯЗЫКЕ, Удачи!</p>
 ]]></content:encoded>
@@ -1551,23 +1517,23 @@ Note 2: Not recommended to use.</p>
       <link>https://korepi.com/ru/start/sponsor.html</link>
       <guid>https://korepi.com/ru/start/sponsor.html</guid>
       <source url="https://korepi.com/ru/rss.xml">Спонсорство</source>
-      <description>Шаг 1: Как стать спонсором? Чтобы стать спонсором, вам нужно сделать пожертвование в размере не менее 5 долларов или эквивалентной суммы. Шаг 2: Где сделать пожертвование? После...</description>
+      <description>Шаг 1: Как стать спонсором? Чтобы стать спонсором, вам нужно сделать пожертвование в размере не менее 5 долларов. Шаг 2: Где сделать пожертвование? После присоединения к серверу...</description>
       <category>Гайд</category>
       <pubDate>Mon, 27 Nov 2023 07:17:28 GMT</pubDate>
       <content:encoded><![CDATA[<h1> Спонсорство</h1>
 <h2> Шаг 1: Как стать спонсором?</h2>
-<p>Чтобы стать спонсором, вам нужно сделать пожертвование в размере не менее 5 долларов или эквивалентной суммы.</p>
+<p>Чтобы стать спонсором, вам нужно сделать пожертвование в размере не менее 5 долларов.</p>
 <h2> Шаг 2: Где сделать пожертвование?</h2>
 <p>После присоединения к серверу, перейдите в канал <a href="https://discord.com/channels/1069057220802781265/1097565269985071205" target="_blank" rel="noopener noreferrer">#sponsorship</a>. Выберите один из предложенных способов оплаты, который вам удобен.</p>
 <h2> Шаг 2.1: Альтернативный вариант</h2>
 <p>Если вам сложно разобраться с предыдущим шагом, или у вас нет времени, вы можете связаться с любым русскоязычным модератором, и он окажет вам помощь.</p>
-<div class="hint-container tip">
-<p class="hint-container-title">Модераторы</p>
+<hr>
+<p>::: Модераторы :::</p>
 <ul>
-<li>qwerezon</li>
-<li>butterbrodskiy</li>
+<li><strong><span style="color:green">QweRez</span></strong></li>
+<li><strong><span style="color:green">Butterbrodskiy</span></strong></li>
 </ul>
-</div>
+<hr>
 ]]></content:encoded>
     </item>
     <item>
@@ -1583,18 +1549,18 @@ Note 2: Not recommended to use.</p>
       <link>https://korepi.com/ru/start/join.html</link>
       <guid>https://korepi.com/ru/start/join.html</guid>
       <source url="https://korepi.com/ru/rss.xml">Присоединение к серверу</source>
-      <description>Введение Добро пожаловать в наше сообщество! Чтобы присоединиться к серверу Discord и начать пользоваться Korepi, выполните следующие шаги. Шаг 1: Создание аккаунта Discord Если...</description>
+      <description>Введение Добро пожаловать в наше сообщество! Чтобы присоединиться к серверу Discord и начать использовать Korepi, выполните следующие шаги. Шаг 1: Создание аккаунта Discord Если...</description>
       <category>Гайд</category>
       <pubDate>Fri, 24 Nov 2023 14:31:46 GMT</pubDate>
       <content:encoded><![CDATA[<h2> Введение</h2>
-<p>Добро пожаловать в наше сообщество! Чтобы присоединиться к серверу Discord и начать пользоваться Korepi, выполните следующие шаги.</p>
+<p>Добро пожаловать в наше сообщество! Чтобы присоединиться к серверу Discord и начать использовать Korepi, выполните следующие шаги.</p>
 <h2> Шаг 1: Создание аккаунта Discord</h2>
 <p>Если у вас еще нет аккаунта Discord, начните с создания нового аккаунта. Посетите <a href="https://discord.com/" target="_blank" rel="noopener noreferrer">официальный сайт Discord</a> и следуйте инструкциям по регистрации.</p>
 <h2> Шаг 2: Загрузка и установка Discord</h2>
-<p>После создания аккаунта загрузите <a href="https://discord.com/download" target="_blank" rel="noopener noreferrer">клиент Discord</a> для вашей операционной системы. Установите клиент, следуя инструкциям на экране.</p>
+<p>После создания аккаунта, загрузите <a href="https://discord.com/download" target="_blank" rel="noopener noreferrer">клиент Discord</a> для вашей операционной системы. Установите клиент, следуя инструкциям на экране.</p>
 <h2> Шаг 3: Присоединение к серверу</h2>
 <ol>
-<li>Скопируйте <a href="https://discord.gg/cottonbuds" target="_blank" rel="noopener noreferrer">пригласительную ссылку</a> для сервера Discord, предоставленную администратором.</li>
+<li>Скопируйте <a href="https://discord.gg/cottonbuds" target="_blank" rel="noopener noreferrer">пригласительную ссылку</a>, предоставленную администратором сервера Discord.</li>
 <li>В клиенте Discord нажмите кнопку "+" в левом нижнем углу.</li>
 <li>Выберите "Присоединиться к серверу".</li>
 <li>Вставьте пригласительную ссылку и нажмите "Присоединиться".</li>
@@ -1608,24 +1574,22 @@ Note 2: Not recommended to use.</p>
       <link>https://korepi.com/ru/start/sign-in.html</link>
       <guid>https://korepi.com/ru/start/sign-in.html</guid>
       <source url="https://korepi.com/ru/rss.xml">Регистрация</source>
-      <description>Добро пожаловать в наше сообщество! Чтобы зарегистрироваться и получить роль &amp;quot;Fans&amp;quot;, выполните следующие шаги. Шаг 1: Присоединение к нашему серверу и получение роли &amp;quot;Newcomer&amp;quot; ...</description>
+      <description>Добро пожаловать в наше сообщество! Чтобы зарегистрироваться и получить роль Поклонник (Fans), выполните следующие шаги. Шаг 1: Присоединение к нашему серверу и получите роль Но...</description>
       <category>Гайд</category>
       <pubDate>Fri, 24 Nov 2023 14:31:46 GMT</pubDate>
       <content:encoded><![CDATA[<h1> Регистрация</h1>
-<p>Добро пожаловать в наше сообщество! Чтобы зарегистрироваться и получить роль "Fans", выполните следующие шаги.</p>
-<h2> Шаг 1: Присоединение к нашему серверу и получение роли "Newcomer"</h2>
-<p>Если вы еще не на сервере, пожалуйста, прочитайте предыдущий пост, где описано, как присоединиться к серверу и получить роль "Newcomer".</p>
+<p>Добро пожаловать в наше сообщество! Чтобы зарегистрироваться и получить роль <code>Поклонник (Fans)</code>, выполните следующие шаги.</p>
+<h2> Шаг 1: Присоединение к нашему серверу и получите роль <code>Новичок (Newcomer)</code></h2>
+<p>Если вы еще не на сервере, пожалуйста, прочитайте предыдущий пост, где описано, как присоединиться к серверу и получить роль <code>Новичок (Newcomer)</code>.</p>
 <h2> Шаг 2: Бот</h2>
 <p>Теперь вам нужно найти бота с изображением гуся и написать ему в личные сообщения (micah-sign-bot#0245).</p>
 <p><img src="/assets/images/docs/202312/signin1.png" alt="Sign-in" loading="lazy"></p>
 <h2> Шаг 3: Начало</h2>
-<p>Напишите ему команду <code>/sign-in</code>, решите капчу. Примечание: если бот не отвечает на ваш запрос с капчей, вы, вероятно, ввели ее неверно. Попробуйте написать капчу еще раз (без команды). После успешного ввода бот отправит вам сообщение "Consecutive &lt;количество дней&gt; days".</p>
+<p>Напишите ему команду <code>/sign-in</code>, решите капчу. Примечание: если бот не отвечает на ваш запрос с капчей, вероятно, вы ввели её неверно. Попробуйте написать капчу еще раз (без команды). После успешного ввода бот отправит вам сообщение "Consecutive &lt;количество дней&gt; days".</p>
 <p><img src="/assets/images/docs/202312/signin1.png" alt="Sign-in" loading="lazy"></p>
 <p><img src="/assets/images/docs/202312/signin1.png" alt="Sign-in" loading="lazy"></p>
-<div class="hint-container tip">
-<p class="hint-container-title">Предисловие</p>
-<p>Итак, теперь вам нужно вводить эту команду каждый день в течение 7 дней (каждые 24 часа). Учтите, что если вы ошибетесь на пару часов, бот посчитает, что вы не отмечались и сбросит ваши дни. На 7-й день отметок вам будет выдана роль "Fans", и вы можете прекратить отмечаться.</p>
-</div>
+<hr>
+<h2> ::: <span style="color:red">ВАЖНО</span>: вам нужно вводить эту команду каждый день в течение 7 дней (каждые 24 часа). Учтите, что если вы ошибетесь на пару часов, бот посчитает, что вы не отмечались и сбросит ваши дни. На 7-й день отметок вам будет выдана роль "Fans", и вы сможете прекратить отмечаться :::</h2>
 <p><img src="/assets/images/docs/202312/signin4.png" alt="Sign-in" loading="lazy"></p>
 ]]></content:encoded>
       <enclosure url="https://korepi.com/assets/images/docs/202312/signin1.png" type="image/png"/>
@@ -1635,20 +1599,20 @@ Note 2: Not recommended to use.</p>
       <link>https://korepi.com/ru/start/verify.html</link>
       <guid>https://korepi.com/ru/start/verify.html</guid>
       <source url="https://korepi.com/ru/rss.xml">Верификация</source>
-      <description>Введение Добро пожаловать в наше сообщество! Чтобы пройти проверку на бота и получить роль &amp;quot;Newcomer&amp;quot;, выполните следующие шаги. Шаг 1: Присоединитесь к нашему серверу, если еще...</description>
+      <description>Введение Добро пожаловать в наше сообщество! Чтобы пройти проверку на бота и получить роль Новичок (Newcomer), выполните следующие шаги. Шаг 1: Присоединитесь к нашему серверу, ...</description>
       <category>Гайд</category>
       <pubDate>Fri, 24 Nov 2023 14:31:46 GMT</pubDate>
       <content:encoded><![CDATA[<h1> Верификация</h1>
 <h2> Введение</h2>
-<p>Добро пожаловать в наше сообщество! Чтобы пройти проверку на бота и получить роль "Newcomer", выполните следующие шаги.</p>
+<p>Добро пожаловать в наше сообщество! Чтобы пройти проверку на бота и получить роль <code>Новичок (Newcomer)</code>, выполните следующие шаги.</p>
 <h2> Шаг 1: Присоединитесь к нашему серверу, если еще этого не сделали</h2>
-<p>Если вы еще не на сервере, пожалуйста, ознакомьтесь с предыдущим постом, где описано, как присоединиться к серверу.</p>
-<h2> Шаг 2: И так, вы на сервере</h2>
-<p>Теперь, когда вы на сервере, выберите необходимые каналы и роли из списка, затем перейдите в канал ★⋅rules⋅★.</p>
-<h2> Шаг 3: Канал ★⋅rules⋅★</h2>
-<p>В канале правил ознакомьтесь с правилами и пройдите проверку, чтобы подтвердить, что вы не бот. Найдите кнопку "Verify", нажмите на нее, после чего бот отправит вам ссылку, по которой вам нужно перейти и подтвердить, что вы не бот.</p>
-<h2> Шаг 4: После получения роли "Newcomer"</h2>
-<p>После успешной верификации, бот выдаст вам роль "Newcomer". С этой ролью вы не будете исключены ботом без объективных причин. Теперь переходите к следующему шагу.</p>
+<p>Если вы еще не на сервере, пожалуйста, прочитайте предыдущий пост, в котором описано, как присоединиться к серверу.</p>
+<h2> Шаг 2: Итак, вы на сервере</h2>
+<p>Теперь, когда вы на сервере, выберите необходимые каналы и роли из списка, затем перейдите в канал <code>★⋅rules⋅★</code>.</p>
+<h2> Шаг 3: Канал <code>★⋅rules⋅★</code></h2>
+<p>В канале с правилами ознакомьтесь с ними и пройдите проверку, чтобы подтвердить, что вы не бот. Найдите кнопку <code>Verify</code>, нажмите на нее, после чего бот отправит вам ссылку, по которой нужно перейти и подтвердить, что вы не бот.</p>
+<h2> Шаг 4: После получения роли <code>Новичок (Newcomer)</code></h2>
+<p>После успешной верификации, бот выдаст вам роль <code>Новичок (Newcomer)</code>. С этой ролью вы не будете исключены ботом без объективных причин. Теперь переходите к следующему шагу.</p>
 ]]></content:encoded>
     </item>
     <item>
