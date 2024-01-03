@@ -1,18 +1,17 @@
 ---
-title: Vacuum Loot
+title: Притягивание лута
 icon: magnet
 category:
-  - Features
+  - Особенности
 tag:
-  - Vacuum Loot
-author: Schvis
+  - Притягивание лута
+author: "Schvis"
 order: 14
 ---
 
-## Vacuum Loot moves nearby drops to the player with the specified range and delay.
+## Притягивание лута перемещает близлежащие предметы к игроку в указанном диапазоне и с задержкой.
+> Примечание: Рекомендуется расстояние менее `20м`.
 
-## Example Video:
+## Пример видео:
 
-<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/iMElTsNF77c?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Vacuum Loot" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
-
-> Note: Recommended below `20m`.
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/iMElTsNF77c?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Пылесборный лут" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>

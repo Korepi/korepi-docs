@@ -1,18 +1,20 @@
 ---
-title: Кастомный Телепорт
+title: Телепорт к сундукам
 icon: person-rays
 category:
-  - Features
+  - Особенности
 tag:
-  - Chest Teleport
-author: Schvis
+  - Телепорт к сундукам
+author: "Schvis"
 order: 2
 ---
 
-## Телепорт сундука при нажатии горячей клавиши игрок телепортируется в ближайшее отображаемое местоположение сундука.
+## Телепорт к сундукам
 
-> Примечание: Подождите ">15 секунд" между телепортациями в целях безопасности.
+При нажатии горячей клавиши игрок телепортируется в ближайшее отображаемое местоположение сундука.
 
-## Пример Видео:
+> Примечание: Подождите не менее 15 секунд между телепортациями в целях обеспечения безопасности.
+
+## Пример видео:
 
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/j2Yu31J7Yh4?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Oculi/ChestTeleport" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>

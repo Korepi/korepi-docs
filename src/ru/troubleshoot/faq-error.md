@@ -19,14 +19,14 @@ order: 2
 
 ![](/assets/images/docs/202312/virus.png)
 
-Распакуйте korepi внутри исключенной папки и запустите снова.
+Распакуйте Korepi внутри исключенной папки и запустите снова.
 
 ---
-## Статус: No active subscribtion(s) found, Invalid license key
+## Статус: No active subscription(s) found, Invalid license key
 
 Вам нужно [получить новый ключ](../guide/getkey.md) от `⁠★⋅micah-bot-verify⋅★`, если вы не можете получить ключ или ключ не работает, вам придется ждать истечения срока действия ключа.
 
-`Спонсоры могут использовать F:Reset Key вместо этого`
+### `Спонсоры могут использовать F:Reset Key вместо этого`
 
 ---
 ## [DLL injection]  Process crashed, exit code 0xc000005
@@ -107,7 +107,7 @@ order: 2
 
 ![](/assets/images/docs/202312/checksum.png)
 
-Серверы выключены или отключены, подождите, пока серверы не включатся.
+Серверы выключены, подождите, пока серверы не включатся.
 
 ---
 ## Failed to create game process with Error 5
@@ -133,7 +133,7 @@ order: 2
 ---
 ## File ok
 
-Удалите ваш cfg.json, возможно, файл поврежден.
+Удалите ваш `cfg.json`, возможно, файл поврежден.
 
 ---
 ## UserAssembly.dll isn't initialized, waiting for 2 sec.

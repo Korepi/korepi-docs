@@ -1,38 +1,34 @@
 ---
-title: Kill Aura
+title: Убийственная Аура
 icon: street-view
 category:
-  - Features
+  - Особенности
 tag:
-  - Kill Aura
-author: Schvis
+  - Убийственная Аура
+author: "Schvis"
 order: 12
 ---
 
-::: danger This feature has a high risk of ban.
-:::
+::: Эта функция имеет высокий риск блокировки аккаунта :::
 ---
-## Kill Aura: Deals damage to surrounding enemies
+## Убийственная Аура (Kill Aura): Наносит урон окружающим врагам
 
-### Crash Damage mode:
-- Deals fall damage to surrounding enemies with the specified value, delay and range.
-> Note: Not recommended to use very high values.
-### Percent Mode:
-- Number of hits needed to kill an enemy.
-> Note: Recommended to use `3` or higher values.
-### Left HP:
-- Whether or not to leave the specified amount of HP to surrounding enemies.
-### Instant Death Mode:
-- Will try to make the enemy disappear
-> Note: Might get buggy with some bosses.
-> Note 2: Not recommended to use.
-### Only Hostile/Aggro:
-- Whether or not to target only hostile mobs.
+### Режим Урона при Падении:
+- Наносит урон окружающим врагам с указанным значением, задержкой и дальностью.
+> Примечание: Не рекомендуется использовать очень высокие значения.
+### Режим в Процентах:
+- Количество ударов, необходимых для убийства врага.
+> Примечание: Рекомендуется использовать значения `3` или выше.
+### Оставшиеся ХП:
+- Оставлять или нет указанное количество ХП окружающим врагам.
+### Режим Мгновенной Смерти:
+- Попытается заставить врага исчезнуть.
+> Примечание: Может вызвать ошибки с некоторыми боссами.
+> 
+> Примечание: Не рекомендуется к использованию.
+### Только Враждебные/Агрессивные:
+- Атаковать лишь враждебных мобов.
 
-## Example Video:
+## Пример Видео:
 
-<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/NiAh00VBy-w?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Kill Aura" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
-
-
-
-
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/NiAh00VBy-w?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Убийственная Аура" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>

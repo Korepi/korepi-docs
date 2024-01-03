@@ -1,19 +1,17 @@
 ---
-title: Auto Destroy Objects
+title: Автоматическое уничтожение объектов
 icon: bomb
 category:
-  - Features
+  - Особенности
 tag:
-  - Auto Destroy Objects
-author: Schvis
+  - Автоматическое уничтожение объектов
+author: "Schvis"
 order: 4
 ---
 
-### Auto Destroy Objects lets you destroy customizable objects within a specified range, in which it includes, ores, plants, rock piles, chests, special objects, shields, etc.
+### Автоматическое уничтожение объектов позволяет вам уничтожать настраиваемые объекты в определенном радиусе, к которым относятся руды, растения, груды камней, сундуки, специальные объекты, щиты и т. д.
+> Примечание: Рекомендуемое значение - менее `20м`, не рекомендуется использовать на максимальной дистанции (`40м`).
 
-## Example Video:
+## Пример видео:
 
-<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/3ML6s3SR8nE?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Destroy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
-
->Note: Recommended value is below `20m`, not recommended to use at max range (`40m`)
-
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/3ML6s3SR8nE?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Автоматическое уничтожение" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
