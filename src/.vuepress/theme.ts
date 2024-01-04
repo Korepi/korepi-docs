@@ -1,6 +1,6 @@
 import { hopeTheme } from "vuepress-theme-hope";
-import { enNavbar, zhNavbar, ruNavbar, idNavbar, esNavbar, mxNavbar, viNavbar, ptNavbar, trNavbar, arNavbar } from "./navbar/index.js";
-import { enSidebar, zhSidebar, ruSidebar, idSidebar, esSidebar, mxSidebar, viSidebar, ptSidebar, trSidebar, arSidebar } from "./sidebar/index.js";
+import { enNavbar, zhNavbar, ruNavbar, idNavbar, esNavbar, mxNavbar, viNavbar, ptNavbar, trNavbar, arNavbar, jpNavbar } from "./navbar/index.js";
+import { enSidebar, zhSidebar, ruSidebar, idSidebar, esSidebar, mxSidebar, viSidebar, ptSidebar, trSidebar, arSidebar, jpSidebar } from "./sidebar/index.js";
 
 
 export default hopeTheme({
@@ -148,6 +148,16 @@ export default hopeTheme({
         editLink: "GitHub تحرير هذه الصفحة على",
       },
     },
+    "/jp/": {
+      navbar: jpNavbar,
+      sidebar: jpSidebar,
+      footer:
+        "Genshin ImpactでPCプレイヤーに最高のゲーム体験を提供。",
+      displayFooter: true,
+      metaLocales: {
+        editLink: "GitHubでこのページを編集する",
+      },
+    },
   },
 
   plugins: {
@@ -240,6 +250,14 @@ export default hopeTheme({
             title: "ساهم بمهاراتك",
             content:
             "إذا كانت لديك خبرة في <b>تطوير واجهة الويب الأمامية</b> و<b>إدارة المستندات</b>، وترغب في تطبيقها على مشروع التوجيه هذا، فنحن نرحب بك في <a href='https ://github.com/Korepi/korepi-docs'>انضم إلينا في كتابة الوثائق</a>",
+            fullscreen: false,
+            showOnce: false,
+          },
+          {
+            path: "/jp/",
+            title: "あなたのスキルを提供しよう",
+            content:
+              "<b>ウェブフロントエンド開発</b> と <b>ドキュメント管理</b>の経験をお持ちの方で、このドキュメンテーション・プロジェクトにそれを活かしたい方は、 <a href='https://github.com/Korepi/korepi-docs'>ぜひ私たちと一緒に活動してください</a>",
             fullscreen: false,
             showOnce: false,
           },

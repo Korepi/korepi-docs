@@ -64,8 +64,13 @@ export default defineUserConfig({
             lang: "ar",
             title: "Korepi",
             description: "للمساعدة Korepi"
-
         },
+        "/jp/": {
+            lang: "jp-JP",
+            title: "Korepi",
+            description: "Korepiに関するヘルプ",
+        },
+
     },
     plugins: [
         docsearchPlugin({
@@ -441,7 +446,48 @@ export default defineUserConfig({
                             },
                         },
                     },
-                },                
+                }, 
+                "/jp/": {
+                    placeholder: "検索",
+                    translations: {
+                        button: {
+                            buttonText: "検索",
+                            buttonAriaLabel: "検索",
+                        },
+                        modal: {
+                            searchBox: {
+                                resetButtonTitle: "検索条件をクリア",
+                                resetButtonAriaLabel: "検索条件をクリア",
+                                cancelButtonText: "取り消し",
+                                cancelButtonAriaLabel: "取り消し",
+                            },
+                            startScreen: {
+                                recentSearchesTitle: "検索履歴",
+                                noRecentSearchesText: "検索履歴なし",
+                                saveRecentSearchButtonTitle: "検索履歴に保存",
+                                removeRecentSearchButtonTitle: "検索履歴を削除",
+                                favoriteSearchesTitle: "お気に入り",
+                                removeFavoriteSearchButtonTitle: "お気に入りから削除",
+                            },
+                            errorScreen: {
+                                titleText: "結果の取得に失敗",
+                                helpText: "インターネット接続と要求されたリソースを確認してください。",
+                            },
+                            footer: {
+                                selectText: "選択",
+                                navigateText: "トグル",
+                                closeText: "閉じる",
+                                searchByText: "検索",
+                            },
+                            noResultsScreen: {
+                                noResultsText: "お探しの情報は見つかりませんでした:",
+                                suggestedQueryText: "別の質問を試してみてください",
+                                reportMissingResultsText: "この質問は何らかの結果を生み出すと思いますか？ :> ?",
+                                reportMissingResultsLinkText: "お問い合わせ",
+                            },
+                        },
+                    },
+                },               
             },
         }),
         redirectPlugin({
@@ -460,6 +506,7 @@ export default defineUserConfig({
                 "/ko/": ["ko", "ko-KR"],
                 "/tr/": ["tr-TR", "tr"],
                 "/ar/": ["ar", "ar-MA", "ar-SA", "ar-PS", "ar-DZ", "ar-BH", "ar-TD", "ar-KM", "ar-JO", "ar-EG", "ar-IQ", "ar-KW", "ar-LB", "ar-LY", "ar-MR", "ar-OM", "ar-QA", "ar-SO", "ar-SD", "ar-SY", "ar-TN", "ar-AE", "ar-YE",],
+                "/jp/": ["jp-JP", "jp"],
             },
         }),
         googleAnalyticsPlugin({
