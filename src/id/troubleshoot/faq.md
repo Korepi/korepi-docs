@@ -16,7 +16,7 @@ order: 1
 Iya, gratis, untuk pertama kali mendapatkannya Anda harus melakukan 7 hari [sign-in](../start/sign-in.md), Anda bisa melewatinya dengan [Sponsor](../start/sponsor.md), setelah itu Anda dapat mengambil lisensi setiap kali lisensi Anda kedaluwarsa.
 
 ---
-### Apa kata sandi dari berkas .rar/.zip?
+### Apa kata sandi dari file .rar/.zip?
 
 ...
 
@@ -25,7 +25,7 @@ Kata sandinya adalah `1234`, Harap lain kali membaca postingan unduh.
 ---
 ### Kenapa konfigurasi saya tidak tersimpan?
 
-Ingatlah bahwa Anda harus ekstrak berkas `.rar/.zip` tersebut di dalam folder baru.
+Ingatlah bahwa Anda harus ekstrak file `.rar/.zip` tersebut di dalam folder baru.
 
 Jika konfigurasi masih tidak tersimpan, Harap hubungi pengarah manapun yang terdapat di server untuk mendapat bantuan.
 
