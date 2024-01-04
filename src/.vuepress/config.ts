@@ -67,7 +67,7 @@ export default defineUserConfig({
 
         },
         "/jp/": {
-            lang: "jp-JP",
+            lang: "ja-JP",
             title: "Korepi",
             description: "Korepiに関するヘルプ",
         },
@@ -446,7 +446,7 @@ export default defineUserConfig({
                             },
                         },
                     },
-                }, 
+                },
                 "/jp/": {
                     placeholder: "検索",
                     translations: {
@@ -487,7 +487,7 @@ export default defineUserConfig({
                             },
                         },
                     },
-                },           
+                },
             },
         }),
         redirectPlugin({
@@ -505,7 +505,7 @@ export default defineUserConfig({
                 "/pt/": ["pt-PT", "pt-BR", "pt"],
                 "/ko/": ["ko", "ko-KR"],
                 "/tr/": ["tr-TR", "tr"],
-                "/jp/": ["jp-JP", "jp"],
+                "/jp/": ["ja-JP","jp-JP", "jp"],
                 "/ar/": ["ar", "ar-MA", "ar-SA", "ar-PS", "ar-DZ", "ar-BH", "ar-TD", "ar-KM", "ar-JO", "ar-EG", "ar-IQ", "ar-KW", "ar-LB", "ar-LY", "ar-MR", "ar-OM", "ar-QA", "ar-SO", "ar-SD", "ar-SY", "ar-TN", "ar-AE", "ar-YE",],
             },
         }),
