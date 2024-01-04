@@ -1,6 +1,6 @@
 import { hopeTheme } from "vuepress-theme-hope";
-import { enNavbar, zhNavbar, ruNavbar, idNavbar, esNavbar, mxNavbar, viNavbar, ptNavbar, trNavbar, arNavbar } from "./navbar/index.js";
-import { enSidebar, zhSidebar, ruSidebar, idSidebar, esSidebar, mxSidebar, viSidebar, ptSidebar, trSidebar, arSidebar } from "./sidebar/index.js";
+import { enNavbar, zhNavbar, ruNavbar, idNavbar, esNavbar, mxNavbar, viNavbar, ptNavbar, trNavbar, arNavbar, jpNavbar } from "./navbar/index.js";
+import { enSidebar, zhSidebar, ruSidebar, idSidebar, esSidebar, mxSidebar, viSidebar, ptSidebar, trSidebar, arSidebar, jpSidebar } from "./sidebar/index.js";
 
 
 export default hopeTheme({
@@ -146,6 +146,16 @@ export default hopeTheme({
       },
       metaLocales: {
         editLink: "GitHub تحرير هذه الصفحة على",
+      },
+    },
+    "/jp/": {
+      navbar: jpNavbar,
+      sidebar: jpSidebar,
+      footer:
+        "Provides the best gaming experience for PC players in Genshin Impact.",
+      displayFooter: true,
+      metaLocales: {
+        editLink: "Edit this page on GitHub",
       },
     },
   },
