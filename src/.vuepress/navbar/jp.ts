@@ -5,24 +5,24 @@ export const jpNavbar = navbar([
   "/jp/guide/",
   "/jp/start/",
   {
-    text: "Guide",
+    text: "ガイド",
     icon: "lightbulb",
     prefix: "/jp/",
     children: [
       {
-        text: "Getting Started",
+        text: "はじめに",
         icon: "lightbulb",
         prefix: "start/",
         children: ["join"],
       },
       {
-        text: "Guides",
+        text: "ガイド",
         icon: "lightbulb",
         prefix: "guide/",
         children: ["getkey"],
       },
       {
-        text: "Available Features",
+        text: "利用可能な機能",
         icon: "sitemap",
         prefix: "features/",
         children: [""],

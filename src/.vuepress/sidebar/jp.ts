@@ -4,25 +4,25 @@ export const jpSidebar = sidebar({
   "/jp/": [
     "",
     {
-      text: "Start",
+      text: "スタート",
       icon: "lightbulb",
       prefix: "start/",
       children: "structure",
     },
     {
-      text: "Guides",
+      text: "ガイド",
       icon: "book",
       prefix: "guide/",
       children: "structure",
     },
     {
-      text: "Features",
+      text: "特徴",
       icon: "sitemap",
       prefix: "features/",
       children: "structure",
     },
     {
-      text: "Troubleshoot",
+      text: "トラブルシューティング",
       icon: "info-circle",
       prefix: "troubleshoot/",
       children: "structure",

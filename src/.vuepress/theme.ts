@@ -152,10 +152,10 @@ export default hopeTheme({
       navbar: jpNavbar,
       sidebar: jpSidebar,
       footer:
-        "Provides the best gaming experience for PC players in Genshin Impact.",
+        "Genshin ImpactでPCプレイヤーに最高のゲーム体験を提供。",
       displayFooter: true,
       metaLocales: {
-        editLink: "Edit this page on GitHub",
+        editLink: "GitHubでこのページを編集する",
       },
     },
   },
@@ -250,6 +250,14 @@ export default hopeTheme({
             title: "ساهم بمهاراتك",
             content:
             "إذا كانت لديك خبرة في <b>تطوير واجهة الويب الأمامية</b> و<b>إدارة المستندات</b>، وترغب في تطبيقها على مشروع التوجيه هذا، فنحن نرحب بك في <a href='https ://github.com/Korepi/korepi-docs'>انضم إلينا في كتابة الوثائق</a>",
+            fullscreen: false,
+            showOnce: false,
+          },
+          {
+            path: "/jp/",
+            title: "あなたのスキルを提供しよう",
+            content:
+              "<b>ウェブフロントエンド開発</b> と <b>ドキュメント管理</b>の経験をお持ちの方で、このドキュメンテーション・プロジェクトにそれを活かしたい方は、 <a href='https://github.com/Korepi/korepi-docs'>ぜひ私たちと一緒に活動してください</a>",
             fullscreen: false,
             showOnce: false,
           },
