@@ -153,6 +153,9 @@ export default hopeTheme({
       sidebar: jpSidebar,
       footer:
         "Genshin ImpactでPCプレイヤーに最高のゲーム体験を提供。",
+        navbarLocales: {
+          langName: "Japanese",
+        },
       displayFooter: true,
       metaLocales: {
         editLink: "GitHubでこのページを編集する",
