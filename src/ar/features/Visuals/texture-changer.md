@@ -11,4 +11,4 @@ order: 16
 ::: info Its better to use [GIMI](../../guide/3DM-tutorial.md) for changing textures.
 :::
 ---
-## Texture Changer allows to switch character parts to the provided .png files.
+## مغير الملمس يسمح بتبديل أجزاء الشخصيات إلى ملفات الصور المتوفرة.

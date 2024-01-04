@@ -1,18 +1,17 @@
 ---
-title: Auto Challenge
+title: Авто-Испытание
 icon: power-off
 category:
-  - Features
+  - Особенности
 tag:
-  - Auto Challenge
-author: Schvis
+  - Авто-Испытание
+author: "Schvis"
 order: 2
 ---
 
-### Auto Challenge lets you complete the current active time trial within a specified range and delay time, you can configure these to your liking.
+### Авто-Испытание позволяет вам завершить текущее активное испытание на время в указанном диапазоне и с задержкой, которую вы можете настроить по своему усмотрению.
+> Примечание: Не рекомендуется использовать при низких задержках и очень высоких диапазонах.
 
-## Example Video:
+## Пример видео:
 
-<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/7JNegfQiK2U?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Challenge" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
-
->Note: Not recommended to use in low delays and very high ranges.
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/7JNegfQiK2U?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Авто-Испытание" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>

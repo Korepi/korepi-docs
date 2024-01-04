@@ -8,4 +8,4 @@ tag:
 author: QweRez
 ---
 
-<AutoCatalog />)
+<AutoCatalog />

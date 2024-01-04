@@ -1,18 +1,18 @@
 ---
-title: Game Speed
+title: Скорость игры
 icon: forward-fast
 category:
-  - Features
+  - Особенности
 tag:
-  - Game Speed
-author: Schvis
+  - Скорость игры
+author: "Schvis"
 order: 11
 ---
 
-### Game Speed. Speedups or slowdowns the game. Unexpected.
+### Скорость игры. Ускорение или замедление игры.
 
->Note: Not recommended to use outside of menus, or in general.
+>Примечание: Не рекомендуется использовать вне меню или вообще.
 
-## Example Video:
+## Пример видео:
 
-<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/MzXhudYkaDg?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Game Speed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/MzXhudYkaDg?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Скорость игры" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>

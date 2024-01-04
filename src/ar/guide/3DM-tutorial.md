@@ -1,5 +1,5 @@
 ---
-title: How to use custom skins
+title: كيفية استخدام السكنات المخصصة
 icon: magic-wand-sparkles
 category:
   - Guide
@@ -10,57 +10,57 @@ author: Schvis
 order: 4
 ---
 
-::: info If GIMI shows `echo off` on the cmd, you can just press `Numpad 0` to remove it, you can also edit `d3dx.ini` and search for `hunting=` and set to `0`. 
+::: info  ادا اضهر GIMI  `echo off` على cmd يمكنك فقط الضغط `Numpad 0` لإزالته، يمكنك أيضًا التعديل على `d3dx.ini` والبحث عن `hunting=` وتعيين ل `0`. 
 :::
 ---
 
-## How to use custom Skins in Korepi
+## كيفية استخدام السكنات المخصصة في Korepi
 
 ![](/assets/images/docs/202312/example.png)
-In order to use custom skins in we will need to download: 
+من أجل استخدام السكنات المخصصة، سنحتاج إلى تنزيل: 
 
 `3DMigoto(GIMI)`.
-## <span style='color:blue;'>Method 1</span>
-### Step 1: Download `GIMI`
+## <span style='color:blue;'>طريقة 1</span>
+### الخطوة 1: التنزيل `GIMI`
 
-Download `GIMI` in their oficial [Github](https://github.com/SilentNightSound/GI-Model-Importer/releases/tag/v7.0) and download the file named: `3dmigoto-GIMI-for-playing-mods.zip`.
+حمل `GIMI` من الموقع الرسمي [Github](https://github.com/SilentNightSound/GI-Model-Importer/releases/tag/v7.0) و قم بتحميل الملف المسمى: `3dmigoto-GIMI-for-playing-mods.zip`.
 
 ![](/assets/images/docs/202312/3dm-1.png)
 
-### Step 2: Extract `GIMI` into a folder
+### الخطوة 2: قم باستخراج "GIMI" إلى مجلد
 
-After downloading `GIMI`, we will need to extract it into any folder of your choice, inside that folder you will find `d3d11.dll`, we will copy the path and add `/d3d11.dll` to the end, for example:
+بعد تحميل `GIMI` سنحتاج إلى استخراجه في أي مجلد من اختيارك، داخل هذا المجلد ستجد `d3d11.dll`، سنقوم بنسخ المسار وإضافة `/d3d11.dll` في النهاية، على سبيل المثال :
 
 `"path/d3d11.dll"`
 
-### Step 3: Add `GIMI` to Korepi
+### الخطوة 3: أضف "GIMI" إلى Korepi
 
-To do this we will need to add the next lines in `cfg.ini` inside korepi folder.
+للقيام بذلك، سنحتاج إلى إضافة الأسطر التالية في `cfg.ini` داخل مجلد korepi.
 
 ![](/assets/images/docs/202312/3dm-2.png)
 
-On `DllPath` we will paste the path we copied in the last step.
+في `DllPath` سنقوم بلصق المسار الذي نسخناه في الخطوة السابقة.
 
 ![](/assets/images/docs/202312/3dm-3.png)
 
-### Step 4: Open Korepi
+### الخطوة 4: افتح Korepi
 
-If you followed the steps right, Korepi should launch with `GIMI` every time.
+لو اتبعت الخطوات صح Korepi سيفتح مع `GIMI` كل مرة.
 
-## <span style='color:blue;'>Method 2</span>
-### Step 1: Download `GIMI`
+## <span style='color:blue;'>الطريقة 2</span>
+### Step 1: تحميل `GIMI`
 
-Download `GIMI` in their oficial [Github](https://github.com/SilentNightSound/GI-Model-Importer/releases/tag/v7.0) and download the file named: `3dmigoto-GIMI-for-playing-mods.zip`.
+حمل `GIMI` من الموقع الرسمي [Github](https://github.com/SilentNightSound/GI-Model-Importer/releases/tag/v7.0) و قم بتحميل الملف المسمى: `3dmigoto-GIMI-for-playing-mods.zip`.
 
 ![](/assets/images/docs/202312/3dm-1.png)
 
-### Step 2: Extract `GIMI` into a folder
+### الخطوة 2: قم باستخراج "GIMI" إلى مجلد
 
-After downloading `GIMI`, we will need to extract it into any folder of your choice, inside that folder you will find `3DMigoto Loader.exe`, we will run this file first.
+بعد تنزيل `GIMI`, سنحتاج إلى استخراجه في أي مجلد من اختيارك، ستجد داخل هذا المجلد `3DMigoto Loader.exe`, سوف نقوم بتشغيل هذا الملف أولا.
 
-### Step 4: Open Korepi
+### الخطوة 4: افتح Korepi
 
-After running `GIMI`, we will run Korepi, `GIMI` will be loaded with Korepi after this, you will need to repeat these steps every time you want to launch Korepi with `GIMI`.
+بعد تشغيل `GIMI`، سنقوم بتشغيل Korepi، وسيتم تحميل `GIMI` مع Korepi بعد ذلك، وسوف تحتاج إلى تكرار هذه الخطوات في كل مرة تريد فيها تشغيل Korepi مع `GIMI`.
 
 
 

@@ -10,7 +10,7 @@ author: rekiihype
 order: 4
 ---
 
-## كيف تصبح <span style='color:yellow;'>داعم</span>?
+## كيف تصبح <span style='color:yellow;'>Sponsor</span>?
 
 لكي تصبح داعما، يتعين عليك التبرع بما لا يقل عن 5 دولارات أو ما يعادلها إذا كنت تستخدم عملة أخرى.
 

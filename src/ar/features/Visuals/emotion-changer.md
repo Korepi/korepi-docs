@@ -9,4 +9,4 @@ author: Schvis
 order: 6
 ---
 
-## Emotion Changer allows the player to change the current character emotion to the selected one.
+## مغير العاطفة يسمح للاعب بتغيير مشاعر الشخصية الحالية إلى العاطفة المحددة.

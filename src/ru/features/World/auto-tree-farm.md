@@ -1,20 +1,18 @@
 ---
-title: Auto Tree Farm
+title: Автоматический сбор дерева
 icon: tree
 category:
-  - Features
+  - Особенности
 tag:
-  - Auto Tree Farm
+  - Автоматический сбор дерева
 author: Schvis, Chloe
 order: 9
 ---
-::: info Sponsor Only
-:::
+::: Информация только для спонсоров :::
 ---
-### Auto Tree Farm lets you punch nearby trees with the selected value and delay, therefore automatically getting wood from nearby trees.
+### Автоматический сбор дерева позволяет вам ударять близлежащие деревья с выбранным значением и задержкой, тем самым автоматически получая древесину из окружающих деревьев.
+> Примечание: Не рекомендуется изменять значения по умолчанию.
 
-## Example Video:
+## Пример видео:
 
-<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/v95_NOxc4do?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Tree Farm" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
-
-> Note: Not recommended to change default values.
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/v95_NOxc4do?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Автоматическая деревоферма" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>

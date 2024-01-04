@@ -6,7 +6,7 @@ heroImage: /logo2.svg
 bgImage: https://theme-hope-assets.vuejs.press/bg/6-light.svg
 bgImageDark: https://theme-hope-assets.vuejs.press/bg/6-dark.svg
 bgImageStyle:
-background-attachment: fixed
+  background-attachment: fixed
 heroText: Korepi
 tagline: Мы предлагаем доступный, высококачественный и простой в использовании продукт Korepi!
 actions:
@@ -28,24 +28,24 @@ highlights:
     bgImageDark: https://theme-hope-assets.vuejs.press/bg/3-dark.svg
     highlights:
       - title: Разблокируйте неиследованные локации
-      - title: Откройте все сундуки на карте, в пару нажатий!
+      - title: Откройте все сундуки на карте всего в пару нажатий!
 
-  - header: Практическая, удобная, технология взаимодействия с genshin-ом
-    description: Эксклюзивные функционал, бесплатный в использовании
+  - header: Практичная, удобная технология взаимодействия с Genshin Impact
+    description: Эксклюзивный функционал, бесплатный в использовании
     image: /assets/images/web/markdown.svg
     bgImage: https://theme-hope-assets.vuejs.press/bg/2-light.svg
     bgImageDark: https://theme-hope-assets.vuejs.press/bg/2-dark.svg
     bgImageStyle:
-    background-repeat: repeat
-    background-size: initial
+      background-repeat: repeat
+      background-size: initial
     features:
-      - title: Teleport
+      - title: Телепортация
         icon: location-arrow
-        details: Телепортация по карте/меткам/заданиям
-      - title: God Mode (Неуязвимость)
+        details: Путешествие по карте, точкам и заданиям
+      - title: Режим Бога (Неуязвимость)
         icon: shield
         details: Позволяет персонажу быть неуязвимым
-      - title: Модификатор атаки (Множественные удары/цели/анимация)
+      - title: Модификация атаки (Множественные удары/цели/анимация)
         icon: gun
         details: Позволяет изменять характеристики атаки
       - title: Без перезарядки (Умения/Ультимейт/Спринт/Лук)
@@ -54,19 +54,19 @@ highlights:
       - title: Бесконечная выносливость
         icon: battery-full
         details: Позволяет персонажу использовать выносливость без ограничений
-      - title: Noclip
+      - title: Проход сквозь объекты (Noclip)
         icon: vector-square
         details: Позволяет персонажу проходить сквозь объекты, летать
       - title: Скорость игры
         icon: tachometer-alt
         details: Позволяет ускорить или замедлить ход времени
-      - title: Противники без интеллекта
+      - title: Противники без искусственного интеллекта
         icon: skull
-        details: Отключает ии мобов
-      - title: Заморозка противников
+        details: Отключает искусственный интеллект у мобов
+      - title: Замораживание противников
         icon: snowflake
         details: Замораживает противников на месте
-      - title: Автоматическое уничтожение руды/щиты/декор/растения
+      - title: Автоматическое уничтожение руды/щиты/декора/растений
         icon: hammer
         details: Автоматически уничтожает различные объекты в окружающей среде
       - title: Автоматический сбор добычи/открытие сундуков
@@ -88,21 +88,21 @@ highlights:
         icon: tornado
         details: Притягивание различных мобов по близости
 
-  - header: Последние Правки багов
+  - header: Последние исправления ошибок
     image: /assets/images/web/features.svg
     bgImage: https://theme-hope-assets.vuejs.press/bg/1-light.svg
     bgImageDark: https://theme-hope-assets.vuejs.press/bg/1-dark.svg
     features:
-      - title: Автоматический выбор диалога теперь немного быстрее
+      - title: Ускоренный автоматический выбор диалога
         icon: comment
         details: Повышена скорость автоматического выбора диалога
-      - title: Масштаб карты
+      - title: Масштабирование карты
         icon: search-plus
-        details: Добавлена возможность масштабирования карты
-      - title: Мгновенная зарядка атаки (теперь настраиваемая)
+        details: Теперь можно масштабировать карту
+      - title: Настраиваемая мгновенная зарядка атаки
         icon: bolt
         details: Теперь можно настроить мгновенную зарядку атаки
-      - title: Пропустить диалог
+      - title: Пропуск диалога
         icon: arrow-right
         details: Теперь можно мгновенно пропустить диалог
       - title: Призыв NPC
@@ -113,7 +113,7 @@ highlights:
         details: Исправлен баг со статуями
 
   - header: Наши преимущества
-    description: Ознакомьтесь с несколькими нашими
+    description: Ознакомьтесь с несколькими из них
     image: /assets/images/web/blog.svg
     bgImage: https://theme-hope-assets.vuejs.press/bg/5-light.svg
     bgImageDark: https://theme-hope-assets.vuejs.press/bg/5-dark.svg

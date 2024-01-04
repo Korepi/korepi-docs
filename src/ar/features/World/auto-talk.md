@@ -9,24 +9,24 @@ author: Schvis
 order: 8
 ---
 
-## Auto Talk: Talks automatically with the NPCs
-### Fast Dialog:
-- Speeds up the game with the selected value to make the dialog faster.
-> Note: Not recommended to use above `5`.
-### Skip Dialog (Sponsor): 
-- Skips the dialog with the selected delay. Its safer than fast dialog.
-> Note: Not recommended to use below `200ms`
-### Fast Cutscene:
-- Speeds up the game with the selected value to make the cutscene faster.
-> Note: Not recommended to use above `5`
-### Skip Talk Scenes:
-- Skips a talk scene if its triggered or on-going.
-> Note: Might get black screen while using it.
-### Skip Cutscene:
-- Skips a Cutscene if its triggered or on-going.
-> Note: Might get black screen while using it.
+## التحدث التلقائي: يتحدث تلقائيًا مع الشخصيات غير القابلة للعب
+### مسرع الحوارات:
+- يسرع اللعبة بالقيمة المحددة لجعل الحوار أسرع.
+> ملحوظة: لا يُنصح باستخدامه فوق `الخمسة".
+### تخطي الحوار (Sponsor): 
+-تخطي الحوار مع التأخير المحدد. إنه أكثر أمانًا من الحوار السريع.
+> ملحوظة: لا يُنصح باستخدام أقل من `مائتين مللي ثانية"
+### :مشهد سريع
+- يعمل على تسريع اللعبة بالقيمة المحددة لجعل المشهد السينمائي أسرع.
+> ملحوظة: لا يُنصح باستخدامه فوق "الخمسة".
+### تخطي مشاهد الحديث:
+- تخطي مشهد الحديث إذا تم تشغيله أو استمراره.
+> ملاحظة: قد تحصل على شاشة سوداء أثناء استخدامه.
+### تخطي المشهدالسينمائي:
+- تخطي المشهد السينمائي إذا تم تشغيله أو استمراره.
+> ملاحظة: قد تحصل على شاشة سوداء أثناء استخدامه.
 
-## Example Video:
+## مثال المقطع:
 
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/IS0BvLLO1xc?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - AutoTalk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
 

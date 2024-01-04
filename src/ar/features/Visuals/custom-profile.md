@@ -12,16 +12,16 @@ order: 4
 ## Custom Profile:
 
 ### UID:
-- Select the UID you want to be displayed.
+- حدد المعرف الفريد الذي تريد عرضه.
 ### Nickname:
-- Select the Nickname you want to be displayed.
+- حدد اللقب الذي تريد عرضه.
 ### Level:
-- Select the Level you want to be displayed.
+- حدد المستوى الذي تريد عرضه.
 ### EXP:
-- Select the EXP you want to be displayed.
+- حدد نقطة الخبرة التي تريد عرضها.
 ### World Level:
-- Select the World Level you want to be displayed.
+- حدد المستوى العالمي الذي تريد عرضه.
 ### Avatar Image:
-- Use a custom png as avatar image.
+- استخدم صورة مخصصة كصورة للملف الشخصي.
 ### Card Image:
-- Use a custom png as card image.
+- استخدم صورة مخصصة كصورة بطاقة.
