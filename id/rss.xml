@@ -6,8 +6,8 @@
     <link>https://korepi.com/id/</link>
     <description>Pertolongan Korepi</description>
     <language>id-ID</language>
-    <pubDate>Thu, 04 Jan 2024 08:58:27 GMT</pubDate>
-    <lastBuildDate>Thu, 04 Jan 2024 08:58:27 GMT</lastBuildDate>
+    <pubDate>Thu, 04 Jan 2024 12:39:19 GMT</pubDate>
+    <lastBuildDate>Thu, 04 Jan 2024 12:39:19 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Panduan</category>
@@ -55,12 +55,12 @@
 <h3> Apakah Korepi gratis?</h3>
 <p>Iya, gratis, untuk pertama kali mendapatkannya Anda harus melakukan 7 hari <a href="/id/start/sign-in.html" target="blank">sign-in</a>, Anda bisa melewatinya dengan <a href="/id/start/sponsor.html" target="blank">Sponsor</a>, setelah itu Anda dapat mengambil lisensi setiap kali lisensi Anda kedaluwarsa.</p>
 <hr>
-<h3> Apa kata sandi dari berkas .rar/.zip?</h3>
+<h3> Apa kata sandi dari file .rar/.zip?</h3>
 <p>...</p>
 <p>Kata sandinya adalah <code>1234</code>, Harap lain kali membaca postingan unduh.</p>
 <hr>
 <h3> Kenapa konfigurasi saya tidak tersimpan?</h3>
-<p>Ingatlah bahwa Anda harus ekstrak berkas <code>.rar/.zip</code> tersebut di dalam folder baru.</p>
+<p>Ingatlah bahwa Anda harus ekstrak file <code>.rar/.zip</code> tersebut di dalam folder baru.</p>
 <p>Jika konfigurasi masih tidak tersimpan, Harap hubungi pengarah manapun yang terdapat di server untuk mendapat bantuan.</p>
 <hr>
 <h3> Di mana saya dapat menemukan tema?</h3>
@@ -395,14 +395,14 @@
       <link>https://korepi.com/id/features/Visuals/texture-changer.html</link>
       <guid>https://korepi.com/id/features/Visuals/texture-changer.html</guid>
       <source url="https://korepi.com/id/rss.xml">Texture Changer</source>
-      <description>Lebih baik menggunakan GIMI (../../guide/3DM-tutorial.md) Untuk mengganti texture. Texture Changer Memperbolehkan Anda mengubah tampilan karakter dari berkas gambar yang dipilih.</description>
+      <description>Lebih baik menggunakan GIMI (../../guide/3DM-tutorial.md) Untuk mengganti texture. Texture Changer Memperbolehkan Anda mengubah tampilan karakter dari file gambar yang dipilih.</description>
       <category>Features</category>
       <pubDate>Mon, 18 Dec 2023 00:59:43 GMT</pubDate>
       <content:encoded><![CDATA[<div class="hint-container info">
 <p class="hint-container-title">Lebih baik menggunakan [GIMI](../../guide/3DM-tutorial.md) Untuk mengganti texture.</p>
 </div>
 <hr>
-<h2> Texture Changer Memperbolehkan Anda mengubah tampilan karakter dari berkas gambar yang dipilih.</h2>
+<h2> Texture Changer Memperbolehkan Anda mengubah tampilan karakter dari file gambar yang dipilih.</h2>
 ]]></content:encoded>
     </item>
     <item>
@@ -443,17 +443,17 @@
       <link>https://korepi.com/id/features/Teleport/custom-teleport.html</link>
       <guid>https://korepi.com/id/features/Teleport/custom-teleport.html</guid>
       <source url="https://korepi.com/id/rss.xml">Custom Teleport</source>
-      <description>Custom Teleport: Memungkinkan pemain untuk teleportasi ke lokasi yang dipilih yang telah didesain di berkas .json. Interpolation Speed: Mengkontrol kecepatan animasi teleportasi...</description>
+      <description>Custom Teleport: Memungkinkan pemain untuk teleportasi ke lokasi yang dipilih yang telah didesain di file .json. Interpolation Speed: Mengkontrol kecepatan animasi teleportasi, ...</description>
       <category>Fitur</category>
       <pubDate>Sat, 16 Dec 2023 23:36:46 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Custom Teleport: Memungkinkan pemain untuk teleportasi ke lokasi yang dipilih yang telah didesain di berkas <code>.json</code>.</h2>
+      <content:encoded><![CDATA[<h2> Custom Teleport: Memungkinkan pemain untuk teleportasi ke lokasi yang dipilih yang telah didesain di file <code>.json</code>.</h2>
 <h3> Interpolation Speed:</h3>
 <ul>
 <li>Mengkontrol kecepatan animasi teleportasi, atur ke <code>0.1</code> untuk menghindari masalah.</li>
 </ul>
 <h3> Auto Teleport:</h3>
 <ul>
-<li>Melakukan teleportasi secara otomatis mengikuti urutan berkas <code>.json</code> yang diberikan.
+<li>Melakukan teleportasi secara otomatis mengikuti urutan file <code>.json</code> yang diberikan.
 <ul>
 <li>Teleport Next: Teleportasi ke lokasi berikutnya setelah menekan tombol pintas yang dipilih.</li>
 <li>Teleport Previous: Teleportasi ke lokasi sebelumnya setelah menekan tombol pintas yang dipilih.</li>
@@ -1214,9 +1214,9 @@ Catatan 2: Tidak disarankan untuk digunakan.</p>
 <h3> Langkah 2: Dapatkan <code>HWID</code> Anda</h3>
 <p>Untuk mendapatkan <code>HWID</code> Anda, buka <code>Local(V) Injector</code> sekali, dan HWID akan secara otomatis menyalinnya ke clipboard Anda.</p>
 <h3> Langkah 3: Dapatkan <code>enc.json</code> Anda</h3>
-<p>Pergi ke saluran <code>⁠★⋅micah-bot-verify⋅★</code> dan klik <code>V:Verify</code>, sebuah jendela akan meminta Anda memasukkan <code>HWID</code>, tempelkan dan klik <code>Submit</code>, lalu unduh berkas yang dikirim oleh bot.</p>
-<h3> Langkah 4: Tempatkan Berkas Anda di Korepi</h3>
-<p>Setelah mendapatkan berkas, letakkan di folder Korepi Anda. Ingatlah bahwa berkas tersebut harus bernama <code>enc.json</code> agar berfungsi, buka Korepi kembali.</p>
+<p>Pergi ke saluran <code>⁠★⋅micah-bot-verify⋅★</code> dan klik <code>V:Verify</code>, sebuah jendela akan meminta Anda memasukkan <code>HWID</code>, tempelkan dan klik <code>Submit</code>, lalu unduh file yang dikirim oleh bot.</p>
+<h3> Langkah 4: Tempatkan File Anda di Korepi</h3>
+<p>Setelah mendapatkan file, letakkan di folder Korepi Anda. Ingatlah bahwa file tersebut harus bernama <code>enc.json</code> agar berfungsi, buka Korepi kembali.</p>
 <p>Selamat menikmati Korepi!</p>
 ]]></content:encoded>
     </item>
@@ -1225,16 +1225,16 @@ Catatan 2: Tidak disarankan untuk digunakan.</p>
       <link>https://korepi.com/id/troubleshoot/31-4302.html</link>
       <guid>https://korepi.com/id/troubleshoot/31-4302.html</guid>
       <source url="https://korepi.com/id/rss.xml">Masalah 31-4302</source>
-      <description>Cara Mengatasi Masalah 31-4302 Metode 1 Jika folder game Anda terdapat berkas yang seharusnya tidak ada, jendela ini seharusnya muncul untuk Anda. Periksa bahwa di folder game h...</description>
+      <description>Cara Mengatasi Masalah 31-4302 Metode 1 Jika folder game Anda terdapat file yang seharusnya tidak ada, jendela ini seharusnya muncul untuk Anda. Periksa bahwa di folder game han...</description>
       <category>Solusi</category>
       <pubDate>Wed, 13 Dec 2023 23:15:21 GMT</pubDate>
       <content:encoded><![CDATA[<h2> Cara Mengatasi Masalah <code>31-4302</code></h2>
 <p><img src="/assets/images/docs/202312/31-4302.png" alt="" loading="lazy"></p>
 <h3> Metode 1</h3>
-<p>Jika folder game Anda terdapat berkas yang seharusnya tidak ada, jendela ini seharusnya muncul untuk Anda. Periksa bahwa di folder game hanya ada berkas resmi seperti contoh berikut:</p>
+<p>Jika folder game Anda terdapat file yang seharusnya tidak ada, jendela ini seharusnya muncul untuk Anda. Periksa bahwa di folder game hanya ada file resmi seperti contoh berikut:</p>
 <p><img src="/assets/images/docs/202312/launcher.png" alt="" loading="lazy"></p>
 <p><img src="/assets/images/docs/202312/folder1.png" alt="" loading="lazy"></p>
-<p>Jika Anda terus mendapatkan masalah ini di dalam game bahkan setelah menghapus berkas tidak resmi, lanjutlah membaca.</p>
+<p>Jika Anda terus mendapatkan masalah ini di dalam game bahkan setelah menghapus file tidak resmi, lanjutlah membaca.</p>
 <h3> Metode 2</h3>
 <p>Buka menu Korepi Anda, pergi ke <code>Settings --&gt; Other</code>.</p>
 <p><img src="/assets/images/docs/202312/settings1.png" alt="" loading="lazy"></p>
@@ -1374,10 +1374,10 @@ Jika tidak berhasil, buka cmd sebagai administrator dan ketik <code>sfc /scannow
 <p>Jika langkah-langkah ini diikuti dengan benar, Korepi seharusnya akan terbuka dengan <code>GIMI</code> setiap kali dijalankan.</p>
 <h2> Metode 2</h2>
 <h2> Langkah 1: Unduh <code>GIMI</code></h2>
-<p>Unduh <code>GIMI</code> di <a href="https://github.com/SilentNightSound/GI-Model-Importer/releases/tag/v7.0" target="_blank" rel="noopener noreferrer">Github resminya</a> dan ambil berkas yang namanya: <code>3dmigoto-GIMI-for-playing-mods.zip</code>.</p>
+<p>Unduh <code>GIMI</code> di <a href="https://github.com/SilentNightSound/GI-Model-Importer/releases/tag/v7.0" target="_blank" rel="noopener noreferrer">Github resminya</a> dan ambil file yang namanya: <code>3dmigoto-GIMI-for-playing-mods.zip</code>.</p>
 <p><img src="/assets/images/docs/202312/3dm-1.png" alt="" loading="lazy"></p>
 <h2> Langkah 2: Ekstrak <code>GIMI</code> ke Dalam Folder</h2>
-<p>Setelah mengunduh <code>GIMI</code>, ekstrak ke folder pilihanmu, di dalamnya ada <code>3DMigoto Loader.exe</code>, kita akan menjalankan berkas ini terlebih dahulu.</p>
+<p>Setelah mengunduh <code>GIMI</code>, ekstrak ke folder pilihanmu, di dalamnya ada <code>3DMigoto Loader.exe</code>, kita akan menjalankan file ini terlebih dahulu.</p>
 <h2> Langkah 3: Buka Korepi</h2>
 <p>Setelah menjalankan <code>GIMI</code>, buka Korepi, <code>GIMI</code> akan terbuka dengan Korepi. Catatan, kamu perlu mengulangi langkah ini setiap kali ingin membuka Korepi dengan <code>GIMI</code>.</p>
 ]]></content:encoded>
@@ -1388,7 +1388,7 @@ Jika tidak berhasil, buka cmd sebagai administrator dan ketik <code>sfc /scannow
       <link>https://korepi.com/id/guide/custom-tp-setting.html</link>
       <guid>https://korepi.com/id/guide/custom-tp-setting.html</guid>
       <source url="https://korepi.com/id/rss.xml">Cara Menggunakan TP Kustom</source>
-      <description>Cara Menggunakan Teleportasi Kustom Langkah 1: Pengaturan yang Diperlukan Gunakan pengaturan berikut. Delay Time yang direkomendasikan adalah &amp;gt;15 detik. Langkah 2: Unduh Berkas ...</description>
+      <description>Cara Menggunakan Teleportasi Kustom Langkah 1: Pengaturan yang Diperlukan Gunakan pengaturan berikut. Delay Time yang direkomendasikan adalah &amp;gt;15 detik. Langkah 2: Unduh File .j...</description>
       <category>Panduan</category>
       <pubDate>Mon, 11 Dec 2023 16:32:17 GMT</pubDate>
       <content:encoded><![CDATA[<h2> Cara Menggunakan Teleportasi Kustom</h2>
@@ -1396,12 +1396,12 @@ Jika tidak berhasil, buka cmd sebagai administrator dan ketik <code>sfc /scannow
 <p>Gunakan pengaturan berikut.</p>
 <p><img src="/assets/images/docs/202312/teleport1.png" alt="" loading="lazy"></p>
 <p><code>Delay Time</code> yang direkomendasikan adalah &gt;15 detik.</p>
-<h2> Langkah 2: Unduh Berkas <code>.json</code> untuk Teleportasi Kustom</h2>
-<p>Kamu bisa menemukan berkasnya dipostingan yang di <code>pin</code> pada <code>community-share</code> di server. Unduh yang sesuai dengan kebutuhanmu.</p>
-<h2> Langkah 3: Pilih Berkas Teleportasi</h2>
+<h2> Langkah 2: Unduh File <code>.json</code> untuk Teleportasi Kustom</h2>
+<p>Kamu bisa menemukan Filenya dipostingan yang di <code>pin</code> pada <code>community-share</code> di server. Unduh yang sesuai dengan kebutuhanmu.</p>
+<h2> Langkah 3: Pilih File Teleportasi</h2>
 <p>Pergi ke pengaturan teleportasi kustom/<code>custom tp settings</code> dan masuk ke bagian ini:</p>
 <p><img src="/assets/images/docs/202312/teleport2.png" alt="" loading="lazy"></p>
-<p>Klik pada pilihan <code>.json path</code> dan pilih folder yang berisi berkas teleportasi yang ingin kamu gunakan.</p>
+<p>Klik pada pilihan <code>.json path</code> dan pilih folder yang berisi file teleportasi yang ingin kamu gunakan.</p>
 <h2> Langkah 4: Cara Memulai Teleportasi</h2>
 <p>Setelah memilih folder, centang kotak ini:</p>
 <p><img src="/assets/images/docs/202312/teleport3.png" alt="" loading="lazy"></p>
@@ -1442,7 +1442,7 @@ Jika tidak berhasil, buka cmd sebagai administrator dan ketik <code>sfc /scannow
 <p>Silakan masuk ke <a href="https://keyauth.cc/panel/Strigger/Korepi" target="_blank" rel="noopener noreferrer">Korepi Login</a>
 Peringatan: Jangan lakukan apapun terlebih dahulu.</p>
 <h3> Langkah 2: Ambil Key Anda</h3>
-<p>Ambil key Anda dari berkas <code>license.json</code> atau pergi ke <code>★⋅micah-bot-verify⋅★</code> dan klik <code>F: Getkey</code> untuk mengambil key Anda.</p>
+<p>Ambil key Anda dari file <code>license.json</code> atau pergi ke <code>★⋅micah-bot-verify⋅★</code> dan klik <code>F: Getkey</code> untuk mengambil key Anda.</p>
 <h3> Langkah 3: Login di Korepi</h3>
 <p>Setelah mendapatkan key Anda, pergi ke <a href="https://keyauth.cc/panel/Strigger/Korepi" target="_blank" rel="noopener noreferrer">Korepi Login</a>, tempelkan Key Anda pada kolom username dan password, klik login, lalu klik <code>Reset HWID</code>.</p>
 <h3> Langkah 4: Buka Injector</h3>
@@ -1452,11 +1452,11 @@ Peringatan: Jangan lakukan apapun terlebih dahulu.</p>
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/q0G9UZHErrg?list=PL5eI1Tb64p56Mp6JqoR_o3BYk9UFTbOQI" title="How to reset Local V HWID" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 <h3> Langkah 1: Ambil HWID Anda</h3>
 <p>Buka <code>Local(V) injector</code> untuk mendapatkan HWID, yang akan otomatis tersalin.</p>
-<h3> Langkah 2: Cari Saluran <code>★⋅micah-bot-verify⋅★</code></h3>
+<h3> Langkah 2: Cari Channel <code>★⋅micah-bot-verify⋅★</code></h3>
 <p>Temukan <code>★⋅micah-bot-verify⋅★</code>, klik <code>V:Change HWID</code>, lalu masukkan HWID Anda pada jendela yang muncul, tempelkan dan klik <code>submit</code>.</p>
-<h3> Langkah 3: Ambil Berkas <code>enc.json</code> Baru Anda</h3>
-<p>Setelah melakukan <code>V:change HWID</code>, unduh berkas <code>enc.json</code> baru dan gantikan berkas tersebut dalam folder Korepi Anda.
-Catatan: Pastikan berkas tersebut bernama <code>enc.json</code>.</p>
+<h3> Langkah 3: Ambil File <code>enc.json</code> Baru Anda</h3>
+<p>Setelah melakukan <code>V:change HWID</code>, unduh file <code>enc.json</code> baru dan gantikan file tersebut dalam folder Korepi Anda.
+Catatan: Pastikan file tersebut bernama <code>enc.json</code>.</p>
 ]]></content:encoded>
     </item>
     <item>
