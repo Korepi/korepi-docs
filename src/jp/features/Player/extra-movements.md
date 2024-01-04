@@ -1,0 +1,38 @@
+---
+title: 追加の速度設定
+icon: bolt
+category:
+  - 特徴
+tag:
+  - 追加の速度設定
+author: Schvis
+order: 5
+---
+::: info スポンサーのみ
+:::
+---
+## 追加の速度設定: プレイヤーの特定のアクションを変更/強化します。
+### 水上を走る:
+- 水の上を歩く能力を可能にします。.
+### 歩行ブースト:
+- プレイヤーの走る速度が向上します。
+> 注: デフォルト値を変更することはお勧めしません。
+### ジャンプブースト:
+- プレイヤーのジャンプの高さを高めます。
+    - ミッドエアを適用する：地上にいない状態でジャンプできるようにする。
+> 注: デフォルト値を変更することはお勧めしません。
+### フライブースト:
+- プレイヤーの滑空しているときの速度が向上します。
+> 注: デフォルト値を変更することはお勧めしません。
+### スイムブースト: 
+- プレイヤーの泳いでいる時の速度を高めます。
+> 注: デフォルト値を変更することはお勧めしません。
+### ダイブブースト:
+- プレイヤーがダイブする際の速度が向上します。
+> 注: デフォルト値を変更することはお勧めしません。
+### 瞬間移動:
+- ホットキーを押した後にプレーヤーが一定距離を移動できるようにします。
+
+## ビデオ:
+
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/wMd9icqhFQg?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Extra Movement (Sponsor)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
