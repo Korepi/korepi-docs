@@ -21,7 +21,7 @@ Peringatan: Jangan lakukan apapun terlebih dahulu.
 
 ### Langkah 2: Ambil Key Anda
 
-Ambil key Anda dari berkas `license.json` atau pergi ke `★⋅micah-bot-verify⋅★` dan klik `F: Getkey` untuk mengambil key Anda.
+Ambil key Anda dari file `license.json` atau pergi ke `★⋅micah-bot-verify⋅★` dan klik `F: Getkey` untuk mengambil key Anda.
 
 ### Langkah 3: Login di Korepi
 
@@ -40,11 +40,11 @@ Nikmati Korepi kembali!
 
 Buka `Local(V) injector` untuk mendapatkan HWID, yang akan otomatis tersalin.
 
-### Langkah 2: Cari Saluran `★⋅micah-bot-verify⋅★`
+### Langkah 2: Cari Channel `★⋅micah-bot-verify⋅★`
 
 Temukan `★⋅micah-bot-verify⋅★`, klik `V:Change HWID`, lalu masukkan HWID Anda pada jendela yang muncul, tempelkan dan klik `submit`.
 
-### Langkah 3: Ambil Berkas `enc.json` Baru Anda
+### Langkah 3: Ambil File `enc.json` Baru Anda
 
-Setelah melakukan `V:change HWID`, unduh berkas `enc.json` baru dan gantikan berkas tersebut dalam folder Korepi Anda.
-Catatan: Pastikan berkas tersebut bernama `enc.json`.
+Setelah melakukan `V:change HWID`, unduh file `enc.json` baru dan gantikan file tersebut dalam folder Korepi Anda.
+Catatan: Pastikan file tersebut bernama `enc.json`.
