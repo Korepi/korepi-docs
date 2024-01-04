@@ -6,7 +6,7 @@ heroImage: /logo2.svg
 bgImage: https://theme-hope-assets.vuejs.press/bg/6-light.svg
 bgImageDark: https://theme-hope-assets.vuejs.press/bg/6-dark.svg
 bgImageStyle:
- background-attachment: fixed
+background-attachment: fixed
 heroText: Korepi
 tagline: Providing high-quality and user-friendly Korepi utility tools!
 actions:
