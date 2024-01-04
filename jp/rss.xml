@@ -6,8 +6,8 @@
     <link>https://korepi.com/jp/</link>
     <description>Korepiに関するヘルプ</description>
     <language>ja-JP</language>
-    <pubDate>Thu, 04 Jan 2024 12:39:54 GMT</pubDate>
-    <lastBuildDate>Thu, 04 Jan 2024 12:39:54 GMT</lastBuildDate>
+    <pubDate>Thu, 04 Jan 2024 12:40:21 GMT</pubDate>
+    <lastBuildDate>Thu, 04 Jan 2024 12:40:21 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>特徴</category>
@@ -84,7 +84,7 @@
 <p><code>DllPath</code> には、最後のステップでコピーしたパスを貼り付ける。</p>
 <p><img src="/assets/images/docs/202312/3dm-3.png" alt="" loading="lazy"></p>
 <h3> ステップ 4: Korepiを開く</h3>
-<p>正しい手順を踏んでいれば、コレピは毎回<code>GIMI</code> 起動するはずだ。</p>
+<p>正しい手順を踏んでいれば、korepiは毎回<code>GIMI</code> 起動するはずだ。</p>
 <h2> <span style="color:blue;">方法 2</span></h2>
 <h3> ステップ 1:  <code>GIMI</code>をダウンロード</h3>
 <p><code>GIMI</code>公式 <a href="https://github.com/SilentNightSound/GI-Model-Importer/releases/tag/v7.0" target="_blank" rel="noopener noreferrer">Github</a> で次の名前のファイルをダウンロードします: <code>3dmigoto-GIMI-for-playing-mods.zip</code></p>
@@ -200,14 +200,14 @@
 <p>キーを取得したら、 <a href="https://keyauth.cc/panel/Strigger/Korepi" target="_blank" rel="noopener noreferrer">Korepi ログインページ</a>にアクセスし、両方の欄にキーを貼り付け「ログイン」をクリックしそのあと<code>Reset HWID</code>をクリックします。</p>
 <h3> ステップ 4: インジェクターを開く</h3>
 <p>HWID をリセットした後、インジェクターに移動し、キーをもう一度貼り付けます。</p>
-<p>コレピをまた楽しんでください！</p>
+<p>korepiをまた楽しんでください！</p>
 <h2> HWID リセット: ネットワーク(F)版 (スポンサー)</h2>
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/WCuRAyqWMHg" title="Reset HWID F version (Sponsor)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 <h3> ステップ 1: <code>★⋅micah-bot-verify⋅★</code> チャンネルへ向かう</h3>
 <p><code>★⋅micah-bot-verify⋅★</code> チャンネルにアクセスし、 <code>F:Reset Key</code>, をクリックし、 <code>F:Getkey</code> をクリックして新しいキーを取得してください。</p>
 <h3> ステップ2：古いキーを交換する</h3>
 <p>korepi フォルダーに移動して <code>license.json</code>を削除し、その後 Korepi を開いて、取得した新しいキーを貼り付けます。</p>
-<p>コレピを楽しんでください！</p>
+<p>korepiを楽しんでください！</p>
 <h2> HWIDリセット: ローカル(V)版 (スポンサー)</h2>
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/q0G9UZHErrg?list=PL5eI1Tb64p56Mp6JqoR_o3BYk9UFTbOQI" title="How to reset Local V HWID" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 <h3> ステップ1：現在のHWIDを取得する</h3>
@@ -414,7 +414,7 @@
       <link>https://korepi.com/jp/troubleshoot/31-4302.html</link>
       <guid>https://korepi.com/jp/troubleshoot/31-4302.html</guid>
       <source url="https://korepi.com/jp/rss.xml">エラー 31-4302</source>
-      <description>エラーの解決方法 31-4302 手順 1 ゲームフォルダにオリジナル以外のファイルがある場合、このプロンプトが表示されることがあります。次の例のように、オリジナルファイルのみであることを確認してください： ファイルを削除した後もゲーム内でエラーが発生し続ける場合は、読み続けてください。 手順 2 コレピの 設定 --&amp;gt; その他。 整合性回避 を見つけ...</description>
+      <description>エラーの解決方法 31-4302 手順 1 ゲームフォルダにオリジナル以外のファイルがある場合、このプロンプトが表示されることがあります。次の例のように、オリジナルファイルのみであることを確認してください： ファイルを削除した後もゲーム内でエラーが発生し続ける場合は、読み続けてください。 手順 2 korepiの 設定 --&amp;gt; その他。 整合性回避 を...</description>
       <category>ガイド</category>
       <pubDate>Wed, 03 Jan 2024 06:45:45 GMT</pubDate>
       <content:encoded><![CDATA[<h2> エラーの解決方法 <code>31-4302</code></h2>
@@ -425,12 +425,12 @@
 <p><img src="/assets/images/docs/202312/folder1.png" alt="" loading="lazy"></p>
 <p>ファイルを削除した後もゲーム内でエラーが発生し続ける場合は、読み続けてください。</p>
 <h3> 手順 2</h3>
-<p>コレピの <code>設定 --&gt; その他</code>。</p>
+<p>korepiの <code>設定 --&gt; その他</code>。</p>
 <p><img src="/assets/images/docs/202312/settings1.png" alt="" loading="lazy"></p>
 <p><code>整合性回避</code> を見つけチェックを外します。</p>
 <p><img src="/assets/images/docs/202312/settings2.png" alt="" loading="lazy"></p>
 <p>これでエラーは消えるはずです</p>
-<h2> コレピに入れない場合はどうすればよいですか？</h2>
+<h2> korepiに入れない場合はどうすればよいですか？</h2>
 <p>Korepiフォルダに移動し <code>cfg.json</code>, をみつけ <code>CTRL + F</code>, を押し、<code>bypass</code> と入力して検索し、値を <code>false</code> に設定してKorepiを開きます。</p>
 <h2> 何も機能しない場合はどうすればよいですか？</h2>
 <p>ゲームを再インストールする必要があります。</p>
@@ -450,11 +450,11 @@
       <link>https://korepi.com/jp/troubleshoot/faq-error.html</link>
       <guid>https://korepi.com/jp/troubleshoot/faq-error.html</guid>
       <source url="https://korepi.com/jp/rss.xml">一般的なインジェクターエラー</source>
-      <description>よくあるエラーリスト コレピが消えてしまうのはなぜですか? ウィルス対策ソフトが無効になっていることを確認し、新しいフォルダを作成して除外項目に追加します。 除外フォルダ内にkorepiを展開し、再度実行する。 ステータス: ライセンスキーが無効です。 新しく キーを取得する (../guide/getkey.md) 必要があります。⁠★⋅micah-...</description>
+      <description>よくあるエラーリスト korepiが消えてしまうのはなぜですか? ウィルス対策ソフトが無効になっていることを確認し、新しいフォルダを作成して除外項目に追加します。 除外フォルダ内にkorepiを展開し、再度実行する。 ステータス: ライセンスキーが無効です。 新しく キーを取得する (../guide/getkey.md) 必要があります。⁠★⋅mic...</description>
       <category>トラブルシューティング</category>
       <pubDate>Wed, 03 Jan 2024 06:45:45 GMT</pubDate>
       <content:encoded><![CDATA[<h2> よくあるエラーリスト</h2>
-<h3> コレピが消えてしまうのはなぜですか?</h3>
+<h3> korepiが消えてしまうのはなぜですか?</h3>
 <p>ウィルス対策ソフトが無効になっていることを確認し、新しいフォルダを作成して除外項目に追加します。</p>
 <p><img src="/assets/images/docs/202312/virus.png" alt="" loading="lazy"></p>
 <p>除外フォルダ内にkorepiを展開し、再度実行する。</p>
@@ -552,7 +552,7 @@
 <p>この手順を行ってもコンフィグが保存されない場合は、サーバーのヘルパーにお問い合わせください。</p>
 <hr>
 <h3> ### テーマはどこにありますか？</h3>
-<p>コレピのテーマはコミュニティ共有で見つけることができますし、コレピの設定で自分で作ることもできます。</p>
+<p>korepiのテーマはコミュニティ共有で見つけることができますし、korepiの設定で自分で作ることもできます。</p>
 <p><img src="/assets/images/docs/202312/theme-settings.png" alt="" loading="lazy"></p>
 <p>チェック <code>Theme Customization</code> を入れて独自のテーマを作成しましょう。</p>
 <hr>
@@ -562,7 +562,7 @@
 <p class="hint-container-title">リセット時間は毎日 JST 09:00 です。</p>
 </div>
 <hr>
-<h3> 新しいアップデートが来たときにコレピを使用できますか?</h3>
+<h3> 新しいアップデートが来たときにkorepiを使用できますか?</h3>
 <p>いいえ、Korepi の新しいバージョンがリリースされるまで待つ必要があります。</p>
 <div class="hint-container info">
 <p class="hint-container-title">古いインジェクターは機能しません。Korepi のアップデートには約 1 ～ 2 週間かかります。</p>
