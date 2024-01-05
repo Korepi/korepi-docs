@@ -34,7 +34,7 @@ Para hacer eso, necesitas ir al canal de #ticket-start (Solo visible cuando ya t
 
 ![](/assets/images/docs/202312/openticket1.png)
 
-Cuando le des click a '<b>open</b>', verás un canal nuevo debajo del canal de tickets.
+Cuando le des clic a '<b>open</b>', verás un canal nuevo debajo del canal de tickets.
 
 ![](/assets/images/docs/202312/openticket2.png)
 

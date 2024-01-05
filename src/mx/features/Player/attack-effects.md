@@ -13,24 +13,24 @@ order: 1
 
 ### Modo Multi-golpe:
 - Modo Un-Golpe: Matar al objetivo de 1 golpe.
-> Cuidado: No se recomienda usar.
+> <span style="color:red;">Aviso:</span> No se recomienda usar.
 - Modifica la cantidad de golpes recibe el objetivo.
-> Cuidado: No se recomienda que sea mayor de `5`.
+> <span style="color:red;">Aviso:</span> No se recomienda que sea mayor de `5`.
 ### Multi-Objetivo:
 - Al golpear un objetivo, todos reciben daño dentro de un radio seleccionado.
-> Cuidado: No se recomienda cambiar los valores por defecto.
+> <span style="color:red;">Aviso:</span> No se recomienda cambiar los valores por defecto.
 ### Multi-Animación:
 - Modifica el número de veces que un personaje realiza una acción.
-> Cuidado: No se recomienda usar.
+> <span style="color:red;">Aviso:</span> No se recomienda usar.
 ### Velocidad de Ataque:
 - Cambia la velocidad de ataque del jugador.
-> Cuidado: No se recomienda que sea mayor de `1.5`.
+> <span style="color:red;">Aviso:</span> No se recomienda que sea mayor de `1.5`.
 ### Elemento Personalizado:
 - Modifica el elemento que aplican los ataques que haces.
 ### Imbuir Elemento:
-- Madifica el elemento de los ataques normales de espada, gran espada y lanza.
+- Modifica el elemento de los ataques normales de espada, gran espada y lanza.
 ### Auto Punto Débil:
-- Ataca automaticamente al punto débil del objetivo, solo para arcos.
+- Ataca automáticamente al punto débil del objetivo, solo para arcos.
 ### Golpe Crítico (Sponsor):
 - Modifica la probabilidad de critico.
 ### Anular Elemento Recibido:

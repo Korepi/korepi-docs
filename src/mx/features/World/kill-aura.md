@@ -15,18 +15,16 @@ order: 11
 ## Kill Aura: Inflige daño a los enemigos cercanos
 ### Modo de daño:
 - Inflige daño con el valor, el retardo y el alcance especificado a los enemigos cercanos.
-> <span style="color:red;">Cuidado: No se recomienda usar valores muy altos.</span>
+> <span style="color:red;">Aviso:</span> No se recomienda usar valores muy altos.
 ### Modo Porcentaje:
 - Número de golpes que se necesita para matar a un enemigo.
-> <span style="color:red;">Cuidado: Se recomienda usar `3` o más.</span>
+> <span style="color:red;">Aviso:</span> Se recomienda usar `3` o más.
 ### Vida Restante:
 - Evitar matar al enemigo dejando el valor de HP que selecciones.
 ### Modo de Muerte Instantánea:
 - Intentará ejecutar al enemigo.
-> Nota: Puede ocasionar errores contra jefes.
-
-> Cuidado: No se recomienda usar.
-### Solo Agresivos:
+> Aviso: No recomendado, puede causar errores contra jefes.
+### Sólo Agresivos:
 - Elegir si afecta sólo a enemigos agresivos o a todos
 
 Advertencia: El establecer valores más haya de lo recomendado eleva en gran medida el riesgo de que tu cuente sea baneada.
