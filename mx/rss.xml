@@ -6,8 +6,8 @@
     <link>https://korepi.com/mx/</link>
     <description>Ayuda en Korepi</description>
     <language>es-MX</language>
-    <pubDate>Thu, 04 Jan 2024 12:40:21 GMT</pubDate>
-    <lastBuildDate>Thu, 04 Jan 2024 12:40:21 GMT</lastBuildDate>
+    <pubDate>Fri, 05 Jan 2024 11:04:10 GMT</pubDate>
+    <lastBuildDate>Fri, 05 Jan 2024 11:04:10 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Guía</category>
@@ -19,23 +19,23 @@
       <link>https://korepi.com/mx/guide/virus.html</link>
       <guid>https://korepi.com/mx/guide/virus.html</guid>
       <source url="https://korepi.com/mx/rss.xml">Como añadir a exclusiones</source>
-      <description>Otros antivirus pueden tener otros métodos, pero serán similares. Como añadir Korepi a exclusiones. Paso 1: Abre el antivirus Abre el buscador de windows y busca Seguridad de Wi...</description>
+      <description>Otros antivirus pueden tener otros métodos, pero serán similares. Como añadir Korepi a exclusiones Paso 1: Abre el antivirus Abre el buscador de windows y busca Seguridad de Win...</description>
       <category>Guía</category>
       <pubDate>Sat, 23 Dec 2023 17:10:07 GMT</pubDate>
       <content:encoded><![CDATA[<div class="hint-container info">
 <p class="hint-container-title">Otros antivirus pueden tener otros métodos, pero serán similares.</p>
 </div>
 <hr>
-<h2> Como añadir Korepi a exclusiones.</h2>
+<h2> Como añadir Korepi a exclusiones</h2>
 <h3> Paso 1: Abre el antivirus</h3>
 <p>Abre el buscador de windows y busca <code>Seguridad de Windows</code>.</p>
 <p><img src="/assets/images/docs/202312/security.png" alt="" loading="lazy"></p>
-<p>Le damos click a <code>Protección antivirus y contra amenazas</code>.</p>
+<p>Le damos clic a <code>Protección antivirus y contra amenazas</code>.</p>
 <p><img src="/assets/images/docs/202312/virus1.png" alt="" loading="lazy"></p>
-<p>Después bajamos hasta encontrar <code>Configuración de protección antivirus y contra amenazas</code> y le damos click a <code>Administrar la configuración</code>.</p>
+<p>Después bajamos hasta encontrar <code>Configuración de protección antivirus y contra amenazas</code> y le damos clic a <code>Administrar la configuración</code>.</p>
 <p><img src="/assets/images/docs/202312/virus3.png" alt="" loading="lazy"></p>
-<h3> Paso 2: Añadir a la lista de exclusiones.</h3>
-<p>Después de seguir el paso anterior, bajaremos hasta encontrar <code>Exclusiones</code> and then we click on <code>Agregar o quitar exclusiones</code>.</p>
+<h3> Paso 2: Añadir a la lista de exclusiones</h3>
+<p>Después de seguir el paso anterior, bajaremos hasta encontrar <code>Exclusiones</code> and then we clic on <code>Agregar o quitar exclusiones</code>.</p>
 <p><img src="/assets/images/docs/202312/virus4.png" alt="" loading="lazy"></p>
 <p>Dale a <code>Si</code> en la ventana, y le damos a <code>Agregar Exclusión</code> y seleccionamos <code>Carpeta</code>, entonces seleccionamos la carpeta de Korepi.</p>
 ]]></content:encoded>
@@ -149,14 +149,14 @@ Para poder usar skins personalizadas en Korepi tendremos que descargar la aplica
 <h3> Paso 3: Seleccionar los teletransportes deseados</h3>
 <p>Entraremos en los ajustes dentro de Korepi de nuevo e iremos a la siguiente sección:</p>
 <p><img src="/assets/images/docs/202312/teleport2.png" alt="" loading="lazy"></p>
-<p>Le daremos click a select path, y elegiremos la carpeta de los teletransportes que deseamos utilizar.</p>
+<p>Le daremos clic a select path, y elegiremos la carpeta de los teletransportes que deseamos utilizar.</p>
 <h3> Paso 4: Empezar los teletransportes</h3>
 <p>Después de seleccionar los teletransportes deberemos de darle a la siguiente casilla:</p>
 <p><img src="/assets/images/docs/202312/teleport3.png" alt="" loading="lazy"></p>
 <p>La activamos y le damos a <code>Select</code>:</p>
 <p><img src="/assets/images/docs/202312/teleport4.png" alt="" loading="lazy"></p>
 <h3> Paso 5: Disfrutar</h3>
-<p>Ahora los teletransportes empezaran, si tienes <a href="/mx/start/sponsor.html" target="blank">Sponsor</a> habrá un contador del tiempo que tardara.</p>
+<p>Ahora los teletransportes empezarán, si tienes <a href="/mx/start/sponsor.html" target="blank">Sponsor</a> habrá un contador del tiempo que tardara.</p>
 ]]></content:encoded>
       <enclosure url="https://korepi.com/assets/images/docs/202312/teleport1.png" type="image/png"/>
     </item>
@@ -165,31 +165,31 @@ Para poder usar skins personalizadas en Korepi tendremos que descargar la aplica
       <link>https://korepi.com/mx/guide/getkey.html</link>
       <guid>https://korepi.com/mx/guide/getkey.html</guid>
       <source url="https://korepi.com/mx/rss.xml">Como conseguir la Key</source>
-      <description>Como conseguir la key para Network(F) Paso 1: Consigue el rol de F Auth Ve al canal de ★⋅korepi-version-roles⋅★ en el servidor y dale click a F Auth para conseguir el rol. Nota:...</description>
+      <description>Como conseguir la key para Network(F) Paso 1: Consigue el rol de F Auth Ve al canal de ★⋅korepi-version-roles⋅★ en el servidor y dale clic a F Auth para conseguir el rol. Nota: ...</description>
       <category>Guía</category>
       <pubDate>Wed, 20 Dec 2023 19:58:51 GMT</pubDate>
       <content:encoded><![CDATA[<h2> Como conseguir la key para Network(F)</h2>
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/-9bXOMH0-WM" title="Korepi - How to get V key" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 <h3> Paso 1: Consigue el rol de F Auth</h3>
-<p>Ve al canal de <code>★⋅korepi-version-roles⋅★</code> en el servidor y dale click a <code>F Auth</code> para conseguir el rol.</p>
-<p><code>Nota: Comprueba si tienes el rol, si no lo tienes dale click a F Auth de nuevo</code></p>
+<p>Ve al canal de <code>★⋅korepi-version-roles⋅★</code> en el servidor y dale clic a <code>F Auth</code> para conseguir el rol.</p>
+<p><code>Nota: Comprueba si tienes el rol, si no lo tienes dale clic a F Auth de nuevo</code></p>
 <h3> Paso 2: Consigue tu key</h3>
-<p>Ve al canal de <code>⁠★⋅micah-bot-verify⋅★</code> y dale click a <code>F:Getkey</code>, el bot te mandara una tabla con información, copia la de Key.</p>
+<p>Ve al canal de <code>⁠★⋅micah-bot-verify⋅★</code> y dale clic a <code>F:Getkey</code>, el bot te mandara una tabla con información, copia la de Key.</p>
 <h3> Paso 3: Usa tu key</h3>
 <p>Abre Korepi, cuando te pida la licencia, pega la key que conseguiste y sigue los pasos que se mencione en el mod.</p>
-<p>Disfruta de Korepi!</p>
-<h2> Como conseguir key para Local(V)</h2>
+<p>¡Disfruta de Korepi!</p>
+<h2> ¿ Cómo conseguir key para Local(V) ?</h2>
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/OTCSboZdexc" title="Korepi - How to get V key" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 <h3> Paso 1: Consigue el rol de V Auth</h3>
-<p>Ve al canal de <code>★⋅korepi-version-roles⋅★</code> en el servidor y dale click a <code>V Auth</code> para conseguir el rol.</p>
-<p><code>Nota: Comprueba si tienes el rol, si no lo tienes dale click a V Auth de nuevo</code></p>
+<p>Ve al canal de <code>★⋅korepi-version-roles⋅★</code> en el servidor y dale clic a <code>V Auth</code> para conseguir el rol.</p>
+<p><code>Nota: Comprueba si tienes el rol, si no lo tienes dale clic a V Auth de nuevo</code></p>
 <h3> Paso 2: Consigue tu <code>HWID</code></h3>
 <p>Para conseguir tu <code>HWID</code> deberas abrir el mod <code>Local(V)</code> una vez, y se te copiara el <code>HWID</code> en el portapapeles.</p>
 <h3> Paso 3: Consigue tu <code>enc.json</code></h3>
-<p>Ve al canal de <code>⁠★⋅micah-bot-verify⋅★</code> y dale click a <code>V:Verify</code>, saldrá una ventana preguntándote por tu <code>HWID</code>, pega el <code>HWID</code> y dale click a <code>Submit</code>, después descarga el archivo que te envié el bot.</p>
+<p>Ve al canal de <code>⁠★⋅micah-bot-verify⋅★</code> y dale clic a <code>V:Verify</code>, saldrá una ventana preguntándote por tu <code>HWID</code>, pega el <code>HWID</code> y dale clic a <code>Submit</code>, después descarga el archivo que te envié el bot.</p>
 <h3> Paso 4: Pon tu archivo junto a Korepi</h3>
 <p>Después de conseguir tu archivo, ponlo junto a korepi dentro de tu carpeta, abre el mod de nuevo y podrás usarlo. Recuerda que el nombre debe de ser <code>enc.json</code>.</p>
-<p>Disfruta de Korepi!</p>
+<p>¡Disfruta de Korepi!</p>
 ]]></content:encoded>
     </item>
     <item>
@@ -213,36 +213,36 @@ Para poder usar skins personalizadas en Korepi tendremos que descargar la aplica
       <link>https://korepi.com/mx/guide/resethwid.html</link>
       <guid>https://korepi.com/mx/guide/resethwid.html</guid>
       <source url="https://korepi.com/mx/rss.xml">Como restablecer HWID</source>
-      <description>Restablecer HWID: Network(F) Paso 1: Entra a la pagina de Korepi Ve a Korepi Login Page (https://keyauth.cc/panel/Strigger/Korepi) Aviso: No hagas nada aun!! Paso 2: Encuentra t...</description>
+      <description>Restablecer HWID: Network(F) Paso 1: Entra a la pagina de Korepi Ve a Korepi Login Page (https://keyauth.cc/panel/Strigger/Korepi) Aviso: No hagas nada aún!! Paso 2: Encuentra t...</description>
       <category>Guía</category>
       <pubDate>Wed, 20 Dec 2023 19:58:51 GMT</pubDate>
       <content:encoded><![CDATA[<h2> Restablecer HWID: Network(F)</h2>
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/DRSEmYsl4F4" title="how to change hwid for F" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 <h3> Paso 1: Entra a la pagina de Korepi</h3>
 <p>Ve a <a href="https://keyauth.cc/panel/Strigger/Korepi" target="_blank" rel="noopener noreferrer">Korepi Login Page</a></p>
-<p>Aviso: No hagas nada aun!!</p>
+<p>Aviso: No hagas nada aún!!</p>
 <h3> Paso 2: Encuentra tu key</h3>
-<p>Consigue tu key en <code>license.json</code> o ve a <code>★⋅micah-bot-verify⋅★</code> y dale click a  <code>F: Getkey</code> para conseguir tu key actual.</p>
+<p>Consigue tu key en <code>license.json</code> o ve a <code>★⋅micah-bot-verify⋅★</code> y dale clic a  <code>F: Getkey</code> para conseguir tu key actual.</p>
 <h3> Paso 3: Inicia sesión en Korepi</h3>
 <p>Después de conseguir tu key ve a <a href="https://keyauth.cc/panel/Strigger/Korepi" target="_blank" rel="noopener noreferrer">Korepi Login Page</a>, y pega tu key en ambos recuadros, inicia sesión y después dale a <code>Reset HWID</code>.</p>
 <h3> Paso 4: Abre el mod</h3>
 <p>Después de restablecer tu HWID vuelve al mod y pega tu llave de nuevo.</p>
-<p>Disfruta de Korepi de nuevo!</p>
+<p>¡Disfruta de Korepi de nuevo!</p>
 <h2> Restablecer HWID: Network(F) (<span style="color:yellow;">Sponsor</span>)</h2>
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/WCuRAyqWMHg" title="Reset HWID F version (Sponsor)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 <h3> Paso 1: Ve al canal de <code>★⋅micah-bot-verify⋅★</code></h3>
-<p>Ve al canal de  <code>★⋅micah-bot-verify⋅★</code> y dale click a  <code>F:Reset Key</code>, después dale click a <code>F:Getkey</code> para recibir la nueva key.</p>
+<p>Ve al canal de  <code>★⋅micah-bot-verify⋅★</code> y dale clic a  <code>F:Reset Key</code>, después dale clic a <code>F:Getkey</code> para recibir la nueva key.</p>
 <h3> Paso 2: Reemplaza tu vieja key</h3>
 <p>Ve a tu carpeta de Korepi y borra <code>license.json</code>, después de eso pega tu nueva key.</p>
-<p>Disfruta de Korepi!</p>
+<p>¡Disfruta de Korepi!</p>
 <h2> Restablecer HWID: Local(V) (<span style="color:yellow;">Sponsor</span>)</h2>
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/q0G9UZHErrg?list=PL5eI1Tb64p56Mp6JqoR_o3BYk9UFTbOQI" title="How to reset Local V HWID" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 <h3> Paso 1: Encuentra tu HWID</h3>
-<p>Para conseguir tu HWID actual deberás abrir tu <code>Local(V) injector</code>, y copiara tu HWID automaticamente a tu portapapeles.</p>
+<p>Para conseguir tu HWID actual deberás abrir tu <code>Local(V) injector</code>, y copiará tu HWID automáticamente a tu portapapeles.</p>
 <h3> Paso 2: Encuentra el canal de <code>★⋅micah-bot-verify⋅★</code></h3>
-<p>Después de encontrar <code>★⋅micah-bot-verify⋅★</code>, dale click a <code>V:Change HWID</code>, una ventana aparecerá, pega tu HWID y dale a <code>Submit</code>.</p>
+<p>Después de encontrar <code>★⋅micah-bot-verify⋅★</code>, dale clic a <code>V:Change HWID</code>, una ventana aparecerá, pega tu HWID y dale a <code>Submit</code>.</p>
 <h3> Paso 3: Consigue tu nuevo <code>enc.json</code></h3>
-<p>Después de restablecer tu HWID dale click a <code>V:Verify</code> y pega tu nuevo HWID en la ventana y dale a <code>Submit</code>. Ahora descarga el nuevo <code>enc.json</code> y cámbialo en tu carpeta de Korepi.</p>
+<p>Después de restablecer tu HWID dale clic a <code>V:Verify</code> y pega tu nuevo HWID en la ventana y dale a <code>Submit</code>. Ahora descarga el nuevo <code>enc.json</code> y cámbialo en tu carpeta de Korepi.</p>
 <p>Nota: Recuerda que el nombre del archivo tiene que ser <code>enc.json</code>.</p>
 ]]></content:encoded>
     </item>
@@ -385,7 +385,7 @@ Para poder usar skins personalizadas en Korepi tendremos que descargar la aplica
 <h3> Paso 1: Abre un ticket</h3>
 <p>Para hacer eso, necesitas ir al canal de #ticket-start (Solo visible cuando ya tienes Sponsor).</p>
 <p><img src="/assets/images/docs/202312/openticket1.png" alt="" loading="lazy"></p>
-<p>Cuando le des click a '<b>open</b>', verás un canal nuevo debajo del canal de tickets.</p>
+<p>Cuando le des clic a '<b>open</b>', verás un canal nuevo debajo del canal de tickets.</p>
 <p><img src="/assets/images/docs/202312/openticket2.png" alt="" loading="lazy"></p>
 <h3> Paso 2: Contesta el formulario</h3>
 <p>Dale a botón de '<b>form link</b>' para rellenar el formulario.</p>
@@ -592,7 +592,7 @@ Para poder usar skins personalizadas en Korepi tendremos que descargar la aplica
       <link>https://korepi.com/mx/features/Player/attack-effects.html</link>
       <guid>https://korepi.com/mx/features/Player/attack-effects.html</guid>
       <source url="https://korepi.com/mx/rss.xml">Efectos de Ataque</source>
-      <description>Efectos de Ataque: Modificaciones para tus ataques Modo Multi-golpe: Modo Un-Golpe: Matar al objetivo de 1 golpe.; Cuidado: No se recomienda usar. Modifica la cantidad de golpes...</description>
+      <description>Efectos de Ataque: Modificaciones para tus ataques Modo Multi-golpe: Modo Un-Golpe: Matar al objetivo de 1 golpe.; Aviso: No se recomienda usar. Modifica la cantidad de golpes r...</description>
       <category>Funciones</category>
       <pubDate>Wed, 20 Dec 2023 19:58:51 GMT</pubDate>
       <content:encoded><![CDATA[<h2> Efectos de Ataque: Modificaciones para tus ataques</h2>
@@ -601,34 +601,34 @@ Para poder usar skins personalizadas en Korepi tendremos que descargar la aplica
 <li>Modo Un-Golpe: Matar al objetivo de 1 golpe.</li>
 </ul>
 <blockquote>
-<p>Cuidado: No se recomienda usar.</p>
+<p><span style="color:red;">Aviso:</span> No se recomienda usar.</p>
 </blockquote>
 <ul>
 <li>Modifica la cantidad de golpes recibe el objetivo.</li>
 </ul>
 <blockquote>
-<p>Cuidado: No se recomienda que sea mayor de <code>5</code>.</p>
+<p><span style="color:red;">Aviso:</span> No se recomienda que sea mayor de <code>5</code>.</p>
 </blockquote>
 <h3> Multi-Objetivo:</h3>
 <ul>
 <li>Al golpear un objetivo, todos reciben daño dentro de un radio seleccionado.</li>
 </ul>
 <blockquote>
-<p>Cuidado: No se recomienda cambiar los valores por defecto.</p>
+<p><span style="color:red;">Aviso:</span> No se recomienda cambiar los valores por defecto.</p>
 </blockquote>
 <h3> Multi-Animación:</h3>
 <ul>
 <li>Modifica el número de veces que un personaje realiza una acción.</li>
 </ul>
 <blockquote>
-<p>Cuidado: No se recomienda usar.</p>
+<p><span style="color:red;">Aviso:</span> No se recomienda usar.</p>
 </blockquote>
 <h3> Velocidad de Ataque:</h3>
 <ul>
 <li>Cambia la velocidad de ataque del jugador.</li>
 </ul>
 <blockquote>
-<p>Cuidado: No se recomienda que sea mayor de <code>1.5</code>.</p>
+<p><span style="color:red;">Aviso:</span> No se recomienda que sea mayor de <code>1.5</code>.</p>
 </blockquote>
 <h3> Elemento Personalizado:</h3>
 <ul>
@@ -636,11 +636,11 @@ Para poder usar skins personalizadas en Korepi tendremos que descargar la aplica
 </ul>
 <h3> Imbuir Elemento:</h3>
 <ul>
-<li>Madifica el elemento de los ataques normales de espada, gran espada y lanza.</li>
+<li>Modifica el elemento de los ataques normales de espada, gran espada y lanza.</li>
 </ul>
 <h3> Auto Punto Débil:</h3>
 <ul>
-<li>Ataca automaticamente al punto débil del objetivo, solo para arcos.</li>
+<li>Ataca automáticamente al punto débil del objetivo, solo para arcos.</li>
 </ul>
 <h3> Golpe Crítico (Sponsor):</h3>
 <ul>
@@ -810,20 +810,20 @@ Para poder usar skins personalizadas en Korepi tendremos que descargar la aplica
       <link>https://korepi.com/mx/features/Player/god-mode.html</link>
       <guid>https://korepi.com/mx/features/Player/god-mode.html</guid>
       <source url="https://korepi.com/mx/rss.xml">Modo Dios</source>
-      <description>Modo Dios: no recibes daño. Muerto Viviente: (Sponsor) Al activarlo, te permite recibir daño pero sólo evita que recibas un daño mortal.; Condicional: Al activarlo, el modo dios...</description>
+      <description>Modo Dios: no recibes daño. Muerto Viviente: (Sponsor) Al activarlo, podrás recibir daño pero sólo evitará los golpes mortales.; Condicional: Al activarlo, el modo dios no permi...</description>
       <category>Funciones</category>
       <pubDate>Wed, 20 Dec 2023 19:58:51 GMT</pubDate>
       <content:encoded><![CDATA[<h2> Modo Dios: no recibes daño.</h2>
 <h3> Muerto Viviente: (<span style="color:yellow;">Sponsor</span>)</h3>
 <ul>
-<li>Al activarlo, te permite recibir daño pero sólo evita que recibas un daño mortal.</li>
+<li>Al activarlo, podrás recibir daño pero sólo evitará los golpes mortales.</li>
 </ul>
 <h3> Condicional:</h3>
 <ul>
 <li>Al activarlo, el modo dios no permite que tu vida baje del valor seleccionado.</li>
 </ul>
 <blockquote>
-<p><span style="color:red;">Cuidado: Se recomienda usar Condicional para el abismo.</span></p>
+<p><span style="color:red;">Aviso:</span> Se recomienda usar <b>Condicional</b> para el abismo.</p>
 </blockquote>
 <h2> Video de Ejemplo:</h2>
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/42utUUYNHRE?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - God Mode" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
@@ -891,7 +891,7 @@ Para poder usar skins personalizadas en Korepi tendremos que descargar la aplica
       <link>https://korepi.com/mx/features/Player/player-speed.html</link>
       <guid>https://korepi.com/mx/features/Player/player-speed.html</guid>
       <source url="https://korepi.com/mx/rss.xml">Velocidad de Jugador</source>
-      <description>Velocidad de Jugador: cambia la velocidad del jugador. Nota: Se recomienda usar por debajo de 1.5. Cuidado: Para evitar riesgos, se recomienda usar con Movimiento Extra (extra-m...</description>
+      <description>Velocidad de Jugador: cambia la velocidad del jugador. Nota: Se recomienda usar por debajo de 1.5. Aviso: Para evitar riesgos, se recomienda usar con Movimiento Extra (extra-mov...</description>
       <category>Funciones</category>
       <pubDate>Wed, 20 Dec 2023 19:58:51 GMT</pubDate>
       <content:encoded><![CDATA[<h2> Velocidad de Jugador: cambia la velocidad del jugador.</h2>
@@ -899,7 +899,7 @@ Para poder usar skins personalizadas en Korepi tendremos que descargar la aplica
 <p>Nota: Se recomienda usar por debajo de <code>1.5</code>.</p>
 </blockquote>
 <blockquote>
-<p><span style="color:red;">Cuidado:</span> Para evitar riesgos, se recomienda usar con <a href="/mx/features/Player/extra-movements.html" target="blank">Movimiento Extra</a> (exclusivo de Sponsor).</p>
+<p><span style="color:red;">Aviso:</span> Para evitar riesgos, se recomienda usar con <a href="/mx/features/Player/extra-movements.html" target="blank">Movimiento Extra</a> (exclusivo de Sponsor).</p>
 </blockquote>
 <h2> Video de Ejemplo:</h2>
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/HCxmOUMFRs8?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Player Speed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
@@ -1252,12 +1252,12 @@ Nota 2: Puedes encontrar los IDs <a href="https://github.com/jie65535/Grasscutte
       <link>https://korepi.com/mx/features/Visuals/free-camera.html</link>
       <guid>https://korepi.com/mx/features/Visuals/free-camera.html</guid>
       <source url="https://korepi.com/mx/rss.xml">Cámara Libre</source>
-      <description>Cámara Libre: Te permite mover la cámara sin tener que seguir al personaje.; Congelar Animación del Personaje: Congela Animación del Personaje.; Personaje Invisible: Hace que el...</description>
+      <description>Cámara Libre: Te permite mover la cámara lejos del personaje.; Congelar Animación del Personaje: Congela Animación del Personaje.; Personaje Invisible: Hace que tu personaje no ...</description>
       <category>Funciones</category>
       <pubDate>Wed, 20 Dec 2023 19:58:51 GMT</pubDate>
       <content:encoded><![CDATA[<h2> Cámara Libre:</h2>
 <ul>
-<li>Te permite mover la cámara sin tener que seguir al personaje.</li>
+<li>Te permite mover la cámara lejos del personaje.</li>
 </ul>
 <h3> Congelar Animación del Personaje:</h3>
 <ul>
@@ -1265,7 +1265,7 @@ Nota 2: Puedes encontrar los IDs <a href="https://github.com/jie65535/Grasscutte
 </ul>
 <h3> Personaje Invisible:</h3>
 <ul>
-<li>Hace que el personaje sea invisible.</li>
+<li>Hace que tu personaje no sea visible.</li>
 </ul>
 <h3> Bloquear Entrada del Usuario:</h3>
 <ul>
@@ -1495,7 +1495,7 @@ Nota 2: Mayor la distancia mayor el retraso.</p>
       <link>https://korepi.com/mx/features/World/auto-talk.html</link>
       <guid>https://korepi.com/mx/features/World/auto-talk.html</guid>
       <source url="https://korepi.com/mx/rss.xml">Auto Conversar</source>
-      <description>Auto Conversar: Habla automáticamente con los NPCs Diálogo Rápido: Acelera el juego haciendo que el dialogo sea más rápido.; Cuidado: No se recomienda por encima de 5. Saltar Di...</description>
+      <description>Auto Conversar: Habla automáticamente con los NPCs Diálogo Rápido: Acelera el juego haciendo que el dialogo sea más rápido.; Aviso: No se recomienda por encima de 5. Saltar Diál...</description>
       <category>Funciones</category>
       <pubDate>Wed, 20 Dec 2023 19:58:51 GMT</pubDate>
       <content:encoded><![CDATA[<h2> Auto Conversar: Habla automáticamente con los NPCs</h2>
@@ -1504,35 +1504,35 @@ Nota 2: Mayor la distancia mayor el retraso.</p>
 <li>Acelera el juego haciendo que el dialogo sea más rápido.</li>
 </ul>
 <blockquote>
-<p>Cuidado: No se recomienda por encima de <code>5</code>.</p>
+<p><span style="color:red;">Aviso:</span> No se recomienda por encima de <code>5</code>.</p>
 </blockquote>
 <h3> Saltar Diálogo (<span style="color:yellow;">Sponsor</span>):</h3>
 <ul>
 <li>Salta el dialogo con un retraso personalizado. Es más seguro que Diálogo Rápido.</li>
 </ul>
 <blockquote>
-<p>Cuidado: No se recomienda user por debajo de <code>200ms</code></p>
+<p><span style="color:red;">Aviso:</span> No se recomienda user por debajo de <code>200ms</code></p>
 </blockquote>
 <h3> Escenas Rápidas:</h3>
 <ul>
 <li>Acelera el juego haciendo que la escena sea más rápida.</li>
 </ul>
 <blockquote>
-<p>Cuidado: No se recomienda usar por encima de <code>5</code>.</p>
+<p><span style="color:red;">Aviso:</span> No se recomienda usar por encima de <code>5</code>.</p>
 </blockquote>
 <h3> Saltar Conversaciones:</h3>
 <ul>
 <li>Salta las escenas de conversación en curso o cuando empiezan.</li>
 </ul>
 <blockquote>
-<p>Cuidado: Puede dar pantalla negra a veces.</p>
+<p>Aviso: Puede dar pantalla negra a veces.</p>
 </blockquote>
 <h3> Saltar Escenas:</h3>
 <ul>
 <li>Salta las escenas de video en curso o cuando empiezan.</li>
 </ul>
 <blockquote>
-<p>Cuidado: Puede dar pantalla negra a veces.</p>
+<p>Aviso: Puede dar pantalla negra a veces.</p>
 </blockquote>
 <p>Advertencia: El establecer valores más haya de lo recomendado eleva en gran medida el riesgo de que tu cuente sea baneada.</p>
 <h2> Video de Ejemplo:</h2>
@@ -1572,11 +1572,11 @@ Nota 2: Mayor la distancia mayor el retraso.</p>
 </div>
 <hr>
 <h3> Aura Elemental aplica elementos a ti mismo, monstruos u objetos cercanos, tanto los elementos, el rango y el retraso se pueden personalizar, se puede usar más de un elemento.</h3>
+<blockquote>
+<p>Aviso: Un retraso bajo aumenta la probabilidad de detección.</p>
+</blockquote>
 <h2> Video de Ejemplo:</h2>
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/FskTJiknOgQ?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Elemental Aura (Sponsor)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
-<blockquote>
-<p>Nota: Un retraso bajo aumentara la probabilidad de detección.</p>
-</blockquote>
 ]]></content:encoded>
     </item>
     <item>
@@ -1584,12 +1584,12 @@ Nota 2: Mayor la distancia mayor el retraso.</p>
       <link>https://korepi.com/mx/features/World/game-speed.html</link>
       <guid>https://korepi.com/mx/features/World/game-speed.html</guid>
       <source url="https://korepi.com/mx/rss.xml">Velocidad del Juego</source>
-      <description>Velocidad del Juego. Acelera o ralentiza el juego. Cuidado: esto es peligroso. Riesgo de ban. Video de Ejemplo:</description>
+      <description>Velocidad del Juego. Acelera o ralentiza el juego. Aviso: Esto es peligroso. Riesgo de ban. Video de Ejemplo:</description>
       <category>Funciones</category>
       <pubDate>Wed, 20 Dec 2023 19:58:51 GMT</pubDate>
       <content:encoded><![CDATA[<h3> Velocidad del Juego. Acelera o ralentiza el juego.</h3>
 <blockquote>
-<p><span style="color:red;">Cuidado: esto es peligroso. Riesgo de ban.</span></p>
+<p><span style="color:red;">Aviso:</span> Esto es peligroso. Riesgo de ban.</p>
 </blockquote>
 <h2> Video de Ejemplo:</h2>
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/MzXhudYkaDg?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Game Speed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
@@ -1613,14 +1613,14 @@ Nota 2: Mayor la distancia mayor el retraso.</p>
 <li>Inflige daño con el valor, el retardo y el alcance especificado a los enemigos cercanos.</li>
 </ul>
 <blockquote>
-<p><span style="color:red;">Cuidado: No se recomienda usar valores muy altos.</span></p>
+<p><span style="color:red;">Aviso:</span> No se recomienda usar valores muy altos.</p>
 </blockquote>
 <h3> Modo Porcentaje:</h3>
 <ul>
 <li>Número de golpes que se necesita para matar a un enemigo.</li>
 </ul>
 <blockquote>
-<p><span style="color:red;">Cuidado: Se recomienda usar <code>3</code> o más.</span></p>
+<p><span style="color:red;">Aviso:</span> Se recomienda usar <code>3</code> o más.</p>
 </blockquote>
 <h3> Vida Restante:</h3>
 <ul>
@@ -1631,12 +1631,9 @@ Nota 2: Mayor la distancia mayor el retraso.</p>
 <li>Intentará ejecutar al enemigo.</li>
 </ul>
 <blockquote>
-<p>Nota: Puede ocasionar errores contra jefes.</p>
+<p>Aviso: No recomendado, puede causar errores contra jefes.</p>
 </blockquote>
-<blockquote>
-<p>Cuidado: No se recomienda usar.</p>
-</blockquote>
-<h3> Solo Agresivos:</h3>
+<h3> Sólo Agresivos:</h3>
 <ul>
 <li>Elegir si afecta sólo a enemigos agresivos o a todos</li>
 </ul>
