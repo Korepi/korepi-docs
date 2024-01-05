@@ -46,10 +46,10 @@ Untuk mendapatkan `HWID` Anda, buka `Local(V) Injector` sekali, dan HWID akan se
 
 ### Langkah 3: Dapatkan `enc.json` Anda
 
-Pergi ke saluran `⁠★⋅micah-bot-verify⋅★` dan klik `V:Verify`, sebuah jendela akan meminta Anda memasukkan `HWID`, tempelkan dan klik `Submit`, lalu unduh berkas yang dikirim oleh bot.
+Pergi ke saluran `⁠★⋅micah-bot-verify⋅★` dan klik `V:Verify`, sebuah jendela akan meminta Anda memasukkan `HWID`, tempelkan dan klik `Submit`, lalu unduh file yang dikirim oleh bot.
 
-### Langkah 4: Tempatkan Berkas Anda di Korepi
+### Langkah 4: Tempatkan File Anda di Korepi
 
-Setelah mendapatkan berkas, letakkan di folder Korepi Anda. Ingatlah bahwa berkas tersebut harus bernama `enc.json` agar berfungsi, buka Korepi kembali.
+Setelah mendapatkan file, letakkan di folder Korepi Anda. Ingatlah bahwa file tersebut harus bernama `enc.json` agar berfungsi, buka Korepi kembali.
 
 Selamat menikmati Korepi!

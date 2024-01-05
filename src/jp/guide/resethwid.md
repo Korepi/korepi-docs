@@ -32,7 +32,7 @@ order: 2
 
 HWID をリセットした後、インジェクターに移動し、キーをもう一度貼り付けます。
 
-コレピをまた楽しんでください！
+korepiをまた楽しんでください！
 
 ## HWID リセット: ネットワーク(F)版 (スポンサー)
 
@@ -46,7 +46,7 @@ HWID をリセットした後、インジェクターに移動し、キーをも
 
 korepi フォルダーに移動して `license.json`を削除し、その後 Korepi を開いて、取得した新しいキーを貼り付けます。
 
-コレピを楽しんでください！
+korepiを楽しんでください！
 
 ## HWIDリセット: ローカル(V)版 (スポンサー)
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/q0G9UZHErrg?list=PL5eI1Tb64p56Mp6JqoR_o3BYk9UFTbOQI" title="How to reset Local V HWID" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>

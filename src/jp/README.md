@@ -8,16 +8,16 @@ bgImageDark: https://theme-hope-assets.vuejs.press/bg/6-dark.svg
 bgImageStyle:
  background-attachment: fixed
 heroText: Korepi
-tagline: 高品質で使いやすいKorepiのユーティリティツールを提供！
+tagline: 高品質で使いやすいKorepiの便利ツールを提供しています！
 actions:
 - text: ダウンロード
   icon: download
   link: ./start/download
   type: primary
-- text: クイックスタート
+- text: すぐに始める
   icon: lightbulb
   link: ./start/
-- text: ガイド
+- text: 案内
   icon: book
   link: ./guide/
 
@@ -27,13 +27,13 @@ highlights:
   bgImage: https://theme-hope-assets.vuejs.press/bg/3-light.svg
   bgImageDark: https://theme-hope-assets.vuejs.press/bg/3-dark.svg
   highlights:
-    - title: 未知の場所のロックを解除します
-    - title: 自動探索でお宝を探しましょう！
-    - title: 探索モード、ゲームにもっと集中しよう！
+    - title: 未知の場所を開放する
+    - title: 宝物を自動で探索！
+    - title: 探索モードで、ゲームにもっと集中しよう！
     - title: 多言語に対応！
 
 - header: 実用的で便利な原神用テクノロジー
-  description: 独自の機能を無料で提供します
+  description: 独自の機能を無料で提供しています
   image: /assets/images/web/markdown.svg
   bgImage: https://theme-hope-assets.vuejs.press/bg/2-light.svg
   bgImageDark: https://theme-hope-assets.vuejs.press/bg/2-dark.svg
@@ -49,73 +49,73 @@ highlights:
       details: キャラクターを無敵にします
     - title: 攻撃効果（マルチヒット／ターゲット／アニメーション）
       icon: gun
-      details: マルチヒット、ターゲット、アニメーションなどの攻撃プロパティを変更します
-    - title: クールタイム無効化  (スキル/アルティメット/スプリント/弓)
+      details: マルチヒット、ターゲット、アニメーションを含む攻撃の状態を変更します
+    - title: クールタイム無効化  (元素スキル/元素爆発/ダッシュ/弓)
       icon: clock
-      details: スキル、アルティメット、スプリント、弓のチャージなどのさまざまなクールタイムを排除します
+      details: 元素スキル、元素爆発、ダッシュ、弓などの様々なクールタイムを無効にします
     - title: 無限スタミナ
       icon: battery-full
-      details: スタミナを無制限に使用できるようにします
-    - title: 壁をクリッピング
+      details: スタミナを無制限に使用できるようになります
+    - title: ウォールクリッピング
       icon: vector-square
-      details: キャラクターがオブジェクトを通り抜けたり、飛んだりできるようにします
+      details: オブジェクトを通り抜けたり、空を飛んだりできるようになります
     - title: ゲーム速度
       icon: tachometer-alt
       details: ゲーム内の時間を速くしたり遅くしたりします
     - title: 敵の攻撃停止
       icon: skull
-      details: 敵はプレイヤーに対して攻撃してこなくなります
+      details: 敵はプレイヤーに対して攻撃をしなくなります
     - title: 敵の行動停止
       icon: snowflake
-      details: 敵のアニメーションを停止させます
+      details: 敵のアニメーションを停止します
     - title: 鉱石/シールド/置物/植物の自動破壊
       icon: hammer
-      details: 付近のさまざまなオブジェクトを自動的に破壊します
+      details: 付近の様々なオブジェクトを自動で破壊します
     - title: 自動取得/宝箱を開ける
       icon: box
-      details: 自動的に戦利品を集めて宝箱を開けます
-    - title: 取得範囲のカスタム
+      details: 自動でドロップ品を回収したり、宝箱を開けたりします
+    - title: 取得範囲変更
       icon: compass
-      details: アイテムの拾える範囲を増やします
+      details: アイテムの取得範囲を広げます
     - title: NPCとの自動会話
       icon: comment
       details: NPCとの自動会話を可能にします
     - title: 木の自動伐採
       icon: tree
-      details: キャラクターが自動的に木を伐採できるようにします
+      details: 自動で木を伐採できるようにします
     - title: 自動調理
       icon: utensils
-      details: プレイヤーの操作なしで自動的に料理を調理します
-    - title: モンスターを引き寄せる
+      details: プレイヤーが操作せずに自動で調理する
+    - title: モンスター引き寄せ
       icon: tornado
-      details: さまざまなモンスターを近くに引き寄せます
+      details: 近くにいる様々なモンスターを呼び寄せます
 
 - header: 最新のバグ修正
   image: /assets/images/web/features.svg
   bgImage: https://theme-hope-assets.vuejs.press/bg/1-light.svg
   bgImageDark: https://theme-hope-assets.vuejs.press/bg/1-dark.svg
   features:
-    - title: 自動選択ダイアログがわずかに速くなりました
+    - title: 自動会話選択の速度を少し高速化
       icon: comment
-      details: 自動選択ダイアログプロセスを高速化しました
+      details: 自動会話選択の処理速度が向上しました
     - title: マップズーム
       icon: search-plus
       details: マップのズーム機能を追加しました
-    - title: インスタントチャージ攻撃
+    - title: 即重撃（現在は設定可能）
       icon: bolt
-      details: インスタントチャージ攻撃が設定できるようになりました
-    - title: ダイアログをスキップ
+      details: 現在は即重撃を設定できるようになりました
+    - title: 会話スキップ
       icon: arrow-right
-      details: ダイアログを即座にスキップできます
-    - title: NPCを召喚する
+      details: 会話を即スキップできるようになりました
+    - title: NPC召喚
       icon: user
       details: NPC召喚に関する問題を修正しました
-    - title: 七天神像と遠隔で接触
+    - title: 七天神像にインタラクト
       icon: hands
       details: 七天神像に関する問題を修正
 
-- header: 私たちの利点
-  description: 私たちの利点の一部です。
+- header: 私たちの強み
+  description: 私たちの活動の詳細をご紹介します。
   image: /assets/images/web/blog.svg
   bgImage: https://theme-hope-assets.vuejs.press/bg/5-light.svg
   bgImageDark: https://theme-hope-assets.vuejs.press/bg/5-dark.svg

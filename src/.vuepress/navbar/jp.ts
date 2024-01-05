@@ -1,28 +1,28 @@
 import {navbar} from "vuepress-theme-hope";
 
-export const ptNavbar = navbar([
-    "/pt/",
-    "/pt/guide/",
-    "/pt/start/",
+export const jpNavbar = navbar([
+    "/jp/",
+    "/jp/guide/",
+    "/jp/start/",
     {
-        text: "Guia",
+        text: "ガイド",
         icon: "lightbulb",
-        prefix: "/pt/",
+        prefix: "/jp/",
         children: [
             {
-                text: "Introdução",
+                text: "はじめに",
                 icon: "lightbulb",
                 prefix: "start/",
                 children: ["join"],
             },
             {
-                text: "Guias",
+                text: "ガイド",
                 icon: "lightbulb",
                 prefix: "guide/",
                 children: ["getkey"],
             },
             {
-                text: "Available Features",
+                text: "利用可能な機能",
                 icon: "sitemap",
                 prefix: "features/",
                 children: [""],
