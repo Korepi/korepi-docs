@@ -6,8 +6,8 @@
     <link>https://korepi.com/ru/</link>
     <description>Помощь по Korepi</description>
     <language>ru-RU</language>
-    <pubDate>Mon, 08 Jan 2024 20:22:22 GMT</pubDate>
-    <lastBuildDate>Mon, 08 Jan 2024 20:22:22 GMT</lastBuildDate>
+    <pubDate>Mon, 08 Jan 2024 20:24:16 GMT</pubDate>
+    <lastBuildDate>Mon, 08 Jan 2024 20:24:16 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Руководство</category>
@@ -1541,8 +1541,12 @@ pass korepi</p>
       <link>https://korepi.com/ru/start/</link>
       <guid>https://korepi.com/ru/start/</guid>
       <source url="https://korepi.com/ru/rss.xml">Начало</source>
+      <description>На этой странице собрана информация для новичков и людей которые хотят попробовать использовать Korepi. Если тебе скинули ссылку на эту страницу, пожалуйста изучи все материалы ...</description>
       <category>Гайд</category>
       <pubDate>Fri, 24 Nov 2023 14:31:46 GMT</pubDate>
+      <content:encoded><![CDATA[<p>На этой странице собрана информация для новичков и людей которые хотят попробовать использовать Korepi.
+Если тебе скинули ссылку на эту страницу, пожалуйста изучи все материалы этой страницы, вероятно они ответят на твой вопрос.</p>
+]]></content:encoded>
     </item>
     <item>
       <title>Присоединение к серверу</title>
