@@ -13,7 +13,7 @@ order: 10
 
 > Nota: Se recomienda usar por debajo de `1.5`.
 
-> <span style="color:red;">Cuidado:</span> Para evitar riesgos, se recomienda usar con [Movimiento Extra](extra-movements.md) (exclusivo de Sponsor).
+> <span style="color:red;">Aviso:</span> Para evitar riesgos, se recomienda usar con [Movimiento Extra](extra-movements.md) (exclusivo de Sponsor).
 
 ## Video de Ejemplo:
 

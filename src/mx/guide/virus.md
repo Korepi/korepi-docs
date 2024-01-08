@@ -12,7 +12,7 @@ order: 7
 ::: info Otros antivirus pueden tener otros métodos, pero serán similares.
 :::
 ---
-## Como añadir Korepi a exclusiones.
+## Como añadir Korepi a exclusiones
 
 ### Paso 1: Abre el antivirus
 
@@ -20,17 +20,17 @@ Abre el buscador de windows y busca `Seguridad de Windows`.
 
 ![](/assets/images/docs/202312/security.png)
 
-Le damos click a `Protección antivirus y contra amenazas`.
+Le damos clic a `Protección antivirus y contra amenazas`.
 
 ![](/assets/images/docs/202312/virus1.png)
 
-Después bajamos hasta encontrar `Configuración de protección antivirus y contra amenazas` y le damos click a `Administrar la configuración`.
+Después bajamos hasta encontrar `Configuración de protección antivirus y contra amenazas` y le damos clic a `Administrar la configuración`.
 
 ![](/assets/images/docs/202312/virus3.png)
 
-### Paso 2: Añadir a la lista de exclusiones.
+### Paso 2: Añadir a la lista de exclusiones
 
-Después de seguir el paso anterior, bajaremos hasta encontrar `Exclusiones` and then we click on `Agregar o quitar exclusiones`.
+Después de seguir el paso anterior, bajaremos hasta encontrar `Exclusiones` and then we clic on `Agregar o quitar exclusiones`.
 
 ![](/assets/images/docs/202312/virus4.png)
 

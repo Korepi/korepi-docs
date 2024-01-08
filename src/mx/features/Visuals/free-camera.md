@@ -10,10 +10,10 @@ order: 11
 ---
 
 ## Cámara Libre:
-- Te permite mover la cámara sin tener que seguir al personaje.
+- Te permite mover la cámara lejos del personaje.
 ### Congelar Animación del Personaje:
 - Congela Animación del Personaje.
 ### Personaje Invisible:
-- Hace que el personaje sea invisible.
+- Hace que tu personaje no sea visible.
 ### Bloquear Entrada del Usuario:
 - Evita que el personaje se mueva mientras mueves la cámara.

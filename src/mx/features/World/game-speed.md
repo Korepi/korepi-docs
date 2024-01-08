@@ -11,7 +11,7 @@ order: 10
 
 ### Velocidad del Juego. Acelera o ralentiza el juego.
 
-><span style="color:red;">Cuidado: esto es peligroso. Riesgo de ban.</span>
+><span style="color:red;">Aviso:</span> Esto es peligroso. Riesgo de ban.
 
 ## Video de Ejemplo:
 

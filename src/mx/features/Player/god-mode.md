@@ -11,10 +11,10 @@ order: 7
 
 ## Modo Dios: no recibes daño.
 ### Muerto Viviente: (<span style='color:yellow;'>Sponsor</span>)
-- Al activarlo, te permite recibir daño pero sólo evita que recibas un daño mortal.
+- Al activarlo, podrás recibir daño pero sólo evitará los golpes mortales.
 ### Condicional:
 - Al activarlo, el modo dios no permite que tu vida baje del valor seleccionado.
-> <span style="color:red;">Cuidado: Se recomienda usar Condicional para el abismo.</span>
+> <span style="color:red;">Aviso:</span> Se recomienda usar <b>Condicional</b> para el abismo.
 
 ## Video de Ejemplo:
 
