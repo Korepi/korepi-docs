@@ -6,8 +6,8 @@
     <link>https://korepi.com/ru/</link>
     <description>Помощь по Korepi</description>
     <language>ru-RU</language>
-    <pubDate>Mon, 08 Jan 2024 17:09:04 GMT</pubDate>
-    <lastBuildDate>Mon, 08 Jan 2024 17:09:04 GMT</lastBuildDate>
+    <pubDate>Mon, 08 Jan 2024 20:16:13 GMT</pubDate>
+    <lastBuildDate>Mon, 08 Jan 2024 20:16:13 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Руководство</category>
@@ -1537,10 +1537,10 @@ pass korepi</p>
 ]]></content:encoded>
     </item>
     <item>
-      <title>Каталог</title>
+      <title>Начало</title>
       <link>https://korepi.com/ru/start/</link>
       <guid>https://korepi.com/ru/start/</guid>
-      <source url="https://korepi.com/ru/rss.xml">Каталог</source>
+      <source url="https://korepi.com/ru/rss.xml">Начало</source>
       <category>Гайд</category>
       <pubDate>Fri, 24 Nov 2023 14:31:46 GMT</pubDate>
     </item>
