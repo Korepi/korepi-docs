@@ -19,6 +19,9 @@ Allow: /ko/rss.xml
 # for debugging
 Allow: /rss.xml
 
+
+Allow: /
+
 User-agent:*
 Disallow:
 
