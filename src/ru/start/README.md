@@ -1,5 +1,5 @@
 ---
-title: Каталог
+title: Начало
 icon: circle-info
 category:
   - Гайд
