@@ -6,8 +6,8 @@
     <link>https://korepi.com/zh/</link>
     <description>Korepi 中文文档介绍</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 09 Jan 2024 18:57:42 GMT</pubDate>
-    <lastBuildDate>Tue, 09 Jan 2024 18:57:42 GMT</lastBuildDate>
+    <pubDate>Wed, 10 Jan 2024 15:56:28 GMT</pubDate>
+    <lastBuildDate>Wed, 10 Jan 2024 15:56:28 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>其他</category>
@@ -125,12 +125,15 @@ VPN并非专为翻墙而生，而机场是专门的翻墙节点服务商。</p>
       <link>https://korepi.com/zh/guide/change-hwid.html</link>
       <guid>https://korepi.com/zh/guide/change-hwid.html</guid>
       <source url="https://korepi.com/zh/rss.xml">如何切换korepi版本和更换设备</source>
-      <description>---赞助者每个月3点额度，可以用于切换korepi的版本和更换设备hwid。 使用🔄 Change Version 花费2个额度，其余1个额度。 使用并点击bot指令： 🔄 Change Version 可切换版本。 注意：请先在★⋅korepi-version-roles⋅★，把F版本的身份领取。 1、先点击使用bot指令F：reset key...</description>
+      <description>---赞助者每个月4点额度，可以用于切换korepi的版本和更换设备hwid。使用重置键，如果失败，再使用一次重置即可。 注意：请不要乱使用重置，以免浪费本月的重置机会。 使用🔄 Change Version 花费2个额度，其余1个额度。 使用并点击bot指令： 🔄 Change Version 可切换版本。 注意：请先在★⋅korepi-vers...</description>
       <category>指南</category>
       <pubDate>Fri, 22 Dec 2023 12:52:42 GMT</pubDate>
       <content:encoded><![CDATA[<hr>
 <div class="hint-container tip">
-<p class="hint-container-title"><span style="color:#f1c40f;">赞助者</span>每个月3点额度，可以用于切换korepi的版本和更换设备hwid。</p>
+<p class="hint-container-title"><span style="color:#f1c40f;">赞助者</span>每个月4点额度，可以用于切换korepi的版本和更换设备hwid。使用重置键，如果失败，再使用一次重置即可。</p>
+<blockquote>
+<p>注意：请不要乱使用重置，以免浪费本月的重置机会。</p>
+</blockquote>
 <p>使用🔄 Change Version 花费2个额度，其余1个额度。</p>
 </div>
 <hr>
@@ -237,7 +240,7 @@ VPN并非专为翻墙而生，而机场是专门的翻墙节点服务商。</p>
 <h2> 如果您没有收到该错误，请尝试在上设置更多的启动延迟<code>cfg.ini</code>.
 具体情况请<a href="/zh/troubleshoot/faq-error.html" target="blank">点击这里</a></h2>
 <h2> 11.为什么我像是在海里面一直用头顶着一个地方，无法左右移动？</h2>
-<p>请你把自动挑战关了，这是bug，在枫丹部分地区使用，会自动触碰到附近的洋流导致卡住。</p>
+<p>请把自动挑战关了，这是bug，在枫丹部分地区使用，会自动触碰到附近的洋流导致卡住。</p>
 <hr>
 ]]></content:encoded>
       <enclosure url="https://korepi.com/assets/images/docs/202312/theme-settings.png" type="image/png"/>
@@ -1034,13 +1037,27 @@ CN</li>
 <blockquote>
 <p>注意：不建议更改默认值。</p>
 </blockquote>
+<h3> 游泳：</h3>
+<ul>
+<li>启用后，加快玩家在水面游泳的速度。</li>
+</ul>
+<blockquote>
+<p>让你变成水中飞人博尔特！</p>
+</blockquote>
+<h3> 潜水：</h3>
+<ul>
+<li>启用后，加快玩家在水中游泳的速度。</li>
+</ul>
+<blockquote>
+<p>让你在水中游泳的速度加快，效果不太明显。</p>
+</blockquote>
 <h3> 潜行模式。</h3>
 <ul>
-<li>设置热键后可以进入潜行</li>
+<li>设置热键后，启用可以进入潜行。</li>
 </ul>
 <h3> 闪现：</h3>
 <ul>
-<li>允许玩家在按下热键后移动一定距离。</li>
+<li>允许玩家在按下热键后移动一定距离。如：按下F键，玩家移动10米。</li>
 </ul>
 ]]></content:encoded>
     </item>
