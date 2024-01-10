@@ -9,4 +9,4 @@ author: Schvis
 order: 2
 ---
 
-## Camera zoom allows the user to change their camera zoom to their desired value.
+## يتيح تكبير الكاميرا للمستخدم تغيير حجم الكاميرا إلى القيمة المطلوبة.

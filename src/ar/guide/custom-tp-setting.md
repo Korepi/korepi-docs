@@ -1,5 +1,5 @@
 ---
-title: How to use Custom TP
+title: كيفية استخدام تيليبورت مخصص
 icon: running
 category:
   - Guide
@@ -10,40 +10,40 @@ author: Schvis
 order: 6
 ---
 
-## How to use custom TP
+## كيفية استخدام تيليبورت مخصص
 
-### Step 1: Settings to use
+### الخطوة 1: الإعدادات المستخدمة
 
-We will use the following settings.
+سوف نستخدم الإعدادات التالية.
 
 ![](/assets/images/docs/202312/teleport1.png)
 
-The recommended delay time is >15s.
+وقت التأخير الموصى به هو > 15 ثانية.
 
-### Step 2: Download the `.json` files for the custom tp
+### الخطوة 2: قم بتنزيل ملفات `.json` للتيليبورت مخصص
 
-We can find these files in `community-share` pinned post in the server. Download the ones that suits your needs.
+يمكننا العثور على هذه الملفات في منشور `community-share` المثبت في السيرفر. قم بتنزيل تلك التي تناسب احتياجاتك.
 
-### Step 3: Select the tp files
+### الخطوة 3: حدد ملفات التيليبورت
 
-Head to custom tp settings and go to this section:
+توجه الى custom tp settings واذهب إلى هذا القسم:
 
 ![](/assets/images/docs/202312/teleport2.png)
 
-Click on select path and select the folder containing the tp files you want to use.
+انقر فوق تحديد المسار وحدد المجلد الذي يحتوي على ملفات التيليبورت التي تريد استخدامها.
 
-### Step 4: How to start the tps
+### الخطوة 4: كيفية البدء tps
 
-After selecting the folder, check this checkbox:
+بعد تحديد المجلد، حدد مربع الاختيار هذا:
 
 ![](/assets/images/docs/202312/teleport3.png)
 
-After that we click on `Select`:
+بعد ذلك نضغط على `Select`:
 
 ![](/assets/images/docs/202312/teleport4.png)
 
-### Step 5: Enjoy the ride
+### الخطوة 5: استمتع بالرحلة
 
-The TPs will start automatically, if you got [Sponsor](../start/sponsor.md), you will be able to see the progress and remaining time.
+سيبدأ التيليبورت تلقائيًا، إذا كنت حصلت على [Sponsor](../start/sponsor.md), سوف تكون قادرا على رؤية التقدم والوقت المتبقي.
 
 

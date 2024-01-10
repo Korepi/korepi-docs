@@ -5,15 +5,15 @@ category:
   - Funciones
 tag:
   - Esconder Interfaz
-author: Schvis
+author: Schvis, ll33ee
 order: 12
 ---
 
-## Esconder Interfaz:
-- Esconde el interfaz completamente.
-### Esconder Ping: (<span style='color:yellow;'>Sponsor</span>)
-- Esconde el Ping.
-### Esconder Barra de Vida: (<span style='color:yellow;'>Sponsor</span>)
-- Esconde la Barra de Vida.
-### Esconder Barra de Vida del Equipo: (<span style='color:yellow;'>Sponsor</span>)
-- Esconde la Barra de Vida del Equipo.
+## Ocultar UI:
+Oculta la interfaz de usuario completamente.
+### Ocultar Ping: (<span style='color:yellow;'>Sponsor</span>)
+Oculta el Ping.
+### Ocultar Barra de Vida: (<span style='color:yellow;'>Sponsor</span>)
+Oculta la Barra de Vida.
+### Ocultar Barra de Vida del Equipo: (<span style='color:yellow;'>Sponsor</span>)
+Oculta la Barra de Vida del Equipo.

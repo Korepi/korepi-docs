@@ -1,5 +1,5 @@
 ---
-title: How to Multi-Instance
+title: فتح نافذتين للعبة في نفس الوقت
 icon: clone
 category:
   - Guide
@@ -9,9 +9,9 @@ author: Schvis
 order: 3
 ---
 
-## How to Multi-instance (Open 2 game window at the same time)
+## How To Multi-instance (فتح نافذتين للعبة في نفس الوقت)
 
-::: info Only works with Local(V) version
+::: info يعمل فقط مع الإصدار المحلي (V).
 :::
 ---
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/pSAxKoneT64" title="Multi-Instance V (Updated)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>

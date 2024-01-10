@@ -1,14 +1,13 @@
 ---
-title: Texture Changer
+title: Изменение текстур
 icon: list
 category:
-  - Features
+  - Особенности
 tag:
-  - Texture Changer
-author: Schvis
+  - Изменение текстур
+author: "Schvis"
 order: 16
 ---
-::: информация Для изменения текстур лучше использовать [GIMI](../../guide/3DM-tutorial.md).
-:::
+::: Для изменения текстур рекомендуется использовать [GIMI](../../guide/3DM-tutorial.md) :::
 ---
-## Texture Changer позволяет переключать части персонажей в предоставленные файлы .png.
+## Изменение текстур позволяет заменять части персонажей предоставленными файлами .png.

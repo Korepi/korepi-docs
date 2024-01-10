@@ -9,4 +9,4 @@ author: Schvis
 order: 15
 ---
 
-## Skin Modifier allows the player to use in-game skins for free.
+## معدل الملابس يسمح للاعب باستخدام الملابس داخل اللعبة مجانًا.

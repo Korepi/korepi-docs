@@ -6,27 +6,27 @@ category:
 tag:
     - Inicio
     - Sponsor
-author: Schvis
+author: Schvis, ll33ee
 order: 4
 ---
 
-## Como convertirse en Sponsor?
+## ¿Cómo convertirse en Sponsor?
 
-Para convertirte en Sponsor, deberás donar al menos 5$ o el equivalente si estas usando otra moneda.
+Debes donar por lo menos 5 Dólares o el equivalente en otras divisas.
 
-## Donde donar?
+## ¿Dónde donar?
 
-Cuando ya estés en el servidor, por favor ve al canal de [#sponsorship](https://discord.com/channels/1069057220802781265/1097565269985071205). Selecciona el link que prefieras usar para hacer la donación. Por favor asegúrate de hacer una captura de pantalla para el siguiente paso.
+Cuando ya estés en el servidor, por favor ve al canal de [#sponsorship](https://discord.com/channels/1069057220802781265/1097565269985071205). Selecciona el enlace que quieras para hacer la donación. Por favor, asegúrate de hacer una captura de pantalla para el siguiente paso.
 
-## Que hago después de haber donado?
+## ¿Qué hago después de haber donado?
 
-Si ya has donado, puedes enviarle las pruebas a cualquiera de los moderadores disponibles. Por favor asegúrate de enseñar las capturas o el enlace de donación como prueba
+Si ya has donado, puedes enviar la evidencia a cualquier moderador disponible. Por favor, asegúrate de mostrar las capturas o el enlace de donación como evidencia.
 
 ![](/assets/images/docs/202312/proof.png)
 
-## (PARA NO-FANS) Como reclamar el rol de Fans después de la donación?
+## (PARA NO-FANS) ¿Cómo reclamar el rol de Fans después de la donación?
 
-Si eres un sponsor y no tienes el rol de Fans, puedes saltarte el sign-in de 7 días y reclamar el rol instantáneamente
+Si eres sponsor y no tienes el rol de Fans, puedes saltarte el sign-in de 7 días y reclamar el rol instantáneamente.
 
 ### Paso 1: Abre un ticket
 
@@ -34,18 +34,18 @@ Para hacer eso, necesitas ir al canal de #ticket-start (Solo visible cuando ya t
 
 ![](/assets/images/docs/202312/openticket1.png)
 
-Cuando le des click a 'open', veras un canal nuevo debajo del canal de tickets.
+Cuando le des clic a '<b>open</b>', verás un canal nuevo debajo del canal de tickets.
 
 ![](/assets/images/docs/202312/openticket2.png)
 
-### Paso 2: Rellena el formulario
+### Paso 2: Contesta el formulario
 
-Dale a; botón de 'form link' para rellenar el formulario
+Dale a botón de '<b>form link</b>' para rellenar el formulario.
 
 ![](/assets/images/docs/202312/openticket3.png)
 
-Una vez terminado el formulario, no te olvides de darle al botón de 'Submit'/
+Al completar el formulario, no olvides presionar el botón de '<b>Submit</b>'.
 
 ![](/assets/images/docs/202312/openticket4.png)
 
-Después de eso, espera pacientemente hasta que los staffs revisen tu formulario. Una vez que consigas el rol de Fans, ya estas listo
+Después de eso, espera pacientemente hasta que los staffs revisen tu formulario. Una vez que consigas el rol de Fans, ya estas listo.

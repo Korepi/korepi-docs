@@ -1,13 +1,13 @@
 ---
-title: Fake Time
+title: Фальшивое время
 icon: clock
 category:
-  - Features
+  - Особенности
 tag:
-  - Fake Time
-author: Schvis
+  - Фальшивое время
+author: "Schvis"
 order: 9
 ---
 
-## Фальшивое время:
+## Функция "Фальшивое время":
 - Изменения в игровом времени, часах и минутах.

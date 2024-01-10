@@ -5,7 +5,7 @@ category:
   - Funciones
 tag:
   - Others
-author: Schvis
+author: Schvis, ll33ee
 order: 16
 ---
 
@@ -17,10 +17,10 @@ order: 16
 ### Sin Hierba
 ### Sin Niebla de Mapa
 ### Paimon te sigue
-### Modo Delfín
+### Salto del Delfín
 ### Icono de Maestro de Juego
 ### Desbloqueador de Menu
-## <span style='color:yellow;'>Solo para Sponsor</span>
+## <span style='color:yellow;'>Exclusivo Sponsor</span>
 ### Sin Desenfoque de Cámara
 ### Sin Vibración de Cámara
 ### Sin Huellas

@@ -11,10 +11,10 @@ order: 9
 ::: info Sponsor Only
 :::
 ---
-### Auto Tree Farm lets you punch nearby trees with the selected value and delay, therefore automatically getting wood from nearby trees.
+### تفريم الشجر التلقائي يتيح لك تدمير الأشجار القريبة بالقيمة والتأخير المحددين، وبالتالي الحصول على الخشب تلقائيًا من الأشجار القريبة.
 
-## Example Video:
+## فيديو المثال:
 
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/v95_NOxc4do?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Tree Farm" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
 
-> Note: Not recommended to change default values.
+> ملاحظة: لا يوصى بتغيير القيم العادية.

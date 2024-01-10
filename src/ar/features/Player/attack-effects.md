@@ -2,40 +2,40 @@
 title: Attack Effects
 icon: explosion
 category:
-  - Features
+  - المميزات
 tag:
   - Attack Effects
 author: Schvis
 order: 1
 ---
 
-## Attack Effects: Modifications for your attacks
+## تأثيرات الضربات: تعديلات على ضرباتك
 
 ### Multi-Hit Mode:
-- One Punch Mode: Tries to kill the target with 1 hit.
-> Note: Not recommended to use.
-- Modifies the number of attacks received by the target.
-> Note: Not recommended to go above `5`.
+- One Punch Mode: يحاول قتل الهدف بضربة واحدة.
+> ملاحظة: لا ينصح باستخدامه.
+- يعدل عدد الهجمات التي يتلقاها الهدف.
+> ملحوظة: لا يوصى بالذهاب إلى ما فوق `5`.
 ### Multi-Target:
-- Hit all the targets within the selected radius from the target hit.
-> Note: Not recommended to change default settings.
+- ضرب جميع الأهداف داخل نصف القطر المحدد من إصابة الهدف.
+> ملاحظة: لا يوصى بتغيير الإعدادات الافتراضية.
 ### Multi-Animation:
-- Modifies the number of times the character does an action.
-> Note: Not recommended to use.
+- يعدل عدد المرات التي تقوم فيها الشخصية بإجراء ما.
+> ملاحظة: لا ينصح باستخدامه.
 ### Attack Speed:
-- Modifies the speed of the normal attacks from the player.
-> Note: Not recommended to use above `1.5`.
+- يعدل سرعة الضربات العادية من اللاعب.
+> ملحوظة: لا يُنصح باستخدامه فوق 1.5.
 ### Custom Element:
-- Modifies the element of all outgoing attacks.
+- يعدل عنصر جميع الهجمات الصادرة.
 ### Infuse Element:
-- Modifies the element of normal attacks from sword, polearms and claymore.
+- يعدل عنصر الهجمات العادية من السيف و الرمح والكلايمور.
 ### Auto Weakspot:
-- Hits target weakspot therefore criting, only works with bow users.
-### Critical Hit (<span style='color:yellow;'>Sponsor</span>):
-- Changes the probability of critical hits.
+- يضرب نقطة ضعف الهدف, يعمل فقط مع مستخدمي القوس.
+### Critical Hit (<span style='color:yellow;'>داعم</span>):
+- يغير احتمالية الضربات الحرجة.
 ### Nullify Incoming Element:
-- Will nullify any incoming element converting it to physical damage instead.
+- سيتم إبطال أي عنصر وارد وتحويله إلى ضرر مادي بدلاً من ذلك.
 
-## Example Video:
+## فيديو توضيحي:
 
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/1BdKwxBjWyg?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Attack Effects" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>

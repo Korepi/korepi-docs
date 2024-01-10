@@ -5,15 +5,15 @@ category:
   - Funciones
 tag:
   - Cámara Libre
-author: Schvis
+author: Schvis, ll33ee
 order: 11
 ---
 
 ## Cámara Libre:
-- Te permite mover la cámara sin tener que seguir al personaje.
+- Te permite mover la cámara lejos del personaje.
 ### Congelar Animación del Personaje:
-- Congela Animación del Personaje
+- Congela Animación del Personaje.
 ### Personaje Invisible:
-- Hace que el personaje sea invisible.
-### Bloquear Input del Usuario:
-- Limita el movimiento del jugador pero no el de la cámara.
+- Hace que tu personaje no sea visible.
+### Bloquear Entrada del Usuario:
+- Evita que el personaje se mueva mientras mueves la cámara.

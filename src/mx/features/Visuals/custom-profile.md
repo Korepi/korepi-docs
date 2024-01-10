@@ -5,23 +5,23 @@ category:
   - Funciones
 tag:
   - Perfil Personalizado
-author: Schvis
+author: Schvis, ll33ee
 order: 4
 ---
 
 ## Perfil Personalizado:
 
 ### UID:
-- Cambia el UID a mostrar.
+Cambia la UID que quieres mostrar.
 ### Nickname:
-- Cambia el Nombre a mostrar.
+Cambia el Nombre a mostrar.
 ### Nivel:
-- Cambia el Nivel a mostrar.
+Cambia el Rango de Aventura a mostrar.
 ### EXP:
-- Cambia la experiencia a mostrar.
+Cambia la EXP de Aventura a mostrar.
 ### Nivel de Mundo:
-- Cambia el Nivel de Mundo a mostrar.
+Cambia el Nivel de Mundo a mostrar.
 ### Imagen de Avatar:
-- Cambia la imagen de avatar por un .png a seleccionar.
+Cambia la Foto de Perfil por una imagen png a seleccionar.
 ### Imagen de Tarjeta:
-- Cambia la imagen de la tarjeta por un .png a seleccionar.
+Cambia la Tarjeta por una imagen png a seleccionar.

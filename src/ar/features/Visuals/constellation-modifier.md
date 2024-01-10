@@ -11,12 +11,12 @@ order: 3
 ::: info Sponsor Only
 :::
 ---
-## Constellation Modifier, will change your active character constellations if selected, visually and some of them will actually work.
-- You can find more information about which of them work at `#⁠cons-check` in the server. 
+## تعديل الكونستليشن، سيغير الكونستليشن شخصياتك المختارة. إذا تم تحديدها، ستعمل بصريًا وسيعمل بعضها بالفعل.
+- يمكنك العثور على مزيد من المعلومات حول أي منهم يعمل`#⁠cons-check' في سيرفر الديسكورد. 
 
-::: tip You have to switch to each character you want to activate the constellations first and then teleport far away to activate them.
+::: info عليك التبديل إلى كل شخصية تريد تفعيل الكونستليشن الخاص بها أولاً ثم الانتقال بعيدًا لتنشيطها.
 :::
 ---
-## Example Video:
+## فيديو توضيحي:
 
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/S9-g5weE9l8?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Constellation Modifier (Sponsor)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>

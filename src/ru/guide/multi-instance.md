@@ -5,13 +5,13 @@ category:
   - Руководство
 tag:
   - Начало
-author: Schvis
+author: "Schvis"
 order: 3
 ---
-
-## Как использовать множественные экземпляры (открыть 2 окна игры одновременно)
-
-::: info Работает только с версией Local (V)
-:::
+::: Информация: работает только с локальной версией (V) :::
 ---
-<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/pSAxKoneT64" title="Multi-Instance V (Updated)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
+
+## Как использовать несколько экземпляров (открыть два окна игры одновременно)
+
+---
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/pSAxKoneT64" title="Multi-Instance V (Обновлено)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>

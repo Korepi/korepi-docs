@@ -4,76 +4,71 @@ icon: info
 category:
   - FAQ
 tag:
-  - Start
+  - Начало
 author: Schvis
 order: 1
 ---
 
-## List of FAQ
+## Список Часто Задаваемых Вопросов
 
-### Is Korepi free?
+### Бесплатен ли Korepi?
 
-Yes, it is free, in order to get it for the first time you have to do a 7 days [sign-in](../start/sign-in.md), you can skip this by [Sponsoring](../start/sponsor.md), after that you can get the license every time your key expires.
-
----
-### What is the .rar/.zip password?
-
-...
-
-Its `1234`, please read the download post next time.
+Да, Korepi бесплатен. Однако, чтобы получить его в первый раз, вам потребуется 7 дней для [входа в систему](../start/sign-in.md). Вы можете пропустить этот этап с помощью [Спонсорства](../start/sponsor.md). После этого вы сможете получать лицензионный ключ при окончании срока действия предыдущего.
 
 ---
-### Why my config doesn't save?
+### Какой пароль у архива?
 
-Keep in mind you have to extract the `.rar/.zip` file you got in another folder.
-
-If config is still not saving after this step, please contact with any helper in the server for more help.
+Пароль очень прост, вы можете найти его в канале где скачали версию
 
 ---
-### Where do i find themes?
+### Почему не сохраняется мой Config?
 
-You can find themes for your Korepi on `community share` or you can make your own in Korepi settings.
+Убедитесь, что вы извлекли все файлы из архива `.rar/.zip` в другую папку перед сохранением Config.
+
+Если ваш Config по-прежнему не сохраняется после этого, обратитесь за помощью к любому помощнику на нашем сервере.
+
+---
+### Где найти "Темы" для Korepi?
+
+Вы можете найти темы для вашего Korepi в разделе `community share` или создать свою в настройках Korepi.
 
 ![](/assets/images/docs/202312/theme-settings.png)
 
-Check `Theme Customization` to start making your own theme.
+Посмотрите раздел `Theme Customization`, чтобы начать создание своей темы.
 
 ---
-### Why did my /sign-in streak reset?
+### Почему мой /sign-in был сброшен?
 
-Most likely you surpassed the reset time, it resets daily, if you skip 1 day it will reset entirely
+Скорее всего, вы превысили время сброса. Оно происходит ежедневно, и если вы пропустите 1 день, все ваши дни сбросятся.
 
-::: info Reset time is at GMT/UTC+8 00:00 everyday. Please convert to your timezone.
-:::
+::: Информация: Сброс происходит в 00:00 каждый день по времени GMT/UTC+8. Пожалуйста, учтите это для своего часового пояса :::
 ---
 
-### Can i use Korepi when a new update comes?
+### Могу ли я использовать Korepi после нового обновления?
 
-No, you need to wait till a new Korepi version gets released.
+Нет, вам нужно подождать, пока не выйдет новая версия Korepi.
 
-::: info Using the old injector wont work, Korepi update takes 1-2 weeks approximately.
-:::
+::: Информация: Использование старого инжектора не будет работать, обновление Korepi занимает примерно 1-2 недели :::
 ---
 
-### Why the menu doesn't appear in game?
+### Почему меню не появляется в моей игре?
 
-Make sure you have disabled every overlay(MSI Afterburner, GeForce Experience, etc.) before launching korepi.
-
----
-### Where do i get <span style='color:yellow;'>Sponsor</span> and how much it is?
-
-You can get [Sponsor](../start/sponsor.md) from the links provided in `#sponsorship` in the server.
-
-In order to get the Sponsor role, you need to donate at least 5$, any other donation below 5$ will be ignored.
+Убедитесь, что вы отключили все оверлеи (например: MSI Afterburner, GeForce Experience и другие) перед запуском Korepi.
 
 ---
-### Why my game crashes in loading screen?
+### Где получить <span style='color:D0E31B;'>Спонсор</span>'а и сколько это стоит?
 
-If you get a error like this:
+Вы можете получить [Спонсорство](../start/sponsor.md), перейдя по ссылкам в канале `#sponsorship` в Discord Korepi.
 
-`atidxx64.dll caused an Access Violation (0xc0000005) in module atidxx64.dll at 0033:43d1356c.`
+Чтобы получить роль Спонсора, вам нужно сделать пожертвование не менее 5$. Пожертвования меньше 5$ будут проигнорированы.
 
-Please update your drivers and try again.
+---
+### Почему моя игра вылетает на экране загрузки?
 
-If you don't get that error, try setting more delay on launch on `cfg.ini`.
+Если вы видите ошибку, наподобие:
 
+`atidxx64.dll вызвало нарушение доступа (0xc0000005) в модуле atidxx64.dll по адресу 0033:43d1356c.`
+
+Пожалуйста, обновите ваши драйверы и попробуйте еще раз.
+
+Если у вас другая ошибка, попробуйте установить более длительную задержку в `cfg.ini`, а затем запустите игру снова.

@@ -26,6 +26,11 @@ export const zhSidebar = sidebar({
       icon: "info-circle",
       prefix: "troubleshoot/",
       children: "structure",
+    },{
+      text: "其他",
+      icon: "info-circle",
+      prefix: "others/",
+      children: "structure",
     },
   ],
 });

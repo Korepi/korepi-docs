@@ -1,5 +1,5 @@
 ---
-title: Catalog
+title: فهرس
 icon: book
 category:
   - Guide
@@ -8,4 +8,4 @@ tag:
 author: QweRez
 ---
 
-<AutoCatalog />)
+<AutoCatalog />

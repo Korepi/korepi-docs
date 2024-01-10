@@ -5,11 +5,11 @@ category:
   - Funciones
 tag:
   - Auto Correr
-author: Schvis
+author: Schvis, ll33ee
 order: 2
 ---
 
-## Auto Correr mueve al personaje automaticamente hacia la dirección que esta mirando.
+## Auto Correr mueve al personaje automáticamente hacia la dirección en que mira el personaje.
 
 ## Video de Ejemplo:
 

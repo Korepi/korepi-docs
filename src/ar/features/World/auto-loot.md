@@ -9,11 +9,11 @@ author: Schvis, Chloe
 order: 6
 ---
 
-## Auto loot lets you auto collect loot withing the selected range and delay, the loot that will be collected can be customized, including chests, mob drops and more.
+## يتيح لك آخذ الغنائم التلقائي بجمع الغنائم تلقائيًا مع النطاق والتأخير المحددين، ويمكن تخصيص الغنائم التي سيتم جمعها، بما في ذلك الصناديق وإسقاطات الوحوش والمزيد.
 
-## Example Video:
+## فيديو المثال:
 
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/wUyI2XO_Z4E?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Loot" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
 
-> Note: Recommended below `10m` for normal use and `20m` if using custom tp.
-> Note 2: Higher the distance higher delay should be used.
+> ملحوظة: يوصى به ادنى من "عشرة أمتار" للاستخدام العادي و"عشرين مترًا" في حالة استخدام الانتقال المخصص.
+> ملاحظة أخرى: كلما زادت المسافة، يجب استخدام تأخير أعلى.

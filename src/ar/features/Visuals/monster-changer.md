@@ -10,10 +10,10 @@ order: 14
 ---
 
 ## Monster Changer:
-- When enabled, all new rendered monsters will be changed visually to the selected monster.
+- عند التمكين، سيتم تغيير جميع الوحوش الجديدة بشكل مرئي إلى الوحش المختارة.
 ### Exclude Animals:
-- Enable or Disable changing animals.
+- تفعيل أو تعطيل تغيير الحيوانات.
 ### Custom Monster ID:
-- Use ID instead of the provided list.
+- استخدم المعرف بدلاً من القائمة المتوفرة للوحوش.
 ### Randomize Monster:
-- The change will be random.
+- التغيير سيكون عشوائيا.

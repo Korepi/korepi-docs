@@ -1,17 +1,17 @@
 ---
-title: Teletransporte de Oculus
+title: Teletransporte a Oculus
 icon: person-rays
 category:
   - Funciones
 tag:
-  - Teletransporte de Oculus
-author: Schvis
+  - Teletransporte a Oculus
+author: Schvis, ll33ee
 order: 1
 ---
 
-## Teletransporte de Oculus te teletransportara al oculus más cercano renderizado.
+## Teletransporte a Óculus te teletransportará al oculus más cercano renderizado.
 
-> Nota: Espera `>15s` entre teletransportes por seguridad.
+> Nota: Por seguridad, espera `15s` cada vez que teletransportes.
 
 ## Video de Ejemplo:
 

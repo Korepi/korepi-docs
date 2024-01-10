@@ -2,27 +2,27 @@
 title: No Clip
 icon: person-walking-dashed-line-arrow-right
 category:
-  - Features
+  - المميزات
 tag:
   - No Clip
 author: Schvis
 order: 9
 ---
 
-## No Clip will allow you to have no collision, move faster and fly.
+## يسمح لك وضع بدون خطوات بعدم الاصطدام والتحرك بشكل أسرع والطيران.
 ### No Animation:
-- When enabled it will disable animations of the character while using no clip.
+- عند تمكينه، سيتم تعطيل الرسوم المتحركة للشخصية أثناء استخدام بدون خطوات.
 ### Camera-relative movement:
-- When enabled, character will move based on camera view instead of where the character is facing.
+- عند التمكين، ستتحرك الشخصية بناءً على عرض الكاميرا بدلاً من المكان الذي تواجهه الشخصية.
 ### Alternate No-Clip:
-- When enabled, no clip speed will change after pressing the selected hotkey at the designed speed.
+- عند التمكين، ستتغير سرعة بدون خطوات بعد الضغط على مفتاح التشغيل السريع المحدد بالسرعة المصممة.
 ### Use Custom Keys:
-- Enables the option to change no-clip directional controls.
+- لتمكين خيار تغيير عناصر التحكم في الاتجاه بدون خطوات.
 ### DragBack Bypass:
-- Prevents the server to drag the character back due to excessive speed.
+- يمنع الخادم من سحب الشخصية مرة أخرى بسبب السرعة الزائدة.
 
-> Note: Not recommended to use above `20`.
+> ملحوظة: لا يُنصح باستخدامه فوق 20.
 
-## Example Video:
+## فيديو توضيحي:
 
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/nPdq-yzBt3k?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - NoClip" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
