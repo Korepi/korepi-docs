@@ -10,7 +10,8 @@ author: Double
 order: 3
 ---
 ---
-::: tip <span style="color:#f1c40f;">赞助者</span>每个月3点额度，可以用于切换korepi的版本和更换设备hwid。
+::: tip <span style="color:#f1c40f;">赞助者</span>每个月4点额度，可以用于切换korepi的版本和更换设备hwid。使用重置键，如果失败，再使用一次重置即可。
+>注意：请不要乱使用重置，以免浪费本月的重置机会。
 
 使用🔄 Change Version 花费2个额度，其余1个额度。
 :::
