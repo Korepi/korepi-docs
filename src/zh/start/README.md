@@ -21,3 +21,5 @@ author: QweRez
 - [下载](download.md)
 
 - [如何设置Korepi中文](setting-language-zh.md)
+
+- [Korepi中文公告](news.md)
