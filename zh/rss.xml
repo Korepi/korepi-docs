@@ -6,17 +6,30 @@
     <link>https://korepi.com/zh/</link>
     <description>Korepi 中文文档介绍</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 10 Jan 2024 15:56:28 GMT</pubDate>
-    <lastBuildDate>Wed, 10 Jan 2024 15:56:28 GMT</lastBuildDate>
+    <pubDate>Thu, 11 Jan 2024 16:42:21 GMT</pubDate>
+    <lastBuildDate>Thu, 11 Jan 2024 16:42:21 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-    <category>其他</category>
     <category>指南</category>
+    <category>其他</category>
     <category>问题解答</category>
     <category>Features</category>
     <category>功能</category>
     <category>Guide</category>
     <category>Troubleshoot</category>
+    <item>
+      <title>Korepi中文公告</title>
+      <link>https://korepi.com/zh/start/news.html</link>
+      <guid>https://korepi.com/zh/start/news.html</guid>
+      <source url="https://korepi.com/zh/rss.xml">Korepi中文公告</source>
+      <description>Korepi中文公告 1.找到role频道，选择点击Chinese pings。 2.找到Korepi中文公告频道，即可获取Korepi中文公告信息。</description>
+      <category>指南</category>
+      <pubDate>Thu, 11 Jan 2024 11:32:33 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Korepi中文公告</h2>
+<p>1.找到role频道，选择点击Chinese pings。</p>
+<p>2.找到Korepi中文公告频道，即可获取Korepi中文公告信息。</p>
+]]></content:encoded>
+    </item>
     <item>
       <title>其他</title>
       <link>https://korepi.com/zh/others/</link>
@@ -1795,7 +1808,7 @@ CN</li>
       <link>https://korepi.com/zh/start/download.html</link>
       <guid>https://korepi.com/zh/start/download.html</guid>
       <source url="https://korepi.com/zh/rss.xml">下载Korepi</source>
-      <description>介绍 欢迎来到我们的社区！要通过机器人检查并获得Newcomer角色，请按照以下步骤进行。 1.加入我们的服务器并获得Newcomer和`Fans角色 如果您还没有加入服务器，请阅读验证帖子，了解如何加入服务器并获得Newcomer和Fans角色。 2.进入频道 ★⋅korepi-version-roles⋅★ 找到频道 ★⋅korepi-versio...</description>
+      <description>介绍 欢迎来到我们的社区！要通过机器人检查并获得Newcomer角色，请按照以下步骤进行。 1.加入我们的服务器并获得Newcomer和`Fans角色 如果您还没有加入服务器，请阅读验证帖子，了解如何加入服务器并获得Newcomer和Fans角色。 2.进入频道 ★⋅korepi-version-roles⋅★ 在频道中找到links下的 ★korep...</description>
       <category>指南</category>
       <pubDate>Thu, 30 Nov 2023 10:24:26 GMT</pubDate>
       <content:encoded><![CDATA[<h1> 下载</h1>
@@ -1804,11 +1817,39 @@ CN</li>
 <h2> 1.加入我们的服务器并获得<code>Newcomer</code>和<code>Fans</code>角色</h2>
 <p>如果您还没有加入服务器，请阅读验证帖子，了解如何加入服务器并获得<code>Newcomer</code>和<code>Fans</code>角色。</p>
 <h2> 2.进入频道 <code>★⋅korepi-version-roles⋅★</code></h2>
-<p>找到频道 <code>★⋅korepi-version-roles⋅★</code> 并选择 F 或 V 版本的角色。我们建议选择 V 角色。</p>
+<h3> 在频道中找到links下的 ★korepi-verison-roles★ 频道，点击并进入。</h3>
+<ul>
+<li>选择你所需要的版本密钥身份，如下图：</li>
+</ul>
+<p></p>
+<h2> 点击F-Auth或者V-Auth</h2>
+<p></p>
+<div class="hint-container tip">
+<p class="hint-container-title">提示</p>
+<h1> korepi的F版本和V版本不区分所使用的服务器，F与V只是验证方式。</h1>
+<ul>
+<li>F是网络验证方式，中国大陆部分地区可能连接不上。</li>
+<li>V是本地验证方式，建议中国大陆用户使用此版本。</li>
+</ul>
+</div>
+<ul>
+<li>获取身份后会显示下图：
+</li>
+</ul>
 <h2> 3.下载必要的资源</h2>
-<p>之后，您将获得访问相应下载频道的权限：<code>★⋅f-download⋅★</code> 或 <code>★⋅v-download⋅★</code>。</p>
+<p>之后，您将获得访问相应下载频道的权限：<code>★⋅online-f-download⋅★</code> 或 <code>★⋅local-v-download⋅★</code>。</p>
+<blockquote>
+<div class="hint-container tip">
+<p class="hint-container-title">如果找不到频道，先确认自己是否打开频道全显示。</p>
+</div>
+</blockquote>
 <h2> 4.准备好！</h2>
 <p>在频道中，您将找到指向当前版本和存档密码的链接。祝你好运！</p>
+<h2> 5.如何使用密钥。</h2>
+<p><a href="/zh/guide/key-use.html" target="blank">如何获取并使用密钥</a></p>
+<div class="hint-container danger">
+<p class="hint-container-title">请按照步骤操作，否则将无法下载和使用。</p>
+</div>
 ]]></content:encoded>
     </item>
     <item>
@@ -1889,7 +1930,7 @@ CN</li>
       <link>https://korepi.com/zh/start/</link>
       <guid>https://korepi.com/zh/start/</guid>
       <source url="https://korepi.com/zh/rss.xml">开始</source>
-      <description>目录加入服务器 (join.md); 验证 (verify.md); 获取 Fans 角色 (sign-in.md); 捐赠 (donate.md); 下载 (download.md); 如何设置Korepi中文 (setting-language-zh.md);</description>
+      <description>目录加入服务器 (join.md); 验证 (verify.md); 获取 Fans 角色 (sign-in.md); 捐赠 (donate.md); 下载 (download.md); 如何设置Korepi中文 (setting-language-zh.md); Korepi中文公告 (news.md);</description>
       <category>指南</category>
       <pubDate>Fri, 24 Nov 2023 14:31:46 GMT</pubDate>
       <content:encoded><![CDATA[<h2> 目录</h2>
@@ -1911,6 +1952,9 @@ CN</li>
 </li>
 <li>
 <p><a href="/zh/start/setting-language-zh.html" target="blank">如何设置Korepi中文</a></p>
+</li>
+<li>
+<p><a href="/zh/start/news.html" target="blank">Korepi中文公告</a></p>
 </li>
 </ul>
 ]]></content:encoded>
