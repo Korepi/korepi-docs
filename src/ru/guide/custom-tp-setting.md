@@ -45,3 +45,7 @@ order: 6
 ### Шаг 5: Наслаждайтесь поездкой
 
 Телепорты запустятся автоматически. Если у вас есть [Спонсор](../start/sponsor.md), вы сможете видеть прогресс и оставшееся время.
+
+## Video
+
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/1ft6xYr2EmM" title="Part 1 - How to Use &#39;Custom Teleports&#39; in Colorpicker or Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
