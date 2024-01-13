@@ -34,3 +34,7 @@ order: 7
 ![](/assets/images/docs/202312/virus4.png)
 
 Нажмите "Да" во всплывающем окне, затем нажмите `Add an Exclusion`. Нам нужно добавить в исключение папку, поэтому выберите `Исключить папку`, затем найдите и добавьте папку Korepi.
+
+## Video
+
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/BonLkFNnO9w" title="How to Exclude a File or Folder from Windows Defender Scan In Windows 10 [Tutorial]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>

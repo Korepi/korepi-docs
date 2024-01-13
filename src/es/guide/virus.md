@@ -35,3 +35,7 @@ Después de seguir el paso anterior, bajaremos hasta encontrar `Exclusiones` and
 ![](/assets/images/docs/202312/virus4.png)
 
 Dale a `Si` en la ventana, y le damos a `Agregar Exclusión` y seleccionamos `Carpeta`, entonces seleccionamos la carpeta de Korepi.
+
+## Video
+
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/BonLkFNnO9w" title="How to Exclude a File or Folder from Windows Defender Scan In Windows 10 [Tutorial]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
