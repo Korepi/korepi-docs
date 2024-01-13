@@ -3,7 +3,7 @@ title: Изменение анимации персонажа
 icon: people-arrows
 category:
   - Особенности
-tags:
+tag:
   - Изменение анимации персонажа
 author: "Schvis"
 order: 1

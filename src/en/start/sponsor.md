@@ -35,6 +35,7 @@ Send your proof to the newly created channel `#proof-yourname`, and then wait fo
 ### Step 3:
 
 If everything went right, and the proof is valid you will receive your  <span style='color:yellow;'>Sponsor</span> role.
+
 ## (FOR NON-FANS) How to claim Fans role after donation?
 
 If you are a  <span style='color:yellow;'>Sponsor</span> and do not have Fans role, you can skip the 7-days sign-in and claim the role instantly

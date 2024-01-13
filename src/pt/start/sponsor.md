@@ -20,9 +20,21 @@ Quando estiver no servidor, por favor, vá para o canal [#sponsorship](https://d
 
 ## O que fazer depois de doar?
 
-Se você já doou, pode enviar as evidências a qualquer um dos moderadores disponíveis. Por favor, certifique-se de mostrar os prints ou o link da doação como prova.
+### Step 1:
 
-![](/assets/images/docs/202312/proof.png)
+If you already donated, you can start a ticket at [#sponsorship-proof-ticket](https://discord.com/channels/1069057220802781265/1195466175954550885), and click on `Send Proofs`.
+
+![](/assets/images/docs/202312/sponsor-new.png)
+
+### Step 2: 
+
+Send your proof to the newly created channel `#proof-yourname`, and then wait for a Mod to review the proof.
+
+![](/assets/images/docs/202312/sponsor-new2.png)
+
+### Step 3:
+
+If everything went right, and the proof is valid you will receive your  <span style='color:yellow;'>Sponsor</span> role.
 
 ## (PARA NÃO-FANS) Como reivindicar o cargo de Fans após a doação?
 
