@@ -28,9 +28,19 @@ order: 6
 
  ![](images/image-1.png)
 
-## ③ @micah-sign-bot 私信鸭子发送 /donate，再回复订单号 即可获得<span style="color:#f1c40f;">赞助者</span>身份
+## ③ @micah-sign-bot 私信鸭子发送 /start，再回复订单号 即可获得<span style="color:#f1c40f;">赞助者</span>身份
+ - <span style="color:red;">找到Micah-sign-bot，私聊他发送/start指令。</span>
+ 
+![](images/micah-sign-bot.png)
+ 
+ - <span style="color:red;">输入/start后会弹出指令，选择指令。</span>
 
- ![](images/image-2.png)
+ ![](images\sign-in-4.png)
+
+- <span style="color:red;">然后点击爱发电捐赠，输入订单号 。</span>
+
+ ![](images\sign-in-3.png)
+
 
 ---
 
