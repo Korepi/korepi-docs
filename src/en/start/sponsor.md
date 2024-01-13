@@ -12,7 +12,7 @@ order: 4
 
 ## How to become a <span style='color:yellow;'>Sponsor</span>?
 
-To becoming a Sponsor, you need to donate atleast $5 or equivalent if you are using another currency.
+To becoming a  <span style='color:yellow;'>Sponsor</span>, you need to donate atleast $5 or equivalent if you are using another currency.
 
 ## Where to donate?
 
@@ -20,13 +20,24 @@ Once you already in the server, please go to [#sponsorship](https://discord.com/
 
 ## What to do after I done donated?
 
-If you already donated, you can send your proof to any available moderators. Please make sure to provide screenshots or donation link as proof.
+### Step 1:
 
-[![](https://i.postimg.cc/3xjf2b38/proof.png)](https://postimg.cc/MnTYS5cN)
+If you already donated, you can start a ticket at [#sponsorship-proof-ticket](https://discord.com/channels/1069057220802781265/1195466175954550885), and click on `Send Proofs`.
 
+![](/assets/images/docs/202312/sponsor-new.png)
+
+### Step 2: 
+
+Send your proof to the newly created channel `#proof-yourname`, and then wait for a Mod to review the proof.
+
+![](/assets/images/docs/202312/sponsor-new2.png)
+
+### Step 3:
+
+If everything went right, and the proof is valid you will receive your  <span style='color:yellow;'>Sponsor</span> role.
 ## (FOR NON-FANS) How to claim Fans role after donation?
 
-If you are a Sponsor and do not have Fans role, you can skip the 7-days sign-in and claim the role instantly
+If you are a  <span style='color:yellow;'>Sponsor</span> and do not have Fans role, you can skip the 7-days sign-in and claim the role instantly
 
 ### Step 1: Open a ticket
 
