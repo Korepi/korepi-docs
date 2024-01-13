@@ -1,26 +1,26 @@
 ---
-title: Differences between versions
+title: F版本和V版本的区别
 icon: server
 category:
-  - Guide
+  - 指南
 tag:
   - Start
-author: Schvis
-order: 5
+author: Schvis，Double
+order: 9
 ---
 
-# Differences between V and F version.
+# F版本和V版本的区别。
 
-## Key differences between V and F version
+## F版本和V版本的密钥区别
 
-|Version |F Version|V Version|
+|版本|F 版本|V 版本|
 |-----|--------|--------|
-|Features|Same|Same|
-|Update Notice|<span style='color:red;'>X</span>|<span style='color:green;'>✓</span>|
-|[Multi-Instance](../guide/Multi-korepi.md)|<span style='color:red;'>X</span>|<span style='color:green;'>✓</span>|
-|Set-up|Easy|Mid-Hard|
-|Problem Solving|Easy|Mid-Hard|
-|Authentication|Key Verification|File Verification|
-## Which version should i use?
+|功能|一样|一样|
+|更新公告|<span style='color:red;'>X</span>|<span style='color:green;'>✓</span>|
+|[多开](../guide/Multi-korepi.md)|<span style='color:red;'>X</span>|<span style='color:green;'>✓</span>|
+|设置|简单|较难|
+|问题解决|简单|较难|
+|验证方式|密钥验证|密钥文件验证|
+## 我应该使用哪个版本?
 
-For the <span style='color:yellow;'>Sponsor</span> users you can use any of the versions according to your needs. For Fans is recommended to use V version since its more stable and the set-up is more reliable as it is for now.
+在中国大陆，建议使用V版本。其他地方随意使用任意版本。
