@@ -6,8 +6,8 @@
     <link>https://korepi.com/pt/</link>
     <description>Ajuda em Korepi</description>
     <language>pt-BR</language>
-    <pubDate>Thu, 11 Jan 2024 16:42:21 GMT</pubDate>
-    <lastBuildDate>Thu, 11 Jan 2024 16:42:21 GMT</lastBuildDate>
+    <pubDate>Sat, 13 Jan 2024 10:16:15 GMT</pubDate>
+    <lastBuildDate>Sat, 13 Jan 2024 10:16:15 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Guide</category>
@@ -15,6 +15,61 @@
     <category>Funções</category>
     <category>Guia</category>
     <category>Erros</category>
+    <item>
+      <title>Differences between versions</title>
+      <link>https://korepi.com/pt/start/differences.html</link>
+      <guid>https://korepi.com/pt/start/differences.html</guid>
+      <source url="https://korepi.com/pt/rss.xml">Differences between versions</source>
+      <description>Key differences between V and F version Version F VersionV Version --------------------- FeaturesSameSame Update NoticeX✓ Multi-Instance (../guide/multi-instance.md)X✓ Set-upEas...</description>
+      <category>Guide</category>
+      <pubDate>Sat, 13 Jan 2024 00:53:24 GMT</pubDate>
+      <content:encoded><![CDATA[<h1> Differences between V and F version.</h1>
+<h2> Key differences between V and F version</h2>
+<table>
+<thead>
+<tr>
+<th>Version</th>
+<th>F Version</th>
+<th>V Version</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Features</td>
+<td>Same</td>
+<td>Same</td>
+</tr>
+<tr>
+<td>Update Notice</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td><a href="/pt/guide/multi-instance.html" target="blank">Multi-Instance</a></td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Set-up</td>
+<td>Easy</td>
+<td>Mid-Hard</td>
+</tr>
+<tr>
+<td>Problem Solving</td>
+<td>Easy</td>
+<td>Mid-Hard</td>
+</tr>
+<tr>
+<td>Authentication</td>
+<td>Key Verification</td>
+<td>File Verification</td>
+</tr>
+</tbody>
+</table>
+<h2> Which version should i use?</h2>
+<p>For the <span style="color:yellow;">Sponsor</span> users you can use any of the versions according to your needs. For Fans is recommended to use V version since its more stable and the set-up is more reliable as it is for now.</p>
+]]></content:encoded>
+    </item>
     <item>
       <title>How to add to exclusion list</title>
       <link>https://korepi.com/pt/guide/virus.html</link>
@@ -67,7 +122,7 @@
 <p><img src="/assets/images/docs/202312/theme-settings.png" alt="" loading="lazy"></p>
 <p>Check <code>Theme Customization</code> to start making your own theme.</p>
 <hr>
-<h3> Why did my /sign-in streak reset?</h3>
+<h3> Why did my /start streak reset?</h3>
 <p>Most likely you surpassed the reset time, it resets daily, if you skip 1 day it will reset entirely</p>
 <div class="hint-container info">
 <p class="hint-container-title">Reset time is at GMT/UTC+8 00:00 everyday. Please convert to your timezone.</p>
@@ -1311,6 +1366,8 @@ Para usar skins personalizadas no Korepi, você precisará baixar o aplicativo</
 <p><img src="/assets/images/docs/202312/teleport4.png" alt="" loading="lazy"></p>
 <h3> Passo 5: Aproveitar</h3>
 <p>Agora os teletransportes começarão, se você tiver o <a href="/pt/start/sponsor.html" target="blank">Sponsor</a> haverá um contador de tempo mostrando quanto tempo levará.</p>
+<h2> Video</h2>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/h_1KH57ZI3Q" title="Como Utilizar Teleportes Personalizados" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 ]]></content:encoded>
       <enclosure url="https://korepi.com/assets/images/docs/202312/teleport1.png" type="image/png"/>
     </item>
@@ -1469,7 +1526,7 @@ Para usar skins personalizadas no Korepi, você precisará baixar o aplicativo</
 <p>Agora você precisa encontrar o bot com a imagem de um ganso e enviar uma mensagem direta a ele (micah-sign-bot#0245).</p>
 <p><img src="/assets/images/docs/202312/signin1.png" alt="Sign-in" loading="lazy"></p>
 <h3> Passo 3: Como começar</h3>
-<p>Envie o comando <code>/sign-in</code>, resolva o captcha. Nota: se o bot não responder à solução do captcha, provavelmente você o digitou incorretamente. Tente escrever o captcha novamente (sem o comando). Se estiver correto, o bot enviará a seguinte mensagem "Consecutive &lt; dias &gt; dias".</p>
+<p>Envie o comando <code>/start</code>, resolva o captcha. Nota: se o bot não responder à solução do captcha, provavelmente você o digitou incorretamente. Tente escrever o captcha novamente (sem o comando). Se estiver correto, o bot enviará a seguinte mensagem "Consecutive &lt; dias &gt; dias".</p>
 <p><img src="/assets/images/docs/202312/signin2.png" alt="Sign-in" loading="lazy"></p>
 <p><img src="/assets/images/docs/202312/signin3.png" alt="Sign-in" loading="lazy"></p>
 <h3> Passo 4: Depois de receber o papel de "Fans"</h3>

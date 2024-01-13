@@ -6,14 +6,69 @@
     <link>https://korepi.com/mx/</link>
     <description>Ayuda en Korepi</description>
     <language>es-MX</language>
-    <pubDate>Thu, 11 Jan 2024 16:42:21 GMT</pubDate>
-    <lastBuildDate>Thu, 11 Jan 2024 16:42:21 GMT</lastBuildDate>
+    <pubDate>Sat, 13 Jan 2024 10:16:15 GMT</pubDate>
+    <lastBuildDate>Sat, 13 Jan 2024 10:16:15 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Guía</category>
     <category>Funciones</category>
     <category>Errores</category>
     <category>FAQ</category>
+    <item>
+      <title>Diferencias entre versiones</title>
+      <link>https://korepi.com/mx/start/differences.html</link>
+      <guid>https://korepi.com/mx/start/differences.html</guid>
+      <source url="https://korepi.com/mx/rss.xml">Diferencias entre versiones</source>
+      <description>Diferencias claves entre versiones Versión Versión FVersión V --------------------- FuncionesIgualesIguales Update NoticeX✓ Multi-Instance (../guide/multi-instance.md)X✓ Instala...</description>
+      <category>Guía</category>
+      <pubDate>Sat, 13 Jan 2024 00:53:24 GMT</pubDate>
+      <content:encoded><![CDATA[<h1> Diferencias entre versión F y V</h1>
+<h2> Diferencias claves entre versiones</h2>
+<table>
+<thead>
+<tr>
+<th>Versión</th>
+<th>Versión F</th>
+<th>Versión V</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Funciones</td>
+<td>Iguales</td>
+<td>Iguales</td>
+</tr>
+<tr>
+<td>Update Notice</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td><a href="/mx/guide/multi-instance.html" target="blank">Multi-Instance</a></td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Instalación</td>
+<td>Fácil</td>
+<td>Medio-Difícil</td>
+</tr>
+<tr>
+<td>Resolución de problemas</td>
+<td>Fácil</td>
+<td>Medio-Difícil</td>
+</tr>
+<tr>
+<td>Autenticación</td>
+<td>Verificación con clave</td>
+<td>Verificación con archivo</td>
+</tr>
+</tbody>
+</table>
+<h2> Que versión debería usar?</h2>
+<p>Si eres <span style="color:yellow;">Sponsor</span> puedes usar cualquiera de las dos dependiendo de tus necesidades. Para los Fans es recomendado usar la versión V por ahora ya que es más estable en este momento.</p>
+]]></content:encoded>
+    </item>
     <item>
       <title>Como añadir a exclusiones</title>
       <link>https://korepi.com/mx/guide/virus.html</link>
@@ -157,6 +212,8 @@ Para poder usar skins personalizadas en Korepi tendremos que descargar la aplica
 <p><img src="/assets/images/docs/202312/teleport4.png" alt="" loading="lazy"></p>
 <h3> Paso 5: Disfrutar</h3>
 <p>Ahora los teletransportes empezarán, si tienes <a href="/mx/start/sponsor.html" target="blank">Sponsor</a> habrá un contador del tiempo que tardara.</p>
+<h2> Video</h2>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/1ft6xYr2EmM" title="Part 1 - How to Use 'Custom Teleports' in Colorpicker or Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 ]]></content:encoded>
       <enclosure url="https://korepi.com/assets/images/docs/202312/teleport1.png" type="image/png"/>
     </item>
@@ -317,7 +374,7 @@ Para poder usar skins personalizadas en Korepi tendremos que descargar la aplica
 <p>Ahora necesitas encontrar al bot con la imagen de un ganso y mandarle un mensaje directo (micah-sign-bot#0245).</p>
 <p><img src="/assets/images/docs/202312/signin1.png" alt="Sign-in" loading="lazy"></p>
 <h3> Paso 3: Como empezar</h3>
-<p>Envíale el comando <code>/sign-in</code>, resuelve el captcha. Nota: si el bot no te responde al la solución del captcha, seguramente lo haya hecho incorrectamente. Prueba a escribir el captcha de nuevo (sin el comando). Si es correcto, el bot te mandara el siguiente mensaje "Consecutive <code>&lt;días&gt;</code> days".</p>
+<p>Envíale el comando <code>/start</code>, resuelve el captcha. Nota: si el bot no te responde al la solución del captcha, seguramente lo haya hecho incorrectamente. Prueba a escribir el captcha de nuevo (sin el comando). Si es correcto, el bot te mandara el siguiente mensaje "Consecutive <code>&lt;días&gt;</code> days".</p>
 <p><img src="/assets/images/docs/202312/signin1.png" alt="Sign-in" loading="lazy"></p>
 <p><img src="/assets/images/docs/202312/signin1.png" alt="Sign-in" loading="lazy"></p>
 <h3> Paso 4: Después de recibir el rol de "Fans"</h3>

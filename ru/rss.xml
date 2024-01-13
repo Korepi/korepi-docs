@@ -6,15 +6,71 @@
     <link>https://korepi.com/ru/</link>
     <description>Помощь по Korepi</description>
     <language>ru-RU</language>
-    <pubDate>Thu, 11 Jan 2024 16:42:21 GMT</pubDate>
-    <lastBuildDate>Thu, 11 Jan 2024 16:42:21 GMT</lastBuildDate>
+    <pubDate>Sat, 13 Jan 2024 10:16:15 GMT</pubDate>
+    <lastBuildDate>Sat, 13 Jan 2024 10:16:15 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+    <category>Guide</category>
     <category>Руководство</category>
     <category>FAQ</category>
     <category>Особенности</category>
     <category>Устранение Неполадок</category>
     <category>Гайд</category>
+    <item>
+      <title>Differences between versions</title>
+      <link>https://korepi.com/ru/start/differences.html</link>
+      <guid>https://korepi.com/ru/start/differences.html</guid>
+      <source url="https://korepi.com/ru/rss.xml">Differences between versions</source>
+      <description>Key differences between V and F version Version F VersionV Version --------------------- FeaturesSameSame Update NoticeX✓ Multi-Instance (../guide/multi-instance.md)X✓ Set-upEas...</description>
+      <category>Guide</category>
+      <pubDate>Sat, 13 Jan 2024 00:53:24 GMT</pubDate>
+      <content:encoded><![CDATA[<h1> Differences between V and F version.</h1>
+<h2> Key differences between V and F version</h2>
+<table>
+<thead>
+<tr>
+<th>Version</th>
+<th>F Version</th>
+<th>V Version</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Features</td>
+<td>Same</td>
+<td>Same</td>
+</tr>
+<tr>
+<td>Update Notice</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td><a href="/ru/guide/multi-instance.html" target="blank">Multi-Instance</a></td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Set-up</td>
+<td>Easy</td>
+<td>Mid-Hard</td>
+</tr>
+<tr>
+<td>Problem Solving</td>
+<td>Easy</td>
+<td>Mid-Hard</td>
+</tr>
+<tr>
+<td>Authentication</td>
+<td>Key Verification</td>
+<td>File Verification</td>
+</tr>
+</tbody>
+</table>
+<h2> Which version should i use?</h2>
+<p>For the <span style="color:yellow;">Sponsor</span> users you can use any of the versions according to your needs. For Fans is recommended to use V version since its more stable and the set-up is more reliable as it is for now.</p>
+]]></content:encoded>
+    </item>
     <item>
       <title>Как добавить в исключение</title>
       <link>https://korepi.com/ru/guide/virus.html</link>
@@ -63,7 +119,7 @@
 <p><img src="/assets/images/docs/202312/theme-settings.png" alt="" loading="lazy"></p>
 <p>Посмотрите раздел <code>Theme Customization</code>, чтобы начать создание своей темы.</p>
 <hr>
-<h3> Почему мой /sign-in был сброшен?</h3>
+<h3> Почему мой /start был сброшен?</h3>
 <p>Скорее всего, вы превысили время сброса. Оно происходит ежедневно, и если вы пропустите 1 день, все ваши дни сбросятся.</p>
 <h2> ::: Информация: Сброс происходит в 00:00 каждый день по времени GMT/UTC+8. Пожалуйста, учтите это для своего часового пояса :::</h2>
 <h3> Могу ли я использовать Korepi после нового обновления?</h3>
@@ -190,6 +246,8 @@ pass korepi</p>
 <p><img src="/assets/images/docs/202312/teleport4.png" alt="" loading="lazy"></p>
 <h3> Шаг 5: Наслаждайтесь поездкой</h3>
 <p>Телепорты запустятся автоматически. Если у вас есть <a href="/ru/start/sponsor.html" target="blank">Спонсор</a>, вы сможете видеть прогресс и оставшееся время.</p>
+<h2> Video</h2>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/1ft6xYr2EmM" title="Part 1 - How to Use 'Custom Teleports' in Colorpicker or Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 ]]></content:encoded>
       <enclosure url="https://korepi.com/assets/images/docs/202312/teleport1.png" type="image/png"/>
     </item>
@@ -1589,7 +1647,7 @@ pass korepi</p>
 <p>Теперь вам нужно найти бота с изображением гуся и написать ему в личные сообщения (micah-sign-bot#0245).</p>
 <p><img src="/assets/images/docs/202312/signin1.png" alt="Sign-in" loading="lazy"></p>
 <h2> Шаг 3: Начало</h2>
-<p>Напишите ему команду <code>/sign-in</code>, решите капчу. Примечание: если бот не отвечает на ваш запрос с капчей, вероятно, вы ввели её неверно. Попробуйте написать капчу еще раз (без команды). После успешного ввода бот отправит вам сообщение "Consecutive &lt;количество дней&gt; days".</p>
+<p>Напишите ему команду <code>/start</code>, решите капчу. Примечание: если бот не отвечает на ваш запрос с капчей, вероятно, вы ввели её неверно. Попробуйте написать капчу еще раз (без команды). После успешного ввода бот отправит вам сообщение "Consecutive &lt;количество дней&gt; days".</p>
 <p><img src="/assets/images/docs/202312/signin1.png" alt="Sign-in" loading="lazy"></p>
 <p><img src="/assets/images/docs/202312/signin1.png" alt="Sign-in" loading="lazy"></p>
 <hr>

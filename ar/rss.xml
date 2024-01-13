@@ -6,8 +6,8 @@
     <link>https://korepi.com/ar/</link>
     <description>للمساعدة Korepi</description>
     <language>ar</language>
-    <pubDate>Thu, 11 Jan 2024 16:42:21 GMT</pubDate>
-    <lastBuildDate>Thu, 11 Jan 2024 16:42:21 GMT</lastBuildDate>
+    <pubDate>Sat, 13 Jan 2024 10:16:15 GMT</pubDate>
+    <lastBuildDate>Sat, 13 Jan 2024 10:16:15 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Guide</category>
@@ -159,6 +159,8 @@
 <p><img src="/assets/images/docs/202312/teleport4.png" alt="" loading="lazy"></p>
 <h3> الخطوة 5: استمتع بالرحلة</h3>
 <p>سيبدأ التيليبورت تلقائيًا، إذا كنت حصلت على <a href="/ar/start/sponsor.html" target="blank">Sponsor</a>, سوف تكون قادرا على رؤية التقدم والوقت المتبقي.</p>
+<h2> Video</h2>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/1ft6xYr2EmM" title="Part 1 - How to Use 'Custom Teleports' in Colorpicker or Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 ]]></content:encoded>
       <enclosure url="https://korepi.com/assets/images/docs/202312/teleport1.png" type="image/png"/>
     </item>
@@ -317,7 +319,7 @@
 <p>أنت الآن بحاجة إلى العثور على البوت الذي يحمل صورة أوزة (طائر الأوز) والكتابة إليه في رسالة مباشرة (micah-sign-bot#0245).</p>
 <p><img src="/assets/images/docs/202312/signin1.png" alt="Sign-in" loading="lazy"></p>
 <h3> الخطوة 3: البدء</h3>
-<p>اكتب له الأمر <code>/sign-in</code>، وقم بحل كلمة التحقق. ملاحظة: إذا لم يستجب الروبوت لطلب التحقق الخاص بك، فمن المحتمل أنك أدخلته بشكل غير صحيح. حاول كتابة كلمة التحقق مرة أخرى (بدون الأمر). بعد الإدخال الناجح، سيرسل لك الروبوت رسالة "&lt; أيام &gt; أيام متتالية".</p>
+<p>اكتب له الأمر <code>/start</code>، وقم بحل كلمة التحقق. ملاحظة: إذا لم يستجب الروبوت لطلب التحقق الخاص بك، فمن المحتمل أنك أدخلته بشكل غير صحيح. حاول كتابة كلمة التحقق مرة أخرى (بدون الأمر). بعد الإدخال الناجح، سيرسل لك الروبوت رسالة "&lt; أيام &gt; أيام متتالية".</p>
 <p><img src="/assets/images/docs/202312/signin2.png" alt="Sign-in" loading="lazy"></p>
 <p><img src="/assets/images/docs/202312/signin3.png" alt="Sign-in" loading="lazy"></p>
 <h3> الخطوة 4: بعد حصولك على دور "Fans".</h3>
@@ -565,7 +567,7 @@
 <p><img src="/assets/images/docs/202312/theme-settings.png" alt="" loading="lazy"></p>
 <p>تفقد <code>Theme Customization</code> للبدء في صنع سمات خاصة بك.</p>
 <hr>
-<h3> لماذا تمت إعادة ضبط /sign-in الخاص بي؟</h3>
+<h3> لماذا تمت إعادة ضبط /start الخاص بي؟</h3>
 <p>على الأرجح أنك تجاوزت وقت إعادة التعيين، تتم إعادة التعيين يوميًا، إذا تخطيت يومًا واحدًا، فسيتم إعادة التعيين بالكامل</p>
 <div class="hint-container info">
 <p class="hint-container-title">وقت إعادة الضبط هو بتوقيت GMT/UTC+8 00:00 كل يوم. يرجى التحويل إلى منطقتك الزمنية.</p>
