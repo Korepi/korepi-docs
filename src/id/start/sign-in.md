@@ -23,7 +23,7 @@ Alternatifnya, Anda bisa mendapatkan role `Fans` secara gratis tanpa harus menja
 
 ![Sign-in](/assets/images/docs/202312/signin1.png)
 
-2. Ketik perintah /sign-in
+2. Ketik perintah /start
 
 ![Sign-in](/assets/images/docs/202312/signin2.png)
 

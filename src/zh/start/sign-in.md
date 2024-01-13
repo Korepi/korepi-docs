@@ -24,7 +24,7 @@ order: 3
  ![](images\sign-in-2.png)
 
 ---
-## 3.@micah-sign-bot  连续7天私信这鸭子 输入 /sign-in 。
+## 3.@micah-sign-bot  连续7天私信这鸭子 输入 /start 。
 
  ![](images\sign-in-3.png)
 

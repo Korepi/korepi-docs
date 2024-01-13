@@ -13,7 +13,7 @@ order: 1
 
 ### Is Korepi free?
 
-Yes, it is free, in order to get it for the first time you have to do a 7 days [sign-in](../start/sign-in.md), you can skip this by [Sponsoring](../start/sponsor.md), after that you can get the license every time your key expires.
+Yes, it is free, in order to get it for the first time you have to do a 7 days [sign-in](../start/start.md), you can skip this by [Sponsoring](../start/sponsor.md), after that you can get the license every time your key expires.
 
 ---
 ### What is the .rar/.zip password?
@@ -39,7 +39,7 @@ You can find themes for your Korepi on `community share` or you can make your ow
 Check `Theme Customization` to start making your own theme.
 
 ---
-### Why did my /sign-in streak reset?
+### Why did my /start streak reset?
 
 Most likely you surpassed the reset time, it resets daily, if you skip 1 day it will reset entirely
 

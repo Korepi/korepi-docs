@@ -25,7 +25,7 @@ Agora você precisa encontrar o bot com a imagem de um ganso e enviar uma mensag
 
 ### Passo 3: Como começar
 
-Envie o comando `/sign-in`, resolva o captcha. Nota: se o bot não responder à solução do captcha, provavelmente você o digitou incorretamente. Tente escrever o captcha novamente (sem o comando). Se estiver correto, o bot enviará a seguinte mensagem "Consecutive < dias > dias".
+Envie o comando `/start`, resolva o captcha. Nota: se o bot não responder à solução do captcha, provavelmente você o digitou incorretamente. Tente escrever o captcha novamente (sem o comando). Se estiver correto, o bot enviará a seguinte mensagem "Consecutive < dias > dias".
 
 ![Sign-in](/assets/images/docs/202312/signin2.png)
 

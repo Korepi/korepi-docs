@@ -13,7 +13,7 @@ order: 1
 
 ### Apakah Korepi gratis?
 
-Iya, gratis, untuk pertama kali mendapatkannya Anda harus melakukan 7 hari [sign-in](../start/sign-in.md), Anda bisa melewatinya dengan [Sponsor](../start/sponsor.md), setelah itu Anda dapat mengambil lisensi setiap kali lisensi Anda kedaluwarsa.
+Iya, gratis, untuk pertama kali mendapatkannya Anda harus melakukan 7 hari [sign-in](../start/start.md), Anda bisa melewatinya dengan [Sponsor](../start/sponsor.md), setelah itu Anda dapat mengambil lisensi setiap kali lisensi Anda kedaluwarsa.
 
 ---
 ### Apa kata sandi dari file .rar/.zip?
@@ -39,7 +39,7 @@ Anda dapat menemukan tema untuk Korepi di `community share` atau Anda dapat memb
 periksa di `Theme Customization` untuk mulai membuat tema Anda.
 
 ---
-### Kenapa /sign-in beruntun saya terulang?
+### Kenapa /start beruntun saya terulang?
 
 Kemungkinan besar Anda melewati batas waktu harian yang telah diberikan, jika Anda melewatkan 1 hari makanya akan terulang dari awal.
 
