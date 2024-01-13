@@ -24,7 +24,7 @@ Giờ bạn cần tìm đến bot với ảnh đại diện là một con ngỗn
 
 ## Bước 3: Điểm danh
 
-Viết lệnh `/sign-in` và giải captcha.
+Viết lệnh `/start` và giải captcha.
 Lưu ý: nếu như bot không phải hồi với mã captcha bạn yêu cầu, có thể là bạn đã nhập sai. Hãy thử viết lại captcha. 
 
 Sau khi nhập thành công, bot sẽ gửi cho bạn thông báo `"Consecutive <days> days"` như ảnh dưới
