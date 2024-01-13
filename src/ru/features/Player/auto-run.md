@@ -3,7 +3,7 @@ title: Автоматический Бег
 icon: person-running
 category:
   - Особенности
-tags:
+tag:
   - Автоматический Бег
 author: 
   name: "QweRez"

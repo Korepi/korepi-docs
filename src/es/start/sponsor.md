@@ -20,9 +20,21 @@ Cuando ya estés en el servidor, por favor ve al canal de [#sponsorship](https:/
 
 ## Que hago después de haber donado?
 
-Si ya has donado, puedes enviarle las pruebas a cualquiera de los moderadores disponibles. Por favor asegúrate de enseñar las capturas o el enlace de donación como prueba
+### Paso 1:
 
-![](/assets/images/docs/202312/proof.png)
+Si ya has donado, abre un ticket en [#sponsorship-proof-ticket](https://discord.com/channels/1069057220802781265/1195466175954550885), y dale click a `Send Proofs`.
+
+![](/assets/images/docs/202312/sponsor-new.png)
+
+### Paso 2: 
+
+Manda las pruebas al canal de `#proof-tu-nombre`, y espera a que un Moderador revise las pruebas.
+
+![](/assets/images/docs/202312/sponsor-new2.png)
+
+### Paso 3:
+
+Si todo ha ido bien, y las pruebas han sido validas recibirás tu rol de<span style='color:yellow;'>Sponsor</span>.
 
 ## (PARA NO-FANS) Como reclamar el rol de Fans después de la donación?
 

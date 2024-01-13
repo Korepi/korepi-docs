@@ -25,9 +25,21 @@ Setelah bergabung di server, silakan masuk ke saluran [#sponsorship](https://dis
 
 ### Apa yang Harus Dilakukan Setelah Selesai Berdonasi?
 
-Jika Anda sudah berdonasi, kirimkan bukti donasi Anda kepada moderator yang sedang aktif. Pastikan menyertakan tangkapan layar (screenshot) atau tautan donasi sebagai bukti.
+### Step 1:
 
-![Bukti Donasi](/assets/images/docs/202312/proof.png)
+If you already donated, you can start a ticket at [#sponsorship-proof-ticket](https://discord.com/channels/1069057220802781265/1195466175954550885), and click on `Send Proofs`.
+
+![](/assets/images/docs/202312/sponsor-new.png)
+
+### Step 2: 
+
+Send your proof to the newly created channel `#proof-yourname`, and then wait for a Mod to review the proof.
+
+![](/assets/images/docs/202312/sponsor-new2.png)
+
+### Step 3:
+
+If everything went right, and the proof is valid you will receive your  <span style='color:yellow;'>Sponsor</span> role.
 
 ## (Bagi Non-Fans) Bagaimana Cara Mengklaim role Fans setelah Menjadi role Sponsor?
 

@@ -3,7 +3,7 @@ title: Режим Бога
 icon: user
 category:
   - Особенности
-tags:
+tag:
   - Режим Бога
 author: 
   name: "QweRez"

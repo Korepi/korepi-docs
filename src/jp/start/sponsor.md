@@ -20,9 +20,21 @@ order: 4
 
 ## 寄付を終えた後はどうすればよいですか?
 
-寄付を完了している場合は、モデレーターに証拠を送信してください。証拠としてスクリーンショットまたは寄付リンクを必ず提供してください
+### Step 1:
 
-[![](https://i.postimg.cc/3xjf2b38/proof.png)](https://postimg.cc/MnTYS5cN)
+If you already donated, you can start a ticket at [#sponsorship-proof-ticket](https://discord.com/channels/1069057220802781265/1195466175954550885), and click on `Send Proofs`.
+
+![](/assets/images/docs/202312/sponsor-new.png)
+
+### Step 2: 
+
+Send your proof to the newly created channel `#proof-yourname`, and then wait for a Mod to review the proof.
+
+![](/assets/images/docs/202312/sponsor-new2.png)
+
+### Step 3:
+
+If everything went right, and the proof is valid you will receive your  <span style='color:yellow;'>Sponsor</span> role.
 
 ## (Fans以外の場合) 寄付後にファンの役割を申請するにはどうすればよいですか?
 
