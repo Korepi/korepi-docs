@@ -46,4 +46,7 @@ Ative-a e clique em `Select`:
 
 Agora os teletransportes começarão, se você tiver o [Sponsor](../start/sponsor.md) haverá um contador de tempo mostrando quanto tempo levará.
 
+## Video
+
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/h_1KH57ZI3Q" title="Como Utilizar Teleportes Personalizados" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
 

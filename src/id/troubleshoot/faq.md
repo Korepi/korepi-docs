@@ -39,7 +39,7 @@ Anda dapat menemukan tema untuk Korepi di `community share` atau Anda dapat memb
 periksa di `Theme Customization` untuk mulai membuat tema Anda.
 
 ---
-### Kenapa /sign-in beruntun saya terulang?
+### Kenapa /start beruntun saya terulang?
 
 Kemungkinan besar Anda melewati batas waktu harian yang telah diberikan, jika Anda melewatkan 1 hari makanya akan terulang dari awal.
 

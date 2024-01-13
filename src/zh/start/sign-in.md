@@ -24,16 +24,7 @@ order: 3
  ![](images\sign-in-2.png)
 
 ---
-## 3.@micah-sign-bot  连续7天私信这鸭子,先输入/start，点击/sign-in 。
- - <span style="color:red;">找到Micah-sign-bot，私聊他发送/start指令。</span>
- 
-![](images/micah-sign-bot.png)
- 
-- <span style="color:red;">输入/start后会弹出指令，选择指令</span>。
-
- ![](images\sign-in-4.png)
-
-- <span style="color:red;">然后点击/sign-in </span>。
+## 3.@micah-sign-bot  连续7天私信这鸭子 输入 /sign-in 。
 
  ![](images\sign-in-3.png)
 

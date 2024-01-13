@@ -39,7 +39,7 @@ You can find themes for your Korepi on `community share` or you can make your ow
 Check `Theme Customization` to start making your own theme.
 
 ---
-### Why did my /sign-in streak reset?
+### Why did my /start streak reset?
 
 Most likely you surpassed the reset time, it resets daily, if you skip 1 day it will reset entirely
 
