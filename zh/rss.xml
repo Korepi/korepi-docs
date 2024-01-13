@@ -6,70 +6,70 @@
     <link>https://korepi.com/zh/</link>
     <description>Korepi 中文文档介绍</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 13 Jan 2024 10:16:15 GMT</pubDate>
-    <lastBuildDate>Sat, 13 Jan 2024 10:16:15 GMT</lastBuildDate>
+    <pubDate>Sat, 13 Jan 2024 12:44:30 GMT</pubDate>
+    <lastBuildDate>Sat, 13 Jan 2024 12:44:30 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-    <category>Guide</category>
     <category>指南</category>
     <category>其他</category>
     <category>问题解答</category>
     <category>Features</category>
     <category>功能</category>
+    <category>Guide</category>
     <category>Troubleshoot</category>
     <item>
-      <title>Differences between versions</title>
+      <title>F版本和V版本的区别</title>
       <link>https://korepi.com/zh/start/differences.html</link>
       <guid>https://korepi.com/zh/start/differences.html</guid>
-      <source url="https://korepi.com/zh/rss.xml">Differences between versions</source>
-      <description>Key differences between V and F version Version F VersionV Version --------------------- FeaturesSameSame Update NoticeX✓ Multi-Instance (../guide/Multi-korepi.md)X✓ Set-upEasyM...</description>
-      <category>Guide</category>
+      <source url="https://korepi.com/zh/rss.xml">F版本和V版本的区别</source>
+      <description>F版本和V版本的密钥区别 版本F 版本V 版本 --------------------- 功能一样一样 更新公告X✓ 多开 (../guide/Multi-korepi.md)X✓ 设置简单较难 问题解决简单较难 验证方式密钥验证密钥文件验证 我应该使用哪个版本? 在中国大陆，建议使用V版本。其他地方随意使用任意版本。</description>
+      <category>指南</category>
       <pubDate>Sat, 13 Jan 2024 00:53:24 GMT</pubDate>
-      <content:encoded><![CDATA[<h1> Differences between V and F version.</h1>
-<h2> Key differences between V and F version</h2>
+      <content:encoded><![CDATA[<h1> F版本和V版本的区别。</h1>
+<h2> F版本和V版本的密钥区别</h2>
 <table>
 <thead>
 <tr>
-<th>Version</th>
-<th>F Version</th>
-<th>V Version</th>
+<th>版本</th>
+<th>F 版本</th>
+<th>V 版本</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td>Features</td>
-<td>Same</td>
-<td>Same</td>
+<td>功能</td>
+<td>一样</td>
+<td>一样</td>
 </tr>
 <tr>
-<td>Update Notice</td>
+<td>更新公告</td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td><a href="/zh/guide/Multi-korepi.html" target="blank">Multi-Instance</a></td>
+<td><a href="/zh/guide/Multi-korepi.html" target="blank">多开</a></td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Set-up</td>
-<td>Easy</td>
-<td>Mid-Hard</td>
+<td>设置</td>
+<td>简单</td>
+<td>较难</td>
 </tr>
 <tr>
-<td>Problem Solving</td>
-<td>Easy</td>
-<td>Mid-Hard</td>
+<td>问题解决</td>
+<td>简单</td>
+<td>较难</td>
 </tr>
 <tr>
-<td>Authentication</td>
-<td>Key Verification</td>
-<td>File Verification</td>
+<td>验证方式</td>
+<td>密钥验证</td>
+<td>密钥文件验证</td>
 </tr>
 </tbody>
 </table>
-<h2> Which version should i use?</h2>
-<p>For the <span style="color:yellow;">Sponsor</span> users you can use any of the versions according to your needs. For Fans is recommended to use V version since its more stable and the set-up is more reliable as it is for now.</p>
+<h2> 我应该使用哪个版本?</h2>
+<p>在中国大陆，建议使用V版本。其他地方随意使用任意版本。</p>
 ]]></content:encoded>
     </item>
     <item>
@@ -658,8 +658,7 @@ C1: 🟦 C2: 🟦 C3: 🟥 C4: 🟥 C5: 🟥 C6: 🟦</li>
 <li>夏洛蒂
 C1: 🟥  C2: 🟥  C3: 🟥  C4: 🟥  C5: 🟥  C6: 🟦</li>
 <li>夏沃蕾
-C1: ?  C2: ?  C3: ?  C4: ?  C5: ?  C6: ?
-CN</li>
+C1: ?  C2: ?  C3: ?  C4: ?  C5: ?  C6: ?</li>
 </ul>
 <h3> 更新日志 - <code>8/11 GMT+8 0000</code></h3>
 <ul>
@@ -1926,7 +1925,18 @@ CN</li>
 </p>
 <h2> ②复制订单号（忘了在赞助时复制的人，能到订单处找出来）</h2>
 <p></p>
-<h2> ③ @micah-sign-bot 私信鸭子发送 /donate，再回复订单号 即可获得<span style="color:#f1c40f;">赞助者</span>身份</h2>
+<h2> ③ @micah-sign-bot 私信鸭子发送 /start，再回复订单号 即可获得<span style="color:#f1c40f;">赞助者</span>身份</h2>
+<ul>
+<li><span style="color:red;">找到Micah-sign-bot，私聊他发送/start指令。</span></li>
+</ul>
+<p></p>
+<ul>
+<li><span style="color:red;">输入/start后会弹出指令，选择指令。</span></li>
+</ul>
+<p></p>
+<ul>
+<li><span style="color:red;">然后点击爱发电捐赠，输入订单号 。</span></li>
+</ul>
 <p></p>
 <hr>
 <h1> 快速获取<span style="color:#87c4ff;">Fans</span>身份的方法</h1>
@@ -2055,11 +2065,22 @@ CN</li>
 <p></p>
 <p></p>
 <hr>
-<h2> 3.@micah-sign-bot  连续7天私信这鸭子 输入 /start 。</h2>
+<h2> 3.@micah-sign-bot  连续7天私信这鸭子,先输入/start，点击/sign-in 。</h2>
+<ul>
+<li><span style="color:red;">找到Micah-sign-bot，私聊他发送/start指令。</span></li>
+</ul>
 <p></p>
+<ul>
+<li><span style="color:red;">输入/start后会弹出指令，选择指令</span>。</li>
+</ul>
+<p></p>
+<ul>
+<li><span style="color:red;">然后点击/sign-in </span>。</li>
+</ul>
 <hr>
 <h2> 4.正确输入验证码以完成签到（答复时的验证码不区分大小写）</h2>
-<p>它没回复代表验证码错误，timeout就再用一遍签到指令</p>
+<p>它回复Consecutive 1 days代表成功签到。
+它没回复代表验证码错误，timeout就再用一遍签到指令</p>
 <p>请持续换个组合输入直到它给予答复</p>
 <div class="hint-container tip">
 <p class="hint-container-title">最容易出错的字符</p>
@@ -2070,9 +2091,9 @@ CN</li>
 <p>2 z</p>
 </div>
 <hr>
-<h2> 5.成功签到会得到回复，首次/第一天将会得到 New user inserted and signed in 往后签到将是提示天数。</h2>
+<h2> 5.成功签到会得到回复，首次/第一天将会得到 Consecutive 1 days。</h2>
 <p></p>
-<p>当日再度签到，完成验证码也会显示天数</p>
+<p>会提醒你还需要签到几天获得fans身份。</p>
 <div class="hint-container tip">
 <p class="hint-container-title">签到每日北京时间午夜12点刷新</p>
 <p>连续签到7天 即可获得Fan身份（赞助者只需3天或⁠ticket-start⁠ 发工单 ）</p>
