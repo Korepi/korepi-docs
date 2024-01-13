@@ -1,26 +1,26 @@
 ---
-title: Differences between versions
+title: Diferencias entre versiones
 icon: server
 category:
-  - Guide
+  - Guía
 tag:
-  - Start
+  - Inicio
 author: Schvis
 order: 6
 ---
 
-# Differences between V and F version.
+# Diferencias entre versión F y V
 
-## Key differences between V and F version
+## Diferencias claves entre versiones
 
-|Version |F Version|V Version|
+|Versión |Versión F|Versión V|
 |-----|--------|--------|
-|Features|Same|Same|
+|Funciones|Iguales|Iguales|
 |Update Notice|<span style='color:red;'>X</span>|<span style='color:green;'>✓</span>|
 |[Multi-Instance](../guide/multi-instance.md)|<span style='color:red;'>X</span>|<span style='color:green;'>✓</span>|
-|Set-up|Easy|Mid-Hard|
-|Problem Solving|Easy|Mid-Hard|
-|Authentication|Key Verification|File Verification|
-## Which version should i use?
+|Instalación|Fácil|Medio-Difícil|
+|Resolución de problemas|Fácil|Medio-Difícil|
+|Autenticación|Verificación con clave|Verificación con archivo|
+## Que versión debería usar?
 
-For the <span style='color:yellow;'>Sponsor</span> users you can use any of the versions according to your needs. For Fans is recommended to use V version since its more stable and the set-up is more reliable as it is for now.
+Si eres <span style='color:yellow;'>Sponsor</span> puedes usar cualquiera de las dos dependiendo de tus necesidades. Para los Fans es recomendado usar la versión V por ahora ya que es más estable en este momento.
