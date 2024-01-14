@@ -1,26 +1,26 @@
 ---
-title: Differences between versions
+title: Perbedaan Antara Versi
 icon: server
 category:
-  - Guide
+  - Panduan
 tag:
-  - Start
-author: Schvis
+  - Mulai
+author: Schvis, Chloe
 order: 6
 ---
 
-# Differences between V and F version.
+# Perbedaan Versi F dan Versi V.
 
-## Key differences between V and F version
+## Perbedaan Kunci Antara Versi F dan Versi V
 
-|Version |F Version|V Version|
+|Versi |F Version|V Version|
 |-----|--------|--------|
-|Features|Same|Same|
-|Update Notice|<span style='color:red;'>X</span>|<span style='color:green;'>✓</span>|
+|Fitur|Sama|Sama|
+|Pemberitahuan pembaruan|<span style='color:red;'>X</span>|<span style='color:green;'>✓</span>|
 |[Multi-Instance](../guide/multi-instance.md)|<span style='color:red;'>X</span>|<span style='color:green;'>✓</span>|
-|Set-up|Easy|Mid-Hard|
-|Problem Solving|Easy|Mid-Hard|
-|Authentication|Key Verification|File Verification|
-## Which version should i use?
+|Pengaturan|Mudah|Menengah|
+|Pemecahan Msalah|Mudah|Menengah|
+|Autentikasi|Verifikasi Kunci|Verifikasi File|
+## Versi Mana yang Harus Saya Pakai?
 
-For the <span style='color:yellow;'>Sponsor</span> users you can use any of the versions according to your needs. For Fans is recommended to use V version since its more stable and the set-up is more reliable as it is for now.
+Untuk pengguna <span style='color:yellow;'>Sponsor</span> dapat menggunakan versi mana saja sesuai dengan yang dibutuhkan. Untuk pengguna Fans disarankan menggunakan Versi V dikarenakan lebih stabil dan pengaturan lebih dapat diandalkan untuk saat ini.
