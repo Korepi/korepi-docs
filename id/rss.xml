@@ -6,11 +6,10 @@
     <link>https://korepi.com/id/</link>
     <description>Pertolongan Korepi</description>
     <language>id-ID</language>
-    <pubDate>Sat, 13 Jan 2024 18:21:33 GMT</pubDate>
-    <lastBuildDate>Sat, 13 Jan 2024 18:21:33 GMT</lastBuildDate>
+    <pubDate>Sun, 14 Jan 2024 20:10:39 GMT</pubDate>
+    <lastBuildDate>Sun, 14 Jan 2024 20:10:39 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-    <category>Guide</category>
     <category>Panduan</category>
     <category>FAQ</category>
     <category>Features</category>
@@ -18,31 +17,31 @@
     <category>Quest Teleport</category>
     <category>Solusi</category>
     <item>
-      <title>Differences between versions</title>
+      <title>Perbedaan Antara Versi</title>
       <link>https://korepi.com/id/start/differences.html</link>
       <guid>https://korepi.com/id/start/differences.html</guid>
-      <source url="https://korepi.com/id/rss.xml">Differences between versions</source>
-      <description>Key differences between V and F version Version F VersionV Version --------------------- FeaturesSameSame Update NoticeX✓ Multi-Instance (../guide/multi-instance.md)X✓ Set-upEas...</description>
-      <category>Guide</category>
+      <source url="https://korepi.com/id/rss.xml">Perbedaan Antara Versi</source>
+      <description>Perbedaan Kunci Antara Versi F dan Versi V Versi F VersionV Version --------------------- FiturSamaSama Pemberitahuan pembaruanX✓ Multi-Instance (../guide/multi-instance.md)X✓ P...</description>
+      <category>Panduan</category>
       <pubDate>Sat, 13 Jan 2024 00:53:24 GMT</pubDate>
-      <content:encoded><![CDATA[<h1> Differences between V and F version.</h1>
-<h2> Key differences between V and F version</h2>
+      <content:encoded><![CDATA[<h1> Perbedaan Versi F dan Versi V.</h1>
+<h2> Perbedaan Kunci Antara Versi F dan Versi V</h2>
 <table>
 <thead>
 <tr>
-<th>Version</th>
+<th>Versi</th>
 <th>F Version</th>
 <th>V Version</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td>Features</td>
-<td>Same</td>
-<td>Same</td>
+<td>Fitur</td>
+<td>Sama</td>
+<td>Sama</td>
 </tr>
 <tr>
-<td>Update Notice</td>
+<td>Pemberitahuan pembaruan</td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
@@ -52,24 +51,24 @@
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Set-up</td>
-<td>Easy</td>
-<td>Mid-Hard</td>
+<td>Pengaturan</td>
+<td>Mudah</td>
+<td>Menengah</td>
 </tr>
 <tr>
-<td>Problem Solving</td>
-<td>Easy</td>
-<td>Mid-Hard</td>
+<td>Pemecahan Msalah</td>
+<td>Mudah</td>
+<td>Menengah</td>
 </tr>
 <tr>
-<td>Authentication</td>
-<td>Key Verification</td>
-<td>File Verification</td>
+<td>Autentikasi</td>
+<td>Verifikasi Kunci</td>
+<td>Verifikasi File</td>
 </tr>
 </tbody>
 </table>
-<h2> Which version should i use?</h2>
-<p>For the <span style="color:yellow;">Sponsor</span> users you can use any of the versions according to your needs. For Fans is recommended to use V version since its more stable and the set-up is more reliable as it is for now.</p>
+<h2> Versi Mana yang Harus Saya Pakai?</h2>
+<p>Untuk pengguna <span style="color:yellow;">Sponsor</span> dapat menggunakan versi mana saja sesuai dengan yang dibutuhkan. Untuk pengguna Fans disarankan menggunakan Versi V dikarenakan lebih stabil dan pengaturan lebih dapat diandalkan untuk saat ini.</p>
 ]]></content:encoded>
     </item>
     <item>
