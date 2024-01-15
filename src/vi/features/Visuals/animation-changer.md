@@ -9,4 +9,4 @@ author: Schvis
 order: 1
 ---
 
-## Animation Changer, allows the player to change their current character animation to the selected one.
+## Thay Đổi Hoạt Ảnh cho phép người chơi thay đổi hoạt ảnh của nhân vật hiện tại thành hoạt ảnh của một nhân vật khác được chọn.

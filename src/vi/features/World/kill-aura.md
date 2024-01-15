@@ -12,24 +12,24 @@ order: 12
 ::: danger This feature has a high risk of ban.
 :::
 ---
-## Kill Aura: Deals damage to surrounding enemies
+## Tử Quang: Gây Sát Thương Cho Kẻ Địch Xung Quanh
 
-### Crash Damage mode:
-- Deals fall damage to surrounding enemies with the specified value, delay and range.
-> Note: Not recommended to use very high values.
-### Percent Mode:
-- Number of hits needed to kill an enemy.
-> Note: Recommended to use `3` or higher values.
-### Left HP:
-- Whether or not to leave the specified amount of HP to surrounding enemies.
-### Instant Death Mode:
-- Will try to make the enemy disappear
-> Note: Might get buggy with some bosses.
-> Note 2: Not recommended to use.
-### Only Hostile/Aggro:
-- Whether or not to target only hostile mobs.
+### Chế Độ Crash Damage:
+- Gây loại sát thương như khi bị rơi lên kẻ địch xung quanh với lượng sát thương, phạm vi và độ trễ nhất định.
+> Lưu ý: Không khuyến khích đặt lượng sát thương quá cao.
+### Chế Độ Theo Phần Trăm:
+- Số lượng lần gây sát thương cần để tiêu diệt kẻ địch
+> Lưu ý: Khuyến khích đặt số lần gây sát thương lớn hơn hoặc bằng `3`.
+### Lượng Máu Còn Lại:
+- Bật hoặc tắt chế độ ngừng tự động gây sát thương khi kẻ địch xung quanh đạt một lượng máu nhất định.
+### Chế Độ Chết Ngay Lập Tức:
+- Khiến kẻ địch bay màu ngay lập tức.
+> Lưu ý: Có thể bị lỗi đối với một số loại boss.
+> Lưu ý 2: Không khuyến khích sử dụng chức năng này.
+### Chỉ Chọn Các Mục Tiêu Bị Khiêu Khích:
+- Bật hoặc tắt việc chỉ tự động gây sát thương lên quái đang bị khiêu khích.
 
-## Example Video:
+## Video Minh Hoạ:
 
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/NiAh00VBy-w?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Kill Aura" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
 

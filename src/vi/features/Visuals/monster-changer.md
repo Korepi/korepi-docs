@@ -9,11 +9,11 @@ author: Schvis
 order: 14
 ---
 
-## Monster Changer:
-- When enabled, all new rendered monsters will be changed visually to the selected monster.
-### Exclude Animals:
-- Enable or Disable changing animals.
-### Custom Monster ID:
-- Use ID instead of the provided list.
-### Randomize Monster:
-- The change will be random.
+## Thay Đổi Quái:
+- Khi được bật, thay đổi ngoại hình của toàn bộ quái thành ngoại hình mới được chọn.
+### Loại Trừ Động Vật:
+- Bật hoặc Tắt thay đổi ngoại hình động vật.
+### Tuỳ Chỉnh ID Quái:
+- Sử dụng ID thay vì danh sách được cấp sẵn.
+### Quái Ngẫu Nhiên:
+- Ngoại hình quái sẽ thay đổi ngẫu nhiên.

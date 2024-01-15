@@ -9,19 +9,19 @@ author: Schvis
 order: 4
 ---
 
-## Custom Profile:
+## Tuỳ Chỉnh Profile:
 
 ### UID:
-- Select the UID you want to be displayed.
-### Nickname:
-- Select the Nickname you want to be displayed.
+- Lựa chọn UID mà bạn muốn hiển thị.
+### Tên:
+- Lựa chọn Tên mà bạn muốn hiển thị.
 ### Level:
-- Select the Level you want to be displayed.
+- Lựa chọn Level mà bạn muốn hiển thị.
 ### EXP:
-- Select the EXP you want to be displayed.
-### World Level:
-- Select the World Level you want to be displayed.
-### Avatar Image:
-- Use a custom png as avatar image.
-### Card Image:
-- Use a custom png as card image.
+- Lựa chọn lượng EXP mà bạn muốn hiển thị.
+### Cấp Thế Giới:
+- Lựa chọn Cấp Thế Giới mà bạn muốn hiển thị.
+### Ảnh Đại Diện:
+- Sử dụng file png tuỳ chọn để làm ảnh đại diện.
+### Danh Thiếp:
+- Sử dụng file png tuỳ chọn để làm danh thiếp.

@@ -9,9 +9,9 @@ author: Schvis
 order: 1
 ---
 
-## ESP allows the player to track and view the selected objects through other objects from the filter with customizable visual effects.
-> Note: Range, objects, visuals can be all customized.
+## ESP cho phép người chơi theo dõi và xem những vật thể được chọn từ danh sách lọc xuyên qua các vật thể khác với các hiệu ứng đồ hoạ tuỳ chỉnh.
+> Lưu ý: Phạm vi, vật thể, đồ hoạ đều có thể được tuỳ chỉnh.
 
-## Example Video:
+## Video Tham Khảo:
 
 ### Soon...

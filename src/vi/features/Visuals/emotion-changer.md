@@ -9,4 +9,4 @@ author: Schvis
 order: 6
 ---
 
-## Emotion Changer allows the player to change the current character emotion to the selected one.
+## Thay Đổi Biểu Cảm cho phép người chơi thay đổi biểu cảm của nhân vật hiện tại thành một biểu cảm được lựa chọn khác.

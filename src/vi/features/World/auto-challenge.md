@@ -9,9 +9,9 @@ author: Schvis
 order: 2
 ---
 
-### Auto Challenge lets you complete the current active time trial within a specified range and delay time, you can configure these to your liking.
+### Tự Động Khiêu Chiến cho phép bạn hoàn thành khiêu chiến giới hạn trong phạm vi và độ trễ nhất định. Bạn có thể điều chỉnh các thông số này tuỳ thích.
 
-## Example Video:
+## Video Minh Hoạ:
 
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/7JNegfQiK2U?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Challenge" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
 

@@ -9,11 +9,11 @@ author: Schvis
 order: 12
 ---
 
-## Hide UI:
-- Hides player user interface entirely.
-### Hide Ping: (<span style='color:yellow;'>Sponsor</span>)
-- Hides ping only.
-### Hide HP Bar: (<span style='color:yellow;'>Sponsor</span>)
-- Hides current character HP bar only.
-### Hide Team HP Bar: (<span style='color:yellow;'>Sponsor</span>)
-- Hides team hp bar on the character tab only.
+## Ẩn UI:
+- Ẩn toàn bộ giao diện người dùng.
+### Ẩn Ping: (<span style='color:yellow;'>Sponsor</span>)
+- Chỉ ẩn ping.
+### Ẩn Thanh Máu: (<span style='color:yellow;'>Sponsor</span>)
+- Chỉ ẩn thanh máu của nhân vật hiện tại.
+### Ẩn Thanh Máu Của Đội: (<span style='color:yellow;'>Sponsor</span>)
+- Chỉ ẩn thanh máu xuất hiện trên danh sách đội.

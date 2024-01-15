@@ -9,4 +9,4 @@ author: Schvis
 order: 10
 ---
 
-## Flycloak Modifier allow the player to change their glider skin even if they don't own it.
+## Thay Đổi Phong Chi Dực (cánh) cho phép người chơi thay đổi skin của phong chi dực cho dù không sở hữu chúng.
