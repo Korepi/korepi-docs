@@ -6,8 +6,8 @@
     <link>https://korepi.com/vi/</link>
     <description>Trợ giúp về Korepi</description>
     <language>vi-VN</language>
-    <pubDate>Sun, 14 Jan 2024 20:10:39 GMT</pubDate>
-    <lastBuildDate>Sun, 14 Jan 2024 20:10:39 GMT</lastBuildDate>
+    <pubDate>Mon, 15 Jan 2024 13:24:43 GMT</pubDate>
+    <lastBuildDate>Mon, 15 Jan 2024 13:24:43 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Guide</category>
@@ -163,14 +163,14 @@
       <link>https://korepi.com/vi/features/esp.html</link>
       <guid>https://korepi.com/vi/features/esp.html</guid>
       <source url="https://korepi.com/vi/rss.xml">ESP</source>
-      <description>ESP allows the player to track and view the selected objects through other objects from the filter with customizable visual effects. Note: Range, objects, visuals can be all cus...</description>
+      <description>ESP cho phép người chơi theo dõi và xem những vật thể được chọn từ danh sách lọc xuyên qua các vật thể khác với các hiệu ứng đồ hoạ tuỳ chỉnh. Lưu ý: Phạm vi, vật thể, đồ hoạ đề...</description>
       <category>Features</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> ESP allows the player to track and view the selected objects through other objects from the filter with customizable visual effects.</h2>
+      <content:encoded><![CDATA[<h2> ESP cho phép người chơi theo dõi và xem những vật thể được chọn từ danh sách lọc xuyên qua các vật thể khác với các hiệu ứng đồ hoạ tuỳ chỉnh.</h2>
 <blockquote>
-<p>Note: Range, objects, visuals can be all customized.</p>
+<p>Lưu ý: Phạm vi, vật thể, đồ hoạ đều có thể được tuỳ chỉnh.</p>
 </blockquote>
-<h2> Example Video:</h2>
+<h2> Video Tham Khảo:</h2>
 <h3> Soon...</h3>
 ]]></content:encoded>
     </item>
@@ -477,65 +477,65 @@ If after restarting it did not help or no errors were found, write this command:
       <link>https://korepi.com/vi/features/Player/attack-effects.html</link>
       <guid>https://korepi.com/vi/features/Player/attack-effects.html</guid>
       <source url="https://korepi.com/vi/rss.xml">Attack Effects</source>
-      <description>Attack Effects: Modifications for your attacks Multi-Hit Mode: One Punch Mode: Tries to kill the target with 1 hit.; Note: Not recommended to use. Modifies the number of attacks...</description>
+      <description>Hiệu Ứng Tấn Công: Điều chỉnh hiệu ứng tấn công Chế Độ Nhiều Đòn Đánh: Đấm Phát Chết Luôn: Tiêu diệt mục tiêu chỉ bằng 1 đòn.; Lưu ý: Không khuyến khích sử dụng. Điều chỉnh số đ...</description>
       <category>Features</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Attack Effects: Modifications for your attacks</h2>
-<h3> Multi-Hit Mode:</h3>
+      <content:encoded><![CDATA[<h2> Hiệu Ứng Tấn Công: Điều chỉnh hiệu ứng tấn công</h2>
+<h3> Chế Độ Nhiều Đòn Đánh:</h3>
 <ul>
-<li>One Punch Mode: Tries to kill the target with 1 hit.</li>
+<li>Đấm Phát Chết Luôn: Tiêu diệt mục tiêu chỉ bằng 1 đòn.</li>
 </ul>
 <blockquote>
-<p>Note: Not recommended to use.</p>
+<p>Lưu ý: Không khuyến khích sử dụng.</p>
 </blockquote>
 <ul>
-<li>Modifies the number of attacks received by the target.</li>
+<li>Điều chỉnh số đòn tấn công lên mục tiêu.</li>
 </ul>
 <blockquote>
-<p>Note: Not recommended to go above <code>5</code>.</p>
+<p>Lưu ý: Không khuyến khích chỉnh lớn hơn <code>5</code>.</p>
 </blockquote>
-<h3> Multi-Target:</h3>
+<h3> Đa Mục Tiêu:</h3>
 <ul>
-<li>Hit all the targets within the selected radius from the target hit.</li>
+<li>Tấn công tất cả các mục tiêu khác trong phạm vi bao quanh mục tiêu chính.</li>
 </ul>
 <blockquote>
-<p>Note: Not recommended to change default settings.</p>
+<p>Lưu ý: Không khuyến khích chỉnh sửa thiết đặt mặc định.</p>
 </blockquote>
-<h3> Multi-Animation:</h3>
+<h3> Đa Hoạt Ảnh:</h3>
 <ul>
-<li>Modifies the number of times the character does an action.</li>
+<li>Điều chỉnh số lần nhân vật thực hiện một hành động.</li>
 </ul>
 <blockquote>
-<p>Note: Not recommended to use.</p>
+<p>Lưu ý: Không khuyến khích sử dụng.</p>
 </blockquote>
-<h3> Attack Speed:</h3>
+<h3> Tốc Độ Tấn Công:</h3>
 <ul>
-<li>Modifies the speed of the normal attacks from the player.</li>
+<li>Điều chỉnh tốc độ đánh thường từ người chơi.</li>
 </ul>
 <blockquote>
-<p>Note: Not recommended to use above <code>1.5</code>.</p>
+<p>Lưu ý: Không khuyến khích chỉnh lớn hơn <code>1.5</code>.</p>
 </blockquote>
-<h3> Custom Element:</h3>
+<h3> Tuỳ Chỉnh Nguyên Tố:</h3>
 <ul>
-<li>Modifies the element of all outgoing attacks.</li>
+<li>Điều chỉnh nguyên tố của mọi đòn tấn công.</li>
 </ul>
-<h3> Infuse Element:</h3>
+<h3> Gắn Nguyên Tố:</h3>
 <ul>
-<li>Modifies the element of normal attacks from sword, polearms and claymore.</li>
+<li>Điều chỉnh nguyên tố của đòn đánh thường từ kiếm, thương và trọng đao.</li>
 </ul>
-<h3> Auto Weakspot:</h3>
+<h3> Tự Động Đánh Vào Điểm Yếu:</h3>
 <ul>
-<li>Hits target weakspot therefore criting, only works with bow users.</li>
+<li>Tấn công vào điểm yếu mục tiêu (chí mạng), chỉ hoạt động khi sử dụng cung.</li>
 </ul>
-<h3> Critical Hit (<span style="color:yellow;">Sponsor</span>):</h3>
+<h3> Tỷ Lệ Chí Mạng (<span style="color:yellow;">Sponsor</span>):</h3>
 <ul>
-<li>Changes the probability of critical hits.</li>
+<li>Điều chỉnh tỷ lệ chí mạng.</li>
 </ul>
-<h3> Nullify Incoming Element:</h3>
+<h3> Loại Bỏ Nguyên Tố Của Sát Thương Nhận Vào:</h3>
 <ul>
-<li>Will nullify any incoming element converting it to physical damage instead.</li>
+<li>Loại bỏ nguyên tố của sát thương nhận vào và chuyển nó thành sát thương vật lý.</li>
 </ul>
-<h2> Example Video:</h2>
+<h2> Video Minh Hoạ:</h2>
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/1BdKwxBjWyg?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Attack Effects" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 ]]></content:encoded>
     </item>
@@ -544,11 +544,11 @@ If after restarting it did not help or no errors were found, write this command:
       <link>https://korepi.com/vi/features/Player/auto-run.html</link>
       <guid>https://korepi.com/vi/features/Player/auto-run.html</guid>
       <source url="https://korepi.com/vi/rss.xml">Auto Run</source>
-      <description>Auto Run will move the player to the direction the player is facing automatically. Example Video:</description>
+      <description>Tự Động Chạy sẽ tự động di chuyển nhân vật theo hướng mà người chơi đang quay mặt. Video Minh Hoạ:</description>
       <category>Features</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Auto Run will move the player to the direction the player is facing automatically.</h2>
-<h2> Example Video:</h2>
+      <content:encoded><![CDATA[<h2> Tự Động Chạy sẽ tự động di chuyển nhân vật theo hướng mà người chơi đang quay mặt.</h2>
+<h2> Video Minh Hoạ:</h2>
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/BLDhPBMs7Es?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Run" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 ]]></content:encoded>
     </item>
@@ -557,15 +557,15 @@ If after restarting it did not help or no errors were found, write this command:
       <link>https://korepi.com/vi/features/Player/bunny-hop.html</link>
       <guid>https://korepi.com/vi/features/Player/bunny-hop.html</guid>
       <source url="https://korepi.com/vi/rss.xml">Bunny Hop</source>
-      <description>Sponsor Only Bunny Hop will jump automatically after first jump when enabled. Example Video:</description>
+      <description>Sponsor Only Nhảy Cao sẽ khiến nhân vật nhảy cao hơn khi được kích hoạt. Video Minh Hoạ:</description>
       <category>Features</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
       <content:encoded><![CDATA[<div class="hint-container info">
 <p class="hint-container-title">Sponsor Only</p>
 </div>
 <hr>
-<h2> Bunny Hop will jump automatically after first jump when enabled.</h2>
-<h2> Example Video:</h2>
+<h2> Nhảy Cao sẽ khiến nhân vật nhảy cao hơn khi được kích hoạt.</h2>
+<h2> Video Minh Hoạ:</h2>
 <div class="iframe-container"><iframe width="640" height="369" src="https://www.youtube.com/embed/Gh2GX23E6dw?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Bunnyhop (Sponsor)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 ]]></content:encoded>
     </item>
@@ -574,38 +574,38 @@ If after restarting it did not help or no errors were found, write this command:
       <link>https://korepi.com/vi/features/Player/cooldown-effects.html</link>
       <guid>https://korepi.com/vi/features/Player/cooldown-effects.html</guid>
       <source url="https://korepi.com/vi/rss.xml">Cooldown Effects</source>
-      <description>Cooldown Effects: Modifies the cooldown time of various actions. Max Burst Energy: Removes the requirement needed to use elemental bursts.; Note: Energy bubble may appear incomp...</description>
+      <description>Hiệu Ứng Hồi Chiêu: Điều chỉnh tốc độ hồi của nhiều loại kỹ năng và hành động. Max Năng Lượng Cho Kỹ Năng Nộ: Loại bỏ yêu cầu về năng lượng khi sử dụng kỹ năng nộ.; Lưu ý: Bong ...</description>
       <category>Features</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Cooldown Effects: Modifies the cooldown time of various actions.</h2>
-<h3> Max Burst Energy:</h3>
+      <content:encoded><![CDATA[<h2> Hiệu Ứng Hồi Chiêu: Điều chỉnh tốc độ hồi của nhiều loại kỹ năng và hành động.</h2>
+<h3> Max Năng Lượng Cho Kỹ Năng Nộ:</h3>
 <ul>
-<li>Removes the requirement needed to use elemental bursts.</li>
+<li>Loại bỏ yêu cầu về năng lượng khi sử dụng kỹ năng nộ.</li>
 </ul>
 <blockquote>
-<p>Note: Energy bubble may appear incomplete but will be still usable.</p>
+<p>Lưu ý: Bong bóng biểu thị kỹ năng nộ có thể chưa sáng lên nhưng bạn vẫn có thể sử dụng được kỹ năng nộ.</p>
 </blockquote>
-<h3> No Avatar Skill Cooldown: Removes the cooldown for character skill and burst.</h3>
+<h3> Điều Chỉnh Tốc Độ Hồi Chiêu: Loại bỏ hồi chiêu cho kỹ năng nguyên tố và nộ.</h3>
 <ul>
-<li>Reduce Skill/Burst Cooldown: When activated instead of removing the cooldown, it will be set to the selected values if the cooldown is higher than the value selected.</li>
+<li>Giảm Hồi Chiêu Kỹ Năng Nguyên Tố/Nộ: Khi được kích hoạt, thay vì loại bỏ hoàn toàn hồi chiêu của kỹ năng, thay thế tốc độ hồi chiêu của kỹ năng bằng một giá trị được chọn nếu như giá trị này bé hơn tốc độ hồi chiêu gốc.</li>
 </ul>
 <blockquote>
-<p>Note: You can use any value for CD, but don't spam it too hard. <code>ex. 40 times in 1m</code></p>
+<p>Lưu ý: Bạn có thể đặt bất cứ giá trị nào cho tốc độ hồi chiêu, tuy nhiên không nên spam quá nhiều. <code>ví dụ 40 lần trong 1 phút</code></p>
 </blockquote>
-<h3> No Sprint Cooldown:</h3>
+<h3> Lướt Liên Tục:</h3>
 <ul>
-<li>Removes the delay between sprints.</li>
+<li>Loại bỏ độ trễ giữa mỗi lần sử dụng lướt.</li>
 </ul>
-<h3> Instant Charged Attack:</h3>
+<h3> Trọng Kích Tức Thì:</h3>
 <ul>
-<li>Bow: Removes the charge time for bow users.</li>
-<li>Other: Removes the charge time for other weapon users.</li>
+<li>Cung: Loại bỏ thời gian ngắm bắn cho cung thủ.</li>
+<li>Vũ Khí Khác: Loại bỏ thời gian tích đòn trọng kích cho các loại vũ khí khác.</li>
 </ul>
-<h3> No Vehicle Skill Cooldown:</h3>
+<h3> Loại Bỏ Hồi Chiêu Cho Phương Tiện:</h3>
 <ul>
-<li>Removes the cooldown for the boat skills.</li>
+<li>Loại bỏ thời gian hồi chiêu khi sử dụng kỹ năng của thuyền.</li>
 </ul>
-<h2> Example Video:</h2>
+<h2> Video Minh Hoạ:</h2>
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/qv5ykSL3Ojw?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Cooldown Effects" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 ]]></content:encoded>
     </item>
@@ -614,62 +614,62 @@ If after restarting it did not help or no errors were found, write this command:
       <link>https://korepi.com/vi/features/Player/extra-movements.html</link>
       <guid>https://korepi.com/vi/features/Player/extra-movements.html</guid>
       <source url="https://korepi.com/vi/rss.xml">Extra Movements</source>
-      <description>Sponsor Only Extra Movements: Modifies/Enhances certain actions for the player. Run On Water: Enables the ability to walk on water.; Run Boost: Enhances the speed when the playe...</description>
+      <description>Sponsor Only Di Chuyển Nâng Cao: Chỉnh sửa một số hành động cụ thể của người chơi. Đi Trên Nước: Cho phép đi trên mặt nước.; Tăng Tốc Chạy: Tăng tốc độ chạy của người chơi.; Lưu...</description>
       <category>Features</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
       <content:encoded><![CDATA[<div class="hint-container info">
 <p class="hint-container-title">Sponsor Only</p>
 </div>
 <hr>
-<h2> Extra Movements: Modifies/Enhances certain actions for the player.</h2>
-<h3> Run On Water:</h3>
+<h2> Di Chuyển Nâng Cao: Chỉnh sửa một số hành động cụ thể của người chơi.</h2>
+<h3> Đi Trên Nước:</h3>
 <ul>
-<li>Enables the ability to walk on water.</li>
+<li>Cho phép đi trên mặt nước.</li>
 </ul>
-<h3> Run Boost:</h3>
+<h3> Tăng Tốc Chạy:</h3>
 <ul>
-<li>Enhances the speed when the player is running.</li>
+<li>Tăng tốc độ chạy của người chơi.</li>
 </ul>
 <blockquote>
-<p>Note: Not recommended to change default values.</p>
+<p>Lưu ý: Không khuyến khích chỉnh sửa giá trị mặc định.</p>
 </blockquote>
-<h3> Jump Boost:</h3>
+<h3> Nhảy Cao:</h3>
 <ul>
-<li>Enhances the height of the jump for the player.
+<li>Tăng độ cao khi người chơi nhảy.
 <ul>
-<li>Apply Mid Air: Enable jumping while not on the ground.</li>
+<li>Nhảy Giữa Không Trung: Cho phép nhảy khi đang không ở trên mặt đất.</li>
 </ul>
 </li>
 </ul>
 <blockquote>
-<p>Note: Not recommended to change default values.</p>
+<p>Lưu ý: Không khuyến khích chỉnh sửa giá trị mặc định.</p>
 </blockquote>
-<h3> Fly Boost:</h3>
+<h3> Bay Nhanh:</h3>
 <ul>
-<li>Enhances the speed when the player is gliding.</li>
+<li>Tăng tốc bay của người chơi.</li>
 </ul>
 <blockquote>
-<p>Note: Not recommended to change default values.</p>
+<p>Lưu ý: Không khuyến khích chỉnh sửa giá trị mặc định.</p>
 </blockquote>
-<h3> Swim Boost:</h3>
+<h3> Bơi Nhanh:</h3>
 <ul>
-<li>Enhances the speed when the player is swimming.</li>
+<li>Tăng tốc độ bơi của người chơi.</li>
 </ul>
 <blockquote>
-<p>Note: Not recommended to change default values.</p>
+<p>Lưu ý: Không khuyến khích chỉnh sửa giá trị mặc định.</p>
 </blockquote>
-<h3> Dive Boost:</h3>
+<h3> Lặn Nhanh:</h3>
 <ul>
-<li>Enhances the speed when the player is diving.</li>
+<li>Tăng tốc độ lặn dưới nước của người chơi.</li>
 </ul>
 <blockquote>
-<p>Note: Not recommended to change default values.</p>
+<p>Lưu ý: Không khuyến khích chỉnh sửa giá trị mặc định.</p>
 </blockquote>
-<h3> Blink:</h3>
+<h3> Tốc Biến:</h3>
 <ul>
-<li>Allows the player to move certain distance after pressing a hotkey.</li>
+<li>Cho phép người chơi di chuyển một khoảng cách cụ thể tức thì sau khi nhấn phím tắt.</li>
 </ul>
-<h2> Example Video:</h2>
+<h2> Video Minh Hoạ:</h2>
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/wMd9icqhFQg?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Extra Movement (Sponsor)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 ]]></content:encoded>
     </item>
@@ -678,11 +678,11 @@ If after restarting it did not help or no errors were found, write this command:
       <link>https://korepi.com/vi/features/Player/fall-control.html</link>
       <guid>https://korepi.com/vi/features/Player/fall-control.html</guid>
       <source url="https://korepi.com/vi/rss.xml">Fall Control</source>
-      <description>Fall Control allows you to move with the selected speed while falling. Example Video:</description>
+      <description>Điều Khiển Tốc Độ Rơi cho phép bạn tuỷ chỉnh tốc độ khi nhân vật rơi xuống. Video Minh Hoạ:</description>
       <category>Features</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Fall Control allows you to move with the selected speed while falling.</h2>
-<h2> Example Video:</h2>
+      <content:encoded><![CDATA[<h2> Điều Khiển Tốc Độ Rơi cho phép bạn tuỷ chỉnh tốc độ khi nhân vật rơi xuống.</h2>
+<h2> Video Minh Hoạ:</h2>
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/BHiabtwSSNc?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Fall Control" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 ]]></content:encoded>
     </item>
@@ -691,22 +691,22 @@ If after restarting it did not help or no errors were found, write this command:
       <link>https://korepi.com/vi/features/Player/god-mode.html</link>
       <guid>https://korepi.com/vi/features/Player/god-mode.html</guid>
       <source url="https://korepi.com/vi/rss.xml">God Mode</source>
-      <description>God Mode will disable all incoming damage. Undead: When enabled, god mode only will turn on if damage is lethal.; Conditional: When enabled, god mode only will turn on if the ch...</description>
+      <description>Bât Tử sẽ vô hiệu hoá mọi sát thương nhận vào. Bảo Hiểm: Khi bật, Bất Tử sẽ chỉ được kích hoạt khi nhận sát thương có thể khiến nhân vật bay màu.; Điều Kiện Tuỳ Chỉnh: Khi bật, ...</description>
       <category>Features</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> God Mode will disable all incoming damage.</h2>
-<h3> Undead:</h3>
+      <content:encoded><![CDATA[<h2> Bât Tử sẽ vô hiệu hoá mọi sát thương nhận vào.</h2>
+<h3> Bảo Hiểm:</h3>
 <ul>
-<li>When enabled, god mode only will turn on if damage is lethal.</li>
+<li>Khi bật, Bất Tử sẽ chỉ được kích hoạt khi nhận sát thương có thể khiến nhân vật bay màu.</li>
 </ul>
-<h3> Conditional:</h3>
+<h3> Điều Kiện Tuỳ Chỉnh:</h3>
 <ul>
-<li>When enabled, god mode only will turn on if the character hp falls below the specified value.</li>
+<li>Khi bật, Bất Tử sẽ chỉ được kích hoạt khi máu của nhân vật giảm xuống thấp hơn mức được thiết lập.</li>
 </ul>
 <blockquote>
-<p>Note: Recommended to use conditional for abyss.</p>
+<p>Lưu ý: Khuyến khích sử dụng Điều Kiện Tuỳ Chỉnh trong la hoàn.</p>
 </blockquote>
-<h2> Example Video:</h2>
+<h2> Video Minh Hoạ:</h2>
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/42utUUYNHRE?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - God Mode" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 ]]></content:encoded>
     </item>
@@ -715,18 +715,18 @@ If after restarting it did not help or no errors were found, write this command:
       <link>https://korepi.com/vi/features/Player/infinite-stamina.html</link>
       <guid>https://korepi.com/vi/features/Player/infinite-stamina.html</guid>
       <source url="https://korepi.com/vi/rss.xml">Infinite Stamina</source>
-      <description>Infinite Stamina disables the stamina consumption for all actions. Move Sync Packet Replacement: When this is enabled and Infinite Stamina is disabled, will prevent sending stam...</description>
+      <description>Thể Lực Vô Hạn sẽ loại bỏ tiêu hao thể lực cho mọi hành động. Thay Thế Dữ Liệu Di Chuyển: Khi chức năng này được bật và Vô Hạn Thể Lực được tắt, dữ liệu liên quan đến việc tiêu ...</description>
       <category>Features</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Infinite Stamina disables the stamina consumption for all actions.</h2>
-<h3> Move Sync Packet Replacement:</h3>
+      <content:encoded><![CDATA[<h2> Thể Lực Vô Hạn sẽ loại bỏ tiêu hao thể lực cho mọi hành động.</h2>
+<h3> Thay Thế Dữ Liệu Di Chuyển:</h3>
 <ul>
-<li>When this is enabled and Infinite Stamina is disabled, will prevent sending stamina consuming action packets to server like running, climbing, swimming, etc.</li>
+<li>Khi chức năng này được bật và Vô Hạn Thể Lực được tắt, dữ liệu liên quan đến việc tiêu hao thể lực như chạy, leo trèo, bơi, etc, sẽ không được gửi tới server.</li>
 </ul>
 <blockquote>
 <p>Note: Recommended to use Move Sync Packet Replacement.</p>
 </blockquote>
-<h2> Example Video:</h2>
+<h2> Video Minh Hoạ:</h2>
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/NZhfaMOLuY0?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Infinite Stamina" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 ]]></content:encoded>
     </item>
@@ -735,34 +735,34 @@ If after restarting it did not help or no errors were found, write this command:
       <link>https://korepi.com/vi/features/Player/no-clip.html</link>
       <guid>https://korepi.com/vi/features/Player/no-clip.html</guid>
       <source url="https://korepi.com/vi/rss.xml">No Clip</source>
-      <description>No Clip will allow you to have no collision, move faster and fly. No Animation: When enabled it will disable animations of the character while using no clip.; Camera-relative mo...</description>
+      <description>Xuyên Tường sẽ cho phép bạn di chuyển xuyên vật thể, di chuyển nhanh hơn và bay. Không Hoạt Ảnh: Khi bật, hoạt ảnh của nhân vật sẽ bị loại bỏ khi sử dụng Xuyên Tường.; Di Chuyển...</description>
       <category>Features</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> No Clip will allow you to have no collision, move faster and fly.</h2>
-<h3> No Animation:</h3>
+      <content:encoded><![CDATA[<h2> Xuyên Tường sẽ cho phép bạn di chuyển xuyên vật thể, di chuyển nhanh hơn và bay.</h2>
+<h3> Không Hoạt Ảnh:</h3>
 <ul>
-<li>When enabled it will disable animations of the character while using no clip.</li>
+<li>Khi bật, hoạt ảnh của nhân vật sẽ bị loại bỏ khi sử dụng Xuyên Tường.</li>
 </ul>
-<h3> Camera-relative movement:</h3>
+<h3> Di Chuyển Theo Hướng Camera:</h3>
 <ul>
-<li>When enabled, character will move based on camera view instead of where the character is facing.</li>
+<li>Khi bật, nhân vật sẽ di chuyển theo hướng camera thay vì hướng của nhân vật đang quay mặt.</li>
 </ul>
-<h3> Alternate No-Clip:</h3>
+<h3> Chế Độ Xuyên Tường Thay Thế:</h3>
 <ul>
-<li>When enabled, no clip speed will change after pressing the selected hotkey at the designed speed.</li>
+<li>Khi bật, tốc độ xuyên tường sẽ thay đổi thành giá trị được thiết lập khi phím tắt được nhấn.</li>
 </ul>
-<h3> Use Custom Keys:</h3>
+<h3> Sử Dụng Phím Tuỳ Chỉnh:</h3>
 <ul>
-<li>Enables the option to change no-clip directional controls.</li>
+<li>Cho phép tuỳ chỉnh các phím điều hướng khi di chuyển xuyên tường.</li>
 </ul>
-<h3> DragBack Bypass:</h3>
+<h3> Chống Giật Ngược:</h3>
 <ul>
-<li>Prevents the server to drag the character back due to excessive speed.</li>
+<li>Ngăn server giật ngược nhân vật khi di chuyển quá nhanh.</li>
 </ul>
 <blockquote>
-<p>Note: Not recommended to use above <code>20</code>.</p>
+<p>Lưu ý: Không khuyến khích sử dụng thiết đặt lớn hơn <code>20</code>.</p>
 </blockquote>
-<h2> Example Video:</h2>
+<h2> Video Minh Hoạ:</h2>
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/nPdq-yzBt3k?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - NoClip" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 ]]></content:encoded>
     </item>
@@ -771,15 +771,15 @@ If after restarting it did not help or no errors were found, write this command:
       <link>https://korepi.com/vi/features/Player/player-speed.html</link>
       <guid>https://korepi.com/vi/features/Player/player-speed.html</guid>
       <source url="https://korepi.com/vi/rss.xml">Player Speed</source>
-      <description>Player Speed modifies player speed. Real. No Fake. Note: Recommended to use below 1.5. Note 2: Extra Movements (extra-movements.md) is recommended since its better synced with t...</description>
+      <description>Tốc Độ Người Chơi điều chỉnh tốc độ của người chơi. Lưu ý: Khuyến khích sử dụng thiết đặt dưới 1.5. Lưu ý 2: Di Chuyển Nâng Cao (extra-movements.md) được khuyến khích sử dụng hơ...</description>
       <category>Features</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Player Speed modifies player speed. Real. No Fake.</h2>
+      <content:encoded><![CDATA[<h2> Tốc Độ Người Chơi điều chỉnh tốc độ của người chơi.</h2>
 <blockquote>
-<p>Note: Recommended to use below <code>1.5</code>.
-Note 2: <a href="/vi/features/Player/extra-movements.html" target="blank">Extra Movements</a> is recommended since its better synced with the server (safer)(Sponsor)</p>
+<p>Lưu ý: Khuyến khích sử dụng thiết đặt dưới <code>1.5</code>.
+Lưu ý 2: <a href="/vi/features/Player/extra-movements.html" target="blank">Di Chuyển Nâng Cao</a> được khuyến khích sử dụng hơn vì chức năng này động bộ tốt hơn với server (an toàn hơn)(Sponsor)</p>
 </blockquote>
-<h2> Example Video:</h2>
+<h2> Video Minh Hoạ:</h2>
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/HCxmOUMFRs8?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Player Speed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 ]]></content:encoded>
     </item>
@@ -788,87 +788,87 @@ Note 2: <a href="/vi/features/Player/extra-movements.html" target="blank">Extra 
       <link>https://korepi.com/vi/features/Player/remote-utility.html</link>
       <guid>https://korepi.com/vi/features/Player/remote-utility.html</guid>
       <source url="https://korepi.com/vi/rss.xml">Remote Utility</source>
-      <description>Sponsor Only Remote Utility: Claim Daily Commission Reward: Claims daily commission reward when all 4 comissions are completed.; Custom Talk: Starts a conversation using the con...</description>
+      <description>Sponsor Only Tiện Ích Từ Xa: Nhận Thưởng Uỷ Thác Hằng Ngày: Nhận thưởng uỷ thác hằng ngày từ xa khi 4 uỷ thác được hoàn thành.; Hội Thoại Tuỳ Chỉnh: Bắt đầu hội thoại từ xa khi ...</description>
       <category>Features</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
       <content:encoded><![CDATA[<div class="hint-container info">
 <p class="hint-container-title">Sponsor Only</p>
 </div>
 <hr>
-<h2> Remote Utility:</h2>
-<h3> Claim Daily Commission Reward:</h3>
+<h2> Tiện Ích Từ Xa:</h2>
+<h3> Nhận Thưởng Uỷ Thác Hằng Ngày:</h3>
 <ul>
-<li>Claims daily commission reward when all 4 comissions are completed.</li>
+<li>Nhận thưởng uỷ thác hằng ngày từ xa khi 4 uỷ thác được hoàn thành.</li>
 </ul>
-<h3> Custom Talk:</h3>
+<h3> Hội Thoại Tuỳ Chỉnh:</h3>
 <ul>
-<li>Starts a conversation using the conversation ID, some conversations might not work.</li>
+<li>Bắt đầu hội thoại từ xa khi sử dụng ID hội thoại, một số hội thoại có thể không hoạt động.</li>
 </ul>
 <blockquote>
-<p>Note: This feature is dangerous.
-Note: To get the conversation ID, enable <code>Debug Talk</code>, ID will be displayed in <code>cmd</code>.</p>
+<p>Lưu ý: Đây là tính năng nguy hiểm.
+Lưu ý 2: Để lấy ID hội thoại, bật <code>Debug Talk</code>, ID sẽ được hiển thị trong <code>cmd</code>.</p>
 </blockquote>
-<h3> Spawn Gadget:</h3>
+<h3> Triệu Hồi Dụng Cụ:</h3>
 <ul>
-<li>Spawns the selected gadget by ID, some of them might not work.</li>
+<li>Triệu hồi dụng cụ từ xa theo ID, có thể không hoạt động đối với một số dụng cụ.</li>
 </ul>
 <blockquote>
-<p>Note: This feature is dangerous.
-Note 2: You can find the gadget IDs <a href="https://github.com/jie65535/GrasscutterCommandGenerator/blob/main/Source/GrasscutterTools/Resources/en-us/Gadget.txt" target="_blank" rel="noopener noreferrer">here</a></p>
+<p>Lưu ý: Đây là tính năng nguy hiểm.
+Lưu ý 2: Bạn có thể lấy ID dụng cụ <a href="https://github.com/jie65535/GrasscutterCommandGenerator/blob/main/Source/GrasscutterTools/Resources/en-us/Gadget.txt" target="_blank" rel="noopener noreferrer">tại đây</a></p>
 </blockquote>
-<h3> Crafting:</h3>
+<h3> Chế Tạo:</h3>
 <ul>
-<li>Condensed Resin: Crafts a condensed resin if you got the resin and the items.</li>
-<li>Spawn Alchemy Table: Spawns an Alchemy Table.</li>
-<li>Spawn Forging Table: Spawns a Forging Table.</li>
-<li>Custom Combine: Will try to combine the selected item using the current character.
+<li>Nhựa Cô Đặc: Chế tạo nhựa cô đặc từ xa nếu bạn có đủ nhựa và tinh hạt nhân.</li>
+<li>Triệu Hồi Đài Ghép: Triệu hồi một đài ghép.</li>
+<li>Triệu Hồi Đài Rèn: Triệu hồi một đài rèn.</li>
+<li>Ghép Tuỳ Chỉnh: Ghép vật phẩm được chọn bằng nhân vật hiện tại.
 <blockquote>
-<p>Note: If successful, there will be no prompt. Please check inventory.
-Note 2: You can find the combine IDs <a href="https://github.com/jie65535/GrasscutterCommandGenerator/blob/main/Source/GrasscutterTools/Resources/en-us/Item.txt" target="_blank" rel="noopener noreferrer">here</a></p>
-</blockquote>
-</li>
-</ul>
-<h3> Summon NPC:</h3>
-<ul>
-<li>Summons the selected NPC by ID.</li>
-</ul>
-<blockquote>
-<p>Note: Katheryne, Wagner and Prince already included.</p>
-</blockquote>
-<h3> Summon Monster:</h3>
-<ul>
-<li>Summons the selected monster with the selected parameters by ID.</li>
-</ul>
-<blockquote>
-<p>Note: You can't kill them.
-Note 2: You can find the monster IDs <a href="https://github.com/jie65535/GrasscutterCommandGenerator/blob/main/Source/GrasscutterTools/Resources/en-us/Monsters.txt" target="_blank" rel="noopener noreferrer">here</a></p>
-</blockquote>
-<h3> Summon Item:</h3>
-<ul>
-<li>Summons the selected item by ID.</li>
-</ul>
-<blockquote>
-<p>Note: Some items might not work.
-Note 2: You can find the items IDs <a href="https://github.com/jie65535/GrasscutterCommandGenerator/blob/main/Source/GrasscutterTools/Resources/en-us/Item.txt" target="_blank" rel="noopener noreferrer">here</a></p>
-</blockquote>
-<h3> Open UI Page:</h3>
-<ul>
-<li>Open Paimon Menu Page: Opens the menu.</li>
-<li>Open Cooking Page: Opens cooking page.
-<blockquote>
-<p>Note: Needs to open cooking page once before using this feature.</p>
+<p>Lưu ý: Sẽ không có thông báo xuất hiện sau khi ghép thành công. Vui lòng kiểm tra túi đồ.
+Lưu ý 2: Bạn có thể tìm ID ghép <a href="https://github.com/jie65535/GrasscutterCommandGenerator/blob/main/Source/GrasscutterTools/Resources/en-us/Item.txt" target="_blank" rel="noopener noreferrer">tại đây</a></p>
 </blockquote>
 </li>
 </ul>
-<h3> Worship Statue:</h3>
+<h3> Triệu Hồi NPC:</h3>
 <ul>
-<li>Will worship the selected Statue of the Seven with the amount selected, need to have the oculus to do this.</li>
+<li>Triệu hồi NPC bằng ID.</li>
 </ul>
-<h3> Change Traveler Element:</h3>
+<blockquote>
+<p>Lưu ý: Đã bao gồm Katheryne, Wagner và Prince.</p>
+</blockquote>
+<h3> Triệu Hồi Quái:</h3>
 <ul>
-<li>Allows player to change traveler element anywhere.</li>
+<li>Triệu hồi quái với thông số được chọn bằng ID.</li>
 </ul>
-<h2> Example Video:</h2>
+<blockquote>
+<p>Lưu ý: Bạn không thể giết quái được triệu hồi.
+Lưu ý 2: Bạn có thể tìm ID quái <a href="https://github.com/jie65535/GrasscutterCommandGenerator/blob/main/Source/GrasscutterTools/Resources/en-us/Monsters.txt" target="_blank" rel="noopener noreferrer">tại đây</a></p>
+</blockquote>
+<h3> Triệu hồi Vật Phẩm:</h3>
+<ul>
+<li>Triệu hồi vật phẩm theo ID.</li>
+</ul>
+<blockquote>
+<p>Lưu ý: Có thể không hoạt động đối với một số vật phẩm nhất định.
+Lưu ý 2: Bạn có thể tìm ID vật phẩm <a href="https://github.com/jie65535/GrasscutterCommandGenerator/blob/main/Source/GrasscutterTools/Resources/en-us/Item.txt" target="_blank" rel="noopener noreferrer">tại đây</a></p>
+</blockquote>
+<h3> Mở Trang Giao Diện:</h3>
+<ul>
+<li>Mở Trang Menu Paimon: Mở trang menu Paimon.</li>
+<li>Mở Trang Menu Nấu Nướng: Mở trang nấu nướng.
+<blockquote>
+<p>Lưu ý: Cần mở trang menu nấu nướng ít nhất một lần trước đó để sử dụng tính năng này.</p>
+</blockquote>
+</li>
+</ul>
+<h3> Hiến Tế Tượng Thần:</h3>
+<ul>
+<li>Hiến tế tượng thần từ xa với số lượng thần đồng đã chọn. Cần có thần đồng để thực hiện.</li>
+</ul>
+<h3> Thay Đổi Nguyên Tố Của Nhà Lữ Hành:</h3>
+<ul>
+<li>Cho phép thay đổi nguyên tố của nhà lữ hành ở bất kỳ nơi nào.</li>
+</ul>
+<h2> Video Minh Hoạ:</h2>
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/XGztUEy82sE?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Remote Utilities (Sponsor)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 ]]></content:encoded>
     </item>
@@ -877,14 +877,14 @@ Note 2: You can find the items IDs <a href="https://github.com/jie65535/Grasscut
       <link>https://korepi.com/vi/features/Teleport/0culi-teleport.html</link>
       <guid>https://korepi.com/vi/features/Teleport/0culi-teleport.html</guid>
       <source url="https://korepi.com/vi/rss.xml">0culi Teleport</source>
-      <description>Oculi Teleport will teleport the player to the nearest rendered oculi location when the hotkey is pressed. Note: Wait &amp;gt;15s between teleports for safety. Example Video:</description>
+      <description>Dịch Chuyển Tới Thần Đồng sẽ dịch chuyển người chơi tới vị trí có thần đồng gần nhất khi phím tắt được nhấn. Lưu ý: Chờ khoảng &amp;gt;15s giữa các lần dịch chuyển sẽ an toàn hơn. Vide...</description>
       <category>Features</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Oculi Teleport will teleport the player to the nearest rendered oculi location when the hotkey is pressed.</h2>
+      <content:encoded><![CDATA[<h2> Dịch Chuyển Tới Thần Đồng sẽ dịch chuyển người chơi tới vị trí có thần đồng gần nhất khi phím tắt được nhấn.</h2>
 <blockquote>
-<p>Note: Wait <code>&gt;15s</code> between teleports for safety.</p>
+<p>Lưu ý: Chờ khoảng <code>&gt;15s</code> giữa các lần dịch chuyển sẽ an toàn hơn.</p>
 </blockquote>
-<h2> Example Video:</h2>
+<h2> Video Minh Hoạ:</h2>
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/j2Yu31J7Yh4?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Oculi/ChestTeleport" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 ]]></content:encoded>
     </item>
@@ -893,14 +893,14 @@ Note 2: You can find the items IDs <a href="https://github.com/jie65535/Grasscut
       <link>https://korepi.com/vi/features/Teleport/chest-teleport.html</link>
       <guid>https://korepi.com/vi/features/Teleport/chest-teleport.html</guid>
       <source url="https://korepi.com/vi/rss.xml">Chest Teleport</source>
-      <description>Chest Teleport will teleport the player to the nearest rendered chest location when the hotkey is pressed. Note: Wait &amp;gt;15s between teleports for safety. Example Video:</description>
+      <description>Dịch Chuyển Tới Rương sẽ dịch chuyển người chơi tới vị trí rương gần nhất khi phím tắt được nhấn. Lưu ý: Chờ khoảng &amp;gt;15s giữa các lần dịch chuyển sẽ an toàn hơn. Video Minh Hoạ:</description>
       <category>Features</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Chest Teleport will teleport the player to the nearest rendered chest location when the hotkey is pressed.</h2>
+      <content:encoded><![CDATA[<h2> Dịch Chuyển Tới Rương sẽ dịch chuyển người chơi tới vị trí rương gần nhất khi phím tắt được nhấn.</h2>
 <blockquote>
-<p>Note: Wait <code>&gt;15s</code> between teleports for safety.</p>
+<p>Lưu ý: Chờ khoảng <code>&gt;15s</code> giữa các lần dịch chuyển sẽ an toàn hơn.</p>
 </blockquote>
-<h2> Example Video:</h2>
+<h2> Video Minh Hoạ:</h2>
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/j2Yu31J7Yh4?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Oculi/ChestTeleport" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 ]]></content:encoded>
     </item>
@@ -909,27 +909,27 @@ Note 2: You can find the items IDs <a href="https://github.com/jie65535/Grasscut
       <link>https://korepi.com/vi/features/Teleport/custom-teleport.html</link>
       <guid>https://korepi.com/vi/features/Teleport/custom-teleport.html</guid>
       <source url="https://korepi.com/vi/rss.xml">Custom Teleport</source>
-      <description>Custom Teleport: Allows the player to teleport to a selected location designed by a .json file. Interpolation Speed: Controls the teleportation animation speed, set to 0.1 to av...</description>
+      <description>Dịch Chuyển Tuỳ Chọn: Cho phép người chơi dịch chuyển tới một ví trí được chọn định sẵn bởi một file .json. Tốc Độ Hoạt Ảnh Dịch Chuyển: Điều khiển tốc độ hoạt ảnh dịch chuyển, ...</description>
       <category>Features</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Custom Teleport: Allows the player to teleport to a selected location designed by a <code>.json</code> file.</h2>
-<h3> Interpolation Speed:</h3>
+      <content:encoded><![CDATA[<h2> Dịch Chuyển Tuỳ Chọn: Cho phép người chơi dịch chuyển tới một ví trí được chọn định sẵn bởi một file <code>.json</code>.</h2>
+<h3> Tốc Độ Hoạt Ảnh Dịch Chuyển:</h3>
 <ul>
-<li>Controls the teleportation animation speed, set to <code>0.1</code> to avoid issues.</li>
+<li>Điều khiển tốc độ hoạt ảnh dịch chuyển, đặt giá trị về <code>0.1</code> để tránh xảy ra lỗi.</li>
 </ul>
-<h3> Auto Teleport:</h3>
+<h3> Dịch Chuyển Tự Động:</h3>
 <ul>
-<li>Teleports automatically following the order of the provided <code>.json</code> files.
+<li>Tự động dịch chuyển theo thứ tự các file <code>.json</code> được cung cấp.
 <ul>
-<li>Teleport Next: Teleports to next location after pressing the selected hotkey.</li>
-<li>Teleport Previous: Teleports to previous location after pressing the selected hotkey.</li>
+<li>Dịch Chuyển Tới: Dịch chuyển tới vị trí tiếp theo sau khi nhấn phím tắt.</li>
+<li>Dịch Chuyển Lui: Dịch chuyển tới vị trí trước đó sau khi nhấn phím tắt.</li>
 </ul>
 </li>
 </ul>
 <blockquote>
-<p>Note: Recommended to set above <code>15s</code> for safety.</p>
+<p>Lưu ý: Khuyến khích đặt thời gian chờ giữa các lần dịch chuyển lớn hơn <code>15s</code> cho an toàn.</p>
 </blockquote>
-<h1> You can find out more on how to use this feature <a href="/vi/guide/custom-tp-setting.html" target="blank">here</a></h1>
+<h1> Bạn có thể xem thêm về cách sử dụng tính năng này <a href="/vi/guide/custom-tp-setting.html" target="blank">tại đây</a></h1>
 ]]></content:encoded>
     </item>
     <item>
@@ -937,19 +937,19 @@ Note 2: You can find the items IDs <a href="https://github.com/jie65535/Grasscut
       <link>https://korepi.com/vi/features/Teleport/map-teleport.html</link>
       <guid>https://korepi.com/vi/features/Teleport/map-teleport.html</guid>
       <source url="https://korepi.com/vi/rss.xml">Map Teleport</source>
-      <description>Map Teleport allows you to teleport to anywhere on the map. To use map teleport you have to enable it, and select the hotkey you going to use.; To teleport, hold the hotkey whil...</description>
+      <description>Dịch Chuyển Trên Bản Đồ cho phép bạn dịch chuyển tới bất kỳ vị trí nào trên bản đồ. Để sử dụng dịch chuyển trên bản đồ bạn cần bật tính năng này lên, và sau đó lựa chọn phím tắt...</description>
       <category>Features</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Map Teleport allows you to teleport to anywhere on the map.</h2>
+      <content:encoded><![CDATA[<h2> Dịch Chuyển Trên Bản Đồ cho phép bạn dịch chuyển tới bất kỳ vị trí nào trên bản đồ.</h2>
 <ul>
-<li>To use map teleport you have to enable it, and select the hotkey you going to use.</li>
-<li>To teleport, hold the hotkey while having the map opened and click on where you want to teleport.</li>
+<li>Để sử dụng dịch chuyển trên bản đồ bạn cần bật tính năng này lên, và sau đó lựa chọn phím tắt để sử dụng.</li>
+<li>Để thực hiện dịch chuyển, nhấn giữ phím tắt trong khi đang bật bản đồ và click chuột vào ví trị bạn muốn dịch chuyển tới.</li>
 </ul>
-<h3> Fast Teleport (<span style="color:yellow;">Sponsor</span>):</h3>
+<h3> Dịch Chuyển Nhanh (<span style="color:yellow;">Sponsor</span>):</h3>
 <ul>
-<li>Disables the loading screen within the selected distance while teleporting.</li>
+<li>Loại bỏ màn hình tải trong phạm vi được chọn khi thực hiện dịch chuyển.</li>
 </ul>
-<h2> Example Video:</h2>
+<h2> Video Minh Hoạ:</h2>
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/Xm3mTEbIE9g?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Map TP/Fast TP" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 ]]></content:encoded>
     </item>
@@ -958,14 +958,14 @@ Note 2: You can find the items IDs <a href="https://github.com/jie65535/Grasscut
       <link>https://korepi.com/vi/features/Teleport/quest-teleport.html</link>
       <guid>https://korepi.com/vi/features/Teleport/quest-teleport.html</guid>
       <source url="https://korepi.com/vi/rss.xml">Quest Teleport</source>
-      <description>Quest Teleports allows you to teleport to the current on-going quest location. To use this feature, you must click your navigation hotkey first and then click on quest teleport ...</description>
+      <description>Dịch Chuyển Tới Nhiệm Vụ cho phép bạn dịch chuyển tới vị trí của nhiệm vụ được đang thực hiện tại thời điểm hiện tại. Để sử dụng tính năng này, bạn phải nhấn phím tắt điều hướng...</description>
       <category>Features</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Quest Teleports allows you to teleport to the current on-going quest location.</h2>
+      <content:encoded><![CDATA[<h2> Dịch Chuyển Tới Nhiệm Vụ cho phép bạn dịch chuyển tới vị trí của nhiệm vụ được đang thực hiện tại thời điểm hiện tại.</h2>
 <ul>
-<li>To use this feature, you must click your navigation hotkey first and then click on quest teleport hotkey.</li>
+<li>Để sử dụng tính năng này, bạn phải nhấn phím tắt điều hướng tới nhiệm vụ trước sau đó nhấn phím tắt dịch chuyển tới nhiệm vụ.</li>
 </ul>
-<h2> Example Video:</h2>
+<h2> Video Minh Hoạ:</h2>
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/HNdQu39G2Tc?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - QuestTP" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 ]]></content:encoded>
     </item>
@@ -974,10 +974,10 @@ Note 2: You can find the items IDs <a href="https://github.com/jie65535/Grasscut
       <link>https://korepi.com/vi/features/Visuals/animation-changer.html</link>
       <guid>https://korepi.com/vi/features/Visuals/animation-changer.html</guid>
       <source url="https://korepi.com/vi/rss.xml">Animation Changer</source>
-      <description>Animation Changer, allows the player to change their current character animation to the selected one.</description>
+      <description>Thay Đổi Hoạt Ảnh cho phép người chơi thay đổi hoạt ảnh của nhân vật hiện tại thành hoạt ảnh của một nhân vật khác được chọn.</description>
       <category>Features</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Animation Changer, allows the player to change their current character animation to the selected one.</h2>
+      <content:encoded><![CDATA[<h2> Thay Đổi Hoạt Ảnh cho phép người chơi thay đổi hoạt ảnh của nhân vật hiện tại thành hoạt ảnh của một nhân vật khác được chọn.</h2>
 ]]></content:encoded>
     </item>
     <item>
@@ -985,10 +985,10 @@ Note 2: You can find the items IDs <a href="https://github.com/jie65535/Grasscut
       <link>https://korepi.com/vi/features/Visuals/camera-zoom.html</link>
       <guid>https://korepi.com/vi/features/Visuals/camera-zoom.html</guid>
       <source url="https://korepi.com/vi/rss.xml">Camera Zoom</source>
-      <description>Camera zoom allows the user to change their camera zoom to their desired value.</description>
+      <description>Camera Zoom cho phép người chơi thay đổi độ zoom của camera tuỳ thích.</description>
       <category>Features</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Camera zoom allows the user to change their camera zoom to their desired value.</h2>
+      <content:encoded><![CDATA[<h2> Camera Zoom cho phép người chơi thay đổi độ zoom của camera tuỳ thích.</h2>
 ]]></content:encoded>
     </item>
     <item>
@@ -996,22 +996,22 @@ Note 2: You can find the items IDs <a href="https://github.com/jie65535/Grasscut
       <link>https://korepi.com/vi/features/Visuals/constellation-modifier.html</link>
       <guid>https://korepi.com/vi/features/Visuals/constellation-modifier.html</guid>
       <source url="https://korepi.com/vi/rss.xml">Constellation Modifier</source>
-      <description>Sponsor Only Constellation Modifier, will change your active character constellations if selected, visually and some of them will actually work. You can find more information ab...</description>
+      <description>Sponsor Only Thay Đổi Cung Mệnh sẽ sửa đổi cung mệnh của nhân vật hiện tại khi được bật. Một số chỉ mang tính hình thức còn số một khác sẽ hoạt động được như cung mệnh thực sự. ...</description>
       <category>Features</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
       <content:encoded><![CDATA[<div class="hint-container info">
 <p class="hint-container-title">Sponsor Only</p>
 </div>
 <hr>
-<h2> Constellation Modifier, will change your active character constellations if selected, visually and some of them will actually work.</h2>
+<h2> Thay Đổi Cung Mệnh sẽ sửa đổi cung mệnh của nhân vật hiện tại khi được bật. Một số chỉ mang tính hình thức còn số một khác sẽ hoạt động được như cung mệnh thực sự.</h2>
 <ul>
-<li>You can find more information about which of them work at <code>#⁠cons-check</code> in the server.</li>
+<li>Bạn có thể tìm thêm thông tin về những cung mệnh nào thực sự hoạt động được tại <code>#⁠cons-check</code> trong server discord.</li>
 </ul>
 <div class="hint-container tip">
-<p class="hint-container-title">You have to switch to each character you want to activate the constellations first and then teleport far away to activate them.</p>
+<p class="hint-container-title">Bạn phải chuyển sang các nhân vật bạn muốn kích hoạt cung mệnh trước rồi sau đó dịch chuyển tới một ví trí ở xa để kích hoạt cung mệnh.</p>
 </div>
 <hr>
-<h2> Example Video:</h2>
+<h2> Video Minh Hoạ:</h2>
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/S9-g5weE9l8?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Constellation Modifier (Sponsor)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 ]]></content:encoded>
     </item>
@@ -1020,37 +1020,37 @@ Note 2: You can find the items IDs <a href="https://github.com/jie65535/Grasscut
       <link>https://korepi.com/vi/features/Visuals/custom-profile.html</link>
       <guid>https://korepi.com/vi/features/Visuals/custom-profile.html</guid>
       <source url="https://korepi.com/vi/rss.xml">Custom Profile</source>
-      <description>Custom Profile: UID: Select the UID you want to be displayed.; Nickname: Select the Nickname you want to be displayed.; Level: Select the Level you want to be displayed.; EXP: S...</description>
+      <description>Tuỳ Chỉnh Profile: UID: Lựa chọn UID mà bạn muốn hiển thị.; Tên: Lựa chọn Tên mà bạn muốn hiển thị.; Level: Lựa chọn Level mà bạn muốn hiển thị.; EXP: Lựa chọn lượng EXP mà bạn ...</description>
       <category>Features</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Custom Profile:</h2>
+      <content:encoded><![CDATA[<h2> Tuỳ Chỉnh Profile:</h2>
 <h3> UID:</h3>
 <ul>
-<li>Select the UID you want to be displayed.</li>
+<li>Lựa chọn UID mà bạn muốn hiển thị.</li>
 </ul>
-<h3> Nickname:</h3>
+<h3> Tên:</h3>
 <ul>
-<li>Select the Nickname you want to be displayed.</li>
+<li>Lựa chọn Tên mà bạn muốn hiển thị.</li>
 </ul>
 <h3> Level:</h3>
 <ul>
-<li>Select the Level you want to be displayed.</li>
+<li>Lựa chọn Level mà bạn muốn hiển thị.</li>
 </ul>
 <h3> EXP:</h3>
 <ul>
-<li>Select the EXP you want to be displayed.</li>
+<li>Lựa chọn lượng EXP mà bạn muốn hiển thị.</li>
 </ul>
-<h3> World Level:</h3>
+<h3> Cấp Thế Giới:</h3>
 <ul>
-<li>Select the World Level you want to be displayed.</li>
+<li>Lựa chọn Cấp Thế Giới mà bạn muốn hiển thị.</li>
 </ul>
-<h3> Avatar Image:</h3>
+<h3> Ảnh Đại Diện:</h3>
 <ul>
-<li>Use a custom png as avatar image.</li>
+<li>Sử dụng file png tuỳ chọn để làm ảnh đại diện.</li>
 </ul>
-<h3> Card Image:</h3>
+<h3> Danh Thiếp:</h3>
 <ul>
-<li>Use a custom png as card image.</li>
+<li>Sử dụng file png tuỳ chọn để làm danh thiếp.</li>
 </ul>
 ]]></content:encoded>
     </item>
@@ -1059,10 +1059,10 @@ Note 2: You can find the items IDs <a href="https://github.com/jie65535/Grasscut
       <link>https://korepi.com/vi/features/Visuals/custom-weather.html</link>
       <guid>https://korepi.com/vi/features/Visuals/custom-weather.html</guid>
       <source url="https://korepi.com/vi/rss.xml">Custom Weather</source>
-      <description>Custom Wether allows you to change the weather to your liking.</description>
+      <description>Tuỳ Chỉnh Thời Tiết cho phép bạn thay đổi thời tiết theo mong muốn.</description>
       <category>Features</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Custom Wether allows you to change the weather to your liking.</h2>
+      <content:encoded><![CDATA[<h2> Tuỳ Chỉnh Thời Tiết cho phép bạn thay đổi thời tiết theo mong muốn.</h2>
 ]]></content:encoded>
     </item>
     <item>
@@ -1070,10 +1070,10 @@ Note 2: You can find the items IDs <a href="https://github.com/jie65535/Grasscut
       <link>https://korepi.com/vi/features/Visuals/emotion-changer.html</link>
       <guid>https://korepi.com/vi/features/Visuals/emotion-changer.html</guid>
       <source url="https://korepi.com/vi/rss.xml">Emotion Changer</source>
-      <description>Emotion Changer allows the player to change the current character emotion to the selected one.</description>
+      <description>Thay Đổi Biểu Cảm cho phép người chơi thay đổi biểu cảm của nhân vật hiện tại thành một biểu cảm được lựa chọn khác.</description>
       <category>Features</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Emotion Changer allows the player to change the current character emotion to the selected one.</h2>
+      <content:encoded><![CDATA[<h2> Thay Đổi Biểu Cảm cho phép người chơi thay đổi biểu cảm của nhân vật hiện tại thành một biểu cảm được lựa chọn khác.</h2>
 ]]></content:encoded>
     </item>
     <item>
@@ -1081,21 +1081,21 @@ Note 2: You can find the items IDs <a href="https://github.com/jie65535/Grasscut
       <link>https://korepi.com/vi/features/Visuals/extra-visual-settings.html</link>
       <guid>https://korepi.com/vi/features/Visuals/extra-visual-settings.html</guid>
       <source url="https://korepi.com/vi/rss.xml">Extra Visual Settings</source>
-      <description>Extra Visual Settings: Gamma: Allows you to change the gamma value of the game.; Outline Width: Allows you to change the outline of every character in the game.; Anti-Aliasing: ...</description>
+      <description>Thiết Đặt Đồ Hoạ Bổ Sung: Gamma: Cho phép bạn điều chỉnh giá trị gamma trong game.; Chiều Rộng Outline: Cho phép bạn điều chỉnh outline của tất cả các nhân vật trong game.; Khử ...</description>
       <category>Features</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Extra Visual Settings:</h2>
+      <content:encoded><![CDATA[<h2> Thiết Đặt Đồ Hoạ Bổ Sung:</h2>
 <h3> Gamma:</h3>
 <ul>
-<li>Allows you to change the gamma value of the game.</li>
+<li>Cho phép bạn điều chỉnh giá trị gamma trong game.</li>
 </ul>
-<h3> Outline Width:</h3>
+<h3> Chiều Rộng Outline:</h3>
 <ul>
-<li>Allows you to change the outline of every character in the game.</li>
+<li>Cho phép bạn điều chỉnh outline của tất cả các nhân vật trong game.</li>
 </ul>
-<h3> Anti-Aliasing:</h3>
+<h3> Khử Răng Cưa:</h3>
 <ul>
-<li>Allows the player to change the anti-aliasing module to use, including some that are not available natively.</li>
+<li>Cho phép bạn thay đổi cơ chế khử răng cưa, bao gồm cả những cơ chế không có sẵn trong game.</li>
 </ul>
 ]]></content:encoded>
     </item>
@@ -1104,12 +1104,12 @@ Note 2: You can find the items IDs <a href="https://github.com/jie65535/Grasscut
       <link>https://korepi.com/vi/features/Visuals/fake-time.html</link>
       <guid>https://korepi.com/vi/features/Visuals/fake-time.html</guid>
       <source url="https://korepi.com/vi/rss.xml">Fake Time</source>
-      <description>Fake Time: Changes in game time, hour and minutes.;</description>
+      <description>Điều Chỉnh Thời Gian: Thay đổi thời gian giờ và phút trong game.;</description>
       <category>Features</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Fake Time:</h2>
+      <content:encoded><![CDATA[<h2> Điều Chỉnh Thời Gian:</h2>
 <ul>
-<li>Changes in game time, hour and minutes.</li>
+<li>Thay đổi thời gian giờ và phút trong game.</li>
 </ul>
 ]]></content:encoded>
     </item>
@@ -1118,10 +1118,10 @@ Note 2: You can find the items IDs <a href="https://github.com/jie65535/Grasscut
       <link>https://korepi.com/vi/features/Visuals/flycloak-modifier.html</link>
       <guid>https://korepi.com/vi/features/Visuals/flycloak-modifier.html</guid>
       <source url="https://korepi.com/vi/rss.xml">Flycloak Modifier</source>
-      <description>Flycloak Modifier allow the player to change their glider skin even if they don&amp;apos;t own it.</description>
+      <description>Thay Đổi Phong Chi Dực (cánh) cho phép người chơi thay đổi skin của phong chi dực cho dù không sở hữu chúng.</description>
       <category>Features</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Flycloak Modifier allow the player to change their glider skin even if they don't own it.</h2>
+      <content:encoded><![CDATA[<h2> Thay Đổi Phong Chi Dực (cánh) cho phép người chơi thay đổi skin của phong chi dực cho dù không sở hữu chúng.</h2>
 ]]></content:encoded>
     </item>
     <item>
@@ -1129,13 +1129,13 @@ Note 2: You can find the items IDs <a href="https://github.com/jie65535/Grasscut
       <link>https://korepi.com/vi/features/Visuals/fps-unlock.html</link>
       <guid>https://korepi.com/vi/features/Visuals/fps-unlock.html</guid>
       <source url="https://korepi.com/vi/rss.xml">FPS Unlock</source>
-      <description>Unlocks FPS.Unlocks FPS yeah.Unlocks FPS wow. Limit background FPS: Set the max fps game can reach when its not focused.;</description>
+      <description>Bỏ Giới Hạn FPS. Giới Hạn FPS Trong Nền: Thay đổi FPS tối đa của game khi đang không tập trung vào màn hình game.;</description>
       <category>Features</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Unlocks FPS.Unlocks FPS yeah.Unlocks FPS wow.</h2>
-<h3> Limit background FPS:</h3>
+      <content:encoded><![CDATA[<h2> Bỏ Giới Hạn FPS.</h2>
+<h3> Giới Hạn FPS Trong Nền:</h3>
 <ul>
-<li>Set the max fps game can reach when its not focused.</li>
+<li>Thay đổi FPS tối đa của game khi đang không tập trung vào màn hình game.</li>
 </ul>
 ]]></content:encoded>
     </item>
@@ -1144,24 +1144,24 @@ Note 2: You can find the items IDs <a href="https://github.com/jie65535/Grasscut
       <link>https://korepi.com/vi/features/Visuals/free-camera.html</link>
       <guid>https://korepi.com/vi/features/Visuals/free-camera.html</guid>
       <source url="https://korepi.com/vi/rss.xml">Free Camera</source>
-      <description>Free Camera: Move the camera freely without being locked to the character.; Freeze Character Animation: Freezes character animations.; Make Character Invisible: Makes character ...</description>
+      <description>Camera Tự Do: Di chuyển camera tự do mà không bị khoá vào nhân vật.; Đóng Băng Hoạt Ảnh Nhân Vật: Đóng băng hoạt ảnh của nhân vật.; Tàng Hình: Khiến nhân vật trở nên tàng hình.;...</description>
       <category>Features</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Free Camera:</h2>
+      <content:encoded><![CDATA[<h2> Camera Tự Do:</h2>
 <ul>
-<li>Move the camera freely without being locked to the character.</li>
+<li>Di chuyển camera tự do mà không bị khoá vào nhân vật.</li>
 </ul>
-<h3> Freeze Character Animation:</h3>
+<h3> Đóng Băng Hoạt Ảnh Nhân Vật:</h3>
 <ul>
-<li>Freezes character animations.</li>
+<li>Đóng băng hoạt ảnh của nhân vật.</li>
 </ul>
-<h3> Make Character Invisible:</h3>
+<h3> Tàng Hình:</h3>
 <ul>
-<li>Makes character invisible.</li>
+<li>Khiến nhân vật trở nên tàng hình.</li>
 </ul>
-<h3> Block User Input:</h3>
+<h3> Chặn User Input:</h3>
 <ul>
-<li>Blocks user input therefore character wont move while moving the camera.</li>
+<li>Chặn user input sẽ khiến nhân vật không di chuyển trong khi camera vẫn di chuyển bình thường.</li>
 </ul>
 ]]></content:encoded>
     </item>
@@ -1170,24 +1170,24 @@ Note 2: You can find the items IDs <a href="https://github.com/jie65535/Grasscut
       <link>https://korepi.com/vi/features/Visuals/hide-ui.html</link>
       <guid>https://korepi.com/vi/features/Visuals/hide-ui.html</guid>
       <source url="https://korepi.com/vi/rss.xml">Hide UI</source>
-      <description>Hide UI: Hides player user interface entirely.; Hide Ping: (Sponsor) Hides ping only.; Hide HP Bar: (Sponsor) Hides current character HP bar only.; Hide Team HP Bar: (Sponsor) H...</description>
+      <description>Ẩn UI: Ẩn toàn bộ giao diện người dùng.; Ẩn Ping: (Sponsor) Chỉ ẩn ping.; Ẩn Thanh Máu: (Sponsor) Chỉ ẩn thanh máu của nhân vật hiện tại.; Ẩn Thanh Máu Của Đội: (Sponsor) Chỉ ẩn...</description>
       <category>Features</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Hide UI:</h2>
+      <content:encoded><![CDATA[<h2> Ẩn UI:</h2>
 <ul>
-<li>Hides player user interface entirely.</li>
+<li>Ẩn toàn bộ giao diện người dùng.</li>
 </ul>
-<h3> Hide Ping: (<span style="color:yellow;">Sponsor</span>)</h3>
+<h3> Ẩn Ping: (<span style="color:yellow;">Sponsor</span>)</h3>
 <ul>
-<li>Hides ping only.</li>
+<li>Chỉ ẩn ping.</li>
 </ul>
-<h3> Hide HP Bar: (<span style="color:yellow;">Sponsor</span>)</h3>
+<h3> Ẩn Thanh Máu: (<span style="color:yellow;">Sponsor</span>)</h3>
 <ul>
-<li>Hides current character HP bar only.</li>
+<li>Chỉ ẩn thanh máu của nhân vật hiện tại.</li>
 </ul>
-<h3> Hide Team HP Bar: (<span style="color:yellow;">Sponsor</span>)</h3>
+<h3> Ẩn Thanh Máu Của Đội: (<span style="color:yellow;">Sponsor</span>)</h3>
 <ul>
-<li>Hides team hp bar on the character tab only.</li>
+<li>Chỉ ẩn thanh máu xuất hiện trên danh sách đội.</li>
 </ul>
 ]]></content:encoded>
     </item>
@@ -1196,10 +1196,10 @@ Note 2: You can find the items IDs <a href="https://github.com/jie65535/Grasscut
       <link>https://korepi.com/vi/features/Visuals/map-zoom.html</link>
       <guid>https://korepi.com/vi/features/Visuals/map-zoom.html</guid>
       <source url="https://korepi.com/vi/rss.xml">Map Zoom</source>
-      <description>Map Zoom modifies the values to be used in the map.</description>
+      <description>Map Zoom thay đổi các giá trị được sử dụng trong bản đồ.</description>
       <category>Features</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Map Zoom modifies the values to be used in the map.</h2>
+      <content:encoded><![CDATA[<h2> Map Zoom thay đổi các giá trị được sử dụng trong bản đồ.</h2>
 ]]></content:encoded>
     </item>
     <item>
@@ -1207,24 +1207,24 @@ Note 2: You can find the items IDs <a href="https://github.com/jie65535/Grasscut
       <link>https://korepi.com/vi/features/Visuals/monster-changer.html</link>
       <guid>https://korepi.com/vi/features/Visuals/monster-changer.html</guid>
       <source url="https://korepi.com/vi/rss.xml">Monster Changer</source>
-      <description>Monster Changer: When enabled, all new rendered monsters will be changed visually to the selected monster.; Exclude Animals: Enable or Disable changing animals.; Custom Monster ...</description>
+      <description>Thay Đổi Quái: Khi được bật, thay đổi ngoại hình của toàn bộ quái thành ngoại hình mới được chọn.; Loại Trừ Động Vật: Bật hoặc Tắt thay đổi ngoại hình động vật.; Tuỳ Chỉnh ID Qu...</description>
       <category>Features</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Monster Changer:</h2>
+      <content:encoded><![CDATA[<h2> Thay Đổi Quái:</h2>
 <ul>
-<li>When enabled, all new rendered monsters will be changed visually to the selected monster.</li>
+<li>Khi được bật, thay đổi ngoại hình của toàn bộ quái thành ngoại hình mới được chọn.</li>
 </ul>
-<h3> Exclude Animals:</h3>
+<h3> Loại Trừ Động Vật:</h3>
 <ul>
-<li>Enable or Disable changing animals.</li>
+<li>Bật hoặc Tắt thay đổi ngoại hình động vật.</li>
 </ul>
-<h3> Custom Monster ID:</h3>
+<h3> Tuỳ Chỉnh ID Quái:</h3>
 <ul>
-<li>Use ID instead of the provided list.</li>
+<li>Sử dụng ID thay vì danh sách được cấp sẵn.</li>
 </ul>
-<h3> Randomize Monster:</h3>
+<h3> Quái Ngẫu Nhiên:</h3>
 <ul>
-<li>The change will be random.</li>
+<li>Ngoại hình quái sẽ thay đổi ngẫu nhiên.</li>
 </ul>
 ]]></content:encoded>
     </item>
@@ -1233,26 +1233,26 @@ Note 2: You can find the items IDs <a href="https://github.com/jie65535/Grasscut
       <link>https://korepi.com/vi/features/Visuals/others.html</link>
       <guid>https://korepi.com/vi/features/Visuals/others.html</guid>
       <source url="https://korepi.com/vi/rss.xml">Others</source>
-      <description>Other Features: Show Chest Indicator Enable Peeking No Black Screen No fog No grass No map fog Paimon Follow Dolphin Dive GM Icon Menu Unlocker Sponsor Only No Camera Blur No Ca...</description>
+      <description>Các Tính Năng Khác: Hiện Báo Rương Bật Nhìn Lén Không Màn Hình Đen Không Sương Mù Không Hiện Cỏ Không Hiện Sương Mù Trên Bản Đồ Paimon Bay Theo Lặn Kiểu Cá Heo Biểu Tượng GM Mở ...</description>
       <category>Features</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Other Features:</h2>
-<h3> Show Chest Indicator</h3>
-<h3> Enable Peeking</h3>
-<h3> No Black Screen</h3>
-<h3> No fog</h3>
-<h3> No grass</h3>
-<h3> No map fog</h3>
-<h3> Paimon Follow</h3>
-<h3> Dolphin Dive</h3>
-<h3> GM Icon</h3>
-<h3> Menu Unlocker</h3>
+      <content:encoded><![CDATA[<h2> Các Tính Năng Khác:</h2>
+<h3> Hiện Báo Rương</h3>
+<h3> Bật Nhìn Lén</h3>
+<h3> Không Màn Hình Đen</h3>
+<h3> Không Sương Mù</h3>
+<h3> Không Hiện Cỏ</h3>
+<h3> Không Hiện Sương Mù Trên Bản Đồ</h3>
+<h3> Paimon Bay Theo</h3>
+<h3> Lặn Kiểu Cá Heo</h3>
+<h3> Biểu Tượng GM</h3>
+<h3> Mở Khoá Menu</h3>
 <h2> <span style="color:yellow;">Sponsor Only</span></h2>
-<h3> No Camera Blur</h3>
-<h3> No Camera Shake</h3>
-<h3> No Footprints</h3>
-<h3> No Burst Animation</h3>
-<h2> Example Video:</h2>
+<h3> Không Làm Mờ Camera</h3>
+<h3> Không Rung Camera</h3>
+<h3> Không Hiện Dấu Chân</h3>
+<h3> Bỏ Qua Hoạt Ảnh Kỹ Năng Nộ</h3>
+<h2> Video Minh Hoạ:</h2>
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/AjkJ8S8NHsI?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Visuals/Other" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>]]></content:encoded>
     </item>
     <item>
@@ -1260,10 +1260,10 @@ Note 2: You can find the items IDs <a href="https://github.com/jie65535/Grasscut
       <link>https://korepi.com/vi/features/Visuals/skin-modifier.html</link>
       <guid>https://korepi.com/vi/features/Visuals/skin-modifier.html</guid>
       <source url="https://korepi.com/vi/rss.xml">Skin Modifier</source>
-      <description>Skin Modifier allows the player to use in-game skins for free.</description>
+      <description>Thay Đổi Skin cho phép người chơi sử dụng miễn phí các skin trong game.</description>
       <category>Features</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Skin Modifier allows the player to use in-game skins for free.</h2>
+      <content:encoded><![CDATA[<h2> Thay Đổi Skin cho phép người chơi sử dụng miễn phí các skin trong game.</h2>
 ]]></content:encoded>
     </item>
     <item>
@@ -1271,14 +1271,14 @@ Note 2: You can find the items IDs <a href="https://github.com/jie65535/Grasscut
       <link>https://korepi.com/vi/features/Visuals/texture-changer.html</link>
       <guid>https://korepi.com/vi/features/Visuals/texture-changer.html</guid>
       <source url="https://korepi.com/vi/rss.xml">Texture Changer</source>
-      <description>Its better to use GIMI (../../guide/3DM-tutorial.md) for changing textures. Texture Changer allows to switch character parts to the provided .png files.</description>
+      <description>Its better to use GIMI (../../guide/3DM-tutorial.md) for changing textures. Thay Đổi Texture cho phép thay đổi các bộ phận của nhân vật theo các file .png được cung cấp.</description>
       <category>Features</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
       <content:encoded><![CDATA[<div class="hint-container info">
 <p class="hint-container-title">Its better to use [GIMI](../../guide/3DM-tutorial.md) for changing textures.</p>
 </div>
 <hr>
-<h2> Texture Changer allows to switch character parts to the provided .png files.</h2>
+<h2> Thay Đổi Texture cho phép thay đổi các bộ phận của nhân vật theo các file .png được cung cấp.</h2>
 ]]></content:encoded>
     </item>
     <item>
@@ -1286,15 +1286,15 @@ Note 2: You can find the items IDs <a href="https://github.com/jie65535/Grasscut
       <link>https://korepi.com/vi/features/World/auto-activate-tp.html</link>
       <guid>https://korepi.com/vi/features/World/auto-activate-tp.html</guid>
       <source url="https://korepi.com/vi/rss.xml">Auto Activate Teleport</source>
-      <description>Sponsor Only Auto Activate Teleport activates nearby waypoints up to 50m. Example Video:</description>
+      <description>Sponsor Only Tự Động Kích Hoạt Điểm Dịch Chuyển sẽ tự động kích hoạt các điểm dịch chuyển trong bán kính lên tới 50m. Video Minh Hoạ:</description>
       <category>Features</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
       <content:encoded><![CDATA[<div class="hint-container info">
 <p class="hint-container-title">Sponsor Only</p>
 </div>
 <hr>
-<h3> Auto Activate Teleport activates nearby waypoints up to 50m.</h3>
-<h2> Example Video:</h2>
+<h3> Tự Động Kích Hoạt Điểm Dịch Chuyển sẽ tự động kích hoạt các điểm dịch chuyển trong bán kính lên tới 50m.</h3>
+<h2> Video Minh Hoạ:</h2>
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/qstBErr9mJ0?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - AutoActivateTP (Sponsor)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 ]]></content:encoded>
     </item>
@@ -1303,11 +1303,11 @@ Note 2: You can find the items IDs <a href="https://github.com/jie65535/Grasscut
       <link>https://korepi.com/vi/features/World/auto-challenge.html</link>
       <guid>https://korepi.com/vi/features/World/auto-challenge.html</guid>
       <source url="https://korepi.com/vi/rss.xml">Auto Challenge</source>
-      <description>Auto Challenge lets you complete the current active time trial within a specified range and delay time, you can configure these to your liking. Example Video: Note: Not recommen...</description>
+      <description>Tự Động Khiêu Chiến cho phép bạn hoàn thành khiêu chiến giới hạn trong phạm vi và độ trễ nhất định. Bạn có thể điều chỉnh các thông số này tuỳ thích. Video Minh Hoạ: Note: Not r...</description>
       <category>Features</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
-      <content:encoded><![CDATA[<h3> Auto Challenge lets you complete the current active time trial within a specified range and delay time, you can configure these to your liking.</h3>
-<h2> Example Video:</h2>
+      <content:encoded><![CDATA[<h3> Tự Động Khiêu Chiến cho phép bạn hoàn thành khiêu chiến giới hạn trong phạm vi và độ trễ nhất định. Bạn có thể điều chỉnh các thông số này tuỳ thích.</h3>
+<h2> Video Minh Hoạ:</h2>
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/7JNegfQiK2U?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Challenge" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 <blockquote>
 <p>Note: Not recommended to use in low delays and very high ranges.</p>
@@ -1319,10 +1319,10 @@ Note 2: You can find the items IDs <a href="https://github.com/jie65535/Grasscut
       <link>https://korepi.com/vi/features/World/auto-cook.html</link>
       <guid>https://korepi.com/vi/features/World/auto-cook.html</guid>
       <source url="https://korepi.com/vi/rss.xml">Auto Cook</source>
-      <description>Auto Cook lets you cook a specified quantity and quality of the selected food on the cooking page, it counts with an auto proficiency (Auto unlock auto cook) built-in. Example V...</description>
+      <description>Tự Động Nấu Nướng cho phép bạn nấu loại thực phẩm được chọn với chất lượng và số lượng tuỳ chỉnh. Bạn có thể sử dụng chức năng này cùng với chức năng tự động mở khoá thông thạo ...</description>
       <category>Features</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
-      <content:encoded><![CDATA[<h3> Auto Cook lets you cook a specified quantity and quality of the selected food on the cooking page, it counts with an auto proficiency (Auto unlock auto cook) built-in.</h3>
+      <content:encoded><![CDATA[<h3> Tự Động Nấu Nướng cho phép bạn nấu loại thực phẩm được chọn với chất lượng và số lượng tuỳ chỉnh. Bạn có thể sử dụng chức năng này cùng với chức năng tự động mở khoá thông thạo nấu nướng để có thể nấu tự động.</h3>
 <h2> Example Video:</h2>
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/T_X13AXiAiY?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Cook" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 ]]></content:encoded>
@@ -1332,11 +1332,11 @@ Note 2: You can find the items IDs <a href="https://github.com/jie65535/Grasscut
       <link>https://korepi.com/vi/features/World/auto-destroy.html</link>
       <guid>https://korepi.com/vi/features/World/auto-destroy.html</guid>
       <source url="https://korepi.com/vi/rss.xml">Auto Destroy Objects</source>
-      <description>Auto Destroy Objects lets you destroy customizable objects within a specified range, in which it includes, ores, plants, rock piles, chests, special objects, shields, etc. Examp...</description>
+      <description>Tự Động Phá Huỷ Vật Thể cho phép bạn tự động phá huỷ các vật thể được chọn trong phạm vi tuỳ chỉnh, bao gồm quặng, thực vật, mỏm đá, rương, các vật thể đặc biệt, khiên, etc. Vid...</description>
       <category>Features</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
-      <content:encoded><![CDATA[<h3> Auto Destroy Objects lets you destroy customizable objects within a specified range, in which it includes, ores, plants, rock piles, chests, special objects, shields, etc.</h3>
-<h2> Example Video:</h2>
+      <content:encoded><![CDATA[<h3> Tự Động Phá Huỷ Vật Thể cho phép bạn tự động phá huỷ các vật thể được chọn trong phạm vi tuỳ chỉnh, bao gồm quặng, thực vật, mỏm đá, rương, các vật thể đặc biệt, khiên, etc.</h3>
+<h2> Video Minh Hoạ:</h2>
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/3ML6s3SR8nE?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Destroy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 <blockquote>
 <p>Note: Recommended value is below <code>20m</code>, not recommended to use at max range (<code>40m</code>)</p>
@@ -1348,11 +1348,11 @@ Note 2: You can find the items IDs <a href="https://github.com/jie65535/Grasscut
       <link>https://korepi.com/vi/features/World/auto-fish.html</link>
       <guid>https://korepi.com/vi/features/World/auto-fish.html</guid>
       <source url="https://korepi.com/vi/rss.xml">Auto Fish</source>
-      <description>Auto fish lets you skip the catching fish animation, which will reduce the time needed to catch a fish. Example Video: Note: Auto Recast is not working at the time creating this...</description>
+      <description>Tự Động Câu Cá cho phép bạn bỏ qua hoạt ảnh câu cá, giúp giảm thời gian câu. Video Minh Hoạ: Note: Auto Recast is not working at the time creating this post.</description>
       <category>Features</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
-      <content:encoded><![CDATA[<h3> Auto fish lets you skip the catching fish animation, which will reduce the time needed to catch a fish.</h3>
-<h2> Example Video:</h2>
+      <content:encoded><![CDATA[<h3> Tự Động Câu Cá cho phép bạn bỏ qua hoạt ảnh câu cá, giúp giảm thời gian câu.</h3>
+<h2> Video Minh Hoạ:</h2>
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/K_l4Tg-81iQ?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Fish" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 <blockquote>
 <p>Note: Auto Recast is not working at the time creating this post.</p>
@@ -1364,11 +1364,11 @@ Note 2: You can find the items IDs <a href="https://github.com/jie65535/Grasscut
       <link>https://korepi.com/vi/features/World/auto-loot.html</link>
       <guid>https://korepi.com/vi/features/World/auto-loot.html</guid>
       <source url="https://korepi.com/vi/rss.xml">Auto Loot</source>
-      <description>Auto loot lets you auto collect loot withing the selected range and delay, the loot that will be collected can be customized, including chests, mob drops and more. Example Video...</description>
+      <description>Tự Động Nhặt cho phép bạn tự động nhặt trong phạm vi và độ trễ nhất định. Bạn có thể tuỳ chỉnh những thứ có thể tự động nhặt, bao gồm rương,vật phẩm rớt từ quái và nhiều thứ khá...</description>
       <category>Features</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Auto loot lets you auto collect loot withing the selected range and delay, the loot that will be collected can be customized, including chests, mob drops and more.</h2>
-<h2> Example Video:</h2>
+      <content:encoded><![CDATA[<h2> Tự Động Nhặt cho phép bạn tự động nhặt trong phạm vi và độ trễ nhất định. Bạn có thể tuỳ chỉnh những thứ có thể tự động nhặt, bao gồm rương,vật phẩm rớt từ quái và nhiều thứ khác.</h2>
+<h2> Video Minh Hoạ:</h2>
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/wUyI2XO_Z4E?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Loot" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 <blockquote>
 <p>Note: Recommended below <code>10m</code> for normal use and <code>20m</code> if using custom tp.
@@ -1381,11 +1381,11 @@ Note 2: Higher the distance higher delay should be used.</p>
       <link>https://korepi.com/vi/features/World/auto-seelie.html</link>
       <guid>https://korepi.com/vi/features/World/auto-seelie.html</guid>
       <source url="https://korepi.com/vi/rss.xml">Auto Seelie</source>
-      <description>Auto Seelie removes the necesity of the player to follow the seelie constantly, seelie with go to the designed destination when the player gets close. Example Video:</description>
+      <description>Tự Động Dẫn Đường Seelie loại bỏ việc bạn phải đi theo seelie liên tục. Seelie sẽ đi thẳng tới điểm đích khi người chơi đứng gần đó. Video Minh Hoạ:</description>
       <category>Features</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Auto Seelie removes the necesity of the player to follow the seelie constantly, seelie with go to the designed destination when the player gets close.</h2>
-<h2> Example Video:</h2>
+      <content:encoded><![CDATA[<h2> Tự Động Dẫn Đường Seelie loại bỏ việc bạn phải đi theo seelie liên tục. Seelie sẽ đi thẳng tới điểm đích khi người chơi đứng gần đó.</h2>
+<h2> Video Minh Hoạ:</h2>
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/uETIJ4KS39M?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Seelie" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 ]]></content:encoded>
     </item>
@@ -1394,46 +1394,46 @@ Note 2: Higher the distance higher delay should be used.</p>
       <link>https://korepi.com/vi/features/World/auto-talk.html</link>
       <guid>https://korepi.com/vi/features/World/auto-talk.html</guid>
       <source url="https://korepi.com/vi/rss.xml">Auto Talk</source>
-      <description>Auto Talk: Talks automatically with the NPCs Fast Dialog: Speeds up the game with the selected value to make the dialog faster.; Note: Not recommended to use above 5. Skip Dialo...</description>
+      <description>Trò Chuyện Tự Động: Tự động trò chuyện với NPC Tua Nhanh Hội Thoại: Tăng tốc độ của game tới một giá trị cụ thể nhằm tua nhanh độ trò chuyện.; Lưu ý: Không khuyến khích đặt giá ...</description>
       <category>Features</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Auto Talk: Talks automatically with the NPCs</h2>
-<h3> Fast Dialog:</h3>
+      <content:encoded><![CDATA[<h2> Trò Chuyện Tự Động: Tự động trò chuyện với NPC</h2>
+<h3> Tua Nhanh Hội Thoại:</h3>
 <ul>
-<li>Speeds up the game with the selected value to make the dialog faster.</li>
+<li>Tăng tốc độ của game tới một giá trị cụ thể nhằm tua nhanh độ trò chuyện.</li>
 </ul>
 <blockquote>
-<p>Note: Not recommended to use above <code>5</code>.</p>
+<p>Lưu ý: Không khuyến khích đặt giá trị lớn hơn <code>5</code>.</p>
 </blockquote>
-<h3> Skip Dialog (Sponsor):</h3>
+<h3> Bỏ Qua Hội Thoại (Sponsor):</h3>
 <ul>
-<li>Skips the dialog with the selected delay. Its safer than fast dialog.</li>
+<li>Bỏ qua đoạn hội thoại với độ trễ nhất định. Chức năng này an toàn hơn Tua Nhanh Hội Thoại.</li>
 </ul>
 <blockquote>
-<p>Note: Not recommended to use below <code>200ms</code></p>
+<p>Lưu ý: Không khuyến khích đặt độ trễ nhỏ hơn <code>200ms</code></p>
 </blockquote>
-<h3> Fast Cutscene:</h3>
+<h3> Tua Nhanh Đoạn Cắt:</h3>
 <ul>
-<li>Speeds up the game with the selected value to make the cutscene faster.</li>
+<li>Tăng tốc độ của game tới một giá trị cụ thể nhằm tua nhanh đoạn cắt.</li>
 </ul>
 <blockquote>
-<p>Note: Not recommended to use above <code>5</code></p>
+<p>Lưu ý: Không khuyến khích đặt giá trị lớn hơn <code>5</code></p>
 </blockquote>
-<h3> Skip Talk Scenes:</h3>
+<h3> Bỏ Qua Cảnh Trò Chuyện:</h3>
 <ul>
-<li>Skips a talk scene if its triggered or on-going.</li>
+<li>Bỏ qua cảnh trò chuyển khi cảnh trò chuyện được kích hoạt hoặc đang diễn ra.</li>
 </ul>
 <blockquote>
-<p>Note: Might get black screen while using it.</p>
+<p>Lưu ý: Có thể bị màn hình đen khi sử dụng tính năng này.</p>
 </blockquote>
-<h3> Skip Cutscene:</h3>
+<h3> Bỏ Qua Đoạn Cắt:</h3>
 <ul>
-<li>Skips a Cutscene if its triggered or on-going.</li>
+<li>Bỏ qua đoạn cắt khi đoạn cắt được kích hoạt hoặc đang diễn ra.</li>
 </ul>
 <blockquote>
-<p>Note: Might get black screen while using it.</p>
+<p>Lưu ý: Có thể bị màn hình đen khi sử dụng tính năng này.</p>
 </blockquote>
-<h2> Example Video:</h2>
+<h2> Video Minh Hoạ:</h2>
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/IS0BvLLO1xc?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - AutoTalk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 ]]></content:encoded>
     </item>
@@ -1442,15 +1442,15 @@ Note 2: Higher the distance higher delay should be used.</p>
       <link>https://korepi.com/vi/features/World/auto-tree-farm.html</link>
       <guid>https://korepi.com/vi/features/World/auto-tree-farm.html</guid>
       <source url="https://korepi.com/vi/rss.xml">Auto Tree Farm</source>
-      <description>Sponsor Only Auto Tree Farm lets you punch nearby trees with the selected value and delay, therefore automatically getting wood from nearby trees. Example Video: Note: Not recom...</description>
+      <description>Sponsor Only Tự Động Đốn Gỗ cho phép bạn đốn các cây xung quanh trong phạm vi và độ trễ nhất định để lấy gỗ. Video Minh Hoạ: Note: Not recommended to change default values.</description>
       <category>Features</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
       <content:encoded><![CDATA[<div class="hint-container info">
 <p class="hint-container-title">Sponsor Only</p>
 </div>
 <hr>
-<h3> Auto Tree Farm lets you punch nearby trees with the selected value and delay, therefore automatically getting wood from nearby trees.</h3>
-<h2> Example Video:</h2>
+<h3> Tự Động Đốn Gỗ cho phép bạn đốn các cây xung quanh trong phạm vi và độ trễ nhất định để lấy gỗ.</h3>
+<h2> Video Minh Hoạ:</h2>
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/v95_NOxc4do?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Tree Farm" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 <blockquote>
 <p>Note: Not recommended to change default values.</p>
@@ -1462,15 +1462,15 @@ Note 2: Higher the distance higher delay should be used.</p>
       <link>https://korepi.com/vi/features/World/elemental-aura.html</link>
       <guid>https://korepi.com/vi/features/World/elemental-aura.html</guid>
       <source url="https://korepi.com/vi/rss.xml">Elemental Aura</source>
-      <description>Sponsor Only Elemental Aura applies elements with the specified element, range and delay to targets, objects or yourself, multiple elements can be applied to nearby targets. Exa...</description>
+      <description>Sponsor Only Hào Quang Nguyên Tố sẽ áp dụng các nguyên tố được chọn với một phạm vi và độ trễ nhất định lên các mục tiêu, vật thể hoặc bản thân người chơi. Có thể áp dụng nhiều ...</description>
       <category>Features</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
       <content:encoded><![CDATA[<div class="hint-container info">
 <p class="hint-container-title">Sponsor Only</p>
 </div>
 <hr>
-<h3> Elemental Aura applies elements with the specified element, range and delay to  targets, objects or yourself, multiple elements can be applied to nearby targets.</h3>
-<h2> Example Video:</h2>
+<h3> Hào Quang Nguyên Tố sẽ áp dụng các nguyên tố được chọn với một phạm vi và độ trễ nhất định lên các mục tiêu, vật thể hoặc bản thân người chơi. Có thể áp dụng nhiều nguyên tố khác nhau cùng một</h3>
+<h2> Video Minh Hoạ:</h2>
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/FskTJiknOgQ?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Elemental Aura (Sponsor)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 <blockquote>
 <p>Note: Low delay times will increase the chance of detection.</p>
@@ -1482,14 +1482,14 @@ Note 2: Higher the distance higher delay should be used.</p>
       <link>https://korepi.com/vi/features/World/game-speed.html</link>
       <guid>https://korepi.com/vi/features/World/game-speed.html</guid>
       <source url="https://korepi.com/vi/rss.xml">Game Speed</source>
-      <description>Game Speed. Speedups or slowdowns the game. Unexpected. Note: Not recommended to use outside of menus, or in general. Example Video:</description>
+      <description>Điều Chỉnh Tốc Độ Game. Tăng Hoặc Giảm Tốc Độ Của Game Theo Ý Muốn. Lưu ý: Không khuyến khích sử dụng tính năng này. Video Minh Hoạ:</description>
       <category>Features</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
-      <content:encoded><![CDATA[<h3> Game Speed. Speedups or slowdowns the game. Unexpected.</h3>
+      <content:encoded><![CDATA[<h3> Điều Chỉnh Tốc Độ Game. Tăng Hoặc Giảm Tốc Độ Của Game Theo Ý Muốn.</h3>
 <blockquote>
-<p>Note: Not recommended to use outside of menus, or in general.</p>
+<p>Lưu ý: Không khuyến khích sử dụng tính năng này.</p>
 </blockquote>
-<h2> Example Video:</h2>
+<h2> Video Minh Hoạ:</h2>
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/MzXhudYkaDg?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Game Speed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 ]]></content:encoded>
     </item>
@@ -1498,45 +1498,45 @@ Note 2: Higher the distance higher delay should be used.</p>
       <link>https://korepi.com/vi/features/World/kill-aura.html</link>
       <guid>https://korepi.com/vi/features/World/kill-aura.html</guid>
       <source url="https://korepi.com/vi/rss.xml">Kill Aura</source>
-      <description>This feature has a high risk of ban. Kill Aura: Deals damage to surrounding enemies Crash Damage mode: Deals fall damage to surrounding enemies with the specified value, delay a...</description>
+      <description>This feature has a high risk of ban. Tử Quang: Gây Sát Thương Cho Kẻ Địch Xung Quanh Chế Độ Crash Damage: Gây loại sát thương như khi bị rơi lên kẻ địch xung quanh với lượng sát...</description>
       <category>Features</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
       <content:encoded><![CDATA[<div class="hint-container danger">
 <p class="hint-container-title">This feature has a high risk of ban.</p>
 </div>
 <hr>
-<h2> Kill Aura: Deals damage to surrounding enemies</h2>
-<h3> Crash Damage mode:</h3>
+<h2> Tử Quang: Gây Sát Thương Cho Kẻ Địch Xung Quanh</h2>
+<h3> Chế Độ Crash Damage:</h3>
 <ul>
-<li>Deals fall damage to surrounding enemies with the specified value, delay and range.</li>
+<li>Gây loại sát thương như khi bị rơi lên kẻ địch xung quanh với lượng sát thương, phạm vi và độ trễ nhất định.</li>
 </ul>
 <blockquote>
-<p>Note: Not recommended to use very high values.</p>
+<p>Lưu ý: Không khuyến khích đặt lượng sát thương quá cao.</p>
 </blockquote>
-<h3> Percent Mode:</h3>
+<h3> Chế Độ Theo Phần Trăm:</h3>
 <ul>
-<li>Number of hits needed to kill an enemy.</li>
+<li>Số lượng lần gây sát thương cần để tiêu diệt kẻ địch</li>
 </ul>
 <blockquote>
-<p>Note: Recommended to use <code>3</code> or higher values.</p>
+<p>Lưu ý: Khuyến khích đặt số lần gây sát thương lớn hơn hoặc bằng <code>3</code>.</p>
 </blockquote>
-<h3> Left HP:</h3>
+<h3> Lượng Máu Còn Lại:</h3>
 <ul>
-<li>Whether or not to leave the specified amount of HP to surrounding enemies.</li>
+<li>Bật hoặc tắt chế độ ngừng tự động gây sát thương khi kẻ địch xung quanh đạt một lượng máu nhất định.</li>
 </ul>
-<h3> Instant Death Mode:</h3>
+<h3> Chế Độ Chết Ngay Lập Tức:</h3>
 <ul>
-<li>Will try to make the enemy disappear</li>
+<li>Khiến kẻ địch bay màu ngay lập tức.</li>
 </ul>
 <blockquote>
-<p>Note: Might get buggy with some bosses.
-Note 2: Not recommended to use.</p>
+<p>Lưu ý: Có thể bị lỗi đối với một số loại boss.
+Lưu ý 2: Không khuyến khích sử dụng chức năng này.</p>
 </blockquote>
-<h3> Only Hostile/Aggro:</h3>
+<h3> Chỉ Chọn Các Mục Tiêu Bị Khiêu Khích:</h3>
 <ul>
-<li>Whether or not to target only hostile mobs.</li>
+<li>Bật hoặc tắt việc chỉ tự động gây sát thương lên quái đang bị khiêu khích.</li>
 </ul>
-<h2> Example Video:</h2>
+<h2> Video Minh Hoạ:</h2>
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/NiAh00VBy-w?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Kill Aura" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 ]]></content:encoded>
     </item>
@@ -1545,11 +1545,11 @@ Note 2: Not recommended to use.</p>
       <link>https://korepi.com/vi/features/World/mob-vacuum.html</link>
       <guid>https://korepi.com/vi/features/World/mob-vacuum.html</guid>
       <source url="https://korepi.com/vi/rss.xml">Mob Vacuum</source>
-      <description>Mob Vacuum move nearby mobs to the player with the selected speed and range, the mobs that will be affected can be customized. Example Video: Note: Recommended below 20m.</description>
+      <description>Hút Quái sẽ hút quái xung quanh lại gần người chơi với tốc độ và phạm vi được lựa chọn. Có thể tuỳ chỉnh danh sách quái bị hút. Video Minh Hoạ: Note: Recommended below 20m.</description>
       <category>Features</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Mob Vacuum move nearby mobs to the player with the selected speed and range, the mobs that will be affected can be customized.</h2>
-<h2> Example Video:</h2>
+      <content:encoded><![CDATA[<h2> Hút Quái sẽ hút quái xung quanh lại gần người chơi với tốc độ và phạm vi được lựa chọn. Có thể tuỳ chỉnh danh sách quái bị hút.</h2>
+<h2> Video Minh Hoạ:</h2>
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/KNzVgG_V10I?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Mob Vacuum" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 <blockquote>
 <p>Note: Recommended below <code>20m</code>.</p>
@@ -1561,11 +1561,11 @@ Note 2: Not recommended to use.</p>
       <link>https://korepi.com/vi/features/World/vacuum-loot.html</link>
       <guid>https://korepi.com/vi/features/World/vacuum-loot.html</guid>
       <source url="https://korepi.com/vi/rss.xml">Vacuum Loot</source>
-      <description>Vacuum Loot moves nearby drops to the player with the specified range and delay. Example Video: Note: Recommended below 20m.</description>
+      <description>Hút Vật Phẩm sẽ hút các vật phẩm xung quanh lại gần người chơi trong phạm vi và độ trễ nhất định. Video Minh Hoạ: Note: Recommended below 20m.</description>
       <category>Features</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Vacuum Loot moves nearby drops to the player with the specified range and delay.</h2>
-<h2> Example Video:</h2>
+      <content:encoded><![CDATA[<h2> Hút Vật Phẩm sẽ hút các vật phẩm xung quanh lại gần người chơi trong phạm vi và độ trễ nhất định.</h2>
+<h2> Video Minh Hoạ:</h2>
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/iMElTsNF77c?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Vacuum Loot" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 <blockquote>
 <p>Note: Recommended below <code>20m</code>.</p>
