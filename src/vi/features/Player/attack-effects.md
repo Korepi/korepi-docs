@@ -27,7 +27,7 @@ order: 1
 > Lưu ý: Không khuyến khích chỉnh lớn hơn `1.5`.
 ### Tuỳ Chỉnh Nguyên Tố:
 - Điều chỉnh nguyên tố của mọi đòn tấn công.
-### Dung Hợp Nguyên Tố:
+### Gắn Nguyên Tố:
 - Điều chỉnh nguyên tố của đòn đánh thường từ kiếm, thương và trọng đao.
 ### Tự Động Đánh Vào Điểm Yếu:
 - Tấn công vào điểm yếu mục tiêu (chí mạng), chỉ hoạt động khi sử dụng cung.
@@ -36,6 +36,6 @@ order: 1
 ### Loại Bỏ Nguyên Tố Của Sát Thương Nhận Vào:
 - Loại bỏ nguyên tố của sát thương nhận vào và chuyển nó thành sát thương vật lý.
 
-## Video Ví Dụ:
+## Video Minh Hoạ:
 
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/1BdKwxBjWyg?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Attack Effects" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>

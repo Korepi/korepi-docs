@@ -9,7 +9,7 @@ author: Schvis
 order: 3
 ---
 
-### Auto Cook lets you cook a specified quantity and quality of the selected food on the cooking page, it counts with an auto proficiency (Auto unlock auto cook) built-in.
+### Tự Động Nấu Nướng cho phép bạn nấu loại thực phẩm được chọn với chất lượng và số lượng tuỳ chỉnh. Bạn có thể sử dụng chức năng này cùng với chức năng tự động mở khoá thông thạo nấu nướng để có thể nấu tự động.
 
 ## Example Video:
 

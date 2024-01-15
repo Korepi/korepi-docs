@@ -9,10 +9,10 @@ author: Schvis
 order: 11
 ---
 
-### Game Speed. Speedups or slowdowns the game. Unexpected.
+### Điều Chỉnh Tốc Độ Game. Tăng Hoặc Giảm Tốc Độ Của Game Theo Ý Muốn.
 
->Note: Not recommended to use outside of menus, or in general.
+>Lưu ý: Không khuyến khích sử dụng tính năng này.
 
-## Example Video:
+## Video Minh Hoạ:
 
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/MzXhudYkaDg?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Game Speed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
