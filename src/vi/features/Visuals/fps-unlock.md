@@ -9,6 +9,6 @@ author: Schvis
 order: 8
 ---
 
-## Unlocks FPS.Unlocks FPS yeah.Unlocks FPS wow.
-### Limit background FPS:
-- Set the max fps game can reach when its not focused.
+## Bỏ Giới Hạn FPS.
+### Giới Hạn FPS Trong Nền:
+- Thay đổi FPS tối đa của game khi đang không tập trung vào màn hình game.

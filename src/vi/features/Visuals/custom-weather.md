@@ -9,4 +9,4 @@ author: Schvis
 order: 5
 ---
 
-## Custom Wether allows you to change the weather to your liking.
+## Tuỳ Chỉnh Thời Tiết cho phép bạn thay đổi thời tiết theo mong muốn.

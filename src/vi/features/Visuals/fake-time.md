@@ -9,5 +9,5 @@ author: Schvis
 order: 9
 ---
 
-## Fake Time:
-- Changes in game time, hour and minutes.
+## Điều Chỉnh Thời Gian:
+- Thay đổi thời gian giờ và phút trong game.

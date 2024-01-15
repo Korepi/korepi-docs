@@ -9,20 +9,20 @@ author: Schvis
 order: 9
 ---
 
-## No Clip will allow you to have no collision, move faster and fly.
-### No Animation:
-- When enabled it will disable animations of the character while using no clip.
-### Camera-relative movement:
-- When enabled, character will move based on camera view instead of where the character is facing.
-### Alternate No-Clip:
-- When enabled, no clip speed will change after pressing the selected hotkey at the designed speed.
-### Use Custom Keys:
-- Enables the option to change no-clip directional controls.
-### DragBack Bypass:
-- Prevents the server to drag the character back due to excessive speed.
+## Xuyên Tường sẽ cho phép bạn di chuyển xuyên vật thể, di chuyển nhanh hơn và bay.
+### Không Hoạt Ảnh:
+- Khi bật, hoạt ảnh của nhân vật sẽ bị loại bỏ khi sử dụng Xuyên Tường.
+### Di Chuyển Theo Hướng Camera:
+- Khi bật, nhân vật sẽ di chuyển theo hướng camera thay vì hướng của nhân vật đang quay mặt.
+### Chế Độ Xuyên Tường Thay Thế:
+- Khi bật, tốc độ xuyên tường sẽ thay đổi thành giá trị được thiết lập khi phím tắt được nhấn.
+### Sử Dụng Phím Tuỳ Chỉnh:
+- Cho phép tuỳ chỉnh các phím điều hướng khi di chuyển xuyên tường.
+### Chống Giật Ngược:
+- Ngăn server giật ngược nhân vật khi di chuyển quá nhanh.
 
-> Note: Not recommended to use above `20`.
+> Lưu ý: Không khuyến khích sử dụng thiết đặt lớn hơn `20`.
 
-## Example Video:
+## Video Minh Hoạ:
 
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/nPdq-yzBt3k?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - NoClip" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>

@@ -11,9 +11,9 @@ order: 10
 ::: info Sponsor Only
 :::
 ---
-### Elemental Aura applies elements with the specified element, range and delay to  targets, objects or yourself, multiple elements can be applied to nearby targets.
+### Hào Quang Nguyên Tố sẽ áp dụng các nguyên tố được chọn với một phạm vi và độ trễ nhất định lên các mục tiêu, vật thể hoặc bản thân người chơi. Có thể áp dụng nhiều nguyên tố khác nhau cùng một
 
-## Example Video:
+## Video Minh Hoạ:
 
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/FskTJiknOgQ?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Elemental Aura (Sponsor)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
 

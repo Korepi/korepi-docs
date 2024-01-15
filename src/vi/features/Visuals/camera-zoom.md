@@ -9,4 +9,4 @@ author: Schvis
 order: 2
 ---
 
-## Camera zoom allows the user to change their camera zoom to their desired value.
+## Camera Zoom cho phép người chơi thay đổi độ zoom của camera tuỳ thích.
