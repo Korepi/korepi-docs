@@ -1,14 +1,14 @@
 ---
-title: Extra Movements
+title: Di Chuyển Nâng Cao
 icon: bolt
 category:
-  - Features
+  - Các Tính Năng
 tag:
-  - Extra Movements
+  - Di Chuyển Nâng Cao
 author: Schvis
 order: 5
 ---
-::: info Sponsor Only
+::: info Chức Năng Chỉ Dành Cho Nhà Tài Trợ
 :::
 ---
 ## Di Chuyển Nâng Cao: Chỉnh sửa một số hành động cụ thể của người chơi.

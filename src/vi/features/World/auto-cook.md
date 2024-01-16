@@ -1,10 +1,10 @@
 ---
-title: Auto Cook
+title: Tự Động Nấu Nướng
 icon: kitchen-set
 category:
-  - Features
+  - Các Tính Năng
 tag:
-  - Auto Cook
+  - Tự Động Nấu Nướng
 author: Schvis
 order: 3
 ---

@@ -1,10 +1,10 @@
 ---
-title: Others
+title: Các Tính Năng Khác
 icon: layer-group
 category:
-  - Features
+  - Các Tính Năng
 tag:
-  - Others
+  - Các Tính Năng Khác
 author: Schvis
 order: 17
 ---

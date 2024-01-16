@@ -1,10 +1,10 @@
 ---
-title: Skin Modifier
+title: Thay Đổi Skin
 icon: list
 category:
-  - Features
+  - Các Tính Năng
 tag:
-  - Skin Modifier
+  - Thay Đổi Skin
 author: Schvis
 order: 15
 ---

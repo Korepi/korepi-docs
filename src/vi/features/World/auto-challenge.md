@@ -1,10 +1,10 @@
 ---
-title: Auto Challenge
+title: Tự Động Khiêu Chiến
 icon: power-off
 category:
-  - Features
+  - Các Tính Năng
 tag:
-  - Auto Challenge
+  - Tự Động Khiêu Chiến
 author: Schvis
 order: 2
 ---

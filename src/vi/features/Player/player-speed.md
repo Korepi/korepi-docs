@@ -1,18 +1,18 @@
 ---
-title: Player Speed
+title: Tốc Độ Nhân Vật
 icon: forward-fast
 category:
-  - Features
+  - Các Tính Năng
 tag:
-  - Player Speed
+  - Tốc Độ Nhân Vật
 author: Schvis
 order: 10
 ---
 
-## Tốc Độ Người Chơi điều chỉnh tốc độ của người chơi.
+## Tốc Độ Nhân Vật cho phép điều chỉnh tốc độ của người chơi.
 
 > Lưu ý: Khuyến khích sử dụng thiết đặt dưới `1.5`.
-> Lưu ý 2: [Di Chuyển Nâng Cao](extra-movements.md) được khuyến khích sử dụng hơn vì chức năng này động bộ tốt hơn với server (an toàn hơn)(Sponsor)
+> Lưu ý 2: [Di Chuyển Nâng Cao](extra-movements.md) được khuyến khích sử dụng hơn vì chức năng này động bộ tốt hơn với server (an toàn hơn)(chỉ dành cho nhà tài trợ)
 
 ## Video Minh Hoạ:
 

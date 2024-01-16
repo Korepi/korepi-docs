@@ -1,12 +1,12 @@
 ---
-title: Camera Zoom
+title: Thu Phóng Camera
 icon: camera
 category:
-  - Features
+  - Các Tính Năng
 tag:
-  - Camera Zoom
+  - Thu Phóng Camera
 author: Schvis
 order: 2
 ---
 
-## Camera Zoom cho phép người chơi thay đổi độ zoom của camera tuỳ thích.
+## Thu Phóng Camera cho phép người chơi thay đổi độ thu phóng của camera tuỳ thích.

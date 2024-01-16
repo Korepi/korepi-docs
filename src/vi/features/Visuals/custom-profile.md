@@ -1,10 +1,10 @@
 ---
-title: Custom Profile
+title: Tuỳ Chỉnh Profile
 icon: users-gear
 category:
-  - Features
+  - Các Tính Năng
 tag:
-  - Custom Profile
+  - Tuỳ Chỉnh Profile
 author: Schvis
 order: 4
 ---

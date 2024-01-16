@@ -1,10 +1,10 @@
 ---
-title: Emotion Changer
+title: Thay Đổi Biểu Cảm
 icon: face-smile
 category:
-  - Features
+  - Các Tính Năng
 tag:
-  - Emotion Changer
+  - Thay Đổi Biểu Cảm
 author: Schvis
 order: 6
 ---

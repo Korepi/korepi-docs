@@ -1,15 +1,15 @@
 ---
-title: Auto Talk
+title: Tự Động Trò Chuyện
 icon: comments
 category:
-  - Features
+  - Các Tính Năng
 tag:
-  - Auto Talk
+  - Tự Động Trò Chuyện
 author: Schvis
 order: 8
 ---
 
-## Trò Chuyện Tự Động: Tự động trò chuyện với NPC
+## Tự Động Trò Chuyện: Tự động trò chuyện với NPC
 ### Tua Nhanh Hội Thoại:
 - Tăng tốc độ của game tới một giá trị cụ thể nhằm tua nhanh độ trò chuyện.
 > Lưu ý: Không khuyến khích đặt giá trị lớn hơn `5`.

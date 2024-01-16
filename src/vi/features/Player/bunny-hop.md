@@ -1,18 +1,18 @@
 ---
-title: Bunny Hop
+title: Nhảy Vọt
 icon: carrot
 category:
-  - Features
+  - Các Tính Năng
 tag:
-  - Bunny Hop
+  - Nhảy Vọt
 author: Schvis
 order: 3
 ---
 
-::: info Sponsor Only
+::: info Chức Năng Chỉ Dành Cho Nhà Tài Trợ
 :::
 ---
-## Nhảy Cao sẽ khiến nhân vật nhảy cao hơn khi được kích hoạt.
+## Nhảy Vọt sẽ khiến nhân vật nhảy cao hơn khi được kích hoạt.
 
 ## Video Minh Hoạ:
 

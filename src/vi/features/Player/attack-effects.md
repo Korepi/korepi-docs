@@ -1,10 +1,10 @@
 ---
-title: Attack Effects
+title: Hiệu Ứng Tấn Công
 icon: explosion
 category:
-  - Features
+  - Các Tính Năng
 tag:
-  - Attack Effects
+  - Hiệu Ứng Tấn Công
 author: Schvis
 order: 1
 ---
@@ -12,7 +12,7 @@ order: 1
 ## Hiệu Ứng Tấn Công: Điều chỉnh hiệu ứng tấn công
 
 ### Chế Độ Nhiều Đòn Đánh:
-- Đấm Phát Chết Luôn: Tiêu diệt mục tiêu chỉ bằng 1 đòn.
+- Chế Độ 1 Hit (Đấm Phát Chết Luôn): Tiêu diệt mục tiêu chỉ bằng 1 đòn.
 > Lưu ý: Không khuyến khích sử dụng.
 - Điều chỉnh số đòn tấn công lên mục tiêu.
 > Lưu ý: Không khuyến khích chỉnh lớn hơn `5`.

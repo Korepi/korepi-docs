@@ -1,10 +1,10 @@
 ---
-title: Kill Aura
+title: Hào Quang Huỷ Diệt
 icon: street-view
 category:
-  - Features
+  - Các Tính Năng
 tag:
-  - Kill Aura
+  - Hào Quang Huỷ Diệt
 author: Schvis
 order: 12
 ---
@@ -12,7 +12,7 @@ order: 12
 ::: danger This feature has a high risk of ban.
 :::
 ---
-## Tử Quang: Gây Sát Thương Cho Kẻ Địch Xung Quanh
+## Hào Quang Huỷ Diệt: Gây Sát Thương Cho Kẻ Địch Xung Quanh
 
 ### Chế Độ Crash Damage:
 - Gây loại sát thương như khi bị rơi lên kẻ địch xung quanh với lượng sát thương, phạm vi và độ trễ nhất định.

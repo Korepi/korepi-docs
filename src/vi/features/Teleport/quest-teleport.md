@@ -1,10 +1,10 @@
 ---
-title: Quest Teleport
+title: Dịch Chuyển Tới Nhiệm Vụ
 icon: person-rays
 category:
-  - Features
+  - Các Tính Năng
 tag:
-  - Quest Teleport
+  - Dịch Chuyển Tới Nhiệm Vụ
 author: Schvis
 order: 5
 ---

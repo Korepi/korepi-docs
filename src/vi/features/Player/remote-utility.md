@@ -1,21 +1,21 @@
 ---
-title: Remote Utility
+title: Tiện Ích Từ Xa
 icon: tower-broadcast
 category:
-  - Features
+  - Các Tính Năng
 tag:
-  - Remote Utility
+  - Tiện Ích Từ Xa
 author: Schvis
 order: 11
 ---
-::: info Sponsor Only
+::: info Chức Năng Chỉ Dành Cho Nhà Tài Trợ
 :::
 ---
 ## Tiện Ích Từ Xa:
 ### Nhận Thưởng Uỷ Thác Hằng Ngày:
-- Nhận thưởng uỷ thác hằng ngày từ xa khi 4 uỷ thác được hoàn thành.
-### Hội Thoại Tuỳ Chỉnh:
-- Bắt đầu hội thoại từ xa khi sử dụng ID hội thoại, một số hội thoại có thể không hoạt động.
+- Nhận thưởng uỷ thác hằng ngày từ xa sau khi hoàn thành 4 uỷ thác.
+### Hội Thoại Tuỳ Chọn:
+- Bắt đầu hội thoại từ xa bằng ID hội thoại, một số hội thoại có thể không hoạt động.
 > Lưu ý: Đây là tính năng nguy hiểm.
 > Lưu ý 2: Để lấy ID hội thoại, bật `Debug Talk`, ID sẽ được hiển thị trong `cmd`.
 ### Triệu Hồi Dụng Cụ:

@@ -1,10 +1,10 @@
 ---
-title: No Clip
+title: Xuyên Tường
 icon: person-walking-dashed-line-arrow-right
 category:
-  - Features
+  - Các Tính Năng
 tag:
-  - No Clip
+  - Xuyên Tường
 author: Schvis
 order: 9
 ---

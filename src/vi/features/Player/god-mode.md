@@ -1,17 +1,17 @@
 ---
-title: God Mode
+title: Bât Tử
 icon: user
 category:
-  - Features
+  - Các Tính Năng
 tag:
-  - God Mode
+  - Bât Tử
 author: Schvis
 order: 7
 ---
 
 ## Bât Tử sẽ vô hiệu hoá mọi sát thương nhận vào.
 ### Bảo Hiểm:
-- Khi bật, Bất Tử sẽ chỉ được kích hoạt khi nhận sát thương có thể khiến nhân vật bay màu.
+- Khi bật, Bất Tử sẽ chỉ được kích hoạt khi nhận lượng sát thương có thể khiến nhân vật bay màu.
 ### Điều Kiện Tuỳ Chỉnh:
 - Khi bật, Bất Tử sẽ chỉ được kích hoạt khi máu của nhân vật giảm xuống thấp hơn mức được thiết lập.
 > Lưu ý: Khuyến khích sử dụng Điều Kiện Tuỳ Chỉnh trong la hoàn.

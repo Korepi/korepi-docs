@@ -1,10 +1,10 @@
 ---
-title: Free Camera
+title: Camera Tự Do
 icon: camera-rotate
 category:
-  - Features
+  - Các Tính Năng
 tag:
-  - Free Camera
+  - Camera Tự Do
 author: Schvis
 order: 11
 ---

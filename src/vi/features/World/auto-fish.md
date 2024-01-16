@@ -1,10 +1,10 @@
 ---
-title: Auto Fish
+title: Tự Động Câu Cá
 icon: fish-fins
 category:
-  - Features
+  - Các Tính Năng
 tag:
-  - Auto Fish
+  - Tự Động Câu Cá
 author: Schvis
 order: 5
 ---

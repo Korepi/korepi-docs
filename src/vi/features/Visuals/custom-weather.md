@@ -1,10 +1,10 @@
 ---
-title: Custom Weather
+title: Tuỳ Chỉnh Thời Tiết
 icon: cloud
 category:
-  - Features
+  - Các Tính Năng
 tag:
-  - Custom Weather
+  - Tuỳ Chỉnh Thời Tiết
 author: Schvis
 order: 5
 ---

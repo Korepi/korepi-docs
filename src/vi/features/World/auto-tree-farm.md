@@ -1,14 +1,14 @@
 ---
-title: Auto Tree Farm
+title: Tự Động Đốn Gỗ
 icon: tree
 category:
-  - Features
+  - Các Tính Năng
 tag:
-  - Auto Tree Farm
+  - Tự Động Đốn Gỗ
 author: Schvis, Chloe
 order: 9
 ---
-::: info Sponsor Only
+::: info Chức Năng Chỉ Dành Cho Nhà Tài Trợ
 :::
 ---
 ### Tự Động Đốn Gỗ cho phép bạn đốn các cây xung quanh trong phạm vi và độ trễ nhất định để lấy gỗ.

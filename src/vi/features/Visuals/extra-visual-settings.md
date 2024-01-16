@@ -1,10 +1,10 @@
 ---
-title: Extra Visual Settings
+title: Thiết Đặt Đồ Hoạ Bổ Sung
 icon: eye
 category:
-  - Features
+  - Các Tính Năng
 tag:
-  - Extra Visual Settings
+  - Thiết Đặt Đồ Hoạ Bổ Sung
 author: Schvis
 order: 7
 ---
