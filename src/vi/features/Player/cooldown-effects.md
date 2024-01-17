@@ -1,10 +1,10 @@
 ---
-title: Cooldown Effects
+title: Hiệu Ứng Hồi Chiêu
 icon: clock-rotate-left
 category:
-  - Features
+  - Các Tính Năng
 tag:
-  - Cooldown Effects
+  - Hiệu Ứng Hồi Chiêu
 author: Schvis
 order: 4
 ---

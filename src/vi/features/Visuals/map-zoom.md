@@ -1,12 +1,12 @@
 ---
-title: Map Zoom
+title: Thu Phóng Bản Đồ
 icon: map
 category:
-  - Features
+  - Các Tính Năng
 tag:
-  - Map Zoom
+  - Thu Phóng Bản Đồ
 author: Schvis
 order: 13
 ---
 
-## Map Zoom thay đổi các giá trị được sử dụng trong bản đồ.
+## Thu Phóng Bản Đồ thay đổi giá trị được sử dụng trong bản đồ.

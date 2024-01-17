@@ -1,10 +1,10 @@
 ---
-title: 0culi Teleport
+title: Dịch Chuyển Tới Thần Đồng
 icon: person-rays
 category:
-  - Features
+  - Các Tính Năng
 tag:
-  - 0culi Teleport
+  - Dịch Chuyển Tới Thần Đồng
 author: Schvis
 order: 1
 ---

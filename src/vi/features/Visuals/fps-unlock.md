@@ -1,10 +1,10 @@
 ---
-title: FPS Unlock
+title: Bỏ Giới Hạn FPS
 icon: arrow-up-right-dots
 category:
-  - Features
+  - Các Tính Năng
 tag:
-  - FPS Unlock
+  - Bỏ Giới Hạn FPS
 author: Schvis
 order: 8
 ---

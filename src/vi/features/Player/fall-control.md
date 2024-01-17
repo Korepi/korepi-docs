@@ -1,15 +1,15 @@
 ---
-title: Fall Control
+title: Kiểm Soát Tốc Độ Rơi
 icon: person-falling
 category:
-  - Features
+  - Các Tính Năng
 tag:
-  - Fall Control
+  - Kiểm Soát Tốc Độ Rơi
 author: Schvis
 order: 6
 ---
 
-## Điều Khiển Tốc Độ Rơi cho phép bạn tuỷ chỉnh tốc độ khi nhân vật rơi xuống.
+## Kiểm Soát Tốc Độ Rơi cho phép bạn tuỷ chỉnh tốc độ khi nhân vật rơi xuống.
 
 ## Video Minh Hoạ:
 

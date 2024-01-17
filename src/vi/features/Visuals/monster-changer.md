@@ -1,10 +1,10 @@
 ---
-title: Monster Changer
+title: Thay Đổi Quái
 icon: arrows-rotate
 category:
-  - Features
+  - Các Tính Năng
 tag:
-  - Monster Changer
+  - Thay Đổi Quái
 author: Schvis
 order: 14
 ---

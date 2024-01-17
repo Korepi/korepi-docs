@@ -1,14 +1,14 @@
 ---
-title: Texture Changer
+title: Thay Đổi Texture
 icon: list
 category:
-  - Features
+  - Các Tính Năng
 tag:
-  - Texture Changer
+  - Thay Đổi Texture
 author: Schvis
 order: 16
 ---
-::: info Its better to use [GIMI](../../guide/3DM-tutorial.md) for changing textures.
+::: info Nên sử dụng [GIMI](../../guide/3DM-tutorial.md) để thay đổi textures.
 :::
 ---
 ## Thay Đổi Texture cho phép thay đổi các bộ phận của nhân vật theo các file .png được cung cấp.

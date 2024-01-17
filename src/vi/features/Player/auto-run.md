@@ -1,10 +1,10 @@
 ---
-title: Auto Run
+title: Tự Động Chạy
 icon: person-running
 category:
-  - Features
+  - Các Tính Năng
 tag:
-  - Auto Run
+  - Tự Động Chạy
 author: Schvis
 order: 2
 ---

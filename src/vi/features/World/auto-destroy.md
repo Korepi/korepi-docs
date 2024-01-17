@@ -1,10 +1,10 @@
 ---
-title: Auto Destroy Objects
+title: Tự Động Phá Huỷ Vật Thể
 icon: bomb
 category:
-  - Features
+  - Các Tính Năng
 tag:
-  - Auto Destroy Objects
+  - Tự Động Phá Huỷ Vật Thể
 author: Schvis
 order: 4
 ---

@@ -1,15 +1,15 @@
 ---
-title: Auto Seelie
+title: Tự Động Dẫn Đường Tiên Linh
 icon: arrows-split-up-and-left
 category:
-  - Features
+  - Các Tính Năng
 tag:
-  - Auto Seelie
+  - Tự Động Dẫn Đường Tiên Linh
 author: Schvis, Chloe
 order: 7
 ---
 
-## Tự Động Dẫn Đường Seelie loại bỏ việc bạn phải đi theo seelie liên tục. Seelie sẽ đi thẳng tới điểm đích khi người chơi đứng gần đó.
+## Tự Động Dẫn Đường Tiên Linh loại bỏ việc bạn phải đi theo tiên linh liên tục. Tiên linh sẽ đi thẳng tới điểm đích khi người chơi đứng gần đó.
 
 ## Video Minh Hoạ:
 

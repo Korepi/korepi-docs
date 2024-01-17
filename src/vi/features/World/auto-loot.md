@@ -1,10 +1,10 @@
 ---
-title: Auto Loot
+title: Tự Động Nhặt
 icon: hand
 category:
-  - Features
+  - Các Tính Năng
 tag:
-  - Auto Loot
+  - Tự Động Nhặt
 author: Schvis, Chloe
 order: 6
 ---

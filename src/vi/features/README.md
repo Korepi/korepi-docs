@@ -1,10 +1,10 @@
 ---
-title: List of Features
+title: Danh Sách Các Tính Năng
 icon: "book"
 category:
-  - Features
+  - Các Tính Năng
 tag:
-  - Start
+  - Bắt Đầu
 author: Schvis
 ---
 

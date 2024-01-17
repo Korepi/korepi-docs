@@ -1,15 +1,15 @@
 ---
-title: Hide UI
+title: Ẩn Giao Diện
 icon: square
 category:
-  - Features
+  - Các Tính Năng
 tag:
-  - Hide UI
+  - Ẩn Giao Diện
 author: Schvis
 order: 12
 ---
 
-## Ẩn UI:
+## Ẩn Giao Diện:
 - Ẩn toàn bộ giao diện người dùng.
 ### Ẩn Ping: (<span style='color:yellow;'>Sponsor</span>)
 - Chỉ ẩn ping.

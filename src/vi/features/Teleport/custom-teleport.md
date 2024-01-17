@@ -1,10 +1,10 @@
 ---
-title: Custom Teleport
+title: Dịch Chuyển Tuỳ Chọn
 icon: person-rays
 category:
   - Features
 tag:
-  - Custom Teleport
+  - Dịch Chuyển Tuỳ Chọn
 author: Schvis
 order: 3
 ---

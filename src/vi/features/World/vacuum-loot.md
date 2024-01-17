@@ -1,15 +1,15 @@
 ---
-title: Vacuum Loot
+title: Thu Gom Vật Phẩm
 icon: magnet
 category:
-  - Features
+  - Các Tính Năng
 tag:
-  - Vacuum Loot
+  - Thu Gom Vật Phẩm
 author: Schvis
 order: 14
 ---
 
-## Hút Vật Phẩm sẽ hút các vật phẩm xung quanh lại gần người chơi trong phạm vi và độ trễ nhất định.
+## Thu Gom Vật Phẩm sẽ gom các vật phẩm xung quanh lại gần người chơi trong phạm vi và độ trễ nhất định.
 
 ## Video Minh Hoạ:
 

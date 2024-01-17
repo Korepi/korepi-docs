@@ -1,14 +1,14 @@
 ---
-title: Elemental Aura
+title: Hào Quang Nguyên Tố
 icon: street-view
 category:
-  - Features
+  - Các Tính Năng
 tag:
-  - Elemental Aura
+  - Hào Quang Nguyên Tố
 author: Schvis
 order: 10
 ---
-::: info Sponsor Only
+::: info Chức Năng Chỉ Dành Cho Nhà Tài Trợ
 :::
 ---
 ### Hào Quang Nguyên Tố sẽ áp dụng các nguyên tố được chọn với một phạm vi và độ trễ nhất định lên các mục tiêu, vật thể hoặc bản thân người chơi. Có thể áp dụng nhiều nguyên tố khác nhau cùng một

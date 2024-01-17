@@ -1,10 +1,10 @@
 ---
-title: Animation Changer
+title: Thay Đổi Hoạt Ảnh
 icon: people-arrows
 category:
-  - Features
+  - Các Tính Năng
 tag:
-  - Animation Changer
+  - Thay Đổi Hoạt Ảnh
 author: Schvis
 order: 1
 ---

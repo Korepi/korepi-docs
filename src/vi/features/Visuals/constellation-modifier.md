@@ -1,17 +1,17 @@
 ---
-title: Constellation Modifier
+title: Tuỳ Chỉnh Cung Mệnh
 icon: retweet
 category:
-  - Features
+  - Các Tính Năng
 tag:
-  - Constellation Modifier
+  - Tuỳ Chỉnh Cung Mệnh
 author: Schvis
 order: 3
 ---
-::: info Sponsor Only
+::: info Chức Năng Chỉ Dành Cho Nhà Tài Trợ
 :::
 ---
-## Thay Đổi Cung Mệnh sẽ sửa đổi cung mệnh của nhân vật hiện tại khi được bật. Một số chỉ mang tính hình thức còn số một khác sẽ hoạt động được như cung mệnh thực sự.
+## Tuỳ Chỉnh Cung Mệnh sẽ sửa đổi cung mệnh của nhân vật hiện tại khi được bật. Một số chỉ mang tính hình thức còn số một khác sẽ hoạt động được như cung mệnh thực sự.
 - Bạn có thể tìm thêm thông tin về những cung mệnh nào thực sự hoạt động được tại `#⁠cons-check` trong server discord. 
 
 ::: tip Bạn phải chuyển sang các nhân vật bạn muốn kích hoạt cung mệnh trước rồi sau đó dịch chuyển tới một ví trí ở xa để kích hoạt cung mệnh.

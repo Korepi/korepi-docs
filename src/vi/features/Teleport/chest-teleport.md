@@ -1,10 +1,10 @@
 ---
-title: Chest Teleport
+title: Dịch Chuyển Tới Rương
 icon: person-rays
 category:
-  - Features
+  - Các Tính Năng
 tag:
-  - Chest Teleport
+  - Dịch Chuyển Tới Rương
 author: Schvis
 order: 2
 ---

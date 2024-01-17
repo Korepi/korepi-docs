@@ -1,10 +1,10 @@
 ---
-title: Game Speed
+title: Điều Chỉnh Tốc Độ Game
 icon: forward-fast
 category:
-  - Features
+  - Các Tính Năng
 tag:
-  - Game Speed
+  - Điều Chỉnh Tốc Độ Game
 author: Schvis
 order: 11
 ---

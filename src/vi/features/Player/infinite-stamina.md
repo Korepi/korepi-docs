@@ -1,10 +1,10 @@
 ---
-title: Infinite Stamina
+title: Thể Lực Vô Hạn
 icon: dumbbell
 category:
-  - Features
+  - Các Tính Năng
 tag:
-  - Infinite Stamina
+  - Thể Lực Vô Hạn
 author: Schvis
 order: 8
 ---
@@ -12,7 +12,7 @@ order: 8
 ## Thể Lực Vô Hạn sẽ loại bỏ tiêu hao thể lực cho mọi hành động.
 ### Thay Thế Dữ Liệu Di Chuyển:
 - Khi chức năng này được bật và Vô Hạn Thể Lực được tắt, dữ liệu liên quan đến việc tiêu hao thể lực như chạy, leo trèo, bơi, etc, sẽ không được gửi tới server.
-> Note: Recommended to use Move Sync Packet Replacement.
+> Lưu ý: Khuyến khích sử dụng Thay Thế Dữ Liệu Di Chuyển.
 
 ## Video Minh Hoạ:
 

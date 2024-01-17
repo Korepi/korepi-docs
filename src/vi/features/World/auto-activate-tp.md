@@ -1,14 +1,14 @@
 ---
-title: Auto Activate Teleport
+title: Tự Động Kích Hoạt Điểm Dịch Chuyển
 icon: satellite-dish
 category:
-  - Features
+  - Các Tính Năng
 tag:
-  - Auto Activate Teleport
-author: Schvis, Chloe
+  - Tự Động Kích Hoạt Điểm Dịch Chuyển
+author: Schvis
 order: 1
 ---
-::: info Sponsor Only
+::: info Chức Năng Chỉ Dành Cho Nhà Tài Trợ
 :::
 ---
 ### Tự Động Kích Hoạt Điểm Dịch Chuyển sẽ tự động kích hoạt các điểm dịch chuyển trong bán kính lên tới 50m.

@@ -1,12 +1,12 @@
 ---
-title: Flycloak Modifier
+title: Tuỳ Chính Cánh
 icon: arrows-rotate
 category:
-  - Features
+  - Các Tính Năng
 tag:
-  - Flycloak Modifier
+  - Tuỳ Chính Cánh
 author: Schvis
 order: 10
 ---
 
-## Thay Đổi Phong Chi Dực (cánh) cho phép người chơi thay đổi skin của phong chi dực cho dù không sở hữu chúng.
+## Tuỳ Chính Cánh cho phép người chơi thay đổi skin của phong chi dực cho dù không sở hữu chúng.
