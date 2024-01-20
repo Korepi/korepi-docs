@@ -6,8 +6,8 @@
     <link>https://korepi.com/zh/</link>
     <description>Korepi 中文文档介绍</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 17 Jan 2024 16:24:38 GMT</pubDate>
-    <lastBuildDate>Wed, 17 Jan 2024 16:24:38 GMT</lastBuildDate>
+    <pubDate>Sat, 20 Jan 2024 09:12:23 GMT</pubDate>
+    <lastBuildDate>Sat, 20 Jan 2024 09:12:23 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>指南</category>
@@ -1921,8 +1921,10 @@ C1: ?  C2: ?  C3: ?  C4: ?  C5: ?  C6: ?</li>
 <hr>
 <h1> 通过国内捐赠链接，获取身份的方法</h1>
 <h2> ① 通过上方链接进行捐赠</h2>
-<p>如果显示的是未认证作者那只是爱发电日常发癫，只要确保链接是上方提供的就行自选金额一次性/1个月 35RMB 即可
-</p>
+<ul>
+<li>如果显示的是未认证作者那只是爱发电日常发癫，只要确保链接是上方提供的就行自选金额一次性/1个月 35RMB 即可
+</li>
+</ul>
 <h2> ②复制订单号（忘了在赞助时复制的人，能到订单处找出来）</h2>
 <p></p>
 <h2> ③ @micah-sign-bot 私信鸭子发送 /start，再回复订单号 即可获得<span style="color:#f1c40f;">赞助者</span>身份</h2>
