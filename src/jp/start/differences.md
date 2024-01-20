@@ -1,26 +1,26 @@
 ---
-title: Differences between versions
+title: バージョンでの主な違い
 icon: server
 category:
-  - Guide
+  - ガイド
 tag:
   - Start
 author: Schvis
 order: 6
 ---
 
-# Differences between V and F version.
+# VバージョンとFバージョンの違い
 
-## Key differences between V and F version
+## VバージョンとFバージョンの主な違い
 
-|Version |F Version|V Version|
+|バージョン |Fバージョン|Vバージョン|
 |-----|--------|--------|
-|Features|Same|Same|
-|Update Notice|<span style='color:red;'>X</span>|<span style='color:green;'>✓</span>|
-|[Multi-Instance](../guide/multi-instance.md)|<span style='color:red;'>X</span>|<span style='color:green;'>✓</span>|
-|Set-up|Easy|Mid-Hard|
-|Problem Solving|Easy|Mid-Hard|
-|Authentication|Key Verification|File Verification|
-## Which version should i use?
+|機能|同じ|同じ|
+|アップデートのお知らせ|<span style='color:red;'>X</span>|<span style='color:green;'>✓</span>|
+|[マルチインスタンス](../guide/multi-instance.md)|<span style='color:red;'>X</span>|<span style='color:green;'>✓</span>|
+|セットアップ|簡単|普通|
+|問題解決|簡単|普通|
+|認証方法|キー検証|ファイル検証|
+## どのバージョンを使うべき？
 
-For the <span style='color:yellow;'>Sponsor</span> users you can use any of the versions according to your needs. For Fans is recommended to use V version since its more stable and the set-up is more reliable as it is for now.
+ <span style='color:yellow;'>スポンサー</span> ユーザーは、自分の好みのバージョンを利用してください。Fansロールの皆様は、より安定していて、セットアップの信頼性も高いVバージョンをお勧めします。
