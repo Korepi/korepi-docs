@@ -6,8 +6,8 @@
     <link>https://korepi.com/vi/</link>
     <description>Trợ giúp về Korepi</description>
     <language>vi-VN</language>
-    <pubDate>Sun, 21 Jan 2024 15:55:34 GMT</pubDate>
-    <lastBuildDate>Sun, 21 Jan 2024 15:55:34 GMT</lastBuildDate>
+    <pubDate>Sun, 21 Jan 2024 18:03:42 GMT</pubDate>
+    <lastBuildDate>Sun, 21 Jan 2024 18:03:42 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Hướng Dẫn</category>
@@ -22,7 +22,7 @@
       <link>https://korepi.com/vi/start/differences.html</link>
       <guid>https://korepi.com/vi/start/differences.html</guid>
       <source url="https://korepi.com/vi/rss.xml">Sự Khác Biệt Giữa Các Phiên Bản</source>
-      <description>Sự khác biệt chính giữa phiên bản V và F Phiên Bản Phiên Bản FPhiên Bản V --------------------- Tính NăngGiống nhauGiống nhau Thông Báo Cập NhậtX✓ Multi-Instance (../guide/multi...</description>
+      <description>Sự khác biệt chính giữa phiên bản V và F Phiên Bản Phiên Bản FPhiên Bản V --------------------- Tính NăngGiống nhauGiống nhau Thông Báo Cập NhậtX✓ Mở Nhiều Cửa Số Game (../guide...</description>
       <category>Hướng Dẫn</category>
       <pubDate>Sat, 13 Jan 2024 00:53:24 GMT</pubDate>
       <content:encoded><![CDATA[<h1> Sự Khác Biệt Giữa Phiên Bản V và F.</h1>
@@ -47,7 +47,7 @@
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td><a href="/vi/guide/multi-instance.html" target="blank">Multi-Instance</a></td>
+<td><a href="/vi/guide/multi-instance.html" target="blank">Mở Nhiều Cửa Số Game</a></td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
@@ -530,7 +530,7 @@ Nếu như việc khởi động lại máy không giúp ích được gì hoặ
 <ul>
 <li>Tấn công vào điểm yếu mục tiêu (chí mạng), chỉ hoạt động khi sử dụng cung.</li>
 </ul>
-<h3> Tỷ Lệ Chí Mạng (<span style="color:yellow;">Sponsor</span>):</h3>
+<h3> Tỷ Lệ Chí Mạng (<span style="color:yellow;">Nhà Tài Trợ</span>):</h3>
 <ul>
 <li>Điều chỉnh tỷ lệ chí mạng.</li>
 </ul>
@@ -690,14 +690,14 @@ Nếu như việc khởi động lại máy không giúp ích được gì hoặ
 ]]></content:encoded>
     </item>
     <item>
-      <title>Bât Tử</title>
+      <title>Bất Tử</title>
       <link>https://korepi.com/vi/features/Player/god-mode.html</link>
       <guid>https://korepi.com/vi/features/Player/god-mode.html</guid>
-      <source url="https://korepi.com/vi/rss.xml">Bât Tử</source>
-      <description>Bât Tử sẽ vô hiệu hoá mọi sát thương nhận vào. Bảo Hiểm: Khi bật, Bất Tử sẽ chỉ được kích hoạt khi nhận lượng sát thương có thể khiến nhân vật bay màu.; Điều Kiện Tuỳ Chỉnh: Khi...</description>
+      <source url="https://korepi.com/vi/rss.xml">Bất Tử</source>
+      <description>Bất Tử sẽ vô hiệu hoá mọi sát thương nhận vào. Bảo Hiểm: Khi bật, Bất Tử sẽ chỉ được kích hoạt khi nhận lượng sát thương có thể khiến nhân vật bay màu.; Điều Kiện Tuỳ Chỉnh: Khi...</description>
       <category>Các Tính Năng</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Bât Tử sẽ vô hiệu hoá mọi sát thương nhận vào.</h2>
+      <content:encoded><![CDATA[<h2> Bất Tử sẽ vô hiệu hoá mọi sát thương nhận vào.</h2>
 <h3> Bảo Hiểm:</h3>
 <ul>
 <li>Khi bật, Bất Tử sẽ chỉ được kích hoạt khi nhận lượng sát thương có thể khiến nhân vật bay màu.</li>
@@ -1592,14 +1592,14 @@ Lưu ý 2: Không khuyến khích sử dụng chức năng này.</p>
       <pubDate>Thu, 30 Nov 2023 15:50:40 GMT</pubDate>
     </item>
     <item>
-      <title>Tải xuống</title>
+      <title>Tải Xuống</title>
       <link>https://korepi.com/vi/start/download.html</link>
       <guid>https://korepi.com/vi/start/download.html</guid>
-      <source url="https://korepi.com/vi/rss.xml">Tải xuống</source>
+      <source url="https://korepi.com/vi/rss.xml">Tải Xuống</source>
       <description>Giới thiệu Chào mừng đến với cộng đồng của chúng tôi! Để tải xuống công cụ này, hãy làm theo các bước sau. Bước 1: Tham gia vào server và lấy Role &amp;quot;Newcomer&amp;quot;, &amp;quot;Fans&amp;quot; nếu bạn chư...</description>
-      <category>Hướng dẫn</category>
+      <category>Hướng Dẫn</category>
       <pubDate>Thu, 30 Nov 2023 15:50:40 GMT</pubDate>
-      <content:encoded><![CDATA[<h1> Tải xuống</h1>
+      <content:encoded><![CDATA[<h1> Tải Xuống</h1>
 <h2> Giới thiệu</h2>
 <p>Chào mừng đến với cộng đồng của chúng tôi! Để tải xuống công cụ này, hãy làm theo các bước sau.</p>
 <h2> Bước 1: Tham gia vào server và lấy Role "Newcomer", "Fans" nếu bạn chưa có</h2>
@@ -1613,12 +1613,12 @@ Lưu ý 2: Không khuyến khích sử dụng chức năng này.</p>
 ]]></content:encoded>
     </item>
     <item>
-      <title>Tham gia vào Server</title>
+      <title>Tham Gia Vào Server</title>
       <link>https://korepi.com/vi/start/join.html</link>
       <guid>https://korepi.com/vi/start/join.html</guid>
-      <source url="https://korepi.com/vi/rss.xml">Tham gia vào Server</source>
+      <source url="https://korepi.com/vi/rss.xml">Tham Gia Vào Server</source>
       <description>Giới thiệu Chào mừng đến với cộng đồng của chúng tôi! Để tham gia vào máy chủ Discord và bắt đầu sử dụng Korepi, hãy làm theo các bước sau. Bước 1: Tạo tài khoản Discord nếu bạn...</description>
-      <category>Hướng dẫn</category>
+      <category>Hướng Dẫn</category>
       <pubDate>Thu, 30 Nov 2023 15:50:40 GMT</pubDate>
       <content:encoded><![CDATA[<h2> Giới thiệu</h2>
 <p>Chào mừng đến với cộng đồng của chúng tôi! Để tham gia vào máy chủ Discord và bắt đầu sử dụng Korepi, hãy làm theo các bước sau.</p>
@@ -1637,12 +1637,12 @@ Lưu ý 2: Không khuyến khích sử dụng chức năng này.</p>
 ]]></content:encoded>
     </item>
     <item>
-      <title>Điểm danh</title>
+      <title>Điểm Danh</title>
       <link>https://korepi.com/vi/start/sign-in.html</link>
       <guid>https://korepi.com/vi/start/sign-in.html</guid>
-      <source url="https://korepi.com/vi/rss.xml">Điểm danh</source>
+      <source url="https://korepi.com/vi/rss.xml">Điểm Danh</source>
       <description>Giới thiệu Chào mừng đến với cộng đồng của chúng tôi! Để đăng kí và lấy được Role &amp;quot;Fans&amp;quot;, hãy làm theo các bước sau. Bước 1: Tham gia vào server và lấy Role &amp;quot;Newcomer&amp;quot; nếu bạn c...</description>
-      <category>Hướng dẫn</category>
+      <category>Hướng Dẫn</category>
       <pubDate>Thu, 30 Nov 2023 15:50:40 GMT</pubDate>
       <content:encoded><![CDATA[<h2> Giới thiệu</h2>
 <p>Chào mừng đến với cộng đồng của chúng tôi! Để đăng kí và lấy được Role "Fans", hãy làm theo các bước sau.</p>
@@ -1667,12 +1667,12 @@ Vào ngày thứ 7 khi bạn đã điểm danh thành công, bạn sẽ được
       <enclosure url="https://korepi.com/assets/images/docs/202312/signin1.png" type="image/png"/>
     </item>
     <item>
-      <title>Trở thành nhà tài trợ</title>
+      <title>Trở Thành Nhà Tài Trợ</title>
       <link>https://korepi.com/vi/start/sponsor.html</link>
       <guid>https://korepi.com/vi/start/sponsor.html</guid>
-      <source url="https://korepi.com/vi/rss.xml">Trở thành nhà tài trợ</source>
+      <source url="https://korepi.com/vi/rss.xml">Trở Thành Nhà Tài Trợ</source>
       <description>Sao để trở thành Sponsor (Nhà Tài Trợ)? Để trở thành Sponsor, bạn cần quyên góp ít nhất $5 hoặc tương đương nếu bạn đang sử dụng loại tiền tệ khác. Các kênh donate? Sau khi bạn ...</description>
-      <category>Hướng dẫn</category>
+      <category>Hướng Dẫn</category>
       <pubDate>Thu, 30 Nov 2023 15:50:40 GMT</pubDate>
       <content:encoded><![CDATA[<h2> Sao để trở thành Sponsor (Nhà Tài Trợ)?</h2>
 <p>Để trở thành Sponsor, bạn cần quyên góp ít nhất $5 hoặc tương đương nếu bạn đang sử dụng loại tiền tệ khác.</p>
@@ -1703,12 +1703,12 @@ Sau khi bạn nhận được vai trò Fans của mình, bạn đã sẵn sàng 
       <enclosure url="https://korepi.com/assets/images/docs/202312/proofVI.png" type="image/png"/>
     </item>
     <item>
-      <title>Xác thực</title>
+      <title>Xác Thực</title>
       <link>https://korepi.com/vi/start/verify.html</link>
       <guid>https://korepi.com/vi/start/verify.html</guid>
-      <source url="https://korepi.com/vi/rss.xml">Xác thực</source>
+      <source url="https://korepi.com/vi/rss.xml">Xác Thực</source>
       <description>Giới thiệu Chào mừng đến với cộng đồng của chúng tôi! Để vượt qua quá trình xác minh bot và lấy Role &amp;quot;Newcomer&amp;quot;, hãy làm theo các bước sau. Bước 1: Tham gia vào server của chúng...</description>
-      <category>Hướng dẫn</category>
+      <category>Hướng Dẫn</category>
       <pubDate>Thu, 30 Nov 2023 15:50:40 GMT</pubDate>
       <content:encoded><![CDATA[<h2> Giới thiệu</h2>
 <p>Chào mừng đến với cộng đồng của chúng tôi! Để vượt qua quá trình xác minh bot và lấy Role "Newcomer", hãy làm theo các bước sau.</p>
