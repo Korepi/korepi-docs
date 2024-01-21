@@ -17,7 +17,7 @@ order: 6
 |-----|--------|--------|
 |Tính Năng|Giống nhau|Giống nhau|
 |Thông Báo Cập Nhật|<span style='color:red;'>X</span>|<span style='color:green;'>✓</span>|
-|[Multi-Instance](../guide/multi-instance.md)|<span style='color:red;'>X</span>|<span style='color:green;'>✓</span>|
+|[Mở Nhiều Cửa Số Game](../guide/multi-instance.md)|<span style='color:red;'>X</span>|<span style='color:green;'>✓</span>|
 |Cài Đặt|Dễ|Trung bình-Khó|
 |Khắc Phục Lỗi|Dễ|Trung bình-Khó|
 |Phương Thức Xác Thực|Xác thực bằng key|Xác thực bằng file|

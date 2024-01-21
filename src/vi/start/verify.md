@@ -1,10 +1,10 @@
 ---
-title: Xác thực
+title: Xác Thực
 icon: lock
 category:
-  - Hướng dẫn
+  - Hướng Dẫn
 tag:
-  - Bắt đầu
+  - Bắt Đầu
 author: QweRez
 order: 2
 ---

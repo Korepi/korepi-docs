@@ -1,10 +1,10 @@
 ---
-title: Trở thành nhà tài trợ
+title: Trở Thành Nhà Tài Trợ
 icon: credit-card
 category:
-    - Hướng dẫn
+    - Hướng Dẫn
 tag:
-    - Bắt đầu
+    - Bắt Đầu
 author: Duong
 order: 4
 ---

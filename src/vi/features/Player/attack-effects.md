@@ -31,7 +31,7 @@ order: 1
 - Điều chỉnh nguyên tố của đòn đánh thường từ kiếm, thương và trọng đao.
 ### Tự Động Đánh Vào Điểm Yếu:
 - Tấn công vào điểm yếu mục tiêu (chí mạng), chỉ hoạt động khi sử dụng cung.
-### Tỷ Lệ Chí Mạng (<span style='color:yellow;'>Sponsor</span>):
+### Tỷ Lệ Chí Mạng (<span style='color:yellow;'>Nhà Tài Trợ</span>):
 - Điều chỉnh tỷ lệ chí mạng.
 ### Loại Bỏ Nguyên Tố Của Sát Thương Nhận Vào:
 - Loại bỏ nguyên tố của sát thương nhận vào và chuyển nó thành sát thương vật lý.
