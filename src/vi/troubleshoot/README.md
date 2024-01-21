@@ -1,10 +1,10 @@
 ---
-title: List of Errors
+title: Danh Sách Lỗi
 icon: book
 category:
-  - Troubleshoot
+  - Khắc Phục Lỗi
 tag:
-  - Start
+  - Bắt Đầu
 author: Schvis
 ---
 

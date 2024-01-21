@@ -1,26 +1,26 @@
 ---
-title: Differences between versions
+title: Sự Khác Biệt Giữa Các Phiên Bản
 icon: server
 category:
-  - Guide
+  - Hướng Dẫn
 tag:
-  - Start
+  - Bắt Đầu
 author: Schvis
 order: 6
 ---
 
-# Differences between V and F version.
+# Sự Khác Biệt Giữa Phiên Bản V và F.
 
-## Key differences between V and F version
+## Sự khác biệt chính giữa phiên bản V và F
 
-|Version |F Version|V Version|
+|Phiên Bản |Phiên Bản F|Phiên Bản V|
 |-----|--------|--------|
-|Features|Same|Same|
-|Update Notice|<span style='color:red;'>X</span>|<span style='color:green;'>✓</span>|
+|Tính Năng|Giống nhau|Giống nhau|
+|Thông Báo Cập Nhật|<span style='color:red;'>X</span>|<span style='color:green;'>✓</span>|
 |[Multi-Instance](../guide/multi-instance.md)|<span style='color:red;'>X</span>|<span style='color:green;'>✓</span>|
-|Set-up|Easy|Mid-Hard|
-|Problem Solving|Easy|Mid-Hard|
-|Authentication|Key Verification|File Verification|
-## Which version should i use?
+|Cài Đặt|Dễ|Trung bình-Khó|
+|Khắc Phục Lỗi|Dễ|Trung bình-Khó|
+|Phương Thức Xác Thực|Xác thực bằng key|Xác thực bằng file|
+## Tôi nên sử dụng phiên bản nào?
 
-For the <span style='color:yellow;'>Sponsor</span> users you can use any of the versions according to your needs. For Fans is recommended to use V version since its more stable and the set-up is more reliable as it is for now.
+Đối với <span style='color:yellow;'>Nhà Tài Trợ</span> bạn có thể sử dụng bất kỳ phiên bản nào mà bạn thích. Đối với Fans, bạn nên sử dụng phiên bản V vì tại thời điểm hiện tại nó ổn định hơn.
