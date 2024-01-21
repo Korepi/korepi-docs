@@ -1,10 +1,10 @@
 ---
-title: Điểm danh
+title: Điểm Danh
 icon: user-plus
 category:
-  - Hướng dẫn
+  - Hướng Dẫn
 tag:
-  - Bắt đầu
+  - Bắt Đầu
 author: QweRez
 order: 3
 ---

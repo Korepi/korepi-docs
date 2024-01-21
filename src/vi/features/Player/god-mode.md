@@ -1,15 +1,15 @@
 ---
-title: Bât Tử
+title: Bất Tử
 icon: user
 category:
   - Các Tính Năng
 tag:
-  - Bât Tử
+  - Bất Tử
 author: Schvis
 order: 7
 ---
 
-## Bât Tử sẽ vô hiệu hoá mọi sát thương nhận vào.
+## Bất Tử sẽ vô hiệu hoá mọi sát thương nhận vào.
 ### Bảo Hiểm:
 - Khi bật, Bất Tử sẽ chỉ được kích hoạt khi nhận lượng sát thương có thể khiến nhân vật bay màu.
 ### Điều Kiện Tuỳ Chỉnh:
