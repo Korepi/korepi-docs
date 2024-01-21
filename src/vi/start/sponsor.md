@@ -9,7 +9,7 @@ author: Duong
 order: 4
 ---
 
-## Sao để trở thành Sponsor(Người Ủng Hộ)?
+## Sao để trở thành Sponsor (Nhà Tài Trợ)?
 
 Để trở thành Sponsor, bạn cần quyên góp ít nhất $5 hoặc tương đương nếu bạn đang sử dụng loại tiền tệ khác.
 
