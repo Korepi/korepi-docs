@@ -1,79 +1,80 @@
 ---
-title: FAQ
+title: Các Câu Hỏi Thường Gặp
 icon: info
 category:
-  - FAQ
+  - Các Câu Hỏi Thường Gặp
 tag:
-  - Start
+  - Bắt Đầu
 author: Schvis
 order: 1
 ---
 
-## List of FAQ
+## Các Câu Hỏi Thường Gặp
 
-### Is Korepi free?
+### Korepi có miễn phí không?
 
-Yes, it is free, in order to get it for the first time you have to do a 7 days [sign-in](../start/sign-in.md), you can skip this by [Sponsoring](../start/sponsor.md), after that you can get the license every time your key expires.
+Chính xác, Korepi có thể sử dụng miễn phí. Để có thể sử dụng, bạn cần thực hiện [Điểm Danh](../start/sign-in.md) trong 7 ngày. Bạn có thể bỏ qua quá trình điểm danh này thông qua [Tài Trợ](../start/sponsor.md). Sau đó bạn có thể tiến hành lấy key để sử dụng Korepi liên tục.
 
 ---
-### What is the .rar/.zip password?
+### Mật khẩu giải nén file .rar/.zip là gì?
 
 ...
 
-Its `1234`, please read the download post next time.
+Mật khẩu là `1234`, vui lòng đọc kỹ bài đăng ở kênh tải Korepi.
 
 ---
-### Why my config doesn't save?
+### Tại sao các thiết đặt trong Korepi của tôi không được lưu lại?
 
-Keep in mind you have to extract the `.rar/.zip` file you got in another folder.
+Lưu ý rằng bạn cần giải nén file `.rar/.zip` vào một thư mục cụ thể trước khi khởi động Korepi để có thể lưu lại các thiết đặt.
 
-If config is still not saving after this step, please contact with any helper in the server for more help.
+Nếu như bạn vẫn không thể lưu các thiết đặt Korepi sau khi làm theo bước ở trên, vui lòng liên hệ những người hỗ trợ ở server discord để được trợ giúp.
 
 ---
-### Where do i find themes?
+### Tôi có thể kiếm chủ đề (themes) ở đâu?
 
-You can find themes for your Korepi on `community share` or you can make your own in Korepi settings.
+Bạn có thể kiếm chủ đề (themes) cho Korepi ở kênh `community share` trên server Discord hoặc bạn có thể tự tạo chủ đề riêng của mình trong phần cài đặt của Korepi.
 
 ![](/assets/images/docs/202312/theme-settings.png)
 
-Check `Theme Customization` to start making your own theme.
+Mở mục `Tuỳ Chỉnh Chủ Đề` để bắt đầu tạo chủ đề riêng của bạn.
 
 ---
-### Why did my /start streak reset?
+### Tại sao chuỗi điểm danh của tôi bị reset?
 
+Có vẻ như bạn đã bỏ lỡ lượt điểm danh của một ngày nào đó. Lượt điểm danh được làm mới mỗi ngày. Nếu như bạn bỏ lỡ 1 ngày thì chuỗi điểm danh sẽ bị reset hoàn toàn.
 Most likely you surpassed the reset time, it resets daily, if you skip 1 day it will reset entirely
 
-::: info Reset time is at GMT/UTC+8 00:00 everyday. Please convert to your timezone.
+::: info Thời gian làm mới lượt điểm danh vào GMT/UTC+8 00:00 mỗi ngày. Vui lòng tự chuyển đổi sang múi giờ địa phương.
 :::
 ---
 
-### Can i use Korepi when a new update comes?
+### Tôi có thể sử dụng Korepi khi game có bản cập nhật mới không?
 
-No, you need to wait till a new Korepi version gets released.
+Không, bạn cần chờ phiên bản Korepi mới được ra mắt để có thể sử dụng tiếp.
 
-::: info Using the old injector wont work, Korepi update takes 1-2 weeks approximately.
+::: info Phiên bản Korepi cũ sẽ không thể hoạt động trên phiên bản game mới. Phiên bản Korepi mới sẽ được ra mắt sau khoảng 1-2 tuần.
 :::
 ---
 
-### Why the menu doesn't appear in game?
+### Tại sao menu Korepi không xuất hiện trong game?
 
-Make sure you have disabled every overlay(MSI Afterburner, GeForce Experience, etc.) before launching korepi.
-
----
-### Where do i get <span style='color:yellow;'>Sponsor</span> and how much it is?
-
-You can get [Sponsor](../start/sponsor.md) from the links provided in `#sponsorship` in the server.
-
-In order to get the Sponsor role, you need to donate at least 5$, any other donation below 5$ will be ignored.
+Vui lòng đảm bảo bạn đã tắt mọi chương trình hỗ trợ overlay (MSI Afterburner, GeForce Experience, etc.) trước khi chạy Korepi.
 
 ---
-### Why my game crashes in loading screen?
+### Tôi có thể trở thành <span style='color:yellow;'>Nhà Tài Trợ</span> bằng cách nào và chi phí là bao nhiêu?
 
-If you get a error like this:
+Bạn có thể trở thành [Nhà Tài Trợ](../start/sponsor.md) từ những đường link được cung cấp trong kênh `#sponsorship` trên server Discord.
+
+Để có thể nhận được vai trò Nhà Tài Trợ (Sponsor role), bạn cần ủng hộ ít nhất 5 USD. Các khoản ủng hộ bé hơn 5 USD sẽ không được tính.
+
+---
+### Tại sao game bị crashed khi đang load?
+
+Nếu như bạn gặp lỗi như sau:
 
 `atidxx64.dll caused an Access Violation (0xc0000005) in module atidxx64.dll at 0033:43d1356c.`
 
-Please update your drivers and try again.
+Vui lòng cập nhật drivers và thử lại.
 
-If you don't get that error, try setting more delay on launch on `cfg.ini`.
+Nếu bạn không gặp lỗi trên, hãy thử tăng giá trị "InitializationDelayMS" trong file `cfg.ini`.
 
