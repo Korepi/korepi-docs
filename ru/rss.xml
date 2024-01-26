@@ -6,8 +6,8 @@
     <link>https://korepi.com/ru/</link>
     <description>Помощь по Korepi</description>
     <language>ru-RU</language>
-    <pubDate>Sun, 21 Jan 2024 18:03:42 GMT</pubDate>
-    <lastBuildDate>Sun, 21 Jan 2024 18:03:42 GMT</lastBuildDate>
+    <pubDate>Fri, 26 Jan 2024 17:11:09 GMT</pubDate>
+    <lastBuildDate>Fri, 26 Jan 2024 17:11:09 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Руководство</category>
@@ -75,10 +75,12 @@
       <link>https://korepi.com/ru/guide/virus.html</link>
       <guid>https://korepi.com/ru/guide/virus.html</guid>
       <source url="https://korepi.com/ru/rss.xml">Как добавить в исключение</source>
-      <description>::: Информация: другие антивирусы могут иметь схожие шаги; адаптируйте их под используемый вами антивирус ::: Как добавить Korepi в исключения антивируса (Windows Defender) Шаг ...</description>
+      <description>::: info другие антивирусы могут иметь схожие шаги; адаптируйте их под используемый вами антивирус Как добавить Korepi в исключения антивируса (Windows Defender) Шаг 1: Откройте...</description>
       <category>Руководство</category>
       <pubDate>Sat, 23 Dec 2023 17:10:07 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> ::: Информация: другие антивирусы могут иметь схожие шаги; адаптируйте их под используемый вами антивирус :::</h2>
+      <content:encoded><![CDATA[<div class="hint-container info">
+<p class="hint-container-title">другие антивирусы могут иметь схожие шаги; адаптируйте их под используемый вами антивирус</p>
+<hr>
 <h2> Как добавить Korepi в исключения антивируса (Windows Defender)</h2>
 <h3> Шаг 1: Откройте антивирус</h3>
 <p>Откройте строку поиска в Windows и введите <code>Windows Security</code>, затем откройте его.</p>
@@ -92,7 +94,8 @@
 <p><img src="/assets/images/docs/202312/virus4.png" alt="" loading="lazy"></p>
 <p>Нажмите "Да" во всплывающем окне, затем нажмите <code>Add an Exclusion</code>. Нам нужно добавить в исключение папку, поэтому выберите <code>Исключить папку</code>, затем найдите и добавьте папку Korepi.</p>
 <h2> Video</h2>
-<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/BonLkFNnO9w" title="How to Exclude a File or Folder from Windows Defender Scan In Windows 10 [Tutorial]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>]]></content:encoded>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/BonLkFNnO9w" title="How to Exclude a File or Folder from Windows Defender Scan In Windows 10 [Tutorial]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div></div>
+]]></content:encoded>
       <enclosure url="https://korepi.com/assets/images/docs/202312/security.png" type="image/png"/>
     </item>
     <item>
@@ -189,10 +192,12 @@ pass korepi</p>
       <link>https://korepi.com/ru/guide/3DM-tutorial.html</link>
       <guid>https://korepi.com/ru/guide/3DM-tutorial.html</guid>
       <source url="https://korepi.com/ru/rss.xml">Как использовать собственные скины</source>
-      <description>::: Информация: Если в Korepi отображается echo off в cmd, вы можете просто нажать Numpad 0, чтобы удалить его. Также вы можете отредактировать файл d3dx.ini, найти строку hunti...</description>
+      <description>::: info Если в Korepi отображается echo off в cmd, вы можете просто нажать Numpad 0, чтобы удалить его. Также вы можете отредактировать файл d3dx.ini, найти строку hunting= и у...</description>
       <category>Руководство</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> ::: Информация: Если в Korepi отображается <code>echo off</code> в cmd, вы можете просто нажать <code>Numpad 0</code>, чтобы удалить его. Также вы можете отредактировать файл <code>d3dx.ini</code>, найти строку <code>hunting=</code> и установить значение <code>0</code> :::</h2>
+      <content:encoded><![CDATA[<div class="hint-container info">
+<p class="hint-container-title">Если в Korepi отображается `echo off` в cmd, вы можете просто нажать `Numpad 0`, чтобы удалить его. Также вы можете отредактировать файл `d3dx.ini`, найти строку `hunting=` и установить значение `0`</p>
+<hr>
 <h2> Как использовать собственные скины в Korepi</h2>
 <p><img src="/assets/images/docs/202312/example.png" alt="" loading="lazy">
 Чтобы использовать собственные скины в Korepi, вам нужно скачать: <code>3DMigoto (GIMI)</code>.</p>
@@ -217,6 +222,7 @@ pass korepi</p>
 <p>После загрузки <code>GIMI</code> извлеките его в любую папку по вашему выбору. Внутри этой папки вы найдете файл <code>3DMigoto Loader.exe</code>. Сначала запустите этот файл.</p>
 <h3> Шаг 4: Откройте Korepi</h3>
 <p>После запуска <code>GIMI</code> откройте Korepi; <code>GIMI</code> будет загружен с Korepi. После этого вам нужно будет повторять эти шаги каждый раз, когда вы хотите запустить Korepi с <code>GIMI</code>.</p>
+</div>
 ]]></content:encoded>
       <enclosure url="https://korepi.com/assets/images/docs/202312/example.png" type="image/png"/>
     </item>
@@ -292,13 +298,16 @@ pass korepi</p>
       <link>https://korepi.com/ru/guide/multi-instance.html</link>
       <guid>https://korepi.com/ru/guide/multi-instance.html</guid>
       <source url="https://korepi.com/ru/rss.xml">Как использовать множественные экземпляры</source>
-      <description>::: Информация: работает только с локальной версией (V) ::: Как использовать несколько экземпляров (открыть два окна игры одновременно)</description>
+      <description>::: info работает только с локальной версией (V) Как использовать несколько экземпляров (открыть два окна игры одновременно)</description>
       <category>Руководство</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> ::: Информация: работает только с локальной версией (V) :::</h2>
+      <content:encoded><![CDATA[<div class="hint-container info">
+<p class="hint-container-title">работает только с локальной версией (V)</p>
+<hr>
 <h2> Как использовать несколько экземпляров (открыть два окна игры одновременно)</h2>
 <hr>
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/pSAxKoneT64" title="Multi-Instance V (Обновлено)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+</div>
 ]]></content:encoded>
     </item>
     <item>
@@ -550,14 +559,16 @@ pass korepi</p>
       <link>https://korepi.com/ru/features/Player/bunny-hop.html</link>
       <guid>https://korepi.com/ru/features/Player/bunny-hop.html</guid>
       <source url="https://korepi.com/ru/rss.xml">Банни-хоп</source>
-      <description>::: Информация только для спонсоров ::: Автоматический Банни-хоп (Bunny Hop) Банни-хоп автоматически выполняет последующие прыжки после первого, когда функция включена. Пример В...</description>
+      <description>::: info Информация только для спонсоров Автоматический Банни-хоп (Bunny Hop) Банни-хоп автоматически выполняет последующие прыжки после первого, когда функция включена. Пример ...</description>
       <category>Особенности</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
-      <content:encoded><![CDATA[<p>::: Информация только для спонсоров :::</p>
+      <content:encoded><![CDATA[<div class="hint-container info">
+<p class="hint-container-title">Информация только для спонсоров</p>
 <h2> Автоматический Банни-хоп (Bunny Hop)</h2>
 <p>Банни-хоп автоматически выполняет последующие прыжки после первого, когда функция включена.</p>
 <h3> Пример Видео:</h3>
 <div class="iframe-container"><iframe width="640" height="369" src="https://www.youtube.com/embed/Gh2GX23E6dw?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Банни-хоп (Спонсор)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+</div>
 ]]></content:encoded>
     </item>
     <item>
@@ -605,10 +616,11 @@ pass korepi</p>
       <link>https://korepi.com/ru/features/Player/extra-movements.html</link>
       <guid>https://korepi.com/ru/features/Player/extra-movements.html</guid>
       <source url="https://korepi.com/ru/rss.xml">Дополнительные Движения</source>
-      <description>::: Информация только для Спонсоров ::: Дополнительные Движения: Модификации/Улучшения определенных действий для игрока. Бег по воде (Run On Water): Позволяет пересекать водную ...</description>
+      <description>::: info Информация только для Спонсоров Дополнительные Движения: Модификации/Улучшения определенных действий для игрока. Бег по воде (Run On Water): Позволяет пересекать водную...</description>
       <category>Особенности</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
-      <content:encoded><![CDATA[<p>::: Информация только для Спонсоров :::</p>
+      <content:encoded><![CDATA[<div class="hint-container info">
+<p class="hint-container-title">Информация только для Спонсоров</p>
 <hr>
 <h2> Дополнительные Движения: Модификации/Улучшения определенных действий для игрока.</h2>
 <h3> Бег по воде (Run On Water):</h3>
@@ -660,6 +672,7 @@ pass korepi</p>
 </ul>
 <h2> Пример Видео:</h2>
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/wMd9icqhFQg?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Дополнительные Движения (Спонсор)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+</div>
 ]]></content:encoded>
     </item>
     <item>
@@ -775,10 +788,11 @@ pass korepi</p>
       <link>https://korepi.com/ru/features/Player/remote-utility.html</link>
       <guid>https://korepi.com/ru/features/Player/remote-utility.html</guid>
       <source url="https://korepi.com/ru/rss.xml">Удаленная Утилита</source>
-      <description>::: Инфорамация только для Спонсоров ::: Удаленная Утилита (Remote Utility): Получение ежедневного вознаграждения за выполнение всех 4-х квестов (Claim Daily Commission Reward):...</description>
+      <description>::: info Инфорамация только для Спонсоров Удаленная Утилита (Remote Utility): Получение ежедневного вознаграждения за выполнение всех 4-х квестов (Claim Daily Commission Reward)...</description>
       <category>Особенности</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
-      <content:encoded><![CDATA[<p>::: Инфорамация только для Спонсоров :::</p>
+      <content:encoded><![CDATA[<div class="hint-container info">
+<p class="hint-container-title">Инфорамация только для Спонсоров</p>
 <hr>
 <h2> Удаленная Утилита (Remote Utility):</h2>
 <h3> Получение ежедневного вознаграждения за выполнение всех 4-х квестов (Claim Daily Commission Reward):</h3>
@@ -856,6 +870,7 @@ pass korepi</p>
 <h2> Пример видео:</h2>
 <div class="iframe-container">
   <iframe width="640" height="360" src="https://www.youtube.com/embed/XGztUEy82sE?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Remote Utilities (Sponsor)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+</div>
 </div>
 ]]></content:encoded>
     </item>
@@ -991,17 +1006,22 @@ pass korepi</p>
       <link>https://korepi.com/ru/features/Visuals/constellation-modifier.html</link>
       <guid>https://korepi.com/ru/features/Visuals/constellation-modifier.html</guid>
       <source url="https://korepi.com/ru/rss.xml">Модификатор созвездия</source>
-      <description>::: Дополнительную информацию о том, какие именно из них активируются, можно найти в разделе &amp;quot;#cons-check&amp;quot; на сервере.; ::: Совет: Сначала переключитесь на каждого персонажа, ко...</description>
+      <description>::: info Спонсор Дополнительную информацию о том, какие именно из них активируются, можно найти в разделе &amp;quot;#cons-check&amp;quot; на сервере.; ::: tip Совет: Сначала переключитесь на кажд...</description>
       <category>Особенности</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> ::: Спонсор :::</h2>
+      <content:encoded><![CDATA[<div class="hint-container info">
+<p class="hint-container-title">Спонсор</p>
+<hr>
 <h1> Модификатор созвездий, когда выбран, визуально изменяет созвездия ваших активных персонажей, и некоторые из них действительно начинают работать.</h1>
 <ul>
 <li>Дополнительную информацию о том, какие именно из них активируются, можно найти в разделе "#cons-check" на сервере.</li>
 </ul>
-<p>::: Совет: Сначала переключитесь на каждого персонажа, которого вы хотите активировать, а затем телепортируйтесь подальше, чтобы их активировать. :::</p>
+<div class="hint-container tip">
+<p class="hint-container-title">Совет: Сначала переключитесь на каждого персонажа, которого вы хотите активировать, а затем телепортируйтесь подальше, чтобы их активировать.</p>
 <h2> Пример видео:</h2>
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/S9-g5weE9l8?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Модификатор созвездия (Спонсор)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+</div>
+</div>
 ]]></content:encoded>
     </item>
     <item>
@@ -1262,11 +1282,14 @@ pass korepi</p>
       <link>https://korepi.com/ru/features/Visuals/texture-changer.html</link>
       <guid>https://korepi.com/ru/features/Visuals/texture-changer.html</guid>
       <source url="https://korepi.com/ru/rss.xml">Изменение текстур</source>
-      <description>::: Для изменения текстур рекомендуется использовать GIMI (../../guide/3DM-tutorial.md) ::: Изменение текстур позволяет заменять части персонажей предоставленными файлами .png.</description>
+      <description>::: tip Для изменения текстур рекомендуется использовать GIMI (../../guide/3DM-tutorial.md) Изменение текстур позволяет заменять части персонажей предоставленными файлами .png.</description>
       <category>Особенности</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> ::: Для изменения текстур рекомендуется использовать <a href="/ru/guide/3DM-tutorial.html" target="blank">GIMI</a> :::</h2>
+      <content:encoded><![CDATA[<div class="hint-container tip">
+<p class="hint-container-title">Для изменения текстур рекомендуется использовать [GIMI](../../guide/3DM-tutorial.md)</p>
+<hr>
 <h2> Изменение текстур позволяет заменять части персонажей предоставленными файлами .png.</h2>
+</div>
 ]]></content:encoded>
     </item>
     <item>
@@ -1274,13 +1297,16 @@ pass korepi</p>
       <link>https://korepi.com/ru/features/World/auto-activate-tp.html</link>
       <guid>https://korepi.com/ru/features/World/auto-activate-tp.html</guid>
       <source url="https://korepi.com/ru/rss.xml">Автоматическая активация телепорта</source>
-      <description>::: Спонсор ::: Функция &amp;quot;Автоматическая активация телепорта&amp;quot; включает близлежащие телепорты в радиусе до 50 метров. Пример видео:</description>
+      <description>::: info Информация только для Спонсоров Функция &amp;quot;Автоматическая активация телепорта&amp;quot; включает близлежащие телепорты в радиусе до 50 метров. Пример видео:</description>
       <category>Особенности</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> ::: Спонсор :::</h2>
+      <content:encoded><![CDATA[<div class="hint-container info">
+<p class="hint-container-title">Информация только для Спонсоров</p>
+<hr>
 <h3> Функция "Автоматическая активация телепорта" включает близлежащие телепорты в радиусе до 50 метров.</h3>
 <h2> Пример видео:</h2>
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/qstBErr9mJ0?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - AutoActivateTP (Спонсор)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+</div>
 ]]></content:encoded>
     </item>
     <item>
@@ -1427,16 +1453,19 @@ pass korepi</p>
       <link>https://korepi.com/ru/features/World/auto-tree-farm.html</link>
       <guid>https://korepi.com/ru/features/World/auto-tree-farm.html</guid>
       <source url="https://korepi.com/ru/rss.xml">Автоматический сбор дерева</source>
-      <description>::: Информация только для спонсоров ::: Автоматический сбор дерева позволяет вам ударять близлежащие деревья с выбранным значением и задержкой, тем самым автоматически получая д...</description>
+      <description>::: info Информация только для Спонсоров Автоматический сбор дерева позволяет вам ударять близлежащие деревья с выбранным значением и задержкой, тем самым автоматически получая ...</description>
       <category>Особенности</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> ::: Информация только для спонсоров :::</h2>
+      <content:encoded><![CDATA[<div class="hint-container info">
+<p class="hint-container-title">Информация только для Спонсоров</p>
+<hr>
 <h3> Автоматический сбор дерева позволяет вам ударять близлежащие деревья с выбранным значением и задержкой, тем самым автоматически получая древесину из окружающих деревьев.</h3>
 <blockquote>
 <p>Примечание: Не рекомендуется изменять значения по умолчанию.</p>
 </blockquote>
 <h2> Пример видео:</h2>
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/v95_NOxc4do?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Автоматическая деревоферма" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+</div>
 ]]></content:encoded>
     </item>
     <item>
@@ -1444,16 +1473,19 @@ pass korepi</p>
       <link>https://korepi.com/ru/features/World/elemental-aura.html</link>
       <guid>https://korepi.com/ru/features/World/elemental-aura.html</guid>
       <source url="https://korepi.com/ru/rss.xml">Элементальная Аура</source>
-      <description>::: Информация только для Спонсоров ::: Элементальная Аура применяет элементы с указанным типом, диапазоном и задержкой к целям, объектам или самому себе; несколько элементов мо...</description>
+      <description>::: info Информация только для Спонсоров Элементальная Аура применяет элементы с указанным типом, диапазоном и задержкой к целям, объектам или самому себе; несколько элементов м...</description>
       <category>Особенности</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> ::: Информация только для Спонсоров :::</h2>
+      <content:encoded><![CDATA[<div class="hint-container info">
+<p class="hint-container-title">Информация только для Спонсоров</p>
+<hr>
 <h3> Элементальная Аура применяет элементы с указанным типом, диапазоном и задержкой к целям, объектам или самому себе; несколько элементов могут быть применены к близким целям.</h3>
 <blockquote>
 <p>Примечание: Низкое время задержки увеличивает вероятность обнаружения.</p>
 </blockquote>
 <h2> Пример видео:</h2>
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/FskTJiknOgQ?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Элементальная Аура (Спонсор)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+</div>
 ]]></content:encoded>
     </item>
     <item>
@@ -1477,10 +1509,12 @@ pass korepi</p>
       <link>https://korepi.com/ru/features/World/kill-aura.html</link>
       <guid>https://korepi.com/ru/features/World/kill-aura.html</guid>
       <source url="https://korepi.com/ru/rss.xml">Убийственная Аура</source>
-      <description>::: Эта функция имеет высокий риск блокировки аккаунта ::: Убийственная Аура (Kill Aura): Наносит урон окружающим врагам Режим Урона при Падении: Наносит урон окружающим врагам ...</description>
+      <description>::: warning Эта функция имеет высокий риск блокировки аккаунта Убийственная Аура (Kill Aura): Наносит урон окружающим врагам Режим Урона при Падении: Наносит урон окружающим вра...</description>
       <category>Особенности</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> ::: Эта функция имеет высокий риск блокировки аккаунта :::</h2>
+      <content:encoded><![CDATA[<div class="hint-container warning">
+<p class="hint-container-title">Эта функция имеет высокий риск блокировки аккаунта</p>
+<hr>
 <h2> Убийственная Аура (Kill Aura): Наносит урон окружающим врагам</h2>
 <h3> Режим Урона при Падении:</h3>
 <ul>
@@ -1514,6 +1548,7 @@ pass korepi</p>
 </ul>
 <h2> Пример Видео:</h2>
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/NiAh00VBy-w?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Убийственная Аура" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+</div>
 ]]></content:encoded>
     </item>
     <item>
@@ -1586,12 +1621,14 @@ pass korepi</p>
 <h2> Шаг 2.1: Альтернативный вариант</h2>
 <p>Если вам сложно разобраться с предыдущим шагом, или у вас нет времени, вы можете связаться с любым русскоязычным модератором, и он окажет вам помощь.</p>
 <hr>
-<p>::: Модераторы :::</p>
+<div class="hint-container tip">
+<p class="hint-container-title">Модераторы</p>
 <ul>
-<li><strong><span style="color:green">QweRez</span></strong></li>
-<li><strong><span style="color:green">Butterbrodskiy</span></strong></li>
+<li>QweRez (qwerezon)</li>
+<li>Butterbrodskiy</li>
 </ul>
 <hr>
+</div>
 ]]></content:encoded>
     </item>
     <item>
@@ -1599,12 +1636,9 @@ pass korepi</p>
       <link>https://korepi.com/ru/start/</link>
       <guid>https://korepi.com/ru/start/</guid>
       <source url="https://korepi.com/ru/rss.xml">Начало</source>
-      <description>На этой странице собрана информация для новичков и людей которые хотят попробовать использовать Korepi. Если тебе скинули ссылку на эту страницу, пожалуйста изучи все материалы ...</description>
+      <description>Информация для новичков Korepi.</description>
       <category>Гайд</category>
       <pubDate>Fri, 24 Nov 2023 14:31:46 GMT</pubDate>
-      <content:encoded><![CDATA[<p>На этой странице собрана информация для новичков и людей которые хотят попробовать использовать Korepi.
-Если тебе скинули ссылку на эту страницу, пожалуйста изучи все материалы этой страницы, вероятно они ответят на твой вопрос.</p>
-]]></content:encoded>
     </item>
     <item>
       <title>Присоединение к серверу</title>
@@ -1648,10 +1682,12 @@ pass korepi</p>
 <p><img src="/assets/images/docs/202312/signin1.png" alt="Sign-in" loading="lazy"></p>
 <h2> Шаг 3: Начало</h2>
 <p>Напишите ему команду <code>/start</code>, решите капчу. Примечание: если бот не отвечает на ваш запрос с капчей, вероятно, вы ввели её неверно. Попробуйте написать капчу еще раз (без команды). После успешного ввода бот отправит вам сообщение "Consecutive &lt;количество дней&gt; days".</p>
-<p><img src="/assets/images/docs/202312/signin1.png" alt="Sign-in" loading="lazy"></p>
-<p><img src="/assets/images/docs/202312/signin1.png" alt="Sign-in" loading="lazy"></p>
-<hr>
-<h2> ::: <span style="color:red">ВАЖНО</span>: вам нужно вводить эту команду каждый день в течение 7 дней (каждые 24 часа). Учтите, что если вы ошибетесь на пару часов, бот посчитает, что вы не отмечались и сбросит ваши дни. На 7-й день отметок вам будет выдана роль "Fans", и вы сможете прекратить отмечаться :::</h2>
+<p><img src="/assets/images/docs/202312/signin2.png" alt="Sign-in" loading="lazy"></p>
+<p><img src="/assets/images/docs/202312/signin3.png" alt="Sign-in" loading="lazy"></p>
+<div class="hint-container warning">
+<p class="hint-container-title">ВАЖНО</p>
+<p>Вам нужно вводить эту команду каждый день в течение 7 дней (каждые 24 часа). Учтите, что если вы ошибетесь на пару часов, бот посчитает, что вы не отмечались и сбросит ваши дни. На 7-й день отметок вам будет выдана роль "Fans", и вы сможете прекратить отмечаться.</p>
+</div>
 <p><img src="/assets/images/docs/202312/signin4.png" alt="Sign-in" loading="lazy"></p>
 ]]></content:encoded>
       <enclosure url="https://korepi.com/assets/images/docs/202312/signin1.png" type="image/png"/>

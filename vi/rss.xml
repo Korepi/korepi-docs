@@ -6,8 +6,8 @@
     <link>https://korepi.com/vi/</link>
     <description>Trợ giúp về Korepi</description>
     <language>vi-VN</language>
-    <pubDate>Sun, 21 Jan 2024 18:03:42 GMT</pubDate>
-    <lastBuildDate>Sun, 21 Jan 2024 18:03:42 GMT</lastBuildDate>
+    <pubDate>Fri, 26 Jan 2024 17:11:09 GMT</pubDate>
+    <lastBuildDate>Fri, 26 Jan 2024 17:11:09 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Hướng Dẫn</category>
@@ -1655,9 +1655,9 @@ Lưu ý 2: Không khuyến khích sử dụng chức năng này.</p>
 <p>Viết lệnh <code>/start</code> và giải captcha.
 Lưu ý: nếu như bot không phải hồi với mã captcha bạn yêu cầu, có thể là bạn đã nhập sai. Hãy thử viết lại captcha.</p>
 <p>Sau khi nhập thành công, bot sẽ gửi cho bạn thông báo <code>"Consecutive &lt;days&gt; days"</code> như ảnh dưới
-</p>
-<p><img src="/assets/images/docs/202312/signin1.png" alt="Sign-in" loading="lazy"></p>
-<p><img src="/assets/images/docs/202312/signin1.png" alt="Sign-in" loading="lazy"></p>
+<img src="/assets/images/docs/202312/micah-checkin_vi.png" alt="" loading="lazy"></p>
+<p><img src="/assets/images/docs/202312/signin2.png" alt="Sign-in" loading="lazy"></p>
+<p><img src="/assets/images/docs/202312/signin3.png" alt="Sign-in" loading="lazy"></p>
 <h2> Bước 4: Sau khi nhận Role "Fans"</h2>
 <p>Như vậy bây giờ bạn cần nhập lệnh này hằng ngày trong vòng 7 ngày (mỗi 24 giờ).
 <strong>Lưu ý</strong> rằng nếu bạn chỉ cần trễ vài giờ, thì bot sẽ coi như bạn không điểm danh vào ngày hôm đó và bạn sẽ phải bắt lại từ đầu.
@@ -1719,11 +1719,12 @@ Sau khi bạn nhận được vai trò Fans của mình, bạn đã sẵn sàng 
 <h2> Bước 3: Kênh ★⋅rules⋅★</h2>
 <p>Trong kênh <strong>★⋅rules⋅★</strong> , hãy làm quen với các luật và trải qua quá trình xác minh để xác nhận rằng bạn không phải là robot.</p>
 <p>Nhấn vào nút <strong>Verify</strong> như hình bên dưới.</p>
-<p></p>
+<p><img src="/assets/images/docs/202312/verify_vi.png" alt="" loading="lazy"></p>
 <p>Bot sẽ gửi cho bạn một đường link mà bạn cần làm theo và xác nhận rằng bạn không phải là Robot</p>
 <h2> Step 4: Sau khi nhận được Role "Newcomer"</h2>
 <p>Sau khi đã xác thực thành công, bot sẽ tự động gắn cho bạn Role "Newcomer". Với Role này, bạn sẽ không bị đá ra khỏi máy chủ mà không có bất cứ lí do nào. Giờ hãy đến với bước tiếp theo.</p>
 ]]></content:encoded>
+      <enclosure url="https://korepi.com/assets/images/docs/202312/verify_vi.png" type="image/png"/>
     </item>
   </channel>
 </rss>
