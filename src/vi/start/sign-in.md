@@ -28,12 +28,12 @@ Viết lệnh `/start` và giải captcha.
 Lưu ý: nếu như bot không phải hồi với mã captcha bạn yêu cầu, có thể là bạn đã nhập sai. Hãy thử viết lại captcha. 
 
 Sau khi nhập thành công, bot sẽ gửi cho bạn thông báo `"Consecutive <days> days"` như ảnh dưới
-![](images/micah-checkin.png)
+![](/assets/images/docs/202312/micah-checkin_vi.png)
 
 
-![Sign-in](/assets/images/docs/202312/signin1.png)
+![Sign-in](/assets/images/docs/202312/signin2.png)
 
-![Sign-in](/assets/images/docs/202312/signin1.png)
+![Sign-in](/assets/images/docs/202312/signin3.png)
 
 ## Bước 4: Sau khi nhận Role "Fans"
 

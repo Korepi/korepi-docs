@@ -55,11 +55,6 @@ export default defineUserConfig({
             title: "Korepi",
             description: "Korepi 도움말"
         },
-        "/tr/": {
-            lang: "tr-TR",
-            title: "Korepi",
-            description: "Yardım için Korepi"
-        },
         "/ar/": {
             lang: "ar",
             title: "Korepi",
@@ -365,47 +360,6 @@ export default defineUserConfig({
                         },
                     },
                 },
-                "/tr/": {
-                    placeholder: "Arama",
-                    translations: {
-                        button: {
-                            buttonText: "Ara",
-                            buttonAriaLabel: "Ara",
-                        },
-                        modal: {
-                            searchBox: {
-                                resetButtonTitle: "Arama filtresini temizle.",
-                                resetButtonAriaLabel: "Arama Kriterlerini Temizle",
-                                cancelButtonText: "Geri",
-                                cancelButtonAriaLabel: "Geri",
-                            },
-                            startScreen: {
-                                recentSearchesTitle: "Arama Geçmişi",
-                                noRecentSearchesText: "Arama geçmişi yok",
-                                saveRecentSearchButtonTitle: "Arama Geçmişine Kaydet",
-                                removeRecentSearchButtonTitle: "Arama Geçmişinden Kaldır",
-                                favoriteSearchesTitle: "Favoriler",
-                                removeFavoriteSearchButtonTitle: "Favorilerden Kaldır",
-                            },
-                            errorScreen: {
-                                titleText: "Sonuçları Getirme Başarısız Oldu",
-                                helpText: "İnternet bağlantınızı ve bağlantı noktanızı kontrol edin.",
-                            },
-                            footer: {
-                                selectText: "Seç",
-                                navigateText: "Geçiş",
-                                closeText: "Kapat",
-                                searchByText: "Arama kullanıyoruz",
-                            },
-                            noResultsScreen: {
-                                noResultsText: "Sorgunuz için hiçbir şey bulunamadı:",
-                                suggestedQueryText: "Farklı bir sorgu deneyebilirsiniz",
-                                reportMissingResultsText: "Bu sorgunun sonuç vermesi gerektiğini düşünüyor musunuz :> ?",
-                                reportMissingResultsLinkText: "Bizimle iletişime geçin",
-                            },
-                        },
-                    },
-                },
                 "/ar/": {
                     placeholder: "يبحث",
                     translations: {
@@ -504,7 +458,6 @@ export default defineUserConfig({
                 "/vi/": ["vi-VN", "vi"],
                 "/pt/": ["pt-PT", "pt-BR", "pt"],
                 "/ko/": ["ko", "ko-KR"],
-                "/tr/": ["tr-TR", "tr"],
                 "/jp/": ["ja-JP","jp-JP", "jp"],
                 "/ar/": ["ar", "ar-MA", "ar-SA", "ar-PS", "ar-DZ", "ar-BH", "ar-TD", "ar-KM", "ar-JO", "ar-EG", "ar-IQ", "ar-KW", "ar-LB", "ar-LY", "ar-MR", "ar-OM", "ar-QA", "ar-SO", "ar-SD", "ar-SY", "ar-TN", "ar-AE", "ar-YE",],
             },

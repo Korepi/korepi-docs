@@ -24,7 +24,7 @@ order: 4
 Если вам сложно разобраться с предыдущим шагом, или у вас нет времени, вы можете связаться с любым русскоязычным модератором, и он окажет вам помощь.
 
 ---
-::: Модераторы :::
-- **<span style="color:green">QweRez</span>**
-- **<span style="color:green">Butterbrodskiy</span>**
+::: tip Модераторы 
+- QweRez (qwerezon)
+- Butterbrodskiy
 ---

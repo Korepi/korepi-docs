@@ -1,8 +1,7 @@
 ---
 title: Загрузка
 icon: download
-category:
-  - Руководство
+category: Руководство
 tag:
   - Начало
   - Загрузка

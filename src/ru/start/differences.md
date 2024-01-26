@@ -1,10 +1,8 @@
 ---
 title: Различия между версиями
 icon: server
-category:
-  - Руководство
-tag:
-  - Начало
+category: Руководство
+tag: Начало
 author: Schvis
 order: 6
 ---

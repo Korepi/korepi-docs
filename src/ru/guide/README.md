@@ -1,10 +1,8 @@
 ---
 title: Гайды
 icon: book
-category:
-  - Гайд
-tag:
-  - Старт
+category: Гайд
+tag: Старт
 author: QweRez, Schvis
 ---
 

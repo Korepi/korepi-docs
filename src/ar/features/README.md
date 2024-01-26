@@ -1,12 +1,10 @@
 ---
 title: قائمة الميزات
 icon: "book"
-category:
-  - الميزات
+category: الميزات
 tag:
   - بدء
 author: Schvis
 ---
 
 <AutoCatalog />
-
