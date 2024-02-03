@@ -1,25 +1,25 @@
 ---
-title: Install Skins
+title: Cài Đặt Trang Phục (Skins)
 icon: magic-wand-sparkles
 category:
-  - Guide
+  - Hướng Dẫn
 tag:
-  - Start
-  - Skins
+  - Bắt Đầu
+  - Trang Phục
 author: Schvis
 order: 5
 ---
 
-## How to install custom Skins in `GIMI`
+## Hướng Dẫn Cài Đặt Trang Phục Tuỳ Chỉnh Trong `GIMI`
 
-### Step 1: Download the Skin
+### Bước 1: Tải Trang Phục
 
-Head to [Gamebanana](https://gamebanana.com/games/8552) and download a skin of your choice.
+Đi tới trang [Gamebanana](https://gamebanana.com/games/8552) và tải trang phục mà bạn muốn.
 
-### Step 2: Install the Skin
+### Bước 2: Cài Đặt Trang Phục
 
-We will head to our `GIMI` folder and look for `Mods` folder, inside that folder we will extract the file we just downloaded.
+Đi tới thư mục `GIMI` và tìm thư mục có tên là `Mods`. Sau đó giải nén file trang phục bạn vừa tải về lúc trước.
 
-### Step 3: Apply the skin
+### Bước 3: Áp Dụng Trang Phục
 
-If we are already inside the game we will use `F10` to reload the Skins, if not, we will open the game following the [last post](3DM-tutorial.md) and the skin should be applied.
+Nếu như bạn đang mở game, hãy nhấn `F10` để tải lại trang phục. Nếu không, hãy làm theo hướng dẫn [tại đây](3DM-tutorial.md) và trang phục tuỳ chọn sẽ được áp dụng.

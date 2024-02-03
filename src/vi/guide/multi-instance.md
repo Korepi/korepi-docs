@@ -1,17 +1,17 @@
 ---
-title: How to Multi-Instance
+title: Hướng Dẫn Mở Nhiều Cửa Sổ Game Cùng Lúc
 icon: clone
 category:
-  - Guide
+  - Hướng Dẫn
 tag:
-  - Start
+  - Bắt Đầu
 author: Schvis
 order: 3
 ---
 
-## How to Multi-instance (Open 2 game window at the same time)
+## Hướng Dẫn Mở Nhiều Cửa Sổ Game Cùng Lúc (mở 2 cửa sổ game cùng lúc)
 
-::: info Only works with Local(V) version
+::: info Chỉ hoạt động với phiên bản Local(V)
 :::
 ---
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/pSAxKoneT64" title="Multi-Instance V (Updated)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
