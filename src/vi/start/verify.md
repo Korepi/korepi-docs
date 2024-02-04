@@ -1,10 +1,10 @@
 ---
-title: Xác thực
+title: Xác Thực
 icon: lock
 category:
-  - Hướng dẫn
+  - Hướng Dẫn
 tag:
-  - Bắt đầu
+  - Bắt Đầu
 author: QweRez
 order: 2
 ---
@@ -27,7 +27,7 @@ Trong kênh **★⋅rules⋅★** , hãy làm quen với các luật và trải 
 
 Nhấn vào nút **Verify** như hình bên dưới.
 
-![](images/verify.png)
+![](/assets/images/docs/202312/verify_vi.png)
 
 Bot sẽ gửi cho bạn một đường link mà bạn cần làm theo và xác nhận rằng bạn không phải là Robot
 

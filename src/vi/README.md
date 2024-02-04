@@ -8,7 +8,7 @@ bgImageDark: https://theme-hope-assets.vuejs.press/bg/6-dark.svg
 bgImageStyle:
   background-attachment: fixed
 heroText: Korepi
-tagline: Chúng tôi cung cấp sản phẩm Korepi với giá cả phải chăng, chất lượng cao và dễ sử dụng!
+tagline: Cung cấp công cụ Korepi với chất lượng cao và thân thiện với người dùng!
 actions:
   - text: Tải xuống
     icon: download
@@ -28,8 +28,9 @@ highlights:
     bgImageDark: https://theme-hope-assets.vuejs.press/bg/3-dark.svg
     highlights:
       - title: Mở khóa các địa điểm chưa được khám phá
-      - title: Mở tất cả các rương trên bản đồ chỉ bằng vài cú nhấp chuột!
-
+      - title: Tự động khám phá kho báu!
+      - title: Chế độ khám phá cho phép bạn tập trung hơn vào trò chơi!
+      - title: Hỗ trợ đa ngôn ngữ!
 
   - header: Công cụ thiết thực, tiện lợi và tương tác với Genshin Impact
     description: Tính năng độc đáo, sử dụng miễn phí

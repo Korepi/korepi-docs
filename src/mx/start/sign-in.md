@@ -27,9 +27,9 @@ Ahora necesitas encontrar al bot con la imagen de un ganso y mandarle un mensaje
 
 Envíale el comando `/start`, resuelve el captcha. Nota: si el bot no te responde al la solución del captcha, seguramente lo haya hecho incorrectamente. Prueba a escribir el captcha de nuevo (sin el comando). Si es correcto, el bot te mandara el siguiente mensaje "Consecutive `<días>` days".
 
-![Sign-in](/assets/images/docs/202312/signin1.png)
+![Sign-in](/assets/images/docs/202312/signin2.png)
 
-![Sign-in](/assets/images/docs/202312/signin1.png)
+![Sign-in](/assets/images/docs/202312/signin3.png)
 
 ### Paso 4: Después de recibir el rol de "Fans"
 

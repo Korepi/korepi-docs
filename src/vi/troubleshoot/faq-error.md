@@ -1,149 +1,149 @@
 ---
-title: Common Injector Errors
+title: Các Lỗi Thường Gặp
 icon: info
 category:
-  - Troubleshoot
+  - Khắc Phục Lỗi
 tag:
-  - Start
+  - Bắt Đầu
 author: Schvis
 order: 2
 ---
 
-## List of common errors
+## Danh sách các lỗi thường gặp
 
-### Why my korepi disappears?
+### Tại sao Korepi đột nhiên biến mất?
 
-Make sure you got your anti-virus disabled, create a new folder and add it to exclusions.
+Hãy đảm bảo rằng bạn đã tắt trình diệt virus, sau đó tạo một folder mới và thêm nó vào danh sách loại trừ của trình diệt virus.
 
 ![](/assets/images/docs/202312/virus.png)
 
-Extract korepi inside the excluded folder and run again.
+Giải nén Korepi vào thư mục được loại trừ đó và chạy lại.
 
 ---
 ### Status: No active subscription(s) found, Invalid license key
 
-You need to [get a new key](../guide/getkey.md) from `⁠★⋅micah-bot-verify⋅★`, if you can't get a key or if the key doesn't work, you have to wait till key expiration.
+Bạn cần [lấy key mới](../guide/getkey.md) từ `⁠★⋅micah-bot-verify⋅★`, nếu như bạn không thể lấy key mới hoặc key không hoạt động, bạn cần chờ cho tới khi key hiện tại hết hạn.
 
-`Sponsors can use F:Reset Key instead`
+`Nhà Tài Trợ có thể sử dụng F:Reset Key`
 
-### [DLL injection]  Process crashed, exit code 0xc000005
+### [DLL injection] Process crashed, exit code 0xc000005
 
-Open `cmd` as administrator and write the following command:
+Mở `cmd` dưới quyền quản trị viên (run as admin) và chạy dòng lệnh sau:
 
 `sfc /scannow`
 
-After that, if errors were found, restart the computer and check.
-If after restarting it did not help or no errors were found, write this command:
+Nếu như có lỗi nào được tìm thấy, khởi động lại máy tính và thử lại.
+Nếu như việc khởi động lại máy không giúp ích được gì hoặc không có lỗi nào được tìm thấy, chạy dòng lệnh sau:
 
 `DISM.exe /Online /Cleanup-Image /RestoreHealth`
 
-After completing the checks, restart the computer and check.
+Sau khi hoàn tất kiểm tra, khởi động lại máy và thử lại.
 
-If it doesn't work, reinstall Windows.
+Nếu vẫn không được, bạn nên cài lại Windows.
 
 ---
 ### ImGUI: DirectX11 backend initialized successfully.
 
-Error occurs because of themes installed, clear the `themes` folder.
+Lỗi này xuất hiện do chủ đề (theme) được cài. Hãy xoá thư mục `themes`.
 
 ---
 ### The system did not detect MSVCP140.dll
 
-Update [Microsoft Visual Studio C++](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170#visual-studio-2015-2017-2019-and-2022)
+Cập nhật [Microsoft Visual Studio C++](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170#visual-studio-2015-2017-2019-and-2022)
 
-Update [DirectX](https://www.microsoft.com/en-us/download/details.aspx?id=35)
+Cập nhật [DirectX](https://www.microsoft.com/en-us/download/details.aspx?id=35)
 
 ---
 ### File corrupted! This program has been manipulated and maybe it's infected.
 
 ![](/assets/images/docs/202312/virus2.png)
 
-In this case, you can try using `Malware Bytes` or `Dr.Web` to do a full scan, if any virus is found, remove them, restart and try again. If it doesn't work, reinstall Windows is the easiest way to solve this issue.
+Trong trường hợp này, bạn có thể sử dụng `Malware Bytes` hoặc `Dr.Web` để quét toàn bộ máy. Nếu phát hiện ra virus nào, hãy loại bỏ chúng và khởi động lại máy và thử lại. Nếu vẫn không được, hãy cài lại Windows.
 
 ---
 ### Timeout was reached
 
 ![](/assets/images/docs/202312/error1.png)
 
-Reboot your router.
+Khởi động lại router.
 
-An antivirus may be blocking the connection, make sure that is not in the Task Manager.
+Chương trình diệt virus có thể đang chặn kết nối. Hãy kiểm tra lại thiết lập tường lửa của trình diệt virus.
 
-Use a VPN and try again.
+Sử dụng VPN và thử lại.
 
-Turn off all applications that affect the firewall. If nothing works, then you might have some problems with the network.
+Tắt toàn bộ ứng dụng có tác động tới tường lửa. Nếu như vẫn không được, có vẻ đường truyền mạng của bạn đang có vấn đề.
 
 ---
 ### DLL Injection failed
 
-Uninstall colorpicker folder and download colorpicker again.
+Xoá toàn bộ file bên trong thư mục colorpicker và tải lại.
 
 ---
 ### Windows cannot access the specified device, path, or file
 
 ![](/assets/images/docs/202312/error2.png)
 
-At first go to [HERE](https://support.microsoft.com/en-us/topic/-windows-cannot-access-the-specified-device-path-or-file-error-when-you-try-to-install-update-or-start-a-program-or-file-46361133-47ed-6967-c13e-e75d3cc29657) and follow the steps on that post.
+Mở [TRANG NÀY](https://support.microsoft.com/en-us/topic/-windows-cannot-access-the-specified-device-path-or-file-error-when-you-try-to-install-update-or-start-a-program-or-file-46361133-47ed-6967-c13e-e75d3cc29657) và làm theo hướng dẫn bên trong.
 
-Also after going to the solutions on the post, download an antivirus like `Dr.Web` or `Malware bytes` and run a full system check!
+Tiếp đến, tải trình duyệt virus như `Dr.Web` hoặc `Malware bytes` và thực hiện quét toàn bộ máy!
 
-If it doesn't help open cmd as administrator and write `sfc /scannow`
+Nếu vẫn không được, hãy mở cmd dưới quyền quản trị viên (run as admin) và chạy lệnh `sfc /scannow`
 
-After that, if errors were found, restart the computer and check.
+Sau đó, nếu như có lỗi nào được tìm thấy, khởi động lại máy và thử lại.
 
-If after restarting it didn't help or no errors were found, write this command:
+Nếu như việc khởi động lại máy không giúp ích được gì hoặc không có lỗi nào được tìm thấy, chạy dòng lệnh sau:
 
 `DISM.exe /Online /Cleanup-Image /RestoreHealth`
 
-After completing the checks, restart the computer and check again.
+Sau khi hoàn tất kiểm tra, khởi động lại máy và thử lại.
 
-If it doesn't work, reinstall Windows.
+Nếu vẫn không được, bạn nên cài lại Windows.
 
 ---
 ### Signature checksum failed
 
 ![](/assets/images/docs/202312/checksum.png)
 
-Servers are down or shut down, wait for servers to come back online.
+Server Korepi đang bị tắt hoặc bảo trì, vui lòng chờ cho tới khi server được bật trở lại.
 
 ---
 ### Failed to create game process with Error 5
 
 ![](/assets/images/docs/202312/error3.png)
 
-Delete `cfg.ini`.
+Xoá file `cfg.ini`.
 
 ---
 ### SSL connect error
 
 ![](/assets/images/docs/202312/error4.png)
 
-Restart your PC, restart your router.
+Khởi động lại máy tính và router.
 
-Try using a VPN if it doesn't work.
+Nếu vẫn không được, hãy thử dùng VPN.
 
 ---
 ### Failed to detect game version
 
-Update your injector, follow the steps [here](../start/download.md)
+Cập nhật Korepi theo hướng dẫn [TẠI ĐÂY](../start/download.md)
 
 ---
 ### File ok
 
-Delete your cfg.json, something might be wrong with the file.
+Xoá file cfg.json.
 
 ---
 ### UserAssembly.dll isn't initialized, waiting for 2 sec.
 
-If your injector crashes after this line try the following steps:
+Nếu như Korepi crash sau khi xuất hiện dòng này, hãy thử các bước sau:
 
-Turn off all anti-viruses in PC.
+Tắt toàn bộ trình diệt virus trong máy.
 
-If its doesn't help use `sfc /scannow` command in cmd as administrator.
+Nếu vẫn lỗi, chạy lệnh `sfc /scannow` trên cmd với quyền quản trị viên (run as admin).
 
-If errors are found after checking and Windows is unable to resolve them, use the `DISM.exe /Online /Cleanup-Image /RestoreHealth` command. 
+Nếu như có lỗi được phát hiện nhưng Windows không thể sửa chúng, chạy lệnh `DISM.exe /Online /Cleanup-Image /RestoreHealth`. 
 
-After checking restart your computer and try to run colorpicker again.
+Sau đó khởi động lại máy và thử chạy colorpicker lần nữa.
 
-If the error repeats you can make factory reset of Windows.
+Nếu như lỗi vẫn tiếp diễn, bạn nên cài lại Windows.
 

@@ -1,18 +1,18 @@
 ---
-title: Tải xuống
+title: Tải Xuống
 icon: download
 category:
-  - Hướng dẫn
+  - Hướng Dẫn
 tag:
-  - Bắt đầu
-  - Tải xuống
+  - Bắt Đầu
+  - Tải Xuống
 author:
   name: "QweRez"
   url: "https://github.com/qwerezon/"
 order: 5
 ---
 
-# Tải xuống
+# Tải Xuống
 
 ## Giới thiệu
 

@@ -1,10 +1,10 @@
 ---
-title: Tham gia vào Server
+title: Tham Gia Vào Server
 icon: server
 category:
-  - Hướng dẫn
+  - Hướng Dẫn
 tag:
-  - Bắt đầu
+  - Bắt Đầu
 author: QweRez
 order: 1
 ---

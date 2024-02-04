@@ -1,8 +1,7 @@
 ---
 title: Как сбросить HWID
 icon: lock
-category:
-  - Руководство
+category: Руководство
 tag:
   - Начало
   - Лицензия

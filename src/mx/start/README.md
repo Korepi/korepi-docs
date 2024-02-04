@@ -1,10 +1,8 @@
 ---
 title: Inicio
 icon: book
-category:
-  - Guía
-tag:
-  - Inicio
+category: Guía
+tag: Inicio
 author: Schvis
 ---
 

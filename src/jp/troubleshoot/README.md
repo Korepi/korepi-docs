@@ -1,10 +1,8 @@
 ---
 title: エラーリスト
 icon: book
-category:
-  - トラブルシューティング
-tag:
-  - Start
+category: トラブルシューティング
+tag: Start
 author: Schvis
 ---
 

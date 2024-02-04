@@ -1,10 +1,8 @@
 ---
 title: Верификация
 icon: lock
-category:
-  - Гайд
-tag:
-  - Начало
+category: Гайд
+tag: Начало
 author: 
   name: "QweRez"
   url: "https://github.com/qwerezon/"

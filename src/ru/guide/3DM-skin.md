@@ -1,8 +1,7 @@
 ---
 title: Установка скинов
 icon: magic-wand-sparkles
-category:
-  - Руководство
+category: Руководство
 tag:
   - Начало
   - Скины

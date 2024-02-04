@@ -13,7 +13,7 @@ order: 8
 ### Tua Nhanh Hội Thoại:
 - Tăng tốc độ của game tới một giá trị cụ thể nhằm tua nhanh độ trò chuyện.
 > Lưu ý: Không khuyến khích đặt giá trị lớn hơn `5`.
-### Bỏ Qua Hội Thoại (Sponsor): 
+### Bỏ Qua Hội Thoại (Nhà Tài Trợ): 
 - Bỏ qua đoạn hội thoại với độ trễ nhất định. Chức năng này an toàn hơn Tua Nhanh Hội Thoại.
 > Lưu ý: Không khuyến khích đặt độ trễ nhỏ hơn `200ms`
 ### Tua Nhanh Đoạn Cắt:

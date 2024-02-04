@@ -1,10 +1,8 @@
 ---
 title: Присоединение к серверу
 icon: server
-category:
-  - Гайд
-tag:
-  - Начало
+category: Гайд
+tag: Начало
 author: 
   name: "QweRez"
   url: "https://github.com/qwerezon/"

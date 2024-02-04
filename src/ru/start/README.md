@@ -1,17 +1,15 @@
 ---
-title: Начало
-icon: circle-info
+title: "Начало"
+icon: "circle-info"
 category:
-  - Гайд
+  - "Гайд"
 tag:
-  - Начало
-  - Fans
+  - "Начало"
+  - "Fans"
 author:
-  name: QweRez
-  url: https://github.com/qwerezon/
+  name: "QweRez"
+  url: "https://github.com/qwerezon/"
+description: "Информация для новичков Korepi."
 ---
-На этой странице собрана информация для новичков и людей которые хотят попробовать использовать Korepi.
-Если тебе скинули ссылку на эту страницу, пожалуйста изучи все материалы этой страницы, вероятно они ответят на твой вопрос.
-
 
 <AutoCatalog />

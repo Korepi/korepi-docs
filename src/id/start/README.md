@@ -1,12 +1,10 @@
 ---
 title: Katalog
 icon: book
-category:
-  - Panduan
+category: Panduan
 tag:
-  - Buku Pemula
+  - "Buku Pemula"
   - Fans
-
 author: rekiihype, Chloe
 ---
 

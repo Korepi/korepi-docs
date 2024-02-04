@@ -1,30 +1,6 @@
-import {hopeTheme} from "vuepress-theme-hope";
-import {
-    enNavbar,
-    zhNavbar,
-    ruNavbar,
-    idNavbar,
-    esNavbar,
-    mxNavbar,
-    viNavbar,
-    ptNavbar,
-    trNavbar,
-    arNavbar,
-    jpNavbar
-} from "./navbar/index.js";
-import {
-    enSidebar,
-    zhSidebar,
-    ruSidebar,
-    idSidebar,
-    esSidebar,
-    mxSidebar,
-    viSidebar,
-    ptSidebar,
-    trSidebar,
-    arSidebar,
-    jpSidebar
-} from "./sidebar/index.js";
+import { hopeTheme } from "vuepress-theme-hope";
+import { enNavbar, zhNavbar, ruNavbar, idNavbar, esNavbar, mxNavbar, viNavbar, ptNavbar, arNavbar, jpNavbar } from "./navbar/index.js";
+import { enSidebar, zhSidebar, ruSidebar, idSidebar, esSidebar, mxSidebar, viSidebar, ptSidebar, arSidebar, jpSidebar } from "./sidebar/index.js";
 
 
 export default hopeTheme({
@@ -62,7 +38,7 @@ export default hopeTheme({
                 "Обеспечивает лучший игровой опыт для игроков на ПК в Genshin Impact",
             displayFooter: true,
             metaLocales: {
-                editLink: "Изменить эту страницу на GitHub",
+                editLink: "Редактировать страницу на GitHub",
             },
         },
 
@@ -76,26 +52,15 @@ export default hopeTheme({
                 editLink: "Edit halaman ini di GitHub",
             },
         },
-        /**
-         * Chinese locale config
-         */
         "/zh/": {
             navbar: zhNavbar,
             sidebar: zhSidebar,
             footer: "为原神 PC 端玩家带来最好的游戏体验",
             displayFooter: true,
             navbarLocales: {
-                /**
-                 * 语言下拉列表的无障碍标签
-                 */
                 selectLangAriaLabel: "简体中文",
-
-                /**
-                 * 当前语言的名称
-                 */
                 langName: "简体中文",
             },
-            // page meta
             metaLocales: {
                 editLink: "在 GitHub 上编辑此页",
             },
@@ -127,7 +92,6 @@ export default hopeTheme({
             navbar: viNavbar,
             sidebar: viSidebar,
             navbarLocales: {
-                // Change ui-ux visual lang
                 selectLangAriaLabel: "Tiếng Việt",
                 langName: "Tiếng Việt",
             },
@@ -148,20 +112,9 @@ export default hopeTheme({
                 editLink: "Edite esta pagina em GitHub",
             },
         },
-        "/tr/": {
-            navbar: trNavbar,
-            sidebar: trSidebar,
-            footer:
-                "Genshin Impact'te PC oyuncuları için en iyi oyun deneyimini sunar.",
-            displayFooter: true,
-            metaLocales: {
-                editLink: "Bu sayfayı GitHub'ta düzenle",
-            },
-        },
         "/ar/": {
             navbar: arNavbar,
             sidebar: arSidebar,
-            // right to left support
             rtl: true,
             footer:
                 ".يوفر أفضل تجربة لعب للاعبي جينشن امباكت عل الحاسوب",
@@ -248,14 +201,6 @@ export default hopeTheme({
                         showOnce: false,
                     },
                     {
-                        path: "/tr/",
-                        title: "Contribute Your Skills",
-                        content:
-                            "If you have experience in <b>web front-end development</b> and <b>document management</b>, and would like to apply it to this documentation project, you are welcome to <a href='https://github.com/Korepi/korepi-docs'>join us in writing the documentation</a>",
-                        fullscreen: false,
-                        showOnce: false,
-                    },
-                    {
                         path: "/pt/",
                         title: "Contribute Your Skills",
                         content:
@@ -290,7 +235,7 @@ export default hopeTheme({
                 ],
             },
         },
-        feed: {rss: true},
+        feed: { rss: true },
         sitemap: {
             changefreq: "always",
         },
