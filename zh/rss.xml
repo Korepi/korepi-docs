@@ -6,8 +6,8 @@
     <link>https://korepi.com/zh/</link>
     <description>Korepi 中文文档介绍</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 03 Feb 2024 13:34:42 GMT</pubDate>
-    <lastBuildDate>Sat, 03 Feb 2024 13:34:42 GMT</lastBuildDate>
+    <pubDate>Sun, 04 Feb 2024 13:16:35 GMT</pubDate>
+    <lastBuildDate>Sun, 04 Feb 2024 13:16:35 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>指南</category>
@@ -17,61 +17,6 @@
     <category>功能</category>
     <category>Guide</category>
     <category>Troubleshoot</category>
-    <item>
-      <title>F版本和V版本的区别</title>
-      <link>https://korepi.com/zh/start/differences.html</link>
-      <guid>https://korepi.com/zh/start/differences.html</guid>
-      <source url="https://korepi.com/zh/rss.xml">F版本和V版本的区别</source>
-      <description>F版本和V版本的密钥区别 版本F 版本V 版本 --------------------- 功能一样一样 更新公告X✓ 多开 (../guide/Multi-korepi.md)X✓ 设置简单较难 问题解决简单较难 验证方式密钥验证密钥文件验证 我应该使用哪个版本? 在中国大陆，建议使用V版本。其他地方随意使用任意版本。</description>
-      <category>指南</category>
-      <pubDate>Sat, 13 Jan 2024 00:53:24 GMT</pubDate>
-      <content:encoded><![CDATA[<h1> F版本和V版本的区别。</h1>
-<h2> F版本和V版本的密钥区别</h2>
-<table>
-<thead>
-<tr>
-<th>版本</th>
-<th>F 版本</th>
-<th>V 版本</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>功能</td>
-<td>一样</td>
-<td>一样</td>
-</tr>
-<tr>
-<td>更新公告</td>
-<td><span style="color:red;">X</span></td>
-<td><span style="color:green;">✓</span></td>
-</tr>
-<tr>
-<td><a href="/zh/guide/Multi-korepi.html" target="blank">多开</a></td>
-<td><span style="color:red;">X</span></td>
-<td><span style="color:green;">✓</span></td>
-</tr>
-<tr>
-<td>设置</td>
-<td>简单</td>
-<td>较难</td>
-</tr>
-<tr>
-<td>问题解决</td>
-<td>简单</td>
-<td>较难</td>
-</tr>
-<tr>
-<td>验证方式</td>
-<td>密钥验证</td>
-<td>密钥文件验证</td>
-</tr>
-</tbody>
-</table>
-<h2> 我应该使用哪个版本?</h2>
-<p>在中国大陆，建议使用V版本。其他地方随意使用任意版本。</p>
-]]></content:encoded>
-    </item>
     <item>
       <title>Korepi中文公告</title>
       <link>https://korepi.com/zh/start/news.html</link>
@@ -187,70 +132,6 @@ VPN并非专为翻墙而生，而机场是专门的翻墙节点服务商。</p>
 <p>点击弹出的 <code>是</code>，然后点击 <code>添加排除项</code>并选择文件夹，然后选择 Korepi 文件夹。</p>
 ]]></content:encoded>
       <enclosure url="https://korepi.com/assets/images/docs/202312/security.png" type="image/png"/>
-    </item>
-    <item>
-      <title>如何切换korepi版本和更换设备</title>
-      <link>https://korepi.com/zh/guide/change-hwid.html</link>
-      <guid>https://korepi.com/zh/guide/change-hwid.html</guid>
-      <source url="https://korepi.com/zh/rss.xml">如何切换korepi版本和更换设备</source>
-      <description>---赞助者每个月4点额度，可以用于切换korepi的版本和更换设备hwid。使用重置键，如果失败，再使用一次重置即可。 注意：请不要乱使用重置，以免浪费本月的重置机会。 使用🔄 Change Version 花费2个额度，其余1个额度。 使用并点击bot指令： 🔄 Change Version 可切换版本。 注意：请先在★⋅korepi-vers...</description>
-      <category>指南</category>
-      <pubDate>Fri, 22 Dec 2023 12:52:42 GMT</pubDate>
-      <content:encoded><![CDATA[<hr>
-<div class="hint-container tip">
-<p class="hint-container-title"><span style="color:#f1c40f;">赞助者</span>每个月4点额度，可以用于切换korepi的版本和更换设备hwid。使用重置键，如果失败，再使用一次重置即可。</p>
-<blockquote>
-<p>注意：请不要乱使用重置，以免浪费本月的重置机会。</p>
-</blockquote>
-<p>使用🔄 Change Version 花费2个额度，其余1个额度。</p>
-</div>
-<hr>
-<h1> V版本切换F版本</h1>
-<p>使用并点击bot指令： 🔄 Change Version 可切换版本。</p>
-<blockquote>
-<p>注意：请先在★⋅korepi-version-roles⋅★，把F版本的身份领取。</p>
-</blockquote>
-<h2> </h2>
-<h1> F版本切换V版本</h1>
-<p>1、先点击使用bot指令F：reset key</p>
-<p>2、然后点击🔄 Change Version 切换版本</p>
-<blockquote>
-<p>注意：请先在★⋅korepi-version-roles⋅★，把V版本的身份领取。</p>
-</blockquote>
-<p></p>
-<div class="hint-container tip">
-<p class="hint-container-title"><span style="color:#87c4ff;">Fans</span>使用F版本有一次更换设备hwid码的机会</p>
-</div>
-<hr>
-<h2> 第一步：进入 Korepi 登录页面</h2>
-<p>请前往 <a href="https://p.btxo.cn/" target="_blank" rel="noopener noreferrer">Korepi 登录页面</a></p>
-<div class="hint-container danger">
-<p class="hint-container-title">不要点CREATE AN ACCOUNT</p>
-</div>
-<hr>
-<h2> 第二步：获取密钥</h2>
-<h2> 从您的 <code>license.json</code> 获取密钥，或前往 <code>★⋅micah-bot-verify⋅★</code> 并点击 <code>F: Getkey</code> 获取您当前的密钥。</h2>
-<h2> 第三步：登录 Korepi</h2>
-<p>获取密钥后，前往 <a href="https://p.btxo.cn/" target="_blank" rel="noopener noreferrer">Korepi 登录页面</a>，在两个字段中粘贴密钥，点击登录，然后点击<code>Reset HWID</code>。</p>
-<ul>
-<li>
-<p>你要做的事是 将密钥作为网站上的用户名和密码 登录 (micah-xxxxxxxxx-xxxxxx, 二个都是)</p>
-</li>
-<li>
-<p>点击 ResetHWID</p>
-</li>
-<li>
-<p>关闭 网站</p>
-</li>
-</ul>
-<hr>
-<h2> 第四步：运行 Colorpicker 再度粘贴您的密钥即可</h2>
-<p>重置 HWID 后，前往注射器并再次粘贴密钥。</p>
-<h1> 注意</h1>
-<div class="hint-container danger">
-<p class="hint-container-title">请不要乱使用bot的按键指令，以免浪费切换机会。</p>
-</div>
-]]></content:encoded>
     </item>
     <item>
       <title>问题解答</title>
@@ -1689,77 +1570,42 @@ C1: ?  C2: ?  C3: ?  C4: ?  C5: ?  C6: ?</li>
       <enclosure url="https://korepi.com/assets/images/docs/202312/virus.png" type="image/png"/>
     </item>
     <item>
-      <title>如何获取并使用密钥</title>
+      <title>验证教程</title>
       <link>https://korepi.com/zh/guide/key-use.html</link>
       <guid>https://korepi.com/zh/guide/key-use.html</guid>
-      <source url="https://korepi.com/zh/rss.xml">如何获取并使用密钥</source>
-      <description>选择你所需要的版本密钥身份，如下图：; ## 点击F-Auth或者V-Auth korepi的F版本和V版本不区分所使用的服务器，F与V只是验证方式。 F是网络验证方式，中国大陆部分地区可能连接不上。; V是本地验证方式，建议中国大陆用户使用此版本。; 获取身份后会显示下图：; ! (images/key-3.png); 找到Micah-bot所发的这...</description>
+      <source url="https://korepi.com/zh/rss.xml">验证教程</source>
+      <description>找到Micah-bot所发的这则消息; img.png 根据提示的流程来; 如果你是2024年2月4日之前的Sponsor,点击赞助商补偿,然后输入YES,将会获得3个月的时间补偿; 如果你不是,请点击绑定卡密,填写从各个渠道获取的密钥; 然后点击使用卡密获取验证文件,需要你填写你的hwid(设备id); 之后将获取的enc.json文件放在与你的kp...</description>
       <category>指南</category>
       <pubDate>Sun, 10 Dec 2023 15:04:22 GMT</pubDate>
       <content:encoded><![CDATA[<hr>
-<h1> 1.在频道中找到links下的 ★korepi-verison-roles★ 频道，点击并进入。</h1>
-<ul>
-<li>选择你所需要的版本密钥身份，如下图：</li>
-</ul>
-<p></p>
-<h2> 点击F-Auth或者V-Auth</h2>
-<p></p>
-<div class="hint-container tip">
-<p class="hint-container-title">提示</p>
-<h1> korepi的F版本和V版本不区分所使用的服务器，F与V只是验证方式。</h1>
-<ul>
-<li>F是网络验证方式，中国大陆部分地区可能连接不上。</li>
-<li>V是本地验证方式，建议中国大陆用户使用此版本。</li>
-</ul>
-</div>
-<ul>
-<li>获取身份后会显示下图：</li>
-<li></li>
-</ul>
-<h1> 2.在频道中找到verification下的 ★Micah-bot-verify★，点击进入。</h1>
+<h1> 验证使用教程</h1>
 <ul>
 <li>找到Micah-bot所发的这则消息
-</li>
-<li>注：V：verify 是v版本获取密钥。</li>
-<li>V：change hwid是sponsor权限更改hwid码可用于更换设备和重置密钥。</li>
-<li>change verification 是sponsor权限更改验证版本。</li>
-<li>F：Get key 是F版本获取密钥。</li>
-<li>F：Reset key 是重置取消F版本所使用的密钥。</li>
+<img src="/assets/images/docs/202402/verify-1.png" alt="img.png" loading="lazy"></li>
+<li>根据提示的流程来</li>
+<li>如果你是2024年2月4日之前的Sponsor,点击<code>赞助商补偿</code>,然后输入<code>YES</code>,将会获得3个月的时间补偿</li>
+<li>如果你不是,请点击<code>绑定卡密</code>,填写从各个渠道获取的密钥</li>
+<li>然后点击<code>使用卡密获取验证文件</code>,需要你填写你的<code>hwid(设备id)</code></li>
+<li>之后将获取的enc.json文件放在与你的kp程序同目录下,即可正常运行</li>
+<li>你还可以点击<code>查看订阅信息</code>来查看你的订阅信息</li>
 </ul>
-<div class="hint-container danger">
-<p class="hint-container-title">警告</p>
-<h1> 请不要乱点验证，以免无法正常使用。</h1>
-</div>
-<h1> 3.根据自己所需要的验证版本选择验证密钥</h1>
-<h2> v版本使用流程：</h2>
+<h1> 暂停卡密</h1>
 <ul>
-<li>[1]打开v版本的korepi的注入器，会自动复制你的hwid在你的剪切板，如下图：
-</li>
-<li>[2]点击v：verify会弹出。
-</li>
-<li>[3]将你的hwid复制输入，bot会给你一个enc.json文件将它下载并和korepi放在一起。</li>
-<li>备注：如果bot，没发enc.json给你，再用一次v：verify。</li>
+<li>你可以暂停卡密已暂停时间防止卡密过期</li>
+<li>结束暂停后,你的卡密将会继续计时,并且追加你暂停的这段时间</li>
+<li>暂停后要三十天后才能暂停,暂停时间不限制</li>
 </ul>
-<p><a href="https://youtu.be/0ccpiexXzss" target="_blank" rel="noopener noreferrer">v版本视频链接</a></p>
-  <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/0ccpiexXzss?si=ciWVRhfs6kZ-mNFR" title="korepi 中文V版本使用密钥教程" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
-<h2> F版本使用流程：</h2>
+<h1> 更改设备id</h1>
 <ul>
-<li>[1]点击F：Get key，bot会在频道中发消息，如下：
-</li>
-<li>[2]复制key：后面的micah-xxxx-xxx密钥。
-</li>
-<li>[3]打开korepi，粘贴密钥进去即可。验证成功会生成license.json文件</li>
-<li></li>
-<li><a href="https://youtu.be/lekW7aMKmr0" target="_blank" rel="noopener noreferrer">F版本视频链接</a></li>
+<li>更改设备id后需等待7天才能更改</li>
 </ul>
- <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/lekW7aMKmr0?si=aVtpdaHuwgMpxxdQ" title="korepi 中文F版本使用密钥教程" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
-<div class="hint-container danger">
-<p class="hint-container-title">警告</p>
-<h3> 如果打开korepi闪退请检查自己的网络是否流畅，VPN是否有开启。</h3>
-<h3> 不能同时存在二个版本的密钥</h3>
-<h3> 生成了F就不能生成V 反之亦然</h3>
-</div>
+<h1> md5校验问题</h1>
+<ul>
+<li>每次重新获得<code>enc.json</code>文件后,之前的<code>enc.json</code>文件都会失效</li>
+<li>如果你最新获得的还是失效,请重新获得文件,如果还不行,等待一段时间后再试</li>
+</ul>
 ]]></content:encoded>
+      <enclosure url="https://korepi.com/assets/images/docs/202402/verify-1.png" type="image/png"/>
     </item>
     <item>
       <title>Korepi与3DM同时运行教程</title>
@@ -2145,13 +1991,12 @@ C1: ?  C2: ?  C3: ?  C4: ?  C5: ?  C6: ?</li>
       <link>https://korepi.com/zh/guide/</link>
       <guid>https://korepi.com/zh/guide/</guid>
       <source url="https://korepi.com/zh/rss.xml">指南</source>
-      <description>如何获取并使用密钥 (key-use.md); 如何多开Korepi (Multi-korepi.md); 如何切换korepi版本和更换设备 (change-hwid.md); 配置文件的切换 (config-change.md); 自定义传送的使用指南 (custom-tp-setting.md); esp调配设置 (esp-settin...</description>
+      <description>验证教程 (key-use.md); 如何多开Korepi (Multi-korepi.md); 配置文件的切换 (config-change.md); 自定义传送的使用指南 (custom-tp-setting.md); esp调配设置 (esp-setting.md); Korepi与3DM同时运行教程 (3DM-tutorial.md)...</description>
       <category>指南</category>
       <pubDate>Mon, 20 Nov 2023 11:28:37 GMT</pubDate>
       <content:encoded><![CDATA[<ul>
-<li><a href="/zh/guide/key-use.html" target="blank">如何获取并使用密钥</a></li>
+<li><a href="/zh/guide/key-use.html" target="blank">验证教程</a></li>
 <li><a href="/zh/guide/Multi-korepi.html" target="blank">如何多开Korepi</a></li>
-<li><a href="/zh/guide/change-hwid.html" target="blank">如何切换korepi版本和更换设备</a></li>
 <li><a href="/zh/guide/config-change.html" target="blank">配置文件的切换</a></li>
 <li><a href="/zh/guide/custom-tp-setting.html" target="blank">自定义传送的使用指南</a></li>
 <li><a href="/zh/guide/esp-setting.html" target="blank">esp调配设置</a></li>

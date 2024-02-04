@@ -6,8 +6,8 @@
     <link>https://korepi.com/en/</link>
     <description>Help on Korepi</description>
     <language>en-US</language>
-    <pubDate>Sat, 03 Feb 2024 13:34:42 GMT</pubDate>
-    <lastBuildDate>Sat, 03 Feb 2024 13:34:42 GMT</lastBuildDate>
+    <pubDate>Sun, 04 Feb 2024 13:16:35 GMT</pubDate>
+    <lastBuildDate>Sun, 04 Feb 2024 13:16:35 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Guide</category>
@@ -1398,36 +1398,41 @@ If after restarting it did not help or no errors were found, write this command:
       <enclosure url="https://korepi.com/assets/images/docs/202312/virus.png" type="image/png"/>
     </item>
     <item>
-      <title>How to get key</title>
+      <title>Verification Tutorial</title>
       <link>https://korepi.com/en/guide/getkey.html</link>
       <guid>https://korepi.com/en/guide/getkey.html</guid>
-      <source url="https://korepi.com/en/rss.xml">How to get key</source>
-      <description>How to get key for Network(F) Step 1: Get F Auth role Head to ★⋅korepi-version-roles⋅★ on the server and click on F Auth to get the role. Note: Check if you got the role, if you...</description>
+      <source url="https://korepi.com/en/rss.xml">Verification Tutorial</source>
+      <description>Find this message sent by Micah-bot; img.png Follow the flow of the prompt; If you are a Sponsor prior to February 4, 2024, click on Sponsor Compensation and enter YES and you w...</description>
       <category>Guide</category>
       <pubDate>Mon, 11 Dec 2023 23:46:39 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> How to get key for Network(F)</h2>
-<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/-9bXOMH0-WM" title="Korepi - How to get V key" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
-<h3> Step 1: Get F Auth role</h3>
-<p>Head to <code>★⋅korepi-version-roles⋅★</code> on the server and click on <code>F Auth</code> to get the role.</p>
-<p><code>Note: Check if you got the role, if you didn't click on F Auth again</code></p>
-<h3> Step 2: Get your key</h3>
-<p>Head to <code>⁠★⋅micah-bot-verify⋅★</code> and click on <code>F:Getkey</code>, the bot will reply with some information including the key, copy it.</p>
-<h3> Step 3: Use your key</h3>
-<p>Open Korepi, when it asks for your key, paste it and press enter, complete the steps mentioned by the injector and you should be good to go.</p>
-<p>Enjoy Koprepi!</p>
-<h2> How to get key for Local(V)</h2>
-<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/OTCSboZdexc" title="Korepi - How to get V key" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
-<h3> Step 1: Get V Auth role</h3>
-<p>Head to <code>★⋅korepi-version-roles⋅★</code> on the server and click on <code>V Auth</code> to get the role.</p>
-<p><code>Note: Check if you got the role, if you didn't click on V Auth again</code></p>
-<h3> Step 2: Get your <code>HWID</code></h3>
-<p>To get your <code>HWID</code> you will need to open <code>Local(V) Injector</code> once, and it will copy it to your clipboard</p>
-<h3> Step 3: Get your <code>enc.json</code></h3>
-<p>Head to <code>⁠★⋅micah-bot-verify⋅★</code> and click on <code>V:Verify</code>, a pop up will ask you for your <code>HWID</code> paste and click <code>Submit</code>, and download the file sent by the bot</p>
-<h3> Step 4: Place your file with Korepi</h3>
-<p>After getting the file, place it on your Korepi folder, keep in mind that the file should be name <code>enc.json</code> in order to work, open Korepi and then:</p>
-<p>Enjoy Korepi!</p>
+      <content:encoded><![CDATA[<h1> Authentication Tutorial</h1>
+<ul>
+<li>Find this message sent by Micah-bot
+<img src="/assets/images/docs/202402/verify-1.png" alt="img.png" loading="lazy"></li>
+<li>Follow the flow of the prompt</li>
+<li>If you are a Sponsor prior to February 4, 2024, click on <code>Sponsor Compensation</code> and enter <code>YES</code> and you will be compensated for 3 months of your time.</li>
+<li>If you're not, click on 'Bind Card Key' and fill in the key you've obtained from various sources.</li>
+<li>Then click on <code>Use card key to get verification file</code>, you need to fill in your <code>hwid(device id)</code>.</li>
+<li>Then put the enc.json file in the same directory as your kp program and it will work fine.</li>
+<li>You can also check your subscription information by clicking <code>View Subscription Information</code>.</li>
+</ul>
+<h1> You can also view your subscription information by clicking <code>View Subscription Information</code>.</h1>
+<ul>
+<li>You can pause the encryption for a period of time to prevent it from expiring.</li>
+<li>After you end the pause, your key will continue to run and the time you paused it will be added to your time.</li>
+<li>You can only pause it after 30 days. There is no limit to the amount of time you can pause it.</li>
+</ul>
+<h1> Changing the device id</h1>
+<ul>
+<li>You have to wait 7 days to change the device id.</li>
+</ul>
+<h1> md5 checksum problem</h1>
+<ul>
+<li>Every time you get the <code>enc.json</code> file again, the previous <code>enc.json</code> file will be invalid.</li>
+<li>If your latest file is still invalid, please get the file again, if not, wait for some time and try again.</li>
+</ul>
 ]]></content:encoded>
+      <enclosure url="https://korepi.com/assets/images/docs/202402/verify-1.png" type="image/png"/>
     </item>
     <item>
       <title>Install Skins</title>
