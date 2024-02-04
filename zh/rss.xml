@@ -6,8 +6,8 @@
     <link>https://korepi.com/zh/</link>
     <description>Korepi 中文文档介绍</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 04 Feb 2024 14:02:39 GMT</pubDate>
-    <lastBuildDate>Sun, 04 Feb 2024 14:02:39 GMT</lastBuildDate>
+    <pubDate>Sun, 04 Feb 2024 14:06:42 GMT</pubDate>
+    <lastBuildDate>Sun, 04 Feb 2024 14:06:42 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>指南</category>
@@ -1574,7 +1574,7 @@ C1: ?  C2: ?  C3: ?  C4: ?  C5: ?  C6: ?</li>
       <link>https://korepi.com/zh/guide/key-use.html</link>
       <guid>https://korepi.com/zh/guide/key-use.html</guid>
       <source url="https://korepi.com/zh/rss.xml">验证教程</source>
-      <description>验证使用教程 找到★⋅micah-bot-verify⋅★频道 直链 (https://discord.com/channels/1069057220802781265/1203687333107335198); 找到Micah-bot所发的这则消息; img.png 根据提示的流程来; 如果你是2024年2月4日之前的Sponsor,点击赞助商补偿,...</description>
+      <description>验证使用教程 找到★⋅micah-bot-verify⋅★频道 直链 (https://discord.com/channels/1069057220802781265/1203687333107335198); 找到Micah-bot所发的这则消息; img.png 根据提示的流程来; 如果你是2024年2月4日之前的Sponsor,点击赞助者补偿,...</description>
       <category>指南</category>
       <pubDate>Sun, 10 Dec 2023 15:04:22 GMT</pubDate>
       <content:encoded><![CDATA[<hr>
@@ -1584,7 +1584,7 @@ C1: ?  C2: ?  C3: ?  C4: ?  C5: ?  C6: ?</li>
 <li>找到Micah-bot所发的这则消息
 <img src="/assets/images/docs/202402/verify-1.png" alt="img.png" loading="lazy"></li>
 <li>根据提示的流程来</li>
-<li>如果你是2024年2月4日之前的Sponsor,点击<code>赞助商补偿</code>,然后输入<code>YES</code>,将会获得3个月的时间补偿</li>
+<li>如果你是2024年2月4日之前的Sponsor,点击<code>赞助者补偿</code>,然后输入<code>YES</code>,将会获得3个月的时间补偿</li>
 <li>如果你不是,请点击<code>绑定卡密</code>,填写从各个渠道获取的密钥</li>
 <li>然后点击<code>使用卡密获取验证文件</code>,需要你填写你的<code>hwid(设备id)</code></li>
 <li>之后将获取的enc.json文件放在与你的kp程序同目录下,即可正常运行</li>
