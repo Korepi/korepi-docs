@@ -6,8 +6,8 @@
     <link>https://korepi.com/ru/</link>
     <description>Помощь по Korepi</description>
     <language>ru-RU</language>
-    <pubDate>Sun, 04 Feb 2024 13:31:14 GMT</pubDate>
-    <lastBuildDate>Sun, 04 Feb 2024 13:31:14 GMT</lastBuildDate>
+    <pubDate>Sun, 04 Feb 2024 14:02:39 GMT</pubDate>
+    <lastBuildDate>Sun, 04 Feb 2024 14:02:39 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Руководство</category>
@@ -103,7 +103,7 @@
       <link>https://korepi.com/ru/troubleshoot/faq.html</link>
       <guid>https://korepi.com/ru/troubleshoot/faq.html</guid>
       <source url="https://korepi.com/ru/rss.xml">FAQ</source>
-      <description>Список Часто Задаваемых Вопросов Бесплатен ли Korepi? Да, Korepi бесплатен. Однако, чтобы получить его в первый раз, вам потребуется 7 дней для входа в систему (../start/sign-in...</description>
+      <description>Частые вопросы.</description>
       <category>FAQ</category>
       <pubDate>Mon, 18 Dec 2023 17:38:21 GMT</pubDate>
       <content:encoded><![CDATA[<h2> Список Часто Задаваемых Вопросов</h2>
@@ -355,7 +355,7 @@ pass korepi</p>
       <link>https://korepi.com/ru/troubleshoot/31-4302.html</link>
       <guid>https://korepi.com/ru/troubleshoot/31-4302.html</guid>
       <source url="https://korepi.com/ru/rss.xml">Ошибка 31-4302</source>
-      <description>Решение проблемы с ошибкой 31-4302 Метод 1 Если в вашей папке с игрой есть неоригинальные файлы, возможно, появится такое предупреждение. Убедитесь, что в папке находятся только...</description>
+      <description>Исправление ошибки 31-4302.</description>
       <category>Руководство</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
       <content:encoded><![CDATA[<h2> Решение проблемы с ошибкой <code>31-4302</code></h2>
@@ -383,6 +383,7 @@ pass korepi</p>
       <link>https://korepi.com/ru/troubleshoot/</link>
       <guid>https://korepi.com/ru/troubleshoot/</guid>
       <source url="https://korepi.com/ru/rss.xml">Список Ошибок</source>
+      <description>Устранение Ошибок/Вопросы</description>
       <category>Устранение Неполадок</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
     </item>
@@ -391,7 +392,7 @@ pass korepi</p>
       <link>https://korepi.com/ru/troubleshoot/faq-error.html</link>
       <guid>https://korepi.com/ru/troubleshoot/faq-error.html</guid>
       <source url="https://korepi.com/ru/rss.xml">Список Частых Ошибок Инжектора</source>
-      <description>Список Частых Ошибок Почему мой Korepi исчезает? Убедитесь, что ваш антивирус отключен, создайте новую папку и добавьте ее в исключения. Распакуйте Korepi внутри исключенной пап...</description>
+      <description>Частые ошибки.</description>
       <category>Устранение Неполадок</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
       <content:encoded><![CDATA[<h2> Список Частых Ошибок</h2>
