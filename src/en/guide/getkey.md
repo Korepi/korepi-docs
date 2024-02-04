@@ -1,55 +1,33 @@
 ---
-title: How to get key
+title: Verification Tutorial
 icon: key
 category:
   - Guide
 tag:
   - Start
   - License
-author: Schvis
+author: Schvis,Micah
 order: 1
 ---
+# Authentication Tutorial
 
-## How to get key for Network(F)
+- Find this message sent by Micah-bot
+  ![img.png](/assets/images/docs/202402/verify-1.png)
+- Follow the flow of the prompt
+- If you are a Sponsor prior to February 4, 2024, click on `Sponsor Compensation` and enter `YES` and you will be compensated for 3 months of your time.
+- If you're not, click on 'Bind Card Key' and fill in the key you've obtained from various sources.
+- Then click on `Use card key to get verification file`, you need to fill in your `hwid(device id)`.
+- Then put the enc.json file in the same directory as your kp program and it will work fine.
+- You can also check your subscription information by clicking `View Subscription Information`.
 
-<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/-9bXOMH0-WM" title="Korepi - How to get V key" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
+# You can also view your subscription information by clicking `View Subscription Information`.
+- You can pause the encryption for a period of time to prevent it from expiring.
+- After you end the pause, your key will continue to run and the time you paused it will be added to your time.
+- You can only pause it after 30 days. There is no limit to the amount of time you can pause it.
 
-### Step 1: Get F Auth role
+# Changing the device id
+- You have to wait 7 days to change the device id.
 
-Head to `★⋅korepi-version-roles⋅★` on the server and click on `F Auth` to get the role.
-
-`Note: Check if you got the role, if you didn't click on F Auth again`
-
-### Step 2: Get your key
-
-Head to `⁠★⋅micah-bot-verify⋅★` and click on `F:Getkey`, the bot will reply with some information including the key, copy it.
-
-### Step 3: Use your key
-
-Open Korepi, when it asks for your key, paste it and press enter, complete the steps mentioned by the injector and you should be good to go.
-
-Enjoy Koprepi!
-
-## How to get key for Local(V)
-
-<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/OTCSboZdexc" title="Korepi - How to get V key" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
-
-### Step 1: Get V Auth role
-
-Head to `★⋅korepi-version-roles⋅★` on the server and click on `V Auth` to get the role.
-
-`Note: Check if you got the role, if you didn't click on V Auth again`
-
-### Step 2: Get your `HWID`
-
-To get your `HWID` you will need to open `Local(V) Injector` once, and it will copy it to your clipboard
-
-### Step 3: Get your `enc.json`
-
-Head to `⁠★⋅micah-bot-verify⋅★` and click on `V:Verify`, a pop up will ask you for your `HWID` paste and click `Submit`, and download the file sent by the bot
-
-### Step 4: Place your file with Korepi
-
-After getting the file, place it on your Korepi folder, keep in mind that the file should be name `enc.json` in order to work, open Korepi and then:
-
-Enjoy Korepi!
+# md5 checksum problem
+- Every time you get the `enc.json` file again, the previous `enc.json` file will be invalid.
+- If your latest file is still invalid, please get the file again, if not, wait for some time and try again.
