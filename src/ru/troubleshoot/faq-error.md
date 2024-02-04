@@ -9,6 +9,7 @@ author:
   name: "QweRez"
   url: "https://github.com/qwerezon/"
 order: 2
+description: "Частые ошибки."
 ---
 
 ## Список Частых Ошибок
