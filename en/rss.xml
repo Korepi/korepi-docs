@@ -6,8 +6,8 @@
     <link>https://korepi.com/en/</link>
     <description>Help on Korepi</description>
     <language>en-US</language>
-    <pubDate>Sun, 04 Feb 2024 13:16:35 GMT</pubDate>
-    <lastBuildDate>Sun, 04 Feb 2024 13:16:35 GMT</lastBuildDate>
+    <pubDate>Sun, 04 Feb 2024 13:31:14 GMT</pubDate>
+    <lastBuildDate>Sun, 04 Feb 2024 13:31:14 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Guide</category>
@@ -1402,34 +1402,35 @@ If after restarting it did not help or no errors were found, write this command:
       <link>https://korepi.com/en/guide/getkey.html</link>
       <guid>https://korepi.com/en/guide/getkey.html</guid>
       <source url="https://korepi.com/en/rss.xml">Verification Tutorial</source>
-      <description>Find this message sent by Micah-bot; img.png Follow the flow of the prompt; If you are a Sponsor prior to February 4, 2024, click on Sponsor Compensation and enter YES and you w...</description>
+      <description>Tutorial on using verification Find the ★⋅micah-bot-verify⋅★ channel direct link (https://discord.com/channels/1069057220802781265/1203687333107335198); Find this message posted...</description>
       <category>Guide</category>
       <pubDate>Mon, 11 Dec 2023 23:46:39 GMT</pubDate>
-      <content:encoded><![CDATA[<h1> Authentication Tutorial</h1>
+      <content:encoded><![CDATA[<h2> Tutorial on using verification</h2>
 <ul>
-<li>Find this message sent by Micah-bot
+<li>Find the <code>★⋅micah-bot-verify⋅★</code> channel <a href="https://discord.com/channels/1069057220802781265/1203687333107335198" target="_blank" rel="noopener noreferrer">direct link</a></li>
+<li>Find this message posted by Micah-bot
 <img src="/assets/images/docs/202402/verify-1.png" alt="img.png" loading="lazy"></li>
 <li>Follow the flow of the prompt</li>
-<li>If you are a Sponsor prior to February 4, 2024, click on <code>Sponsor Compensation</code> and enter <code>YES</code> and you will be compensated for 3 months of your time.</li>
+<li>If you are a Sponsor prior to February 4, 2024, click on <code>Sponsor Compensation</code> and enter <code>YES</code> and you will be compensated for 3 months of your time!</li>
 <li>If you're not, click on 'Bind Card Key' and fill in the key you've obtained from various sources.</li>
-<li>Then click on <code>Use card key to get verification file</code>, you need to fill in your <code>hwid(device id)</code>.</li>
+<li>Then click on 'Get authentication file with card key' and you will be asked to fill in your 'hwid(device id)`.</li>
 <li>Then put the enc.json file in the same directory as your kp program and it will work fine.</li>
 <li>You can also check your subscription information by clicking <code>View Subscription Information</code>.</li>
 </ul>
-<h1> You can also view your subscription information by clicking <code>View Subscription Information</code>.</h1>
+<h2> You can also view your subscription information by clicking <code>View Subscription Information</code>.</h2>
 <ul>
-<li>You can pause the encryption for a period of time to prevent it from expiring.</li>
-<li>After you end the pause, your key will continue to run and the time you paused it will be added to your time.</li>
+<li>You can suspend a key for a period of time to prevent it from expiring.</li>
+<li>After you end the pause, your key will continue to run and will add the time you paused it for.</li>
 <li>You can only pause it after 30 days. There is no limit to the amount of time you can pause it.</li>
 </ul>
-<h1> Changing the device id</h1>
+<h2> Changing the device id</h2>
 <ul>
 <li>You have to wait 7 days to change the device id.</li>
 </ul>
-<h1> md5 checksum problem</h1>
+<h2> md5 checksum problem</h2>
 <ul>
-<li>Every time you get the <code>enc.json</code> file again, the previous <code>enc.json</code> file will be invalid.</li>
-<li>If your latest file is still invalid, please get the file again, if not, wait for some time and try again.</li>
+<li>Every time you get the <code>enc.json</code> file again, the previous <code>enc.json</code> file will be invalidated.</li>
+<li>If your latest file is still invalid, please get a new one, and if it doesn't work, wait for a while and try again.</li>
 </ul>
 ]]></content:encoded>
       <enclosure url="https://korepi.com/assets/images/docs/202402/verify-1.png" type="image/png"/>
