@@ -22,7 +22,7 @@ actions:
     link: ./guide/
 
 highlights:
-  - header: Trải nghiệm siêu phàm!
+  - header: Trải Nghiệm Siêu Phàm!
     image: /assets/images/web/box.svg
     bgImage: https://theme-hope-assets.vuejs.press/bg/3-light.svg
     bgImageDark: https://theme-hope-assets.vuejs.press/bg/3-dark.svg
@@ -41,92 +41,92 @@ highlights:
       background-repeat: repeat
       background-size: initial
     features:
-      - title: Dịch chuyển nhanh
+      - title: Dịch Chuyển Nhanh
         icon: location-arrow
         details: Dịch chuyển tức thời trên bản đồ/điểm đánh dấu/nhiệm vụ
-      - title: God Mode
+      - title: Bất Tử (God mode)
         icon: shield
         details: Làm cho nhân vật trở nên bất khả chiến bại
-      - title: Bộ sửa đổi tấn công (Đa đòn đánh/Mục tiêu/Hoạt ảnh)
+      - title: Bộ Sửa Đổi Tấn Công (Đa Đòn Đánh/Mục Tiêu/Hoạt Ảnh)
         icon: sword
         details: Cho phép sửa đổi các đặc điểm tấn công, bao gồm đa cú đánh, mục tiêu và hoạt ảnh
-      - title: Không thời gian hồi chiêu (Kĩ năng/Chiêu cuối/Lướt/Cung)
+      - title: Loại Bỏ Thời Gian Hồi Chiêu (Kĩ Năng/Nộ/Lướt/Cung)
         icon: clock
         details: Loại bỏ thời gian hồi chiêu cho các hành động khác nhau như kỹ năng, chiêu cuối, lướt và cung
-      - title: Không giới hạn thể lực
+      - title: Thể Lực Vô Hạn
         icon: battery-full
         details: Cho phép nhân vật sử dụng thể lực mà không bị giới hạn
-      - title: Noclip
+      - title: Xuyên Tường (Noclip)
         icon: vector-square
         details: Cho phép nhân vật đi xuyên vật thể và bay trên không
-      - title: Điều chỉnh tốc độ trò chơi
+      - title: Điều chỉnh Tốc Độ Trò Chơi
         icon: tachometer-alt
         details: Cho phép tăng tốc hoặc làm chậm dòng thời gian trong trò chơi
-      - title: Địch không tấn công
+      - title: Địch Không Tấn Công
         icon: skull
         details: Vô hiệu hoá AI của kẻ địch
-      - title: Đóng băng kẻ địch
+      - title: Đóng Băng Kẻ Địch
         icon: snowflake
         details: Đóng băng kẻ thù tại chỗ
-      - title: Tự động phá huỷ quặng/
+      - title: Tự Động Phá Huỷ Quặng/
         icon: hammer
         details: Tự động phá huỷ các vật thể khác nhau trong môi trường
-      - title: Tự động nhặt/mở rương
+      - title: Tự động Nhặt/Mở Rương
         icon: box
         details: Tự động thu thập chiến lợi phẩm và mở rương
-      - title: Tuỳ chỉnh phạm vi Tự Động Nhặt
+      - title: Tuỳ Chỉnh Phạm Vi Tự Động Nhặt
         icon: compass
         details: Tăng phạm vi nhặt được vật phẩm
-      - title: Tự động nói chuyện
+      - title: Tự Động Nói Chuyện
         icon: comment
         details: Bắt đầu trò chuyện tự động với NPCs
-      - title: Tự động chặt cây
+      - title: Tự Động Đốn Gỗ
         icon: tree
         details: Cho phép nhân vật tự động chặt cây
-      - title: Tự động nấu ăn
+      - title: Tự Động Nấu Ăn
         icon: utensils
         details: Tự động nấu thức ăn mà không cần sự điều khiển của người chơi
-      - title: Thu gom quái vật
+      - title: Thu Gom quái Vật
         icon: tornado
         details: Thu hút nhiều quái vật gần đó
 
-  - header: Sửa lỗi mới nhất
+  - header: Sửa Lỗi Mới Nhất
     image: /assets/images/web/features.svg
     bgImage: https://theme-hope-assets.vuejs.press/bg/1-light.svg
     bgImageDark: https://theme-hope-assets.vuejs.press/bg/1-dark.svg
     features:
-      - title: Tự động chọn cuộc hội thoại bây giờ nhanh hơn một chút
+      - title: Tự Động Chọn Cuộc Hội Thoại Bây Giờ Nhanh Hơn Một Chút
         icon: comment
         details: Cải thiện tốc độ tự động chọn cuộc hội thoại
-      - title: Thu phóng bản đồ
+      - title: Thu Phóng Bản Đồ
         icon: search-plus
         details: Đã thêm chức năng thu phóng bản đồ
-      - title: Trọng kích nhanh (hiện có thể thiết lập)
+      - title: Trọng Kích Nhanh (Hiện Có Thể Thiết Lập)
         icon: bolt
         details: Đòn trọng kích của bạn được thực hiện ngay lập tức, bây giờ với các tùy chọn có thể thiết lập
-      - title: Bỏ qua đoạn hội thoại
+      - title: Bỏ Qua Đoạn Hội Thoại
         icon: arrow-right
         details: Bỏ qua cuộc trò chuyện ngay lập tức
-      - title: Triệu hồi NPC
+      - title: Triệu Hồi NPC
         icon: user
         details: Đã khắc phục sự cố khi triệu hồi NPC
-      - title: Tương tác với Tượng Thần
+      - title: Tương Tác Với Tượng Thần
         icon: hands
         details: Đã sửa lỗi với Tượng Thần
 
-  - header: Lợi thế của chúng tôi
+  - header: Lợi Thế Của Chúng Tôi
     description: Khám phá một số lợi thế của chúng tôi
     image: /assets/images/web/blog.svg
     bgImage: https://theme-hope-assets.vuejs.press/bg/5-light.svg
     bgImageDark: https://theme-hope-assets.vuejs.press/bg/5-dark.svg
     highlights:
-      - title: Hỗ trợ 24/7
+      - title: Hỗ Trợ 24/7
         icon: wind
         details: Chúng tôi sẵn sàng hỗ trợ bạn bất cứ lúc nào, kể cả ngày hay đêm, hỗ trợ 24/7.
-      - title: Đơn giản và dễ sử dụng
+      - title: Đơn Giản Và Dễ Sử Dụng
         icon: user-friends
         details: Sản phẩm của chúng tôi được thiết kế đơn giản, dễ sử dụng, đảm bảo mang lại trải nghiệm thân thiện và thoải mái cho người dùng.
-      - title: An toàn
+      - title: An Toàn
         icon: shield-alt
         details: Chúng tôi rất coi trọng vấn đề bảo mật, đảm bảo quyền truy cập an toàn và bảo vệ dữ liệu của bạn.
 

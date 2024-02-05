@@ -210,9 +210,9 @@ export default hopeTheme({
                     },
                     {
                         path: "/vi/",
-                        title: "Contribute Your Skills",
+                        title: "Đóng Góp Kỹ Năng Của Bạn",
                         content:
-                            "If you have experience in <b>web front-end development</b> and <b>document management</b>, and would like to apply it to this documentation project, you are welcome to <a href='https://github.com/Korepi/korepi-docs'>join us in writing the documentation</a>",
+                            "Nếu như bạn có kinh nghiệm về <b>phát triển web front-end</b> cùng với <b>quản lý tài liệu</b>, và mong muốn tham gia dự án tài liệu này, bạn luôn được chào đón <a href='https://github.com/Korepi/korepi-docs'>tham gia viết tài liệu</a>",
                         fullscreen: false,
                         showOnce: false,
                     },
