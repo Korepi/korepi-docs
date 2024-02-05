@@ -1,40 +1,40 @@
 ---
-title: How to add to exclusion list
+title: Hướng Dẫn Thêm Vào Danh Sách Loại Trừ
 icon: info-circle
 category:
-  - Guide
+  - Hướng Dẫn
 tag:
-  - Start
+  - Bắt Đầu
 author: Schvis
 order: 7
 ---
 
-::: info Other antivirus will have similar steps, adapt depending on the antivirus you are using.
+::: info Cách làm tương tự đối với các phần mềm diệt virus khác. Bạn hãy tự ứng biến nhé.
 :::
 ---
-## How to add Korepi to antivirus exclusion list (Windows Defender)
+## Hướng Dẫn Thêm Korepi Vào Danh Sách Loại Trừ (Windows Defender)
 
-### Step 1: Open the antivirus
+### Bước 1: Mở Trình Diệt Virus
 
-Open the windows search bar and search for `Windows Security` and open it.
+Mở cửa sổ tìm kiếm của Windows, gõ `Windows Security` và mở nó lên.
 
 ![](/assets/images/docs/202312/security.png)
 
-We click on `Virus & threat protection`.
+Sau đó chọn mục `Virus & threat protection`.
 
 ![](/assets/images/docs/202312/virus1.png)
 
-Then we scroll till we find `Virus & threat protection settings` and click on `Manage settings`.
+Tiếp theo hãy cuộn xuống và tìm mục `Virus & threat protection settings` rồi sau đó chọn `Manage settings`.
 
 ![](/assets/images/docs/202312/virus3.png)
 
-### Step 2: Adding to the exclusion list
+### Bước 2: Thêm Vào Danh Sách Loại Trừ
 
-After following the last step, we will scroll until we find `Exclusions` and then we click on `Add or remove exclusions`.
+Sau khi hoàn thành các bước ở trên, hãy cuộn xuống tìm mục `Exclusion` và nhấn vào mục `Add or remove exclusions`.
 
 ![](/assets/images/docs/202312/virus4.png)
 
-Click yes to the popup, after that we click on `Add an Exclusion` and select folder, then we select our Korepi folder.
+Chọn `Yes` ở cửa sổ popup, sau đó nhấn vào `Add an Exclusion` và chọn `Folder`, sau đó hãy trỏ tới và lựa chọn thư mục chứa Korepi.
 
 ## Video
 

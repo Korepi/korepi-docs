@@ -1,65 +1,66 @@
 ---
-title: How to reset HWID
+title: Hướng Dẫn Reset HWID
 icon: lock
 category:
-  - Guide
+  - Hướng Dẫn
 tag:
-  - Start
-  - License
+  - Bắt Đầu
+  - Giấy Phép
 author: Schvis
 order: 2
 ---
 
-## Reset HWID: Network(F)
+## Reset HWID: Phiên Bản (F)
 
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/DRSEmYsl4F4" title="how to change hwid for F" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
 
-### Step 1: Enter Korepi login page
+### Bước 1: Mở Trang Đăng Nhập Korepi
 
-Please head to [Korepi Login Page](https://keyauth.cc/panel/Strigger/Korepi)
-Warning: Don't do anything yet.
+Hãy mở [Trang đăng nhập Korepi](https://keyauth.cc/panel/Strigger/Korepi)
+Cảnh báo: Sau khi mở trang đăng nhập, khoan hãy làm gì cả.
 
-### Step 2: Get your key
+### Bước 2: Lấy key
 
-Get your key from your `license.json` or head to `★⋅micah-bot-verify⋅★` and click on `F: Getkey` to get your current key.
+Lấy key của bạn từ file `license.json` hoặc đi tới `★⋅micah-bot-verify⋅★` và nhấn `F: Getkey` để lấy key.
 
-### Step 3: Login in Korepi
+### Bước 3: Đăng Nhập Vào Korepi
 
-After getting your key, head to [Korepi Login Page](https://keyauth.cc/panel/Strigger/Korepi), and paste your key on both fields, click on login, after that, click on `Reset HWID`.
+Sau khi lấy được key, hãy đi tới [Trang đăng nhập Korepi](https://keyauth.cc/panel/Strigger/Korepi) và dán key vào cả 2 ô, nhấn login, rồi sau đó nhấn `Reset HWID`.
 
-### Step 4: Open Injector
+### Bước 4: Mở Korepi
 
-After your HWID reset, head to your injector and paste your key once again.
+Sau khi reset được HWID, hãy mở Korepi lên rồi dán key của bạn vào.
 
-Enjoy Korepi again!
-## Reset HWID: Network(F) (Sponsor)
+Và tận hưởng Korepi!
+
+## Reset HWID: Phiên Bản Network(F) (Nhà Tài Trợ)
 
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/WCuRAyqWMHg" title="Reset HWID F version (Sponsor)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
 
-### Step 1: Head to `★⋅micah-bot-verify⋅★` channel
+### Bước 1: Đi Tới Kênh `★⋅micah-bot-verify⋅★`
 
-Head to `★⋅micah-bot-verify⋅★` channel and click on `F:Reset Key`, after that click on `F:Getkey` to recieve your new key.
+Đi tới kênh `★⋅micah-bot-verify⋅★` và chọn `F:Reset Key`, sau đó chọn `F:Getkey` để nhận key.
 
-### Step 2: Replace your old key
+### Bước 2: Thay Thế Key Cũ
 
-Go to your korepi folder and delete `license.json`, after that open Korepi and paste in the new key you got.
+Mở thư mục chứa Korepi và xoá file `license.json`, sau đó mở Korepi lên rồi dán key mới vào.
 
-Enjoy Korepi!
+Và tận hưởng Korepi!
 
-## Reset HWID: Local(V) (Sponsor)
+## Reset HWID: Phiên Bản Local(V) (Nhà Tài Trợ)
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/q0G9UZHErrg?list=PL5eI1Tb64p56Mp6JqoR_o3BYk9UFTbOQI" title="How to reset Local V HWID" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
 
-### Step 1: Get your current HWID
+### Bước 1: Lấy HWID Hiện Tại
 
-To get your current HWID, you will need to open your `Local(V) injector`, and it will automatically copy your HWID into your clipboard.
+Để lấy HWID hiện tại của bạn, hãy mở `Korepi phiên bản V` lên. HWID sẽ được tự động copy vào clipboard.
 
-### Step 2: Find `★⋅micah-bot-verify⋅★` channel
+### Bước 2: Đi Tới Kênh `★⋅micah-bot-verify⋅★`
 
-After finding `★⋅micah-bot-verify⋅★`, click on `V:Change HWID`, a window will pop up asking for your current HWID, paste it and click `Submit`.
+Đi tới kênh `★⋅micah-bot-verify⋅★`, chọn `V:Change HWID`. Một cửa sổ sẽ hiện lên yêu cầu bạn nhập HWID. Hãy dán HWID vào và nhấn `Submit`.
 
-### Step 3: Get your new `enc.json`
+### Bước 3: Lấy File `enc.json` Mới
 
-After your HWID reset, click on `V:Verify` and paste your current HWID into the window and click `Submit`. Now download the new `enc.json` and replace the file in your Korepi folder.
+Sau khi bạn reset HWID thành công, nhấn `V:Verify` rồi dán HWID vào cửa sổ bật lên và chọn `Submit`. Sau đó hay tải file `enc.json` mới được cung cấp và dán đè vào thư mục chứa Korepi (thay thế file cũ có sẵn nếu có).
 
-Note: Remember that the file name has to be `enc.json`.
+Lưu ý: Tên file bắt buộc phải là `enc.json`.
 
