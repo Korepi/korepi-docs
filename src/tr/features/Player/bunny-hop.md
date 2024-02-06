@@ -2,17 +2,17 @@
 title: Bunny Hop
 icon: carrot
 category:
-  - Features
+  - Özellikler
 tag:
   - Bunny Hop
-author: Schvis
+author: Schvis, OpHellfire, HiroAndZero
 order: 3
 ---
 
-::: info Sponsor Only
+::: info Sponsor'a özel
 :::
 ---
-## Bunny Hop will jump automatically after first jump when enabled.
+## Bunny Hop bir kere zıpladıktan sonra otomatikmen zıplamaya başlatır.
 
 ## Example Video:
 
