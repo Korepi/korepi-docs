@@ -1,30 +1,30 @@
 ---
-title: Verification
+title: Doğrulama
 icon: lock
 category:
   - Guide
 tag:
   - Start
-author: QweRez
+author: QweRez, HiroAndZero02
 order: 2
 ---
 
-## Introduction
+## Giriş
 
-Welcome to our community! To pass the bot verification and obtain the "Newcomer" role, follow these steps.
+Topluluğumuza hoş geldiniz! Bot doğrulamasını geçmek ve "Newcomer" rolünü almak için aşağıdaki adımları izleyin.
 
-### Step 1: Join our server if you haven't already
+### Adım 1: Henüz yapmadıysanız sunucumuza katılın
 
-If you are not on the server yet, please read the previous post, where it is described how to join the server.
+Henüz sunucuda değilseniz, lütfen sunucuya nasıl katılacağınızın anlatıldığı bir önceki yazıyı okuyun.
 
-### Step 2: So, you are on the server
+### Adım 2: Demek sunucudasınız
 
-Now that you are on the server, choose the necessary channels and roles from the list, then go to the ★⋅rules⋅★ channel.
+Artık sunucuda olduğunuza göre, listeden gerekli kanalları ve rolleri seçin, ardından ★⋅rules⋅★ kanalına gidin.
 
-### Step 3: ★⋅rules⋅★ channel
+### Adım 3: ★⋅rules⋅★ kanalı
 
-In the rules channel, familiarize yourself with the rules and undergo verification to confirm that you are not a bot. Find the "Verify" button, click on it, and the bot will send you a link that you need to follow and confirm that you are not a bot.
+Kurallar kanalındaki, kurallara aşina olun ve bir bot olmadığınızı doğrulamak için doğrulama işleminden geçin. "Verify" düğmesini bulun, üzerine tıklayın ve bot size takip etmeniz ve bot olmadığınızı onaylamanız gereken bir bağlantı gönderecektir.
 
-### Step 4: After receiving the "Newcomer" role
+### Adım 4: "Newcomer" rolünü aldıktan sonra
 
-After successful verification, the bot will assign you the "Newcomer" role. With this role, you will not be kicked by the bot without valid reasons. Now proceed to the next step.
+Başarılı bir doğrulamadan sonra bot size "Newcomer" rolünü atayacaktır. Bu rolle, geçerli nedenler olmadan bot tarafından atılmayacaksınız. Şimdi bir sonraki adıma geçin.
