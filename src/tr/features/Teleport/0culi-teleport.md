@@ -11,7 +11,7 @@ order: 1
 
 ## 0culi Işınlanma seçilen tuşa basıldığında en yakın Öze ışınlar
 
-> Note: Riski azaltmak için ışınlanmalar arası `>15s` bekleyiniz.
+> Not: Riski azaltmak için ışınlanmalar arası `>15s` bekleyiniz.
 
 ## Örnek Video:
 
