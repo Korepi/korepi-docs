@@ -10,19 +10,19 @@ export const trNavbar = navbar([
     prefix: "/tr/",
     children: [
       {
-        text: "Getting Started",
+        text: "Başlarken",
         icon: "lightbulb",
         prefix: "start/",
         children: ["join"],
       },
       {
-        text: "Guides",
+        text: "Kılavuzlar",
         icon: "lightbulb",
         prefix: "guide/",
         children: ["getkey"],
       },
       {
-        text: "Available Features",
+        text: "Mevcut Özellikler",
         icon: "sitemap",
         prefix: "features/",
         children: [""],
