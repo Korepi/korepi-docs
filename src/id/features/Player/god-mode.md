@@ -11,7 +11,7 @@ order: 7
 
 ## God Mode akan menonaktifkan semua serangan yang masuk.
 ### Undead:
-- Ketika diaktifkan, `God Mode` hanya akan aktif jika kerusakan mematikan.
+- Ketika diaktifkan, `God Mode` hanya akan aktif jika menerima kerusakan mematikan.
 ### Conditional:
 - Ketika diaktifkan, `God Mode` hanya akan aktif jika HP karakter turun di bawah nilai yang telah ditentukan.
 > Catatan: Disarankan untuk menggunakan mode `Conditional` untuk abyss.
