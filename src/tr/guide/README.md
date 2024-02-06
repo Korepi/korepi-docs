@@ -1,5 +1,5 @@
 ---
-title: \"Nasıl yapılır?\" Kısmı
+title: "Nasıl yapılır?" Kısmı
 icon: book
 category: Guide
 tag: Start
