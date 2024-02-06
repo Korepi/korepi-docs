@@ -19,7 +19,7 @@ export const viNavbar = navbar([
         text: "Hướng Dẫn",
         icon: "lightbulb",
         prefix: "guide/",
-        children: ["page"],
+        children: ["getkey"],
       },
       {
         text: "Các Tính Năng",
