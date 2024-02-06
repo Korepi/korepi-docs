@@ -1,149 +1,149 @@
 ---
-title: Common Injector Errors
+title: Yaygın İnjektör Hataları
 icon: info
 category:
   - Troubleshoot
 tag:
   - Start
-author: Schvis
+author: Schvis, HiroAndZero02
 order: 2
 ---
 
-## List of common errors
+## Yaygın hataların listesi
 
-### Why my korepi disappears?
+### Korepi'm neden kayboluyor?
 
-Make sure you got your anti-virus disabled, create a new folder and add it to exclusions.
+Anti-virüsünüzü devre dışı bıraktığınızdan emin olun, yeni bir klasör oluşturun ve hariç tutulanlara ekleyin.
 
 ![](/assets/images/docs/202312/virus.png)
 
-Extract korepi inside the excluded folder and run again.
+Korepi'yi hariç tutulan klasörün içine çıkarın ve tekrar çalıştırın.
 
 ---
-### Status: No active subscription(s) found, Invalid license key
+### Durum: No active subscription(s) found, Geçersiz lisans anahtarı
 
-You need to [get a new key](../guide/getkey.md) from `⁠★⋅micah-bot-verify⋅★`, if you can't get a key or if the key doesn't work, you have to wait till key expiration.
+[get a new key](../guide/getkey.md) Butonuna Tıklayarak Yeni Anahtar Alabilirsiniz `⁠★⋅micah-bot-verify⋅★`, Eğer Bir anahtar alamazsanız veya anahtar çalışmazsa, anahtarın süresi dolana kadar beklemeniz gerekir.
 
-`Sponsors can use F:Reset Key instead`
+`F:Reset Key instead Sponsorlar kullanabilir`
 
-### [DLL injection]  Process crashed, exit code 0xc000005
+### [DLL injection]  Process crashed Hatası, exit code 0xc000005
 
-Open `cmd` as administrator and write the following command:
+`cmd` yi yönetici olarak açın ve aşağıdaki komutu yazın:
 
 `sfc /scannow`
 
-After that, if errors were found, restart the computer and check.
-If after restarting it did not help or no errors were found, write this command:
+Bundan sonra, hatalar bulunursa, bilgisayarı yeniden başlatın ve kontrol edin.
+Yeniden başlattıktan sonra yardımcı olmadıysa veya hiçbir hata bulunmadıysa, bu komutu yazın:
 
 `DISM.exe /Online /Cleanup-Image /RestoreHealth`
 
-After completing the checks, restart the computer and check.
+Kontrolleri tamamladıktan sonra bilgisayarı yeniden başlatın ve kontrol edin.
 
-If it doesn't work, reinstall Windows.
-
----
-### ImGUI: DirectX11 backend initialized successfully.
-
-Error occurs because of themes installed, clear the `themes` folder.
+Çalışmazsa, Windows'u yeniden yükleyin.
 
 ---
-### The system did not detect MSVCP140.dll
+### ImGUI: DirectX11 backend başarıyla başlatıldı.
 
-Update [Microsoft Visual Studio C++](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170#visual-studio-2015-2017-2019-and-2022)
-
-Update [DirectX](https://www.microsoft.com/en-us/download/details.aspx?id=35)
+Yüklü temalar nedeniyle hata oluşuyor, `themes` klasörünü temizleyin.
 
 ---
-### File corrupted! This program has been manipulated and maybe it's infected.
+### Sistem şunları tespit etmedi MSVCP140.dll
+
+Güncelleyin [Microsoft Visual Studio C++](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170#visual-studio-2015-2017-2019-and-2022)
+
+Güncelleyin [DirectX](https://www.microsoft.com/en-us/download/details.aspx?id=35)
+
+---
+### Dosya bozulmuş! Bu program manipüle edilmiş ve belki de virüs bulaşmıştır.
 
 ![](/assets/images/docs/202312/virus2.png)
 
-In this case, you can try using `Malware Bytes` or `Dr.Web` to do a full scan, if any virus is found, remove them, restart and try again. If it doesn't work, reinstall Windows is the easiest way to solve this issue.
+Bu durumda, tam bir tarama yapmak için `Malware Bytes` veya `Dr.Web` kullanmayı deneyebilirsiniz, herhangi bir virüs bulunursa, bunları kaldırın, yeniden başlatın ve tekrar deneyin. Eğer işe yaramazsa, Windows'u yeniden yüklemek bu sorunu çözmenin en kolay yoludur.
 
 ---
-### Timeout was reached
+### Zaman aşımına uğradı
 
 ![](/assets/images/docs/202312/error1.png)
 
-Reboot your router.
+Modeminizi yeniden başlatın.
 
-An antivirus may be blocking the connection, make sure that is not in the Task Manager.
+Bir antivirüs bağlantısı engelliyor olabilir, bunun Görev Yöneticisi'nde olmadığından emin olun.
 
-Use a VPN and try again.
+Bir VPN kullanın ve tekrar deneyin.
 
-Turn off all applications that affect the firewall. If nothing works, then you might have some problems with the network.
-
----
-### DLL Injection failed
-
-Uninstall colorpicker folder and download colorpicker again.
+Güvenlik duvarını etkileyen tüm uygulamaları kapatın. Hiçbir şey işe yaramazsa, ağ ile ilgili bazı sorunlarınız olabilir.
 
 ---
-### Windows cannot access the specified device, path, or file
+### DLL Enjöktörü başarısız oldu
+
+calculator klasörünü kaldırın ve calculator'u tekrar indirin.
+
+---
+### Windows belirtilen aygıta, yola veya dosyaya erişemiyor
 
 ![](/assets/images/docs/202312/error2.png)
 
-At first go to [HERE](https://support.microsoft.com/en-us/topic/-windows-cannot-access-the-specified-device-path-or-file-error-when-you-try-to-install-update-or-start-a-program-or-file-46361133-47ed-6967-c13e-e75d3cc29657) and follow the steps on that post.
+İlk önce şu adrese gidin [BURAYA](https://support.microsoft.com/en-us/topic/-windows-cannot-access-the-specified-device-path-or-file-error-when-you-try-to-install-update-or-start-a-program-or-file-46361133-47ed-6967-c13e-e75d3cc29657) ve o gönderideki adımları takip edin.
 
-Also after going to the solutions on the post, download an antivirus like `Dr.Web` or `Malware bytes` and run a full system check!
+Ayrıca, yazıdaki çözümlere gittikten sonra, `Dr.Web` veya `Malware bytes` gibi bir antivirüs indirin ve tam bir sistem kontrolü yapın!
 
-If it doesn't help open cmd as administrator and write `sfc /scannow`
+Eğer yardımcı olmazsa cmd'yi yönetici olarak açın ve `sfc /scannow` yazın
 
-After that, if errors were found, restart the computer and check.
+Bundan sonra, hatalar bulunursa, bilgisayarı yeniden başlatın ve kontrol edin.
 
-If after restarting it didn't help or no errors were found, write this command:
+Yeniden başlattıktan sonra yardımcı olmadıysa veya herhangi bir hata bulunmadıysa, bu komutu yazın:
 
 `DISM.exe /Online /Cleanup-Image /RestoreHealth`
 
-After completing the checks, restart the computer and check again.
+Kontrolleri tamamladıktan sonra bilgisayarı yeniden başlatın ve tekrar kontrol edin.
 
-If it doesn't work, reinstall Windows.
+Çalışmazsa, Windows'u yeniden yükleyin.
 
 ---
-### Signature checksum failed
+### İmza sağlaması başarısız oldu
 
 ![](/assets/images/docs/202312/checksum.png)
 
-Servers are down or shut down, wait for servers to come back online.
+Sunucular çöktü veya kapatıldı, sunucuların tekrar çevrimiçi olmasını bekleyin.
 
 ---
-### Failed to create game process with Error 5
+### Error 5 ile oyun süreci oluşturulamadı
 
 ![](/assets/images/docs/202312/error3.png)
 
-Delete `cfg.ini`.
+Kaldırın `cfg.ini`.
 
 ---
-### SSL connect error
+### SSL bağlantı hatası
 
 ![](/assets/images/docs/202312/error4.png)
 
-Restart your PC, restart your router.
+Bilgisayarınızı yeniden başlatın, yöneticinizi yeniden başlatın.
 
-Try using a VPN if it doesn't work.
-
----
-### Failed to detect game version
-
-Update your injector, follow the steps [here](../start/download.md)
+Çalışmazsa VPN kullanmayı deneyin.
 
 ---
-### File ok
+### Oyun sürümü algılanamadı
 
-Delete your cfg.json, something might be wrong with the file.
+Enjektörünüzü güncelleyin, aşağıdaki adımları izleyin [BURA](../start/download.md)
+
+---
+### Dosya tamam
+
+cfg.json dosyanızı silin, dosyada bir sorun olabilir.
 
 ---
 ### UserAssembly.dll isn't initialized, waiting for 2 sec.
 
-If your injector crashes after this line try the following steps:
+Bu satırdan sonra enjektörünüz çökerse aşağıdaki adımları deneyin:
 
-Turn off all anti-viruses in PC.
+PC'deki tüm anti-virüsleri kapatın.
 
-If its doesn't help use `sfc /scannow` command in cmd as administrator.
+Eğer yardımcı olmazsa cmd'de yönetici olarak `sfc /scannow` komutunu kullanın.
 
-If errors are found after checking and Windows is unable to resolve them, use the `DISM.exe /Online /Cleanup-Image /RestoreHealth` command. 
+Kontrolden sonra hatalar bulunursa ve Windows bunları çözemezse, `DISM.exe /Online /Cleanup-Image /RestoreHealth` komutunu kullanın.  
 
-After checking restart your computer and try to run colorpicker again.
+Kontrol ettikten sonra bilgisayarınızı yeniden başlatın ve calculator'u tekrar çalıştırmayı deneyin.
 
-If the error repeats you can make factory reset of Windows.
+Hata tekrar ederse Windows'u fabrika ayarlarına sıfırlayabilirsiniz.
 
