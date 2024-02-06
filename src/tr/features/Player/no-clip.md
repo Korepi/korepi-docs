@@ -5,24 +5,24 @@ category:
   - Features
 tag:
   - No Clip
-author: Schvis
+author: Schvis, OpHellfire, HiroAndZero
 order: 9
 ---
 
-## No Clip will allow you to have no collision, move faster and fly.
-### No Animation:
-- When enabled it will disable animations of the character while using no clip.
-### Camera-relative movement:
-- When enabled, character will move based on camera view instead of where the character is facing.
-### Alternate No-Clip:
-- When enabled, no clip speed will change after pressing the selected hotkey at the designed speed.
-### Use Custom Keys:
-- Enables the option to change no-clip directional controls.
+## No Clip çarpışma yaşamamanızı, daha hızlı hareket etmenizi ve uçmanızı sağlar.
+### Animasyon Yok:
+- No Clip Etkinleştirildiğinde, kullanırken karakterin animasyonlarını devre dışı bırakır.
+### Kameraya bağlı hareket:
+- Etkinleştirildiğinde karakter, karakterin baktığı yer yerine kamera görünümüne göre hareket eder.
+### Alternatif No-Clip:
+- Etkinleştirildiğinde, seçilen kısayol tuşuna tasarlanan hızda basıldıktan sonra No Clip hızı değişmez.
+### Özel Anahtarla Kullanma:
+- No Clip kontrollerini değiştirme seçeneğini etkinleştirir.
 ### DragBack Bypass:
-- Prevents the server to drag the character back due to excessive speed.
+- Sunucunun aşırı hız nedeniyle karakteri geri sürüklemesini önler.
 
-> Note: Not recommended to use above `20`.
+> Not: `20`nin üzerinde kullanılması önerilmez.
 
-## Example Video:
+## Örnek Video:
 
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/nPdq-yzBt3k?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - NoClip" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
