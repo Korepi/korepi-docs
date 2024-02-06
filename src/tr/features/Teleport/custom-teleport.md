@@ -14,8 +14,8 @@ order: 3
 - Işınlanma animasyonunun hızını ayarlar. Sorun yaşamamak için değeri `0.1` yapınız.
 ### Otomatik Işınlanma:
 - `.json` dosyalarının sıralamasına göre otomatik ışınlar
-    - Sonrakine Işınlan: Seçili tuşa basınca sonraki ışınlanmaya ışınlar.
-    - Öncekine Işınlan: Seçili tuşa basınca önceki ışınlanmaya ışınlar.
+    - Sonrakine Işınlan: Atanmış tuşa basınca sonraki ışınlanmaya ışınlar.
+    - Öncekine Işınlan: Atanmış tuşa basınca önceki ışınlanmaya ışınlar.
 > Not: Riski azaltmak için ışınlanmalar arası `>15s` bekleyiniz.
 
 # You can find out more on how to use this feature [here](../.././guide/custom-tp-setting.md)
