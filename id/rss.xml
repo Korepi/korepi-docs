@@ -6,8 +6,8 @@
     <link>https://korepi.com/id/</link>
     <description>Pertolongan Korepi</description>
     <language>id-ID</language>
-    <pubDate>Tue, 06 Feb 2024 16:03:42 GMT</pubDate>
-    <lastBuildDate>Tue, 06 Feb 2024 16:03:42 GMT</lastBuildDate>
+    <pubDate>Tue, 06 Feb 2024 16:06:24 GMT</pubDate>
+    <lastBuildDate>Tue, 06 Feb 2024 16:06:24 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Panduan</category>
@@ -585,7 +585,7 @@
 </blockquote>
 <h3> Multi-Target:</h3>
 <ul>
-<li>Memukul semua target dalam radius tertentu yang telah ditentukan dari target yang terkena.</li>
+<li>Menyerang semua target dalam radius tertentu yang telah ditentukan dari target yang utama.</li>
 </ul>
 <blockquote>
 <p>Catatan: Tidak disarankan untuk mengubah pengaturan bawaan.</p>
@@ -610,7 +610,7 @@
 </ul>
 <h3> Infuse Element:</h3>
 <ul>
-<li>Mengubah elemen dari serangan normal dari senjata pedang, tombak, dan pedang besar.</li>
+<li>Mengubah elemen dari serangan normal senjata pedang, tombak, dan pedang besar.</li>
 </ul>
 <h3> Auto Weakspot:</h3>
 <ul>
@@ -645,14 +645,14 @@
       <link>https://korepi.com/id/features/Player/bunny-hop.html</link>
       <guid>https://korepi.com/id/features/Player/bunny-hop.html</guid>
       <source url="https://korepi.com/id/rss.xml">Bunny Hop</source>
-      <description>Hanya Untuk Sponsor! Bunny Hop akan melompat secara otomatis setelah lompatan pertama ketika diaktifkan. Video Contoh:</description>
+      <description>Hanya Untuk Sponsor! Bunny Hop akan melompat secara otomatis setelah lompatan pertama diaktifkan. Video Contoh:</description>
       <category>Fitur</category>
       <pubDate>Sat, 16 Dec 2023 12:12:13 GMT</pubDate>
       <content:encoded><![CDATA[<div class="hint-container info">
 <p class="hint-container-title">Hanya Untuk Sponsor!</p>
 </div>
 <hr>
-<h2> Bunny Hop akan melompat secara otomatis setelah lompatan pertama ketika diaktifkan.</h2>
+<h2> Bunny Hop akan melompat secara otomatis setelah lompatan pertama diaktifkan.</h2>
 <h2> Video Contoh:</h2>
 <div class="iframe-container"><iframe width="640" height="369" src="https://www.youtube.com/embed/Gh2GX23E6dw?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Bunnyhop (Sponsor)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>]]></content:encoded>
     </item>
@@ -775,13 +775,13 @@
       <link>https://korepi.com/id/features/Player/god-mode.html</link>
       <guid>https://korepi.com/id/features/Player/god-mode.html</guid>
       <source url="https://korepi.com/id/rss.xml">God Mode</source>
-      <description>God Mode akan menonaktifkan semua serangan yang masuk. Undead: Ketika diaktifkan, God Mode hanya akan aktif jika kerusakan mematikan.; Conditional: Ketika diaktifkan, God Mode h...</description>
+      <description>God Mode akan menonaktifkan semua serangan yang masuk. Undead: Ketika diaktifkan, God Mode hanya akan aktif jika menerima kerusakan mematikan.; Conditional: Ketika diaktifkan, G...</description>
       <category>Fitur</category>
       <pubDate>Sat, 16 Dec 2023 12:12:13 GMT</pubDate>
       <content:encoded><![CDATA[<h2> God Mode akan menonaktifkan semua serangan yang masuk.</h2>
 <h3> Undead:</h3>
 <ul>
-<li>Ketika diaktifkan, <code>God Mode</code> hanya akan aktif jika kerusakan mematikan.</li>
+<li>Ketika diaktifkan, <code>God Mode</code> hanya akan aktif jika menerima kerusakan mematikan.</li>
 </ul>
 <h3> Conditional:</h3>
 <ul>
