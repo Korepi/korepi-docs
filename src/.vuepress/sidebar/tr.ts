@@ -4,25 +4,25 @@ export const trSidebar = sidebar({
   "/tr/": [
     "",
     {
-      text: "Start",
+      text: "Başlangıç",
       icon: "lightbulb",
       prefix: "start/",
       children: "structure",
     },
     {
-      text: "Guides",
+      text: "Kılavuzlar",
       icon: "book",
       prefix: "guide/",
       children: "structure",
     },
     {
-      text: "Features",
+      text: "Özellikler",
       icon: "sitemap",
       prefix: "features/",
       children: "structure",
     },
     {
-      text: "Troubleshoot",
+      text: "Sorunlar Hakkında",
       icon: "info-circle",
       prefix: "troubleshoot/",
       children: "structure",
