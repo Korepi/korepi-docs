@@ -1,5 +1,5 @@
 ---
-title: Kullanma Talimatları
+title: "Nasıl yapılır?" Kısmı
 icon: book
 category: Guide
 tag: Start
