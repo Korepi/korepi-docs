@@ -6,12 +6,11 @@
     <link>https://korepi.com/vi/</link>
     <description>Trợ giúp về Korepi</description>
     <language>vi-VN</language>
-    <pubDate>Sun, 04 Feb 2024 14:06:42 GMT</pubDate>
-    <lastBuildDate>Sun, 04 Feb 2024 14:06:42 GMT</lastBuildDate>
+    <pubDate>Tue, 06 Feb 2024 08:39:39 GMT</pubDate>
+    <lastBuildDate>Tue, 06 Feb 2024 08:39:39 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Hướng Dẫn</category>
-    <category>Guide</category>
     <category>Các Câu Hỏi Thường Gặp</category>
     <category>Các Tính Năng</category>
     <category>Khắc Phục Lỗi</category>
@@ -61,11 +60,11 @@
       <link>https://korepi.com/vi/start/differences.html</link>
       <guid>https://korepi.com/vi/start/differences.html</guid>
       <source url="https://korepi.com/vi/rss.xml">Sự Khác Biệt Giữa Các Phiên Bản</source>
-      <description>Sự khác biệt chính giữa phiên bản V và F Phiên Bản Phiên Bản FPhiên Bản V --------------------- Tính NăngGiống nhauGiống nhau Thông Báo Cập NhậtX✓ Mở Nhiều Cửa Số Game (../guide...</description>
+      <description>Sự Khác Biệt Chính Giữa Phiên Bản V Và F Phiên Bản Phiên Bản FPhiên Bản V --------------------- Tính NăngGiống nhauGiống nhau Thông Báo Cập NhậtX✓ Mở Nhiều Cửa Số Game (../guide...</description>
       <category>Hướng Dẫn</category>
       <pubDate>Sat, 13 Jan 2024 00:53:24 GMT</pubDate>
       <content:encoded><![CDATA[<h1> Sự Khác Biệt Giữa Phiên Bản V và F.</h1>
-<h2> Sự khác biệt chính giữa phiên bản V và F</h2>
+<h2> Sự Khác Biệt Chính Giữa Phiên Bản V Và F</h2>
 <table>
 <thead>
 <tr>
@@ -107,34 +106,34 @@
 </tr>
 </tbody>
 </table>
-<h2> Tôi nên sử dụng phiên bản nào?</h2>
+<h2> Tôi Nên Sử Dụng Phiên Bản Nào?</h2>
 <p>Đối với <span style="color:yellow;">Nhà Tài Trợ</span> bạn có thể sử dụng bất kỳ phiên bản nào mà bạn thích. Đối với Fans, bạn nên sử dụng phiên bản V vì tại thời điểm hiện tại nó ổn định hơn.</p>
 ]]></content:encoded>
     </item>
     <item>
-      <title>How to add to exclusion list</title>
+      <title>Hướng Dẫn Thêm Vào Danh Sách Loại Trừ</title>
       <link>https://korepi.com/vi/guide/virus.html</link>
       <guid>https://korepi.com/vi/guide/virus.html</guid>
-      <source url="https://korepi.com/vi/rss.xml">How to add to exclusion list</source>
-      <description>Other antivirus will have similar steps, adapt depending on the antivirus you are using. How to add Korepi to antivirus exclusion list (Windows Defender) Step 1: Open the antivi...</description>
-      <category>Guide</category>
+      <source url="https://korepi.com/vi/rss.xml">Hướng Dẫn Thêm Vào Danh Sách Loại Trừ</source>
+      <description>Cách làm tương tự đối với các phần mềm diệt virus khác. Bạn hãy tự ứng biến nhé. Hướng Dẫn Thêm Korepi Vào Danh Sách Loại Trừ (Windows Defender) Bước 1: Mở Trình Diệt Virus Mở c...</description>
+      <category>Hướng Dẫn</category>
       <pubDate>Sat, 23 Dec 2023 17:10:07 GMT</pubDate>
       <content:encoded><![CDATA[<div class="hint-container info">
-<p class="hint-container-title">Other antivirus will have similar steps, adapt depending on the antivirus you are using.</p>
+<p class="hint-container-title">Cách làm tương tự đối với các phần mềm diệt virus khác. Bạn hãy tự ứng biến nhé.</p>
 </div>
 <hr>
-<h2> How to add Korepi to antivirus exclusion list (Windows Defender)</h2>
-<h3> Step 1: Open the antivirus</h3>
-<p>Open the windows search bar and search for <code>Windows Security</code> and open it.</p>
+<h2> Hướng Dẫn Thêm Korepi Vào Danh Sách Loại Trừ (Windows Defender)</h2>
+<h3> Bước 1: Mở Trình Diệt Virus</h3>
+<p>Mở cửa sổ tìm kiếm của Windows, gõ <code>Windows Security</code> và mở nó lên.</p>
 <p><img src="/assets/images/docs/202312/security.png" alt="" loading="lazy"></p>
-<p>We click on <code>Virus &amp; threat protection</code>.</p>
+<p>Sau đó chọn mục <code>Virus &amp; threat protection</code>.</p>
 <p><img src="/assets/images/docs/202312/virus1.png" alt="" loading="lazy"></p>
-<p>Then we scroll till we find <code>Virus &amp; threat protection settings</code> and click on <code>Manage settings</code>.</p>
+<p>Tiếp theo hãy cuộn xuống và tìm mục <code>Virus &amp; threat protection settings</code> rồi sau đó chọn <code>Manage settings</code>.</p>
 <p><img src="/assets/images/docs/202312/virus3.png" alt="" loading="lazy"></p>
-<h3> Step 2: Adding to the exclusion list</h3>
-<p>After following the last step, we will scroll until we find <code>Exclusions</code> and then we click on <code>Add or remove exclusions</code>.</p>
+<h3> Bước 2: Thêm Vào Danh Sách Loại Trừ</h3>
+<p>Sau khi hoàn thành các bước ở trên, hãy cuộn xuống tìm mục <code>Exclusion</code> và nhấn vào mục <code>Add or remove exclusions</code>.</p>
 <p><img src="/assets/images/docs/202312/virus4.png" alt="" loading="lazy"></p>
-<p>Click yes to the popup, after that we click on <code>Add an Exclusion</code> and select folder, then we select our Korepi folder.</p>
+<p>Chọn <code>Yes</code> ở cửa sổ popup, sau đó nhấn vào <code>Add an Exclusion</code> và chọn <code>Folder</code>, sau đó hãy trỏ tới và lựa chọn thư mục chứa Korepi.</p>
 <h2> Video</h2>
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/BonLkFNnO9w" title="How to Exclude a File or Folder from Windows Defender Scan In Windows 10 [Tutorial]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>]]></content:encoded>
       <enclosure url="https://korepi.com/assets/images/docs/202312/security.png" type="image/png"/>
@@ -217,10 +216,10 @@ Most likely you surpassed the reset time, it resets daily, if you skip 1 day it 
 ]]></content:encoded>
     </item>
     <item>
-      <title>Cài Đặt Trang Phục (Skins)</title>
+      <title>Cài Đặt Trang Phục</title>
       <link>https://korepi.com/vi/guide/3DM-skin.html</link>
       <guid>https://korepi.com/vi/guide/3DM-skin.html</guid>
-      <source url="https://korepi.com/vi/rss.xml">Cài Đặt Trang Phục (Skins)</source>
+      <source url="https://korepi.com/vi/rss.xml">Cài Đặt Trang Phục</source>
       <description>Hướng Dẫn Cài Đặt Trang Phục Tuỳ Chỉnh Trong GIMI Bước 1: Tải Trang Phục Đi tới trang Gamebanana (https://gamebanana.com/games/8552) và tải trang phục mà bạn muốn. Bước 2: Cài Đ...</description>
       <category>Hướng Dẫn</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
@@ -234,107 +233,107 @@ Most likely you surpassed the reset time, it resets daily, if you skip 1 day it 
 ]]></content:encoded>
     </item>
     <item>
-      <title>How to use custom skins</title>
+      <title>Hướng Dẫn Sử Dụng Trang Phục Tuỳ Chỉnh</title>
       <link>https://korepi.com/vi/guide/3DM-tutorial.html</link>
       <guid>https://korepi.com/vi/guide/3DM-tutorial.html</guid>
-      <source url="https://korepi.com/vi/rss.xml">How to use custom skins</source>
-      <description>If GIMI shows echo off on the cmd, you can just press Numpad 0 to remove it, you can also edit d3dx.ini and search for hunting= and set to 0. How to use custom Skins in Korepi I...</description>
-      <category>Guide</category>
+      <source url="https://korepi.com/vi/rss.xml">Hướng Dẫn Sử Dụng Trang Phục Tuỳ Chỉnh</source>
+      <description>Nếu GIMI hiển thị echo off trong cmd, bạn có thể nhấn Phím 0 ở bàn phím số để xoá nó đi. Bạn cũng có thể mở file d3dx.ini rồi tìm hunting= và đặt giá trị bằng 0. Hướng Dẫn Sử Dụ...</description>
+      <category>Hướng Dẫn</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
       <content:encoded><![CDATA[<div class="hint-container info">
-<p class="hint-container-title">If GIMI shows `echo off` on the cmd, you can just press `Numpad 0` to remove it, you can also edit `d3dx.ini` and search for `hunting=` and set to `0`.</p>
+<p class="hint-container-title">Nếu GIMI hiển thị `echo off` trong cmd, bạn có thể nhấn `Phím 0` ở bàn phím số để xoá nó đi. Bạn cũng có thể mở file `d3dx.ini` rồi tìm `hunting=` và đặt giá trị bằng `0`.</p>
 </div>
 <hr>
-<h2> How to use custom Skins in Korepi</h2>
+<h2> Hướng Dẫn Sử Dụng Trang Phục Tuỳ Chỉnh Trong Korepi</h2>
 <p><img src="/assets/images/docs/202312/example.png" alt="" loading="lazy">
-In order to use custom skins in we will need to download:</p>
+Để có thể sử dụng trang phục tuỳ chỉnh bạn cần tải:</p>
 <p><code>3DMigoto(GIMI)</code>.</p>
-<h2> <span style="color:blue;">Method 1</span></h2>
-<h3> Step 1: Download <code>GIMI</code></h3>
-<p>Download <code>GIMI</code> in their oficial <a href="https://github.com/SilentNightSound/GI-Model-Importer/releases/tag/v7.0" target="_blank" rel="noopener noreferrer">Github</a> and download the file named: <code>3dmigoto-GIMI-for-playing-mods.zip</code>.</p>
+<h2> <span style="color:blue;">Cách 1</span></h2>
+<h3> Bước 1: Tải <code>GIMI</code></h3>
+<p>Tải <code>GIMI</code> từ <a href="https://github.com/SilentNightSound/GI-Model-Importer/releases/tag/v7.0" target="_blank" rel="noopener noreferrer">Github chính thức</a>. Hãy tải file có tên như sau: <code>3dmigoto-GIMI-for-playing-mods.zip</code>.</p>
 <p><img src="/assets/images/docs/202312/3dm-1.png" alt="" loading="lazy"></p>
-<h3> Step 2: Extract <code>GIMI</code> into a folder</h3>
-<p>After downloading <code>GIMI</code>, we will need to extract it into any folder of your choice, inside that folder you will find <code>d3d11.dll</code>, we will copy the path and add <code>/d3d11.dll</code> to the end, for example:</p>
+<h3> Bước 2: Giải nén <code>GIMI</code></h3>
+<p>Sau khi tải <code>GIMI</code>, bạn cần giải nén nó vào bất kỳ thư mục nào tuỳ thích. Bên trong thư mục đó bạn sẽ thấy file có tên <code>d3d11.dll</code>. Hãy copy đường dẫn tới thư mục và thêm <code>/d3d11.dll</code> vào cuối đường dẫn. Ví dụ:</p>
 <p><code>"path/d3d11.dll"</code></p>
-<h3> Step 3: Add <code>GIMI</code> to Korepi</h3>
-<p>To do this we will need to add the next lines in <code>cfg.ini</code> inside korepi folder.</p>
+<h3> Bước 3: Thêm <code>GIMI</code> Vào Korepi</h3>
+<p>Để làm được điều này bạn cần thêm những dòng sau vào file <code>cfg.ini</code> nằm bên trong thư mục chứa Korepi:</p>
 <p><img src="/assets/images/docs/202312/3dm-2.png" alt="" loading="lazy"></p>
-<p>On <code>DllPath</code> we will paste the path we copied in the last step.</p>
+<p>Tại <code>DllPath</code> hãy dán đường dẫn mà bạn đã copy ở bước trước đó.</p>
 <p><img src="/assets/images/docs/202312/3dm-3.png" alt="" loading="lazy"></p>
-<h3> Step 4: Open Korepi</h3>
-<p>If you followed the steps right, Korepi should launch with <code>GIMI</code> every time.</p>
-<h2> <span style="color:blue;">Method 2</span></h2>
-<h3> Step 1: Download <code>GIMI</code></h3>
-<p>Download <code>GIMI</code> in their oficial <a href="https://github.com/SilentNightSound/GI-Model-Importer/releases/tag/v7.0" target="_blank" rel="noopener noreferrer">Github</a> and download the file named: <code>3dmigoto-GIMI-for-playing-mods.zip</code>.</p>
+<h3> Bước 4: Mở Korepi</h3>
+<p>Nếu như bạn thực hiện đúng mọi bước như hướng dẫn, Korepi sẽ khởi động cùng <code>GIMI</code>.</p>
+<h2> <span style="color:blue;">Cách 2</span></h2>
+<h3> Bước 1: Tải <code>GIMI</code></h3>
+<p>Tải <code>GIMI</code> từ <a href="https://github.com/SilentNightSound/GI-Model-Importer/releases/tag/v7.0" target="_blank" rel="noopener noreferrer">Github chính thức</a>. Hãy tải file có tên như sau: <code>3dmigoto-GIMI-for-playing-mods.zip</code>.</p>
 <p><img src="/assets/images/docs/202312/3dm-1.png" alt="" loading="lazy"></p>
-<h3> Step 2: Extract <code>GIMI</code> into a folder</h3>
-<p>After downloading <code>GIMI</code>, we will need to extract it into any folder of your choice, inside that folder you will find <code>3DMigoto Loader.exe</code>, we will run this file first.</p>
-<h3> Step 4: Open Korepi</h3>
-<p>After running <code>GIMI</code>, we will run Korepi, <code>GIMI</code> will be loaded with Korepi after this, you will need to repeat these steps every time you want to launch Korepi with <code>GIMI</code>.</p>
+<h3> Bước 2: Giải Nén <code>GIMI</code></h3>
+<p>Sau khi tải <code>GIMI</code>, bạn cần giải nén nó vào bất kỳ thư mục nào tuỳ thích. Bên trong thư mục đó bạn sẽ thấy file có tên <code>3DMigoto Loader.exe</code>, hãy mở file này lên.</p>
+<h3> Bước 3: Mở Korepi</h3>
+<p>Sau khi mở <code>GIMI</code>, tiếp tục mở Korepi lên. Lúc này <code>GIMI</code> sẽ được load cùng Korepi. Bạn cần thực hiện tất cả những bước trên mỗi lần bạn muốn khởi động Korepi cùng với <code>GIMI</code>.</p>
 ]]></content:encoded>
       <enclosure url="https://korepi.com/assets/images/docs/202312/example.png" type="image/png"/>
     </item>
     <item>
-      <title>How to use Custom TP</title>
+      <title>Hướng Dẫn Sử Dụng Dịch Chuyển Tuỳ Chọn</title>
       <link>https://korepi.com/vi/guide/custom-tp-setting.html</link>
       <guid>https://korepi.com/vi/guide/custom-tp-setting.html</guid>
-      <source url="https://korepi.com/vi/rss.xml">How to use Custom TP</source>
-      <description>How to use custom TP Step 1: Settings to use We will use the following settings. The recommended delay time is &amp;gt;15s. Step 2: Download the .json files for the custom tp We can fi...</description>
-      <category>Guide</category>
+      <source url="https://korepi.com/vi/rss.xml">Hướng Dẫn Sử Dụng Dịch Chuyển Tuỳ Chọn</source>
+      <description>Hướng Dẫn Sử Dụng Dịch Chuyển Tuỳ Chọn Bước 1: Thiết Lập Cài Đặt Sử dụng các thiết lập cài đặt như sau. Khuyến khích thiết đặt độ trễ (delay time) &amp;gt;15s. Bước 2: Tải File .json Đ...</description>
+      <category>Hướng Dẫn</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> How to use custom TP</h2>
-<h3> Step 1: Settings to use</h3>
-<p>We will use the following settings.</p>
+      <content:encoded><![CDATA[<h2> Hướng Dẫn Sử Dụng Dịch Chuyển Tuỳ Chọn</h2>
+<h3> Bước 1: Thiết Lập Cài Đặt</h3>
+<p>Sử dụng các thiết lập cài đặt như sau.</p>
 <p><img src="/assets/images/docs/202312/teleport1.png" alt="" loading="lazy"></p>
-<p>The recommended delay time is &gt;15s.</p>
-<h3> Step 2: Download the <code>.json</code> files for the custom tp</h3>
-<p>We can find these files in <code>community-share</code> pinned post in the server. Download the ones that suits your needs.</p>
-<h3> Step 3: Select the tp files</h3>
-<p>Head to custom tp settings and go to this section:</p>
+<p>Khuyến khích thiết đặt độ trễ (delay time) &gt;15s.</p>
+<h3> Bước 2: Tải File <code>.json</code> Để Sử Dụng Dịch Chuyển Tuỳ Chọn</h3>
+<p>Bạn có thể kiếm các file json này ở kênh <code>community-share</code> được ghim trong server Discord. Tải những file mà bạn cần.</p>
+<h3> Bước 3: Lựa Chọn File Dịch Chuyển</h3>
+<p>Mở Dịch Chuyển Tuỳ Chọn (Custom Teleport) và đi tới mục sau:</p>
 <p><img src="/assets/images/docs/202312/teleport2.png" alt="" loading="lazy"></p>
-<p>Click on select path and select the folder containing the tp files you want to use.</p>
-<h3> Step 4: How to start the tps</h3>
-<p>After selecting the folder, check this checkbox:</p>
+<p>Click vào lựa chọn đường dẫn (select path) và lựa chọn thư mục chứa các file json mà bạn muốn sử dụng.</p>
+<h3> Bước 4: Tiến Hành Dịch Chuyển</h3>
+<p>Sau khi lựa chọn thư mục, hãy tick vào ô sau:</p>
 <p><img src="/assets/images/docs/202312/teleport3.png" alt="" loading="lazy"></p>
-<p>After that we click on <code>Select</code>:</p>
+<p>Sau đó hãy click vào <code>Lựa Chọn</code> (<code>Select</code>):</p>
 <p><img src="/assets/images/docs/202312/teleport4.png" alt="" loading="lazy"></p>
-<h3> Step 5: Enjoy the ride</h3>
-<p>The TPs will start automatically, if you got <a href="/vi/start/sponsor.html" target="blank">Sponsor</a>, you will be able to see the progress and remaining time.</p>
+<h3> Bước 5: Tận Hưởng</h3>
+<p>Quá trình dịch chuyển sẽ diễn ra một cách tự động. Nếu như bạn là <a href="/vi/start/sponsor.html" target="blank">Nhà Tài Trợ</a>, bạn có thể thấy được tiến độ và thời gian còn lại để hoàn tất quá trình dịch chuyển.</p>
 <h2> Video</h2>
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/1ft6xYr2EmM" title="Part 1 - How to Use 'Custom Teleports' in Colorpicker or Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 ]]></content:encoded>
       <enclosure url="https://korepi.com/assets/images/docs/202312/teleport1.png" type="image/png"/>
     </item>
     <item>
-      <title>How to get key</title>
+      <title>Hướng Dẫn Lấy Key</title>
       <link>https://korepi.com/vi/guide/getkey.html</link>
       <guid>https://korepi.com/vi/guide/getkey.html</guid>
-      <source url="https://korepi.com/vi/rss.xml">How to get key</source>
-      <description>How to get key for Network(F) Step 1: Get F Auth role Head to ★⋅korepi-version-roles⋅★ on the server and click on F Auth to get the role. Note: Check if you got the role, if you...</description>
-      <category>Guide</category>
+      <source url="https://korepi.com/vi/rss.xml">Hướng Dẫn Lấy Key</source>
+      <description>Hướng Dẫn Lấy Key Cho Phiên Bản Network(F) Bước 1: Lấy Vai Trò (Role) F Auth Đi tới kênh ★⋅korepi-version-roles⋅★ trong server Discord và chọn F Auth để nhận role. Lưu ý: Hãy ki...</description>
+      <category>Hướng Dẫn</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> How to get key for Network(F)</h2>
+      <content:encoded><![CDATA[<h2> Hướng Dẫn Lấy Key Cho Phiên Bản Network(F)</h2>
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/-9bXOMH0-WM" title="Korepi - How to get V key" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
-<h3> Step 1: Get F Auth role</h3>
-<p>Head to <code>★⋅korepi-version-roles⋅★</code> on the server and click on <code>F Auth</code> to get the role.</p>
-<p><code>Note: Check if you got the role, if you didn't click on F Auth again</code></p>
-<h3> Step 2: Get your key</h3>
-<p>Head to <code>⁠★⋅micah-bot-verify⋅★</code> and click on <code>F:Getkey</code>, the bot will reply with some information including the key, copy it.</p>
-<h3> Step 3: Use your key</h3>
-<p>Open Korepi, when it asks for your key, paste it and press enter, complete the steps mentioned by the injector and you should be good to go.</p>
-<p>Enjoy Koprepi!</p>
-<h2> How to get key for Local(V)</h2>
+<h3> Bước 1: Lấy Vai Trò (Role) F Auth</h3>
+<p>Đi tới kênh <code>★⋅korepi-version-roles⋅★</code> trong server Discord và chọn <code>F Auth</code> để nhận role.</p>
+<p><code>Lưu ý: Hãy kiểm tra role của bạn sau khi nhấn nút. Nếu vẫn chưa có role, hãy chọn F Auth thêm lần nữa.</code></p>
+<h3> Bước 2: Lấy Key</h3>
+<p>Đi tới <code>⁠★⋅micah-bot-verify⋅★</code> và nhấn <code>F:Getkey</code>, bot sẽ trả về một số thông tin bao gồm key của bạn. Hãy copy đoạn key.</p>
+<h3> Bước 3: Sử Dụng Key</h3>
+<p>Sau khi mở Korepi lên, bạn sẽ được yêu cầu nhập key vào. Hãy dán key bạn đã copy ở bước trước vào và nhấn enter. Sau đó hoàn tất các bước theo yêu cầu bởi Korepi (nếu có) và bạn có thể bắt đầu sử dụng Korepi.</p>
+<p>Hãy tận hưởng Koprepi!</p>
+<h2> Hướng Dẫn Lấy Key Cho Phiên Bản Local(V)</h2>
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/OTCSboZdexc" title="Korepi - How to get V key" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
-<h3> Step 1: Get V Auth role</h3>
-<p>Head to <code>★⋅korepi-version-roles⋅★</code> on the server and click on <code>V Auth</code> to get the role.</p>
-<p><code>Note: Check if you got the role, if you didn't click on V Auth again</code></p>
-<h3> Step 2: Get your <code>HWID</code></h3>
-<p>To get your <code>HWID</code> you will need to open <code>Local(V) Injector</code> once, and it will copy it to your clipboard</p>
-<h3> Step 3: Get your <code>enc.json</code></h3>
-<p>Head to <code>⁠★⋅micah-bot-verify⋅★</code> and click on <code>V:Verify</code>, a pop up will ask you for your <code>HWID</code> paste and click <code>Submit</code>, and download the file sent by the bot</p>
-<h3> Step 4: Place your file with Korepi</h3>
-<p>After getting the file, place it on your Korepi folder, keep in mind that the file should be name <code>enc.json</code> in order to work, open Korepi and then:</p>
-<p>Enjoy Korepi!</p>
+<h3> Bước 1: Lấy Vai Trò (Role) V Auth</h3>
+<p>Đi tới kênh <code>★⋅korepi-version-roles⋅★</code> trong server Discord và chọn <code>V Auth</code> để nhận role.</p>
+<p><code>Lưu ý: Hãy kiểm tra role của bạn sau khi nhấn nút. Nếu vẫn chưa có role, hãy chọn V Auth thêm lần nữa.</code></p>
+<h3> Bước 2: Lấy <code>HWID</code></h3>
+<p>Để lấy <code>HWID</code> bạn cần mở <code>Korepi phiên bản Local(V)</code> lên, HWID sẽ được tự động copy vào clipboard.</p>
+<h3> Bước 3: Lấy <code>enc.json</code></h3>
+<p>Đi tới kênh <code>⁠★⋅micah-bot-verify⋅★</code> và chọn <code>V:Verify</code>. Một cửa sổ popup sẽ hiện lên, hãy dán <code>HWID</code> của bạn vào và nhấn <code>Submit</code>, sau đó tải file license được cung cấp bởi bot.</p>
+<h3> Bước 4: Sử Dụng File License</h3>
+<p>Sau khi tải file license, hãy copy nó vào thư mục chứa Korepi. Lưu ý tên file license bắt buộc phải là <code>enc.json</code>. Sau đó mở Korepi lên và...</p>
+<p>Hãy tận hưởng Korepi!</p>
 ]]></content:encoded>
     </item>
     <item>
@@ -354,41 +353,41 @@ In order to use custom skins in we will need to download:</p>
 ]]></content:encoded>
     </item>
     <item>
-      <title>How to reset HWID</title>
+      <title>Hướng Dẫn Reset HWID</title>
       <link>https://korepi.com/vi/guide/resethwid.html</link>
       <guid>https://korepi.com/vi/guide/resethwid.html</guid>
-      <source url="https://korepi.com/vi/rss.xml">How to reset HWID</source>
-      <description>Reset HWID: Network(F) Step 1: Enter Korepi login page Please head to Korepi Login Page (https://keyauth.cc/panel/Strigger/Korepi) Warning: Don&amp;apos;t do anything yet. Step 2: Get yo...</description>
-      <category>Guide</category>
+      <source url="https://korepi.com/vi/rss.xml">Hướng Dẫn Reset HWID</source>
+      <description>Reset HWID: Phiên Bản (F) Bước 1: Mở Trang Đăng Nhập Korepi Hãy mở Trang đăng nhập Korepi (https://keyauth.cc/panel/Strigger/Korepi) Cảnh báo: Sau khi mở trang đăng nhập, khoan ...</description>
+      <category>Hướng Dẫn</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Reset HWID: Network(F)</h2>
+      <content:encoded><![CDATA[<h2> Reset HWID: Phiên Bản (F)</h2>
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/DRSEmYsl4F4" title="how to change hwid for F" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
-<h3> Step 1: Enter Korepi login page</h3>
-<p>Please head to <a href="https://keyauth.cc/panel/Strigger/Korepi" target="_blank" rel="noopener noreferrer">Korepi Login Page</a>
-Warning: Don't do anything yet.</p>
-<h3> Step 2: Get your key</h3>
-<p>Get your key from your <code>license.json</code> or head to <code>★⋅micah-bot-verify⋅★</code> and click on <code>F: Getkey</code> to get your current key.</p>
-<h3> Step 3: Login in Korepi</h3>
-<p>After getting your key, head to <a href="https://keyauth.cc/panel/Strigger/Korepi" target="_blank" rel="noopener noreferrer">Korepi Login Page</a>, and paste your key on both fields, click on login, after that, click on <code>Reset HWID</code>.</p>
-<h3> Step 4: Open Injector</h3>
-<p>After your HWID reset, head to your injector and paste your key once again.</p>
-<p>Enjoy Korepi again!</p>
-<h2> Reset HWID: Network(F) (Sponsor)</h2>
+<h3> Bước 1: Mở Trang Đăng Nhập Korepi</h3>
+<p>Hãy mở <a href="https://keyauth.cc/panel/Strigger/Korepi" target="_blank" rel="noopener noreferrer">Trang đăng nhập Korepi</a>
+Cảnh báo: Sau khi mở trang đăng nhập, khoan hãy làm gì cả.</p>
+<h3> Bước 2: Lấy key</h3>
+<p>Lấy key của bạn từ file <code>license.json</code> hoặc đi tới <code>★⋅micah-bot-verify⋅★</code> và nhấn <code>F: Getkey</code> để lấy key.</p>
+<h3> Bước 3: Đăng Nhập Vào Korepi</h3>
+<p>Sau khi lấy được key, hãy đi tới <a href="https://keyauth.cc/panel/Strigger/Korepi" target="_blank" rel="noopener noreferrer">Trang đăng nhập Korepi</a> và dán key vào cả 2 ô, nhấn login, rồi sau đó nhấn <code>Reset HWID</code>.</p>
+<h3> Bước 4: Mở Korepi</h3>
+<p>Sau khi reset được HWID, hãy mở Korepi lên rồi dán key của bạn vào.</p>
+<p>Và tận hưởng Korepi!</p>
+<h2> Reset HWID: Phiên Bản Network(F) (Nhà Tài Trợ)</h2>
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/WCuRAyqWMHg" title="Reset HWID F version (Sponsor)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
-<h3> Step 1: Head to <code>★⋅micah-bot-verify⋅★</code> channel</h3>
-<p>Head to <code>★⋅micah-bot-verify⋅★</code> channel and click on <code>F:Reset Key</code>, after that click on <code>F:Getkey</code> to recieve your new key.</p>
-<h3> Step 2: Replace your old key</h3>
-<p>Go to your korepi folder and delete <code>license.json</code>, after that open Korepi and paste in the new key you got.</p>
-<p>Enjoy Korepi!</p>
-<h2> Reset HWID: Local(V) (Sponsor)</h2>
+<h3> Bước 1: Đi Tới Kênh <code>★⋅micah-bot-verify⋅★</code></h3>
+<p>Đi tới kênh <code>★⋅micah-bot-verify⋅★</code> và chọn <code>F:Reset Key</code>, sau đó chọn <code>F:Getkey</code> để nhận key.</p>
+<h3> Bước 2: Thay Thế Key Cũ</h3>
+<p>Mở thư mục chứa Korepi và xoá file <code>license.json</code>, sau đó mở Korepi lên rồi dán key mới vào.</p>
+<p>Và tận hưởng Korepi!</p>
+<h2> Reset HWID: Phiên Bản Local(V) (Nhà Tài Trợ)</h2>
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/q0G9UZHErrg?list=PL5eI1Tb64p56Mp6JqoR_o3BYk9UFTbOQI" title="How to reset Local V HWID" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
-<h3> Step 1: Get your current HWID</h3>
-<p>To get your current HWID, you will need to open your <code>Local(V) injector</code>, and it will automatically copy your HWID into your clipboard.</p>
-<h3> Step 2: Find <code>★⋅micah-bot-verify⋅★</code> channel</h3>
-<p>After finding <code>★⋅micah-bot-verify⋅★</code>, click on <code>V:Change HWID</code>, a window will pop up asking for your current HWID, paste it and click <code>Submit</code>.</p>
-<h3> Step 3: Get your new <code>enc.json</code></h3>
-<p>After your HWID reset, click on <code>V:Verify</code> and paste your current HWID into the window and click <code>Submit</code>. Now download the new <code>enc.json</code> and replace the file in your Korepi folder.</p>
-<p>Note: Remember that the file name has to be <code>enc.json</code>.</p>
+<h3> Bước 1: Lấy HWID Hiện Tại</h3>
+<p>Để lấy HWID hiện tại của bạn, hãy mở <code>Korepi phiên bản V</code> lên. HWID sẽ được tự động copy vào clipboard.</p>
+<h3> Bước 2: Đi Tới Kênh <code>★⋅micah-bot-verify⋅★</code></h3>
+<p>Đi tới kênh <code>★⋅micah-bot-verify⋅★</code>, chọn <code>V:Change HWID</code>. Một cửa sổ sẽ hiện lên yêu cầu bạn nhập HWID. Hãy dán HWID vào và nhấn <code>Submit</code>.</p>
+<h3> Bước 3: Lấy File <code>enc.json</code> Mới</h3>
+<p>Sau khi bạn reset HWID thành công, nhấn <code>V:Verify</code> rồi dán HWID vào cửa sổ bật lên và chọn <code>Submit</code>. Sau đó hay tải file <code>enc.json</code> mới được cung cấp và dán đè vào thư mục chứa Korepi (thay thế file cũ có sẵn nếu có).</p>
+<p>Lưu ý: Tên file bắt buộc phải là <code>enc.json</code>.</p>
 ]]></content:encoded>
     </item>
     <item>
@@ -1615,11 +1614,11 @@ Lưu ý 2: Không khuyến khích sử dụng chức năng này.</p>
 ]]></content:encoded>
     </item>
     <item>
-      <title>Guides</title>
+      <title>Hướng Dẫn</title>
       <link>https://korepi.com/vi/guide/</link>
       <guid>https://korepi.com/vi/guide/</guid>
-      <source url="https://korepi.com/vi/rss.xml">Guides</source>
-      <category>Guide</category>
+      <source url="https://korepi.com/vi/rss.xml">Hướng Dẫn</source>
+      <category>Hướng Dẫn</category>
       <pubDate>Thu, 30 Nov 2023 15:50:40 GMT</pubDate>
     </item>
     <item>
