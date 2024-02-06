@@ -1,5 +1,5 @@
 ---
-title: Uygulamayı Dışlamalara nasıl ekleyebilirsiniz?
+title: Dışlamalara ekleme
 icon: info-circle
 category:
   - Guide
