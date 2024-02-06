@@ -66,6 +66,11 @@ export default defineUserConfig({
             title: "Korepi",
             description: "Korepiに関するヘルプ",
         },
+        "/tr/": {
+            lang: "tr",
+            title: "Korepi",
+            description: "Korepiに関するヘルプ",
+        },
     },
     plugins: [
         docsearchPlugin({
@@ -483,6 +488,47 @@ export default defineUserConfig({
                         },
                     },
                 },
+                "/tr/": {
+                    placeholder: "Search",
+                    translations: {
+                        button: {
+                            buttonText: "Search",
+                            buttonAriaLabel: "Search",
+                        },
+                        modal: {
+                            searchBox: {
+                                resetButtonTitle: "Clear Search Criteria",
+                                resetButtonAriaLabel: "Clear Search Criteria",
+                                cancelButtonText: "Back",
+                                cancelButtonAriaLabel: "Back",
+                            },
+                            startScreen: {
+                                recentSearchesTitle: "Search History",
+                                noRecentSearchesText: "No search history",
+                                saveRecentSearchButtonTitle: "Save to Search History",
+                                removeRecentSearchButtonTitle: "Remove from Search History",
+                                favoriteSearchesTitle: "Favorites",
+                                removeFavoriteSearchButtonTitle: "Remove from Favorites",
+                            },
+                            errorScreen: {
+                                titleText: "Failed to Retrieve Results",
+                                helpText: "Check your internet connection and the requested resource.",
+                            },
+                            footer: {
+                                selectText: "Select",
+                                navigateText: "Toggle",
+                                closeText: "Close",
+                                searchByText: "We use search",
+                            },
+                            noResultsScreen: {
+                                noResultsText: "Couldn't find anything for your query:",
+                                suggestedQueryText: "You can try a different query",
+                                reportMissingResultsText: "Do you think this query should yield some results :> ?",
+                                reportMissingResultsLinkText: "Contact us",
+                            },
+                        },
+                    },
+                },
             },
         }),
         redirectPlugin({
@@ -499,6 +545,7 @@ export default defineUserConfig({
                 "/vi/": ["vi-VN", "vi"],
                 "/pt/": ["pt-PT", "pt-BR", "pt"],
                 "/ko/": ["ko", "ko-KR"],
+                "/tr/": ["tr", "tr-TR"],
                 "/jp/": ["ja-JP","jp-JP", "jp"],
                 "/ar/": ["ar", "ar-MA", "ar-SA", "ar-PS", "ar-DZ", "ar-BH", "ar-TD", "ar-KM", "ar-JO", "ar-EG", "ar-IQ", "ar-KW", "ar-LB", "ar-LY", "ar-MR", "ar-OM", "ar-QA", "ar-SO", "ar-SD", "ar-SY", "ar-TN", "ar-AE", "ar-YE",],
             },

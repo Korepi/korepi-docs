@@ -1,6 +1,6 @@
 import { hopeTheme } from "vuepress-theme-hope";
-import { enNavbar, zhNavbar, ruNavbar, idNavbar, esNavbar, mxNavbar, viNavbar, ptNavbar, arNavbar, jpNavbar } from "./navbar/index.js";
-import { enSidebar, zhSidebar, ruSidebar, idSidebar, esSidebar, mxSidebar, viSidebar, ptSidebar, arSidebar, jpSidebar } from "./sidebar/index.js";
+import { enNavbar, zhNavbar, ruNavbar, idNavbar, esNavbar, mxNavbar, viNavbar, ptNavbar, arNavbar, jpNavbar, trNavbar } from "./navbar/index.js";
+import { enSidebar, zhSidebar, ruSidebar, idSidebar, esSidebar, mxSidebar, viSidebar, ptSidebar, arSidebar, jpSidebar, trSidebar } from "./sidebar/index.js";
 
 
 export default hopeTheme({
@@ -137,6 +137,18 @@ export default hopeTheme({
                 editLink: "GitHubでこのページを編集する",
             },
         },
+        "/tr/": {
+            navbar: trNavbar,
+            sidebar: trSidebar,
+            footer:
+                "Genshin ImpactでPCプレイヤーに最高のゲーム体験を提供。",
+
+            displayFooter: true,
+
+            metaLocales: {
+                editLink: "GitHubでこのページを編集する",
+            },
+        },
     },
 
     plugins: {
@@ -229,6 +241,14 @@ export default hopeTheme({
                         title: "あなたのスキルを提供しよう",
                         content:
                             "<b>ウェブフロントエンド開発</b> と <b>ドキュメント管理</b>の経験をお持ちの方で、このドキュメンテーション・プロジェクトにそれを活かしたい方は、 <a href='https://github.com/Korepi/korepi-docs'>ぜひ私たちと一緒に活動してください</a>",
+                        fullscreen: false,
+                        showOnce: false,
+                    },
+                    {
+                        path: "/tr/",
+                        title: "Contribute Your Skills",
+                        content:
+                            "If you have experience in <b>web front-end development</b> and <b>document management</b>, and would like to apply it to this documentation project, you are welcome to <a href='https://github.com/Korepi/korepi-docs'>join us in writing the documentation</a>",
                         fullscreen: false,
                         showOnce: false,
                     },
