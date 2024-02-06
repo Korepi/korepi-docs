@@ -6,17 +6,47 @@
     <link>https://korepi.com/zh/</link>
     <description>Korepi 中文文档介绍</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 06 Feb 2024 15:31:37 GMT</pubDate>
-    <lastBuildDate>Tue, 06 Feb 2024 15:31:37 GMT</lastBuildDate>
+    <pubDate>Tue, 06 Feb 2024 15:32:26 GMT</pubDate>
+    <lastBuildDate>Tue, 06 Feb 2024 15:32:26 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+    <category>功能</category>
     <category>指南</category>
     <category>其他</category>
     <category>问题解答</category>
     <category>Features</category>
-    <category>功能</category>
     <category>Guide</category>
     <category>Troubleshoot</category>
+    <item>
+      <title>其他</title>
+      <link>https://korepi.com/zh/features/2.%E4%B8%96%E7%95%8C%E5%8A%9F%E8%83%BD/others.html</link>
+      <guid>https://korepi.com/zh/features/2.%E4%B8%96%E7%95%8C%E5%8A%9F%E8%83%BD/others.html</guid>
+      <source url="https://korepi.com/zh/rss.xml">其他</source>
+      <description>敌人变傻 启用后，敌人将会变傻，无法攻击。; 永久元素视野 启用后，元素视野不会关闭。; 冻结敌人 启用后，敌人会被直接冻结。; 立即打开队伍界面 启用后，进入队伍界面将不会读条，立即进入。; 跳过强化动画 启用后，强化圣遗物、武器、角色将不会有强化过程动画。;</description>
+      <category>功能</category>
+      <pubDate>Tue, 06 Feb 2024 08:46:03 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> 敌人变傻</h2>
+<ul>
+<li>启用后，敌人将会变傻，无法攻击。</li>
+</ul>
+<h2> 永久元素视野</h2>
+<ul>
+<li>启用后，元素视野不会关闭。</li>
+</ul>
+<h2> 冻结敌人</h2>
+<ul>
+<li>启用后，敌人会被直接冻结。</li>
+</ul>
+<h2> 立即打开队伍界面</h2>
+<ul>
+<li>启用后，进入队伍界面将不会读条，立即进入。</li>
+</ul>
+<h2> 跳过强化动画</h2>
+<ul>
+<li>启用后，强化圣遗物、武器、角色将不会有强化过程动画。</li>
+</ul>
+]]></content:encoded>
+    </item>
     <item>
       <title>Korepi中文公告</title>
       <link>https://korepi.com/zh/start/news.html</link>
@@ -1183,10 +1213,13 @@ C1: ?  C2: ?  C3: ?  C4: ?  C5: ?  C6: ?</li>
       <link>https://korepi.com/zh/features/2.%E4%B8%96%E7%95%8C%E5%8A%9F%E8%83%BD/auto-cook.html</link>
       <guid>https://korepi.com/zh/features/2.%E4%B8%96%E7%95%8C%E5%8A%9F%E8%83%BD/auto-cook.html</guid>
       <source url="https://korepi.com/zh/rss.xml">自动烹饪</source>
-      <description>自动烹饪:允许你在烹饪页面上选择烹饪数量和质量的食物，内置快速熟练</description>
+      <description>自动烹饪:允许你在烹饪页面上选择烹饪数量和质量的食物，内置快速熟练 注意：食物熟练后，把快速熟练关闭，可能会存在食物熟练后，自动烹饪失效的情况。</description>
       <category>功能</category>
       <pubDate>Sun, 17 Dec 2023 05:01:05 GMT</pubDate>
       <content:encoded><![CDATA[<h3> 自动烹饪:允许你在烹饪页面上选择烹饪数量和质量的食物，内置快速熟练</h3>
+<blockquote>
+<p>注意：食物熟练后，把快速熟练关闭，可能会存在食物熟练后，自动烹饪失效的情况。</p>
+</blockquote>
 ]]></content:encoded>
     </item>
     <item>
@@ -1238,10 +1271,13 @@ C1: ?  C2: ?  C3: ?  C4: ?  C5: ?  C6: ?</li>
       <link>https://korepi.com/zh/features/2.%E4%B8%96%E7%95%8C%E5%8A%9F%E8%83%BD/auto-seelie.html</link>
       <guid>https://korepi.com/zh/features/2.%E4%B8%96%E7%95%8C%E5%8A%9F%E8%83%BD/auto-seelie.html</guid>
       <source url="https://korepi.com/zh/rss.xml">自动仙灵</source>
-      <description>自动仙灵：当玩家靠近时，仙灵会自动回到仙灵座上。解放双手好帮手！</description>
+      <description>自动仙灵：当玩家靠近时，仙灵会自动回到仙灵座上。解放双手好帮手！ :::danger 在须弥沙漠使用有bug，请勿在须弥沙漠使用。 :::</description>
       <category>功能</category>
       <pubDate>Sun, 17 Dec 2023 05:01:05 GMT</pubDate>
       <content:encoded><![CDATA[<h2> 自动仙灵：当玩家靠近时，仙灵会自动回到仙灵座上。解放双手好帮手！</h2>
+<div class="hint-container danger">
+<p class="hint-container-title">在须弥沙漠使用有bug，请勿在须弥沙漠使用。</p>
+</div>
 ]]></content:encoded>
     </item>
     <item>
@@ -1249,7 +1285,7 @@ C1: ?  C2: ?  C3: ?  C4: ?  C5: ?  C6: ?</li>
       <link>https://korepi.com/zh/features/2.%E4%B8%96%E7%95%8C%E5%8A%9F%E8%83%BD/auto-talk.html</link>
       <guid>https://korepi.com/zh/features/2.%E4%B8%96%E7%95%8C%E5%8A%9F%E8%83%BD/auto-talk.html</guid>
       <source url="https://korepi.com/zh/rss.xml">自动对话</source>
-      <description>自动对话：自动跳过与NPC对话 快速对话框： 使用选定的值加速游戏使对话框加快。; 注意：不建议使用高于“5”的值。 跳过对话框赞助者专属： 以选定的值跳过对话框。它比快速对话更安全。; 注意：不建议在200ms以下使用` 跳过谈话场景： 跳过已触发或正在进行的谈话场景。; 注意：使用时可能会出现黑屏。 跳过跳过切场动画： 如果动画场景已触发或正在进行...</description>
+      <description>自动对话：自动跳过与NPC对话 快速对话框： 使用选定的值加速游戏使对话框加快。; 注意：不建议使用高于“5”的值。 跳过对话框赞助者专属： 以选定的值跳过对话框。它比快速对话更安全。; 注意：不建议在200ms以下使用` 排除凯瑟琳/壶灵/铁匠 启用后，将不会对凯瑟琳/壶灵/铁匠的对话进行自动对话和快速对话。; 自动选择对话框选项 #### 排除凯瑟...</description>
       <category>功能</category>
       <pubDate>Sun, 17 Dec 2023 05:01:05 GMT</pubDate>
       <content:encoded><![CDATA[<h2> 自动对话：自动跳过与NPC对话</h2>
@@ -1267,6 +1303,19 @@ C1: ?  C2: ?  C3: ?  C4: ?  C5: ?  C6: ?</li>
 <blockquote>
 <p>注意：不建议在200ms以下使用`</p>
 </blockquote>
+<h3> 排除凯瑟琳/壶灵/铁匠</h3>
+<ul>
+<li>启用后，将不会对凯瑟琳/壶灵/铁匠的对话进行自动对话和快速对话。</li>
+</ul>
+<h3> 自动选择对话框选项</h3>
+<h4> 排除凯瑟琳/壶灵/铁匠</h4>
+<ul>
+<li>启用后，将不会选择凯瑟琳/壶灵/铁匠的对话选项。</li>
+</ul>
+<h4> 选择最后一个对话框选项</h4>
+<ul>
+<li>启用后，自动点击与NPC对话的最后一个选项。</li>
+</ul>
 <h3> 跳过谈话场景：</h3>
 <ul>
 <li>跳过已触发或正在进行的谈话场景。</li>
@@ -1281,6 +1330,17 @@ C1: ?  C2: ?  C3: ?  C4: ?  C5: ?  C6: ?</li>
 <blockquote>
 <p>注意：使用时可能会出现黑屏。</p>
 </blockquote>
+<h3> 修复卡黑屏</h3>
+<ul>
+<li>如果因为某些原因导致黑屏，可以通过此功能退出黑屏状态。
+<blockquote>
+<p>注意：原理就是点击后断网重连。</p>
+</blockquote>
+<div class="hint-container tip">
+<p class="hint-container-title">可以解决供奉神瞳时黑屏，对话时卡住对话，对话NPC飞天位置异常等情况。</p>
+</div>
+</li>
+</ul>
 ]]></content:encoded>
     </item>
     <item>
@@ -1314,13 +1374,20 @@ C1: ?  C2: ?  C3: ?  C4: ?  C5: ?  C6: ?</li>
       <link>https://korepi.com/zh/features/2.%E4%B8%96%E7%95%8C%E5%8A%9F%E8%83%BD/game-speed.html</link>
       <guid>https://korepi.com/zh/features/2.%E4%B8%96%E7%95%8C%E5%8A%9F%E8%83%BD/game-speed.html</guid>
       <source url="https://korepi.com/zh/rss.xml">全局加速</source>
-      <description>全局加速：游戏速度加快或减慢。 注意：此功能很危险。欧服出现封禁案例。</description>
+      <description>全局加速：游戏速度加快或减慢。 注意：此功能很危险。欧服出现封禁案例。 设置快捷键后启用，长按快捷键加速游戏内速度。; 注意：目前启用后，仙灵和运输气球没有效果。</description>
       <category>功能</category>
       <pubDate>Sun, 17 Dec 2023 05:01:05 GMT</pubDate>
       <content:encoded><![CDATA[<h3> 全局加速：游戏速度加快或减慢。</h3>
 <blockquote>
 <p><span style="color:red;">注意：此功能很危险。欧服出现封禁案例</span>。</p>
 </blockquote>
+<ul>
+<li>设置快捷键后启用，长按快捷键加速游戏内速度。
+<blockquote>
+<p>注意：目前启用后，仙灵和运输气球没有效果。</p>
+</blockquote>
+</li>
+</ul>
 ]]></content:encoded>
     </item>
     <item>
