@@ -5,7 +5,7 @@ category:
   - Features
 tag:
   - 0culi Teleport
-author: Schvis, OpHellfire, HiroAndZero
+author: OpHellfire, HiroAndZero
 order: 1
 ---
 
