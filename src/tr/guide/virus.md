@@ -14,7 +14,7 @@ order: 7
 ---
 ## Korepiyi dışlamalar listesine nasıl ekleyebilirsiniz? (Windows Defender)
 
-### Step 1: Antivirüsü açma
+###  1. Aşama: Antivirüsü açma
 
 Arama çubuğuna `Windows Güvenliği` Yazın ve tıklayın
 
@@ -28,7 +28,7 @@ Aşağı inin ve `Virüs ve tehdit ayarları`'nı seçin. Oradanda  `Ayarları y
 
 ![](/assets/images/docs/202312/virus3.png)
 
-### Step 2: Dışlamaya ekleme
+### 2. Aşama: Dışlamaya ekleme
 
 Son aşamadan sonra, `Dışlamalar`'ı buluncaya kadar aşğı inin ve `Dışarıda bırakılanları ekle veya kaldır` a tıklayın.
 
