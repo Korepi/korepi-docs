@@ -5,7 +5,7 @@ category:
   - Features
 tag:
   - Chest Teleport
-author: Schvis, OpHellfire, Hiroandzero
+author: Schvis, OpHellfire, HiroAndZero
 order: 2
 ---
 
