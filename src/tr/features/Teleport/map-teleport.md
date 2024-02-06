@@ -10,7 +10,7 @@ order: 4
 ---
 
 ## Haritayla Işınlanma haritadan istediğiniz yere ışınlanmanızı sağlar.
-- Bu özelliği kullanmak için özelliği aktif edip, Işınlanma Tuşu seçmeniz gerektir.
+- Bu özelliği kullanmak için özelliği aktif edip, Işınlanma Tuşu atamanız gerekmektedir.
 - Işınlanmak için haritayı açıp seçtiğiniz tuşa basılı tutup haritada istediğiniz noktaya tıklayınız.
 ### Hızlı Işınlanma (<span style='color:yellow;'>Sponsor</span>):
 - Işınlanınca ortaya çıkan yüklenme ekranını kaldırır.
