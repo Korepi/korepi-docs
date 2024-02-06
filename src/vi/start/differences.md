@@ -11,7 +11,7 @@ order: 6
 
 # Sự Khác Biệt Giữa Phiên Bản V và F.
 
-## Sự khác biệt chính giữa phiên bản V và F
+## Sự Khác Biệt Chính Giữa Phiên Bản V Và F
 
 |Phiên Bản |Phiên Bản F|Phiên Bản V|
 |-----|--------|--------|
@@ -21,6 +21,6 @@ order: 6
 |Cài Đặt|Dễ|Trung bình-Khó|
 |Khắc Phục Lỗi|Dễ|Trung bình-Khó|
 |Phương Thức Xác Thực|Xác thực bằng key|Xác thực bằng file|
-## Tôi nên sử dụng phiên bản nào?
+## Tôi Nên Sử Dụng Phiên Bản Nào?
 
 Đối với <span style='color:yellow;'>Nhà Tài Trợ</span> bạn có thể sử dụng bất kỳ phiên bản nào mà bạn thích. Đối với Fans, bạn nên sử dụng phiên bản V vì tại thời điểm hiện tại nó ổn định hơn.

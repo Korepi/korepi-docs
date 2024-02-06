@@ -1,55 +1,55 @@
 ---
-title: How to get key
+title: Hướng Dẫn Lấy Key
 icon: key
 category:
-  - Guide
+  - Hướng Dẫn
 tag:
-  - Start
-  - License
+  - Bắt Đầu
+  - Giấy Phép
 author: Schvis
 order: 1
 ---
 
-## How to get key for Network(F)
+## Hướng Dẫn Lấy Key Cho Phiên Bản Network(F)
 
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/-9bXOMH0-WM" title="Korepi - How to get V key" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
 
-### Step 1: Get F Auth role
+### Bước 1: Lấy Vai Trò (Role) F Auth
 
-Head to `★⋅korepi-version-roles⋅★` on the server and click on `F Auth` to get the role.
+Đi tới kênh `★⋅korepi-version-roles⋅★` trong server Discord và chọn `F Auth` để nhận role.
 
-`Note: Check if you got the role, if you didn't click on F Auth again`
+`Lưu ý: Hãy kiểm tra role của bạn sau khi nhấn nút. Nếu vẫn chưa có role, hãy chọn F Auth thêm lần nữa.`
 
-### Step 2: Get your key
+### Bước 2: Lấy Key
 
-Head to `⁠★⋅micah-bot-verify⋅★` and click on `F:Getkey`, the bot will reply with some information including the key, copy it.
+Đi tới `⁠★⋅micah-bot-verify⋅★` và nhấn `F:Getkey`, bot sẽ trả về một số thông tin bao gồm key của bạn. Hãy copy đoạn key.
 
-### Step 3: Use your key
+### Bước 3: Sử Dụng Key
 
-Open Korepi, when it asks for your key, paste it and press enter, complete the steps mentioned by the injector and you should be good to go.
+Sau khi mở Korepi lên, bạn sẽ được yêu cầu nhập key vào. Hãy dán key bạn đã copy ở bước trước vào và nhấn enter. Sau đó hoàn tất các bước theo yêu cầu bởi Korepi (nếu có) và bạn có thể bắt đầu sử dụng Korepi.
 
-Enjoy Koprepi!
+Hãy tận hưởng Koprepi!
 
-## How to get key for Local(V)
+## Hướng Dẫn Lấy Key Cho Phiên Bản Local(V)
 
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/OTCSboZdexc" title="Korepi - How to get V key" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
 
-### Step 1: Get V Auth role
+### Bước 1: Lấy Vai Trò (Role) V Auth
 
-Head to `★⋅korepi-version-roles⋅★` on the server and click on `V Auth` to get the role.
+Đi tới kênh `★⋅korepi-version-roles⋅★` trong server Discord và chọn `V Auth` để nhận role.
 
-`Note: Check if you got the role, if you didn't click on V Auth again`
+`Lưu ý: Hãy kiểm tra role của bạn sau khi nhấn nút. Nếu vẫn chưa có role, hãy chọn V Auth thêm lần nữa.`
 
-### Step 2: Get your `HWID`
+### Bước 2: Lấy `HWID`
 
-To get your `HWID` you will need to open `Local(V) Injector` once, and it will copy it to your clipboard
+Để lấy `HWID` bạn cần mở `Korepi phiên bản Local(V)` lên, HWID sẽ được tự động copy vào clipboard.
 
-### Step 3: Get your `enc.json`
+### Bước 3: Lấy `enc.json`
 
-Head to `⁠★⋅micah-bot-verify⋅★` and click on `V:Verify`, a pop up will ask you for your `HWID` paste and click `Submit`, and download the file sent by the bot
+Đi tới kênh `⁠★⋅micah-bot-verify⋅★` và chọn `V:Verify`. Một cửa sổ popup sẽ hiện lên, hãy dán `HWID` của bạn vào và nhấn `Submit`, sau đó tải file license được cung cấp bởi bot.
 
-### Step 4: Place your file with Korepi
+### Bước 4: Sử Dụng File License
 
-After getting the file, place it on your Korepi folder, keep in mind that the file should be name `enc.json` in order to work, open Korepi and then:
+Sau khi tải file license, hãy copy nó vào thư mục chứa Korepi. Lưu ý tên file license bắt buộc phải là `enc.json`. Sau đó mở Korepi lên và...
 
-Enjoy Korepi!
+Hãy tận hưởng Korepi!

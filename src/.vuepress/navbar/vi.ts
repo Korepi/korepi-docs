@@ -5,24 +5,24 @@ export const viNavbar = navbar([
   "/vi/guide/",
   "/vi/start/",
   {
-    text: "Hướng dẫn",
+    text: "Hướng Dẫn",
     icon: "lightbulb",
     prefix: "/vi/",
     children: [
       {
-        text: "Bắt đầu nhanh",
+        text: "Bắt Đầu",
         icon: "lightbulb",
         prefix: "start/",
         children: ["join"],
       },
       {
-        text: "Hướng dẫn",
+        text: "Hướng Dẫn",
         icon: "lightbulb",
         prefix: "guide/",
         children: ["page"],
       },
       {
-        text: "Available Features",
+        text: "Các Tính Năng",
         icon: "sitemap",
         prefix: "features/",
         children: [""],

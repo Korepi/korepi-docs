@@ -1,50 +1,50 @@
 ---
-title: How to use Custom TP
+title: Hướng Dẫn Sử Dụng Dịch Chuyển Tuỳ Chọn
 icon: running
 category:
-  - Guide
+  - Hướng Dẫn
 tag:
-  - Start
-  - Teleports
+  - Bắt Đầu
+  - Dịch Chuyển
 author: Schvis
 order: 6
 ---
 
-## How to use custom TP
+## Hướng Dẫn Sử Dụng Dịch Chuyển Tuỳ Chọn
 
-### Step 1: Settings to use
+### Bước 1: Thiết Lập Cài Đặt
 
-We will use the following settings.
+Sử dụng các thiết lập cài đặt như sau.
 
 ![](/assets/images/docs/202312/teleport1.png)
 
-The recommended delay time is >15s.
+Khuyến khích thiết đặt độ trễ (delay time) >15s.
 
-### Step 2: Download the `.json` files for the custom tp
+### Bước 2: Tải File `.json` Để Sử Dụng Dịch Chuyển Tuỳ Chọn
 
-We can find these files in `community-share` pinned post in the server. Download the ones that suits your needs.
+Bạn có thể kiếm các file json này ở kênh `community-share` được ghim trong server Discord. Tải những file mà bạn cần.
 
-### Step 3: Select the tp files
+### Bước 3: Lựa Chọn File Dịch Chuyển
 
-Head to custom tp settings and go to this section:
+Mở Dịch Chuyển Tuỳ Chọn (Custom Teleport) và đi tới mục sau:
 
 ![](/assets/images/docs/202312/teleport2.png)
 
-Click on select path and select the folder containing the tp files you want to use.
+Click vào lựa chọn đường dẫn (select path) và lựa chọn thư mục chứa các file json mà bạn muốn sử dụng.
 
-### Step 4: How to start the tps
+### Bước 4: Tiến Hành Dịch Chuyển
 
-After selecting the folder, check this checkbox:
+Sau khi lựa chọn thư mục, hãy tick vào ô sau:
 
 ![](/assets/images/docs/202312/teleport3.png)
 
-After that we click on `Select`:
+Sau đó hãy click vào `Lựa Chọn` (`Select`):
 
 ![](/assets/images/docs/202312/teleport4.png)
 
-### Step 5: Enjoy the ride
+### Bước 5: Tận Hưởng
 
-The TPs will start automatically, if you got [Sponsor](../start/sponsor.md), you will be able to see the progress and remaining time.
+Quá trình dịch chuyển sẽ diễn ra một cách tự động. Nếu như bạn là [Nhà Tài Trợ](../start/sponsor.md), bạn có thể thấy được tiến độ và thời gian còn lại để hoàn tất quá trình dịch chuyển.
 
 ## Video
 

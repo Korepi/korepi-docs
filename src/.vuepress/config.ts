@@ -401,6 +401,47 @@ export default defineUserConfig({
                         },
                     },
                 },
+                "/vi/": {
+                    placeholder: "Tìm Kiếm",
+                    translations: {
+                        button: {
+                            buttonText: "Tìm Kiếm",
+                            buttonAriaLabel: "Tìm Kiếm",
+                        },
+                        modal: {
+                            searchBox: {
+                                resetButtonTitle: "Xoá Tiêu Chí Tìm Kiếm",
+                                resetButtonAriaLabel: "Xoá Tiêu Chí Tìm Kiếm",
+                                cancelButtonText: "Quay Lại",
+                                cancelButtonAriaLabel: "Quay Lại",
+                            },
+                            startScreen: {
+                                recentSearchesTitle: "Lịch Sử Tìm Kiếm",
+                                noRecentSearchesText: "Không có lịch sử tìm kiếm",
+                                saveRecentSearchButtonTitle: "Lưu vào Lịch Sử Tìm Kiếm",
+                                removeRecentSearchButtonTitle: "Xoá khỏi Lịch Sử Tìm Kiếm",
+                                favoriteSearchesTitle: "Mục Yêu Thích",
+                                removeFavoriteSearchButtonTitle: "Xoá khỏi Mục Yêu Thích",
+                            },
+                            errorScreen: {
+                                titleText: "Lấy Kết Quả Thất Bại",
+                                helpText: "Hãy kiểm tra kết nối mạng của bạn và tài nguyên được yêu cầu.",
+                            },
+                            footer: {
+                                selectText: "Lựa Chọn",
+                                navigateText: "Chuyển Đổi",
+                                closeText: "Đóng",
+                                searchByText: "Sử dụng tìm kiếm",
+                            },
+                            noResultsScreen: {
+                                noResultsText: "Chẳng tìm thấy gì cả:",
+                                suggestedQueryText: "Bạn có thể thử tìm kiếm một thứ khác",
+                                reportMissingResultsText: "Bạn có nghĩ rằng cuộc tìm kiếm này nên trả về vài kết quả :> ?",
+                                reportMissingResultsLinkText: "Liên hệ chúng tôi",
+                            },
+                        },
+                    },
+                },
                 "/jp/": {
                     placeholder: "検索",
                     translations: {
