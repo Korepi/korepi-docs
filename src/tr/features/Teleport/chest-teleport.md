@@ -9,7 +9,7 @@ author: Schvis, OpHellfire, HiroAndZero
 order: 2
 ---
 
-## Sandığa Işınlanma seçilen tuşa basıldığında sizi en yakın sandığa ışınlar.
+## Sandığa Işınlanma atanmış tuşa basıldığında sizi en yakın sandığa ışınlar.
 
 > Not: Riski azaltmak için ışınlanmalar arası `>15s` bekleyiniz.
 
