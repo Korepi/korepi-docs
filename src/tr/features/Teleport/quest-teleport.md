@@ -5,7 +5,7 @@ category:
   - Features
 tag:
   - Quest Teleport
-author: OpHellfire, HiroAndZero
+author: Schvis, OpHellfire, HiroAndZero
 order: 5
 ---
 
