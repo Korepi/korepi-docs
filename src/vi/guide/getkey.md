@@ -10,46 +10,39 @@ author: Schvis
 order: 1
 ---
 
-## Hướng Dẫn Lấy Key Cho Phiên Bản Network(F)
+## Verification Tutorial
 
-<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/-9bXOMH0-WM" title="Korepi - How to get V key" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
+### Step 1:
+- Find the `★⋅micah-bot-verify⋅★` channel [direct link](https://discord.com/channels/1069057220802781265/1203687333107335198)
 
-### Bước 1: Lấy Vai Trò (Role) F Auth
+  ![img.png](/assets/images/docs/202402/verify-1.png)
+- Find the message sent by Micah-bot
+### Step 2:
+If you bought a key from a reseller, click on `bind card str` and paste in your key.
 
-Đi tới kênh `★⋅korepi-version-roles⋅★` trong server Discord và chọn `F Auth` để nhận role.
+::: info If you are a Sponsor before February 4th, 2024, click "Sponsor Compensation" and enter "YES" to receive 3 months of compensation time, after successfully claiming your "card" follow the next step"
+:::
+### Step 3:
+Click `Get Verification File`, and you need to fill in your `HWID (device ID)` obtainable after opening the injector once.
+- You will get a file from the bot, download it and place it on your korepi folder. Make sure the name is `enc.json`.
 
-`Lưu ý: Hãy kiểm tra role của bạn sau khi nhấn nút. Nếu vẫn chưa có role, hãy chọn F Auth thêm lần nữa.`
+You can also click `View Subscription Information` to view your subscription information.
 
-### Bước 2: Lấy Key
+## How to pause the key
 
-Đi tới `⁠★⋅micah-bot-verify⋅★` và nhấn `F:Getkey`, bot sẽ trả về một số thông tin bao gồm key của bạn. Hãy copy đoạn key.
+Click on `Pause Card` and type `YES` to pause it. You can unpause it anytime and your subscription will continue.
 
-### Bước 3: Sử Dụng Key
+::: info You can only pause the key once every 30 days
+:::
 
-Sau khi mở Korepi lên, bạn sẽ được yêu cầu nhập key vào. Hãy dán key bạn đã copy ở bước trước vào và nhấn enter. Sau đó hoàn tất các bước theo yêu cầu bởi Korepi (nếu có) và bạn có thể bắt đầu sử dụng Korepi.
+## How to change HWID (Device ID)
 
-Hãy tận hưởng Koprepi!
+Click on `ID(Change HWID)`, and paste in the new `HWID` you get from opening the injector, after that download the new file and place it on your Korepi folder.
 
-## Hướng Dẫn Lấy Key Cho Phiên Bản Local(V)
+::: info You can only reset the HWID once every 7 days
+:::
 
-<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/OTCSboZdexc" title="Korepi - How to get V key" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
+## MD5 Verification Issue
+Each time you obtain the `enc.json` file again, the previous `enc.json` file will become invalid.
 
-### Bước 1: Lấy Vai Trò (Role) V Auth
-
-Đi tới kênh `★⋅korepi-version-roles⋅★` trong server Discord và chọn `V Auth` để nhận role.
-
-`Lưu ý: Hãy kiểm tra role của bạn sau khi nhấn nút. Nếu vẫn chưa có role, hãy chọn V Auth thêm lần nữa.`
-
-### Bước 2: Lấy `HWID`
-
-Để lấy `HWID` bạn cần mở `Korepi phiên bản Local(V)` lên, HWID sẽ được tự động copy vào clipboard.
-
-### Bước 3: Lấy `enc.json`
-
-Đi tới kênh `⁠★⋅micah-bot-verify⋅★` và chọn `V:Verify`. Một cửa sổ popup sẽ hiện lên, hãy dán `HWID` của bạn vào và nhấn `Submit`, sau đó tải file license được cung cấp bởi bot.
-
-### Bước 4: Sử Dụng File License
-
-Sau khi tải file license, hãy copy nó vào thư mục chứa Korepi. Lưu ý tên file license bắt buộc phải là `enc.json`. Sau đó mở Korepi lên và...
-
-Hãy tận hưởng Korepi!
+If the new one is still invalid, please obtain the file again. If it still doesn't work, wait for a while and try again.

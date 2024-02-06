@@ -6,7 +6,7 @@ category:
 tag:
   - Start
   - License
-author: Schvis,Micah
+author: Schvis, Micah
 order: 1
 ---
 ## Verification Tutorial
@@ -19,7 +19,7 @@ order: 1
 ### Step 2:
 If you bought a key from a reseller, click on `bind card str` and paste in your key.
 
-::: info If you are a Sponsor before February 4th, 2024, click "Sponsor Compensation" and enter "YES" to receive 3 months of compensation time, successfully claiming your "card" click on "Get verification file"
+::: info If you are a Sponsor before February 4th, 2024, click "Sponsor Compensation" and enter "YES" to receive 3 months of compensation time, after successfully claiming your "card" follow the next step"
 :::
 ### Step 3:
 Click `Get Verification File`, and you need to fill in your `HWID (device ID)` obtainable after opening the injector once.

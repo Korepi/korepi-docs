@@ -10,46 +10,39 @@ author: Ryuzeen
 order: 1
 ---
 
-## Como conseguir a chave para Network(F)
+## Verification Tutorial
 
-<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/-9bXOMH0-WM" title="Korepi - How to get V key" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
+### Step 1:
+- Find the `★⋅micah-bot-verify⋅★` channel [direct link](https://discord.com/channels/1069057220802781265/1203687333107335198)
 
-### Passo 1: Obtenha o cargo F Auth
+  ![img.png](/assets/images/docs/202402/verify-1.png)
+- Find the message sent by Micah-bot
+### Step 2:
+If you bought a key from a reseller, click on `bind card str` and paste in your key.
 
-Vá para o canal `★⋅korepi-version-roles⋅★` no servidor e clique em `F Auth` para obter a cargo.
+::: info If you are a Sponsor before February 4th, 2024, click "Sponsor Compensation" and enter "YES" to receive 3 months of compensation time, after successfully claiming your "card" follow the next step"
+:::
+### Step 3:
+Click `Get Verification File`, and you need to fill in your `HWID (device ID)` obtainable after opening the injector once.
+- You will get a file from the bot, download it and place it on your korepi folder. Make sure the name is `enc.json`.
 
-`Nota: Verifique se você tem a cargo. Se não tiver, clique novamente em F Auth`
+You can also click `View Subscription Information` to view your subscription information.
 
-### Passo 2: Obtenha sua chave
+## How to pause the key
 
-Vá para o canal `⁠★⋅micah-bot-verify⋅★` e clique em `F:Getkey`, uma tabela com informações; copie a chave.
+Click on `Pause Card` and type `YES` to pause it. You can unpause it anytime and your subscription will continue.
 
-### Passo 3: Use sua chave
+::: info You can only pause the key once every 30 days
+:::
 
-Abra o Korepi. Quando for solicitada a licença, cole a chave que você obteve e siga as instruções fornecidas no mod.
+## How to change HWID (Device ID)
 
-Aproveite o Korepi!
+Click on `ID(Change HWID)`, and paste in the new `HWID` you get from opening the injector, after that download the new file and place it on your Korepi folder.
 
-## Como conseguir a chave para Local(V)
+::: info You can only reset the HWID once every 7 days
+:::
 
-<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/OTCSboZdexc" title="Korepi - How to get V key" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
+## MD5 Verification Issue
+Each time you obtain the `enc.json` file again, the previous `enc.json` file will become invalid.
 
-### Passo 1: Obtenha a cargo V Auth
-
-Vá para o canal `★⋅korepi-version-roles⋅★` no servidor e clique em `V Auth` para obter a cargo.
-
-`Nota: Verifique se você tem o cargo. Se não tiver, clique novamente em V Autho`
-
-### Passo 2: Obtenha o seu `HWID`
-
-Para obter o seu `HWID` você precisará abrir o mod `Local(V)` uma vez e o `HWID` será copiado para a área de transferência.
-
-### Passo 3: Obtenha o seu `enc.json`
-
-Vá para o canal `⁠★⋅micah-bot-verify⋅★` e clique em `V:Verify`, Uma janela aparecerá pedindo o seu `HWID`, Cole o `HWID` e clique em `Submit`, em seguida, faça o download do arquivo enviado pelo bot.
-
-### Passo 4: Coloque seu arquivo junto com o Korepi
-
-Depois de obter o seu arquivo, coloque-o junto com o Korepi na sua pasta, abra o mod novamente e você poderá usá-lo. Lembre-se de que o nome do arquivo deve se `enc.json`.
-
-Aproveite o Korepi!
+If the new one is still invalid, please obtain the file again. If it still doesn't work, wait for a while and try again.

@@ -9,46 +9,39 @@ author: "Schvis"
 order: 1
 ---
 
-## Как получить ключ для Network (F)
+## Verification Tutorial
 
-<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/-9bXOMH0-WM" title="Korepi - Как получить ключ V" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
+### Step 1:
+- Find the `★⋅micah-bot-verify⋅★` channel [direct link](https://discord.com/channels/1069057220802781265/1203687333107335198)
 
-### Шаг 1: Получение роли F Auth
+  ![img.png](/assets/images/docs/202402/verify-1.png)
+- Find the message sent by Micah-bot
+### Step 2:
+If you bought a key from a reseller, click on `bind card str` and paste in your key.
 
-Перейдите на сервер в раздел `★⋅korepi-version-roles⋅★` и выберите `F Auth`, чтобы получить соответствующую роль.
+::: info If you are a Sponsor before February 4th, 2024, click "Sponsor Compensation" and enter "YES" to receive 3 months of compensation time, after successfully claiming your "card" follow the next step"
+:::
+### Step 3:
+Click `Get Verification File`, and you need to fill in your `HWID (device ID)` obtainable after opening the injector once.
+- You will get a file from the bot, download it and place it on your korepi folder. Make sure the name is `enc.json`.
 
->Примечание: Убедитесь, что вы получили роль. В противном случае, повторите действие снова, нажав на F Auth
+You can also click `View Subscription Information` to view your subscription information.
 
-### Шаг 2: Получение ключа
+## How to pause the key
 
-Откройте `⁠★⋅micah-bot-verify⋅★` и нажмите `F:Getkey`. Бот предоставит вам информацию, включая ключ. Скопируйте его.
+Click on `Pause Card` and type `YES` to pause it. You can unpause it anytime and your subscription will continue.
 
-### Шаг 3: Использование ключа
+::: info You can only pause the key once every 30 days
+:::
 
-Запустите Korepi. Когда система запросит ключ, вставьте его и нажмите Enter. Выполните указанные инжектором шаги и вы готовы к использованию.
+## How to change HWID (Device ID)
 
-<div style="color: #4CAF50; font-size: 18px; font-weight: bold;">Наслаждайтесь Korepi!</div>
+Click on `ID(Change HWID)`, and paste in the new `HWID` you get from opening the injector, after that download the new file and place it on your Korepi folder.
 
-## Как получить ключ для Local (V)
+::: info You can only reset the HWID once every 7 days
+:::
 
-<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/OTCSboZdexc" title="Korepi - Как получить ключ V" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
+## MD5 Verification Issue
+Each time you obtain the `enc.json` file again, the previous `enc.json` file will become invalid.
 
-### Шаг 1: Получение роли V Auth
-
-Перейдите на сервер в раздел `★⋅korepi-version-roles⋅★` и выберите `V Auth`, чтобы получить соответствующую роль.
-
-> Примечание: Убедитесь, что вы получили роль. В противном случае, повторите действие снова, нажав на V Auth
-
-### Шаг 2: Получение вашего `HWID`
-
-Откройте `Local(V) Injector` один раз, чтобы скопировать ваш `HWID` в буфер обмена.
-
-### Шаг 3: Получение вашего `enc.json`
-
-Перейдите в `⁠★⋅micah-bot-verify⋅★` и выберите `V:Verify`. Всплывающее окно запросит ваш `HWID`. Вставьте его и нажмите `Submit`, затем загрузите файл, отправленный ботом.
-
-### Шаг 4: Разместите файл с Korepi
-
-После получения файла поместите его в папку Korepi. Убедитесь, что файл называется `enc.json`, чтобы он корректно работал. Затем откройте Korepi.
-
-<div style="color: #4CAF50; font-size: 18px; font-weight: bold;">Наслаждайтесь Korepi!</div>
+If the new one is still invalid, please obtain the file again. If it still doesn't work, wait for a while and try again.

@@ -10,46 +10,39 @@ author: Schvis, Natsume, Chloe
 order: 1
 ---
 
-## Cara Get-Key untuk Online Auth (F)
+## Verification Tutorial
 
-<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/-9bXOMH0-WM" title="Korepi - Cara Mendapatkan Kunci V" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
+### Step 1:
+- Find the `★⋅micah-bot-verify⋅★` channel [direct link](https://discord.com/channels/1069057220802781265/1203687333107335198)
 
-### Langkah 1: Dapatkan Role F Auth
+  ![img.png](/assets/images/docs/202402/verify-1.png)
+- Find the message sent by Micah-bot
+### Step 2:
+If you bought a key from a reseller, click on `bind card str` and paste in your key.
 
-Pergi ke saluran `★⋅korepi-version-roles⋅★` di server dan klik `F Auth` untuk mendapatkan role tersebut.
+::: info If you are a Sponsor before February 4th, 2024, click "Sponsor Compensation" and enter "YES" to receive 3 months of compensation time, after successfully claiming your "card" follow the next step"
+:::
+### Step 3:
+Click `Get Verification File`, and you need to fill in your `HWID (device ID)` obtainable after opening the injector once.
+- You will get a file from the bot, download it and place it on your korepi folder. Make sure the name is `enc.json`.
 
-`Catatan: Periksa apakah Anda mendapatkan role tersebut; jika tidak, klik F Auth lagi.`
+You can also click `View Subscription Information` to view your subscription information.
 
-### Langkah 2: Dapatkan Key Anda
+## How to pause the key
 
-Pergi ke saluran `⁠★⋅micah-bot-verify⋅★` dan klik `F:Get Key`, bot akan membalas dengan beberapa informasi termasuk kunci, salin `Key` tersebut.
+Click on `Pause Card` and type `YES` to pause it. You can unpause it anytime and your subscription will continue.
 
-### Langkah 3: Gunakan Key Anda
+::: info You can only pause the key once every 30 days
+:::
 
-Buka Korepi, saat diminta untuk `key`, tempelkan `key` tersebut dan tekan `enter`. Ikuti langkah-langkah yang disebutkan oleh injector, dan seharusnya Anda siap menggunakan Korepi.
+## How to change HWID (Device ID)
 
-Selamat menikmati Korepi!
+Click on `ID(Change HWID)`, and paste in the new `HWID` you get from opening the injector, after that download the new file and place it on your Korepi folder.
 
-## Cara Get-Key untuk Lokal Auth (V)
+::: info You can only reset the HWID once every 7 days
+:::
 
-<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/OTCSboZdexc" title="Korepi - Cara Mendapatkan Kunci V" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
+## MD5 Verification Issue
+Each time you obtain the `enc.json` file again, the previous `enc.json` file will become invalid.
 
-### Langkah 1: Dapatkan Role V Auth
-
-Pergi ke saluran `★⋅korepi-version-roles⋅★` di server dan klik `V Auth` untuk mendapatkan role tersebut.
-
-`Catatan: Periksa apakah Anda mendapatkan role tersebut; jika tidak, klik V Auth lagi.`
-
-### Langkah 2: Dapatkan `HWID` Anda
-
-Untuk mendapatkan `HWID` Anda, buka `Local(V) Injector` sekali, dan HWID akan secara otomatis menyalinnya ke clipboard Anda.
-
-### Langkah 3: Dapatkan `enc.json` Anda
-
-Pergi ke saluran `⁠★⋅micah-bot-verify⋅★` dan klik `V:Verify`, sebuah jendela akan meminta Anda memasukkan `HWID`, tempelkan dan klik `Submit`, lalu unduh file yang dikirim oleh bot.
-
-### Langkah 4: Tempatkan File Anda di Korepi
-
-Setelah mendapatkan file, letakkan di folder Korepi Anda. Ingatlah bahwa file tersebut harus bernama `enc.json` agar berfungsi, buka Korepi kembali.
-
-Selamat menikmati Korepi!
+If the new one is still invalid, please obtain the file again. If it still doesn't work, wait for a while and try again.

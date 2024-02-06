@@ -10,46 +10,39 @@ author: Schvis
 order: 1
 ---
 
-## ネットワーク(F)版のキー取得方法
+## Verification Tutorial
 
-<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/-9bXOMH0-WM" title="Korepi - How to get V key" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
+### Step 1:
+- Find the `★⋅micah-bot-verify⋅★` channel [direct link](https://discord.com/channels/1069057220802781265/1203687333107335198)
 
-### ステップ 1: F 認証ロールを取得する
+  ![img.png](/assets/images/docs/202402/verify-1.png)
+- Find the message sent by Micah-bot
+### Step 2:
+If you bought a key from a reseller, click on `bind card str` and paste in your key.
 
- `★⋅korepi-version-roles⋅★` チャンネルに移動し、 `F Auth` をクリックして、ロールを取得します。
+::: info If you are a Sponsor before February 4th, 2024, click "Sponsor Compensation" and enter "YES" to receive 3 months of compensation time, after successfully claiming your "card" follow the next step"
+:::
+### Step 3:
+Click `Get Verification File`, and you need to fill in your `HWID (device ID)` obtainable after opening the injector once.
+- You will get a file from the bot, download it and place it on your korepi folder. Make sure the name is `enc.json`.
 
-`Note: ロールを取得したかどうかを確認し、取得していない場合は、もう一度F Authをクリックします。`
+You can also click `View Subscription Information` to view your subscription information.
 
-### ステップ 2: キーを取得する
+## How to pause the key
 
-`⁠★⋅micah-bot-verify⋅★` へ進み `F:Getkey`をクリックすると、botはキーを含む情報を送信しますので、それをコピーします。
+Click on `Pause Card` and type `YES` to pause it. You can unpause it anytime and your subscription will continue.
 
-### ステップ 3: キーを使用する
+::: info You can only pause the key once every 30 days
+:::
 
-Korepi を開き、キーの入力を求められたら、キーを貼り付けて Enter キーを押し、インジェクターによって示された手順を完了すれば準備完了です。
+## How to change HWID (Device ID)
 
-Koprepiを楽しんで!
+Click on `ID(Change HWID)`, and paste in the new `HWID` you get from opening the injector, after that download the new file and place it on your Korepi folder.
 
-## ローカル(V)版のキー取得方法
+::: info You can only reset the HWID once every 7 days
+:::
 
-<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/OTCSboZdexc" title="Korepi - How to get V key" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
+## MD5 Verification Issue
+Each time you obtain the `enc.json` file again, the previous `enc.json` file will become invalid.
 
-### ステップ 1: V 認証ロールを取得する
-
-`★⋅korepi-version-roles⋅★` チャンネルに移動し、 `V Auth` をクリックして、ロールを取得します。
-
-`Note: ロールを取得したかどうかを確認し、取得していない場合は再度V Authをクリックします。`
-
-### ステップ 2:  `HWID`を入手します。
-
-`HWID`を取得するには、`Local(V) Injector`を一度開き、クリップボードにコピーする必要があります。
-
-### ステップ 3:  `enc.json`を入手する
-
- `⁠★⋅micah-bot-verify⋅★` へ進み `V:Verify`をクリックするとあなたの`HWID`を聞いてくるのでペーストし `Submit`をクリックして、botから送られてきたファイルをダウンロードする。
-
-### ステップ 4: Korepiファイルに置く
-
-`enc.json` ファイルを取得したら、それをKorepiフォルダーに置きます。ファイル名はenc.jsonでなければならないことに注意して、Korepiを開いてください：
-
-Korepiを楽しんで!
+If the new one is still invalid, please obtain the file again. If it still doesn't work, wait for a while and try again.
