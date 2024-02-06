@@ -18,5 +18,5 @@ order: 3
     - Öncekine Işınlan: Atanmış tuşa basınca önceki ışınlanmaya ışınlar.
 > Not: Riski azaltmak için ışınlanmalar arası `>15s` bekleyiniz.
 
-# You can find out more on how to use this feature [here](../.././guide/custom-tp-setting.md)
+# Bu özelliğin kullanımı hakkında daha fazla bilgi bulmak için [here](../.././guide/custom-tp-setting.md)'e tıklayınız.
 
