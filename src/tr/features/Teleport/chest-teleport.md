@@ -1,17 +1,17 @@
 ---
-title: Chest Teleport
+title: Sandığa Işınlanma
 icon: person-rays
 category:
   - Features
 tag:
   - Chest Teleport
-author: Schvis
+author: Schvis, OpHellfire, Hiroandzero
 order: 2
 ---
 
-## Chest Teleport will teleport the player to the nearest rendered chest location when the hotkey is pressed.
+## Sandığa Işınlanma seçilen tuşa basıldığında sizi en yakın sandığa ışınlar.
 
-> Note: Wait `>15s` between teleports for safety.
+> Not: Riski azaltmak için ışınlanmalar arası `>15s` bekleyiniz.
 
 ## Example Video:
 
