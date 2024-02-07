@@ -6,16 +6,49 @@
     <link>https://korepi.com/vi/</link>
     <description>Trợ giúp về Korepi</description>
     <language>vi-VN</language>
-    <pubDate>Tue, 06 Feb 2024 16:06:24 GMT</pubDate>
-    <lastBuildDate>Tue, 06 Feb 2024 16:06:24 GMT</lastBuildDate>
+    <pubDate>Wed, 07 Feb 2024 02:04:40 GMT</pubDate>
+    <lastBuildDate>Wed, 07 Feb 2024 02:04:40 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+    <category>Guide</category>
     <category>Hướng Dẫn</category>
     <category>Các Câu Hỏi Thường Gặp</category>
     <category>Các Tính Năng</category>
     <category>Khắc Phục Lỗi</category>
     <category>Features</category>
     <category>Hướng dẫn</category>
+    <item>
+      <title>Free Version</title>
+      <link>https://korepi.com/vi/guide/free.html</link>
+      <guid>https://korepi.com/vi/guide/free.html</guid>
+      <source url="https://korepi.com/vi/rss.xml">Free Version</source>
+      <description>How to get the free license for Korepi. Step 1: Find the ★⋅micah-bot-verify⋅★ channel direct link (https://discord.com/channels/1069057220802781265/1203687333107335198); img.png...</description>
+      <category>Guide</category>
+      <pubDate>Wed, 07 Feb 2024 00:26:57 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> How to get the free license for Korepi.</h2>
+<h3> Step 1:</h3>
+<ul>
+<li>
+<p>Find the <code>★⋅micah-bot-verify⋅★</code> channel <a href="https://discord.com/channels/1069057220802781265/1203687333107335198" target="_blank" rel="noopener noreferrer">direct link</a></p>
+<p><img src="/assets/images/docs/202402/verify-1.png" alt="img.png" loading="lazy"></p>
+</li>
+<li>
+<p>Find the message sent by Micah-bot</p>
+</li>
+</ul>
+<h3> Step 2:</h3>
+<p>Click on <code>Bind free card</code>, follow the provide link by the bot after clicking on it, watch the ad and skip it.</p>
+<h3> Step 3:</h3>
+<p>If the bind message shows <code>Success</code>, you have successfully finished claiming the license, if it doesn't show as <code>Success</code>, repeat from the first step.</p>
+<h3> Step 4:</h3>
+<p>Launch the injector to obtain your <code>HWID</code>, after that head to <code>★⋅micah-bot-verify⋅★</code> again and click on <code>Get verification file</code> and paste in your <code>HWID</code>.</p>
+<p>After clicking on submit you will receive a file from the bot, download it and place it on your Korepi folder. Make sure the name is <code>enc.json</code>.</p>
+<h3> Step 5:</h3>
+<p>Launch the injector again and follow the instructions provide in the cmd.</p>
+<p>Enjoy Korepi!</p>
+]]></content:encoded>
+      <enclosure url="https://korepi.com/assets/images/docs/202402/verify-1.png" type="image/png"/>
+    </item>
     <item>
       <title>Các Tính Năng Độc Quyền Dành Cho Nhà Tài Trợ</title>
       <link>https://korepi.com/vi/start/sponsor-exclusive.html</link>
@@ -309,32 +342,47 @@ Most likely you surpassed the reset time, it resets daily, if you skip 1 day it 
       <link>https://korepi.com/vi/guide/getkey.html</link>
       <guid>https://korepi.com/vi/guide/getkey.html</guid>
       <source url="https://korepi.com/vi/rss.xml">Hướng Dẫn Lấy Key</source>
-      <description>Hướng Dẫn Lấy Key Cho Phiên Bản Network(F) Bước 1: Lấy Vai Trò (Role) F Auth Đi tới kênh ★⋅korepi-version-roles⋅★ trong server Discord và chọn F Auth để nhận role. Lưu ý: Hãy ki...</description>
+      <description>Verification Tutorial Step 1: Find the ★⋅micah-bot-verify⋅★ channel direct link (https://discord.com/channels/1069057220802781265/1203687333107335198); img.png Find the message ...</description>
       <category>Hướng Dẫn</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Hướng Dẫn Lấy Key Cho Phiên Bản Network(F)</h2>
-<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/-9bXOMH0-WM" title="Korepi - How to get V key" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
-<h3> Bước 1: Lấy Vai Trò (Role) F Auth</h3>
-<p>Đi tới kênh <code>★⋅korepi-version-roles⋅★</code> trong server Discord và chọn <code>F Auth</code> để nhận role.</p>
-<p><code>Lưu ý: Hãy kiểm tra role của bạn sau khi nhấn nút. Nếu vẫn chưa có role, hãy chọn F Auth thêm lần nữa.</code></p>
-<h3> Bước 2: Lấy Key</h3>
-<p>Đi tới <code>⁠★⋅micah-bot-verify⋅★</code> và nhấn <code>F:Getkey</code>, bot sẽ trả về một số thông tin bao gồm key của bạn. Hãy copy đoạn key.</p>
-<h3> Bước 3: Sử Dụng Key</h3>
-<p>Sau khi mở Korepi lên, bạn sẽ được yêu cầu nhập key vào. Hãy dán key bạn đã copy ở bước trước vào và nhấn enter. Sau đó hoàn tất các bước theo yêu cầu bởi Korepi (nếu có) và bạn có thể bắt đầu sử dụng Korepi.</p>
-<p>Hãy tận hưởng Koprepi!</p>
-<h2> Hướng Dẫn Lấy Key Cho Phiên Bản Local(V)</h2>
-<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/OTCSboZdexc" title="Korepi - How to get V key" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
-<h3> Bước 1: Lấy Vai Trò (Role) V Auth</h3>
-<p>Đi tới kênh <code>★⋅korepi-version-roles⋅★</code> trong server Discord và chọn <code>V Auth</code> để nhận role.</p>
-<p><code>Lưu ý: Hãy kiểm tra role của bạn sau khi nhấn nút. Nếu vẫn chưa có role, hãy chọn V Auth thêm lần nữa.</code></p>
-<h3> Bước 2: Lấy <code>HWID</code></h3>
-<p>Để lấy <code>HWID</code> bạn cần mở <code>Korepi phiên bản Local(V)</code> lên, HWID sẽ được tự động copy vào clipboard.</p>
-<h3> Bước 3: Lấy <code>enc.json</code></h3>
-<p>Đi tới kênh <code>⁠★⋅micah-bot-verify⋅★</code> và chọn <code>V:Verify</code>. Một cửa sổ popup sẽ hiện lên, hãy dán <code>HWID</code> của bạn vào và nhấn <code>Submit</code>, sau đó tải file license được cung cấp bởi bot.</p>
-<h3> Bước 4: Sử Dụng File License</h3>
-<p>Sau khi tải file license, hãy copy nó vào thư mục chứa Korepi. Lưu ý tên file license bắt buộc phải là <code>enc.json</code>. Sau đó mở Korepi lên và...</p>
-<p>Hãy tận hưởng Korepi!</p>
+      <content:encoded><![CDATA[<h2> Verification Tutorial</h2>
+<h3> Step 1:</h3>
+<ul>
+<li>
+<p>Find the <code>★⋅micah-bot-verify⋅★</code> channel <a href="https://discord.com/channels/1069057220802781265/1203687333107335198" target="_blank" rel="noopener noreferrer">direct link</a></p>
+<p><img src="/assets/images/docs/202402/verify-1.png" alt="img.png" loading="lazy"></p>
+</li>
+<li>
+<p>Find the message sent by Micah-bot</p>
+</li>
+</ul>
+<h3> Step 2:</h3>
+<p>For free version follow this <a href="/vi/guide/free.html" target="blank">link</a>.</p>
+<p>If you bought a key from a reseller, click on <code>bind card str</code> and paste in your key.</p>
+<div class="hint-container info">
+<p class="hint-container-title">If you are a Sponsor before February 4th, 2024, click "Sponsor Compensation" and enter "YES" to receive 3 months of compensation time, after successfully claiming your "card" follow the next step"</p>
+</div>
+<h3> Step 3:</h3>
+<p>Click <code>Get Verification File</code>, and you need to fill in your <code>HWID (device ID)</code> obtainable after opening the injector once.</p>
+<ul>
+<li>You will get a file from the bot, download it and place it on your korepi folder. Make sure the name is <code>enc.json</code>.</li>
+</ul>
+<p>You can also click <code>View Subscription Information</code> to view your subscription information.</p>
+<h2> How to pause the key</h2>
+<p>Click on <code>Pause Card</code> and type <code>YES</code> to pause it. You can unpause it anytime and your subscription will continue.</p>
+<div class="hint-container info">
+<p class="hint-container-title">You can only pause the key once every 30 days</p>
+</div>
+<h2> How to change HWID (Device ID)</h2>
+<p>Click on <code>ID(Change HWID)</code>, and paste in the new <code>HWID</code> you get from opening the injector, after that download the new file and place it on your Korepi folder.</p>
+<div class="hint-container info">
+<p class="hint-container-title">You can only reset the HWID once every 7 days</p>
+</div>
+<h2> MD5 Verification Issue</h2>
+<p>Each time you obtain the <code>enc.json</code> file again, the previous <code>enc.json</code> file will become invalid.</p>
+<p>If the new one is still invalid, please obtain the file again. If it still doesn't work, wait for a while and try again.</p>
 ]]></content:encoded>
+      <enclosure url="https://korepi.com/assets/images/docs/202402/verify-1.png" type="image/png"/>
     </item>
     <item>
       <title>Hướng Dẫn Mở Nhiều Cửa Sổ Game Cùng Lúc</title>
@@ -350,44 +398,6 @@ Most likely you surpassed the reset time, it resets daily, if you skip 1 day it 
 </div>
 <hr>
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/pSAxKoneT64" title="Multi-Instance V (Updated)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Hướng Dẫn Reset HWID</title>
-      <link>https://korepi.com/vi/guide/resethwid.html</link>
-      <guid>https://korepi.com/vi/guide/resethwid.html</guid>
-      <source url="https://korepi.com/vi/rss.xml">Hướng Dẫn Reset HWID</source>
-      <description>Reset HWID: Phiên Bản (F) Bước 1: Mở Trang Đăng Nhập Korepi Hãy mở Trang đăng nhập Korepi (https://keyauth.cc/panel/Strigger/Korepi) Cảnh báo: Sau khi mở trang đăng nhập, khoan ...</description>
-      <category>Hướng Dẫn</category>
-      <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Reset HWID: Phiên Bản (F)</h2>
-<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/DRSEmYsl4F4" title="how to change hwid for F" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
-<h3> Bước 1: Mở Trang Đăng Nhập Korepi</h3>
-<p>Hãy mở <a href="https://keyauth.cc/panel/Strigger/Korepi" target="_blank" rel="noopener noreferrer">Trang đăng nhập Korepi</a>
-Cảnh báo: Sau khi mở trang đăng nhập, khoan hãy làm gì cả.</p>
-<h3> Bước 2: Lấy key</h3>
-<p>Lấy key của bạn từ file <code>license.json</code> hoặc đi tới <code>★⋅micah-bot-verify⋅★</code> và nhấn <code>F: Getkey</code> để lấy key.</p>
-<h3> Bước 3: Đăng Nhập Vào Korepi</h3>
-<p>Sau khi lấy được key, hãy đi tới <a href="https://keyauth.cc/panel/Strigger/Korepi" target="_blank" rel="noopener noreferrer">Trang đăng nhập Korepi</a> và dán key vào cả 2 ô, nhấn login, rồi sau đó nhấn <code>Reset HWID</code>.</p>
-<h3> Bước 4: Mở Korepi</h3>
-<p>Sau khi reset được HWID, hãy mở Korepi lên rồi dán key của bạn vào.</p>
-<p>Và tận hưởng Korepi!</p>
-<h2> Reset HWID: Phiên Bản Network(F) (Nhà Tài Trợ)</h2>
-<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/WCuRAyqWMHg" title="Reset HWID F version (Sponsor)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
-<h3> Bước 1: Đi Tới Kênh <code>★⋅micah-bot-verify⋅★</code></h3>
-<p>Đi tới kênh <code>★⋅micah-bot-verify⋅★</code> và chọn <code>F:Reset Key</code>, sau đó chọn <code>F:Getkey</code> để nhận key.</p>
-<h3> Bước 2: Thay Thế Key Cũ</h3>
-<p>Mở thư mục chứa Korepi và xoá file <code>license.json</code>, sau đó mở Korepi lên rồi dán key mới vào.</p>
-<p>Và tận hưởng Korepi!</p>
-<h2> Reset HWID: Phiên Bản Local(V) (Nhà Tài Trợ)</h2>
-<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/q0G9UZHErrg?list=PL5eI1Tb64p56Mp6JqoR_o3BYk9UFTbOQI" title="How to reset Local V HWID" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
-<h3> Bước 1: Lấy HWID Hiện Tại</h3>
-<p>Để lấy HWID hiện tại của bạn, hãy mở <code>Korepi phiên bản V</code> lên. HWID sẽ được tự động copy vào clipboard.</p>
-<h3> Bước 2: Đi Tới Kênh <code>★⋅micah-bot-verify⋅★</code></h3>
-<p>Đi tới kênh <code>★⋅micah-bot-verify⋅★</code>, chọn <code>V:Change HWID</code>. Một cửa sổ sẽ hiện lên yêu cầu bạn nhập HWID. Hãy dán HWID vào và nhấn <code>Submit</code>.</p>
-<h3> Bước 3: Lấy File <code>enc.json</code> Mới</h3>
-<p>Sau khi bạn reset HWID thành công, nhấn <code>V:Verify</code> rồi dán HWID vào cửa sổ bật lên và chọn <code>Submit</code>. Sau đó hay tải file <code>enc.json</code> mới được cung cấp và dán đè vào thư mục chứa Korepi (thay thế file cũ có sẵn nếu có).</p>
-<p>Lưu ý: Tên file bắt buộc phải là <code>enc.json</code>.</p>
 ]]></content:encoded>
     </item>
     <item>
@@ -510,6 +520,9 @@ Nếu như việc khởi động lại máy không giúp ích được gì hoặ
 <p>Nếu như có lỗi được phát hiện nhưng Windows không thể sửa chúng, chạy lệnh <code>DISM.exe /Online /Cleanup-Image /RestoreHealth</code>.</p>
 <p>Sau đó khởi động lại máy và thử chạy colorpicker lần nữa.</p>
 <p>Nếu như lỗi vẫn tiếp diễn, bạn nên cài lại Windows.</p>
+<h3> Current data does not exist or server error.</h3>
+<p><img src="/assets/images/docs/202312/error.png" alt="" loading="lazy"></p>
+<p>Unpause your license and try again.</p>
 ]]></content:encoded>
       <enclosure url="https://korepi.com/assets/images/docs/202312/virus.png" type="image/png"/>
     </item>

@@ -6,17 +6,49 @@
     <link>https://korepi.com/zh/</link>
     <description>Korepi 中文文档介绍</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 06 Feb 2024 16:06:24 GMT</pubDate>
-    <lastBuildDate>Tue, 06 Feb 2024 16:06:24 GMT</lastBuildDate>
+    <pubDate>Wed, 07 Feb 2024 02:04:40 GMT</pubDate>
+    <lastBuildDate>Wed, 07 Feb 2024 02:04:40 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+    <category>Guide</category>
     <category>功能</category>
     <category>指南</category>
     <category>其他</category>
     <category>问题解答</category>
     <category>Features</category>
-    <category>Guide</category>
     <category>Troubleshoot</category>
+    <item>
+      <title>Free Version</title>
+      <link>https://korepi.com/zh/guide/free.html</link>
+      <guid>https://korepi.com/zh/guide/free.html</guid>
+      <source url="https://korepi.com/zh/rss.xml">Free Version</source>
+      <description>How to get the free license for Korepi. Step 1: Find the ★⋅micah-bot-verify⋅★ channel direct link (https://discord.com/channels/1069057220802781265/1203687333107335198); img.png...</description>
+      <category>Guide</category>
+      <pubDate>Wed, 07 Feb 2024 00:26:57 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> How to get the free license for Korepi.</h2>
+<h3> Step 1:</h3>
+<ul>
+<li>
+<p>Find the <code>★⋅micah-bot-verify⋅★</code> channel <a href="https://discord.com/channels/1069057220802781265/1203687333107335198" target="_blank" rel="noopener noreferrer">direct link</a></p>
+<p><img src="/assets/images/docs/202402/verify-1.png" alt="img.png" loading="lazy"></p>
+</li>
+<li>
+<p>Find the message sent by Micah-bot</p>
+</li>
+</ul>
+<h3> Step 2:</h3>
+<p>Click on <code>Bind free card</code>, follow the provide link by the bot after clicking on it, watch the ad and skip it.</p>
+<h3> Step 3:</h3>
+<p>If the bind message shows <code>Success</code>, you have successfully finished claiming the license, if it doesn't show as <code>Success</code>, repeat from the first step.</p>
+<h3> Step 4:</h3>
+<p>Launch the injector to obtain your <code>HWID</code>, after that head to <code>★⋅micah-bot-verify⋅★</code> again and click on <code>Get verification file</code> and paste in your <code>HWID</code>.</p>
+<p>After clicking on submit you will receive a file from the bot, download it and place it on your Korepi folder. Make sure the name is <code>enc.json</code>.</p>
+<h3> Step 5:</h3>
+<p>Launch the injector again and follow the instructions provide in the cmd.</p>
+<p>Enjoy Korepi!</p>
+]]></content:encoded>
+      <enclosure url="https://korepi.com/assets/images/docs/202402/verify-1.png" type="image/png"/>
+    </item>
     <item>
       <title>其他</title>
       <link>https://korepi.com/zh/features/2.%E4%B8%96%E7%95%8C%E5%8A%9F%E8%83%BD/others.html</link>
@@ -1633,6 +1665,9 @@ C1: ?  C2: ?  C3: ?  C4: ?  C5: ?  C6: ?</li>
 <p><img src="/assets/images/docs/202312/error4.png" alt="" loading="lazy"></p>
 <p>重新启动您的计算机，重新启动您的路由器。</p>
 <p>如果没有用，尝试使用VPN。</p>
+<h3> Current data does not exist or server error.</h3>
+<p><img src="/assets/images/docs/202312/error.png" alt="" loading="lazy"></p>
+<p>Unpause your license and try again.</p>
 ]]></content:encoded>
       <enclosure url="https://korepi.com/assets/images/docs/202312/virus.png" type="image/png"/>
     </item>

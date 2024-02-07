@@ -6,8 +6,8 @@
     <link>https://korepi.com/pt/</link>
     <description>Ajuda em Korepi</description>
     <language>pt-BR</language>
-    <pubDate>Tue, 06 Feb 2024 16:06:24 GMT</pubDate>
-    <lastBuildDate>Tue, 06 Feb 2024 16:06:24 GMT</lastBuildDate>
+    <pubDate>Wed, 07 Feb 2024 02:04:40 GMT</pubDate>
+    <lastBuildDate>Wed, 07 Feb 2024 02:04:40 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Guide</category>
@@ -15,6 +15,38 @@
     <category>Funções</category>
     <category>Guia</category>
     <category>Erros</category>
+    <item>
+      <title>Free Version</title>
+      <link>https://korepi.com/pt/guide/free.html</link>
+      <guid>https://korepi.com/pt/guide/free.html</guid>
+      <source url="https://korepi.com/pt/rss.xml">Free Version</source>
+      <description>How to get the free license for Korepi. Step 1: Find the ★⋅micah-bot-verify⋅★ channel direct link (https://discord.com/channels/1069057220802781265/1203687333107335198); img.png...</description>
+      <category>Guide</category>
+      <pubDate>Wed, 07 Feb 2024 00:26:57 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> How to get the free license for Korepi.</h2>
+<h3> Step 1:</h3>
+<ul>
+<li>
+<p>Find the <code>★⋅micah-bot-verify⋅★</code> channel <a href="https://discord.com/channels/1069057220802781265/1203687333107335198" target="_blank" rel="noopener noreferrer">direct link</a></p>
+<p><img src="/assets/images/docs/202402/verify-1.png" alt="img.png" loading="lazy"></p>
+</li>
+<li>
+<p>Find the message sent by Micah-bot</p>
+</li>
+</ul>
+<h3> Step 2:</h3>
+<p>Click on <code>Bind free card</code>, follow the provide link by the bot after clicking on it, watch the ad and skip it.</p>
+<h3> Step 3:</h3>
+<p>If the bind message shows <code>Success</code>, you have successfully finished claiming the license, if it doesn't show as <code>Success</code>, repeat from the first step.</p>
+<h3> Step 4:</h3>
+<p>Launch the injector to obtain your <code>HWID</code>, after that head to <code>★⋅micah-bot-verify⋅★</code> again and click on <code>Get verification file</code> and paste in your <code>HWID</code>.</p>
+<p>After clicking on submit you will receive a file from the bot, download it and place it on your Korepi folder. Make sure the name is <code>enc.json</code>.</p>
+<h3> Step 5:</h3>
+<p>Launch the injector again and follow the instructions provide in the cmd.</p>
+<p>Enjoy Korepi!</p>
+]]></content:encoded>
+      <enclosure url="https://korepi.com/assets/images/docs/202402/verify-1.png" type="image/png"/>
+    </item>
     <item>
       <title>Differences between versions</title>
       <link>https://korepi.com/pt/start/differences.html</link>
@@ -1378,32 +1410,47 @@ Para usar skins personalizadas no Korepi, você precisará baixar o aplicativo</
       <link>https://korepi.com/pt/guide/getkey.html</link>
       <guid>https://korepi.com/pt/guide/getkey.html</guid>
       <source url="https://korepi.com/pt/rss.xml">Como conseguir a Key</source>
-      <description>Como conseguir a chave para Network(F) Passo 1: Obtenha o cargo F Auth Vá para o canal ★⋅korepi-version-roles⋅★ no servidor e clique em F Auth para obter a cargo. Nota: Verifiqu...</description>
+      <description>Verification Tutorial Step 1: Find the ★⋅micah-bot-verify⋅★ channel direct link (https://discord.com/channels/1069057220802781265/1203687333107335198); img.png Find the message ...</description>
       <category>Guia</category>
       <pubDate>Wed, 13 Dec 2023 16:37:40 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Como conseguir a chave para Network(F)</h2>
-<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/-9bXOMH0-WM" title="Korepi - How to get V key" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
-<h3> Passo 1: Obtenha o cargo F Auth</h3>
-<p>Vá para o canal <code>★⋅korepi-version-roles⋅★</code> no servidor e clique em <code>F Auth</code> para obter a cargo.</p>
-<p><code>Nota: Verifique se você tem a cargo. Se não tiver, clique novamente em F Auth</code></p>
-<h3> Passo 2: Obtenha sua chave</h3>
-<p>Vá para o canal <code>⁠★⋅micah-bot-verify⋅★</code> e clique em <code>F:Getkey</code>, uma tabela com informações; copie a chave.</p>
-<h3> Passo 3: Use sua chave</h3>
-<p>Abra o Korepi. Quando for solicitada a licença, cole a chave que você obteve e siga as instruções fornecidas no mod.</p>
-<p>Aproveite o Korepi!</p>
-<h2> Como conseguir a chave para Local(V)</h2>
-<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/OTCSboZdexc" title="Korepi - How to get V key" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
-<h3> Passo 1: Obtenha a cargo V Auth</h3>
-<p>Vá para o canal <code>★⋅korepi-version-roles⋅★</code> no servidor e clique em <code>V Auth</code> para obter a cargo.</p>
-<p><code>Nota: Verifique se você tem o cargo. Se não tiver, clique novamente em V Autho</code></p>
-<h3> Passo 2: Obtenha o seu <code>HWID</code></h3>
-<p>Para obter o seu <code>HWID</code> você precisará abrir o mod <code>Local(V)</code> uma vez e o <code>HWID</code> será copiado para a área de transferência.</p>
-<h3> Passo 3: Obtenha o seu <code>enc.json</code></h3>
-<p>Vá para o canal <code>⁠★⋅micah-bot-verify⋅★</code> e clique em <code>V:Verify</code>, Uma janela aparecerá pedindo o seu <code>HWID</code>, Cole o <code>HWID</code> e clique em <code>Submit</code>, em seguida, faça o download do arquivo enviado pelo bot.</p>
-<h3> Passo 4: Coloque seu arquivo junto com o Korepi</h3>
-<p>Depois de obter o seu arquivo, coloque-o junto com o Korepi na sua pasta, abra o mod novamente e você poderá usá-lo. Lembre-se de que o nome do arquivo deve se <code>enc.json</code>.</p>
-<p>Aproveite o Korepi!</p>
+      <content:encoded><![CDATA[<h2> Verification Tutorial</h2>
+<h3> Step 1:</h3>
+<ul>
+<li>
+<p>Find the <code>★⋅micah-bot-verify⋅★</code> channel <a href="https://discord.com/channels/1069057220802781265/1203687333107335198" target="_blank" rel="noopener noreferrer">direct link</a></p>
+<p><img src="/assets/images/docs/202402/verify-1.png" alt="img.png" loading="lazy"></p>
+</li>
+<li>
+<p>Find the message sent by Micah-bot</p>
+</li>
+</ul>
+<h3> Step 2:</h3>
+<p>For free version follow this <a href="/pt/guide/free.html" target="blank">link</a>.</p>
+<p>If you bought a key from a reseller, click on <code>bind card str</code> and paste in your key.</p>
+<div class="hint-container info">
+<p class="hint-container-title">If you are a Sponsor before February 4th, 2024, click "Sponsor Compensation" and enter "YES" to receive 3 months of compensation time, after successfully claiming your "card" follow the next step"</p>
+</div>
+<h3> Step 3:</h3>
+<p>Click <code>Get Verification File</code>, and you need to fill in your <code>HWID (device ID)</code> obtainable after opening the injector once.</p>
+<ul>
+<li>You will get a file from the bot, download it and place it on your korepi folder. Make sure the name is <code>enc.json</code>.</li>
+</ul>
+<p>You can also click <code>View Subscription Information</code> to view your subscription information.</p>
+<h2> How to pause the key</h2>
+<p>Click on <code>Pause Card</code> and type <code>YES</code> to pause it. You can unpause it anytime and your subscription will continue.</p>
+<div class="hint-container info">
+<p class="hint-container-title">You can only pause the key once every 30 days</p>
+</div>
+<h2> How to change HWID (Device ID)</h2>
+<p>Click on <code>ID(Change HWID)</code>, and paste in the new <code>HWID</code> you get from opening the injector, after that download the new file and place it on your Korepi folder.</p>
+<div class="hint-container info">
+<p class="hint-container-title">You can only reset the HWID once every 7 days</p>
+</div>
+<h2> MD5 Verification Issue</h2>
+<p>Each time you obtain the <code>enc.json</code> file again, the previous <code>enc.json</code> file will become invalid.</p>
+<p>If the new one is still invalid, please obtain the file again. If it still doesn't work, wait for a while and try again.</p>
 ]]></content:encoded>
+      <enclosure url="https://korepi.com/assets/images/docs/202402/verify-1.png" type="image/png"/>
     </item>
     <item>
       <title>Multi-Instancia</title>
@@ -1419,44 +1466,6 @@ Para usar skins personalizadas no Korepi, você precisará baixar o aplicativo</
 </div>
 <hr>
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/pSAxKoneT64" title="Multi-Instance V (Updated)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Como resetar HWID</title>
-      <link>https://korepi.com/pt/guide/resethwid.html</link>
-      <guid>https://korepi.com/pt/guide/resethwid.html</guid>
-      <source url="https://korepi.com/pt/rss.xml">Como resetar HWID</source>
-      <description>Resetar HWID: Network(F) Passo 1: Acesse a página do Korepi Vá para Korepi Login Page (https://keyauth.cc/panel/Strigger/Korepi) Aviso: Não faça nada ainda! Passo 2: Encontre su...</description>
-      <category>Guia</category>
-      <pubDate>Wed, 13 Dec 2023 16:37:40 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Resetar HWID: Network(F)</h2>
-<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/DRSEmYsl4F4" title="how to change hwid for F" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
-<h3> Passo 1: Acesse a página do Korepi</h3>
-<p>Vá para <a href="https://keyauth.cc/panel/Strigger/Korepi" target="_blank" rel="noopener noreferrer">Korepi Login Page</a></p>
-<p>Aviso: Não faça nada ainda!</p>
-<h3> Passo 2: Encontre sua chave</h3>
-<p>Obtenha sua chave no arquivo <code>license.json</code> ou vá para o canal <code>★⋅micah-bot-verify⋅★</code> e clique em <code>F: Getkey</code> para obter sua chave atual.</p>
-<h3> Passo 3: Faça login no Korepi</h3>
-<p>Após obter sua chave, vá para <a href="https://keyauth.cc/panel/Strigger/Korepi" target="_blank" rel="noopener noreferrer">Korepi Login Page</a>, cole sua chave em ambos os campos, faça login e depois clique em <code>Reset HWID</code>.</p>
-<h3> Passo 4: Abra o mod</h3>
-<p>Depois de redefinir seu HWID, volte para o mod e cole sua chave novamente.</p>
-<p>Aproveite o Korepi novamente!</p>
-<h2> Resetar HWID: Network(F) (<span style="color:yellow;">Patrocinador</span>)</h2>
-<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/WCuRAyqWMHg" title="Reset HWID F version (Sponsor)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
-<h3> Passo 1: Vá para o canal <code>★⋅micah-bot-verify⋅★</code></h3>
-<p>Vá para o canal <code>★⋅micah-bot-verify⋅★</code> e clique em  <code>F:Reset Key</code>, em seguida, clique em <code>F:Getkey</code> para receber a nova chave.</p>
-<h3> Passo 2: Substitua sua chave antiga</h3>
-<p>Vá para a pasta do Korepi e exclua <code>license.json</code>, depois cole sua nova chave.</p>
-<p>Aproveite o Korepi!</p>
-<h2> Resetar HWID: Local(V) (<span style="color:yellow;">Patrocinador</span>)</h2>
-<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/q0G9UZHErrg?list=PL5eI1Tb64p56Mp6JqoR_o3BYk9UFTbOQI" title="How to reset Local V HWID" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
-<h3> Passo 1: Encontre seu HWID</h3>
-<p>Para obter seu HWID atual, abra o <code>Local(V) injector</code>, e ele copiará automaticamente seu HWID para a área de transferência.</p>
-<h3> Passo 2: Encontre o canal <code>★⋅micah-bot-verify⋅★</code></h3>
-<p>Depois de encontrar <code>★⋅micah-bot-verify⋅★</code>, clique em <code>V:Change HWID</code>, uma janela aparecerá, cole seu HWID e clique em <code>Submit</code>.</p>
-<h3> Passo 3: Obtenha seu novo <code>enc.json</code></h3>
-<p>Depois de redefinir seu HWID, clique em <code>V:Verify</code> e cole seu novo HWID na janela, clique em <code>Submit</code>. Agora baixe o novo <code>enc.json</code> e substitua na sua pasta do Korepi.</p>
-<p>Nota: Lembre-se de que o nome do arquivo deve ser <code>enc.json</code>.</p>
 ]]></content:encoded>
     </item>
     <item>
@@ -1750,6 +1759,9 @@ Para usar skins personalizadas no Korepi, você precisará baixar o aplicativo</
 <p>Se foram encontrados erros e o Windows não puder corrigi-los, use <code>DISM.exe /Online /Cleanup-Image /RestoreHealth</code> no <code>cmd</code>.</p>
 <p>Depois disso, reinicie seu computador e verifique se funciona.</p>
 <p>Se não funcionar, será necessário reinstalar o Windows.</p>
+<h3> Current data does not exist or server error.</h3>
+<p><img src="/assets/images/docs/202312/error.png" alt="" loading="lazy"></p>
+<p>Unpause your license and try again.</p>
 ]]></content:encoded>
       <enclosure url="https://korepi.com/assets/images/docs/202312/virus.png" type="image/png"/>
     </item>
