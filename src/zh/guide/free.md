@@ -1,22 +1,22 @@
 ---
-title: Free Version
-icon: key
+title: 免费版本
+icon: Key
 category:
-  - Guide
+  - 指南
 tag:
-  - Start
-  - License
-author: Schvis
+  - 开始
+  - 教程
+author: Schvis，Amireux
 order: 2
 ---
 
-## How to get the free license for Korepi.
+## 如何获得Korepi免费密钥.
 
-### Step 1:
-- Find the `★⋅micah-bot-verify⋅★` channel [direct link](https://discord.com/channels/1069057220802781265/1203687333107335198)
+### 步骤 1:
+- 找到 `★⋅micah-bot-verify⋅★` 频道 [direct link](https://discord.com/channels/1069057220802781265/1203687333107335198)
 
   ![img.png](/assets/images/docs/202402/verify-1.png)
-- Find the message sent by Micah-bot
+- 找到 Micah-bot 发送的消息查找 Micah-bot 发送的消息
 
 ### Step 2:
 Click on `Bind free card`, follow the provide link by the bot after clicking on it, watch the ad and skip it.
