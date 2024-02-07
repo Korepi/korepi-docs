@@ -18,6 +18,8 @@ order: 1
   ![img.png](/assets/images/docs/202402/verify-1.png)
 - Find the message sent by Micah-bot
 ### Step 2:
+For free version follow this [link](free.md).
+
 If you bought a key from a reseller, click on `bind card str` and paste in your key.
 
 ::: info If you are a Sponsor before February 4th, 2024, click "Sponsor Compensation" and enter "YES" to receive 3 months of compensation time, after successfully claiming your "card" follow the next step"

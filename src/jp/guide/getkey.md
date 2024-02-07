@@ -18,6 +18,8 @@ order: 1
   ![img.png](/assets/images/docs/202402/verify-1.png)
 - Find the message sent by Micah-bot
 ### Step 2:
+For free version follow this [link](free.md).
+
 If you bought a key from a reseller, click on `bind card str` and paste in your key.
 
 ::: info If you are a Sponsor before February 4th, 2024, click "Sponsor Compensation" and enter "YES" to receive 3 months of compensation time, after successfully claiming your "card" follow the next step"
@@ -46,3 +48,4 @@ Click on `ID(Change HWID)`, and paste in the new `HWID` you get from opening the
 Each time you obtain the `enc.json` file again, the previous `enc.json` file will become invalid.
 
 If the new one is still invalid, please obtain the file again. If it still doesn't work, wait for a while and try again.
+
