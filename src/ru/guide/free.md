@@ -1,35 +1,35 @@
 ---
-title: Free Version
+title: Бесплатная версия
 icon: key
 category:
-  - Guide
+  - Руководство
 tag:
-  - Start
-  - License
+  - Начало
+  - Лицензия
 author: Schvis
 order: 2
 ---
 
-## How to get the free license for Korepi.
+## Как получить бесплатную лицензию для Korepi.
 
-### Step 1:
-- Find the `★⋅micah-bot-verify⋅★` channel [direct link](https://discord.com/channels/1069057220802781265/1203687333107335198)
+### Шаг 1:
+- Найдите канал `★⋅micah-bot-verify⋅★` [ссылка](https://discord.com/channels/1069057220802781265/1203687333107335198)
 
   ![img.png](/assets/images/docs/202402/verify-1.png)
-- Find the message sent by Micah-bot
+- Найдите сообщение, отправленное Micah-bot
 
-### Step 2:
-Click on `Bind free card`, follow the provide link by the bot after clicking on it, watch the ad and skip it.
+### Шаг 2:
+Нажмите на `Bind free card`, следуйте по предоставленной ссылке от бота после нажатия на нее, посмотрите рекламу и пропустите ее.
 
-### Step 3:
-If the bind message shows `Success`, you have successfully finished claiming the license, if it doesn't show as `Success`, repeat from the first step.
+### Шаг 3:
+Если сообщение о привязке показывает `Success(Успех)`, вы успешно завершили процесс получения лицензии. Если не показывает `Success(Успех)`, повторите с первого шага.
 
-### Step 4:
-Launch the injector to obtain your `HWID`, after that head to `★⋅micah-bot-verify⋅★` again and click on `Get verification file` and paste in your `HWID`.
+### Шаг 4:
+Запустите инжектор, чтобы получить свой `HWID`, затем вернитесь в канал `★⋅micah-bot-verify⋅★` и нажмите `Get verification file`, вставьте свой `HWID`.
 
-After clicking on submit you will receive a file from the bot, download it and place it on your Korepi folder. Make sure the name is `enc.json`.
+После нажатия на отправку вы получите файл от бота, загрузите его и поместите в папку Korepi. Убедитесь, что имя файла - `enc.json`.
 
-### Step 5:
-Launch the injector again and follow the instructions provide in the cmd.
+### Шаг 5:
+Запустите инжектор снова и следуйте инструкциям в командной строке.
 
-Enjoy Korepi!
+Наслаждайтесь Korepi!
