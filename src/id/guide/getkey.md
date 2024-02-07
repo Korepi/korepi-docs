@@ -6,7 +6,7 @@ category:
 tag:
   - Buku Pemula
   - Lisensi
-author: Schvis, Natsume, Chloe
+author: Schvis, Natsume, Chloe, RodanZ
 order: 1
 ---
 

@@ -1,11 +1,11 @@
 ---
-title: Free Version
+title: Versi Gratis
 icon: key
 category:
   - Panduan
 tag:
   - Start
-  - License
+  - Lisensi
 author: Schvis, RodanZ
 order: 2
 ---
