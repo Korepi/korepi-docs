@@ -26,7 +26,7 @@ Klik `Ikat kartu gratis`, ikuti tautan yang disediakan oleh bot setelah mengklik
 ### Langkah 3:
 Jika pesan pengikatan menunjukkan `Sukses`, Anda telah berhasil menyelesaikan klaim lisensi, jika tidak menunjukkan `Sukses`, ulangi dari langkah pertama.
 
-![](/assets/images/docs/202402/success.png)
+![](/assets/images/docs/202312/success.png)
 ### Langkah 4:
 ::: info If you already got a enc.json delete it before opening the program
 :::

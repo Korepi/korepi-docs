@@ -26,7 +26,7 @@ Click vào `Bind free card` rồi mở đường link được cung cấp bởi 
 ### Bước 3:
 Nếu như tin nhắn gắn thẻ (bind message) hiển thị `Success` có nghĩa là bạn đã nhận key thành công. Nếu nó không hiện `Success`, hãy lặp lại từ bước số 1.
 
-![](/assets/images/docs/202402/success.png)
+![](/assets/images/docs/202312/success.png)
 
 =======
 ### Bước 4:

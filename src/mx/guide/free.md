@@ -26,7 +26,7 @@ Dale click a `Bind free card`, sigue el link mandado por el bot, mira el anuncio
 ### Paso 3:
 Si el mensaje aparece como `Success`, has conseguido reclamar la licencia correctamente, si no aparece como `Success`, repite desde el paso 1 de nuevo.
 
-![](/assets/images/docs/202402/success.png)
+![](/assets/images/docs/202312/success.png)
 ### Paso 4:
 ::: info Si ya tienes un enc.json, borra antes de abrir el programa
 :::

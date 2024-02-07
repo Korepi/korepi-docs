@@ -26,7 +26,7 @@ order: 2
 ### Шаг 3:
 Если сообщение о привязке показывает `Success(Успех)`, вы успешно завершили процесс получения лицензии. Если не показывает `Success(Успех)`, повторите с первого шага.
 
-![](/assets/images/docs/202402/success.png)
+![](/assets/images/docs/202312/success.png)
 ### Шаг 4:
 ::: info If you already got a enc.json delete it before opening the program
 :::

@@ -25,7 +25,7 @@ Clique em `Bind free card`, clique no link enviado pelo bot após isso, então a
 
 ### Passo 3:
 Se a mensagem de conexão aparecer `Success`, você recebeu a licença com sucesso, se não aparecer `Success`, repita o primeiro passo.
-![](/assets/images/docs/202402/success.png)
+![](/assets/images/docs/202312/success.png)
 
 ### Passo 4:
 ::: info If you already got a enc.json delete it before opening the program
