@@ -5,10 +5,10 @@ category:
   - Features
 tag:
   - Constellation Modifier
-author: Schvis, Kaede, Chloe
+author: Schvis, Kaede, Chloe, RodanZ
 order: 3
 ---
-::: info Hanya sponsor.
+::: info Hanya PERTAMAX.
 :::
 ---
 ## Constellation Modifier, Akan membuka konstelasi karakter yang dipilih, secara visual dan ada beberapa yang berfungsi.

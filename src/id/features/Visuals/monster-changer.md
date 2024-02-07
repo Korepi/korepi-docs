@@ -5,10 +5,12 @@ category:
   - Features
 tag:
   - Monster Changer
-author: Schvis, Kaede, Chloe
+author: Schvis, Kaede, Chloe, RodanZ
 order: 13
 ---
-
+::: info Hanya Untuk Sponsor!
+:::
+---
 ## Monster Changer:
 - Jika diaktifkan, semua monster akan terubah secara visual ke monster yang dipilih.
 ### Exclude Animals:

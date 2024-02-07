@@ -1,21 +1,21 @@
 ---
-title: Map Teleport
+title: Haritayla Işınlanma
 icon: person-rays
 category:
   - Features
 tag:
   - Map Teleport
-author: Schvis
+author: Schvis, OpHellfire, HiroAndZero
 order: 4
 ---
 
-## Map Teleport allows you to teleport to anywhere on the map.
-- To use map teleport you have to enable it, and select the hotkey you going to use.
-- To teleport, hold the hotkey while having the map opened and click on where you want to teleport.
-### Fast Teleport (<span style='color:yellow;'>Sponsor</span>):
-- Disables the loading screen within the selected distance while teleporting.
+## Haritayla Işınlanma haritadan istediğiniz yere ışınlanmanızı sağlar.
+- Bu özelliği kullanmak için özelliği aktif edip, Işınlanma Tuşu atamanız gerekmektedir.
+- Işınlanmak için haritayı açıp seçtiğiniz tuşa basılı tutup haritada istediğiniz noktaya tıklayınız.
+### Hızlı Işınlanma (<span style='color:yellow;'>Sponsor</span>):
+- Işınlanınca ortaya çıkan yüklenme ekranını kaldırır.
 
-## Example Video:
+## Örnek Video:
 
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/Xm3mTEbIE9g?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Map TP/Fast TP" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
 

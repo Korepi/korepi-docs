@@ -1,8 +1,8 @@
 ---
-title: Guides
+title: Adımlar
 icon: book
-category: Guide
-tag: Start
+category: Kılavuzlar
+tag: Başlangıç
 author: QweRez, Schvis
 ---
 

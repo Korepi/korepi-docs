@@ -1,8 +1,8 @@
 ---
-title: Catalog
+title: Katalog
 icon: book
 category: Guide
-tag: Start
+tag: Başlangıç
 author: QweRez
 ---
 

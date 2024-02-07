@@ -1,50 +1,50 @@
 ---
-title: Verification Tutorial
+title: Doğrulama Eğitimi
 icon: key
 category:
-  - Guide
+  - Kılavuzlar
 tag:
-  - Start
-  - License
+  - Başlangıç
+  - Lisans
 author: Schvis,Micah
 order: 1
 ---
-## Verification Tutorial
+## Doğrulama Eğitimi
 
-### Step 1:
-- Find the `★⋅micah-bot-verify⋅★` channel [direct link](https://discord.com/channels/1069057220802781265/1203687333107335198)
+### Adım 1:
+- `★⋅micah-bot-verify⋅★` kanalını bulun [doğrudan bağlantı](https://discord.com/channels/1069057220802781265/1203687333107335198)
 
   ![img.png](/assets/images/docs/202402/verify-1.png)
-- Find the message sent by Micah-bot
-### Step 2:
-For free version follow this [link](free.md).
+- Micah-bot tarafından gönderilen mesajı bulun
+### Adım 2:
+Ücretsiz sürüm için bunu takip edin [link](free.md).
 
-If you bought a key from a reseller, click on `bind card str` and paste in your key.
+Bir satıcıdan bir anahtar satın aldıysanız, `bind card str` seçeneğine tıklayın ve anahtarınızı yapıştırın.
 
-::: info If you are a Sponsor before February 4th, 2024, click "Sponsor Compensation" and enter "YES" to receive 3 months of compensation time, after successfully claiming your "card" follow the next step"
+::: info Eğer 4 Şubat 2024'ten önce Sponsor olduysanız, "Sponsor Tazminatı"na tıklayın ve 3 aylık tazminat süresi almak için "EVET" girin, "kartınızı" başarıyla talep ettikten sonra bir sonraki adımı izleyin"
 :::
-### Step 3:
-Click `Get Verification File`, and you need to fill in your `HWID (device ID)` obtainable after opening the injector once.
-- You will get a file from the bot, download it and place it on your korepi folder. Make sure the name is `enc.json`.
+### Adım 3:
+`Get Verification File`'a, tıklayın ve enjektörü bir kez açtıktan sonra elde edebileceğiniz `HWID (device ID)`'nizi doldurmanız gerekir.
+- Bottan bir dosya alacaksınız, indirin ve korepi klasörünüze yerleştirin. Adının `enc.json` olduğundan emin olun.
 
-You can also click `View Subscription Information` to view your subscription information.
+Abonelik bilgilerinizi görüntülemek için `View Subscription Information` seçeneğine de tıklayabilirsiniz.
 
-## How to pause the key
+## Anahtar nasıl duraklatılır
 
-Click on `Pause Card` and type `YES` to pause it. You can unpause it anytime and your subscription will continue.
+`Pause Card`'a tıklayın ve duraklatmak için `YES` yazın. İstediğiniz zaman duraklatmayı kaldırabilirsiniz ve aboneliğiniz devam edecektir.
 
-::: info You can only pause the key once every 30 days
-:::
-
-## How to change HWID (Device ID)
-
-Click on `ID(Change HWID)`, and paste in the new `HWID` you get from opening the injector, after that download the new file and place it on your Korepi folder.
-
-::: info You can only reset the HWID once every 7 days
+::: bilgi Anahtarı yalnızca 30 günde bir duraklatabilirsiniz
 :::
 
-## MD5 Verification Issue
-Each time you obtain the `enc.json` file again, the previous `enc.json` file will become invalid.
+## HWID (Device ID) nasıl değiştirilir
 
-If the new one is still invalid, please obtain the file again. If it still doesn't work, wait for a while and try again.
+`ID(Change HWID)`'ye, tıklayın ve enjektörü açarak elde ettiğiniz yeni `HWID`'yi yapıştırın, ardından yeni dosyayı indirin ve Korepi klasörünüze yerleştirin.
+
+::: bilgi HWID'yi yalnızca 7 günde bir sıfırlayabilirsiniz
+:::
+
+## MD5 Doğrulama Sorunu
+Her `enc.json` dosyasını tekrar aldığınızda, önceki `enc.json` dosyası geçersiz hale gelecektir.
+
+Yeni dosya hala geçersizse, lütfen dosyayı tekrar edinin. Hala çalışmıyorsa, bir süre bekleyin ve tekrar deneyin.
 

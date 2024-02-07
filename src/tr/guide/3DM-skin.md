@@ -1,25 +1,25 @@
 ---
-title: Install Skins
+title: Görünüm İndirme
 icon: magic-wand-sparkles
 category:
-  - Guide
+  - Kılavuzlar
 tag:
-  - Start
-  - Skins
+  - Başlangıç
+  - Görünümler
 author: Schvis
 order: 5
 ---
 
-## How to install custom Skins in `GIMI`
+## `GIMI` Özel Görünümler nasıl yüklenir
 
-### Step 1: Download the Skin
+### Adım 1: Görünümü İndirin
 
-Head to [Gamebanana](https://gamebanana.com/games/8552) and download a skin of your choice.
+[Gamebanana](https://gamebanana.com/games/8552) adresine gidin ve istediğiniz bir görünümü indirin.
 
-### Step 2: Install the Skin
+### Adım 2: Görünümü Yükleyin
 
-We will head to our `GIMI` folder and look for `Mods` folder, inside that folder we will extract the file we just downloaded.
+`GIMI` klasörümüze gideceğiz ve `Mods` klasörünü arayacağız, bu klasörün içinde az önce indirdiğimiz dosyayı çıkaracağız.
 
-### Step 3: Apply the skin
+### Adım 3: Görünümü uygulayın
 
-If we are already inside the game we will use `F10` to reload the Skins, if not, we will open the game following the [last post](3DM-tutorial.md) and the skin should be applied.
+Zaten oyunun içindeysek, Kaplamaları yeniden yüklemek için `F10` kullanacağız, değilse, [Son Gönderi](3DM-tutorial.md) 'yi izleyerek oyunu açacağız ve görünüm uygulanmalıdır.

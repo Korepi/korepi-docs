@@ -5,10 +5,10 @@ category:
   - Fitur
 tag:
   - Auto Tree Farm
-author: Schvis, Natsume, Chloe
+author: Schvis, Natsume, Chloe, RodanZ
 order: 9
 ---
-::: info Hanya Untuk Sponsor!
+::: info Hanya Untuk PERTAMAX!
 :::
 ---
 ### Auto Tree Farm memungkinkan Anda untuk memukul pohon-pohon di sekitar secara otomatis dengan nilai dan waktu jeda yang dipilih, sehingga mendapatkan kayu secara otomatis dari pohon-pohon di sekitar.

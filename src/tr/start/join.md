@@ -1,31 +1,31 @@
 ---
-title: Joining the Server
+title: Sunucuya Katılma
 icon: server
 category:
-  - Guide
+  - Kılavuzlar
 tag:
-  - Start
+  - Başlangıç
 author: QweRez
 order: 1
 ---
 
-## Introduction
+## Giriş
 
-Welcome to our community! To join the Discord server and start using Korepi, follow these steps.
+Topluluğumuza hoş geldiniz! Discord sunucusuna katılmak ve Korepi'yi kullanmaya başlamak için aşağıdaki adımları izleyin.
 
-### Step 1: Create a Discord Account
+### Adım 1: Bir Discord Hesabı Oluşturun
 
-If you don't have a Discord account yet, start by creating a new one. Visit the [official Discord website](https://discord.com/) and follow the registration instructions.
+Henüz bir Discord hesabınız yoksa, yeni bir hesap oluşturarak başlayın. Ziyaret edin [Resmi Discord Web Sitesi](https://discord.com/) ve kayıt talimatlarını izleyin.
 
-### Step 2: Download and Install Discord
+### Adım 2: Discord'u İndirin ve Kurun
 
-After creating an account, download the [Discord client](https://discord.com/download) for your operating system. Install the client following the on-screen instructions.
+Bir hesap oluşturduktan sonra [Discord Uygulaması](https://discord.com/download) işletim sisteminiz için. Ekrandaki talimatları izleyerek istemciyi kurun.
 
-### Step 3: Joining the Server
+### Adım 3: Sunucuya Katılma
 
-1. Copy the [invitation link](https://discord.gg/cottonbuds) for the Discord server provided by the administrator.
-2. In the Discord client, click the "+" button in the bottom left corner.
-3. Select "Join a Server."
-4. Paste the invitation link and click "Join."
+1. [Discord Davet Linki](https://discord.gg/cottonbuds) Yönetici tarafından sağlanan Discord sunucu davet bağlantısı için.
+2. Discord istemcisinde, sol alt köşedeki "+" düğmesine tıklayın.
+3. "Bir Sunucuya Katıl" seçeneğini seçin.
+4. Davet bağlantısını yapıştırın ve "Katıl "a tıklayın.
 
-If the invitation link is invalid, the server may be temporarily closed. Please wait for it to reopen. Now you can proceed to the next step.
+Davet bağlantısı geçersizse, sunucu geçici olarak kapalı olabilir. Lütfen yeniden açılmasını bekleyin. Şimdi bir sonraki adıma geçebilirsiniz.
