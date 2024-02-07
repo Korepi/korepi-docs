@@ -8,7 +8,7 @@ tag:
 author: Schvis
 order: 11
 ---
-::: info Sponsor Only
+::: info PERTAMAX Only
 :::
 ---
 ## Remote Utility:

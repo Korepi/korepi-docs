@@ -8,7 +8,8 @@ tag:
 author: Schvis
 order: 12
 ---
-
+::: info PERTAMAX Only
+:::
 ::: danger This feature has a high risk of ban.
 :::
 ---

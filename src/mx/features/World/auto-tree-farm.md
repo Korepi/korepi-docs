@@ -8,7 +8,7 @@ tag:
 author: Schvis, ll33ee
 order: 9
 ---
-::: info Solo para Sponsor
+::: info Solo para PERTAMAX
 :::
 ---
 ### Auto Madera permite talar árboles con el rango, golpes y retraso que desees.

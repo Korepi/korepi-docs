@@ -8,7 +8,8 @@ tag:
 author: Schvis
 order: 13
 ---
-
+::: info PERTAMAX Only
+:::
 ## Mob Vacuum move nearby mobs to the player with the selected speed and range, the mobs that will be affected can be customized.
 
 ## Example Video:

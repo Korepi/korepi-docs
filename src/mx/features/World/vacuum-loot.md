@@ -8,7 +8,8 @@ tag:
 author: Schvis, ll33ee
 order: 13
 ---
-
+::: info Solo para PERTAMAX
+:::
 ## Atraer Botín acerca los drops con un rango y velocidad personalizados.
 
 ## Video de Ejemplo:

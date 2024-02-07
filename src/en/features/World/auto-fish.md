@@ -8,7 +8,8 @@ tag:
 author: Schvis
 order: 5
 ---
-
+::: info PERTAMAX Only
+:::
 ### Auto fish lets you skip the catching fish animation, which will reduce the time needed to catch a fish.
 
 ## Example Video:

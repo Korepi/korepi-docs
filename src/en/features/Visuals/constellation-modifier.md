@@ -8,7 +8,7 @@ tag:
 author: Schvis
 order: 3
 ---
-::: info Sponsor Only
+::: info PERTAMAX Only
 :::
 ---
 ## Constellation Modifier, will change your active character constellations if selected, visually and some of them will actually work.

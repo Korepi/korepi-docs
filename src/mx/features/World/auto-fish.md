@@ -8,7 +8,8 @@ tag:
 author: Schvis
 order: 5
 ---
-
+::: info Solo para PERTAMAX
+:::
 ### Auto Pescar permite que te saltes la animación de pesca.
 
 ## Video de Ejemplo:
