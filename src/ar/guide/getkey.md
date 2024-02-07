@@ -25,6 +25,8 @@ If you bought a key from a reseller, click on `bind card str` and paste in your 
 ::: info If you are a Sponsor before February 4th, 2024, click "Sponsor Compensation" and enter "YES" to receive 3 months of compensation time, after successfully claiming your "card" follow the next step"
 :::
 ### Step 3:
+::: info If you already got a enc.json delete it before opening the program
+:::
 Click `Get Verification File`, and you need to fill in your `HWID (device ID)` obtainable after opening the injector once.
 - You will get a file from the bot, download it and place it on your korepi folder. Make sure the name is `enc.json`.
 

@@ -24,6 +24,8 @@ Si compraste la llave de un vendedor, dale click a `bind card str` y pega tu lla
 :::
 
 ### Paso 3:
+::: info Si ya tienes un enc.json, borra antes de abrir el programa
+:::
 Dale click a `Get Verification File`, aquí tendrás que poner tu `HWID (Id del Dispositivo)` que lo podrás obtener al abrir la herramienta por primera vez.
 - Recibirás un archivo del bot, descarga y ponlo dentro de la carpeta donde tengas Korepi. El nombre del archivo tiene que ser `enc.json`.
 

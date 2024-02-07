@@ -25,6 +25,8 @@ Click on `Bind free card`, follow the provide link by the bot after clicking on 
 If the bind message shows `Success`, you have successfully finished claiming the license, if it doesn't show as `Success`, repeat from the first step.
 
 ### Step 4:
+::: info If you already got a enc.json delete it before opening the program
+:::
 Launch the injector to obtain your `HWID`, after that head to `★⋅micah-bot-verify⋅★` again and click on `Get verification file` and paste in your `HWID`.
 
 After clicking on submit you will receive a file from the bot, download it and place it on your Korepi folder. Make sure the name is `enc.json`.
