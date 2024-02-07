@@ -13,10 +13,10 @@ order: 2
 :::tip Korepi目前只有V版本可以多开
 :::
 ---
-## 1.下载Korepi的V版本。
+## 1.下载Korepi。
 
 
-## 2.打开Korepi的V版本所在文件夹，打开`cfj.ini`。
+## 2.打开Korepi所在文件夹，打开`cfj.ini`。
 
 
 ## 3.找到Multi korepi=，将`false`改为`true`。
