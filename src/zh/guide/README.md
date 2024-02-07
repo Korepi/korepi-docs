@@ -7,7 +7,7 @@ tag:
   - 开始
 author: Micah
 ---
-- [验证教程](key-use.md)
+- [使用教程](key-use.md)
 - [如何多开Korepi](Multi-korepi.md)
 - [配置文件的切换](config-change.md)
 - [自定义传送的使用指南](custom-tp-setting.md)
