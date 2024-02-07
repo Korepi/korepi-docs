@@ -9,7 +9,6 @@ author: Double
 order: 9
 ---
 
-##  <span style="color:#f1c40f;">赞助者专属</span>
 ## 远程工具:
 ### 领取每日任务奖励：
 - 完成每日四次任务后，点击领取每日任务奖励。
