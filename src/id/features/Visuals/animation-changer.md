@@ -5,8 +5,10 @@ category:
   - Features
 tag:
   - Animation Changer
-author: Schvis
+author: Schvis, RodanZ
 order: 1
 ---
-
-## Animation Changer, Memperbolehkan pemain mengganti animasi karakter ke animasi yang dipilih. 
+::: info Hanya Untuk PERTAMAX!
+:::
+---
+## Animation Changer, Memperbolehkan pemain mengganti animasi karakter ke animasi yang dipilih.

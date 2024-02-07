@@ -5,10 +5,12 @@ category:
   - Fitur
 tag:
   - Vacuum Loot
-author: Schvis, Natsume
+author: Schvis, Natsume, RodanZ
 order: 14
 ---
-
+::: info Hanya Untuk PERTAMAX!
+:::
+---
 ## Vacuum Loot memindahkan drop-item di sekitar ke pemain dengan jarak jangkau dan waktu jeda yang ditentukan.
 
 ## Video contoh:

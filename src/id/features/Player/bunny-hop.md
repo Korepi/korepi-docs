@@ -5,7 +5,7 @@ category:
   - Fitur
 tag:
   - Bunny Hop
-author: Schvis, Natsume
+author: Schvis, Natsume, RodanZ
 order: 3
 ---
 ::: info Hanya Untuk Sponsor!

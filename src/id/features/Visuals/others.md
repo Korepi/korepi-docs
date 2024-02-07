@@ -5,7 +5,7 @@ category:
   - Features
 tag:
   - Others
-author: Schvis, Kaede
+author: Schvis, Kaede, RodanZ
 order: 16
 ---
 
@@ -17,11 +17,11 @@ order: 16
 ### No grass
 ### No map fog
 ### Paimon Follow
-### Dolphin Dive
-### GM Icon
 ### Menu Unlocker
 ## <span style='color:yellow;'>Sponsor Only</span>
 ### No Camera Blur
 ### No Camera Shake
+### Dolphin Dive
+### GM Icon
 ### No Footprints
 ### No Burst Animation

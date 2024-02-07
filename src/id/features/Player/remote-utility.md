@@ -5,10 +5,10 @@ category:
   - Fitur
 tag:
   - Remote Utility
-author: Schvis, Natsume
+author: Schvis, Natsume, RodanZ
 order: 11
 ---
-::: info Hanya Untuk Sponsor!
+::: info Hanya Untuk PERTAMAX!
 :::
 ---
 ## Remote Utility:

@@ -5,10 +5,12 @@ category:
   - Features
 tag:
   - Extra Visual Settings
-author: Schvis, Kaede, Chloe
+author: Schvis, Kaede, Chloe, RodanZ
 order: 7
 ---
-
+::: info Hanya Untuk Sponsor!
+:::
+---
 ## Extra Visual Settings:
 ### Gamma:
 - Memperbolehkan Anda mengganti nilai gamma dari game.
