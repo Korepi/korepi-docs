@@ -6,8 +6,8 @@
     <link>https://korepi.com/zh/</link>
     <description>Korepi 中文文档介绍</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 07 Feb 2024 02:04:40 GMT</pubDate>
-    <lastBuildDate>Wed, 07 Feb 2024 02:04:40 GMT</lastBuildDate>
+    <pubDate>Wed, 07 Feb 2024 04:01:03 GMT</pubDate>
+    <lastBuildDate>Wed, 07 Feb 2024 04:01:03 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Guide</category>
@@ -153,7 +153,7 @@ VPN并非专为翻墙而生，而机场是专门的翻墙节点服务商。</p>
       <link>https://korepi.com/zh/guide/Multi-korepi.html</link>
       <guid>https://korepi.com/zh/guide/Multi-korepi.html</guid>
       <source url="https://korepi.com/zh/rss.xml">如何多开Korepi</source>
-      <description>---Korepi目前只有V版本可以多开 1.下载Korepi的V版本。 2.打开Korepi的V版本所在文件夹，打开cfj.ini。 3.找到Multi korepi=，将false改为true。 展示视频：</description>
+      <description>---Korepi目前只有V版本可以多开 1.下载Korepi。 2.打开Korepi所在文件夹，打开cfj.ini。 3.找到Multi korepi=，将false改为true。 展示视频：</description>
       <category>指南</category>
       <pubDate>Mon, 25 Dec 2023 07:31:38 GMT</pubDate>
       <content:encoded><![CDATA[<hr>
@@ -161,8 +161,8 @@ VPN并非专为翻墙而生，而机场是专门的翻墙节点服务商。</p>
 <p class="hint-container-title">Korepi目前只有V版本可以多开</p>
 </div>
 <hr>
-<h2> 1.下载Korepi的V版本。</h2>
-<h2> 2.打开Korepi的V版本所在文件夹，打开<code>cfj.ini</code>。</h2>
+<h2> 1.下载Korepi。</h2>
+<h2> 2.打开Korepi所在文件夹，打开<code>cfj.ini</code>。</h2>
 <h2> 3.找到Multi korepi=，将<code>false</code>改为<code>true</code>。</h2>
 <h2> 展示视频：</h2>
  <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/pSAxKoneT64" title="Multi-Instance V (Updated)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
@@ -1672,11 +1672,11 @@ C1: ?  C2: ?  C3: ?  C4: ?  C5: ?  C6: ?</li>
       <enclosure url="https://korepi.com/assets/images/docs/202312/virus.png" type="image/png"/>
     </item>
     <item>
-      <title>验证教程</title>
+      <title>使用教程</title>
       <link>https://korepi.com/zh/guide/key-use.html</link>
       <guid>https://korepi.com/zh/guide/key-use.html</guid>
-      <source url="https://korepi.com/zh/rss.xml">验证教程</source>
-      <description>验证使用教程 找到★⋅micah-bot-verify⋅★频道 直链 (https://discord.com/channels/1069057220802781265/1203687333107335198); 找到Micah-bot所发的这则消息; img.png 根据提示的流程来; 如果你是2024年2月4日之前的Sponsor,点击赞助者补偿,...</description>
+      <source url="https://korepi.com/zh/rss.xml">使用教程</source>
+      <description>验证使用教程 找到★⋅micah-bot-verify⋅★频道 直链 (https://discord.com/channels/1069057220802781265/1203687333107335198); 找到Micah-bot所发的这则消息; 根据提示的流程来; 如果你是2024年2月4日之前的Sponsor,点击赞助者补偿,然后输入YES,...</description>
       <category>指南</category>
       <pubDate>Sun, 10 Dec 2023 15:04:22 GMT</pubDate>
       <content:encoded><![CDATA[<hr>
@@ -1684,7 +1684,7 @@ C1: ?  C2: ?  C3: ?  C4: ?  C5: ?  C6: ?</li>
 <ul>
 <li>找到<code>★⋅micah-bot-verify⋅★</code>频道 <a href="https://discord.com/channels/1069057220802781265/1203687333107335198" target="_blank" rel="noopener noreferrer">直链</a></li>
 <li>找到Micah-bot所发的这则消息
-<img src="/assets/images/docs/202402/verify-1.png" alt="img.png" loading="lazy"></li>
+</li>
 <li>根据提示的流程来</li>
 <li>如果你是2024年2月4日之前的Sponsor,点击<code>赞助者补偿</code>,然后输入<code>YES</code>,将会获得3个月的时间补偿</li>
 <li>如果你不是,请点击<code>绑定卡密</code>,填写从各个渠道获取的密钥</li>
@@ -1692,6 +1692,62 @@ C1: ?  C2: ?  C3: ?  C4: ?  C5: ?  C6: ?</li>
 <li>之后将获取的enc.json文件放在与你的kp程序同目录下,即可正常运行</li>
 <li>你还可以点击<code>查看订阅信息</code>来查看你的订阅信息</li>
 </ul>
+<div class="hint-container danger">
+<p class="hint-container-title">如果你是赞助者（sponsor身份），请不要点击 ` 绑定赞助者卡密` 或者 ` 绑定免费卡密` ，这样视为放弃三个月的补偿！</p>
+</div>
+<h1> 详细教程：</h1>
+<h2> 使用所购买的卡密</h2>
+<ol>
+<li>点击<code>绑定卡密</code>。然后输入你的卡密。
+</li>
+<li>打开你所下载的korepi，它会自动复制你的hwid码。<div class="hint-container tip">
+<p class="hint-container-title">在你使用前看看你的korepi文件夹中是否有过期的enc.json文件，如果有的话，请删除。</p>
+</div>
+</li>
+<li>点击获取验证文件，输入hwid码。
+</li>
+<li>下载enc.json文件，将文件放在korepi文件夹中。</li>
+<li>打开korepi，即可使用。</li>
+</ol>
+<h2> sponsor使用教程</h2>
+<div class="hint-container tip">
+<p class="hint-container-title">sponsor的密钥时间为7天，过期后请删除旧的enc.json文件，重新获取新的。</p>
+</div>
+<ol>
+<li>点击<code>赞助者补偿</code>。即可获取三个月补偿。
+</li>
+</ol>
+<ul>
+<li>
+<h2> 如果你已经获得过补偿,或者因为操作失误,导致无法获得补偿,请直接点击<code> 绑定赞助者卡密</code>。</h2>
+</li>
+</ul>
+<ol start="2">
+<li>打开你所下载的korepi，它会自动复制你的hwid码。<div class="hint-container tip">
+<p class="hint-container-title">在你使用前看看你的korepi文件夹中是否有过期的enc.json文件，如果有的话，请删除。</p>
+</div>
+</li>
+<li>点击获取验证文件，输入hwid码。
+</li>
+<li>下载enc.json文件，将文件放在korepi文件夹中。</li>
+<li>打开korepi，即可使用。</li>
+</ol>
+<h2> 免费版使用教程</h2>
+<div class="hint-container tip">
+<p class="hint-container-title">免费的密钥时间为1天，过期后请删除旧的enc.json文件，重新获取新的。</p>
+</div>
+<ol>
+<li>点击<code>绑定免费卡密</code>。自动跳转看广告获取免费卡密。
+</li>
+<li>打开你所下载的korepi，它会自动复制你的hwid码。<div class="hint-container tip">
+<p class="hint-container-title">在你使用前看看你的korepi文件夹中是否有过期的enc.json文件，如果有的话，请删除。</p>
+</div>
+</li>
+<li>点击获取验证文件，输入hwid码。
+</li>
+<li>下载enc.json文件，将文件放在korepi文件夹中。</li>
+<li>打开korepi，即可使用。</li>
+</ol>
 <h2> 暂停卡密</h2>
 <ul>
 <li>你可以暂停卡密已暂停时间防止卡密过期</li>
@@ -1700,6 +1756,7 @@ C1: ?  C2: ?  C3: ?  C4: ?  C5: ?  C6: ?</li>
 </ul>
 <h2> 更改设备id</h2>
 <ul>
+<li>点击更换设备id，输入新的设备的hwid即可。</li>
 <li>更改设备id后需等待7天才能更改</li>
 </ul>
 <h2> md5校验问题</h2>
@@ -1710,7 +1767,6 @@ C1: ?  C2: ?  C3: ?  C4: ?  C5: ?  C6: ?</li>
 <h2> 上不了discord,谷歌等</h2>
 <p><a href="/zh/others/ap.html" target="blank">梯子推荐</a></p>
 ]]></content:encoded>
-      <enclosure url="https://korepi.com/assets/images/docs/202402/verify-1.png" type="image/png"/>
     </item>
     <item>
       <title>Korepi与3DM同时运行教程</title>
@@ -1858,97 +1914,11 @@ C1: ?  C2: ?  C3: ?  C4: ?  C5: ?  C6: ?</li>
 ]]></content:encoded>
     </item>
     <item>
-      <title>如何捐赠及快速获取身份</title>
-      <link>https://korepi.com/zh/start/donate.html</link>
-      <guid>https://korepi.com/zh/start/donate.html</guid>
-      <source url="https://korepi.com/zh/rss.xml">如何捐赠及快速获取身份</source>
-      <description>国内捐赠链接 (https://afdian.net/a/micah) 海外玩家捐赠具体链接 (https://discord.com/channels/1069057220802781265/1097565269985071205) ① 通过上方链接进行捐赠 如果显示的是未认证作者那只是爱发电日常发癫，只要确保链接是上方提供的就行自选金额一次性/1个...</description>
-      <category>指南</category>
-      <pubDate>Sat, 25 Nov 2023 10:06:41 GMT</pubDate>
-      <content:encoded><![CDATA[<hr>
-<h1> <span style="color:#f1c40f;">赞助者(Sponsor)</span>身份获取途径</h1>
-<p><a href="https://afdian.net/a/micah" target="_blank" rel="noopener noreferrer">国内捐赠链接</a></p>
-<p><a href="https://discord.com/channels/1069057220802781265/1097565269985071205" target="_blank" rel="noopener noreferrer">海外玩家捐赠具体链接</a></p>
-<hr>
-<h1> 通过国内捐赠链接，获取身份的方法</h1>
-<h2> ① 通过上方链接进行捐赠</h2>
-<ul>
-<li>如果显示的是未认证作者那只是爱发电日常发癫，只要确保链接是上方提供的就行自选金额一次性/1个月 35RMB 即可
-</li>
-</ul>
-<h2> ②复制订单号（忘了在赞助时复制的人，能到订单处找出来）</h2>
-<p></p>
-<h2> ③ @micah-sign-bot 私信鸭子发送 /start，再回复订单号 即可获得<span style="color:#f1c40f;">赞助者</span>身份</h2>
-<ul>
-<li><span style="color:red;">找到Micah-sign-bot，私聊他发送/start指令。</span></li>
-</ul>
-<p></p>
-<ul>
-<li><span style="color:red;">输入/start后会弹出指令，选择指令。</span></li>
-</ul>
-<p></p>
-<ul>
-<li><span style="color:red;">然后点击爱发电捐赠，输入订单号 。</span></li>
-</ul>
-<p></p>
-<hr>
-<h1> 快速获取<span style="color:#87c4ff;">Fans</span>身份的方法</h1>
-<p><span style="color:#f1c40f;">赞助者</span>解锁科技额外功能并且能通过填表单，可快速获得 <span style="color:#87c4ff;">Fans 身份</span></p>
-<p>👉<a href="https://discord.com/channels/1069057220802781265/1152887509517344870" target="_blank" rel="noopener noreferrer">#ticket-start</a></p>
-<p>尽量以 <strong><code>英文</code></strong> 回答。</p>
-<p>请使用翻译 <strong><code>网站/软件</code></strong> 阅读问题并且谨慎回答。</p>
-<hr>
-<h1> 赞助者福利</h1>
-<h2> 科技</h2>
-<h3> 玩家</h3>
-<ul>
-<li>攻击效果 – 自定义暴击率</li>
-<li>额外移动 – 水面移动，疾奔/跳跃/飞行增强，闪现，潜行模式（仅对旅行者有效，让其进入潜行任务时的状态）</li>
-<li>无敌模式 – 不死（无敌仅在抵御致命攻击时启用）</li>
-<li>远程工具 – 一键领取每日，一键合成浓缩树脂，实体生成器（技能 物体 怪物，甚至原石~但只能看不能用哦），随时可打开派蒙/烹饪界面，供奉七天神像，修改旅行者元素共鸣状态</li>
-<li>其他 – 兔子跳（长按跳跃+移动键，角色以蹦蹦跳跳状态移动）</li>
-</ul>
-<h3> 世界</h3>
-<ul>
-<li>自动解锁锚点（一定范围内生效）</li>
-<li>自动摧毁物体/砍树 – 可设置的最大距离增加</li>
-<li>自动对话 – 跳过对话场景</li>
-<li>元素光环 – 让范围内的物体和怪物附上元素（可多重元素）</li>
-</ul>
-<h3> 传送</h3>
-<ul>
-<li>自定义传送 – 在进行自动传送时显示进度</li>
-<li>地图传送 – 快速传送（作用于科技内的所有传送功能）</li>
-</ul>
-<h3> 视图</h3>
-<ul>
-<li>命座修改器 ——  <span style="color:red;">具体查看功能列表中的命座修改</span></li>
-<li>隐藏界面 – 隐藏服务器Ping，隐藏血条，隐藏队伍血条</li>
-<li>怪物替换器</li>
-<li>其他 – 海豚跳，GM图标，无相机模糊/抖动，无脚印，无元素爆发过场</li>
-</ul>
-<h3> 待更新</h3>
-<p>———————</p>
-<h2> 服务器/群组</h2>
-<ul>
-<li>身份组 – 只需要签到3天即可获得 <span style="color:#87c4ff;">Fans</span> 身份 / <a href="https://canary.discord.com/channels/1069057220802781265/1152887509517344870/1177896659225677855" target="_blank" rel="noopener noreferrer">#ticket-start</a> 亦可通过填写表格快速获得 <span style="color:#87c4ff;">Fans</span> 身份 / 无需额外身份即可到其他频道发言</li>
-<li>机器人指令 – 解锁 <strong><code>F:Reset Key</code></strong> / <strong><code>V-Change HWID</code></strong> / <strong><code>Change Version</code></strong> 使用权限</li>
-<li><span style="color:#f1c40f;">赞助者</span>专享频道</li>
-</ul>
-<div class="hint-container tip">
-<p class="hint-container-title">提示</p>
-<p>部分功能需到科技内
-〖设定→其他，勾选启用危险功能〗
-才会显示（有时需要重复勾选/取消几次后，危险功能才会显示出来）</p>
-</div>
-]]></content:encoded>
-    </item>
-    <item>
       <title>开始</title>
       <link>https://korepi.com/zh/start/</link>
       <guid>https://korepi.com/zh/start/</guid>
       <source url="https://korepi.com/zh/rss.xml">开始</source>
-      <description>目录加入服务器 (join.md); 验证 (verify.md); 获取 Fans 角色 (sign-in.md); 捐赠 (donate.md); 下载 (download.md); 如何设置Korepi中文 (setting-language-zh.md); Korepi中文公告 (news.md);</description>
+      <description>目录加入服务器 (join.md); 验证 (verify.md); 下载 (download.md); 如何设置Korepi中文 (setting-language-zh.md); Korepi中文公告 (news.md);</description>
       <category>指南</category>
       <pubDate>Fri, 24 Nov 2023 14:31:46 GMT</pubDate>
       <content:encoded><![CDATA[<h2> 目录</h2>
@@ -1958,12 +1928,6 @@ C1: ?  C2: ?  C3: ?  C4: ?  C5: ?  C6: ?</li>
 </li>
 <li>
 <p><a href="/zh/start/verify.html" target="blank">验证</a></p>
-</li>
-<li>
-<p><a href="/zh/start/sign-in.html" target="blank">获取 Fans 角色</a></p>
-</li>
-<li>
-<p><a href="/zh/start/donate.html" target="blank">捐赠</a></p>
 </li>
 <li>
 <p><a href="/zh/start/download.html" target="blank">下载</a></p>
@@ -1999,58 +1963,6 @@ C1: ?  C2: ?  C3: ?  C4: ?  C5: ?  C6: ?</li>
 <li>粘贴邀请链接并点击 "加入"。</li>
 </ol>
 <p>如果邀请链接无效，可能服务器暂时关闭。请等待它重新开放。现在您可以继续下一步。</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>获取Fans身份和签到</title>
-      <link>https://korepi.com/zh/start/sign-in.html</link>
-      <guid>https://korepi.com/zh/start/sign-in.html</guid>
-      <source url="https://korepi.com/zh/rss.xml">获取Fans身份和签到</source>
-      <description>简介: 欢迎来到我们的社区！要注册并获取“Fans”角色，请按照以下步骤操作。 1.加入我们的服务器并获取“Newcomer”角色（如果您尚未加入）。 如果您还没有加入服务器，点击查看教程 (verify.md)，其中描述了如何加入服务器并获取“Newcomer”角色。 2.确认Discord隐私设置里的允许任何人私信是否为开启状态 。 3.@mica...</description>
-      <category>指南</category>
-      <pubDate>Fri, 24 Nov 2023 14:31:46 GMT</pubDate>
-      <content:encoded><![CDATA[<hr>
-<h2> 简介:</h2>
-<h2> 欢迎来到我们的社区！要注册并获取“Fans”角色，请按照以下步骤操作。</h2>
-<h2> 1.加入我们的服务器并获取“Newcomer”角色（如果您尚未加入）。</h2>
-<h2> 如果您还没有加入服务器，<a href="/zh/start/verify.html" target="blank">点击查看教程</a>，其中描述了如何加入服务器并获取“Newcomer”角色。</h2>
-<h2> 2.确认Discord隐私设置里的允许任何人私信是否为开启状态 。</h2>
-<p></p>
-<p></p>
-<hr>
-<h2> 3.@micah-sign-bot  连续7天私信这鸭子,先输入/start，点击/sign-in 。</h2>
-<ul>
-<li><span style="color:red;">找到Micah-sign-bot，私聊他发送/start指令。</span></li>
-</ul>
-<p></p>
-<ul>
-<li><span style="color:red;">输入/start后会弹出指令，选择指令</span>。</li>
-</ul>
-<p></p>
-<ul>
-<li><span style="color:red;">然后点击/sign-in </span>。</li>
-</ul>
-<hr>
-<h2> 4.正确输入验证码以完成签到（答复时的验证码不区分大小写）</h2>
-<p>它回复Consecutive 1 days代表成功签到。
-它没回复代表验证码错误，timeout就再用一遍签到指令</p>
-<p>请持续换个组合输入直到它给予答复</p>
-<div class="hint-container tip">
-<p class="hint-container-title">最容易出错的字符</p>
-<p>1 i/I l/L</p>
-<p>0 o/O</p>
-<p>9 q</p>
-<p>a x</p>
-<p>2 z</p>
-</div>
-<hr>
-<h2> 5.成功签到会得到回复，首次/第一天将会得到 Consecutive 1 days。</h2>
-<p></p>
-<p>会提醒你还需要签到几天获得fans身份。</p>
-<div class="hint-container tip">
-<p class="hint-container-title">签到每日北京时间午夜12点刷新</p>
-<p>连续签到7天 即可获得Fan身份（赞助者只需3天或⁠ticket-start⁠ 发工单 ）</p>
-</div>
 ]]></content:encoded>
     </item>
     <item>
@@ -2096,11 +2008,11 @@ C1: ?  C2: ?  C3: ?  C4: ?  C5: ?  C6: ?</li>
       <link>https://korepi.com/zh/guide/</link>
       <guid>https://korepi.com/zh/guide/</guid>
       <source url="https://korepi.com/zh/rss.xml">指南</source>
-      <description>验证教程 (key-use.md); 如何多开Korepi (Multi-korepi.md); 配置文件的切换 (config-change.md); 自定义传送的使用指南 (custom-tp-setting.md); esp调配设置 (esp-setting.md); Korepi与3DM同时运行教程 (3DM-tutorial.md)...</description>
+      <description>使用教程 (key-use.md); 如何多开Korepi (Multi-korepi.md); 配置文件的切换 (config-change.md); 自定义传送的使用指南 (custom-tp-setting.md); esp调配设置 (esp-setting.md); Korepi与3DM同时运行教程 (3DM-tutorial.md)...</description>
       <category>指南</category>
       <pubDate>Mon, 20 Nov 2023 11:28:37 GMT</pubDate>
       <content:encoded><![CDATA[<ul>
-<li><a href="/zh/guide/key-use.html" target="blank">验证教程</a></li>
+<li><a href="/zh/guide/key-use.html" target="blank">使用教程</a></li>
 <li><a href="/zh/guide/Multi-korepi.html" target="blank">如何多开Korepi</a></li>
 <li><a href="/zh/guide/config-change.html" target="blank">配置文件的切换</a></li>
 <li><a href="/zh/guide/custom-tp-setting.html" target="blank">自定义传送的使用指南</a></li>
