@@ -66,6 +66,11 @@ export default defineUserConfig({
             title: "Korepi",
             description: "Korepiに関するヘルプ",
         },
+        "/tr/": {
+            lang: "tr",
+            title: "Korepi",
+            description: "Korepiに関するヘルプ",
+        },
     },
     plugins: [
         docsearchPlugin({
@@ -401,6 +406,47 @@ export default defineUserConfig({
                         },
                     },
                 },
+                "/vi/": {
+                    placeholder: "Tìm Kiếm",
+                    translations: {
+                        button: {
+                            buttonText: "Tìm Kiếm",
+                            buttonAriaLabel: "Tìm Kiếm",
+                        },
+                        modal: {
+                            searchBox: {
+                                resetButtonTitle: "Xoá Tiêu Chí Tìm Kiếm",
+                                resetButtonAriaLabel: "Xoá Tiêu Chí Tìm Kiếm",
+                                cancelButtonText: "Quay Lại",
+                                cancelButtonAriaLabel: "Quay Lại",
+                            },
+                            startScreen: {
+                                recentSearchesTitle: "Lịch Sử Tìm Kiếm",
+                                noRecentSearchesText: "Không có lịch sử tìm kiếm",
+                                saveRecentSearchButtonTitle: "Lưu vào Lịch Sử Tìm Kiếm",
+                                removeRecentSearchButtonTitle: "Xoá khỏi Lịch Sử Tìm Kiếm",
+                                favoriteSearchesTitle: "Mục Yêu Thích",
+                                removeFavoriteSearchButtonTitle: "Xoá khỏi Mục Yêu Thích",
+                            },
+                            errorScreen: {
+                                titleText: "Lấy Kết Quả Thất Bại",
+                                helpText: "Hãy kiểm tra kết nối mạng của bạn và tài nguyên được yêu cầu.",
+                            },
+                            footer: {
+                                selectText: "Lựa Chọn",
+                                navigateText: "Chuyển Đổi",
+                                closeText: "Đóng",
+                                searchByText: "Sử dụng tìm kiếm",
+                            },
+                            noResultsScreen: {
+                                noResultsText: "Chẳng tìm thấy gì cả:",
+                                suggestedQueryText: "Bạn có thể thử tìm kiếm một thứ khác",
+                                reportMissingResultsText: "Bạn có nghĩ rằng cuộc tìm kiếm này nên trả về vài kết quả :> ?",
+                                reportMissingResultsLinkText: "Liên hệ chúng tôi",
+                            },
+                        },
+                    },
+                },
                 "/jp/": {
                     placeholder: "検索",
                     translations: {
@@ -442,6 +488,47 @@ export default defineUserConfig({
                         },
                     },
                 },
+                "/tr/": {
+                    placeholder: "Search",
+                    translations: {
+                        button: {
+                            buttonText: "Search",
+                            buttonAriaLabel: "Search",
+                        },
+                        modal: {
+                            searchBox: {
+                                resetButtonTitle: "Clear Search Criteria",
+                                resetButtonAriaLabel: "Clear Search Criteria",
+                                cancelButtonText: "Back",
+                                cancelButtonAriaLabel: "Back",
+                            },
+                            startScreen: {
+                                recentSearchesTitle: "Search History",
+                                noRecentSearchesText: "No search history",
+                                saveRecentSearchButtonTitle: "Save to Search History",
+                                removeRecentSearchButtonTitle: "Remove from Search History",
+                                favoriteSearchesTitle: "Favorites",
+                                removeFavoriteSearchButtonTitle: "Remove from Favorites",
+                            },
+                            errorScreen: {
+                                titleText: "Failed to Retrieve Results",
+                                helpText: "Check your internet connection and the requested resource.",
+                            },
+                            footer: {
+                                selectText: "Select",
+                                navigateText: "Toggle",
+                                closeText: "Close",
+                                searchByText: "We use search",
+                            },
+                            noResultsScreen: {
+                                noResultsText: "Couldn't find anything for your query:",
+                                suggestedQueryText: "You can try a different query",
+                                reportMissingResultsText: "Do you think this query should yield some results :> ?",
+                                reportMissingResultsLinkText: "Contact us",
+                            },
+                        },
+                    },
+                },
             },
         }),
         redirectPlugin({
@@ -458,6 +545,7 @@ export default defineUserConfig({
                 "/vi/": ["vi-VN", "vi"],
                 "/pt/": ["pt-PT", "pt-BR", "pt"],
                 "/ko/": ["ko", "ko-KR"],
+                "/tr/": ["tr", "tr-TR"],
                 "/jp/": ["ja-JP","jp-JP", "jp"],
                 "/ar/": ["ar", "ar-MA", "ar-SA", "ar-PS", "ar-DZ", "ar-BH", "ar-TD", "ar-KM", "ar-JO", "ar-EG", "ar-IQ", "ar-KW", "ar-LB", "ar-LY", "ar-MR", "ar-OM", "ar-QA", "ar-SO", "ar-SD", "ar-SY", "ar-TN", "ar-AE", "ar-YE",],
             },

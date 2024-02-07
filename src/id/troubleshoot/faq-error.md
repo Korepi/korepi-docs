@@ -118,3 +118,8 @@ Ulang nyalakan komputer, ulang nyalakan router.
 
 Jika tidak berhasil, coba menggunakan VPN.
 
+### Current data does not exist or server error.
+
+![](/assets/images/docs/202312/error.png)
+
+Unpause your license and try again.

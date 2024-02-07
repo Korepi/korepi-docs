@@ -147,3 +147,9 @@ order: 2
 
 إذا تكرر الخطأ، يمكنك إجراء إعادة ضبط المصنع لنظام التشغيل Windows.
 
+### Current data does not exist or server error.
+
+![](/assets/images/docs/202312/error.png)
+
+Unpause your license and try again.
+

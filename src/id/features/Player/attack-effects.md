@@ -17,7 +17,7 @@ order: 1
 - Mengubah jumlah serangan yang akan diterima oleh target.
 > Catatan: Tidak disarankan nilainya melebihi `5`.
 ### Multi-Target:
-- Memukul semua target dalam radius tertentu yang telah ditentukan dari target yang terkena.
+- Menyerang semua target dalam radius tertentu yang telah ditentukan dari target yang utama.
 >  Catatan: Tidak disarankan untuk mengubah pengaturan bawaan.
 ### Multi-Animation:
 - Mengubah jumlah berapa kali karakter melakukan suatu aksi.
@@ -28,7 +28,7 @@ order: 1
 ### Custom Element:
 - Mengubah elemen dari semua serangan yang keluar.
 ### Infuse Element:
-- Mengubah elemen dari serangan normal dari senjata pedang, tombak, dan pedang besar.
+- Mengubah elemen dari serangan normal senjata pedang, tombak, dan pedang besar.
 ### Auto Weakspot:
 - Mengenai titik lemah target sehingga memicu serangan kritis, `hanya berfungsi dengan pengguna panah`.
 ### Critical Hit (Sponsor!):

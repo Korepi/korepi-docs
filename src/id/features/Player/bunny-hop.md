@@ -11,7 +11,7 @@ order: 3
 ::: info Hanya Untuk Sponsor!
 :::
 ---
-## Bunny Hop akan melompat secara otomatis setelah lompatan pertama ketika diaktifkan.
+## Bunny Hop akan melompat secara otomatis setelah lompatan pertama diaktifkan.
 
 ## Video Contoh:
 
