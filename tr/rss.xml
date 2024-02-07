@@ -6,44 +6,45 @@
     <link>https://korepi.com/tr/</link>
     <description>Korepi Yardım Bölümü</description>
     <language>tr</language>
-    <pubDate>Wed, 07 Feb 2024 08:49:30 GMT</pubDate>
-    <lastBuildDate>Wed, 07 Feb 2024 08:49:30 GMT</lastBuildDate>
+    <pubDate>Wed, 07 Feb 2024 08:49:44 GMT</pubDate>
+    <lastBuildDate>Wed, 07 Feb 2024 08:49:44 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-    <category>Guide</category>
-    <category>FAQ</category>
+    <category>Kılavuzlar</category>
+    <category>SSS</category>
     <category>Features</category>
-    <category>Troubleshoot</category>
+    <category>Guide</category>
+    <category>SorunlarHakkında</category>
     <category>Özellikler</category>
     <item>
-      <title>Free Version</title>
+      <title>Bedava Versiyon</title>
       <link>https://korepi.com/tr/guide/free.html</link>
       <guid>https://korepi.com/tr/guide/free.html</guid>
-      <source url="https://korepi.com/tr/rss.xml">Free Version</source>
-      <description>How to get the free license for Korepi. Step 1: Find the ★⋅micah-bot-verify⋅★ channel direct link (https://discord.com/channels/1069057220802781265/1203687333107335198); img.png...</description>
-      <category>Guide</category>
+      <source url="https://korepi.com/tr/rss.xml">Bedava Versiyon</source>
+      <description>Korepi için ücretsiz lisans nasıl alınır? Adım 1: ★⋅micah-bot-verify⋅★ kanalını bulun doğrudan bağlantı (https://discord.com/channels/1069057220802781265/1203687333107335198); i...</description>
+      <category>Kılavuzlar</category>
       <pubDate>Wed, 07 Feb 2024 00:26:57 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> How to get the free license for Korepi.</h2>
-<h3> Step 1:</h3>
+      <content:encoded><![CDATA[<h2> Korepi için ücretsiz lisans nasıl alınır?</h2>
+<h3> Adım 1:</h3>
 <ul>
 <li>
-<p>Find the <code>★⋅micah-bot-verify⋅★</code> channel <a href="https://discord.com/channels/1069057220802781265/1203687333107335198" target="_blank" rel="noopener noreferrer">direct link</a></p>
+<p><code>★⋅micah-bot-verify⋅★</code> kanalını bulun <a href="https://discord.com/channels/1069057220802781265/1203687333107335198" target="_blank" rel="noopener noreferrer">doğrudan bağlantı</a></p>
 <p><img src="/assets/images/docs/202402/verify-1.png" alt="img.png" loading="lazy"></p>
 </li>
 <li>
-<p>Find the message sent by Micah-bot</p>
+<p>Micah-bot tarafından gönderilen mesajı bulun</p>
 </li>
 </ul>
-<h3> Step 2:</h3>
-<p>Click on <code>Bind free card</code>, follow the provide link by the bot after clicking on it, watch the ad and skip it.</p>
-<h3> Step 3:</h3>
-<p>If the bind message shows <code>Success</code>, you have successfully finished claiming the license, if it doesn't show as <code>Success</code>, repeat from the first step.</p>
-<h3> Step 4:</h3>
-<p>Launch the injector to obtain your <code>HWID</code>, after that head to <code>★⋅micah-bot-verify⋅★</code> again and click on <code>Get verification file</code> and paste in your <code>HWID</code>.</p>
-<p>After clicking on submit you will receive a file from the bot, download it and place it on your Korepi folder. Make sure the name is <code>enc.json</code>.</p>
-<h3> Step 5:</h3>
-<p>Launch the injector again and follow the instructions provide in the cmd.</p>
-<p>Enjoy Korepi!</p>
+<h3> Adım 2:</h3>
+<p><code>Bind free card</code> tıklayın, tıkladıktan sonra bot tarafından sağlanan bağlantıyı takip edin, reklamı izleyin ve atlayın.</p>
+<h3> Adım 3:</h3>
+<p>Bağlama mesajı <code>Success</code> gösteriyorsa, lisans talebini başarıyla tamamladınız demektir, <code>Success</code> göstermiyorsa, ilk adımdan itibaren tekrarlayın.</p>
+<h3> Adım 4:</h3>
+<p><code>HWID</code>, almak için enjektörü başlatın, ardından tekrar <code>★⋅micah-bot-verify⋅★</code> adresine gidin ve <code>Get verification file</code> seçeneğine tıklayın ve <code>HWID</code>'nizi yapıştırın..</p>
+<p>Gönder'e tıkladıktan sonra bottan bir dosya alacaksınız, dosyayı indirin ve Korepi klasörünüze yerleştirin. Adının <code>enc.json</code> olduğundan emin olun.</p>
+<h3> Adım 5:</h3>
+<p>Enjektörü tekrar başlatın ve cmd'de verilen talimatları izleyin.</p>
+<p>Korepi'nin tadını çıkarın!</p>
 ]]></content:encoded>
       <enclosure url="https://korepi.com/assets/images/docs/202402/verify-1.png" type="image/png"/>
     </item>
@@ -53,7 +54,7 @@
       <guid>https://korepi.com/tr/start/differences.html</guid>
       <source url="https://korepi.com/tr/rss.xml">Versiyonlar arasındaki farklar</source>
       <description>V ve F versiyonları arasındaki temel farklar Versiyon F VersiyonV Versyion --------------------- ÖzellikleriAynıAynı Güncelleme BildirimiX✓ Çoklu-Örnek (../guide/multi-instance....</description>
-      <category>Guide</category>
+      <category>Kılavuzlar</category>
       <pubDate>Sat, 13 Jan 2024 00:53:24 GMT</pubDate>
       <content:encoded><![CDATA[<h1> V ve F versiyonları arasındaki farklar.</h1>
 <h2> V ve F versiyonları arasındaki temel farklar</h2>
@@ -108,7 +109,7 @@
       <guid>https://korepi.com/tr/guide/virus.html</guid>
       <source url="https://korepi.com/tr/rss.xml">Dışlamalara ekleme</source>
       <description>anti virüslerde aşamalar farklı olabilir! Korepiyi dışlamalar listesine nasıl ekleyebilirsiniz? (Windows Defender) 1. Aşama: Antivirüsü açma Arama çubuğuna Windows Güvenliği Yaz...</description>
-      <category>Guide</category>
+      <category>Kılavuzlar</category>
       <pubDate>Sat, 23 Dec 2023 17:10:07 GMT</pubDate>
       <content:encoded><![CDATA[<h2> ::: Başka anti virüslerde aşamalar farklı olabilir!
 :::</h2>
@@ -135,7 +136,7 @@
       <guid>https://korepi.com/tr/troubleshoot/faq.html</guid>
       <source url="https://korepi.com/tr/rss.xml">Çok Sorulanlar</source>
       <description>En Sorulanlar Listesi Korepi Ücretsiz mi? Evet, ücretsizdir, ilk kez almak için 7 günlük bir deneme yapmanız gerekir Kayıt-olma (../start/sign-in.md), bunu şu şekilde atlayabili...</description>
-      <category>FAQ</category>
+      <category>SSS</category>
       <pubDate>Tue, 19 Dec 2023 17:09:24 GMT</pubDate>
       <content:encoded><![CDATA[<h2> En Sorulanlar Listesi</h2>
 <h3> Korepi Ücretsiz mi?</h3>
@@ -202,146 +203,144 @@
 ]]></content:encoded>
     </item>
     <item>
-      <title>Install Skins</title>
+      <title>Görünüm İndirme</title>
       <link>https://korepi.com/tr/guide/3DM-skin.html</link>
       <guid>https://korepi.com/tr/guide/3DM-skin.html</guid>
-      <source url="https://korepi.com/tr/rss.xml">Install Skins</source>
-      <description>How to install custom Skins in GIMI Step 1: Download the Skin Head to Gamebanana (https://gamebanana.com/games/8552) and download a skin of your choice. Step 2: Install the Skin...</description>
-      <category>Guide</category>
+      <source url="https://korepi.com/tr/rss.xml">Görünüm İndirme</source>
+      <description>GIMI Özel Görünümler nasıl yüklenir Adım 1: Görünümü İndirin Gamebanana (https://gamebanana.com/games/8552) adresine gidin ve istediğiniz bir görünümü indirin. Adım 2: Görünümü ...</description>
+      <category>Kılavuzlar</category>
       <pubDate>Tue, 19 Dec 2023 12:28:02 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> How to install custom Skins in <code>GIMI</code></h2>
-<h3> Step 1: Download the Skin</h3>
-<p>Head to <a href="https://gamebanana.com/games/8552" target="_blank" rel="noopener noreferrer">Gamebanana</a> and download a skin of your choice.</p>
-<h3> Step 2: Install the Skin</h3>
-<p>We will head to our <code>GIMI</code> folder and look for <code>Mods</code> folder, inside that folder we will extract the file we just downloaded.</p>
-<h3> Step 3: Apply the skin</h3>
-<p>If we are already inside the game we will use <code>F10</code> to reload the Skins, if not, we will open the game following the <a href="/tr/guide/3DM-tutorial.html" target="blank">last post</a> and the skin should be applied.</p>
+      <content:encoded><![CDATA[<h2> <code>GIMI</code> Özel Görünümler nasıl yüklenir</h2>
+<h3> Adım 1: Görünümü İndirin</h3>
+<p><a href="https://gamebanana.com/games/8552" target="_blank" rel="noopener noreferrer">Gamebanana</a> adresine gidin ve istediğiniz bir görünümü indirin.</p>
+<h3> Adım 2: Görünümü Yükleyin</h3>
+<p><code>GIMI</code> klasörümüze gideceğiz ve <code>Mods</code> klasörünü arayacağız, bu klasörün içinde az önce indirdiğimiz dosyayı çıkaracağız.</p>
+<h3> Adım 3: Görünümü uygulayın</h3>
+<p>Zaten oyunun içindeysek, Kaplamaları yeniden yüklemek için <code>F10</code> kullanacağız, değilse, <a href="/tr/guide/3DM-tutorial.html" target="blank">Son Gönderi</a> 'yi izleyerek oyunu açacağız ve görünüm uygulanmalıdır.</p>
 ]]></content:encoded>
     </item>
     <item>
-      <title>How to use custom skins</title>
+      <title>Özel görünümler nasıl kullanılır?</title>
       <link>https://korepi.com/tr/guide/3DM-tutorial.html</link>
       <guid>https://korepi.com/tr/guide/3DM-tutorial.html</guid>
-      <source url="https://korepi.com/tr/rss.xml">How to use custom skins</source>
-      <description>If GIMI shows echo off on the cmd, you can just press Numpad 0 to remove it, you can also edit d3dx.ini and search for hunting= and set to 0. How to use custom Skins in Korepi I...</description>
-      <category>Guide</category>
+      <source url="https://korepi.com/tr/rss.xml">Özel görünümler nasıl kullanılır?</source>
+      <description>Eğer GIMI cmd üzerinde echo off gösteriyorsa, bunu kaldırmak için sadece Numpad 0a basabilirsiniz, ayrıca d3dx.ini dosyasını düzenleyebilir ve hunting= araması yapabilir ve 0 ol...</description>
+      <category>Kılavuzlar</category>
       <pubDate>Tue, 19 Dec 2023 12:28:02 GMT</pubDate>
       <content:encoded><![CDATA[<div class="hint-container info">
-<p class="hint-container-title">If GIMI shows `echo off` on the cmd, you can just press `Numpad 0` to remove it, you can also edit `d3dx.ini` and search for `hunting=` and set to `0`.</p>
+<p class="hint-container-title">Eğer GIMI cmd üzerinde `echo off` gösteriyorsa, bunu kaldırmak için sadece `Numpad 0`a basabilirsiniz, ayrıca `d3dx.ini` dosyasını düzenleyebilir ve `hunting=` araması yapabilir ve `0` olarak ayarlayabilirsiniz.</p>
 </div>
 <hr>
-<h2> How to use custom Skins in Korepi</h2>
+<h2> Korepi'de Özel Görünümler Nasıl Kullanılır</h2>
 <p><img src="/assets/images/docs/202312/example.png" alt="" loading="lazy">
-In order to use custom skins in we will need to download:</p>
+Özel görünümleri kullanmak için indirmemiz gerekecek:</p>
 <p><code>3DMigoto(GIMI)</code>.</p>
-<h2> <span style="color:blue;">Method 1</span></h2>
-<h3> Step 1: Download <code>GIMI</code></h3>
-<p>Download <code>GIMI</code> in their oficial <a href="https://github.com/SilentNightSound/GI-Model-Importer/releases/tag/v7.0" target="_blank" rel="noopener noreferrer">Github</a> and download the file named: <code>3dmigoto-GIMI-for-playing-mods.zip</code>.</p>
+<h2> <span style="color:blue;">1. Yöntem</span></h2>
+<h3> Adım 1: <code>GIMI</code> indir</h3>
+<p>Resmi <a href="https://github.com/SilentNightSound/GI-Model-Importer/releases/tag/v7.0" target="_blank" rel="noopener noreferrer">Github</a> adresinden <code>GIMI</code> dosyasını indirin ve <code>3dmigoto-GIMI-for-playing-mods.zip</code> adlı dosyayı indirin.</p>
 <p><img src="/assets/images/docs/202312/3dm-1.png" alt="" loading="lazy"></p>
-<h3> Step 2: Extract <code>GIMI</code> into a folder</h3>
-<p>After downloading <code>GIMI</code>, we will need to extract it into any folder of your choice, inside that folder you will find <code>d3d11.dll</code>, we will copy the path and add <code>/d3d11.dll</code> to the end, for example:</p>
+<h3> Adım 2: <code>GIMI</code>yi bir klasöre çıkarın</h3>
+<p><code>GIMI</code> yi indirdikten sonra, istediğiniz herhangi bir klasöre çıkarmamız gerekecek, bu klasörün içinde <code>d3d11.dll</code> bulacaksınız, yolu kopyalayacağız ve sonuna <code>/d3d11.dll</code> ekleyeceğiz, örneğin:</p>
 <p><code>"path/d3d11.dll"</code></p>
-<h3> Step 3: Add <code>GIMI</code> to Korepi</h3>
-<p>To do this we will need to add the next lines in <code>cfg.ini</code> inside korepi folder.</p>
+<h3> Adım 3: Korepi'ye <code>GIMI</code> ekleyin</h3>
+<p>Bunu yapmak için korepi klasörü içindeki <code>cfg.ini</code> dosyasına aşağıdaki satırları eklememiz gerekecektir.</p>
 <p><img src="/assets/images/docs/202312/3dm-2.png" alt="" loading="lazy"></p>
-<p>On <code>DllPath</code> we will paste the path we copied in the last step.</p>
+<p><code>DllPath</code> üzerine son adımda kopyaladığımız yolu yapıştıracağız.</p>
 <p><img src="/assets/images/docs/202312/3dm-3.png" alt="" loading="lazy"></p>
-<h3> Step 4: Open Korepi</h3>
-<p>If you followed the steps right, Korepi should launch with <code>GIMI</code> every time.</p>
-<h2> <span style="color:blue;">Method 2</span></h2>
-<h3> Step 1: Download <code>GIMI</code></h3>
-<p>Download <code>GIMI</code> in their oficial <a href="https://github.com/SilentNightSound/GI-Model-Importer/releases/tag/v7.0" target="_blank" rel="noopener noreferrer">Github</a> and download the file named: <code>3dmigoto-GIMI-for-playing-mods.zip</code>.</p>
+<h3> Adım 4: Korepi'yi açın</h3>
+<p>Eğer adımları doğru takip ettiyseniz, Korepi her seferinde <code>GIMI</code> ile başlamalıdır.</p>
+<h2> <span style="color:blue;">2. Yöntem</span></h2>
+<h3> Adım 1: <code>GIMI</code> indir</h3>
+<p>Resmi <a href="https://github.com/SilentNightSound/GI-Model-Importer/releases/tag/v7.0" target="_blank" rel="noopener noreferrer">Github</a> adresinden <code>GIMI</code> dosyasını indirin ve <code>3dmigoto-GIMI-for-playing-mods.zip</code> adlı dosyayı indirin.</p>
 <p><img src="/assets/images/docs/202312/3dm-1.png" alt="" loading="lazy"></p>
-<h3> Step 2: Extract <code>GIMI</code> into a folder</h3>
-<p>After downloading <code>GIMI</code>, we will need to extract it into any folder of your choice, inside that folder you will find <code>3DMigoto Loader.exe</code>, we will run this file first.</p>
-<h3> Step 4: Open Korepi</h3>
-<p>After running <code>GIMI</code>, we will run Korepi, <code>GIMI</code> will be loaded with Korepi after this, you will need to repeat these steps every time you want to launch Korepi with <code>GIMI</code>.</p>
+<h3> Adım 2: <code>GIMI</code>yi bir klasöre çıkarın</h3>
+<p><code>GIMI</code> yi indirdikten sonra, istediğiniz herhangi bir klasöre çıkarmamız gerekecek, bu klasörün içinde <code>3DMigoto Loader.exe</code> bulacaksınız, önce bu dosyayı çalıştıracağız.</p>
+<h3> Adım 4: Korepi'yi açın</h3>
+<p><code>GIMI</code> yi çalıştırdıktan sonra Korepi'yi çalıştıracağız, <code>GIMI</code> bundan sonra Korepi ile birlikte yüklenecektir, Korepi'yi <code>GIMI</code> ile her başlatmak istediğinizde bu adımları tekrarlamanız gerekecektir.</p>
 ]]></content:encoded>
       <enclosure url="https://korepi.com/assets/images/docs/202312/example.png" type="image/png"/>
     </item>
     <item>
-      <title>Talimatlar</title>
+      <title>Adımlar</title>
       <link>https://korepi.com/tr/guide/</link>
       <guid>https://korepi.com/tr/guide/</guid>
-      <source url="https://korepi.com/tr/rss.xml">Talimatlar</source>
-      <category>Guide</category>
+      <source url="https://korepi.com/tr/rss.xml">Adımlar</source>
+      <category>Kılavuzlar</category>
       <pubDate>Tue, 19 Dec 2023 12:28:02 GMT</pubDate>
     </item>
     <item>
-      <title>How to use Custom TP</title>
+      <title>Özel TP nasıl kullanılır</title>
       <link>https://korepi.com/tr/guide/custom-tp-setting.html</link>
       <guid>https://korepi.com/tr/guide/custom-tp-setting.html</guid>
-      <source url="https://korepi.com/tr/rss.xml">How to use Custom TP</source>
-      <description>How to use custom TP Step 1: Settings to use We will use the following settings. The recommended delay time is &amp;gt;15s. Step 2: Download the .json files for the custom tp We can fi...</description>
-      <category>Guide</category>
+      <source url="https://korepi.com/tr/rss.xml">Özel TP nasıl kullanılır</source>
+      <description>Özel TP nasıl kullanılır Adım 1: Kullanılacak ayarlar Aşağıdaki ayarları kullanacağız. Önerilen gecikme süresi &amp;gt;15 saniyedir. Adım 2: Özel TP için .json dosyalarını indirin Bu d...</description>
+      <category>Kılavuzlar</category>
       <pubDate>Tue, 19 Dec 2023 12:28:02 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> How to use custom TP</h2>
-<h3> Step 1: Settings to use</h3>
-<p>We will use the following settings.</p>
+      <content:encoded><![CDATA[<h2> Özel TP nasıl kullanılır</h2>
+<h3> Adım 1: Kullanılacak ayarlar</h3>
+<p>Aşağıdaki ayarları kullanacağız.</p>
 <p><img src="/assets/images/docs/202312/teleport1.png" alt="" loading="lazy"></p>
-<p>The recommended delay time is &gt;15s.</p>
-<h3> Step 2: Download the <code>.json</code> files for the custom tp</h3>
-<p>We can find these files in <code>community-share</code> pinned post in the server. Download the ones that suits your needs.</p>
-<h3> Step 3: Select the tp files</h3>
-<p>Head to custom tp settings and go to this section:</p>
+<p>Önerilen gecikme süresi &gt;15 saniyedir.</p>
+<h3> Adım 2: Özel TP için <code>.json</code> dosyalarını indirin</h3>
+<p>Bu dosyaları sunucuda <code>community-share</code> sabitlenmiş yazısında bulabiliriz. İhtiyaçlarınıza uygun olanları indirin.</p>
+<h3> Adım 3: TP dosyalarını seçin</h3>
+<p>Özel TP ayarlarına gidin ve bu bölüme geçin:</p>
 <p><img src="/assets/images/docs/202312/teleport2.png" alt="" loading="lazy"></p>
-<p>Click on select path and select the folder containing the tp files you want to use.</p>
-<h3> Step 4: How to start the tps</h3>
-<p>After selecting the folder, check this checkbox:</p>
+<p>Yol seç üzerine tıklayın ve kullanmak istediğiniz TP dosyalarını içeren klasörü seçin.</p>
+<h3> Adım 4: TP nasıl başlatılır</h3>
+<p>Klasörü seçtikten sonra bu onay kutusunu işaretleyin:</p>
 <p><img src="/assets/images/docs/202312/teleport3.png" alt="" loading="lazy"></p>
-<p>After that we click on <code>Select</code>:</p>
+<p>Bundan sonra <code>Select</code> seçeneğine tıklıyoruz:</p>
 <p><img src="/assets/images/docs/202312/teleport4.png" alt="" loading="lazy"></p>
-<h3> Step 5: Enjoy the ride</h3>
-<p>The TPs will start automatically, if you got <a href="/tr/start/sponsor.html" target="blank">Sponsor</a>, you will be able to see the progress and remaining time.</p>
-<h2> Video</h2>
+<h3> Adım 5: Yolculuğun tadını çıkarın</h3>
+<p>TP'ler otomatik olarak başlayacaktır, eğer <a href="/tr/start/sponsor.html" target="blank">Sponsor</a> aldıysanız, ilerlemeyi ve kalan süreyi görebileceksiniz.</p>
+<h2> Örnek Video</h2>
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/1ft6xYr2EmM" title="Part 1 - How to Use 'Custom Teleports' in Colorpicker or Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 ]]></content:encoded>
       <enclosure url="https://korepi.com/assets/images/docs/202312/teleport1.png" type="image/png"/>
     </item>
     <item>
-      <title>Verification Tutorial</title>
+      <title>Doğrulama Eğitimi</title>
       <link>https://korepi.com/tr/guide/getkey.html</link>
       <guid>https://korepi.com/tr/guide/getkey.html</guid>
-      <source url="https://korepi.com/tr/rss.xml">Verification Tutorial</source>
-      <description>Verification Tutorial Step 1: Find the ★⋅micah-bot-verify⋅★ channel direct link (https://discord.com/channels/1069057220802781265/1203687333107335198); img.png Find the message ...</description>
-      <category>Guide</category>
+      <source url="https://korepi.com/tr/rss.xml">Doğrulama Eğitimi</source>
+      <description>Doğrulama Eğitimi Adım 1: ★⋅micah-bot-verify⋅★ kanalını bulun doğrudan bağlantı (https://discord.com/channels/1069057220802781265/1203687333107335198); img.png Micah-bot tarafın...</description>
+      <category>Kılavuzlar</category>
       <pubDate>Tue, 19 Dec 2023 12:28:02 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Verification Tutorial</h2>
-<h3> Step 1:</h3>
+      <content:encoded><![CDATA[<h2> Doğrulama Eğitimi</h2>
+<h3> Adım 1:</h3>
 <ul>
 <li>
-<p>Find the <code>★⋅micah-bot-verify⋅★</code> channel <a href="https://discord.com/channels/1069057220802781265/1203687333107335198" target="_blank" rel="noopener noreferrer">direct link</a></p>
+<p><code>★⋅micah-bot-verify⋅★</code> kanalını bulun <a href="https://discord.com/channels/1069057220802781265/1203687333107335198" target="_blank" rel="noopener noreferrer">doğrudan bağlantı</a></p>
 <p><img src="/assets/images/docs/202402/verify-1.png" alt="img.png" loading="lazy"></p>
 </li>
 <li>
-<p>Find the message sent by Micah-bot</p>
+<p>Micah-bot tarafından gönderilen mesajı bulun</p>
 </li>
 </ul>
-<h3> Step 2:</h3>
-<p>For free version follow this <a href="/tr/guide/free.html" target="blank">link</a>.</p>
-<p>If you bought a key from a reseller, click on <code>bind card str</code> and paste in your key.</p>
+<h3> Adım 2:</h3>
+<p>Ücretsiz sürüm için bunu takip edin <a href="/tr/guide/free.html" target="blank">link</a>.</p>
+<p>Bir satıcıdan bir anahtar satın aldıysanız, <code>bind card str</code> seçeneğine tıklayın ve anahtarınızı yapıştırın.</p>
 <div class="hint-container info">
-<p class="hint-container-title">If you are a Sponsor before February 4th, 2024, click "Sponsor Compensation" and enter "YES" to receive 3 months of compensation time, after successfully claiming your "card" follow the next step"</p>
+<p class="hint-container-title">Eğer 4 Şubat 2024'ten önce Sponsor olduysanız, "Sponsor Tazminatı"na tıklayın ve 3 aylık tazminat süresi almak için "EVET" girin, "kartınızı" başarıyla talep ettikten sonra bir sonraki adımı izleyin"</p>
 </div>
-<h3> Step 3:</h3>
-<p>Click <code>Get Verification File</code>, and you need to fill in your <code>HWID (device ID)</code> obtainable after opening the injector once.</p>
+<h3> Adım 3:</h3>
+<p><code>Get Verification File</code>'a, tıklayın ve enjektörü bir kez açtıktan sonra elde edebileceğiniz <code>HWID (device ID)</code>'nizi doldurmanız gerekir.</p>
 <ul>
-<li>You will get a file from the bot, download it and place it on your korepi folder. Make sure the name is <code>enc.json</code>.</li>
+<li>Bottan bir dosya alacaksınız, indirin ve korepi klasörünüze yerleştirin. Adının <code>enc.json</code> olduğundan emin olun.</li>
 </ul>
-<p>You can also click <code>View Subscription Information</code> to view your subscription information.</p>
-<h2> How to pause the key</h2>
-<p>Click on <code>Pause Card</code> and type <code>YES</code> to pause it. You can unpause it anytime and your subscription will continue.</p>
-<div class="hint-container info">
-<p class="hint-container-title">You can only pause the key once every 30 days</p>
-</div>
-<h2> How to change HWID (Device ID)</h2>
-<p>Click on <code>ID(Change HWID)</code>, and paste in the new <code>HWID</code> you get from opening the injector, after that download the new file and place it on your Korepi folder.</p>
-<div class="hint-container info">
-<p class="hint-container-title">You can only reset the HWID once every 7 days</p>
-</div>
-<h2> MD5 Verification Issue</h2>
-<p>Each time you obtain the <code>enc.json</code> file again, the previous <code>enc.json</code> file will become invalid.</p>
-<p>If the new one is still invalid, please obtain the file again. If it still doesn't work, wait for a while and try again.</p>
+<p>Abonelik bilgilerinizi görüntülemek için <code>View Subscription Information</code> seçeneğine de tıklayabilirsiniz.</p>
+<h2> Anahtar nasıl duraklatılır</h2>
+<p><code>Pause Card</code>'a tıklayın ve duraklatmak için <code>YES</code> yazın. İstediğiniz zaman duraklatmayı kaldırabilirsiniz ve aboneliğiniz devam edecektir.</p>
+<p>::: bilgi Anahtarı yalnızca 30 günde bir duraklatabilirsiniz
+:::</p>
+<h2> HWID (Device ID) nasıl değiştirilir</h2>
+<p><code>ID(Change HWID)</code>'ye, tıklayın ve enjektörü açarak elde ettiğiniz yeni <code>HWID</code>'yi yapıştırın, ardından yeni dosyayı indirin ve Korepi klasörünüze yerleştirin.</p>
+<p>::: bilgi HWID'yi yalnızca 7 günde bir sıfırlayabilirsiniz
+:::</p>
+<h2> MD5 Doğrulama Sorunu</h2>
+<p>Her <code>enc.json</code> dosyasını tekrar aldığınızda, önceki <code>enc.json</code> dosyası geçersiz hale gelecektir.</p>
+<p>Yeni dosya hala geçersizse, lütfen dosyayı tekrar edinin. Hala çalışmıyorsa, bir süre bekleyin ve tekrar deneyin.</p>
 ]]></content:encoded>
       <enclosure url="https://korepi.com/assets/images/docs/202402/verify-1.png" type="image/png"/>
     </item>
@@ -351,7 +350,7 @@ In order to use custom skins in we will need to download:</p>
       <guid>https://korepi.com/tr/guide/multi-instance.html</guid>
       <source url="https://korepi.com/tr/rss.xml">Aynı anda iki tane oyun uygulamasını açma</source>
       <description>Aynı anda iki tane oyun uygulamasını açabilirsiniz Local(V) Versiyonunda yapılabilir bir özelliktir</description>
-      <category>Guide</category>
+      <category>Kılavuzlar</category>
       <pubDate>Tue, 19 Dec 2023 12:28:02 GMT</pubDate>
       <content:encoded><![CDATA[<h2> Aynı anda iki tane oyun uygulamasını açabilirsiniz</h2>
 <h2> ::: Sadece Local(V) Versiyonunda yapılabilir bir özelliktir
@@ -373,7 +372,7 @@ In order to use custom skins in we will need to download:</p>
       <guid>https://korepi.com/tr/start/download.html</guid>
       <source url="https://korepi.com/tr/rss.xml">İndirme</source>
       <description>Giriş Topluluğumuza hoş geldiniz! Bot kontrolünü geçmek ve Newcomer rolü için aşağıdaki adımları izleyin. Adım 1: Sunucumuza katılın ve Newcomer ve Fans rollerini edinin. Sunucu...</description>
-      <category>Guide</category>
+      <category>Kılavuzlar</category>
       <pubDate>Tue, 19 Dec 2023 12:28:02 GMT</pubDate>
       <content:encoded><![CDATA[<h1> İndirme</h1>
 <h2> Giriş</h2>
@@ -394,7 +393,7 @@ In order to use custom skins in we will need to download:</p>
       <guid>https://korepi.com/tr/start/join.html</guid>
       <source url="https://korepi.com/tr/rss.xml">Sunucuya Katılma</source>
       <description>Giriş Topluluğumuza hoş geldiniz! Discord sunucusuna katılmak ve Korepi&amp;apos;yi kullanmaya başlamak için aşağıdaki adımları izleyin. Adım 1: Bir Discord Hesabı Oluşturun Henüz bir Di...</description>
-      <category>Guide</category>
+      <category>Kılavuzlar</category>
       <pubDate>Tue, 19 Dec 2023 12:28:02 GMT</pubDate>
       <content:encoded><![CDATA[<h2> Giriş</h2>
 <p>Topluluğumuza hoş geldiniz! Discord sunucusuna katılmak ve Korepi'yi kullanmaya başlamak için aşağıdaki adımları izleyin.</p>
@@ -418,7 +417,7 @@ In order to use custom skins in we will need to download:</p>
       <guid>https://korepi.com/tr/start/sign-in.html</guid>
       <source url="https://korepi.com/tr/rss.xml">Kayıt Olma</source>
       <description>Giriş Topluluğumuza hoş geldiniz! Kaydolmak ve &amp;quot;Fans&amp;quot; rolünü almak için aşağıdaki adımları izleyin. Adım 1: Sunucumuza katılın ve henüz yapmadıysanız &amp;quot;Newcomer&amp;quot; rolünü alın Henü...</description>
-      <category>Guide</category>
+      <category>Kılavuzlar</category>
       <pubDate>Tue, 19 Dec 2023 12:28:02 GMT</pubDate>
       <content:encoded><![CDATA[<h2> Giriş</h2>
 <p>Topluluğumuza hoş geldiniz! Kaydolmak ve "Fans" rolünü almak için aşağıdaki adımları izleyin.</p>
@@ -443,7 +442,7 @@ In order to use custom skins in we will need to download:</p>
       <guid>https://korepi.com/tr/start/sponsor-exclusive.html</guid>
       <source url="https://korepi.com/tr/rss.xml">Sponsorlara Özel Özellikler</source>
       <description>Oyuncu Kritik Vuruş Oranı Olasılıkları (https://www.youtube.com/watch?v=ByucMEL7pXM&amp;list=PL5eI1Tb64p54t7LyUaudX0ume6HbS4ikD&amp;index=1&amp;pp=iAQB); Ekstra Hareket (https://www.youtube...</description>
-      <category>Guide</category>
+      <category>Kılavuzlar</category>
       <pubDate>Tue, 19 Dec 2023 12:28:02 GMT</pubDate>
       <content:encoded><![CDATA[<h3> Oyuncu</h3>
 <ul>
@@ -482,7 +481,7 @@ In order to use custom skins in we will need to download:</p>
       <guid>https://korepi.com/tr/start/sponsor.html</guid>
       <source url="https://korepi.com/tr/rss.xml">Sponsor Olma</source>
       <description>Nasıl Sponsor Olunur? Sponsor, olmak için en az 5$ veya başka bir para birimi kullanıyorsanız eşdeğeri bağışta bulunmanız gerekir. Nereye bağış yapabilirim? Zaten sunucuya girdi...</description>
-      <category>Guide</category>
+      <category>Kılavuzlar</category>
       <pubDate>Tue, 19 Dec 2023 12:28:02 GMT</pubDate>
       <content:encoded><![CDATA[<h2> Nasıl <span style="color:yellow;">Sponsor</span> Olunur?</h2>
 <p><span style="color:yellow;">Sponsor</span>, olmak için en az 5$ veya başka bir para birimi kullanıyorsanız eşdeğeri bağışta bulunmanız gerekir.</p>
@@ -519,7 +518,7 @@ In order to use custom skins in we will need to download:</p>
       <guid>https://korepi.com/tr/start/verify.html</guid>
       <source url="https://korepi.com/tr/rss.xml">Doğrulama</source>
       <description>Giriş Topluluğumuza hoş geldiniz! Bot doğrulamasını geçmek ve &amp;quot;Newcomer&amp;quot; rolünü almak için aşağıdaki adımları izleyin. Adım 1: Henüz yapmadıysanız sunucumuza katılın Henüz sunuc...</description>
-      <category>Guide</category>
+      <category>Kılavuzlar</category>
       <pubDate>Tue, 19 Dec 2023 12:28:02 GMT</pubDate>
       <content:encoded><![CDATA[<h2> Giriş</h2>
 <p>Topluluğumuza hoş geldiniz! Bot doğrulamasını geçmek ve "Newcomer" rolünü almak için aşağıdaki adımları izleyin.</p>
@@ -539,7 +538,7 @@ In order to use custom skins in we will need to download:</p>
       <guid>https://korepi.com/tr/troubleshoot/31-4302.html</guid>
       <source url="https://korepi.com/tr/rss.xml">Hata 31-4302</source>
       <description>31-4302 Hata nasıl çözülür? 1. Yöntem Oyun klasörünüz orijinal olmayan dosyalar içeriyorsa, bu istem sizin için görünebilir. Bir sonraki örnekte olduğu gibi sadece orijinal dosy...</description>
-      <category>Guide</category>
+      <category>Kılavuzlar</category>
       <pubDate>Tue, 19 Dec 2023 12:28:02 GMT</pubDate>
       <content:encoded><![CDATA[<h2> <code>31-4302</code> Hata nasıl çözülür?</h2>
 <p><img src="/assets/images/docs/202312/31-4302.png" alt="" loading="lazy"></p>
@@ -566,7 +565,7 @@ In order to use custom skins in we will need to download:</p>
       <link>https://korepi.com/tr/troubleshoot/</link>
       <guid>https://korepi.com/tr/troubleshoot/</guid>
       <source url="https://korepi.com/tr/rss.xml">Hataların Listesi</source>
-      <category>Troubleshoot</category>
+      <category>SorunlarHakkında</category>
       <pubDate>Tue, 19 Dec 2023 12:28:02 GMT</pubDate>
     </item>
     <item>
@@ -575,7 +574,7 @@ In order to use custom skins in we will need to download:</p>
       <guid>https://korepi.com/tr/troubleshoot/faq-error.html</guid>
       <source url="https://korepi.com/tr/rss.xml">Yaygın İnjektör Hataları</source>
       <description>Yaygın hataların listesi Korepi&amp;apos;m neden kayboluyor? Anti-virüsünüzü devre dışı bıraktığınızdan emin olun, yeni bir klasör oluşturun ve hariç tutulanlara ekleyin. Korepi&amp;apos;yi hariç...</description>
-      <category>Troubleshoot</category>
+      <category>SorunlarHakkında</category>
       <pubDate>Tue, 19 Dec 2023 12:28:02 GMT</pubDate>
       <content:encoded><![CDATA[<h2> Yaygın hataların listesi</h2>
 <h3> Korepi'm neden kayboluyor?</h3>
