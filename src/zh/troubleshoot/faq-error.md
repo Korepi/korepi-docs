@@ -118,3 +118,6 @@ order: 2
 
 如果没有用，尝试使用VPN。
 
+### Current data does not exist or server error.
+
+Unpause your license and try again.

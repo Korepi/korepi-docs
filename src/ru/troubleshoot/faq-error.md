@@ -150,3 +150,7 @@ description: "Частые ошибки."
 После проверки перезагрузите компьютер и попробуйте запустить инжектор снова.
 
 Если ошибка повторяется, вы можете выполнить сброс до заводских настроек Windows.
+
+### Current data does not exist or server error.
+
+Unpause your license and try again.

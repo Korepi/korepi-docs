@@ -147,3 +147,6 @@ After checking restart your computer and try to run colorpicker again.
 
 If the error repeats you can make factory reset of Windows.
 
+### Current data does not exist or server error.
+
+Unpause your license and try again.
