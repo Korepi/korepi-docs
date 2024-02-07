@@ -10,41 +10,41 @@ author: Schvis
 order: 1
 ---
 
-## Hướng Dẫn Xác Thực Key
+## Verification Tutorial
 
-### Bước 1:
-- Đi tới kênh `★⋅micah-bot-verify⋅★` ở server Discord: [Link trực tiếp](https://discord.com/channels/1069057220802781265/1203687333107335198)
+### Step 1:
+- Find the `★⋅micah-bot-verify⋅★` channel [direct link](https://discord.com/channels/1069057220802781265/1203687333107335198)
 
   ![img.png](/assets/images/docs/202402/verify-1.png)
-- Tìm tin nhắn được gửi bởi Micah-bot
-### Bước 2:
-Đối với phiên bản miễn phí, hãy làm theo [hướng dẫn này](free.md).
+- Find the message sent by Micah-bot
+### Step 2:
+For free version follow this [link](free.md).
 
-Nếu như bạn mua key từ reseller, hãy click vào `bind card str` rồi dán key của bạn vào.
+If you bought a key from a reseller, click on `bind card str` and paste in your key.
 
-::: info Nếu như bạn là Nhà Tài Trợ (Sponsor) trước ngày 4 tháng 2 năm 2024, hãy click vào "Sponsor Compensation" rồi nhập "YES" để nhận 3 tháng đền bù. Sau khi nhận "card" thành công, hãy làm bước tiếp theo
+::: info If you are a Sponsor before February 4th, 2024, click "Sponsor Compensation" and enter "YES" to receive 3 months of compensation time, after successfully claiming your "card" follow the next step"
 :::
-### Bước 3:
-Click vào `Get Verification File`, sau đó điền `HWID (device ID)` mà bạn nhận được khi mở Korepi.
-- Bạn sẽ nhận được một file từ bot. Tải nó về rồi đặt vào trong thư mục chứa Korepi. Hãy đảm bảo rằng tên của file phải là `enc.json`.
+### Step 3:
+Click `Get Verification File`, and you need to fill in your `HWID (device ID)` obtainable after opening the injector once.
+- You will get a file from the bot, download it and place it on your korepi folder. Make sure the name is `enc.json`.
 
-Bạn cũng có thể click vào `View Subscription Information` để xem thông tin key hiện tại đang sử dụng.
+You can also click `View Subscription Information` to view your subscription information.
 
-## Hướng Dẫn Tạm Dừng Key
+## How to pause the key
 
-Click vào `Pause Card` và nhập `YES` để tạm dừng thời hạn của key. Bạn có thể ngưng tạm dừng key (unpause) bất cứ khi nào bạn muốn.
+Click on `Pause Card` and type `YES` to pause it. You can unpause it anytime and your subscription will continue.
 
-::: info Bạn chỉ có thể tạm dừng key một lần mỗi 30 ngày.
-:::
-
-## Hướng Dẫn Đổi HWID (Device ID)
-
-Click vào `ID(Change HWID)` rồi sau đó nhập `HWID` mới mà bạn nhận được từ Korepi vào. Tiếp đó hãy tải file và đặt nó vào thư mục chứa Korepi.
-
-::: info Bạn chỉ có thể reset HWID một lần mỗi 7 ngày.
+::: info You can only pause the key once every 30 days
 :::
 
-## Vấn Đề Về Xác Thực MD5
-Mỗi khi bạn nhận file `enc.json` mới thì file `enc.json` bạn nhận trước đó sẽ không còn sử dụng được nữa.
+## How to change HWID (Device ID)
 
-Nếu như cả file mới nhận cũng không thể sử dụng được, hãy thử lấy lại file khác. Nếu vẫn không được, hãy chờ ít phút rồi thử lại.
+Click on `ID(Change HWID)`, and paste in the new `HWID` you get from opening the injector, after that download the new file and place it on your Korepi folder.
+
+::: info You can only reset the HWID once every 7 days
+:::
+
+## MD5 Verification Issue
+Each time you obtain the `enc.json` file again, the previous `enc.json` file will become invalid.
+
+If the new one is still invalid, please obtain the file again. If it still doesn't work, wait for a while and try again.
