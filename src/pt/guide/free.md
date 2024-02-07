@@ -1,35 +1,35 @@
 ---
-title: Free Version
+title: Versão grátis
 icon: key
 category:
-  - Guide
+  - Guia
 tag:
-  - Start
-  - License
-author: Schvis
+  - Inicio
+  - Licença
+author: Sky
 order: 2
 ---
 
-## How to get the free license for Korepi.
+## Como receber a licença grátis do Korepi.
 
-### Step 1:
-- Find the `★⋅micah-bot-verify⋅★` channel [direct link](https://discord.com/channels/1069057220802781265/1203687333107335198)
+### Passo 1:
+- Encontre o canal `★⋅micah-bot-verify⋅★` [link direto](https://discord.com/channels/1069057220802781265/1203687333107335198)
 
   ![img.png](/assets/images/docs/202402/verify-1.png)
-- Find the message sent by Micah-bot
+- Encontre a mensagem enviada por Micah-bot
 
-### Step 2:
-Click on `Bind free card`, follow the provide link by the bot after clicking on it, watch the ad and skip it.
+### Passo 2:
+Clique em `Bind free card`, clique no link enviado pelo bot após isso, então assista o AD e pule ele.
 
-### Step 3:
-If the bind message shows `Success`, you have successfully finished claiming the license, if it doesn't show as `Success`, repeat from the first step.
+### Passo 3:
+Se a mensagem de conexão aparecer `Success`, você recebeu a licença com sucesso, se não aparecer `Success`, repita o primeiro passo.
 
-### Step 4:
-Launch the injector to obtain your `HWID`, after that head to `★⋅micah-bot-verify⋅★` again and click on `Get verification file` and paste in your `HWID`.
+### Passo 4:
+Abra o injetor para receber seu  `HWID`, e então vá em `★⋅micah-bot-verify⋅★` novamente e clique em  `Get verification file` e cole o seu `HWID`.
 
-After clicking on submit you will receive a file from the bot, download it and place it on your Korepi folder. Make sure the name is `enc.json`.
+Depois de clicar em `submit` você receberá um arquivo do bot, instale ele e ponha na pasta do Korepi. Confira se o nome do arquivo está como `enc.json`.
 
-### Step 5:
-Launch the injector again and follow the instructions provide in the cmd.
+### Passo 5:
+Abra o injetor novamente e siga as instruções que aparecerem no cmd
 
-Enjoy Korepi!
+Aproveite o Korepi!
