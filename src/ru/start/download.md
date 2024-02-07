@@ -23,7 +23,7 @@ If you haven't joined the server yet, please read the verification post, which d
 
 ### Step 2: Go to the channel `★⋅korepi-download⋅★`
 
-Locate the channel `★⋅korepi-download⋅★` and follow the link to download the injector.
+Locate the channel `★⋅korepi-download⋅★` and follow the link to download the program.
 
 ### Step 3: Ready!
 
