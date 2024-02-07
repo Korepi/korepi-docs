@@ -18,18 +18,14 @@ order: 7
 
 Welcome to our community! To pass the bot check and receive the `Newcomer` role, follow these steps.
 
-### Step 1: Join our server and obtain the `Newcomer` and `Fans` roles
+### Step 1: Join our server and obtain the `Newcomer` role
 
-If you haven't joined the server yet, please read the verification post, which describes how to join the server and obtain the `Newcomer` and `Fans` roles.
+If you haven't joined the server yet, please read the verification post, which describes how to join the server and obtain the `Newcomer`.
 
-### Step 2: Go to the channel `★⋅korepi-version-roles⋅★`
+### Step 2: Go to the channel `★⋅korepi-download⋅★`
 
-Locate the channel `★⋅korepi-version-roles⋅★` and choose either the F or V version role. We recommend selecting the F role.
+Locate the channel `★⋅korepi-download⋅★` and follow the link to download the injector.
 
-### Step 3: Download the necessary resources
+### Step 3: Ready!
 
-Once you've done that, you will gain access to the corresponding download channel: `★⋅f-download⋅★` or `★⋅v-download⋅★`.
-
-### Step 4: Ready!
-
-In the channel, you will find a link to the current version and the password for the archive. Good luck!
+Place the .rar in a folder and add it to [exclusions](../guide/virus.md), after that extract it and follow this [guide](../guide/getkey.md)

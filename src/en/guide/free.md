@@ -30,6 +30,6 @@ Launch the injector to obtain your `HWID`, after that head to `★⋅micah-bot-v
 After clicking on submit you will receive a file from the bot, download it and place it on your Korepi folder. Make sure the name is `enc.json`.
 
 ### Step 5:
-Launch the injector again and follow the instructions provide in the cmd.
+Launch the injector again and select your game path if you didn't yet, after that Korepi will launch the game and inject itself.
 
 Enjoy Korepi!
