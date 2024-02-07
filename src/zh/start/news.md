@@ -6,7 +6,7 @@ category:
 tag:
   - 公告
 author: Double
-order: 8
+order: 9
 ---
 
 ## Korepi中文公告

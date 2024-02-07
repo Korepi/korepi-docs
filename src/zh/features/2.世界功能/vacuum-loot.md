@@ -6,7 +6,7 @@ category:
 tag:
   - 掉落物吸附
 author: Double
-order: 14
+order: 15
 ---
 
 ## 掉落物吸附：可以将附近的物品和掉落物吸附到玩家周围。
