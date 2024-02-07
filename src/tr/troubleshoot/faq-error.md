@@ -2,10 +2,10 @@
 title: Yaygın İnjektör Hataları
 icon: info
 category:
-  - Troubleshoot
+  - SorunlarHakkında
 tag:
-  - Start
-author: Schvis, HiroAndZero02
+  - Başlangıç
+author: Schvis
 order: 2
 ---
 
