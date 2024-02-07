@@ -2,10 +2,10 @@
 title: Kayıt Olma
 icon: user-plus
 category:
-  - Guide
+  - Kılavuzlar 
 tag:
-  - Start
-author: QweRez HiroAndZero02
+  - Başlangıç
+author: QweRez
 order: 3
 ---
 
