@@ -6,44 +6,43 @@
     <link>https://korepi.com/jp/</link>
     <description>Korepiに関するヘルプ</description>
     <language>ja-JP</language>
-    <pubDate>Wed, 07 Feb 2024 12:25:10 GMT</pubDate>
-    <lastBuildDate>Wed, 07 Feb 2024 12:25:10 GMT</lastBuildDate>
+    <pubDate>Wed, 07 Feb 2024 12:51:22 GMT</pubDate>
+    <lastBuildDate>Wed, 07 Feb 2024 12:51:22 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-    <category>Guide</category>
     <category>ガイド</category>
     <category>特徴</category>
     <category>トラブルシューティング</category>
     <category>FAQ</category>
     <item>
-      <title>Free Version</title>
+      <title>無料版</title>
       <link>https://korepi.com/jp/guide/free.html</link>
       <guid>https://korepi.com/jp/guide/free.html</guid>
-      <source url="https://korepi.com/jp/rss.xml">Free Version</source>
-      <description>How to get the free license for Korepi. Step 1: Find the ★⋅micah-bot-verify⋅★ channel direct link (https://discord.com/channels/1069057220802781265/1203687333107335198); img.png...</description>
-      <category>Guide</category>
+      <source url="https://korepi.com/jp/rss.xml">無料版</source>
+      <description>Korepiの無料ライセンス取得方法。 ステップ 1: ★⋅micah-bot-verify⋅★ チャンネルを探す リンク (https://discord.com/channels/1069057220802781265/1203687333107335198); img.png Micah-botが送信したメッセージを探す; ステップ 2: Bin...</description>
+      <category>ガイド</category>
       <pubDate>Wed, 07 Feb 2024 00:26:57 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> How to get the free license for Korepi.</h2>
-<h3> Step 1:</h3>
+      <content:encoded><![CDATA[<h2> Korepiの無料ライセンス取得方法。</h2>
+<h3> ステップ 1:</h3>
 <ul>
 <li>
-<p>Find the <code>★⋅micah-bot-verify⋅★</code> channel <a href="https://discord.com/channels/1069057220802781265/1203687333107335198" target="_blank" rel="noopener noreferrer">direct link</a></p>
+<p><code>★⋅micah-bot-verify⋅★</code> チャンネルを探す <a href="https://discord.com/channels/1069057220802781265/1203687333107335198" target="_blank" rel="noopener noreferrer">リンク</a></p>
 <p><img src="/assets/images/docs/202402/verify-1.png" alt="img.png" loading="lazy"></p>
 </li>
 <li>
-<p>Find the message sent by Micah-bot</p>
+<p>Micah-botが送信したメッセージを探す</p>
 </li>
 </ul>
-<h3> Step 2:</h3>
-<p>Click on <code>Bind free card</code>, follow the provide link by the bot after clicking on it, watch the ad and skip it.</p>
-<h3> Step 3:</h3>
-<p>If the bind message shows <code>Success</code>, you have successfully finished claiming the license, if it doesn't show as <code>Success</code>, repeat from the first step.</p>
-<h3> Step 4:</h3>
-<p>Launch the injector to obtain your <code>HWID</code>, after that head to <code>★⋅micah-bot-verify⋅★</code> again and click on <code>Get verification file</code> and paste in your <code>HWID</code>.</p>
-<p>After clicking on submit you will receive a file from the bot, download it and place it on your Korepi folder. Make sure the name is <code>enc.json</code>.</p>
-<h3> Step 5:</h3>
-<p>Launch the injector again and follow the instructions provide in the cmd.</p>
-<p>Enjoy Korepi!</p>
+<h3> ステップ 2:</h3>
+<p><code>Bind free card</code>をクリックし、botが提供するリンクをクリックした後、広告を見てスキップする。</p>
+<h3> ステップ 3:</h3>
+<p>バインドメッセージが <code>Success</code>, と表示されれば、ライセンスの取得は成功です。 <code>Success</code>,と表示されない場合は最初のステップからやり直してください。</p>
+<h3> ステップ 4:</h3>
+<p>インジェクターを起動してHWIDを取得した後、再び <code>★⋅micah-bot-verify⋅★</code> にアクセスし <code>Get verification file</code> をクリックして <code>HWID</code>をペーストする。</p>
+<p>submitをクリックするとボットからファイルが送られてくるので、それをダウンロードしてKorepiフォルダに置いてください。ファイル名が <code>enc.json</code>であることを確認してください。</p>
+<h3> ステップ 5:</h3>
+<p>インジェクターを再度起動し、cmdの指示に従ってください。</p>
+<p>Korepiを楽しんで!</p>
 ]]></content:encoded>
       <enclosure url="https://korepi.com/assets/images/docs/202402/verify-1.png" type="image/png"/>
     </item>
