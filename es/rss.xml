@@ -6,14 +6,59 @@
     <link>https://korepi.com/es/</link>
     <description>Ayuda en Korepi</description>
     <language>es-ES</language>
-    <pubDate>Wed, 07 Feb 2024 16:44:56 GMT</pubDate>
-    <lastBuildDate>Wed, 07 Feb 2024 16:44:56 GMT</lastBuildDate>
+    <pubDate>Wed, 07 Feb 2024 20:45:50 GMT</pubDate>
+    <lastBuildDate>Wed, 07 Feb 2024 20:45:50 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-    <category>Guía</category>
-    <category>FAQ</category>
     <category>Funciones</category>
+    <category>Guía</category>
+    <category>Guide</category>
+    <category>FAQ</category>
     <category>Errores</category>
+    <item>
+      <title>Gestor de Mapa</title>
+      <link>https://korepi.com/es/features/World/map-manager.html</link>
+      <guid>https://korepi.com/es/features/World/map-manager.html</guid>
+      <source url="https://korepi.com/es/rss.xml">Gestor de Mapa</source>
+      <description>El gestor de mapa te permitirá desbloquear teletransportadores y los estatua de los siete automaticamente sin tener que moverte del sitio, ideal para crear cuentas nuevas.</description>
+      <category>Funciones</category>
+      <pubDate>Wed, 07 Feb 2024 20:25:33 GMT</pubDate>
+      <content:encoded><![CDATA[<h3> El gestor de mapa te permitirá desbloquear teletransportadores y los estatua de los siete automaticamente sin tener que moverte del sitio, ideal para crear cuentas nuevas.</h3>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Auto Dominios</title>
+      <link>https://korepi.com/es/features/World/auto-domain.html</link>
+      <guid>https://korepi.com/es/features/World/auto-domain.html</guid>
+      <source url="https://korepi.com/es/rss.xml">Auto Dominios</source>
+      <description>Próximamente.</description>
+      <category>Funciones</category>
+      <pubDate>Wed, 07 Feb 2024 13:27:26 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Próximamente.</h2>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Auto Puzzle</title>
+      <link>https://korepi.com/es/features/World/auto-puzzle.html</link>
+      <guid>https://korepi.com/es/features/World/auto-puzzle.html</guid>
+      <source url="https://korepi.com/es/rss.xml">Auto Puzzle</source>
+      <description>Próximamente.</description>
+      <category>Funciones</category>
+      <pubDate>Wed, 07 Feb 2024 13:27:26 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Próximamente.</h2>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Modificador de Estadísticas</title>
+      <link>https://korepi.com/es/features/Player/stats-modifer.html</link>
+      <guid>https://korepi.com/es/features/Player/stats-modifer.html</guid>
+      <source url="https://korepi.com/es/rss.xml">Modificador de Estadísticas</source>
+      <description>Próximamente.</description>
+      <category>Funciones</category>
+      <pubDate>Wed, 07 Feb 2024 13:14:17 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Próximamente.</h2>
+]]></content:encoded>
+    </item>
     <item>
       <title>Versión Gratuita</title>
       <link>https://korepi.com/es/guide/free.html</link>
@@ -23,6 +68,7 @@
       <category>Guía</category>
       <pubDate>Wed, 07 Feb 2024 00:26:57 GMT</pubDate>
       <content:encoded><![CDATA[<h2> Como obtener la licencia gratis de Korepi.</h2>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/GURGoE2IEg8" title="Free Version | Cotton Buds" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 <h3> Paso 1:</h3>
 <ul>
 <li>
@@ -37,7 +83,11 @@
 <p>Dale click a <code>Bind free card</code>, sigue el link mandado por el bot, mira el anuncio y saltalo cuando sea posible.</p>
 <h3> Paso 3:</h3>
 <p>Si el mensaje aparece como <code>Success</code>, has conseguido reclamar la licencia correctamente, si no aparece como <code>Success</code>, repite desde el paso 1 de nuevo.</p>
+<p><img src="/assets/images/docs/202312/success.png" alt="" loading="lazy"></p>
 <h3> Paso 4:</h3>
+<div class="hint-container info">
+<p class="hint-container-title">Si ya tienes un enc.json, borra antes de abrir el programa</p>
+</div>
 <p>Abre el programa para obtener tu <code>HWID</code>, después dirígete al canal de <code>★⋅micah-bot-verify⋅★</code> y dale click a <code>Get verification file</code> y pega tu <code>HWID</code>.</p>
 <p>Después de darle a <code>Submit</code>, descarga el archivo y ponlo en la carpeta de Korepi. El nombre del archivo tiene que ser <code>enc.json</code>.</p>
 <h3> Step 5:</h3>
@@ -47,58 +97,446 @@
       <enclosure url="https://korepi.com/assets/images/docs/202402/verify-1.png" type="image/png"/>
     </item>
     <item>
-      <title>Diferencias entre versiones</title>
+      <title>Differences between versions</title>
       <link>https://korepi.com/es/start/differences.html</link>
       <guid>https://korepi.com/es/start/differences.html</guid>
-      <source url="https://korepi.com/es/rss.xml">Diferencias entre versiones</source>
-      <description>Diferencias claves entre versiones Versión Versión FVersión V --------------------- FuncionesIgualesIguales Update NoticeX✓ Multi-Instance (../guide/multi-instance.md)X✓ Instala...</description>
-      <category>Guía</category>
+      <source url="https://korepi.com/es/rss.xml">Differences between versions</source>
+      <description>Available Features between versions. Version Free SponsorPERTAMAX --------------------------- Efectos de Ataque✓✓✓ Auto Correr✓✓✓ Efectos de Enfriamiento✓✓✓ Control de Caida✓✓✓ ...</description>
+      <category>Guide</category>
       <pubDate>Sat, 13 Jan 2024 00:53:24 GMT</pubDate>
-      <content:encoded><![CDATA[<h1> Diferencias entre versión F y V</h1>
-<h2> Diferencias claves entre versiones</h2>
+      <content:encoded><![CDATA[<h2> Available Features between versions.</h2>
 <table>
 <thead>
 <tr>
-<th>Versión</th>
-<th>Versión F</th>
-<th>Versión V</th>
+<th>Version</th>
+<th>Free</th>
+<th>Sponsor</th>
+<th>PERTAMAX</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td>Funciones</td>
-<td>Iguales</td>
-<td>Iguales</td>
+<td>Efectos de Ataque</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Update Notice</td>
+<td>Auto Correr</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Efectos de Enfriamiento</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Control de Caida</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Modo Dios</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Aguante Infinito</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Sin-Colisión</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Velocidad de Jugador</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Auto Desafiós</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Auto Recoger</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Auto Seelie</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Auto Conversar</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Enemigos Tontos</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Visión Elemental</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>ESP</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Congelar Enemigos</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Velocidad de Juego</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Abrir Equipo Inmediatamente</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Saltar Animacion de Mejora</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Teletransporte de Cofre</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Teletransporte de Oculus</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Teletransporte de Mapa</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Teletransporte de Misión</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Teletransporte Personalizado</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Mapa Interactivo</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Zoom de Cámara</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Cambiador de FOV</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Indicador de Cofres</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Quitar Censura</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Desbloquear FPS</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Esconder Interfaz</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Zoom de Mapa</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Sin Niebla</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Sin Césped</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Sin Niebla de Mapa</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Invocar Paimon</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Perfil Personalizado</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Auto Activar Teletransporte</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Modificador de Critico</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Modo Delfín</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Aura Elemental</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Movimientos Extra</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Ajustes Extra Visuales</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Tiempo Falso</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Cámara Libre</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Icono de GM</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Cambiador de Monstruo</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Sin Desenfoque de Cámara</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Sin Vibración de Cámara</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Sin Huellas</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Sin Animación de Habilidad</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Debug</td>
+<td><span style="color:red;">X</span></td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td><a href="/es/guide/multi-instance.html" target="blank">Multi-Instance</a></td>
+<td>Cambiador de Animación</td>
+<td><span style="color:red;">X</span></td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Instalación</td>
-<td>Fácil</td>
-<td>Medio-Difícil</td>
+<td>Auto Cocinar</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Resolución de problemas</td>
-<td>Fácil</td>
-<td>Medio-Difícil</td>
+<td>Auto Destruir</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Autenticación</td>
-<td>Verificación con clave</td>
-<td>Verificación con archivo</td>
+<td>Auto Pescar</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Auto Madera</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Modificador de Constelaciones</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Clima Personalizado</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Cambiador de Emociones</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Cambiador de Planeador</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Kill Aura</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Gestor de Mapa</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Succión de Mobs</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Utilidad Remota</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Succión de Botín</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Modificador de Pieles</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Auto Puzzle</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Auto Dominios</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Modificador de Estadísticas</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
 </tr>
 </tbody>
 </table>
-<h2> Que versión debería usar?</h2>
-<p>Si eres <span style="color:yellow;">Sponsor</span> puedes usar cualquiera de las dos dependiendo de tus necesidades. Para los Fans es recomendado usar la versión V por ahora ya que es más estable en este momento.</p>
 ]]></content:encoded>
     </item>
     <item>
@@ -186,10 +624,13 @@
       <link>https://korepi.com/es/features/Visuals/flycloak-modifier.html</link>
       <guid>https://korepi.com/es/features/Visuals/flycloak-modifier.html</guid>
       <source url="https://korepi.com/es/rss.xml">Modificador de Planeador</source>
-      <description>Modificador de Planeador te permite cambiar tu planeador aunque no tengas la skin desbloqueada.</description>
+      <description>Solo para PERTAMAX Modificador de Planeador te permite cambiar tu planeador aunque no tengas la skin desbloqueada.</description>
       <category>Funciones</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Modificador de Planeador te permite cambiar tu planeador aunque no tengas la skin desbloqueada.</h2>
+      <content:encoded><![CDATA[<div class="hint-container info">
+<p class="hint-container-title">Solo para PERTAMAX</p>
+</div>
+<h2> Modificador de Planeador te permite cambiar tu planeador aunque no tengas la skin desbloqueada.</h2>
 ]]></content:encoded>
     </item>
     <item>
@@ -197,10 +638,13 @@
       <link>https://korepi.com/es/features/Visuals/animation-changer.html</link>
       <guid>https://korepi.com/es/features/Visuals/animation-changer.html</guid>
       <source url="https://korepi.com/es/rss.xml">Cambiador de Animación</source>
-      <description>Cambiador de Animación, permite cambiar la animación del personaje actual a la animación seleccionada.</description>
+      <description>Solo para PERTAMAX Cambiador de Animación, permite cambiar la animación del personaje actual a la animación seleccionada.</description>
       <category>Funciones</category>
       <pubDate>Sun, 17 Dec 2023 01:56:49 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Cambiador de Animación, permite cambiar la animación del personaje actual a la animación seleccionada.</h2>
+      <content:encoded><![CDATA[<div class="hint-container info">
+<p class="hint-container-title">Solo para PERTAMAX</p>
+</div>
+<h2> Cambiador de Animación, permite cambiar la animación del personaje actual a la animación seleccionada.</h2>
 ]]></content:encoded>
     </item>
     <item>
@@ -219,11 +663,11 @@
       <link>https://korepi.com/es/features/Visuals/constellation-modifier.html</link>
       <guid>https://korepi.com/es/features/Visuals/constellation-modifier.html</guid>
       <source url="https://korepi.com/es/rss.xml">Modificador de Constelaciones</source>
-      <description>Solo para Sponsor Modificador de Constelaciones, cambiara las constelaciones del personaje visualmente, algunos funcionan de verdad. Puedes ver cuales funcionan en #⁠cons-check ...</description>
+      <description>Solo para PERTAMAX Modificador de Constelaciones, cambiara las constelaciones del personaje visualmente, algunos funcionan de verdad. Puedes ver cuales funcionan en #⁠cons-check...</description>
       <category>Funciones</category>
       <pubDate>Sun, 17 Dec 2023 01:56:49 GMT</pubDate>
       <content:encoded><![CDATA[<div class="hint-container info">
-<p class="hint-container-title">Solo para Sponsor</p>
+<p class="hint-container-title">Solo para PERTAMAX</p>
 </div>
 <hr>
 <h2> Modificador de Constelaciones, cambiara las constelaciones del personaje visualmente, algunos funcionan de verdad.</h2>
@@ -282,10 +726,13 @@
       <link>https://korepi.com/es/features/Visuals/custom-weather.html</link>
       <guid>https://korepi.com/es/features/Visuals/custom-weather.html</guid>
       <source url="https://korepi.com/es/rss.xml">Clima Personalizado</source>
-      <description>Clima Personalizado te permite cambiar el clima a tu gusto.</description>
+      <description>Solo para PERTAMAX Clima Personalizado te permite cambiar el clima a tu gusto.</description>
       <category>Funciones</category>
       <pubDate>Sun, 17 Dec 2023 01:56:49 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Clima Personalizado te permite cambiar el clima a tu gusto.</h2>
+      <content:encoded><![CDATA[<div class="hint-container info">
+<p class="hint-container-title">Solo para PERTAMAX</p>
+</div>
+<h2> Clima Personalizado te permite cambiar el clima a tu gusto.</h2>
 ]]></content:encoded>
     </item>
     <item>
@@ -473,10 +920,13 @@
       <link>https://korepi.com/es/features/Visuals/skin-modifier.html</link>
       <guid>https://korepi.com/es/features/Visuals/skin-modifier.html</guid>
       <source url="https://korepi.com/es/rss.xml">Modificador de Pieles</source>
-      <description>Modificador de Pieles te permite cambiar la skin del personaje gratuitamente.</description>
+      <description>Solo para PERTAMAX Modificador de Pieles te permite cambiar la skin del personaje gratuitamente.</description>
       <category>Funciones</category>
       <pubDate>Sun, 17 Dec 2023 01:56:49 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Modificador de Pieles te permite cambiar la skin del personaje gratuitamente.</h2>
+      <content:encoded><![CDATA[<div class="hint-container info">
+<p class="hint-container-title">Solo para PERTAMAX</p>
+</div>
+<h2> Modificador de Pieles te permite cambiar la skin del personaje gratuitamente.</h2>
 ]]></content:encoded>
     </item>
     <item>
@@ -854,11 +1304,11 @@ Nota 2: <a href="/es/features/Player/extra-movements.html" target="blank">Movimi
       <link>https://korepi.com/es/features/Player/remote-utility.html</link>
       <guid>https://korepi.com/es/features/Player/remote-utility.html</guid>
       <source url="https://korepi.com/es/rss.xml">Utilidad Remota</source>
-      <description>Solo para Sponsor Utilidad Remota: Reclamar Recompensas de Comisiones Diarias: Reclama las recompensas cuando las 4 comisiones han sido terminados.; Conversación Personalizada: ...</description>
+      <description>Solo para PERTAMAX Utilidad Remota: Reclamar Recompensas de Comisiones Diarias: Reclama las recompensas cuando las 4 comisiones han sido terminados.; Conversación Personalizada:...</description>
       <category>Funciones</category>
       <pubDate>Sat, 16 Dec 2023 17:06:44 GMT</pubDate>
       <content:encoded><![CDATA[<div class="hint-container info">
-<p class="hint-container-title">Solo para Sponsor</p>
+<p class="hint-container-title">Solo para PERTAMAX</p>
 </div>
 <hr>
 <h2> Utilidad Remota:</h2>
@@ -1045,10 +1495,13 @@ Nota 2: Puedes encontrar los IDs <a href="https://github.com/jie65535/Grasscutte
       <link>https://korepi.com/es/features/World/auto-cook.html</link>
       <guid>https://korepi.com/es/features/World/auto-cook.html</guid>
       <source url="https://korepi.com/es/rss.xml">Auto Cocinar</source>
-      <description>Auto Cocinar deja que cocines automaticamente la cantidad deseada de la comida seleccionada, puedes elegir calidad, cantidad y completar la maestría. Video de Ejemplo:</description>
+      <description>Solo para PERTAMAX Auto Cocinar deja que cocines automaticamente la cantidad deseada de la comida seleccionada, puedes elegir calidad, cantidad y completar la maestría. Video de...</description>
       <category>Funciones</category>
       <pubDate>Sat, 16 Dec 2023 17:06:44 GMT</pubDate>
-      <content:encoded><![CDATA[<h3> Auto Cocinar deja que cocines automaticamente la cantidad deseada de la comida seleccionada, puedes elegir calidad, cantidad y completar la maestría.</h3>
+      <content:encoded><![CDATA[<div class="hint-container info">
+<p class="hint-container-title">Solo para PERTAMAX</p>
+</div>
+<h3> Auto Cocinar deja que cocines automaticamente la cantidad deseada de la comida seleccionada, puedes elegir calidad, cantidad y completar la maestría.</h3>
 <h2> Video de Ejemplo:</h2>
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/T_X13AXiAiY?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Cook" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 ]]></content:encoded>
@@ -1058,10 +1511,13 @@ Nota 2: Puedes encontrar los IDs <a href="https://github.com/jie65535/Grasscutte
       <link>https://korepi.com/es/features/World/auto-destroy.html</link>
       <guid>https://korepi.com/es/features/World/auto-destroy.html</guid>
       <source url="https://korepi.com/es/rss.xml">Auto Destruir Objetos</source>
-      <description>Auto Destruir Objetos te permite destruir objetos como cofres, plantas, escudos, minerales y más automaticamente con rangos personalizados. Video de Ejemplo: Nota: El valor reco...</description>
+      <description>Solo para PERTAMAX Auto Destruir Objetos te permite destruir objetos como cofres, plantas, escudos, minerales y más automaticamente con rangos personalizados. Video de Ejemplo: ...</description>
       <category>Funciones</category>
       <pubDate>Sat, 16 Dec 2023 17:06:44 GMT</pubDate>
-      <content:encoded><![CDATA[<h3> Auto Destruir Objetos te permite destruir objetos como cofres, plantas, escudos, minerales y más automaticamente con rangos personalizados.</h3>
+      <content:encoded><![CDATA[<div class="hint-container info">
+<p class="hint-container-title">Solo para PERTAMAX</p>
+</div>
+<h3> Auto Destruir Objetos te permite destruir objetos como cofres, plantas, escudos, minerales y más automaticamente con rangos personalizados.</h3>
 <h2> Video de Ejemplo:</h2>
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/3ML6s3SR8nE?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Destroy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 <blockquote>
@@ -1074,10 +1530,13 @@ Nota 2: Puedes encontrar los IDs <a href="https://github.com/jie65535/Grasscutte
       <link>https://korepi.com/es/features/World/auto-fish.html</link>
       <guid>https://korepi.com/es/features/World/auto-fish.html</guid>
       <source url="https://korepi.com/es/rss.xml">Auto Pescar</source>
-      <description>Auto Pescar permite que te saltes la animación de pesca. Video de Ejemplo: Nota: Auto Re-lanza caña no funciona por ahora.</description>
+      <description>Solo para PERTAMAX Auto Pescar permite que te saltes la animación de pesca. Video de Ejemplo: Nota: Auto Re-lanza caña no funciona por ahora.</description>
       <category>Funciones</category>
       <pubDate>Sat, 16 Dec 2023 17:06:44 GMT</pubDate>
-      <content:encoded><![CDATA[<h3> Auto Pescar permite que te saltes la animación de pesca.</h3>
+      <content:encoded><![CDATA[<div class="hint-container info">
+<p class="hint-container-title">Solo para PERTAMAX</p>
+</div>
+<h3> Auto Pescar permite que te saltes la animación de pesca.</h3>
 <h2> Video de Ejemplo:</h2>
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/K_l4Tg-81iQ?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Fish" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 <blockquote>
@@ -1168,11 +1627,11 @@ Nota 2: Mayor la distancia mayor el retraso.</p>
       <link>https://korepi.com/es/features/World/auto-tree-farm.html</link>
       <guid>https://korepi.com/es/features/World/auto-tree-farm.html</guid>
       <source url="https://korepi.com/es/rss.xml">Auto Madera</source>
-      <description>Solo para Sponsor Auto Madera permite golpear arboles cercanos para conseguir madera con rango, golpes y retraso personalizado. Video de Ejemplo: Nota: No se recomienda cambiar ...</description>
+      <description>Solo para PERTAMAX Auto Madera permite golpear arboles cercanos para conseguir madera con rango, golpes y retraso personalizado. Video de Ejemplo: Nota: No se recomienda cambiar...</description>
       <category>Funciones</category>
       <pubDate>Sat, 16 Dec 2023 17:06:44 GMT</pubDate>
       <content:encoded><![CDATA[<div class="hint-container info">
-<p class="hint-container-title">Solo para Sponsor</p>
+<p class="hint-container-title">Solo para PERTAMAX</p>
 </div>
 <hr>
 <h3> Auto Madera permite golpear arboles cercanos para conseguir madera con rango, golpes y retraso personalizado.</h3>
@@ -1224,10 +1683,13 @@ Nota 2: Mayor la distancia mayor el retraso.</p>
       <link>https://korepi.com/es/features/World/kill-aura.html</link>
       <guid>https://korepi.com/es/features/World/kill-aura.html</guid>
       <source url="https://korepi.com/es/rss.xml">Kill Aura</source>
-      <description>Esta función tiene alto riesgo de ban! Kill Aura: Inflige daño a los enemigos cercanos Modo de daño de caida: Inflige daño a los enemigos cercanos con rangos, retrasos y daños p...</description>
+      <description>Solo para PERTAMAX Esta función tiene alto riesgo de ban! Kill Aura: Inflige daño a los enemigos cercanos Modo de daño de caida: Inflige daño a los enemigos cercanos con rangos,...</description>
       <category>Funciones</category>
       <pubDate>Sat, 16 Dec 2023 17:06:44 GMT</pubDate>
-      <content:encoded><![CDATA[<div class="hint-container danger">
+      <content:encoded><![CDATA[<div class="hint-container info">
+<p class="hint-container-title">Solo para PERTAMAX</p>
+</div>
+<div class="hint-container danger">
 <p class="hint-container-title">Esta función tiene alto riesgo de ban!</p>
 </div>
 <hr>
@@ -1271,10 +1733,13 @@ Nota 2: No se recomienda usar.</p>
       <link>https://korepi.com/es/features/World/mob-vacuum.html</link>
       <guid>https://korepi.com/es/features/World/mob-vacuum.html</guid>
       <source url="https://korepi.com/es/rss.xml">Succión de Mobs</source>
-      <description>Succión de Mobs acerca a los enemigos con un rango y velocidad personalizados. Video de Ejemplo: Nota: Se recomienda usar por debajo de 20m.</description>
+      <description>Solo para PERTAMAX Succión de Mobs acerca a los enemigos con un rango y velocidad personalizados. Video de Ejemplo: Nota: Se recomienda usar por debajo de 20m.</description>
       <category>Funciones</category>
       <pubDate>Sat, 16 Dec 2023 17:06:44 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Succión de Mobs acerca a los enemigos con un rango y velocidad personalizados.</h2>
+      <content:encoded><![CDATA[<div class="hint-container info">
+<p class="hint-container-title">Solo para PERTAMAX</p>
+</div>
+<h2> Succión de Mobs acerca a los enemigos con un rango y velocidad personalizados.</h2>
 <h2> Video de Ejemplo:</h2>
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/KNzVgG_V10I?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Mob Vacuum" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 <blockquote>
@@ -1287,10 +1752,13 @@ Nota 2: No se recomienda usar.</p>
       <link>https://korepi.com/es/features/World/vacuum-loot.html</link>
       <guid>https://korepi.com/es/features/World/vacuum-loot.html</guid>
       <source url="https://korepi.com/es/rss.xml">Succión de Botín</source>
-      <description>Succión de Botín acerca a los drops con un rango y velocidad personalizados. Video de Ejemplo: Nota: Se recomienda usar por debajo de 20m.</description>
+      <description>Solo para PERTAMAX Succión de Botín acerca a los drops con un rango y velocidad personalizados. Video de Ejemplo: Nota: Se recomienda usar por debajo de 20m.</description>
       <category>Funciones</category>
       <pubDate>Sat, 16 Dec 2023 17:06:44 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Succión de Botín acerca a los drops con un rango y velocidad personalizados.</h2>
+      <content:encoded><![CDATA[<div class="hint-container info">
+<p class="hint-container-title">Solo para PERTAMAX</p>
+</div>
+<h2> Succión de Botín acerca a los drops con un rango y velocidad personalizados.</h2>
 <h2> Video de Ejemplo:</h2>
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/iMElTsNF77c?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Vacuum Loot" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 <blockquote>
@@ -1454,6 +1922,9 @@ Nota 2: No se recomienda usar.</p>
 <p class="hint-container-title">Si eras Sponsor antes del 4 de Febrero del 2024, dale click a "Sponsor Compensation" y escribe "YES" para recibir tus 3 meses de compensación, después de que hayas conseguido la "card" exitosamente sigue el siguiente paso.</p>
 </div>
 <h3> Paso 3:</h3>
+<div class="hint-container info">
+<p class="hint-container-title">Si ya tienes un enc.json, borra antes de abrir el programa</p>
+</div>
 <p>Dale click a <code>Get Verification File</code>, aquí tendrás que poner tu <code>HWID (Id del Dispositivo)</code> que lo podrás obtener al abrir la herramienta por primera vez.</p>
 <ul>
 <li>Recibirás un archivo del bot, descarga y ponlo dentro de la carpeta donde tengas Korepi. El nombre del archivo tiene que ser <code>enc.json</code>.</li>
@@ -1630,14 +2101,12 @@ Para poder usar skins personalizadas en Korepi tendremos que descargar la aplica
       <content:encoded><![CDATA[<h1> Descargar</h1>
 <h2> Introducción</h2>
 <p>¡Bienvenid@ a nuestra comunidad! Para pasar la verificación del bot y recibir el rol de <code>Newcomer</code>, sigue los siguientes pasos.</p>
-<h3> Paso 1: Únete a nuestro servidor y obtén los roles de <code>Newcomer</code> y <code>Fans</code></h3>
-<p>Si aún no te has unido al servidor, por favor, lee la publicación de verificación, que explica cómo unirse al servidor y obtener los roles de <code>Newcomer</code> y <code>Fans</code>.</p>
-<h3> Paso 2: Ve al canal de <code>★⋅korepi-version-roles⋅★</code></h3>
-<p>Localiza el canal <code>★⋅korepi-version-roles⋅★</code> y elige el rol correspondiente a la versión F o V. Recomendamos seleccionar el rol F.</p>
-<h3> Paso 3: Descargar los recursos necesarios</h3>
-<p>Después de hacer esto, tendrás acceso al canal de descarga, dependiendo de que rol hayas escogido <code>★⋅f-download⋅★</code> o <code>★⋅v-download⋅★</code>.</p>
+<h3> Paso 1: Únete a nuestro servidor y obtén el rol de <code>Newcomer</code></h3>
+<p>Si aún no te has unido al servidor, por favor, lee la publicación de verificación, que explica cómo unirse al servidor el rol de <code>Newcomer</code></p>
+<h3> Paso 2: Ve al canal de <code>⁠★⋅korepi-download⋅★</code></h3>
+<p>Localiza el canal <code>⁠★⋅korepi-download⋅★</code> y sigue el enlace para descargar el programa.</p>
 <h3> Paso 4: ¡Listo!</h3>
-<p>En el canal encontrarás un enlace a la versión actual y la contraseña del archivo. ¡Buena suerte!</p>
+<p>Pon el archivo .rar en una carpeta y añádelo a <a href="/es/guide/virus.html" target="blank">exclusiones</a>, después de esto sigue esta <a href="/es/guide/getkey.html" target="blank">guía</a></p>
 ]]></content:encoded>
     </item>
     <item>

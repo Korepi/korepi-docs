@@ -6,14 +6,58 @@
     <link>https://korepi.com/en/</link>
     <description>Help on Korepi</description>
     <language>en-US</language>
-    <pubDate>Wed, 07 Feb 2024 16:44:56 GMT</pubDate>
-    <lastBuildDate>Wed, 07 Feb 2024 16:44:56 GMT</lastBuildDate>
+    <pubDate>Wed, 07 Feb 2024 20:45:50 GMT</pubDate>
+    <lastBuildDate>Wed, 07 Feb 2024 20:45:50 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+    <category>Features</category>
     <category>Guide</category>
     <category>FAQ</category>
-    <category>Features</category>
     <category>Troubleshoot</category>
+    <item>
+      <title>Map Manager</title>
+      <link>https://korepi.com/en/features/World/map-manager.html</link>
+      <guid>https://korepi.com/en/features/World/map-manager.html</guid>
+      <source url="https://korepi.com/en/rss.xml">Map Manager</source>
+      <description>Map Manager allows the player to unlock Statues of the Seven or Waypoints automatically without moving from the place, great to create reroll accounts.</description>
+      <category>Features</category>
+      <pubDate>Wed, 07 Feb 2024 20:25:33 GMT</pubDate>
+      <content:encoded><![CDATA[<h3> Map Manager allows the player to unlock Statues of the Seven or Waypoints automatically without moving from the place, great to create reroll accounts.</h3>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Auto Domain</title>
+      <link>https://korepi.com/en/features/World/auto-domain.html</link>
+      <guid>https://korepi.com/en/features/World/auto-domain.html</guid>
+      <source url="https://korepi.com/en/rss.xml">Auto Domain</source>
+      <description>Soon.</description>
+      <category>Features</category>
+      <pubDate>Wed, 07 Feb 2024 13:27:26 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Soon.</h2>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Auto Puzzle</title>
+      <link>https://korepi.com/en/features/World/auto-puzzle.html</link>
+      <guid>https://korepi.com/en/features/World/auto-puzzle.html</guid>
+      <source url="https://korepi.com/en/rss.xml">Auto Puzzle</source>
+      <description>Soon.</description>
+      <category>Features</category>
+      <pubDate>Wed, 07 Feb 2024 13:27:26 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Soon.</h2>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Stats Modifier</title>
+      <link>https://korepi.com/en/features/Player/stats-modifer.html</link>
+      <guid>https://korepi.com/en/features/Player/stats-modifer.html</guid>
+      <source url="https://korepi.com/en/rss.xml">Stats Modifier</source>
+      <description>Soon.</description>
+      <category>Features</category>
+      <pubDate>Wed, 07 Feb 2024 13:14:17 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Soon.</h2>
+]]></content:encoded>
+    </item>
     <item>
       <title>Free Version</title>
       <link>https://korepi.com/en/guide/free.html</link>
@@ -23,6 +67,7 @@
       <category>Guide</category>
       <pubDate>Wed, 07 Feb 2024 00:26:57 GMT</pubDate>
       <content:encoded><![CDATA[<h2> How to get the free license for Korepi.</h2>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/GURGoE2IEg8" title="Free Version | Cotton Buds" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 <h3> Step 1:</h3>
 <ul>
 <li>
@@ -37,11 +82,15 @@
 <p>Click on <code>Bind free card</code>, follow the provide link by the bot after clicking on it, watch the ad and skip it.</p>
 <h3> Step 3:</h3>
 <p>If the bind message shows <code>Success</code>, you have successfully finished claiming the license, if it doesn't show as <code>Success</code>, repeat from the first step.</p>
+<p><img src="/assets/images/docs/202312/success.png" alt="" loading="lazy"></p>
 <h3> Step 4:</h3>
-<p>Launch the injector to obtain your <code>HWID</code>, after that head to <code>★⋅micah-bot-verify⋅★</code> again and click on <code>Get verification file</code> and paste in your <code>HWID</code>.</p>
+<div class="hint-container info">
+<p class="hint-container-title">If you already got a enc.json delete it before opening the program</p>
+</div>
+<p>Launch the program to obtain your <code>HWID</code>, after that head to <code>★⋅micah-bot-verify⋅★</code> again and click on <code>Get verification file</code> and paste in your <code>HWID</code>.</p>
 <p>After clicking on submit you will receive a file from the bot, download it and place it on your Korepi folder. Make sure the name is <code>enc.json</code>.</p>
 <h3> Step 5:</h3>
-<p>Launch the injector again and follow the instructions provide in the cmd.</p>
+<p>Launch the program again and select your game path if you didn't yet, after that Korepi will launch the game and inject itself.</p>
 <p>Enjoy Korepi!</p>
 ]]></content:encoded>
       <enclosure url="https://korepi.com/assets/images/docs/202402/verify-1.png" type="image/png"/>
@@ -51,54 +100,442 @@
       <link>https://korepi.com/en/start/differences.html</link>
       <guid>https://korepi.com/en/start/differences.html</guid>
       <source url="https://korepi.com/en/rss.xml">Differences between versions</source>
-      <description>Key differences between V and F version Version F VersionV Version --------------------- FeaturesSameSame Update NoticeX✓ Multi-Instance (../guide/multi-instance.md)X✓ Set-upEas...</description>
+      <description>Available Features between versions. Version Free SponsorPERTAMAX --------------------------- Attack Effects✓✓✓ Auto Run✓✓✓ Cooldown Effects✓✓✓ Fall Control✓✓✓ God Mode✓✓✓ Infin...</description>
       <category>Guide</category>
       <pubDate>Sat, 13 Jan 2024 00:53:24 GMT</pubDate>
-      <content:encoded><![CDATA[<h1> Differences between V and F version.</h1>
-<h2> Key differences between V and F version</h2>
+      <content:encoded><![CDATA[<h2> Available Features between versions.</h2>
 <table>
 <thead>
 <tr>
 <th>Version</th>
-<th>F Version</th>
-<th>V Version</th>
+<th>Free</th>
+<th>Sponsor</th>
+<th>PERTAMAX</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td>Features</td>
-<td>Same</td>
-<td>Same</td>
+<td>Attack Effects</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Update Notice</td>
+<td>Auto Run</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Cooldown Effects</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Fall Control</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>God Mode</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Infinite Stamina</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>No-Clip</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Player Speed</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Auto-Challenge</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Auto-Loot</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Auto-Seelie</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Auto Talk</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Dumb Enemies</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Elemental Sight</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>ESP</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Freeze Enemies</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Game Speed</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Open Team Immediately</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Skip Enhance Animation</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Chest Teleport</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Oculi Teleport</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Map Teleport</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Quest Teleport</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Custom Teleport</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Interactive Map</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Camera Zoom</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>FOV Changer</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Chest Indicator</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Censor Remover</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>FPS Unlock</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Hide UI</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Map Zoom</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>No Fog</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>No Grass</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>No Map Fog</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Summon Paimon</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Profile Changer</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Auto Activate Waypoint</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Crit Rate Modifier</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Dolphin Dive</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Elemental Aura</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Extra Movement</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Extra Visual Settings</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Fake Time</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Free Camera</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>GM Icon</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Monster Changer</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>No Camera Blur</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>No Camera Shake</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>No Footprints</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>No Skill Animation</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Debug</td>
+<td><span style="color:red;">X</span></td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td><a href="/en/guide/multi-instance.html" target="blank">Multi-Instance</a></td>
+<td>Animation Changer</td>
+<td><span style="color:red;">X</span></td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Set-up</td>
-<td>Easy</td>
-<td>Mid-Hard</td>
+<td>Auto Cook</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Problem Solving</td>
-<td>Easy</td>
-<td>Mid-Hard</td>
+<td>Auto Destroy</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Authentication</td>
-<td>Key Verification</td>
-<td>File Verification</td>
+<td>Auto Fish</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Auto Tree Farm</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Constellation Modifier</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Custom Weather</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Emotion Changer</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Flycloak Modifier</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Kill Aura</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Map Manager</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Mob Vacuum</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Remote Utilities</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Vacuum Loot</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Skin Modifier</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Auto Puzzle</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Auto Domain</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Stats Modifier</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
 </tr>
 </tbody>
 </table>
-<h2> Which version should i use?</h2>
-<p>For the <span style="color:yellow;">Sponsor</span> users you can use any of the versions according to your needs. For Fans is recommended to use V version since its more stable and the set-up is more reliable as it is for now.</p>
 ]]></content:encoded>
     </item>
     <item>
@@ -164,7 +601,7 @@
 <h3> Can i use Korepi when a new update comes?</h3>
 <p>No, you need to wait till a new Korepi version gets released.</p>
 <div class="hint-container info">
-<p class="hint-container-title">Using the old injector wont work, Korepi update takes 1-2 weeks approximately.</p>
+<p class="hint-container-title">Using the old program wont work, Korepi update takes 1-2 weeks approximately.</p>
 </div>
 <hr>
 <h3> Why the menu doesn't appear in game?</h3>
@@ -187,10 +624,13 @@
       <link>https://korepi.com/en/features/Visuals/flycloak-modifier.html</link>
       <guid>https://korepi.com/en/features/Visuals/flycloak-modifier.html</guid>
       <source url="https://korepi.com/en/rss.xml">Flycloak Modifier</source>
-      <description>Flycloak Modifier allow the player to change their glider skin even if they don&amp;apos;t own it.</description>
+      <description>PERTAMAX Only Flycloak Modifier allow the player to change their glider skin even if they don&amp;apos;t own it.</description>
       <category>Features</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Flycloak Modifier allow the player to change their glider skin even if they don't own it.</h2>
+      <content:encoded><![CDATA[<div class="hint-container info">
+<p class="hint-container-title">PERTAMAX Only</p>
+</div>
+<h2> Flycloak Modifier allow the player to change their glider skin even if they don't own it.</h2>
 ]]></content:encoded>
     </item>
     <item>
@@ -198,10 +638,13 @@
       <link>https://korepi.com/en/features/Visuals/animation-changer.html</link>
       <guid>https://korepi.com/en/features/Visuals/animation-changer.html</guid>
       <source url="https://korepi.com/en/rss.xml">Animation Changer</source>
-      <description>Animation Changer, allows the player to change their current character animation to the selected one.</description>
+      <description>PERTAMAX Only Animation Changer, allows the player to change their current character animation to the selected one.</description>
       <category>Features</category>
       <pubDate>Sun, 17 Dec 2023 01:35:20 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Animation Changer, allows the player to change their current character animation to the selected one.</h2>
+      <content:encoded><![CDATA[<div class="hint-container info">
+<p class="hint-container-title">PERTAMAX Only</p>
+</div>
+<h2> Animation Changer, allows the player to change their current character animation to the selected one.</h2>
 ]]></content:encoded>
     </item>
     <item>
@@ -220,11 +663,11 @@
       <link>https://korepi.com/en/features/Visuals/constellation-modifier.html</link>
       <guid>https://korepi.com/en/features/Visuals/constellation-modifier.html</guid>
       <source url="https://korepi.com/en/rss.xml">Constellation Modifier</source>
-      <description>Sponsor Only Constellation Modifier, will change your active character constellations if selected, visually and some of them will actually work. You can find more information ab...</description>
+      <description>PERTAMAX Only Constellation Modifier, will change your active character constellations if selected, visually and some of them will actually work. You can find more information a...</description>
       <category>Features</category>
       <pubDate>Sun, 17 Dec 2023 01:35:20 GMT</pubDate>
       <content:encoded><![CDATA[<div class="hint-container info">
-<p class="hint-container-title">Sponsor Only</p>
+<p class="hint-container-title">PERTAMAX Only</p>
 </div>
 <hr>
 <h2> Constellation Modifier, will change your active character constellations if selected, visually and some of them will actually work.</h2>
@@ -283,10 +726,13 @@
       <link>https://korepi.com/en/features/Visuals/custom-weather.html</link>
       <guid>https://korepi.com/en/features/Visuals/custom-weather.html</guid>
       <source url="https://korepi.com/en/rss.xml">Custom Weather</source>
-      <description>Custom Wether allows you to change the weather to your liking.</description>
+      <description>PERTAMAX Only Custom Wether allows you to change the weather to your liking.</description>
       <category>Features</category>
       <pubDate>Sun, 17 Dec 2023 01:35:20 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Custom Wether allows you to change the weather to your liking.</h2>
+      <content:encoded><![CDATA[<div class="hint-container info">
+<p class="hint-container-title">PERTAMAX Only</p>
+</div>
+<h2> Custom Wether allows you to change the weather to your liking.</h2>
 ]]></content:encoded>
     </item>
     <item>
@@ -294,10 +740,13 @@
       <link>https://korepi.com/en/features/Visuals/emotion-changer.html</link>
       <guid>https://korepi.com/en/features/Visuals/emotion-changer.html</guid>
       <source url="https://korepi.com/en/rss.xml">Emotion Changer</source>
-      <description>Emotion Changer allows the player to change the current character emotion to the selected one.</description>
+      <description>PERTAMAX Only Emotion Changer allows the player to change the current character emotion to the selected one.</description>
       <category>Features</category>
       <pubDate>Sun, 17 Dec 2023 01:35:20 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Emotion Changer allows the player to change the current character emotion to the selected one.</h2>
+      <content:encoded><![CDATA[<div class="hint-container info">
+<p class="hint-container-title">PERTAMAX Only</p>
+</div>
+<h2> Emotion Changer allows the player to change the current character emotion to the selected one.</h2>
 ]]></content:encoded>
     </item>
     <item>
@@ -473,10 +922,13 @@
       <link>https://korepi.com/en/features/Visuals/skin-modifier.html</link>
       <guid>https://korepi.com/en/features/Visuals/skin-modifier.html</guid>
       <source url="https://korepi.com/en/rss.xml">Skin Modifier</source>
-      <description>Skin Modifier allows the player to use in-game skins for free.</description>
+      <description>PERTAMAX Only Skin Modifier allows the player to use in-game skins for free.</description>
       <category>Features</category>
       <pubDate>Sun, 17 Dec 2023 01:35:20 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Skin Modifier allows the player to use in-game skins for free.</h2>
+      <content:encoded><![CDATA[<div class="hint-container info">
+<p class="hint-container-title">PERTAMAX Only</p>
+</div>
+<h2> Skin Modifier allows the player to use in-game skins for free.</h2>
 ]]></content:encoded>
     </item>
     <item>
@@ -923,11 +1375,11 @@ Note 2: <a href="/en/features/Player/extra-movements.html" target="blank">Extra 
       <link>https://korepi.com/en/features/Player/remote-utility.html</link>
       <guid>https://korepi.com/en/features/Player/remote-utility.html</guid>
       <source url="https://korepi.com/en/rss.xml">Remote Utility</source>
-      <description>Sponsor Only Remote Utility: Claim Daily Commission Reward: Claims daily commission reward when all 4 comissions are completed.; Custom Talk: Starts a conversation using the con...</description>
+      <description>PERTAMAX Only Remote Utility: Claim Daily Commission Reward: Claims daily commission reward when all 4 comissions are completed.; Custom Talk: Starts a conversation using the co...</description>
       <category>Features</category>
       <pubDate>Sat, 16 Dec 2023 01:57:57 GMT</pubDate>
       <content:encoded><![CDATA[<div class="hint-container info">
-<p class="hint-container-title">Sponsor Only</p>
+<p class="hint-container-title">PERTAMAX Only</p>
 </div>
 <hr>
 <h2> Remote Utility:</h2>
@@ -1042,10 +1494,13 @@ Note 2: Higher the distance higher delay should be used.</p>
       <link>https://korepi.com/en/features/World/mob-vacuum.html</link>
       <guid>https://korepi.com/en/features/World/mob-vacuum.html</guid>
       <source url="https://korepi.com/en/rss.xml">Mob Vacuum</source>
-      <description>Mob Vacuum move nearby mobs to the player with the selected speed and range, the mobs that will be affected can be customized. Example Video: Note: Recommended below 20m.</description>
+      <description>PERTAMAX Only Mob Vacuum move nearby mobs to the player with the selected speed and range, the mobs that will be affected can be customized. Example Video: Note: Recommended bel...</description>
       <category>Features</category>
       <pubDate>Fri, 15 Dec 2023 00:02:48 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Mob Vacuum move nearby mobs to the player with the selected speed and range, the mobs that will be affected can be customized.</h2>
+      <content:encoded><![CDATA[<div class="hint-container info">
+<p class="hint-container-title">PERTAMAX Only</p>
+</div>
+<h2> Mob Vacuum move nearby mobs to the player with the selected speed and range, the mobs that will be affected can be customized.</h2>
 <h2> Example Video:</h2>
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/KNzVgG_V10I?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Mob Vacuum" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 <blockquote>
@@ -1058,10 +1513,13 @@ Note 2: Higher the distance higher delay should be used.</p>
       <link>https://korepi.com/en/features/World/vacuum-loot.html</link>
       <guid>https://korepi.com/en/features/World/vacuum-loot.html</guid>
       <source url="https://korepi.com/en/rss.xml">Vacuum Loot</source>
-      <description>Vacuum Loot moves nearby drops to the player with the specified range and delay. Example Video: Note: Recommended below 20m.</description>
+      <description>PERTAMAX Only Vacuum Loot moves nearby drops to the player with the specified range and delay. Example Video: Note: Recommended below 20m.</description>
       <category>Features</category>
       <pubDate>Fri, 15 Dec 2023 00:02:48 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Vacuum Loot moves nearby drops to the player with the specified range and delay.</h2>
+      <content:encoded><![CDATA[<div class="hint-container info">
+<p class="hint-container-title">PERTAMAX Only</p>
+</div>
+<h2> Vacuum Loot moves nearby drops to the player with the specified range and delay.</h2>
 <h2> Example Video:</h2>
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/iMElTsNF77c?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Vacuum Loot" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 <blockquote>
@@ -1107,10 +1565,13 @@ Note 2: Higher the distance higher delay should be used.</p>
       <link>https://korepi.com/en/features/World/auto-cook.html</link>
       <guid>https://korepi.com/en/features/World/auto-cook.html</guid>
       <source url="https://korepi.com/en/rss.xml">Auto Cook</source>
-      <description>Auto Cook lets you cook a specified quantity and quality of the selected food on the cooking page, it counts with an auto proficiency (Auto unlock auto cook) built-in. Example V...</description>
+      <description>PERTAMAX Only Auto Cook lets you cook a specified quantity and quality of the selected food on the cooking page, it counts with an auto proficiency (Auto unlock auto cook) built...</description>
       <category>Features</category>
       <pubDate>Thu, 14 Dec 2023 23:51:59 GMT</pubDate>
-      <content:encoded><![CDATA[<h3> Auto Cook lets you cook a specified quantity and quality of the selected food on the cooking page, it counts with an auto proficiency (Auto unlock auto cook) built-in.</h3>
+      <content:encoded><![CDATA[<div class="hint-container info">
+<p class="hint-container-title">PERTAMAX Only</p>
+</div>
+<h3> Auto Cook lets you cook a specified quantity and quality of the selected food on the cooking page, it counts with an auto proficiency (Auto unlock auto cook) built-in.</h3>
 <h2> Example Video:</h2>
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/T_X13AXiAiY?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Cook" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 ]]></content:encoded>
@@ -1120,10 +1581,13 @@ Note 2: Higher the distance higher delay should be used.</p>
       <link>https://korepi.com/en/features/World/auto-destroy.html</link>
       <guid>https://korepi.com/en/features/World/auto-destroy.html</guid>
       <source url="https://korepi.com/en/rss.xml">Auto Destroy Objects</source>
-      <description>Auto Destroy Objects lets you destroy customizable objects within a specified range, in which it includes, ores, plants, rock piles, chests, special objects, shields, etc. Examp...</description>
+      <description>PERTAMAX Only Auto Destroy Objects lets you destroy customizable objects within a specified range, in which it includes, ores, plants, rock piles, chests, special objects, shiel...</description>
       <category>Features</category>
       <pubDate>Thu, 14 Dec 2023 23:51:59 GMT</pubDate>
-      <content:encoded><![CDATA[<h3> Auto Destroy Objects lets you destroy customizable objects within a specified range, in which it includes, ores, plants, rock piles, chests, special objects, shields, etc.</h3>
+      <content:encoded><![CDATA[<div class="hint-container info">
+<p class="hint-container-title">PERTAMAX Only</p>
+</div>
+<h3> Auto Destroy Objects lets you destroy customizable objects within a specified range, in which it includes, ores, plants, rock piles, chests, special objects, shields, etc.</h3>
 <h2> Example Video:</h2>
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/3ML6s3SR8nE?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Destroy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 <blockquote>
@@ -1136,10 +1600,13 @@ Note 2: Higher the distance higher delay should be used.</p>
       <link>https://korepi.com/en/features/World/auto-fish.html</link>
       <guid>https://korepi.com/en/features/World/auto-fish.html</guid>
       <source url="https://korepi.com/en/rss.xml">Auto Fish</source>
-      <description>Auto fish lets you skip the catching fish animation, which will reduce the time needed to catch a fish. Example Video: Note: Auto Recast is not working at the time creating this...</description>
+      <description>PERTAMAX Only Auto fish lets you skip the catching fish animation, which will reduce the time needed to catch a fish. Example Video: Note: Auto Recast is not working at the time...</description>
       <category>Features</category>
       <pubDate>Thu, 14 Dec 2023 23:51:59 GMT</pubDate>
-      <content:encoded><![CDATA[<h3> Auto fish lets you skip the catching fish animation, which will reduce the time needed to catch a fish.</h3>
+      <content:encoded><![CDATA[<div class="hint-container info">
+<p class="hint-container-title">PERTAMAX Only</p>
+</div>
+<h3> Auto fish lets you skip the catching fish animation, which will reduce the time needed to catch a fish.</h3>
 <h2> Example Video:</h2>
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/K_l4Tg-81iQ?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Fish" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 <blockquote>
@@ -1200,11 +1667,11 @@ Note 2: Higher the distance higher delay should be used.</p>
       <link>https://korepi.com/en/features/World/auto-tree-farm.html</link>
       <guid>https://korepi.com/en/features/World/auto-tree-farm.html</guid>
       <source url="https://korepi.com/en/rss.xml">Auto Tree Farm</source>
-      <description>Sponsor Only Auto Tree Farm lets you punch nearby trees with the selected value and delay, therefore automatically getting wood from nearby trees. Example Video: Note: Not recom...</description>
+      <description>PERTAMAX Only Auto Tree Farm lets you punch nearby trees with the selected value and delay, therefore automatically getting wood from nearby trees. Example Video: Note: Not reco...</description>
       <category>Features</category>
       <pubDate>Thu, 14 Dec 2023 23:51:59 GMT</pubDate>
       <content:encoded><![CDATA[<div class="hint-container info">
-<p class="hint-container-title">Sponsor Only</p>
+<p class="hint-container-title">PERTAMAX Only</p>
 </div>
 <hr>
 <h3> Auto Tree Farm lets you punch nearby trees with the selected value and delay, therefore automatically getting wood from nearby trees.</h3>
@@ -1256,10 +1723,13 @@ Note 2: Higher the distance higher delay should be used.</p>
       <link>https://korepi.com/en/features/World/kill-aura.html</link>
       <guid>https://korepi.com/en/features/World/kill-aura.html</guid>
       <source url="https://korepi.com/en/rss.xml">Kill Aura</source>
-      <description>This feature has a high risk of ban. Kill Aura: Deals damage to surrounding enemies Crash Damage mode: Deals fall damage to surrounding enemies with the specified value, delay a...</description>
+      <description>PERTAMAX Only This feature has a high risk of ban. Kill Aura: Deals damage to surrounding enemies Crash Damage mode: Deals fall damage to surrounding enemies with the specified ...</description>
       <category>Features</category>
       <pubDate>Thu, 14 Dec 2023 23:51:59 GMT</pubDate>
-      <content:encoded><![CDATA[<div class="hint-container danger">
+      <content:encoded><![CDATA[<div class="hint-container info">
+<p class="hint-container-title">PERTAMAX Only</p>
+</div>
+<div class="hint-container danger">
 <p class="hint-container-title">This feature has a high risk of ban.</p>
 </div>
 <hr>
@@ -1343,10 +1813,10 @@ Note 2: Not recommended to use.</p>
       <pubDate>Wed, 13 Dec 2023 02:00:05 GMT</pubDate>
     </item>
     <item>
-      <title>Common Injector Errors</title>
+      <title>Common program Errors</title>
       <link>https://korepi.com/en/troubleshoot/faq-error.html</link>
       <guid>https://korepi.com/en/troubleshoot/faq-error.html</guid>
-      <source url="https://korepi.com/en/rss.xml">Common Injector Errors</source>
+      <source url="https://korepi.com/en/rss.xml">Common program Errors</source>
       <description>List of common errors Why my korepi disappears? Make sure you got your anti-virus disabled, create a new folder and add it to exclusions. Extract korepi inside the excluded fold...</description>
       <category>Troubleshoot</category>
       <pubDate>Wed, 13 Dec 2023 02:00:05 GMT</pubDate>
@@ -1414,13 +1884,13 @@ If after restarting it did not help or no errors were found, write this command:
 <p>Try using a VPN if it doesn't work.</p>
 <hr>
 <h3> Failed to detect game version</h3>
-<p>Update your injector, follow the steps <a href="/en/start/download.html" target="blank">here</a></p>
+<p>Update your program, follow the steps <a href="/en/start/download.html" target="blank">here</a></p>
 <hr>
 <h3> File ok</h3>
 <p>Delete your cfg.json, something might be wrong with the file.</p>
 <hr>
 <h3> UserAssembly.dll isn't initialized, waiting for 2 sec.</h3>
-<p>If your injector crashes after this line try the following steps:</p>
+<p>If your program crashes after this line try the following steps:</p>
 <p>Turn off all anti-viruses in PC.</p>
 <p>If its doesn't help use <code>sfc /scannow</code> command in cmd as administrator.</p>
 <p>If errors are found after checking and Windows is unable to resolve them, use the <code>DISM.exe /Online /Cleanup-Image /RestoreHealth</code> command.</p>
@@ -1458,7 +1928,10 @@ If after restarting it did not help or no errors were found, write this command:
 <p class="hint-container-title">If you are a Sponsor before February 4th, 2024, click "Sponsor Compensation" and enter "YES" to receive 3 months of compensation time, after successfully claiming your "card" follow the next step"</p>
 </div>
 <h3> Step 3:</h3>
-<p>Click <code>Get Verification File</code>, and you need to fill in your <code>HWID (device ID)</code> obtainable after opening the injector once.</p>
+<div class="hint-container info">
+<p class="hint-container-title">If you already got a enc.json delete it before opening the program</p>
+</div>
+<p>Click <code>Get Verification File</code>, and you need to fill in your <code>HWID (device ID)</code> obtainable after opening the program once.</p>
 <ul>
 <li>You will get a file from the bot, download it and place it on your korepi folder. Make sure the name is <code>enc.json</code>.</li>
 </ul>
@@ -1469,7 +1942,7 @@ If after restarting it did not help or no errors were found, write this command:
 <p class="hint-container-title">You can only pause the key once every 30 days</p>
 </div>
 <h2> How to change HWID (Device ID)</h2>
-<p>Click on <code>ID(Change HWID)</code>, and paste in the new <code>HWID</code> you get from opening the injector, after that download the new file and place it on your Korepi folder.</p>
+<p>Click on <code>ID(Change HWID)</code>, and paste in the new <code>HWID</code> you get from opening the program, after that download the new file and place it on your Korepi folder.</p>
 <div class="hint-container info">
 <p class="hint-container-title">You can only reset the HWID once every 7 days</p>
 </div>
@@ -1628,20 +2101,18 @@ In order to use custom skins in we will need to download:</p>
       <link>https://korepi.com/en/start/download.html</link>
       <guid>https://korepi.com/en/start/download.html</guid>
       <source url="https://korepi.com/en/rss.xml">Download</source>
-      <description>Introduction Welcome to our community! To pass the bot check and receive the Newcomer role, follow these steps. Step 1: Join our server and obtain the Newcomer and Fans roles If...</description>
+      <description>Introduction Welcome to our community! To pass the bot check and receive the Newcomer role, follow these steps. Step 1: Join our server and obtain the Newcomer role If you haven...</description>
       <category>Guide</category>
       <pubDate>Thu, 30 Nov 2023 10:24:26 GMT</pubDate>
       <content:encoded><![CDATA[<h1> Download</h1>
 <h2> Introduction</h2>
 <p>Welcome to our community! To pass the bot check and receive the <code>Newcomer</code> role, follow these steps.</p>
-<h3> Step 1: Join our server and obtain the <code>Newcomer</code> and <code>Fans</code> roles</h3>
-<p>If you haven't joined the server yet, please read the verification post, which describes how to join the server and obtain the <code>Newcomer</code> and <code>Fans</code> roles.</p>
-<h3> Step 2: Go to the channel <code>★⋅korepi-version-roles⋅★</code></h3>
-<p>Locate the channel <code>★⋅korepi-version-roles⋅★</code> and choose either the F or V version role. We recommend selecting the F role.</p>
-<h3> Step 3: Download the necessary resources</h3>
-<p>Once you've done that, you will gain access to the corresponding download channel: <code>★⋅f-download⋅★</code> or <code>★⋅v-download⋅★</code>.</p>
-<h3> Step 4: Ready!</h3>
-<p>In the channel, you will find a link to the current version and the password for the archive. Good luck!</p>
+<h3> Step 1: Join our server and obtain the <code>Newcomer</code> role</h3>
+<p>If you haven't joined the server yet, please read the verification post, which describes how to join the server and obtain the <code>Newcomer</code>.</p>
+<h3> Step 2: Go to the channel <code>★⋅korepi-download⋅★</code></h3>
+<p>Locate the channel <code>★⋅korepi-download⋅★</code> and follow the link to download the program.</p>
+<h3> Step 3: Ready!</h3>
+<p>Place the .rar in a folder and add it to <a href="/en/guide/virus.html" target="blank">exclusions</a>, after that extract it and follow this <a href="/en/guide/getkey.html" target="blank">guide</a></p>
 ]]></content:encoded>
     </item>
     <item>

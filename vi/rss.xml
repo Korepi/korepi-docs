@@ -6,16 +6,61 @@
     <link>https://korepi.com/vi/</link>
     <description>Trợ giúp về Korepi</description>
     <language>vi-VN</language>
-    <pubDate>Wed, 07 Feb 2024 16:44:56 GMT</pubDate>
-    <lastBuildDate>Wed, 07 Feb 2024 16:44:56 GMT</lastBuildDate>
+    <pubDate>Wed, 07 Feb 2024 20:45:50 GMT</pubDate>
+    <lastBuildDate>Wed, 07 Feb 2024 20:45:50 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+    <category>Features</category>
     <category>Hướng Dẫn</category>
+    <category>Guide</category>
     <category>Các Câu Hỏi Thường Gặp</category>
     <category>Các Tính Năng</category>
     <category>Khắc Phục Lỗi</category>
-    <category>Features</category>
     <category>Hướng dẫn</category>
+    <item>
+      <title>Map Manager</title>
+      <link>https://korepi.com/vi/features/World/map-manager.html</link>
+      <guid>https://korepi.com/vi/features/World/map-manager.html</guid>
+      <source url="https://korepi.com/vi/rss.xml">Map Manager</source>
+      <description>Map Manager allows the player to unlock Statues of the Seven or Waypoints automatically without moving from the place, great to create reroll accounts.</description>
+      <category>Features</category>
+      <pubDate>Wed, 07 Feb 2024 20:25:33 GMT</pubDate>
+      <content:encoded><![CDATA[<h3> Map Manager allows the player to unlock Statues of the Seven or Waypoints automatically without moving from the place, great to create reroll accounts.</h3>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Auto Domain</title>
+      <link>https://korepi.com/vi/features/World/auto-domain.html</link>
+      <guid>https://korepi.com/vi/features/World/auto-domain.html</guid>
+      <source url="https://korepi.com/vi/rss.xml">Auto Domain</source>
+      <description>Soon.</description>
+      <category>Features</category>
+      <pubDate>Wed, 07 Feb 2024 13:27:26 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Soon.</h2>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Auto Puzzle</title>
+      <link>https://korepi.com/vi/features/World/auto-puzzle.html</link>
+      <guid>https://korepi.com/vi/features/World/auto-puzzle.html</guid>
+      <source url="https://korepi.com/vi/rss.xml">Auto Puzzle</source>
+      <description>Soon.</description>
+      <category>Features</category>
+      <pubDate>Wed, 07 Feb 2024 13:27:26 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Soon.</h2>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Stats Modifier</title>
+      <link>https://korepi.com/vi/features/Player/stats-modifer.html</link>
+      <guid>https://korepi.com/vi/features/Player/stats-modifer.html</guid>
+      <source url="https://korepi.com/vi/rss.xml">Stats Modifier</source>
+      <description>Soon.</description>
+      <category>Features</category>
+      <pubDate>Wed, 07 Feb 2024 13:14:17 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Soon.</h2>
+]]></content:encoded>
+    </item>
     <item>
       <title>Phiên Bản Miễn Phí</title>
       <link>https://korepi.com/vi/guide/free.html</link>
@@ -25,6 +70,7 @@
       <category>Hướng Dẫn</category>
       <pubDate>Wed, 07 Feb 2024 00:26:57 GMT</pubDate>
       <content:encoded><![CDATA[<h2> Hướng Dẫn Lấy Key Korepi Miễn Phí</h2>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/GURGoE2IEg8" title="Free Version | Cotton Buds" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 <h3> Bước 1:</h3>
 <ul>
 <li>
@@ -39,9 +85,15 @@
 <p>Click vào <code>Bind free card</code> rồi mở đường link được cung cấp bởi bot. Sau đó xem quảng cáo rồi nhấn skip.</p>
 <h3> Bước 3:</h3>
 <p>Nếu như tin nhắn gắn thẻ (bind message) hiển thị <code>Success</code> có nghĩa là bạn đã nhận key thành công. Nếu nó không hiện <code>Success</code>, hãy lặp lại từ bước số 1.</p>
+<p><img src="/assets/images/docs/202312/success.png" alt="" loading="lazy"></p>
+<p>=======</p>
 <h3> Bước 4:</h3>
+<div class="hint-container info">
+<p class="hint-container-title">If you already got a enc.json delete it before opening the program</p>
+</div>
 <p>Mở Korepi để lấy <code>HWID</code>, sau đó đi đến kênh <code>★⋅micah-bot-verify⋅★</code> và click vào <code>Get verification file</code> rồi sau đó dán <code>HWID</code> của bạn vào.</p>
 <p>Sau khi nhấn xác nhận, bạn sẽ nhận được một file từ bot. Sau đó tải và đặt file đó vào thư mục chứa Korepi. Hãy đảm bảo rằng tên file là <code>enc.json</code>.</p>
+<p>=======</p>
 <h3> Bước 5:</h3>
 <p>Mở Korepi lên và làm theo hướng dẫn ghi trong cmd.</p>
 <p>Tận Hưởng Korepi!</p>
@@ -88,58 +140,446 @@
 ]]></content:encoded>
     </item>
     <item>
-      <title>Sự Khác Biệt Giữa Các Phiên Bản</title>
+      <title>Differences between versions</title>
       <link>https://korepi.com/vi/start/differences.html</link>
       <guid>https://korepi.com/vi/start/differences.html</guid>
-      <source url="https://korepi.com/vi/rss.xml">Sự Khác Biệt Giữa Các Phiên Bản</source>
-      <description>Sự Khác Biệt Chính Giữa Phiên Bản V Và F Phiên Bản Phiên Bản FPhiên Bản V --------------------- Tính NăngGiống nhauGiống nhau Thông Báo Cập NhậtX✓ Mở Nhiều Cửa Số Game (../guide...</description>
-      <category>Hướng Dẫn</category>
+      <source url="https://korepi.com/vi/rss.xml">Differences between versions</source>
+      <description>Available Features between versions. Version Free SponsorPERTAMAX --------------------------- Attack Effects✓✓✓ Auto Run✓✓✓ Cooldown Effects✓✓✓ Fall Control✓✓✓ God Mode✓✓✓ Infin...</description>
+      <category>Guide</category>
       <pubDate>Sat, 13 Jan 2024 00:53:24 GMT</pubDate>
-      <content:encoded><![CDATA[<h1> Sự Khác Biệt Giữa Phiên Bản V và F.</h1>
-<h2> Sự Khác Biệt Chính Giữa Phiên Bản V Và F</h2>
+      <content:encoded><![CDATA[<h2> Available Features between versions.</h2>
 <table>
 <thead>
 <tr>
-<th>Phiên Bản</th>
-<th>Phiên Bản F</th>
-<th>Phiên Bản V</th>
+<th>Version</th>
+<th>Free</th>
+<th>Sponsor</th>
+<th>PERTAMAX</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td>Tính Năng</td>
-<td>Giống nhau</td>
-<td>Giống nhau</td>
+<td>Attack Effects</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Thông Báo Cập Nhật</td>
+<td>Auto Run</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Cooldown Effects</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Fall Control</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>God Mode</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Infinite Stamina</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>No-Clip</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Player Speed</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Auto-Challenge</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Auto-Loot</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Auto-Seelie</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Auto Talk</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Dumb Enemies</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Elemental Sight</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>ESP</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Freeze Enemies</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Game Speed</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Open Team Immediately</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Skip Enhance Animation</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Chest Teleport</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Oculi Teleport</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Map Teleport</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Quest Teleport</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Custom Teleport</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Interactive Map</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Camera Zoom</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>FOV Changer</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Chest Indicator</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Censor Remover</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>FPS Unlock</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Hide UI</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Map Zoom</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>No Fog</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>No Grass</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>No Map Fog</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Summon Paimon</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Profile Changer</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Auto Activate Waypoint</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Crit Rate Modifier</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Dolphin Dive</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Elemental Aura</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Extra Movement</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Extra Visual Settings</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Fake Time</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Free Camera</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>GM Icon</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Monster Changer</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>No Camera Blur</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>No Camera Shake</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>No Footprints</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>No Skill Animation</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Debug</td>
+<td><span style="color:red;">X</span></td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td><a href="/vi/guide/multi-instance.html" target="blank">Mở Nhiều Cửa Số Game</a></td>
+<td>Animation Changer</td>
+<td><span style="color:red;">X</span></td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Cài Đặt</td>
-<td>Dễ</td>
-<td>Trung bình-Khó</td>
+<td>Auto Cook</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Khắc Phục Lỗi</td>
-<td>Dễ</td>
-<td>Trung bình-Khó</td>
+<td>Auto Destroy</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Phương Thức Xác Thực</td>
-<td>Xác thực bằng key</td>
-<td>Xác thực bằng file</td>
+<td>Auto Fish</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Auto Tree Farm</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Constellation Modifier</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Custom Weather</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Emotion Changer</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Flycloak Modifier</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Kill Aura</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Map Manager</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Mob Vacuum</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Remote Utilities</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Vacuum Loot</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Skin Modifier</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Auto Puzzle</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Auto Domain</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Stats Modifier</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
 </tr>
 </tbody>
 </table>
-<h2> Tôi Nên Sử Dụng Phiên Bản Nào?</h2>
-<p>Đối với <span style="color:yellow;">Nhà Tài Trợ</span> bạn có thể sử dụng bất kỳ phiên bản nào mà bạn thích. Đối với Fans, bạn nên sử dụng phiên bản V vì tại thời điểm hiện tại nó ổn định hơn.</p>
 ]]></content:encoded>
     </item>
     <item>
@@ -361,7 +801,11 @@ Most likely you surpassed the reset time, it resets daily, if you skip 1 day it 
 <div class="hint-container info">
 <p class="hint-container-title">Nếu như bạn là Nhà Tài Trợ (Sponsor) trước ngày 4 tháng 2 năm 2024, hãy click vào "Sponsor Compensation" rồi nhập "YES" để nhận 3 tháng đền bù. Sau khi nhận "card" thành công, hãy làm bước tiếp theo</p>
 </div>
+<p>=======</p>
 <h3> Bước 3:</h3>
+<div class="hint-container info">
+<p class="hint-container-title">If you already got a enc.json delete it before opening the program</p>
+</div>
 <p>Click vào <code>Get Verification File</code>, sau đó điền <code>HWID (device ID)</code> mà bạn nhận được khi mở Korepi.</p>
 <ul>
 <li>Bạn sẽ nhận được một file từ bot. Tải nó về rồi đặt vào trong thư mục chứa Korepi. Hãy đảm bảo rằng tên của file phải là <code>enc.json</code>.</li>
@@ -373,7 +817,8 @@ Most likely you surpassed the reset time, it resets daily, if you skip 1 day it 
 <p class="hint-container-title">Bạn chỉ có thể tạm dừng key một lần mỗi 30 ngày.</p>
 </div>
 <h2> Hướng Dẫn Đổi HWID (Device ID)</h2>
-<p>Click vào <code>ID(Change HWID)</code> rồi sau đó nhập <code>HWID</code> mới mà bạn nhận được từ Korepi vào. Tiếp đó hãy tải file và đặt nó vào thư mục chứa Korepi.</p>
+<p>=======
+Click vào <code>ID(Change HWID)</code> rồi sau đó nhập <code>HWID</code> mới mà bạn nhận được từ Korepi vào. Tiếp đó hãy tải file và đặt nó vào thư mục chứa Korepi.</p>
 <div class="hint-container info">
 <p class="hint-container-title">Bạn chỉ có thể reset HWID một lần mỗi 7 ngày.</p>
 </div>
@@ -1647,20 +2092,18 @@ Lưu ý 2: Không khuyến khích sử dụng chức năng này.</p>
       <link>https://korepi.com/vi/start/download.html</link>
       <guid>https://korepi.com/vi/start/download.html</guid>
       <source url="https://korepi.com/vi/rss.xml">Tải Xuống</source>
-      <description>Giới thiệu Chào mừng đến với cộng đồng của chúng tôi! Để tải xuống công cụ này, hãy làm theo các bước sau. Bước 1: Tham gia vào server và lấy Role &amp;quot;Newcomer&amp;quot;, &amp;quot;Fans&amp;quot; nếu bạn chư...</description>
+      <description>Introduction Welcome to our community! To pass the bot check and receive the Newcomer role, follow these steps. Step 1: Join our server and obtain the Newcomer role If you haven...</description>
       <category>Hướng Dẫn</category>
       <pubDate>Thu, 30 Nov 2023 15:50:40 GMT</pubDate>
-      <content:encoded><![CDATA[<h1> Tải Xuống</h1>
-<h2> Giới thiệu</h2>
-<p>Chào mừng đến với cộng đồng của chúng tôi! Để tải xuống công cụ này, hãy làm theo các bước sau.</p>
-<h2> Bước 1: Tham gia vào server và lấy Role "Newcomer", "Fans" nếu bạn chưa có</h2>
-<p>Nếu bạn chưa có mặt trên máy chủ, vui lòng đọc những bài trước đó, nơi nó được mô tả cách tham gia máy chủ và lấy Role <strong>Newcomer</strong> và <strong>Fans</strong>.</p>
-<h2> Bước 2: Tìm đến kênh <code>★⋅korepi-version-roles⋅★</code></h2>
-<p>Tìm đến kênh <code>★⋅korepi-version-roles⋅★</code> và chọn một trong hai giữa F và V. Chúng tôi khuyến khích bạn lựa chọn Role <strong>F</strong></p>
-<h2> Bước 3: Tải các tài nguyên cần thiết</h2>
-<p>Một khi bạn đã làm được điều đó, bạn sẽ có quyền truy cập vào kênh tải xuống tương ứng: <code>★⋅f-download⋅★</code> hoặc <code>★⋅v-download⋅★</code>.</p>
-<h2> Bước 4: Sẵn sàng!</h2>
-<p>Ở trong kênh này, bạn sẽ tìm thấy link dẫn đến phiên bản hiện tại và mật khẩu của tệp tin. Chúc may mắn!</p>
+      <content:encoded><![CDATA[<h1> Download</h1>
+<h2> Introduction</h2>
+<p>Welcome to our community! To pass the bot check and receive the <code>Newcomer</code> role, follow these steps.</p>
+<h3> Step 1: Join our server and obtain the <code>Newcomer</code> role</h3>
+<p>If you haven't joined the server yet, please read the verification post, which describes how to join the server and obtain the <code>Newcomer</code>.</p>
+<h3> Step 2: Go to the channel <code>★⋅korepi-download⋅★</code></h3>
+<p>Locate the channel <code>★⋅korepi-download⋅★</code> and follow the link to download the program.</p>
+<h3> Step 3: Ready!</h3>
+<p>Place the .rar in a folder and add it to <a href="/vi/guide/virus.html" target="blank">exclusions</a>, after that extract it and follow this <a href="/vi/guide/getkey.html" target="blank">guide</a></p>
 ]]></content:encoded>
     </item>
     <item>

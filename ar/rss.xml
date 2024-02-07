@@ -6,16 +6,503 @@
     <link>https://korepi.com/ar/</link>
     <description>للمساعدة Korepi</description>
     <language>ar</language>
-    <pubDate>Wed, 07 Feb 2024 16:44:56 GMT</pubDate>
-    <lastBuildDate>Wed, 07 Feb 2024 16:44:56 GMT</lastBuildDate>
+    <pubDate>Wed, 07 Feb 2024 20:45:50 GMT</pubDate>
+    <lastBuildDate>Wed, 07 Feb 2024 20:45:50 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+    <category>Features</category>
     <category>Guide</category>
     <category>الميزات</category>
-    <category>Features</category>
     <category>Troubleshoot</category>
     <category>FAQ</category>
     <category>المميزات</category>
+    <item>
+      <title>Map Manager</title>
+      <link>https://korepi.com/ar/features/World/map-manager.html</link>
+      <guid>https://korepi.com/ar/features/World/map-manager.html</guid>
+      <source url="https://korepi.com/ar/rss.xml">Map Manager</source>
+      <description>Map Manager allows the player to unlock Statues of the Seven or Waypoints automatically without moving from the place, great to create reroll accounts.</description>
+      <category>Features</category>
+      <pubDate>Wed, 07 Feb 2024 20:25:33 GMT</pubDate>
+      <content:encoded><![CDATA[<h3> Map Manager allows the player to unlock Statues of the Seven or Waypoints automatically without moving from the place, great to create reroll accounts.</h3>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Differences between versions</title>
+      <link>https://korepi.com/ar/start/differences.html</link>
+      <guid>https://korepi.com/ar/start/differences.html</guid>
+      <source url="https://korepi.com/ar/rss.xml">Differences between versions</source>
+      <description>Available Features between versions. Version Free SponsorPERTAMAX --------------------------- Attack Effects✓✓✓ Auto Run✓✓✓ Cooldown Effects✓✓✓ Fall Control✓✓✓ God Mode✓✓✓ Infin...</description>
+      <category>Guide</category>
+      <pubDate>Wed, 07 Feb 2024 20:20:28 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Available Features between versions.</h2>
+<table>
+<thead>
+<tr>
+<th>Version</th>
+<th>Free</th>
+<th>Sponsor</th>
+<th>PERTAMAX</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Attack Effects</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Auto Run</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Cooldown Effects</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Fall Control</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>God Mode</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Infinite Stamina</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>No-Clip</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Player Speed</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Auto-Challenge</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Auto-Loot</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Auto-Seelie</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Auto Talk</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Dumb Enemies</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Elemental Sight</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>ESP</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Freeze Enemies</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Game Speed</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Open Team Immediately</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Skip Enhance Animation</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Chest Teleport</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Oculi Teleport</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Map Teleport</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Quest Teleport</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Custom Teleport</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Interactive Map</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Camera Zoom</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>FOV Changer</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Chest Indicator</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Censor Remover</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>FPS Unlock</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Hide UI</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Map Zoom</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>No Fog</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>No Grass</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>No Map Fog</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Summon Paimon</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Profile Changer</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Auto Activate Waypoint</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Crit Rate Modifier</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Dolphin Dive</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Elemental Aura</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Extra Movement</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Extra Visual Settings</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Fake Time</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Free Camera</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>GM Icon</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Monster Changer</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>No Camera Blur</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>No Camera Shake</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>No Footprints</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>No Skill Animation</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Debug</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Animation Changer</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Auto Cook</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Auto Destroy</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Auto Fish</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Auto Tree Farm</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Constellation Modifier</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Custom Weather</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Emotion Changer</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Flycloak Modifier</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Kill Aura</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Map Manager</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Mob Vacuum</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Remote Utilities</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Vacuum Loot</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Skin Modifier</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Auto Puzzle</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Auto Domain</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Stats Modifier</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+</tbody>
+</table>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Auto Domain</title>
+      <link>https://korepi.com/ar/features/World/auto-domain.html</link>
+      <guid>https://korepi.com/ar/features/World/auto-domain.html</guid>
+      <source url="https://korepi.com/ar/rss.xml">Auto Domain</source>
+      <description>Soon.</description>
+      <category>Features</category>
+      <pubDate>Wed, 07 Feb 2024 13:27:26 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Soon.</h2>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Auto Puzzle</title>
+      <link>https://korepi.com/ar/features/World/auto-puzzle.html</link>
+      <guid>https://korepi.com/ar/features/World/auto-puzzle.html</guid>
+      <source url="https://korepi.com/ar/rss.xml">Auto Puzzle</source>
+      <description>Soon.</description>
+      <category>Features</category>
+      <pubDate>Wed, 07 Feb 2024 13:27:26 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Soon.</h2>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Stats Modifier</title>
+      <link>https://korepi.com/ar/features/Player/stats-modifer.html</link>
+      <guid>https://korepi.com/ar/features/Player/stats-modifer.html</guid>
+      <source url="https://korepi.com/ar/rss.xml">Stats Modifier</source>
+      <description>Soon.</description>
+      <category>Features</category>
+      <pubDate>Wed, 07 Feb 2024 13:14:17 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Soon.</h2>
+]]></content:encoded>
+    </item>
     <item>
       <title>Free Version</title>
       <link>https://korepi.com/ar/guide/free.html</link>
@@ -25,23 +512,24 @@
       <category>Guide</category>
       <pubDate>Wed, 07 Feb 2024 00:26:57 GMT</pubDate>
       <content:encoded><![CDATA[<h2> كيفية الحصول على ترخيص مجاني لـKorepi.</h2>
-<h3> الخطوة 1:</h3>
-<ul>
-<li>
-<p>اعثر على قناة <code>★⋅micah-bot-verify⋅★</code>  <a href="https://discord.com/channels/1069057220802781265/1203687333107335198" target="_blank" rel="noopener noreferrer">رابط مباشر</a></p>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/GURGoE2IEg8" title="Free Version | Cotton Buds" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/GURGoE2IEg8" title="Free Version | Cotton Buds" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+### الخطوة 1:
+- اعثر على قناة `★⋅micah-bot-verify⋅★`  [رابط مباشر](https://discord.com/channels/1069057220802781265/1203687333107335198)
 <p><img src="/assets/images/docs/202402/verify-1.png" alt="img.png" loading="lazy"></p>
-</li>
-<li>
-<p>ابحث عن الرسالة المرسلة من <code>★Micah-bot★</code></p>
-</li>
+<ul>
+<li>ابحث عن الرسالة المرسلة من <code>★Micah-bot★</code></li>
 </ul>
 <h3> الخطوة 2:</h3>
 <p>انقر فوق <code>Bind free card</code>, اتبع رابط الدي ارسله لك البوت بعد الضغط عليه، شاهد الإعلان وتخطاه.</p>
 <h3> الخطوه 3:</h3>
 <p>إذا ظهرت رسالة الربط <code>Success</code>, لقد انتهيت بنجاح من المطالبة بالترخيص، إذا لم يظهر كـ <code>Success</code>, كرر من الخطوة الأولى.</p>
+<p><img src="/assets/images/docs/202312/success.png" alt="" loading="lazy"></p>
+<p>=======</p>
 <h3> الخطوة 4:</h3>
 <p>افتح الحاقن للحصول على <code>HWID</code> الخاص بك, بعد ذلك توجه إلى <code>★⋅micah-bot-verify⋅★</code> مرة أخرى وانقر على <code>Get verification file</code> ولصق <code>HWID</code>الخاص بك.</p>
 <p>بعد النقر على إرسال، ستتلقى ملفًا من الروبوت، قم بتنزيله ووضعه في مجلد Korepi الخاص بك. تأكد من الاسم <code>enc.json</code>.</p>
+<p>=======</p>
 <h3> الخطوة 5:</h3>
 <p>قم بتشغيل الحاقن مرة أخرى واتبع التعليمات الموجودة في cmd.</p>
 <p>استمتع Korepi!</p>
@@ -223,6 +711,9 @@
 <p class="hint-container-title">إذا كنت راعيًا قبل 4 فبراير 2024، فانقر فوق "Sponsor Compensation" وأدخل "YES" للحصول على 3 أشهر من وقت التعويض، بعد المطالبة بنجاح ب "بطاقتك" اتبع الخطوة التالية"</p>
 </div>
 <h3> الخطوه 3:</h3>
+<div class="hint-container info">
+<p class="hint-container-title">If you already got a enc.json delete it before opening the program</p>
+</div>
 <p>انقر <code>Get Verification File</code>, ستحتاج الى لصق معرف الجهاز الخاص بك <code>HWID </code> يمكن الحصول عليه بعد فتح الحاقن مرة واحدة.</p>
 <ul>
 <li>سوف تحصل على ملف من الروبوت، قم بتنزيله ووضعه في مجلد korepi الخاص بك. تأكد من الاسم <code>enc.json</code>.</li>
@@ -234,6 +725,9 @@
 <p class="hint-container-title">يمكنك إيقاف المفتاح مؤقتًا مرة واحدة فقط كل 30 يومًا</p>
 </div>
 <h2> كيفية التغيير HWID (Device ID)</h2>
+<div class="hint-container info">
+<p class="hint-container-title">If you already got a enc.json delete it before opening the program</p>
+</div>
 <p>انقر فوق <code>ID(Change HWID)</code>, األصق <code>HWID</code> الجديد الدي حصلت عليه من فتح الحاقن, بعد ذلك قم بتنزيل الملف الجديد وضعه في مجلد Korepi الخاص بك.</p>
 <div class="hint-container info">
 <p class="hint-container-title">يمكنك فقط إعادة تعيين HWID مرة واحدة كل 7 أيام</p>
@@ -273,20 +767,18 @@
       <link>https://korepi.com/ar/start/download.html</link>
       <guid>https://korepi.com/ar/start/download.html</guid>
       <source url="https://korepi.com/ar/rss.xml">تحميل</source>
-      <description>مقدمة أهلا بك في مجتمعنا! لاجتياز فحص الروبوت والحصول على روول Newcomer اتبع الخطوات التالية الخطوة 1: انضم إلى السيرفر واحصل على روول Newcomer و Fans. إذا لم تنضم إلى الخادم بع...</description>
+      <description>Introduction Welcome to our community! To pass the bot check and receive the Newcomer role, follow these steps. Step 1: Join our server and obtain the Newcomer role If you haven...</description>
       <category>Guide</category>
       <pubDate>Fri, 22 Dec 2023 11:31:21 GMT</pubDate>
-      <content:encoded><![CDATA[<h1> تحميل</h1>
-<h2> مقدمة</h2>
-<p>أهلا بك في مجتمعنا! لاجتياز فحص الروبوت والحصول على روول <code>Newcomer</code> اتبع الخطوات التالية</p>
-<h3> الخطوة 1: انضم إلى السيرفر واحصل على روول <code>Newcomer</code> و <code>Fans</code>.</h3>
-<p>إذا لم تنضم إلى الخادم بعد، فيرجى قراءة منشور التحقق الذي يوضح كيفية الانضمام إلى الخادم والحصول على روول <code>Newcomer</code> و <code>Fans</code>.</p>
-<h3> الخطوة الثانية: اذهب إلى القناة <code>★⋅korepi-version-roles⋅★</code></h3>
-<p>حدد موقع القناة <code>★⋅korepi-version-roles⋅★</code> واختر إما روول الإصدار F أو V. نوصي باختيار روول F.</p>
-<h3> الخطوة 3: قم بتنزيل الموارد اللازمة</h3>
-<p>بمجرد القيام بذلك، ستتمكن من الوصول إلى قناة التنزيل المقابلة: <code>★⋅f-download⋅★</code> أو <code>★⋅v-download⋅★</code></p>
-<h3> الخطوة 4: جاهز!</h3>
-<p>ستجد في القناة رابط الإصدار الحالي وكلمة المرور للأرشيف. حظ سعيد!</p>
+      <content:encoded><![CDATA[<h1> Download</h1>
+<h2> Introduction</h2>
+<p>Welcome to our community! To pass the bot check and receive the <code>Newcomer</code> role, follow these steps.</p>
+<h3> Step 1: Join our server and obtain the <code>Newcomer</code> role</h3>
+<p>If you haven't joined the server yet, please read the verification post, which describes how to join the server and obtain the <code>Newcomer</code>.</p>
+<h3> Step 2: Go to the channel <code>★⋅korepi-download⋅★</code></h3>
+<p>Locate the channel <code>★⋅korepi-download⋅★</code> and follow the link to download the program.</p>
+<h3> Step 3: Ready!</h3>
+<p>Place the .rar in a folder and add it to <a href="/ar/guide/virus.html" target="blank">exclusions</a>, after that extract it and follow this <a href="/ar/guide/getkey.html" target="blank">guide</a></p>
 ]]></content:encoded>
     </item>
     <item>
@@ -543,13 +1035,13 @@
 <p>حاول استخدام VPN إذا لم يعمل.</p>
 <hr>
 <h3> Failed to detect game version</h3>
-<p>قم بتحديث injector الخاص بك، اتبع الخطوات <a href="/ar/start/download.html" target="blank">هنا</a></p>
+<p>قم بتحديث program الخاص بك، اتبع الخطوات <a href="/ar/start/download.html" target="blank">هنا</a></p>
 <hr>
 <h3> File ok</h3>
 <p>احذف ملف cfg.json، فقد يكون هناك خطأ ما في الملف.</p>
 <hr>
 <h3> UserAssembly.dll isn't initialized, waiting for 2 sec.</h3>
-<p>إذا تعطل injector الخاص بك بعد هذا الخط، فجرب الخطوات التالية:</p>
+<p>إذا تعطل program الخاص بك بعد هذا الخط، فجرب الخطوات التالية:</p>
 <p>قم بإيقاف تشغيل كافة برامج مكافحة الفيروسات في جهاز الكمبيوتر.</p>
 <p>إذا لم يكن الأمر مفيدًا، فاستخدم الأمر <code>sfc /scannow</code> في cmd كمسؤول.</p>
 <p>إذا تم العثور على أخطاء بعد التحقق ولم يتمكن Windows من حلها، فاستخدم امر <code>DISM.exe /Online /Cleanup-Image /RestoreHealth</code>.</p>
