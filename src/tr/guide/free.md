@@ -1,35 +1,35 @@
 ---
-title: Free Version
+title: Bedava Versiyon
 icon: key
 category:
-  - Guide
+  - Kılavuzlar
 tag:
-  - Start
-  - License
+  - Başlangıç
+  - Lisans
 author: Schvis
 order: 2
 ---
 
-## How to get the free license for Korepi.
+## Korepi için ücretsiz lisans nasıl alınır?
 
-### Step 1:
-- Find the `★⋅micah-bot-verify⋅★` channel [direct link](https://discord.com/channels/1069057220802781265/1203687333107335198)
+### Adım 1:
+- `★⋅micah-bot-verify⋅★` kanalını bulun [doğrudan bağlantı](https://discord.com/channels/1069057220802781265/1203687333107335198)
 
   ![img.png](/assets/images/docs/202402/verify-1.png)
-- Find the message sent by Micah-bot
+- Micah-bot tarafından gönderilen mesajı bulun
 
-### Step 2:
-Click on `Bind free card`, follow the provide link by the bot after clicking on it, watch the ad and skip it.
+### Adım 2:
+`Bind free card` tıklayın, tıkladıktan sonra bot tarafından sağlanan bağlantıyı takip edin, reklamı izleyin ve atlayın.
 
-### Step 3:
-If the bind message shows `Success`, you have successfully finished claiming the license, if it doesn't show as `Success`, repeat from the first step.
+### Adım 3:
+Bağlama mesajı `Success` gösteriyorsa, lisans talebini başarıyla tamamladınız demektir, `Success` göstermiyorsa, ilk adımdan itibaren tekrarlayın.
 
-### Step 4:
-Launch the injector to obtain your `HWID`, after that head to `★⋅micah-bot-verify⋅★` again and click on `Get verification file` and paste in your `HWID`.
+### Adım 4:
+`HWID`, almak için enjektörü başlatın, ardından tekrar `★⋅micah-bot-verify⋅★` adresine gidin ve `Get verification file` seçeneğine tıklayın ve `HWID`'nizi yapıştırın..
 
-After clicking on submit you will receive a file from the bot, download it and place it on your Korepi folder. Make sure the name is `enc.json`.
+Gönder'e tıkladıktan sonra bottan bir dosya alacaksınız, dosyayı indirin ve Korepi klasörünüze yerleştirin. Adının `enc.json` olduğundan emin olun.
 
-### Step 5:
-Launch the injector again and follow the instructions provide in the cmd.
+### Adım 5:
+Enjektörü tekrar başlatın ve cmd'de verilen talimatları izleyin.
 
-Enjoy Korepi!
+Korepi'nin tadını çıkarın!
