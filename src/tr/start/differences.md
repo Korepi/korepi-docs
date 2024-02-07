@@ -2,10 +2,10 @@
 title: Versiyonlar arasındaki farklar
 icon: server
 category:
-  - Guide
+  - Kılavuzlar
 tag:
-  - Start
-author: Schvis HiroAndZer02
+  - Başlangıç
+author: Schvis
 order: 6
 ---
 
