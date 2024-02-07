@@ -146,3 +146,8 @@ PCのウイルス対策ソフトをすべてオフにします。
 
 エラーが繰り返し発生する場合は、Windows を出荷時にリセットしてください。
 
+### Current data does not exist or server error.
+
+![](/assets/images/docs/202312/error.png)
+
+Unpause your license and try again.

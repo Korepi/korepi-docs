@@ -140,3 +140,9 @@ Se foram encontrados erros e o Windows não puder corrigi-los, use `DISM.exe /On
 Depois disso, reinicie seu computador e verifique se funciona.
 
 Se não funcionar, será necessário reinstalar o Windows.
+
+### Current data does not exist or server error.
+
+![](/assets/images/docs/202312/error.png)
+
+Unpause your license and try again.
