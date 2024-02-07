@@ -6,8 +6,8 @@
     <link>https://korepi.com/mx/</link>
     <description>Ayuda en Korepi</description>
     <language>es-MX</language>
-    <pubDate>Wed, 07 Feb 2024 21:03:00 GMT</pubDate>
-    <lastBuildDate>Wed, 07 Feb 2024 21:03:00 GMT</lastBuildDate>
+    <pubDate>Wed, 07 Feb 2024 22:46:10 GMT</pubDate>
+    <lastBuildDate>Wed, 07 Feb 2024 22:46:10 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Funciones</category>
@@ -803,31 +803,6 @@ Para poder usar skins personalizadas en Korepi tendremos que descargar la aplica
 </ol>
 <p>Si el enlace de invitación es inválido, el servidor puede que este temporalmente cerrado. Por favor, espera a que se abra de nuevo. Ahora puedes ir al siguiente paso.</p>
 ]]></content:encoded>
-    </item>
-    <item>
-      <title>Registro</title>
-      <link>https://korepi.com/mx/start/sign-in.html</link>
-      <guid>https://korepi.com/mx/start/sign-in.html</guid>
-      <source url="https://korepi.com/mx/rss.xml">Registro</source>
-      <description>Introducción Bienvenid@ a nuestra comunidad! Para registrarte y obtener el rol de &amp;quot;Fans&amp;quot;, sigue estos pasos Paso 1: Únete a nuestro servidor y consigue el rol de &amp;quot;Newcomer&amp;quot; is a...</description>
-      <category>Guía</category>
-      <pubDate>Wed, 20 Dec 2023 19:58:51 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Introducción</h2>
-<p>Bienvenid@ a nuestra comunidad! Para registrarte y obtener el rol de "Fans", sigue estos pasos</p>
-<h3> Paso 1: Únete a nuestro servidor y consigue el rol de "Newcomer" is aún no lo has hecho</h3>
-<p>Si aún no estás en el servido, por favor lee la publicación anterior, donde se explica como se une al servidor y conseguir el rol de "Newcomer".</p>
-<h3> Paso 2: Encuentra al bot</h3>
-<p>Ahora necesitas encontrar al bot con la imagen de un ganso y mandarle un mensaje directo (micah-sign-bot#0245).</p>
-<p><img src="/assets/images/docs/202312/signin1.png" alt="Sign-in" loading="lazy"></p>
-<h3> Paso 3: Como empezar</h3>
-<p>Envíale el comando <code>/start</code>, resuelve el captcha. Nota: si el bot no te responde al la solución del captcha, seguramente lo haya hecho incorrectamente. Prueba a escribir el captcha de nuevo (sin el comando). Si es correcto, el bot te mandara el siguiente mensaje "Consecutive <code>&lt;días&gt;</code> days".</p>
-<p><img src="/assets/images/docs/202312/signin2.png" alt="Sign-in" loading="lazy"></p>
-<p><img src="/assets/images/docs/202312/signin3.png" alt="Sign-in" loading="lazy"></p>
-<h3> Paso 4: Después de recibir el rol de "Fans"</h3>
-<p>Tiene que usar este comando durante 7 días (cada 24 horas). Si te retrasas por unas cuantas horas, el bot considera que no lo has hecho diario y reiniciará tus días. En el séptimo día de check-ins, recibirás el rol de "Fans", y ya podrás parar.</p>
-<p><img src="/assets/images/docs/202312/signin4.png" alt="Sign-in" loading="lazy"></p>
-]]></content:encoded>
-      <enclosure url="https://korepi.com/assets/images/docs/202312/signin1.png" type="image/png"/>
     </item>
     <item>
       <title>Patrocinadores</title>

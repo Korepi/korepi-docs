@@ -6,8 +6,8 @@
     <link>https://korepi.com/ru/</link>
     <description>Помощь по Korepi</description>
     <language>ru-RU</language>
-    <pubDate>Wed, 07 Feb 2024 21:03:00 GMT</pubDate>
-    <lastBuildDate>Wed, 07 Feb 2024 21:03:00 GMT</lastBuildDate>
+    <pubDate>Wed, 07 Feb 2024 22:46:10 GMT</pubDate>
+    <lastBuildDate>Wed, 07 Feb 2024 22:46:10 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Features</category>
@@ -2098,33 +2098,6 @@ pass korepi</p>
 <p>Если пригласительная ссылка недействительна, возможно, сервер временно закрыт. Ожидайте его открытия.
 Теперь вы можете перейти к следующему пункту.</p>
 ]]></content:encoded>
-    </item>
-    <item>
-      <title>Регистрация</title>
-      <link>https://korepi.com/ru/start/sign-in.html</link>
-      <guid>https://korepi.com/ru/start/sign-in.html</guid>
-      <source url="https://korepi.com/ru/rss.xml">Регистрация</source>
-      <description>Добро пожаловать в наше сообщество! Чтобы зарегистрироваться и получить роль Поклонник (Fans), выполните следующие шаги. Шаг 1: Присоединение к нашему серверу и получите роль Но...</description>
-      <category>Гайд</category>
-      <pubDate>Fri, 24 Nov 2023 14:31:46 GMT</pubDate>
-      <content:encoded><![CDATA[<h1> Регистрация</h1>
-<p>Добро пожаловать в наше сообщество! Чтобы зарегистрироваться и получить роль <code>Поклонник (Fans)</code>, выполните следующие шаги.</p>
-<h2> Шаг 1: Присоединение к нашему серверу и получите роль <code>Новичок (Newcomer)</code></h2>
-<p>Если вы еще не на сервере, пожалуйста, прочитайте предыдущий пост, где описано, как присоединиться к серверу и получить роль <code>Новичок (Newcomer)</code>.</p>
-<h2> Шаг 2: Бот</h2>
-<p>Теперь вам нужно найти бота с изображением гуся и написать ему в личные сообщения (micah-sign-bot#0245).</p>
-<p><img src="/assets/images/docs/202312/signin1.png" alt="Sign-in" loading="lazy"></p>
-<h2> Шаг 3: Начало</h2>
-<p>Напишите ему команду <code>/start</code>, решите капчу. Примечание: если бот не отвечает на ваш запрос с капчей, вероятно, вы ввели её неверно. Попробуйте написать капчу еще раз (без команды). После успешного ввода бот отправит вам сообщение "Consecutive &lt;количество дней&gt; days".</p>
-<p><img src="/assets/images/docs/202312/signin2.png" alt="Sign-in" loading="lazy"></p>
-<p><img src="/assets/images/docs/202312/signin3.png" alt="Sign-in" loading="lazy"></p>
-<div class="hint-container warning">
-<p class="hint-container-title">ВАЖНО</p>
-<p>Вам нужно вводить эту команду каждый день в течение 7 дней (каждые 24 часа). Учтите, что если вы ошибетесь на пару часов, бот посчитает, что вы не отмечались и сбросит ваши дни. На 7-й день отметок вам будет выдана роль "Fans", и вы сможете прекратить отмечаться.</p>
-</div>
-<p><img src="/assets/images/docs/202312/signin4.png" alt="Sign-in" loading="lazy"></p>
-]]></content:encoded>
-      <enclosure url="https://korepi.com/assets/images/docs/202312/signin1.png" type="image/png"/>
     </item>
     <item>
       <title>Верификация</title>

@@ -6,8 +6,8 @@
     <link>https://korepi.com/pt/</link>
     <description>Ajuda em Korepi</description>
     <language>pt-BR</language>
-    <pubDate>Wed, 07 Feb 2024 21:03:00 GMT</pubDate>
-    <lastBuildDate>Wed, 07 Feb 2024 21:03:00 GMT</lastBuildDate>
+    <pubDate>Wed, 07 Feb 2024 22:46:10 GMT</pubDate>
+    <lastBuildDate>Wed, 07 Feb 2024 22:46:10 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Features</category>
@@ -69,7 +69,7 @@
       <category>Guia</category>
       <pubDate>Wed, 07 Feb 2024 00:26:57 GMT</pubDate>
       <content:encoded><![CDATA[<h2> Como receber a licença grátis do Korepi.</h2>
-<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/GURGoE2IEg8" title="Free Version | Cotton Buds" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/4Q4N8D35a-I" title="Como Obter a Chave do Korepi e Como Utilizar o Korepi" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 <h3> Passo 1:</h3>
 <ul>
 <li>
@@ -1956,31 +1956,6 @@ Para usar skins personalizadas no Korepi, você precisará baixar o aplicativo</
 </ol>
 <p>Se o link de convite estiver inválido, o servidor pode estar temporariamente fechado. Aguarde até que seja reaberto. Agora, você pode prosseguir para a próxima etapa.</p>
 ]]></content:encoded>
-    </item>
-    <item>
-      <title>Registro</title>
-      <link>https://korepi.com/pt/start/sign-in.html</link>
-      <guid>https://korepi.com/pt/start/sign-in.html</guid>
-      <source url="https://korepi.com/pt/rss.xml">Registro</source>
-      <description>Introdução Bem-vindo à nossa comunidade! Para se registrar e obter o papel de &amp;quot;Fans&amp;quot;, siga estas etapas. Passo 1: Junte-se ao nosso servidor e obtenha o papel de &amp;quot;Newcomer&amp;quot; se a...</description>
-      <category>Guia</category>
-      <pubDate>Wed, 13 Dec 2023 16:37:40 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Introdução</h2>
-<p>Bem-vindo à nossa comunidade! Para se registrar e obter o papel de "Fans", siga estas etapas.</p>
-<h3> Passo 1: Junte-se ao nosso servidor e obtenha o papel de "Newcomer" se ainda não o fez</h3>
-<p>Se ainda não estiver no servidor, por favor, leia a publicação anterior, onde é explicado como se juntar ao servidor e obter o papel de "Newcomer".</p>
-<h3> Passo 2: Encontre o bot</h3>
-<p>Agora você precisa encontrar o bot com a imagem de um ganso e enviar uma mensagem direta a ele (micah-sign-bot#0245).</p>
-<p><img src="/assets/images/docs/202312/signin1.png" alt="Sign-in" loading="lazy"></p>
-<h3> Passo 3: Como começar</h3>
-<p>Envie o comando <code>/start</code>, resolva o captcha. Nota: se o bot não responder à solução do captcha, provavelmente você o digitou incorretamente. Tente escrever o captcha novamente (sem o comando). Se estiver correto, o bot enviará a seguinte mensagem "Consecutive &lt; dias &gt; dias".</p>
-<p><img src="/assets/images/docs/202312/signin2.png" alt="Sign-in" loading="lazy"></p>
-<p><img src="/assets/images/docs/202312/signin3.png" alt="Sign-in" loading="lazy"></p>
-<h3> Passo 4: Depois de receber o papel de "Fans"</h3>
-<p>Você precisa usar este comando por 7 dias (a cada 24 horas). Se você se atrasar algumas horas, o bot considerará que você não fez o check-in diário e reiniciará seus dias. No 7º dia de check-ins, você receberá o papel de "Fans" e poderá parar.</p>
-<p><img src="/assets/images/docs/202312/signin4.png" alt="Sign-in" loading="lazy"></p>
-]]></content:encoded>
-      <enclosure url="https://korepi.com/assets/images/docs/202312/signin1.png" type="image/png"/>
     </item>
     <item>
       <title>Sponsor</title>

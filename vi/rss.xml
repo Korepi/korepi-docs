@@ -6,8 +6,8 @@
     <link>https://korepi.com/vi/</link>
     <description>Trợ giúp về Korepi</description>
     <language>vi-VN</language>
-    <pubDate>Wed, 07 Feb 2024 21:03:00 GMT</pubDate>
-    <lastBuildDate>Wed, 07 Feb 2024 21:03:00 GMT</lastBuildDate>
+    <pubDate>Wed, 07 Feb 2024 22:46:10 GMT</pubDate>
+    <lastBuildDate>Wed, 07 Feb 2024 22:46:10 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Features</category>
@@ -2090,36 +2090,6 @@ Lưu ý 2: Không khuyến khích sử dụng chức năng này.</p>
 </ol>
 <p>Nếu link mời không tồn tại, có thể server đang tạm đóng. Vui lòng đợi cho tới khi chúng tôi mở lại. Giờ bạn có thể tiến hành bước tiếp theo.</p>
 ]]></content:encoded>
-    </item>
-    <item>
-      <title>Điểm Danh</title>
-      <link>https://korepi.com/vi/start/sign-in.html</link>
-      <guid>https://korepi.com/vi/start/sign-in.html</guid>
-      <source url="https://korepi.com/vi/rss.xml">Điểm Danh</source>
-      <description>Giới thiệu Chào mừng đến với cộng đồng của chúng tôi! Để đăng kí và lấy được Role &amp;quot;Fans&amp;quot;, hãy làm theo các bước sau. Bước 1: Tham gia vào server và lấy Role &amp;quot;Newcomer&amp;quot; nếu bạn c...</description>
-      <category>Hướng Dẫn</category>
-      <pubDate>Thu, 30 Nov 2023 15:50:40 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Giới thiệu</h2>
-<p>Chào mừng đến với cộng đồng của chúng tôi! Để đăng kí và lấy được Role "Fans", hãy làm theo các bước sau.</p>
-<h2> Bước 1: Tham gia vào server và lấy Role "Newcomer" nếu bạn chưa có</h2>
-<p>Nếu bạn chưa có mặt trên máy chủ, vui lòng đọc những bài trước đó, nơi nó được mô tả cách tham gia máy chủ và lấy Role "Newcomer".</p>
-<h2> Bước 2: Tìm đến bot</h2>
-<p>Giờ bạn cần tìm đến bot với ảnh đại diện là một con ngỗng và viết tin nhắn trực tiếp cho nó (micah-sign-bot#0245)</p>
-<p><img src="/assets/images/docs/202312/signin1.png" alt="Sign-in" loading="lazy"></p>
-<h2> Bước 3: Điểm danh</h2>
-<p>Viết lệnh <code>/start</code> và giải captcha.
-Lưu ý: nếu như bot không phải hồi với mã captcha bạn yêu cầu, có thể là bạn đã nhập sai. Hãy thử viết lại captcha.</p>
-<p>Sau khi nhập thành công, bot sẽ gửi cho bạn thông báo <code>"Consecutive &lt;days&gt; days"</code> như ảnh dưới
-<img src="/assets/images/docs/202312/micah-checkin_vi.png" alt="" loading="lazy"></p>
-<p><img src="/assets/images/docs/202312/signin2.png" alt="Sign-in" loading="lazy"></p>
-<p><img src="/assets/images/docs/202312/signin3.png" alt="Sign-in" loading="lazy"></p>
-<h2> Bước 4: Sau khi nhận Role "Fans"</h2>
-<p>Như vậy bây giờ bạn cần nhập lệnh này hằng ngày trong vòng 7 ngày (mỗi 24 giờ).
-<strong>Lưu ý</strong> rằng nếu bạn chỉ cần trễ vài giờ, thì bot sẽ coi như bạn không điểm danh vào ngày hôm đó và bạn sẽ phải bắt lại từ đầu.
-Vào ngày thứ 7 khi bạn đã điểm danh thành công, bạn sẽ được nhận Role "Fans", và bạn có thể dừng điểm danh.</p>
-<p><img src="/assets/images/docs/202312/signin4.png" alt="Sign-in" loading="lazy"></p>
-]]></content:encoded>
-      <enclosure url="https://korepi.com/assets/images/docs/202312/signin1.png" type="image/png"/>
     </item>
     <item>
       <title>Sponsor</title>

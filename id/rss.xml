@@ -6,8 +6,8 @@
     <link>https://korepi.com/id/</link>
     <description>Pertolongan Korepi</description>
     <language>id-ID</language>
-    <pubDate>Wed, 07 Feb 2024 21:03:00 GMT</pubDate>
-    <lastBuildDate>Wed, 07 Feb 2024 21:03:00 GMT</lastBuildDate>
+    <pubDate>Wed, 07 Feb 2024 22:46:10 GMT</pubDate>
+    <lastBuildDate>Wed, 07 Feb 2024 22:46:10 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Features</category>
@@ -2193,39 +2193,6 @@ Jika tidak berhasil, buka cmd sebagai administrator dan ketik <code>sfc /scannow
 <p>Setelah berhasil bergabung di server, lanjutkan ke langkah berikutnya --&gt; <a href="/id/start/verify.html" target="blank">Cara Verifikasi Akun</a></p>
 ]]></content:encoded>
       <enclosure url="https://korepi.com/assets/images/docs/202312/join1.png" type="image/png"/>
-    </item>
-    <item>
-      <title>Cara Mendapatkan Role Fans</title>
-      <link>https://korepi.com/id/start/sign-in.html</link>
-      <guid>https://korepi.com/id/start/sign-in.html</guid>
-      <source url="https://korepi.com/id/rss.xml">Cara Mendapatkan Role Fans</source>
-      <description>Untuk bisa mengakses Korepi, Anda perlu memiliki role sebagai Fans. Ada dua cara yang dapat Anda tempuh untuk mendapatkan role ini. 1. Menjadi Sponsor Anda bisa langsung mempero...</description>
-      <category>Panduan</category>
-      <pubDate>Sun, 26 Nov 2023 15:29:27 GMT</pubDate>
-      <content:encoded><![CDATA[<p>Untuk bisa mengakses Korepi, Anda perlu memiliki role sebagai <code>Fans</code>. Ada dua cara yang dapat Anda tempuh untuk mendapatkan role ini.</p>
-<h2> 1. Menjadi Sponsor</h2>
-<p>Anda bisa langsung memperoleh role <code>Fans</code> dengan cara menjadi Sponsor. Melalui langkah ini, Anda tidak perlu melakukan sign-in setiap hari untuk mendapatkan role <code>Fans</code>. Keuntungan lainnya juga akan Anda dapatkan dengan menjadi Sponsor. Untuk informasi lebih lengkap, silakan kunjungi <a href="/id/start/sponsor.html" target="blank">Cara Menjadi Sponsor</a>.</p>
-<h2> 2. Melalui Sign-in Setiap Hari Selama 7 Hari</h2>
-<p>Alternatifnya, Anda bisa mendapatkan role <code>Fans</code> secara gratis tanpa harus menjadi Sponsor.</p>
-<ol>
-<li>Mulailah percakapan pribadi dengan @micah-sign-bot</li>
-</ol>
-<p><img src="/assets/images/docs/202312/signin1.png" alt="Sign-in" loading="lazy"></p>
-<ol start="2">
-<li>Ketik perintah /start</li>
-</ol>
-<p><img src="/assets/images/docs/202312/signin2.png" alt="Sign-in" loading="lazy"></p>
-<ol start="3">
-<li>Selesaikan tantangan Captcha</li>
-</ol>
-<p><img src="/assets/images/docs/202312/signin3.png" alt="Sign-in" loading="lazy"></p>
-<ol start="4">
-<li>Lakukan langkah ini setiap hari selama 7 hari berturut-turut</li>
-</ol>
-<p><img src="/assets/images/docs/202312/signin4.png" alt="Sign-in" loading="lazy"></p>
-<p>Selamat, Anda kini telah berhasil mendapatkan role <code>Fans</code>.</p>
-]]></content:encoded>
-      <enclosure url="https://korepi.com/assets/images/docs/202312/signin1.png" type="image/png"/>
     </item>
     <item>
       <title>Panduan Verifikasi Akun untuk Keamanan Server</title>

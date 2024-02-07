@@ -6,8 +6,8 @@
     <link>https://korepi.com/tr/</link>
     <description>Korepi Yardım Bölümü</description>
     <language>tr</language>
-    <pubDate>Wed, 07 Feb 2024 21:03:00 GMT</pubDate>
-    <lastBuildDate>Wed, 07 Feb 2024 21:03:00 GMT</lastBuildDate>
+    <pubDate>Wed, 07 Feb 2024 22:46:10 GMT</pubDate>
+    <lastBuildDate>Wed, 07 Feb 2024 22:46:10 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Features</category>
@@ -848,31 +848,6 @@
 </ol>
 <p>Davet bağlantısı geçersizse, sunucu geçici olarak kapalı olabilir. Lütfen yeniden açılmasını bekleyin. Şimdi bir sonraki adıma geçebilirsiniz.</p>
 ]]></content:encoded>
-    </item>
-    <item>
-      <title>Kayıt Olma</title>
-      <link>https://korepi.com/tr/start/sign-in.html</link>
-      <guid>https://korepi.com/tr/start/sign-in.html</guid>
-      <source url="https://korepi.com/tr/rss.xml">Kayıt Olma</source>
-      <description>Giriş Topluluğumuza hoş geldiniz! Kaydolmak ve &amp;quot;Fans&amp;quot; rolünü almak için aşağıdaki adımları izleyin. Adım 1: Sunucumuza katılın ve henüz yapmadıysanız &amp;quot;Newcomer&amp;quot; rolünü alın Henü...</description>
-      <category>Kılavuzlar</category>
-      <pubDate>Tue, 19 Dec 2023 12:28:02 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Giriş</h2>
-<p>Topluluğumuza hoş geldiniz! Kaydolmak ve "Fans" rolünü almak için aşağıdaki adımları izleyin.</p>
-<h3> Adım 1: Sunucumuza katılın ve henüz yapmadıysanız "Newcomer" rolünü alın</h3>
-<p>Henüz sunucuda değilseniz, lütfen sunucuya nasıl katılacağınızın ve "Newcomer" rolünü nasıl alacağınızın anlatıldığı önceki yazıyı okuyun.</p>
-<h3> Adım 2: Botu bulun</h3>
-<p>Şimdi bir kaz resmi olan botu bulmanız ve ona direkt mesajlarla yazmanız gerekiyor (micah-sign-bot#0245).</p>
-<p><img src="/assets/images/docs/202312/signin1.png" alt="Sign-in" loading="lazy"></p>
-<h3> Adım 3: Başlarken</h3>
-<p>Ona <code>/start</code> komutunu yazın, captcha'yı çözün. Not: Eğer bot captcha isteğinize yanıt vermezse, muhtemelen yanlış girmişsinizdir. Captcha'yı tekrar yazmayı deneyin (komut olmadan). Başarılı bir girişten sonra, bot size "Consecutive &lt; days &gt; days" mesajını gönderecektir.</p>
-<p><img src="/assets/images/docs/202312/signin2.png" alt="Sign-in" loading="lazy"></p>
-<p><img src="/assets/images/docs/202312/signin3.png" alt="Sign-in" loading="lazy"></p>
-<h3> Adım 4: "Fans" rolünü aldıktan sonra</h3>
-<p>Şimdi bu komutu 7 gün boyunca her gün (her 24 saatte bir) girmeniz gerekiyor. Birkaç saatlik bir hata yaparsanız, botun günlerinizi işaretlemediğinizi ve sıfırlamadığınızı düşüneceğini unutmayın. Check-in'lerin 7. gününde, size "Fans" rolü verilecek ve check-in yapmayı bırakabilirsiniz.</p>
-<p><img src="/assets/images/docs/202312/signin4.png" alt="Sign-in" loading="lazy"></p>
-]]></content:encoded>
-      <enclosure url="https://korepi.com/assets/images/docs/202312/signin1.png" type="image/png"/>
     </item>
     <item>
       <title>Sponsor</title>
