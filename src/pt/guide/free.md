@@ -12,6 +12,8 @@ order: 2
 
 ## Como receber a licença grátis do Korepi.
 
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/GURGoE2IEg8" title="Free Version | Cotton Buds" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
+
 ### Passo 1:
 - Encontre o canal `★⋅micah-bot-verify⋅★` [link direto](https://discord.com/channels/1069057220802781265/1203687333107335198)
 

@@ -12,6 +12,8 @@ order: 2
 
 ## 如何获得Korepi免费密钥.
 
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/GURGoE2IEg8" title="Free Version | Cotton Buds" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
+
 ### 步骤 1:
 - 找到 `★⋅micah-bot-verify⋅★` 频道 [直达链接](https://discord.com/channels/1069057220802781265/1203687333107335198)
 

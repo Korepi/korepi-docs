@@ -12,6 +12,8 @@ order: 2
 
 ## Hướng Dẫn Lấy Key Korepi Miễn Phí
 
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/GURGoE2IEg8" title="Free Version | Cotton Buds" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
+
 ### Bước 1:
 - Đi đến kênh `★⋅micah-bot-verify⋅★` trong server Discord: [Link trực tiếp](https://discord.com/channels/1069057220802781265/1203687333107335198)
 
