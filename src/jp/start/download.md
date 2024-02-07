@@ -12,24 +12,20 @@ author:
 order: 7
 ---
 
-# ダウンロード
+# Download
 
-## 導入
+## Introduction
 
-私たちのコミュニティへようこそ！botチェックに合格して `Newcomer` ロールを受け取るには次の手順に従います。
+Welcome to our community! To pass the bot check and receive the `Newcomer` role, follow these steps.
 
-### ステップ 1: サーバーに参加し `Newcomer` と `Fans` ロールを取得する。
+### Step 1: Join our server and obtain the `Newcomer` role
 
-まだサーバーに参加していない場合は、サーバーに参加し、`Newcomer` と `Fans` のロールを取得する方法を説明した記事をお読みください。
+If you haven't joined the server yet, please read the verification post, which describes how to join the server and obtain the `Newcomer`.
 
-### ステップ 2: `★⋅korepi-version-roles⋅★`チャンネルに移動します
+### Step 2: Go to the channel `★⋅korepi-download⋅★`
 
-★⋅korepi-version-roles⋅★チャンネルを見つけて、F または V バージョンのロールを選択します。F ロールを選択することをお勧めします。
+Locate the channel `★⋅korepi-download⋅★` and follow the link to download the injector.
 
-### ステップ 3: 必要なリソースをダウンロードする
+### Step 3: Ready!
 
-そうすると、対応するダウンロードチャンネルにアクセスできるようになります。 `★⋅f-download⋅★` または `★⋅v-download⋅★`.
-
-### ステップ 4: 準備完了!
-
-チャンネルには、現在のバージョンへのリンクとアーカイブのパスワードが掲載されます。幸運を！
+Place the .rar in a folder and add it to [exclusions](../guide/virus.md), after that extract it and follow this [guide](../guide/getkey.md)

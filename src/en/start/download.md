@@ -7,8 +7,7 @@ tag:
   - Start
   - Download
 author:
-  name: "QweRez"
-  url: "https://github.com/qwerezon/"
+  name: QweRez, Schvis
 order: 7
 ---
 
