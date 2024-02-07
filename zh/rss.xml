@@ -6,46 +6,46 @@
     <link>https://korepi.com/zh/</link>
     <description>Korepi 中文文档介绍</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 07 Feb 2024 05:01:35 GMT</pubDate>
-    <lastBuildDate>Wed, 07 Feb 2024 05:01:35 GMT</lastBuildDate>
+    <pubDate>Wed, 07 Feb 2024 08:49:30 GMT</pubDate>
+    <lastBuildDate>Wed, 07 Feb 2024 08:49:30 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-    <category>Guide</category>
-    <category>功能</category>
     <category>指南</category>
+    <category>功能</category>
     <category>其他</category>
     <category>问题解答</category>
     <category>Features</category>
+    <category>Guide</category>
     <category>Troubleshoot</category>
     <item>
-      <title>Free Version</title>
+      <title>免费版本</title>
       <link>https://korepi.com/zh/guide/free.html</link>
       <guid>https://korepi.com/zh/guide/free.html</guid>
-      <source url="https://korepi.com/zh/rss.xml">Free Version</source>
-      <description>How to get the free license for Korepi. Step 1: Find the ★⋅micah-bot-verify⋅★ channel direct link (https://discord.com/channels/1069057220802781265/1203687333107335198); img.png...</description>
-      <category>Guide</category>
+      <source url="https://korepi.com/zh/rss.xml">免费版本</source>
+      <description>如何获得Korepi免费密钥. 步骤 1: 找到 ★⋅micah-bot-verify⋅★ 频道 直达链接 (https://discord.com/channels/1069057220802781265/1203687333107335198); img.png 找到 Micah-bot 发送的消息查找 Micah-bot 发送的消息; 步骤 2:...</description>
+      <category>指南</category>
       <pubDate>Wed, 07 Feb 2024 00:26:57 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> How to get the free license for Korepi.</h2>
-<h3> Step 1:</h3>
+      <content:encoded><![CDATA[<h2> 如何获得Korepi免费密钥.</h2>
+<h3> 步骤 1:</h3>
 <ul>
 <li>
-<p>Find the <code>★⋅micah-bot-verify⋅★</code> channel <a href="https://discord.com/channels/1069057220802781265/1203687333107335198" target="_blank" rel="noopener noreferrer">direct link</a></p>
+<p>找到 <code>★⋅micah-bot-verify⋅★</code> 频道 <a href="https://discord.com/channels/1069057220802781265/1203687333107335198" target="_blank" rel="noopener noreferrer">直达链接</a></p>
 <p><img src="/assets/images/docs/202402/verify-1.png" alt="img.png" loading="lazy"></p>
 </li>
 <li>
-<p>Find the message sent by Micah-bot</p>
+<p>找到 Micah-bot 发送的消息查找 Micah-bot 发送的消息</p>
 </li>
 </ul>
-<h3> Step 2:</h3>
-<p>Click on <code>Bind free card</code>, follow the provide link by the bot after clicking on it, watch the ad and skip it.</p>
-<h3> Step 3:</h3>
-<p>If the bind message shows <code>Success</code>, you have successfully finished claiming the license, if it doesn't show as <code>Success</code>, repeat from the first step.</p>
-<h3> Step 4:</h3>
-<p>Launch the injector to obtain your <code>HWID</code>, after that head to <code>★⋅micah-bot-verify⋅★</code> again and click on <code>Get verification file</code> and paste in your <code>HWID</code>.</p>
-<p>After clicking on submit you will receive a file from the bot, download it and place it on your Korepi folder. Make sure the name is <code>enc.json</code>.</p>
-<h3> Step 5:</h3>
-<p>Launch the injector again and follow the instructions provide in the cmd.</p>
-<p>Enjoy Korepi!</p>
+<h3> 步骤 2:</h3>
+<p>点击<code>绑定免费卡密</code>，点击后按照机器人提供的链接，观看广告并跳过广告.</p>
+<h3> 步骤 3:</h3>
+<p>如果绑定信息显示 <code>成功</code>，则表示已成功完成密钥申请；如果未显示 <code>成功</code>，请重新从第一步开始.</p>
+<h3> 步骤 4:</h3>
+<p>启动Korepi获取您的<code>HWID</code>，然后去<code>★⋅micah-bot-verify⋅★★</code> 频道中 <code>点击获取验证文件</code> 然后粘贴您的 <code>HWID</code>.</p>
+<p>点击<code>提交</code>后，您将收到机器人发送的文件，将其下载并放到 Korepi 文件夹中.确保文件名<code>enc.json</code>.</p>
+<h3> 步骤 5:</h3>
+<p>再次启动Korepi，并按照控制台提供的说明进行操作.</p>
+<p>请享用 Korepi！</p>
 ]]></content:encoded>
       <enclosure url="https://korepi.com/assets/images/docs/202402/verify-1.png" type="image/png"/>
     </item>
