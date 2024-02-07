@@ -6,8 +6,8 @@
     <link>https://korepi.com/ar/</link>
     <description>للمساعدة Korepi</description>
     <language>ar</language>
-    <pubDate>Wed, 07 Feb 2024 20:45:50 GMT</pubDate>
-    <lastBuildDate>Wed, 07 Feb 2024 20:45:50 GMT</lastBuildDate>
+    <pubDate>Wed, 07 Feb 2024 21:03:00 GMT</pubDate>
+    <lastBuildDate>Wed, 07 Feb 2024 21:03:00 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Features</category>
@@ -831,80 +831,18 @@
       <enclosure url="https://korepi.com/assets/images/docs/202312/signin1.png" type="image/png"/>
     </item>
     <item>
-      <title>الميزات الحصرية للداعمين</title>
-      <link>https://korepi.com/ar/start/sponsor-exclusive.html</link>
-      <guid>https://korepi.com/ar/start/sponsor-exclusive.html</guid>
-      <source url="https://korepi.com/ar/rss.xml">الميزات الحصرية للداعمين</source>
-      <description>Player Critical Hit Rate Probabilities (https://www.youtube.com/watch?v=ByucMEL7pXM&amp;list=PL5eI1Tb64p54t7LyUaudX0ume6HbS4ikD&amp;index=1&amp;pp=iAQB); Extra Movement (https://www.youtube...</description>
-      <category>Guide</category>
-      <pubDate>Fri, 22 Dec 2023 11:31:21 GMT</pubDate>
-      <content:encoded><![CDATA[<h3> Player</h3>
-<ul>
-<li><a href="https://www.youtube.com/watch?v=ByucMEL7pXM&amp;list=PL5eI1Tb64p54t7LyUaudX0ume6HbS4ikD&amp;index=1&amp;pp=iAQB" target="_blank" rel="noopener noreferrer">Critical Hit Rate Probabilities</a></li>
-<li><a href="https://www.youtube.com/watch?v=wMd9icqhFQg&amp;list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa&amp;index=5&amp;pp=iAQB" target="_blank" rel="noopener noreferrer">Extra Movement</a></li>
-<li><a href="https://youtu.be/42utUUYNHRE?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa&amp;t=16" target="_blank" rel="noopener noreferrer">Undead ( Godmode )</a></li>
-<li><a href="https://www.youtube.com/watch?v=XGztUEy82sE&amp;list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa&amp;index=12&amp;pp=iAQB" target="_blank" rel="noopener noreferrer">Remote Utility</a>
-<ul>
-<li><a href="https://www.youtube.com/watch?v=Ggnvh8ORJZU&amp;list=PL5eI1Tb64p54t7LyUaudX0ume6HbS4ikD&amp;index=3&amp;pp=iAQB" target="_blank" rel="noopener noreferrer">Claim Daily Commission everywhere</a></li>
-<li><a href="https://www.youtube.com/watch?v=HZuyD6b-qYc&amp;list=PL5eI1Tb64p54t7LyUaudX0ume6HbS4ikD&amp;index=4&amp;pp=iAQB" target="_blank" rel="noopener noreferrer">Make Condensed Resin</a></li>
-<li><a href="https://youtu.be/XGztUEy82sE?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa&amp;t=62" target="_blank" rel="noopener noreferrer">Summon Features</a></li>
-</ul>
-</li>
-<li><a href="https://www.youtube.com/watch?v=Gh2GX23E6dw&amp;list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa&amp;index=21&amp;pp=iAQB" target="_blank" rel="noopener noreferrer">Bunny Hop</a></li>
-</ul>
-<h3> World</h3>
-<ul>
-<li><a href="https://www.youtube.com/watch?v=qstBErr9mJ0&amp;list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa&amp;index=22&amp;pp=iAQB" target="_blank" rel="noopener noreferrer">Auto Activate Waypoint</a></li>
-<li><a href="https://www.youtube.com/watch?v=v95_NOxc4do&amp;list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa&amp;index=31&amp;pp=iAQB" target="_blank" rel="noopener noreferrer">Auto Tree Farm</a></li>
-<li><a href="https://www.youtube.com/watch?v=FskTJiknOgQ&amp;list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa&amp;index=32&amp;pp=iAQB" target="_blank" rel="noopener noreferrer">Elemental Aura</a></li>
-<li><a href="https://www.youtube.com/watch?v=fF6LC552cvY&amp;list=PL5eI1Tb64p54t7LyUaudX0ume6HbS4ikD&amp;index=2&amp;pp=iAQB" target="_blank" rel="noopener noreferrer">Skip Dialog (Safer than Fast Dialog)</a></li>
-</ul>
-<h3> Visual</h3>
-<ul>
-<li><a href="https://www.youtube.com/watch?v=S9-g5weE9l8&amp;list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa&amp;index=37&amp;pp=iAQB" target="_blank" rel="noopener noreferrer">Constellation Modifier</a></li>
-<li><a href="https://youtu.be/EtRT95qEW6Y?si=v2AoRfRnjYrR93J5" target="_blank" rel="noopener noreferrer">Hide UI</a></li>
-<li><a href="https://youtu.be/AjkJ8S8NHsI?si=pZ3FDJXHcmfpe7Ee&amp;t=101" target="_blank" rel="noopener noreferrer">No Camera Blur</a></li>
-<li><a href="https://youtu.be/AjkJ8S8NHsI?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa&amp;t=102" target="_blank" rel="noopener noreferrer">No Camera Shake</a></li>
-<li>No Footprints</li>
-</ul>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>اصبح داعم</title>
+      <title>Sponsor</title>
       <link>https://korepi.com/ar/start/sponsor.html</link>
       <guid>https://korepi.com/ar/start/sponsor.html</guid>
-      <source url="https://korepi.com/ar/rss.xml">اصبح داعم</source>
-      <description>كيف تصبح Sponsor? لكي تصبح داعما، يتعين عليك التبرع بما لا يقل عن 5 دولارات أو ما يعادلها إذا كنت تستخدم عملة أخرى. أين التبرع؟ بمجرد دخولك إلى الخادم، يرجى الانتقال إلى قناة #s...</description>
+      <source url="https://korepi.com/ar/rss.xml">Sponsor</source>
+      <description>Sponsors Sponsors are a legacy role that is no longer obtainable, people with this role are elegible to extra functionality in the software without having to pay again, they als...</description>
       <category>Guide</category>
       <pubDate>Fri, 22 Dec 2023 11:31:21 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> كيف تصبح <span style="color:yellow;">Sponsor</span>?</h2>
-<p>لكي تصبح داعما، يتعين عليك التبرع بما لا يقل عن 5 دولارات أو ما يعادلها إذا كنت تستخدم عملة أخرى.</p>
-<h2> أين التبرع؟</h2>
-<p>بمجرد دخولك إلى الخادم، يرجى الانتقال إلى قناة <a href="https://discord.com/channels/1069057220802781265/1097565269985071205" target="_blank" rel="noopener noreferrer">#sponsorship</a> . اختر أحد الروابط التي تفضل التبرع بها. يرجى التأكد من التقاط لقطة شاشة للعملية كدليل على الخطوة التالية.</p>
-<h2> ماذا أفعل بعد أن انتهيت من التبرع؟</h2>
-<h3> Step 1:</h3>
-<p>If you already donated, you can start a ticket at <a href="https://discord.com/channels/1069057220802781265/1195466175954550885" target="_blank" rel="noopener noreferrer">#sponsorship-proof-ticket</a>, and click on <code>Send Proofs</code>.</p>
-<p><img src="/assets/images/docs/202312/sponsor-new.png" alt="" loading="lazy"></p>
-<h3> Step 2:</h3>
-<p>Send your proof to the newly created channel <code>#proof-yourname</code>, and then wait for a Mod to review the proof.</p>
-<p><img src="/assets/images/docs/202312/sponsor-new2.png" alt="" loading="lazy"></p>
-<h3> Step 3:</h3>
-<p>If everything went right, and the proof is valid you will receive your  <span style="color:yellow;">Sponsor</span> role.</p>
-<h2> (FOR NON-FANS) كيف يمكنك المطالبة بروول FANS بعد التبرع؟</h2>
-<p>إذا كنت داعما وليس لديك روول FANS، فيمكنك تخطي تسجيل الدخول لمدة 7 أيام والمطالبة بالدور على الفور</p>
-<h3> الخطوة 1: افتح تذكرة</h3>
-<p>للقيام بذلك، عليك الذهاب إلى قناة #ticket-start (مرئية فقط عندما يكون لديك Sponsor بالفعل).</p>
-<p><a href="https://postimg.cc/dLD6D8jC" target="_blank" rel="noopener noreferrer"><img src="https://i.postimg.cc/NfkzJDyd/openticket1.png" alt="" loading="lazy"></a></p>
-<p>بمجرد النقر على "فتح"، سترى قناة جديدة ضمن قناة التذاكر.</p>
-<p><a href="https://postimg.cc/sMhJ4s8D" target="_blank" rel="noopener noreferrer"><img src="https://i.postimg.cc/Vk7H1NWM/openticket2.png" alt="" loading="lazy"></a></p>
-<h3> الخطوة 2: الإجابة على الاستبيان القصير</h3>
-<p>اضغط على زر "form link" للإجابة على الاستبيان.</p>
-<p><a href="https://postimg.cc/mzbN4Mrt" target="_blank" rel="noopener noreferrer"><img src="https://i.postimg.cc/qRKm8xVX/openticket4.png" alt="" loading="lazy"></a></p>
-<p>بمجرد الانتهاء من الاستبيان، لا تنس الضغط على زر "Submit".</p>
-<p><a href="https://postimg.cc/GBnxM6wP" target="_blank" rel="noopener noreferrer"><img src="https://i.postimg.cc/GpHgp1Xf/openticket5.png" alt="" loading="lazy"></a></p>
-<p>بعد ذلك، ما عليك سوى الانتظار بصبر حتى يقوم الموظفون بالتحقق من استبيانك. بمجرد حصولك على روول FANS، فأنت جاهز للانطلاق.</p>
+      <content:encoded><![CDATA[<h2> Sponsors</h2>
+<ul>
+<li>Sponsors are a legacy role that is no longer obtainable, people with this role are elegible to extra functionality in the software without having to pay again, they also receive some extra perks in the server/software.</li>
+</ul>
 ]]></content:encoded>
-      <enclosure url="https://korepi.com/assets/images/docs/202312/sponsor-new.png" type="image/png"/>
     </item>
     <item>
       <title>التحقق</title>

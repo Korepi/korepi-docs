@@ -6,8 +6,8 @@
     <link>https://korepi.com/mx/</link>
     <description>Ayuda en Korepi</description>
     <language>es-MX</language>
-    <pubDate>Wed, 07 Feb 2024 20:45:50 GMT</pubDate>
-    <lastBuildDate>Wed, 07 Feb 2024 20:45:50 GMT</lastBuildDate>
+    <pubDate>Wed, 07 Feb 2024 21:03:00 GMT</pubDate>
+    <lastBuildDate>Wed, 07 Feb 2024 21:03:00 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Funciones</category>
@@ -830,80 +830,18 @@ Para poder usar skins personalizadas en Korepi tendremos que descargar la aplica
       <enclosure url="https://korepi.com/assets/images/docs/202312/signin1.png" type="image/png"/>
     </item>
     <item>
-      <title>Funciones Exclusivas de Sponsor</title>
-      <link>https://korepi.com/mx/start/sponsor-exclusive.html</link>
-      <guid>https://korepi.com/mx/start/sponsor-exclusive.html</guid>
-      <source url="https://korepi.com/mx/rss.xml">Funciones Exclusivas de Sponsor</source>
-      <description>Jugador Probabilidad de critico (https://www.youtube.com/watch?v=ByucMEL7pXM&amp;list=PL5eI1Tb64p54t7LyUaudX0ume6HbS4ikD&amp;index=1&amp;pp=iAQB); Movimientos Extra (https://www.youtube.com...</description>
-      <category>Guía</category>
-      <pubDate>Wed, 20 Dec 2023 19:58:51 GMT</pubDate>
-      <content:encoded><![CDATA[<h3> Jugador</h3>
-<ul>
-<li><a href="https://www.youtube.com/watch?v=ByucMEL7pXM&amp;list=PL5eI1Tb64p54t7LyUaudX0ume6HbS4ikD&amp;index=1&amp;pp=iAQB" target="_blank" rel="noopener noreferrer">Probabilidad de critico</a></li>
-<li><a href="https://www.youtube.com/watch?v=wMd9icqhFQg&amp;list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa&amp;index=5&amp;pp=iAQB" target="_blank" rel="noopener noreferrer">Movimientos Extra</a></li>
-<li><a href="https://youtu.be/42utUUYNHRE?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa&amp;t=16" target="_blank" rel="noopener noreferrer">Muertos Viviente (Modo Dios)</a></li>
-<li><a href="https://www.youtube.com/watch?v=XGztUEy82sE&amp;list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa&amp;index=12&amp;pp=iAQB" target="_blank" rel="noopener noreferrer">Herramientas Remotas</a>
-<ul>
-<li><a href="https://www.youtube.com/watch?v=Ggnvh8ORJZU&amp;list=PL5eI1Tb64p54t7LyUaudX0ume6HbS4ikD&amp;index=3&amp;pp=iAQB" target="_blank" rel="noopener noreferrer">Reclamar Recompensas de Comisiones Diarias</a></li>
-<li><a href="https://www.youtube.com/watch?v=HZuyD6b-qYc&amp;list=PL5eI1Tb64p54t7LyUaudX0ume6HbS4ikD&amp;index=4&amp;pp=iAQB" target="_blank" rel="noopener noreferrer">Hacer resina condensada</a></li>
-<li><a href="https://youtu.be/XGztUEy82sE?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa&amp;t=62" target="_blank" rel="noopener noreferrer">Funciones de Invocación</a></li>
-</ul>
-</li>
-<li><a href="https://www.youtube.com/watch?v=Gh2GX23E6dw&amp;list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa&amp;index=21&amp;pp=iAQB" target="_blank" rel="noopener noreferrer">Salto de conejo</a></li>
-</ul>
-<h3> Mundo</h3>
-<ul>
-<li><a href="https://www.youtube.com/watch?v=qstBErr9mJ0&amp;list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa&amp;index=22&amp;pp=iAQB" target="_blank" rel="noopener noreferrer">Auto Activar Teletransporte</a></li>
-<li><a href="https://www.youtube.com/watch?v=v95_NOxc4do&amp;list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa&amp;index=31&amp;pp=iAQB" target="_blank" rel="noopener noreferrer">Auto Madera</a></li>
-<li><a href="https://www.youtube.com/watch?v=FskTJiknOgQ&amp;list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa&amp;index=32&amp;pp=iAQB" target="_blank" rel="noopener noreferrer">Aura Elemental</a></li>
-<li><a href="https://www.youtube.com/watch?v=fF6LC552cvY&amp;list=PL5eI1Tb64p54t7LyUaudX0ume6HbS4ikD&amp;index=2&amp;pp=iAQB" target="_blank" rel="noopener noreferrer">Saltar Dialogo (Más seguro que Dialogo Rápido)</a></li>
-</ul>
-<h3> Visual</h3>
-<ul>
-<li><a href="https://www.youtube.com/watch?v=S9-g5weE9l8&amp;list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa&amp;index=37&amp;pp=iAQB" target="_blank" rel="noopener noreferrer">Modificador de Constelaciones</a></li>
-<li><a href="https://youtu.be/EtRT95qEW6Y?si=v2AoRfRnjYrR93J5" target="_blank" rel="noopener noreferrer">Ocultar Interfaz</a></li>
-<li><a href="https://youtu.be/AjkJ8S8NHsI?si=pZ3FDJXHcmfpe7Ee&amp;t=101" target="_blank" rel="noopener noreferrer">Sin Desenfoque de Cámara</a></li>
-<li><a href="https://youtu.be/AjkJ8S8NHsI?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa&amp;t=102" target="_blank" rel="noopener noreferrer">Sin Movimiento de Cámara</a></li>
-<li>Sin Huellas</li>
-</ul>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Convertirse en Sponsor</title>
+      <title>Patrocinadores</title>
       <link>https://korepi.com/mx/start/sponsor.html</link>
       <guid>https://korepi.com/mx/start/sponsor.html</guid>
-      <source url="https://korepi.com/mx/rss.xml">Convertirse en Sponsor</source>
-      <description>¿Cómo convertirse en Sponsor? Debes donar por lo menos 5 Dólares o el equivalente en otras divisas. ¿Dónde donar? Cuando ya estés en el servidor, por favor ve al canal de #spons...</description>
+      <source url="https://korepi.com/mx/rss.xml">Patrocinadores</source>
+      <description>Patrocinadores Los Sponsor, también conocido como patrocinadores es un rol viejo, ya no se puede obtener de ninguna forma, las personas con este rol reciben funcionalidades extr...</description>
       <category>Guía</category>
       <pubDate>Wed, 20 Dec 2023 19:58:51 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> ¿Cómo convertirse en Sponsor?</h2>
-<p>Debes donar por lo menos 5 Dólares o el equivalente en otras divisas.</p>
-<h2> ¿Dónde donar?</h2>
-<p>Cuando ya estés en el servidor, por favor ve al canal de <a href="https://discord.com/channels/1069057220802781265/1097565269985071205" target="_blank" rel="noopener noreferrer">#sponsorship</a>. Selecciona el enlace que quieras para hacer la donación. Por favor, asegúrate de hacer una captura de pantalla para el siguiente paso.</p>
-<h2> ¿Qué hago después de haber donado?</h2>
-<h3> Paso 1:</h3>
-<p>Si ya has donado, abre un ticket en <a href="https://discord.com/channels/1069057220802781265/1195466175954550885" target="_blank" rel="noopener noreferrer">#sponsorship-proof-ticket</a>, y dale click a <code>Send Proofs</code>.</p>
-<p><img src="/assets/images/docs/202312/sponsor-new.png" alt="" loading="lazy"></p>
-<h3> Paso 2:</h3>
-<p>Manda las pruebas al canal de <code>#proof-tu-nombre</code>, y espera a que un Moderador revise las pruebas.</p>
-<p><img src="/assets/images/docs/202312/sponsor-new2.png" alt="" loading="lazy"></p>
-<h3> Paso 3:</h3>
-<p>Si todo ha ido bien, y las pruebas han sido validas recibirás tu rol de<span style="color:yellow;">Sponsor</span>.</p>
-<h2> (PARA NO-FANS) ¿Cómo reclamar el rol de Fans después de la donación?</h2>
-<p>Si eres sponsor y no tienes el rol de Fans, puedes saltarte el sign-in de 7 días y reclamar el rol instantáneamente.</p>
-<h3> Paso 1: Abre un ticket</h3>
-<p>Para hacer eso, necesitas ir al canal de #ticket-start (Solo visible cuando ya tienes Sponsor).</p>
-<p><img src="/assets/images/docs/202312/openticket1.png" alt="" loading="lazy"></p>
-<p>Cuando le des clic a '<b>open</b>', verás un canal nuevo debajo del canal de tickets.</p>
-<p><img src="/assets/images/docs/202312/openticket2.png" alt="" loading="lazy"></p>
-<h3> Paso 2: Contesta el formulario</h3>
-<p>Dale a botón de '<b>form link</b>' para rellenar el formulario.</p>
-<p><img src="/assets/images/docs/202312/openticket3.png" alt="" loading="lazy"></p>
-<p>Al completar el formulario, no olvides presionar el botón de '<b>Submit</b>'.</p>
-<p><img src="/assets/images/docs/202312/openticket4.png" alt="" loading="lazy"></p>
-<p>Después de eso, espera pacientemente hasta que los staffs revisen tu formulario. Una vez que consigas el rol de Fans, ya estas listo.</p>
+      <content:encoded><![CDATA[<h2> Patrocinadores</h2>
+<ul>
+<li>Los Sponsor, también conocido como patrocinadores es un rol viejo, ya no se puede obtener de ninguna forma, las personas con este rol reciben funcionalidades extra dentro del programa y el servidor.</li>
+</ul>
 ]]></content:encoded>
-      <enclosure url="https://korepi.com/assets/images/docs/202312/sponsor-new.png" type="image/png"/>
     </item>
     <item>
       <title>Verificación</title>

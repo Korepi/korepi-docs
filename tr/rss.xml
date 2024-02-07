@@ -6,8 +6,8 @@
     <link>https://korepi.com/tr/</link>
     <description>Korepi Yardım Bölümü</description>
     <language>tr</language>
-    <pubDate>Wed, 07 Feb 2024 20:45:50 GMT</pubDate>
-    <lastBuildDate>Wed, 07 Feb 2024 20:45:50 GMT</lastBuildDate>
+    <pubDate>Wed, 07 Feb 2024 21:03:00 GMT</pubDate>
+    <lastBuildDate>Wed, 07 Feb 2024 21:03:00 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Features</category>
@@ -875,80 +875,18 @@
       <enclosure url="https://korepi.com/assets/images/docs/202312/signin1.png" type="image/png"/>
     </item>
     <item>
-      <title>Sponsorlara Özel Özellikler</title>
-      <link>https://korepi.com/tr/start/sponsor-exclusive.html</link>
-      <guid>https://korepi.com/tr/start/sponsor-exclusive.html</guid>
-      <source url="https://korepi.com/tr/rss.xml">Sponsorlara Özel Özellikler</source>
-      <description>Oyuncu Kritik Vuruş Oranı Olasılıkları (https://www.youtube.com/watch?v=ByucMEL7pXM&amp;list=PL5eI1Tb64p54t7LyUaudX0ume6HbS4ikD&amp;index=1&amp;pp=iAQB); Ekstra Hareket (https://www.youtube...</description>
-      <category>Kılavuzlar</category>
-      <pubDate>Tue, 19 Dec 2023 12:28:02 GMT</pubDate>
-      <content:encoded><![CDATA[<h3> Oyuncu</h3>
-<ul>
-<li><a href="https://www.youtube.com/watch?v=ByucMEL7pXM&amp;list=PL5eI1Tb64p54t7LyUaudX0ume6HbS4ikD&amp;index=1&amp;pp=iAQB" target="_blank" rel="noopener noreferrer">Kritik Vuruş Oranı Olasılıkları</a></li>
-<li><a href="https://www.youtube.com/watch?v=wMd9icqhFQg&amp;list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa&amp;index=5&amp;pp=iAQB" target="_blank" rel="noopener noreferrer">Ekstra Hareket</a></li>
-<li><a href="https://youtu.be/42utUUYNHRE?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa&amp;t=16" target="_blank" rel="noopener noreferrer">Ölümsüzlük ( Tanrı Modu )</a></li>
-<li><a href="https://www.youtube.com/watch?v=XGztUEy82sE&amp;list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa&amp;index=12&amp;pp=iAQB" target="_blank" rel="noopener noreferrer">Uzak Yardımcı Programı</a>
-<ul>
-<li><a href="https://www.youtube.com/watch?v=Ggnvh8ORJZU&amp;list=PL5eI1Tb64p54t7LyUaudX0ume6HbS4ikD&amp;index=3&amp;pp=iAQB" target="_blank" rel="noopener noreferrer">Her yerden Günlük Ödül Talebi</a></li>
-<li><a href="https://www.youtube.com/watch?v=HZuyD6b-qYc&amp;list=PL5eI1Tb64p54t7LyUaudX0ume6HbS4ikD&amp;index=4&amp;pp=iAQB" target="_blank" rel="noopener noreferrer">Yoğunlaştırılmış Reçine Yapma</a></li>
-<li><a href="https://youtu.be/XGztUEy82sE?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa&amp;t=62" target="_blank" rel="noopener noreferrer">Çağırma Özellikleri</a></li>
-</ul>
-</li>
-<li><a href="https://www.youtube.com/watch?v=Gh2GX23E6dw&amp;list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa&amp;index=21&amp;pp=iAQB" target="_blank" rel="noopener noreferrer">Tavşan Zıplaması</a></li>
-</ul>
-<h3> Dünya</h3>
-<ul>
-<li><a href="https://www.youtube.com/watch?v=qstBErr9mJ0&amp;list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa&amp;index=22&amp;pp=iAQB" target="_blank" rel="noopener noreferrer">Işınlanma Portallarını Otomatik Etkinleştir</a></li>
-<li><a href="https://www.youtube.com/watch?v=v95_NOxc4do&amp;list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa&amp;index=31&amp;pp=iAQB" target="_blank" rel="noopener noreferrer">Otomatik Ağaç Çiftliği</a></li>
-<li><a href="https://www.youtube.com/watch?v=FskTJiknOgQ&amp;list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa&amp;index=32&amp;pp=iAQB" target="_blank" rel="noopener noreferrer">Elemental Aura</a></li>
-<li><a href="https://www.youtube.com/watch?v=fF6LC552cvY&amp;list=PL5eI1Tb64p54t7LyUaudX0ume6HbS4ikD&amp;index=2&amp;pp=iAQB" target="_blank" rel="noopener noreferrer">Diyaloğu Geç (Hızlı Diyalogdan Daha Güvenli)</a></li>
-</ul>
-<h3> Görsel</h3>
-<ul>
-<li><a href="https://www.youtube.com/watch?v=S9-g5weE9l8&amp;list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa&amp;index=37&amp;pp=iAQB" target="_blank" rel="noopener noreferrer">Takımyıldızı Değiştirici</a></li>
-<li><a href="https://youtu.be/EtRT95qEW6Y?si=v2AoRfRnjYrR93J5" target="_blank" rel="noopener noreferrer">UI'yi Gizle</a></li>
-<li><a href="https://youtu.be/AjkJ8S8NHsI?si=pZ3FDJXHcmfpe7Ee&amp;t=101" target="_blank" rel="noopener noreferrer">Kamera Bulanıklığı Yok</a></li>
-<li><a href="https://youtu.be/AjkJ8S8NHsI?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa&amp;t=102" target="_blank" rel="noopener noreferrer">Kamera Sarsıntısı Yok</a></li>
-<li>Ayak İzi Yok</li>
-</ul>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Sponsor Olma</title>
+      <title>Sponsor</title>
       <link>https://korepi.com/tr/start/sponsor.html</link>
       <guid>https://korepi.com/tr/start/sponsor.html</guid>
-      <source url="https://korepi.com/tr/rss.xml">Sponsor Olma</source>
-      <description>Nasıl Sponsor Olunur? Sponsor, olmak için en az 5$ veya başka bir para birimi kullanıyorsanız eşdeğeri bağışta bulunmanız gerekir. Nereye bağış yapabilirim? Zaten sunucuya girdi...</description>
-      <category>Kılavuzlar</category>
+      <source url="https://korepi.com/tr/rss.xml">Sponsor</source>
+      <description>Sponsors Sponsors are a legacy role that is no longer obtainable, people with this role are elegible to extra functionality in the software without having to pay again, they als...</description>
+      <category>Guide</category>
       <pubDate>Tue, 19 Dec 2023 12:28:02 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Nasıl <span style="color:yellow;">Sponsor</span> Olunur?</h2>
-<p><span style="color:yellow;">Sponsor</span>, olmak için en az 5$ veya başka bir para birimi kullanıyorsanız eşdeğeri bağışta bulunmanız gerekir.</p>
-<h2> Nereye bağış yapabilirim?</h2>
-<p>Zaten sunucuya girdikten sonra, lütfen Bu kanala gidin. <a href="https://discord.com/channels/1069057220802781265/1097565269985071205" target="_blank" rel="noopener noreferrer">#sponsorship</a> Bağış yapmak için tercih ettiğiniz bağlantılardan birini seçin. Lütfen bir sonraki adım için kanıt olarak işlemin ekran görüntüsünü aldığınızdan emin olun.</p>
-<h2> Bağış yaptıktan sonra ne yapmalıyım?</h2>
-<h3> Adım 1:</h3>
-<p>Zaten bağışta bulunduysanız, şu adresten bir bilet başlatabilirsiniz <a href="https://discord.com/channels/1069057220802781265/1195466175954550885" target="_blank" rel="noopener noreferrer">#sponsorship-proof-ticket</a>, ve üzerine tıklayın <code>Send Proofs</code>.</p>
-<p><img src="/assets/images/docs/202312/sponsor-new.png" alt="" loading="lazy"></p>
-<h3> Adım 2:</h3>
-<p>Kanıtınızı yeni oluşturulan kanala gönderin <code>#proof-yourname</code>, ve ardından bir Mod'un kanıtı incelemesini bekleyin.</p>
-<p><img src="/assets/images/docs/202312/sponsor-new2.png" alt="" loading="lazy"></p>
-<h3> Adım 3:</h3>
-<p>Her şey doğru gittiyse ve kanıt geçerliyse <span style="color:yellow;">Sponsor</span> Rolünüzü alacaksınız.</p>
-<h2> (FANS OLMAYANLAR İÇİN) Bağıştan sonra Fans rolü nasıl talep edilir?</h2>
-<p><span style="color:yellow;">Sponsor</span> iseniz ve Taraftar rolünüz yoksa, 7 günlük oturum açma işlemini atlayabilir ve rolü anında talep edebilirsiniz</p>
-<h3> Adım 1: Bir bilet açın</h3>
-<p>Bunu yapmak için #ticket-start kanalına gitmeniz gerekir (yalnızca zaten Sponsorunuz olduğunda görünür).</p>
-<p><a href="https://postimg.cc/dLD6D8jC" target="_blank" rel="noopener noreferrer"><img src="https://i.postimg.cc/NfkzJDyd/openticket1.png" alt="" loading="lazy"></a></p>
-<p>'open'a tıkladığınızda, bilet kanalının altında yeni bir kanal göreceksiniz.</p>
-<p><a href="https://postimg.cc/sMhJ4s8D" target="_blank" rel="noopener noreferrer"><img src="https://i.postimg.cc/Vk7H1NWM/openticket2.png" alt="" loading="lazy"></a></p>
-<h3> Adım 2: Kısa anketi yanıtlayın</h3>
-<p>Anketi yanıtlamak için 'form link' düğmesine basın.</p>
-<p><a href="https://postimg.cc/mzbN4Mrt" target="_blank" rel="noopener noreferrer"><img src="https://i.postimg.cc/qRKm8xVX/openticket4.png" alt="" loading="lazy"></a></p>
-<p>Anketi tamamladıktan sonra 'sumbit' düğmesine basmayı unutmayın.</p>
-<p><a href="https://postimg.cc/GBnxM6wP" target="_blank" rel="noopener noreferrer"><img src="https://i.postimg.cc/GpHgp1Xf/openticket5.png" alt="" loading="lazy"></a></p>
-<p>Bundan sonra, moderatörün anketinizi kontrol etmesi için sabırla bekleyin. Fans rolünüzü aldıktan sonra, gitmeye hazırsınız demektir.</p>
+      <content:encoded><![CDATA[<h2> Sponsors</h2>
+<ul>
+<li>Sponsors are a legacy role that is no longer obtainable, people with this role are elegible to extra functionality in the software without having to pay again, they also receive some extra perks in the server/software.</li>
+</ul>
 ]]></content:encoded>
-      <enclosure url="https://korepi.com/assets/images/docs/202312/sponsor-new.png" type="image/png"/>
     </item>
     <item>
       <title>Doğrulama</title>
