@@ -2,11 +2,11 @@
 title: Sponsor Olma
 icon: credit-card
 category:
-    - Guide
+    - Kılavuzlar
 tag:
-    - Start
+    - Başlangıç
     - Sponsor
-author: rekiihype, HiroAndZero02
+author: rekiihype
 order: 4
 ---
 
