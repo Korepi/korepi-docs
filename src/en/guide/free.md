@@ -24,6 +24,7 @@ Click on `Bind free card`, follow the provide link by the bot after clicking on 
 ### Step 3:
 If the bind message shows `Success`, you have successfully finished claiming the license, if it doesn't show as `Success`, repeat from the first step.
 
+![](/assets/images/docs/202402/success.png)
 ### Step 4:
 ::: info If you already got a enc.json delete it before opening the program
 :::

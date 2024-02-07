@@ -24,6 +24,7 @@ order: 2
 ### 步骤 3:
 如果绑定信息显示 `成功`，则表示已成功完成密钥申请；如果未显示 `成功`，请重新从第一步开始.
 
+![](/assets/images/docs/202402/success.png)
 ### 步骤 4:
 ::: info If you already got a enc.json delete it before opening the program
 :::

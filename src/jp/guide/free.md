@@ -23,6 +23,8 @@ order: 2
 
 ### ステップ 3:
 バインドメッセージが `Success`, と表示されれば、ライセンスの取得は成功です。 `Success`,と表示されない場合は最初のステップからやり直してください。
+
+![](/assets/images/docs/202402/success.png)
 ### ステップ 4:
 ::: info If you already got a enc.json delete it before opening the program
 :::
