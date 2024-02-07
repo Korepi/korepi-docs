@@ -149,5 +149,7 @@ Nếu như lỗi vẫn tiếp diễn, bạn nên cài lại Windows.
 
 ### Current data does not exist or server error.
 
+![](/assets/images/docs/202312/error.png)
+
 Unpause your license and try again.
 

@@ -149,5 +149,7 @@ If the error repeats you can make factory reset of Windows.
 
 ### Current data does not exist or server error.
 
+![](/assets/images/docs/202312/error.png)
+
 Unpause your license and try again.
 
