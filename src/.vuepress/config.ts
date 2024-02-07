@@ -13,7 +13,7 @@ export default defineUserConfig({
         "/en/": {
             lang: "en-US",
             title: "Korepi",
-            description: "  ",
+            description: "Help on Korepi",
         },
         "/zh/": {
             lang: "zh-CN",
