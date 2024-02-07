@@ -151,5 +151,5 @@ Nếu như lỗi vẫn tiếp diễn, bạn nên cài lại Windows.
 
 ![](/assets/images/docs/202312/error.png)
 
-Unpause your license and try again.
+Hãy ngưng tạm dừng key (unpause) rồi thử lại.
 
