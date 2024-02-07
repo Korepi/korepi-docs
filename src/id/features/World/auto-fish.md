@@ -5,10 +5,12 @@ category:
   - Fitur
 tag:
   - Auto Fish
-author: Schvis, Natsume
+author: Schvis, Natsume, RodanZ
 order: 5
 ---
-
+::: info Hanya Untuk PERTAMAX!
+:::
+---
 ### Auto fish memungkinkan Anda untuk melewati animasi menangkap ikan, yang pasti akan mengurangi waktu yang dibutuhkan untuk menangkap ikan.
 
 ## Video contoh:

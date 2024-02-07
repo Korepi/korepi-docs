@@ -4,11 +4,11 @@ icon: person-rays
 category:
   - Fitur
   - Quest Teleport
-author: Schvis, Natsume
+author: Schvis, Natsume, RodanZ
 order: 5
 ---
 
-## Quest Teleports memungkinkanmu untuk teleportasi ke lokasi misi yang sedang berlangsung saat itu juga.
+## Quest Teleports memungkinkan pemain untuk teleportasi ke lokasi misi yang sedang berlangsung saat itu juga.
 - Untuk menggunakan fitur ini, Anda harus tekan tombol navigasi terlebih dahulu, kemudian tekan tombol teleport misi.
 
 ## Video Contoh:

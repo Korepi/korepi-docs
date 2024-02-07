@@ -5,11 +5,11 @@ category:
   - Fitur
 tag:
   - Map Teleport
-author: Schvis, Natsume
+author: Schvis, Natsume, RodanZ
 order: 4
 ---
 
-## Map Teleport memungkinkanmu untuk berpindah ke mana saja di peta.
+## Map Teleport memungkinkan pemain untuk berpindah ke mana saja di peta.
 - Untuk menggunakan teleport peta, Anda harus mengaktifkannya, dan pilih tombol pintas yang akan Anda gunakan.
 - Untuk melakukan teleportasi, tahan tombol pintas saat membuka peta dan klik di mana Anda ingin melakukan teleportasi.
 ### Fast Teleport (<span style='color:yellow;'>Sponsor!</span>):

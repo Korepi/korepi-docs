@@ -5,7 +5,7 @@ category:
   - Fitur
 tag:
   - Attack Effects
-author: Schvis, Natsume
+author: Schvis, Natsume, RodanZ
 order: 1
 ---
 
@@ -31,7 +31,7 @@ order: 1
 - Mengubah elemen dari serangan normal senjata pedang, tombak, dan pedang besar.
 ### Auto Weakspot:
 - Mengenai titik lemah target sehingga memicu serangan kritis, `hanya berfungsi dengan pengguna panah`.
-### Critical Hit (Sponsor!):
+### Critical Rate (Sponsor!):
 - Mengubah probabilitas serangan kritis.
 ### Nullify Incoming Element:
 - Akan meniadakan elemen masuk apa pun, dan mengubahnya menjadi kerusakan fisik

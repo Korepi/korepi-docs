@@ -5,10 +5,12 @@ category:
   - Fitur
 tag:
   - Kill Aura
-author: Schvis, Natsume, Chloe
+author: Schvis, Natsume, Chloe, RodanZ
 order: 12
 ---
-
+::: info Hanya Untuk PERTAMAX!
+:::
+---
 ## Kill Aura: Memberikan kerusakan kepada musuh di sekitar.
 # Catatan: Fitur ini memiliki risiko tinggi terkena ban.
 ### Crash Damage mode:
