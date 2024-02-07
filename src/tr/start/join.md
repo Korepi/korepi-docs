@@ -2,10 +2,10 @@
 title: Sunucuya Katılma
 icon: server
 category:
-  - Guide
+  - Kılavuzlar
 tag:
-  - Start
-author: QweRez HiroAndZero02
+  - Başlangıç
+author: QweRez
 order: 1
 ---
 
