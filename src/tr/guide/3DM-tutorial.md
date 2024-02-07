@@ -1,66 +1,66 @@
 ---
-title: How to use custom skins
+title: Özel görünümler nasıl kullanılır?
 icon: magic-wand-sparkles
 category:
-  - Guide
+  - Kılavuzlar
 tag:
-  - Start
-  - Skins
+  - Başlangıç
+  - Görünümler
 author: Schvis
 order: 4
 ---
 
-::: info If GIMI shows `echo off` on the cmd, you can just press `Numpad 0` to remove it, you can also edit `d3dx.ini` and search for `hunting=` and set to `0`. 
+::: info Eğer GIMI cmd üzerinde `echo off` gösteriyorsa, bunu kaldırmak için sadece `Numpad 0`a basabilirsiniz, ayrıca `d3dx.ini` dosyasını düzenleyebilir ve `hunting=` araması yapabilir ve `0` olarak ayarlayabilirsiniz.
 :::
 ---
 
-## How to use custom Skins in Korepi
+## Korepi'de Özel Görünümler Nasıl Kullanılır
 
 ![](/assets/images/docs/202312/example.png)
-In order to use custom skins in we will need to download: 
+Özel görünümleri kullanmak için indirmemiz gerekecek:
 
 `3DMigoto(GIMI)`.
-## <span style='color:blue;'>Method 1</span>
-### Step 1: Download `GIMI`
+## <span style='color:blue;'>1. Yöntem</span>
+### Adım 1: `GIMI` indir
 
-Download `GIMI` in their oficial [Github](https://github.com/SilentNightSound/GI-Model-Importer/releases/tag/v7.0) and download the file named: `3dmigoto-GIMI-for-playing-mods.zip`.
+Resmi [Github](https://github.com/SilentNightSound/GI-Model-Importer/releases/tag/v7.0) adresinden `GIMI` dosyasını indirin ve `3dmigoto-GIMI-for-playing-mods.zip` adlı dosyayı indirin.
 
 ![](/assets/images/docs/202312/3dm-1.png)
 
-### Step 2: Extract `GIMI` into a folder
+### Adım 2: `GIMI`yi bir klasöre çıkarın
 
-After downloading `GIMI`, we will need to extract it into any folder of your choice, inside that folder you will find `d3d11.dll`, we will copy the path and add `/d3d11.dll` to the end, for example:
+`GIMI` yi indirdikten sonra, istediğiniz herhangi bir klasöre çıkarmamız gerekecek, bu klasörün içinde `d3d11.dll` bulacaksınız, yolu kopyalayacağız ve sonuna `/d3d11.dll` ekleyeceğiz, örneğin:
 
 `"path/d3d11.dll"`
 
-### Step 3: Add `GIMI` to Korepi
+### Adım 3: Korepi'ye `GIMI` ekleyin
 
-To do this we will need to add the next lines in `cfg.ini` inside korepi folder.
+Bunu yapmak için korepi klasörü içindeki `cfg.ini` dosyasına aşağıdaki satırları eklememiz gerekecektir.
 
 ![](/assets/images/docs/202312/3dm-2.png)
 
-On `DllPath` we will paste the path we copied in the last step.
+`DllPath` üzerine son adımda kopyaladığımız yolu yapıştıracağız.
 
 ![](/assets/images/docs/202312/3dm-3.png)
 
-### Step 4: Open Korepi
+### Adım 4: Korepi'yi açın
 
-If you followed the steps right, Korepi should launch with `GIMI` every time.
+Eğer adımları doğru takip ettiyseniz, Korepi her seferinde `GIMI` ile başlamalıdır.
 
-## <span style='color:blue;'>Method 2</span>
-### Step 1: Download `GIMI`
+## <span style='color:blue;'>2. Yöntem</span>
+### Adım 1: `GIMI` indir
 
-Download `GIMI` in their oficial [Github](https://github.com/SilentNightSound/GI-Model-Importer/releases/tag/v7.0) and download the file named: `3dmigoto-GIMI-for-playing-mods.zip`.
+Resmi [Github](https://github.com/SilentNightSound/GI-Model-Importer/releases/tag/v7.0) adresinden `GIMI` dosyasını indirin ve `3dmigoto-GIMI-for-playing-mods.zip` adlı dosyayı indirin.
 
 ![](/assets/images/docs/202312/3dm-1.png)
 
-### Step 2: Extract `GIMI` into a folder
+### Adım 2: `GIMI`yi bir klasöre çıkarın
 
-After downloading `GIMI`, we will need to extract it into any folder of your choice, inside that folder you will find `3DMigoto Loader.exe`, we will run this file first.
+`GIMI` yi indirdikten sonra, istediğiniz herhangi bir klasöre çıkarmamız gerekecek, bu klasörün içinde `3DMigoto Loader.exe` bulacaksınız, önce bu dosyayı çalıştıracağız.
 
-### Step 4: Open Korepi
+### Adım 4: Korepi'yi açın
 
-After running `GIMI`, we will run Korepi, `GIMI` will be loaded with Korepi after this, you will need to repeat these steps every time you want to launch Korepi with `GIMI`.
+`GIMI` yi çalıştırdıktan sonra Korepi'yi çalıştıracağız, `GIMI` bundan sonra Korepi ile birlikte yüklenecektir, Korepi'yi `GIMI` ile her başlatmak istediğinizde bu adımları tekrarlamanız gerekecektir.
 
 
 
