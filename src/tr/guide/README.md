@@ -1,9 +1,9 @@
 ---
-title: Guides
+title: Talimatlar
 icon: book
 category: Guide
 tag: Start
-author: QweRez, Schvis
+author: QweRez, Schvis, OpHellfire
 ---
 
 <AutoCatalog />

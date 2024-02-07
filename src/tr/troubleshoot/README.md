@@ -1,9 +1,9 @@
 ---
-title: List of Errors
+title: Hataların Listesi
 icon: book
 category: Troubleshoot
 tag: Start
-author: Schvis
+author: Schvis, HiriAndZero02
 ---
 
 <AutoCatalog />

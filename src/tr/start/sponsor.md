@@ -1,63 +1,63 @@
 ---
-title: Becoming a Sponsor
+title: Sponsor Olma
 icon: credit-card
 category:
     - Guide
 tag:
     - Start
     - Sponsor
-author: rekiihype
+author: rekiihype, HiroAndZero02
 order: 4
 ---
 
-## How to become a <span style='color:yellow;'>Sponsor</span>?
+## Nasıl <span style='color:yellow;'>Sponsor</span> Olunur?
 
-To becoming a  <span style='color:yellow;'>Sponsor</span>, you need to donate atleast $5 or equivalent if you are using another currency.
+<span style='color:yellow;'>Sponsor</span>, olmak için en az 5$ veya başka bir para birimi kullanıyorsanız eşdeğeri bağışta bulunmanız gerekir.
 
-## Where to donate?
+## Nereye bağış yapabilirim?
 
-Once you already in the server, please go to [#sponsorship](https://discord.com/channels/1069057220802781265/1097565269985071205) channel. Choose one of the links you prefer to donate. Please make sure to screenshot the process as proof for the next step.
+Zaten sunucuya girdikten sonra, lütfen Bu kanala gidin. [#sponsorship](https://discord.com/channels/1069057220802781265/1097565269985071205) Bağış yapmak için tercih ettiğiniz bağlantılardan birini seçin. Lütfen bir sonraki adım için kanıt olarak işlemin ekran görüntüsünü aldığınızdan emin olun.
 
-## What to do after I done donated?
+## Bağış yaptıktan sonra ne yapmalıyım?
 
-### Step 1:
+### Adım 1:
 
-If you already donated, you can start a ticket at [#sponsorship-proof-ticket](https://discord.com/channels/1069057220802781265/1195466175954550885), and click on `Send Proofs`.
+Zaten bağışta bulunduysanız, şu adresten bir bilet başlatabilirsiniz [#sponsorship-proof-ticket](https://discord.com/channels/1069057220802781265/1195466175954550885), ve üzerine tıklayın `Send Proofs`.
 
 ![](/assets/images/docs/202312/sponsor-new.png)
 
-### Step 2: 
+### Adım 2:
 
-Send your proof to the newly created channel `#proof-yourname`, and then wait for a Mod to review the proof.
+Kanıtınızı yeni oluşturulan kanala gönderin `#proof-yourname`, ve ardından bir Mod'un kanıtı incelemesini bekleyin.
 
 ![](/assets/images/docs/202312/sponsor-new2.png)
 
-### Step 3:
+### Adım 3:
 
-If everything went right, and the proof is valid you will receive your  <span style='color:yellow;'>Sponsor</span> role.
+Her şey doğru gittiyse ve kanıt geçerliyse <span style='color:yellow;'>Sponsor</span> Rolünüzü alacaksınız.
 
-## (FOR NON-FANS) How to claim Fans role after donation?
+## (FANS OLMAYANLAR İÇİN) Bağıştan sonra Fans rolü nasıl talep edilir?
 
-If you are a  <span style='color:yellow;'>Sponsor</span> and do not have Fans role, you can skip the 7-days sign-in and claim the role instantly
+<span style='color:yellow;'>Sponsor</span> iseniz ve Taraftar rolünüz yoksa, 7 günlük oturum açma işlemini atlayabilir ve rolü anında talep edebilirsiniz
 
-### Step 1: Open a ticket
+### Adım 1: Bir bilet açın
 
-To do that, you need to go to #ticket-start channel (only visible when you already have Sponsor).
+Bunu yapmak için #ticket-start kanalına gitmeniz gerekir (yalnızca zaten Sponsorunuz olduğunda görünür).
 
 [![](https://i.postimg.cc/NfkzJDyd/openticket1.png)](https://postimg.cc/dLD6D8jC)
 
-Once you click on 'open', you will see a new channel under the ticket channel.
+'open'a tıkladığınızda, bilet kanalının altında yeni bir kanal göreceksiniz.
 
 [![](https://i.postimg.cc/Vk7H1NWM/openticket2.png)](https://postimg.cc/sMhJ4s8D)
 
-### Step 2: Answer short survey
+### Adım 2: Kısa anketi yanıtlayın
 
-Press the 'form link' button to answer the survey.
+Anketi yanıtlamak için 'form link' düğmesine basın.
 
 [![](https://i.postimg.cc/qRKm8xVX/openticket4.png)](https://postimg.cc/mzbN4Mrt)
 
-Once you are done with the survey, do not forget to press 'Submit' button.
+Anketi tamamladıktan sonra 'sumbit' düğmesine basmayı unutmayın.
 
 [![](https://i.postimg.cc/GpHgp1Xf/openticket5.png)](https://postimg.cc/GBnxM6wP)
 
-After that, just wait patiently for the staffs to check your survey. Once you get your Fans role, then you are good to go.
+Bundan sonra, moderatörün anketinizi kontrol etmesi için sabırla bekleyin. Fans rolünüzü aldıktan sonra, gitmeye hazırsınız demektir.

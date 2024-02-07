@@ -1,5 +1,5 @@
 ---
-title: Download
+title: İndirme
 icon: download
 category:
   - Guide
@@ -7,29 +7,29 @@ tag:
   - Start
   - Download
 author:
-  name: "QweRez"
+  name: "QweRez HiroAndZero02"
   url: "https://github.com/qwerezon/"
 order: 7
 ---
 
-# Download
+# İndirme
 
-## Introduction
+## Giriş
 
-Welcome to our community! To pass the bot check and receive the `Newcomer` role, follow these steps.
+Topluluğumuza hoş geldiniz! Bot kontrolünü geçmek ve `Newcomer` rolü için aşağıdaki adımları izleyin.
 
-### Step 1: Join our server and obtain the `Newcomer` and `Fans` roles
+### Adım 1: Sunucumuza katılın ve `Newcomer` ve `Fans` rollerini edinin.
 
-If you haven't joined the server yet, please read the verification post, which describes how to join the server and obtain the `Newcomer` and `Fans` roles.
+Sunucuya henüz katılmadıysanız, lütfen sunucuya nasıl katılacağınızı ve `Newcomer` ve `Fans` rollerini nasıl elde edeceğinizi açıklayan doğrulama gönderisini okuyun.
 
-### Step 2: Go to the channel `★⋅korepi-version-roles⋅★`
+### Adım 2: `★⋅korepi-version-roles⋅★` Kanalına gidin.
 
-Locate the channel `★⋅korepi-version-roles⋅★` and choose either the F or V version role. We recommend selecting the F role.
+`★⋅korepi-version-roles⋅★` kanalını bulun ve F veya V versiyon rolünü seçin. F rolünü seçmenizi öneririz.
 
-### Step 3: Download the necessary resources
+### Adım 3: Gerekli kaynakları indirin
 
-Once you've done that, you will gain access to the corresponding download channel: `★⋅f-download⋅★` or `★⋅v-download⋅★`.
+Bunu yaptıktan sonra, ilgili indirme kanalına erişim kazanacaksınız: `★⋅f-download⋅★` veya `★⋅v-download⋅★`.
 
-### Step 4: Ready!
+### Adım 4: Hazır!
 
-In the channel, you will find a link to the current version and the password for the archive. Good luck!
+Kanalda, güncel sürüme bir bağlantı ve arşiv için şifre bulacaksınız. İyi şanslar!

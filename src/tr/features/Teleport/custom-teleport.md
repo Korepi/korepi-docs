@@ -1,22 +1,22 @@
 ---
-title: Custom Teleport
+title: Özel Işınlanma
 icon: person-rays
 category:
   - Features
 tag:
   - Custom Teleport
-author: Schvis
+author: Schvis, OpHellfire, HiroAndZero
 order: 3
 ---
 
-## Custom Teleport: Allows the player to teleport to a selected location designed by a `.json` file.
-### Interpolation Speed:
-- Controls the teleportation animation speed, set to `0.1` to avoid issues.
-### Auto Teleport:
-- Teleports automatically following the order of the provided `.json` files.
-    - Teleport Next: Teleports to next location after pressing the selected hotkey.
-    - Teleport Previous: Teleports to previous location after pressing the selected hotkey.
-> Note: Recommended to set above `15s` for safety.
+## Özel Işınlanma: Kullanıcıyı bir `.json` dosyası ile belirli bir noktaya ışınlar.
+### Enterpolasyon Hızı:
+- Işınlanma animasyonunun hızını ayarlar. Sorun yaşamamak için değeri `0.1` yapınız.
+### Otomatik Işınlanma:
+- `.json` dosyalarının sıralamasına göre otomatik ışınlar
+    - Sonrakine Işınlan: Atanmış tuşa basınca sonraki ışınlanmaya ışınlar.
+    - Öncekine Işınlan: Atanmış tuşa basınca önceki ışınlanmaya ışınlar.
+> Not: Riski azaltmak için ışınlanmalar arası `>15s` bekleyiniz.
 
-# You can find out more on how to use this feature [here](../.././guide/custom-tp-setting.md)
+# Bu özelliğin kullanımı hakkında daha fazla bilgi bulmak için [buraya](../.././guide/custom-tp-setting.md) tıklayınız.
 
