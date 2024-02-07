@@ -10,29 +10,30 @@ author: Schvis
 order: 2
 ---
 
-## How to get the free license for Korepi.
+## كيفية الحصول على ترخيص مجاني لـKorepi.
 
-### Step 1:
-- Find the `★⋅micah-bot-verify⋅★` channel [direct link](https://discord.com/channels/1069057220802781265/1203687333107335198)
+### الخطوة 1:
+- اعثر على قناة `★⋅micah-bot-verify⋅★`  [رابط مباشر](https://discord.com/channels/1069057220802781265/1203687333107335198)
 
   ![img.png](/assets/images/docs/202402/verify-1.png)
-- Find the message sent by Micah-bot
+- ابحث عن الرسالة المرسلة من `★Micah-bot★`
 
-### Step 2:
-Click on `Bind free card`, follow the provide link by the bot after clicking on it, watch the ad and skip it.
+### الخطوة 2:
+انقر فوق `Bind free card`, اتبع رابط الدي ارسله لك البوت بعد الضغط عليه، شاهد الإعلان وتخطاه.
 
-### Step 3:
-If the bind message shows `Success`, you have successfully finished claiming the license, if it doesn't show as `Success`, repeat from the first step.
+### الخطوه 3:
+إذا ظهرت رسالة الربط `Success`, لقد انتهيت بنجاح من المطالبة بالترخيص، إذا لم يظهر كـ `Success`, كرر من الخطوة الأولى.
 
 ![](/assets/images/docs/202402/success.png)
-### Step 4:
-::: info If you already got a enc.json delete it before opening the program
-:::
-Launch the program to obtain your `HWID`, after that head to `★⋅micah-bot-verify⋅★` again and click on `Get verification file` and paste in your `HWID`.
 
-After clicking on submit you will receive a file from the bot, download it and place it on your Korepi folder. Make sure the name is `enc.json`.
+=======
+### الخطوة 4:
+افتح الحاقن للحصول على `HWID` الخاص بك, بعد ذلك توجه إلى `★⋅micah-bot-verify⋅★` مرة أخرى وانقر على `Get verification file` ولصق `HWID`الخاص بك.
 
-### Step 5:
-Launch the program again and follow the instructions provide in the cmd.
+بعد النقر على إرسال، ستتلقى ملفًا من الروبوت، قم بتنزيله ووضعه في مجلد Korepi الخاص بك. تأكد من الاسم `enc.json`.
 
-Enjoy Korepi!
+=======
+### الخطوة 5:
+قم بتشغيل الحاقن مرة أخرى واتبع التعليمات الموجودة في cmd.
+
+استمتع Korepi!
