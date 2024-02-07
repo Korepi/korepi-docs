@@ -5,7 +5,7 @@ export const trNavbar = navbar([
   "/tr/guide/",
   "/tr/start/",
   {
-    text: "Guide",
+    text: "Kılavuz",
     icon: "lightbulb",
     prefix: "/tr/",
     children: [

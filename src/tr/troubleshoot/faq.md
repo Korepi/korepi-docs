@@ -1,78 +1,78 @@
 ---
-title: FAQ
+title: Çok Sorulanlar
 icon: info
 category:
-  - FAQ
+  - SSS
 tag:
-  - Start
+  - Başlangıç
 author: Schvis
 order: 1
 ---
 
-## List of FAQs
+## En Sorulanlar Listesi
 
-### Is Korepi free?
+### Korepi Ücretsiz mi?
 
-Yes, it is free, in order to get it for the first time you have to do a 7 days [sign-in](../start/sign-in.md), you can skip this by [Sponsoring](../start/sponsor.md), after that you can get the license every time your key expires.
+Evet, ücretsizdir, ilk kez almak için 7 günlük bir deneme yapmanız gerekir [Kayıt-olma](../start/sign-in.md), bunu şu şekilde atlayabilirsiniz [Sponsorluk](../start/sponsor.md), bundan sonra anahtarınızın süresi her dolduğunda lisansı alabilirsiniz.
 
 ---
-### What is the .rar/.zip password?
+### .rar/.zip şifresi nedir?
 
 ...
 
-Its `1234`, please read the download post next time.
+Bu `1234`, lütfen bir dahaki sefere indirme yazısını okuyun.
 
 ---
-### Why my config doesn't save?
+### Konfigürasyonum neden kaydedilmiyor?
 
-Keep in mind you have to extract the `.rar/.zip` file you got in another folder.
+Aldığınız `.rar/.zip` dosyasını başka bir klasöre çıkarmanız gerektiğini unutmayın.
 
-If config is still not saving after this step, please contact with any helper in the server for more help.
+Bu adımdan sonra yapılandırma hala kaydedilmiyorsa, daha fazla yardım için lütfen sunucudaki herhangi bir yardımcı ile iletişime geçin.
 
 ---
-### Where do i find themes?
+### Temaları nereden bulabilirim?
 
-You can find themes for your Korepi on `community share` or you can make your own in Korepi settings.
+Korepi'niz için temaları `community share' üzerinde bulabilir veya Korepi ayarlarından kendiniz yapabilirsiniz.
 
 ![](/assets/images/docs/202312/theme-settings.png)
 
-Check `Theme Customization` to start making your own theme.
+Kendi temanızı oluşturmaya başlamak için `Theme Customization` seçeneğini işaretleyin.
 
 ---
-### Why did my /start streak reset?
+### Neden /start serim sıfırlandı?
 
-Most likely you surpassed the reset time, it resets daily, if you skip 1 day it will reset entirely
+Büyük olasılıkla sıfırlama süresini aştınız, günlük olarak sıfırlanır, 1 günü atlarsanız tamamen sıfırlanır
 
-::: info Reset time is at GMT/UTC+8 00:00 everyday. Please convert to your timezone.
+::: bilgi Sıfırlama saati her gün GMT/UTC+8 00:00'dır. Lütfen kendi zaman diliminize çevirin.
 :::
 ---
 
-### Can i use Korepi when a new update comes?
+### Yeni bir güncelleme geldiğinde Korepi'yi kullanabilir miyim?
 
-No, you need to wait till a new Korepi version gets released.
+Hayır, yeni bir Korepi sürümü yayınlanana kadar beklemeniz gerekiyor.
 
-::: info Using the old injector wont work, Korepi update takes 1-2 weeks approximately.
+::: bilgi Eski enjektörü kullanmak işe yaramaz, Korepi güncellemesi yaklaşık 1-2 hafta sürer.
 :::
 ---
 
-### Why the menu doesn't appear in game?
+### Menü neden oyunda görünmüyor?
 
-Make sure you have disabled every overlay(MSI Afterburner, GeForce Experience, etc.) before launching korepi.
-
----
-### Where do i get <span style='color:yellow;'>Sponsor</span> and how much it is?
-
-You can get [Sponsor](../start/sponsor.md) from the links provided in `#sponsorship` in the server.
-
-In order to get the Sponsor role, you need to donate at least 5$, any other donation below 5$ will be ignored.
+Korepi'yi başlatmadan önce tüm kaplamaları (MSI Afterburner, GeForce Experience, vb.) devre dışı bıraktığınızdan emin olun.
 
 ---
-### Why my game crashes in loading screen?
+### <span style='color:yellow;'>Sponsor</span>'u nereden alabilirim ve ne kadar?
 
-If you get a error like this:
+[Sponsor](../start/sponsor.md) rolünü sunucuda `#sponsorship` içinde sağlanan bağlantılardan alabilirsiniz.
+
+Sponsor rolünü alabilmek için en az 5$ bağış yapmanız gerekmektedir, 5$'ın altındaki diğer bağışlar dikkate alınmayacaktır.
+
+---
+### Oyunum neden yükleme ekranında çöküyor?
+
+Eğer böyle bir hata alırsanız:
 
 `atidxx64.dll caused an Access Violation (0xc0000005) in module atidxx64.dll at 0033:43d1356c.`
 
-Please update your drivers and try again.
+Lütfen sürücülerinizi güncelleyin ve tekrar deneyin.
 
-If you don't get that error, try setting more delay on launch on `cfg.ini`.
+Bu hatayı almazsanız, başlatma sırasında daha fazla gecikme ayarlamayı deneyin `cfg.ini`.

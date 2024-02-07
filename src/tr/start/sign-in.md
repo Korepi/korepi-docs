@@ -1,39 +1,39 @@
 ---
-title: Registration
+title: Kayıt Olma
 icon: user-plus
 category:
-  - Guide
+  - Kılavuzlar 
 tag:
-  - Start
+  - Başlangıç
 author: QweRez
 order: 3
 ---
 
-## Introduction
+## Giriş
 
-Welcome to our community! To register and obtain the "Fans" role, follow these steps.
+Topluluğumuza hoş geldiniz! Kaydolmak ve "Fans" rolünü almak için aşağıdaki adımları izleyin.
 
-### Step 1: Join our server and get the "Newcomer" role if you haven't already
+### Adım 1: Sunucumuza katılın ve henüz yapmadıysanız "Newcomer" rolünü alın
 
-If you are not on the server yet, please read the previous post, where it is described how to join the server and get the "Newcomer" role.
+Henüz sunucuda değilseniz, lütfen sunucuya nasıl katılacağınızın ve "Newcomer" rolünü nasıl alacağınızın anlatıldığı önceki yazıyı okuyun.
 
 
-### Step 2: Find the bot
+### Adım 2: Botu bulun
 
-Now you need to find the bot with the image of a goose and write to him in direct messages (micah-sign-bot#0245).
+Şimdi bir kaz resmi olan botu bulmanız ve ona direkt mesajlarla yazmanız gerekiyor (micah-sign-bot#0245).
 
 ![Sign-in](/assets/images/docs/202312/signin1.png)
 
-### Step 3: Getting started
+### Adım 3: Başlarken
 
-Write him the command `/start`, solve the captcha. Note: if the bot does not respond to your captcha request, you probably entered it incorrectly. Try writing the captcha again (without the command). After successful input, the bot will send you the message "Consecutive < days > days".
+Ona `/start` komutunu yazın, captcha'yı çözün. Not: Eğer bot captcha isteğinize yanıt vermezse, muhtemelen yanlış girmişsinizdir. Captcha'yı tekrar yazmayı deneyin (komut olmadan). Başarılı bir girişten sonra, bot size "Consecutive < days > days" mesajını gönderecektir.
 
 ![Sign-in](/assets/images/docs/202312/signin2.png)
 
 ![Sign-in](/assets/images/docs/202312/signin3.png)
 
-### Step 4: After receiving the "Fans" role
+### Adım 4: "Fans" rolünü aldıktan sonra
 
-So now you need to enter this command every day for 7 days (every 24 hours). Note that if you make a mistake by a couple of hours, the bot will consider that you did not mark and reset your days. On the 7th day of check-ins, you will be given the "Fans" role, and you can stop checking in.
+Şimdi bu komutu 7 gün boyunca her gün (her 24 saatte bir) girmeniz gerekiyor. Birkaç saatlik bir hata yaparsanız, botun günlerinizi işaretlemediğinizi ve sıfırlamadığınızı düşüneceğini unutmayın. Check-in'lerin 7. gününde, size "Fans" rolü verilecek ve check-in yapmayı bırakabilirsiniz.
 
 ![Sign-in](/assets/images/docs/202312/signin4.png)

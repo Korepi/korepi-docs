@@ -1,51 +1,51 @@
 ---
-title: How to use Custom TP
+title: Özel TP nasıl kullanılır
 icon: running
 category:
-  - Guide
+  - Kılavuzlar
 tag:
-  - Start
-  - Teleports
+  - Başlangıç
+  - Işınlanmalar
 author: Schvis
 order: 6
 ---
 
-## How to use custom TP
+## Özel TP nasıl kullanılır
 
-### Step 1: Settings to use
+### Adım 1: Kullanılacak ayarlar
 
-We will use the following settings.
+Aşağıdaki ayarları kullanacağız.
 
 ![](/assets/images/docs/202312/teleport1.png)
 
-The recommended delay time is >15s.
+Önerilen gecikme süresi >15 saniyedir.
 
-### Step 2: Download the `.json` files for the custom tp
+### Adım 2: Özel TP için `.json` dosyalarını indirin
 
-We can find these files in `community-share` pinned post in the server. Download the ones that suits your needs.
+Bu dosyaları sunucuda `community-share` sabitlenmiş yazısında bulabiliriz. İhtiyaçlarınıza uygun olanları indirin.
 
-### Step 3: Select the tp files
+### Adım 3: TP dosyalarını seçin
 
-Head to custom tp settings and go to this section:
+Özel TP ayarlarına gidin ve bu bölüme geçin:
 
 ![](/assets/images/docs/202312/teleport2.png)
 
-Click on select path and select the folder containing the tp files you want to use.
+Yol seç üzerine tıklayın ve kullanmak istediğiniz TP dosyalarını içeren klasörü seçin.
 
-### Step 4: How to start the tps
+### Adım 4: TP nasıl başlatılır
 
-After selecting the folder, check this checkbox:
+Klasörü seçtikten sonra bu onay kutusunu işaretleyin:
 
 ![](/assets/images/docs/202312/teleport3.png)
 
-After that we click on `Select`:
+Bundan sonra `Select` seçeneğine tıklıyoruz:
 
 ![](/assets/images/docs/202312/teleport4.png)
 
-### Step 5: Enjoy the ride
+### Adım 5: Yolculuğun tadını çıkarın
 
-The TPs will start automatically, if you got [Sponsor](../start/sponsor.md), you will be able to see the progress and remaining time.
+TP'ler otomatik olarak başlayacaktır, eğer [Sponsor](../start/sponsor.md) aldıysanız, ilerlemeyi ve kalan süreyi görebileceksiniz.
 
-## Video
+## Örnek Video
 
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/1ft6xYr2EmM" title="Part 1 - How to Use &#39;Custom Teleports&#39; in Colorpicker or Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>

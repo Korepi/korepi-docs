@@ -5,14 +5,14 @@ category:
   - Fitur
 tag:
   - Custom Teleport
-author: Schvis, Natsume
+author: Schvis, Natsume, RodanZ
 order: 3
 ---
 
 ## Custom Teleport: Memungkinkan pemain untuk teleportasi ke lokasi yang dipilih yang telah didesain di file `.json`.
 
 ### Interpolation Speed:
-- Mengkontrol kecepatan animasi teleportasi, atur ke `0.1` untuk menghindari masalah.
+- Mengontrol kecepatan animasi teleportasi, atur ke `0.1` untuk menghindari masalah.
 ### Auto Teleport:
 - Melakukan teleportasi secara otomatis mengikuti urutan file `.json` yang diberikan.
   - Teleport Next: Teleportasi ke lokasi berikutnya setelah menekan tombol pintas yang dipilih.

@@ -1,39 +1,39 @@
 ---
 home: true
 icon: home
-title: Home
+title: Ana Sayfa
 heroImage: /logo2.svg
 bgImage: https://theme-hope-assets.vuejs.press/bg/6-light.svg
 bgImageDark: https://theme-hope-assets.vuejs.press/bg/6-dark.svg
 bgImageStyle:
  background-attachment: fixed
 heroText: Korepi
-tagline: Providing high-quality and user-friendly Korepi utility tools!
+tagline: Yüksek kaliteli ve kullanıcı dostu Korepi yardımcı araçları sağlar!
 actions:
-- text: Download
+- text: İndir
   icon: download
   link: ./start/download
   type: primary
-- text: Quick Start
+- text: Hızlı Başlangıç
   icon: lightbulb
   link: ./start/
-- text: Guide
+- text: Kılavuz
   icon: book
   link: ./guide/
 
 highlights:
-- header: A Superhuman Experience!
+- header: İnsanüstü Bir Deneyim!
   image: /assets/images/web/box.svg
   bgImage: https://theme-hope-assets.vuejs.press/bg/3-light.svg
   bgImageDark: https://theme-hope-assets.vuejs.press/bg/3-dark.svg
   highlights:
-    - title: Unlock Uncharted Locations
-    - title: Auto-explore for Treasures!
-    - title: Exploration Mode, Focus More on the Game!
-    - title: Support for Multiple Languages!
+    - title: Keşfedilmemiş Konumların Kilidini Açın!
+    - title: Hazineler için Otomatik-Toplama!
+    - title: Keşif Modu, Oyuna Daha Fazla Odaklanın!
+    - title: Birden Fazla Dil Desteği!
 
-- header: Practical, Convenient, Interactive Tech with Genshin
-  description: Unique functionalities, free of charge
+- header: Genshin ile Pratik, Kullanışlı, İnteraktif Teknoloji
+  description: Ücretsiz benzersiz işlevler
   image: /assets/images/web/markdown.svg
   bgImage: https://theme-hope-assets.vuejs.press/bg/2-light.svg
   bgImageDark: https://theme-hope-assets.vuejs.press/bg/2-dark.svg
@@ -41,94 +41,94 @@ highlights:
     background-repeat: repeat
     background-size: initial
   features:
-    - title: Teleport
+    - title: Işınlanma
       icon: location-arrow
-      details: Teleport between maps/marks/tasks
-    - title: God Mode
+      details: Haritalar/işaretler/görevler arasında ışınlanma
+    - title: Tanrı Modu
       icon: shield
-      details: Make your character invincible
-    - title: Attack Modifiers (Multi-hit/Targets/Animations)
+      details: Karakterinizi yenilmez hale getirin
+    - title: Saldırı Modifikasyonları (Çoklu Vuruş/Hedefler/Animasyonlar)
       icon: gun
-      details: Modify attack properties including multi-hit, targets, and animations
-    - title: No Cooldown (Skills/Ultimate/Sprint/Bow)
+      details: Çoklu vuruş, hedefler ve animasyonlar dahil olmak üzere saldırı özelliklerini değiştirin
+    - title: Bekleme Süresi Yok (Beceriler/Ulti/Koşma/Yay)
       icon: clock
-      details: Eliminate cooldown for various actions such as skills, ultimate, sprint, and bow
-    - title: Infinite Stamina
+      details: Beceriler, ulti, koşu ve yay gibi çeşitli eylemler için bekleme süresini ortadan kaldırın
+    - title: Sonsuz Dayanıklılık
       icon: battery-full
-      details: Allow characters to use stamina indefinitely
-    - title: Wall Clipping
+      details: Karakterlerin süresiz olarak dayanıklılık kullanmasına izin ver
+    - title: No Clip
       icon: vector-square
-      details: Enable characters to pass through objects, fly
-    - title: Game Speed
+      details: Karakterlerin nesnelerin içinden geçmesini, uçmasını sağlayın
+    - title: Oyun Hızı
       icon: tachometer-alt
-      details: Speed up or slow down the passage of time in the game
-    - title: Dumb Enemies
+      details: Oyunda zamanın geçişini hızlandırın veya yavaşlatın
+    - title: Aptal Düşmanlar
       icon: skull
-      details: Make enemies become dumb
-    - title: Freeze Enemies
+      details: Düşmanlarınızı aptallaştırın
+    - title: Düşmanları Dondur
       icon: snowflake
-      details: Freeze enemies in place
-    - title: Auto-destroy Ore/Shields/Junk/Plants
+      details: Düşmanları olduğu yerde dondurma
+    - title: Cevherleri/Kalkanları/Çöpleri/Bitkileri otomatik Olarak Topla
       icon: hammer
-      details: Automatically destroy various objects in the environment
-    - title: Auto-loot/Open Chests
+      details: Çevredeki çeşitli nesneleri otomatik olarak toplayın
+    - title: Otomatik Yağma / Sandık Açma
       icon: box
-      details: Automatically collect loot and open chests
-    - title: Loot Range
+      details: Otomatik olarak ganimet topla ve sandıkları aç
+    - title: Yağma Menzili
       icon: compass
-      details: Increase the range for picking up items
-    - title: Auto-talk to NPCs
+      details: Öğeleri almak için menzili artırın
+    - title: NPC'lerle otomatik konuşma
       icon: comment
-      details: Initiate auto-conversation with NPCs
-    - title: Auto-chop Trees
+      details: NPC'lerle otomatik konuşma başlatma
+    - title: Ağaçları Otomatik Kes
       icon: tree
-      details: Allow characters to auto-chop trees
-    - title: Auto-cook
+      details: Karakterlerin ağaçları otomatik kesmesine izin ver
+    - title: Otomatik pişirme
       icon: utensils
-      details: Cook food automatically without player intervention
-    - title: Attract Monsters
+      details: Oyuncu müdahalesi olmadan otomatik olarak yemekleri pişirin
+    - title: Canavarları Çekin
       icon: tornado
-      details: Attract various monsters nearby
+      details: Yakındaki çeşitli canavarları çeker
 
-- header: Latest Bug Fixes
+- header: Son Hata Düzeltmeleri
   image: /assets/images/web/features.svg
   bgImage: https://theme-hope-assets.vuejs.press/bg/1-light.svg
   bgImageDark: https://theme-hope-assets.vuejs.press/bg/1-dark.svg
   features:
-    - title: Auto-select Dialogue Now Slightly Faster
+    - title: Otomatik Diyalog Seçimi Artık Biraz Daha Hızlı
       icon: comment
-      details: Speed up the auto-select dialogue process
-    - title: Map Zoom
+      details: Otomatik diyalog seçim sürecini hızlandırın
+    - title: Harita Yakınlaştırma
       icon: search-plus
-      details: Added map zoom functionality
-    - title: Instant Charge Attacks (Now Configurable)
+      details: Harita yakınlaştırma özelliği eklendi
+    - title: Anında Şarj Saldırıları (Artık Düzenlenebilir)
       icon: bolt
-      details: Instant charge attacks can now be configured
-    - title: Skip Dialogue
+      details: Anında şarj saldırıları artık düzenlenebilir
+    - title: Diyalogu Atla
       icon: arrow-right
-      details: Instantly skip dialogues
-    - title: Summon NPCs
+      details: Diyalogları anında atla
+    - title: NPC'leri Çağır
       icon: user
-      details: Fixed the issue with summoning NPCs
-    - title: Interact with Statues
+      details: NPC'leri çağırma ile ilgili sorun düzeltildi
+    - title: Heykeller ile Etkileşim
       icon: hands
-      details: Fixed issues with statues
+      details: Heykellerle ilgili sorunlar düzeltildi
 
-- header: Our Advantages
-  description: Explore some of our
+- header: Bazı Avantajlarınız
+  description: Bazı Hizmetlerimizi keşfedin
   image: /assets/images/web/blog.svg
   bgImage: https://theme-hope-assets.vuejs.press/bg/5-light.svg
   bgImageDark: https://theme-hope-assets.vuejs.press/bg/5-dark.svg
   highlights:
-    - title: 24/7 Responsive Service
+    - title: 7/24 Yanıt Veren Hizmet
       icon: wind
-      details: We are always here to help, day and night, providing reliable 24/7 service.
-    - title: Simplicity and Ease of Use
+      details: Gece gündüz, 7/24 güvenilir hizmet sunarak her zaman yardıma hazırız.
+    - title: Sadelik ve Kullanım Kolaylığı
       icon: user-friends
-      details: Our products are designed to be simple and easy to use, ensuring a user-friendly and comfortable experience.
-    - title: Security
+      details: Ürünlerimiz basit ve kullanımı kolay olacak şekilde tasarlanmıştır ve kullanıcı dostu ve rahat bir deneyim sağlar.
+    - title: Güvenlik
       icon: shield-alt
-      details: We value security, ensuring safe access and protection of your data.
+      details: Güvenliğe önem veriyor, verilerinize güvenli erişim ve koruma sağlıyoruz.
 
 copyright: false
 footer: Copyright © 2023 Micah && Kitten All rights reserved. All other trademarks, screenshots, logos, and copyrights are the property of their respective owners.

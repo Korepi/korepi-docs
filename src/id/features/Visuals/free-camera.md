@@ -5,10 +5,12 @@ category:
   - Features
 tag:
   - Free Camera
-author: Schvis, Kaede, Chloe
+author: Schvis, Kaede, Chloe, RodanZ
 order: 11
 ---
-
+::: info Hanya Untuk Sponsor!
+:::
+---
 ## Free Camera:
 - Menggerakkan kamera secara bebas tanpa terkunci pada karakter.
 ### Freeze Character Animation:

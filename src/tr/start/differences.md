@@ -1,26 +1,26 @@
 ---
-title: Differences between versions
+title: Versiyonlar arasındaki farklar
 icon: server
 category:
-  - Guide
+  - Kılavuzlar
 tag:
-  - Start
+  - Başlangıç
 author: Schvis
 order: 6
 ---
 
-# Differences between V and F version.
+# V ve F versiyonları arasındaki farklar.
 
-## Key differences between V and F version
+## V ve F versiyonları arasındaki temel farklar
 
-|Version |F Version|V Version|
+|Versiyon |F Versiyon|V Versyion|
 |-----|--------|--------|
-|Features|Same|Same|
-|Update Notice|<span style='color:red;'>X</span>|<span style='color:green;'>✓</span>|
-|[Multi-Instance](../guide/multi-instance.md)|<span style='color:red;'>X</span>|<span style='color:green;'>✓</span>|
-|Set-up|Easy|Mid-Hard|
-|Problem Solving|Easy|Mid-Hard|
-|Authentication|Key Verification|File Verification|
-## Which version should i use?
+|Özellikleri|Aynı|Aynı|
+|Güncelleme Bildirimi|<span style='color:red;'>X</span>|<span style='color:green;'>✓</span>|
+|[Çoklu-Örnek](../guide/multi-instance.md)|<span style='color:red;'>X</span>|<span style='color:green;'>✓</span>|
+|Kurulum|Kolay|Orta-Zor|
+|Sorun Çözümü|Kolay|Orta-Zor|
+|Kimlik Doğrulama|Anahtar Doğrulaması|Dosya Doğrulaması|
+## Hangi versiyonu kullanmalıyım?
 
-For the <span style='color:yellow;'>Sponsor</span> users you can use any of the versions according to your needs. For Fans is recommended to use V version since its more stable and the set-up is more reliable as it is for now.
+<span style='color:yellow;'>Sponsor</span> Kullanıcılar, ihtiyaçlarınıza göre sürümlerden herhangi birini kullanabilirsiniz. Fanlar için V sürümünü kullanmaları önerilir çünkü daha kararlı ve kurulum şimdilik olduğu gibi daha güvenilirdir.

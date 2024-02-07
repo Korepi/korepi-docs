@@ -1,40 +1,40 @@
 ---
-title: How to add to exclusion list
+title: Dışlamalara ekleme
 icon: info-circle
 category:
-  - Guide
+  - Kılavuzlar
 tag:
-  - Start
+  - Başlangıç
 author: Schvis
 order: 7
 ---
 
-::: info Other antivirus will have similar steps, adapt depending on the antivirus you are using.
+::: Başka anti virüslerde aşamalar farklı olabilir!
 :::
 ---
-## How to add Korepi to antivirus exclusion list (Windows Defender)
+## Korepiyi dışlamalar listesine nasıl ekleyebilirsiniz? (Windows Defender)
 
-### Step 1: Open the antivirus
+###  1. Aşama: Antivirüsü açma
 
-Open the windows search bar and search for `Windows Security` and open it.
+Arama çubuğuna `Windows Güvenliği` Yazın ve tıklayın
 
 ![](/assets/images/docs/202312/security.png)
 
-We click on `Virus & threat protection`.
+`Virüs ve tehdit koruması`'na tıklayın.
 
 ![](/assets/images/docs/202312/virus1.png)
 
-Then we scroll till we find `Virus & threat protection settings` and click on `Manage settings`.
+Aşağı inin ve `Virüs ve tehdit ayarları`'nı seçin. Oradanda  `Ayarları yönet`'e tıklayın.
 
 ![](/assets/images/docs/202312/virus3.png)
 
-### Step 2: Adding to the exclusion list
+### 2. Aşama: Dışlamaya ekleme
 
-After following the last step, we will scroll until we find `Exclusions` and then we click on `Add or remove exclusions`.
+Son aşamadan sonra, `Dışlamalar`'ı buluncaya kadar aşğı inin ve `Dışarıda bırakılanları ekle veya kaldır` a tıklayın.
 
 ![](/assets/images/docs/202312/virus4.png)
 
-Click yes to the popup, after that we click on `Add an Exclusion` and select folder, then we select our Korepi folder.
+Çıkan uyarıya evet diyin ve `Bir dışlama ekleyin`'e tıklayıp Klasörü seçin. Oradanda Korepinin bulunduğu klasörü seçin ve tammadır! 
 
 ## Video
 

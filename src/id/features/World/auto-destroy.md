@@ -5,10 +5,12 @@ category:
   - Fitur
 tag:
   - Auto Destroy Objects
-author: Schvis, Natsume
+author: Schvis, Natsume, RodanZ
 order: 4
 ---
-
+::: info Hanya Untuk PERTAMAX!
+:::
+---
 ### Auto Destroy Objects memungkinkan Anda menghancurkan objek yang dapat disesuaikan dalam jangkauan tertentu, termasuk bahan tambang, tanaman, tumpukan batu, peti, objek khusus, perisai, dan lainnya.
 
 ## Video contoh:

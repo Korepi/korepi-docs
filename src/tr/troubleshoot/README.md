@@ -1,8 +1,8 @@
 ---
-title: List of Errors
+title: Hataların Listesi
 icon: book
-category: Troubleshoot
-tag: Start
+category: SorunlarHakkında
+tag: Başlangıç
 author: Schvis
 ---
 

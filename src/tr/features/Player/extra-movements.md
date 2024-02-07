@@ -1,38 +1,38 @@
 ---
-title: Extra Movements
+title: Ekstra Hareketler
 icon: bolt
 category:
   - Features
 tag:
   - Extra Movements
-author: Schvis
+author: Schvis, OpHellfire, HiroAndZero
 order: 5
 ---
-::: info Sponsor Only
+::: Bilgilendirme: Yalnızca Sponsorlar
 :::
 ---
-## Extra Movements: Modifies/Enhances certain actions for the player.
-### Run On Water:
-- Enables the ability to walk on water.
-### Run Boost:
-- Enhances the speed when the player is running.
-> Note: Not recommended to change default values.
-### Jump Boost:
-- Enhances the height of the jump for the player.
-    - Apply Mid Air: Enable jumping while not on the ground.
-> Note: Not recommended to change default values.
-### Fly Boost:
-- Enhances the speed when the player is gliding.
-> Note: Not recommended to change default values.
-### Swim Boost: 
-- Enhances the speed when the player is swimming.
-> Note: Not recommended to change default values.
-### Dive Boost:
-- Enhances the speed when the player is diving.
-> Note: Not recommended to change default values.
-### Blink:
-- Allows the player to move certain distance after pressing a hotkey.
+## Ekstra Hareketler: Oyuncu için belirli hareketleri değiştirir/geliştirir.
+### Suyun Üzerinde Yürüme:
+- Suyun üzerinde yürümeyi sağlar.
+### Koşu Desteği:
+- Oyuncu koşarken hızını artırır.
+> Not: Varsayılan değerlerin değiştirilmesi önerilmez.
+### Zıplama Desteği:
+- Oyuncu için zıplamanın yüksekliğini artırır.
+    - Havanın Ortasında Uygula: Yerde değilken zıplamayı etkinleştirin.
+> Not: Varsayılan değerlerin değiştirilmesi önerilmez.
+### Uçma Desteği:
+- Oyuncu süzülürken hızını artırır.
+> Not: Varsayılan değerlerin değiştirilmesi önerilmez.
+### Yüzme Desteği: 
+- Oyuncu yüzerken hızını artırır.
+> Not: Varsayılan değerlerin değiştirilmesi önerilmez.
+### Dalış Desteği:
+- Oyuncu dalış yaparken hızını artırır.
+> Not: Varsayılan değerlerin değiştirilmesi önerilmez.
+### Göz kırpma:
+- Oyuncunun bir kısayol tuşuna bastıktan sonra belirli bir mesafeyi hareket ettirmesini sağlar.
 
-## Example Video:
+## Örnek Video:
 
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/wMd9icqhFQg?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Extra Movement (Sponsor)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
