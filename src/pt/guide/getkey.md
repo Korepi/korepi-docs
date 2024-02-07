@@ -6,45 +6,45 @@ category:
 tag:
   - Inicio
   - Licença
-author: Ryuzeen
+author: Sky
 order: 1
 ---
 
-## Verification Tutorial
+## Tutorial de verificação
 
-### Step 1:
-- Find the `★⋅micah-bot-verify⋅★` channel [direct link](https://discord.com/channels/1069057220802781265/1203687333107335198)
+### Passo 1:
+- Encontre o canal `★⋅micah-bot-verify⋅★` [link direto](https://discord.com/channels/1069057220802781265/1203687333107335198)
 
   ![img.png](/assets/images/docs/202402/verify-1.png)
-- Find the message sent by Micah-bot
-### Step 2:
-For free version follow this [link](free.md).
+- Encontre a mensagem enviada por micah bot
+### Passo 2:
+Para a versão grátis, siga isso [link](free.md).
 
-If you bought a key from a reseller, click on `bind card str` and paste in your key.
+Se você comprou a chave por um revendedor, clique em `bind card str` e cole a sua chave.
 
-::: info If you are a Sponsor before February 4th, 2024, click "Sponsor Compensation" and enter "YES" to receive 3 months of compensation time, after successfully claiming your "card" follow the next step"
+::: Se você era sponsor antes de 24 de fevereiro de 2024, clique em "Sponsor Compensation" e então escreva "YES" para receber os 3 meses de compensação, depois de receber seu "card", siga o próximo passo
 :::
-### Step 3:
-Click `Get Verification File`, and you need to fill in your `HWID (device ID)` obtainable after opening the injector once.
-- You will get a file from the bot, download it and place it on your korepi folder. Make sure the name is `enc.json`.
+### Passo 3:
+Clique em `Get Verification File`, e então preencha o  `HWID (device ID)` que você recebeu após abrir o injetor.
+-Você vai receber um arquivo do bot, instale ele e coloque na pasta do Korepi. Confira se o nome está como `enc.json`.
 
-You can also click `View Subscription Information` to view your subscription information.
+Você pode clicar em `View Subscription Information` para verificar as informações da sua assinatura.
 
-## How to pause the key
+## Como pausar a chave
 
-Click on `Pause Card` and type `YES` to pause it. You can unpause it anytime and your subscription will continue.
+Clique em `Pause Card` e escreva `YES` para pausar ela. Você pode despausar ela a qualquer momento para continuar a assinatura.
 
-::: info You can only pause the key once every 30 days
-:::
-
-## How to change HWID (Device ID)
-
-Click on `ID(Change HWID)`, and paste in the new `HWID` you get from opening the injector, after that download the new file and place it on your Korepi folder.
-
-::: info You can only reset the HWID once every 7 days
+::: info Você pode pausar a chave apenas uma vez a cada 30 dias
 :::
 
-## MD5 Verification Issue
-Each time you obtain the `enc.json` file again, the previous `enc.json` file will become invalid.
+## Como mudar seu HWID (ID do dispositivo)
 
-If the new one is still invalid, please obtain the file again. If it still doesn't work, wait for a while and try again.
+Clique em `ID(Change HWID)`, e cole o novo `HWID`que você recebeu ao abrir o injetor, depois disso instale o novo arquivo e ponha na pasta do Korepi.
+
+::: info Você pode mudar seu HWID apenas uma vez a cada 7 dias
+:::
+
+## MD5 Erro de verificação
+A cada vez que você receber um novo arquivo `enc.json`, o antigo `enc.json` se tornará inválido.
+
+Se o novo estiver como inválido,, pegue um novo arquivo. Se ainda não funcionar, espere um pouco e tente novamente.
