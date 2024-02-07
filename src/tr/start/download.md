@@ -2,12 +2,12 @@
 title: İndirme
 icon: download
 category:
-  - Guide
+  - Kılavuzlar
 tag:
-  - Start
-  - Download
+  - Başlangıç
+  - İndirme
 author:
-  name: "QweRez HiroAndZero02"
+  name: "QweRez"
   url: "https://github.com/qwerezon/"
 order: 7
 ---
