@@ -2,10 +2,10 @@
 title: Aynı anda iki tane oyun uygulamasını açma
 icon: clone
 category:
-  - Guide
+  - Kılavuzlar
 tag:
-  - Start
-author: Schvis, OpHellfire, HiroandZero
+  - Başlangıç
+author: Schvis
 order: 3
 ---
 

@@ -1,9 +1,9 @@
 ---
-title: Talimatlar
+title: Adımlar
 icon: book
-category: Guide
-tag: Start
-author: QweRez, Schvis, OpHellfire
+category: Kılavuzlar
+tag: Başlangıç
+author: QweRez, Schvis
 ---
 
 <AutoCatalog />

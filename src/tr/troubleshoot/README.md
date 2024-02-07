@@ -1,9 +1,9 @@
 ---
 title: Hataların Listesi
 icon: book
-category: Troubleshoot
-tag: Start
-author: Schvis, HiriAndZero02
+category: SorunlarHakkında
+tag: Başlangıç
+author: Schvis
 ---
 
 <AutoCatalog />

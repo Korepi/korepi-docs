@@ -2,10 +2,10 @@
 title: Doğrulama
 icon: lock
 category:
-  - Guide
+  - Kılavuzlar
 tag:
-  - Start
-author: QweRez, HiroAndZero02
+  - Başlangıç
+author: QweRez
 order: 2
 ---
 

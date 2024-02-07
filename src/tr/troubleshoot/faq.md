@@ -2,10 +2,10 @@
 title: Çok Sorulanlar
 icon: info
 category:
-  - FAQ
+  - SSS
 tag:
-  - Start
-author: Schvis, HiroAndZero02
+  - Başlangıç
+author: Schvis
 order: 1
 ---
 

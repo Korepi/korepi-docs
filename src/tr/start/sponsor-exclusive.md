@@ -2,11 +2,11 @@
 title: Sponsorlara Özel Özellikler
 icon: server
 category:
-  - Guide
+  - Kılavuzlar
 tag:
-  - Start
+  - Başlangıç
   - Sponsor
-author: Kaede, Chloe, HiroAndZero02
+author: Kaede, Chloe
 order: 5
 ---
 
