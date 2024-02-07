@@ -12,6 +12,9 @@ order: 2
 
 ## كيفية الحصول على ترخيص مجاني لـKorepi.
 
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/GURGoE2IEg8" title="Free Version | Cotton Buds" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
+
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/GURGoE2IEg8" title="Free Version | Cotton Buds" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
 ### الخطوة 1:
 - اعثر على قناة `★⋅micah-bot-verify⋅★`  [رابط مباشر](https://discord.com/channels/1069057220802781265/1203687333107335198)
 
@@ -24,7 +27,7 @@ order: 2
 ### الخطوه 3:
 إذا ظهرت رسالة الربط `Success`, لقد انتهيت بنجاح من المطالبة بالترخيص، إذا لم يظهر كـ `Success`, كرر من الخطوة الأولى.
 
-![](/assets/images/docs/202402/success.png)
+![](/assets/images/docs/202312/success.png)
 
 =======
 ### الخطوة 4:

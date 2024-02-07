@@ -12,6 +12,8 @@ order: 2
 
 ## Korepi için ücretsiz lisans nasıl alınır?
 
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/GURGoE2IEg8" title="Free Version | Cotton Buds" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
+
 ### Adım 1:
 - `★⋅micah-bot-verify⋅★` kanalını bulun [doğrudan bağlantı](https://discord.com/channels/1069057220802781265/1203687333107335198)
 
@@ -24,7 +26,7 @@ order: 2
 ### Adım 3:
 Bağlama mesajı `Success` gösteriyorsa, lisans talebini başarıyla tamamladınız demektir, `Success` göstermiyorsa, ilk adımdan itibaren tekrarlayın.
 
-![](/assets/images/docs/202402/success.png)
+![](/assets/images/docs/202312/success.png)
 ### Adım 4:
 ::: info If you already got a enc.json delete it before opening the program
 :::

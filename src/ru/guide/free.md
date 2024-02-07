@@ -12,6 +12,8 @@ order: 2
 
 ## Как получить бесплатную лицензию для Korepi.
 
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/GURGoE2IEg8" title="Free Version | Cotton Buds" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
+
 ### Шаг 1:
 - Найдите канал `★⋅micah-bot-verify⋅★` [ссылка](https://discord.com/channels/1069057220802781265/1203687333107335198)
 
@@ -24,7 +26,7 @@ order: 2
 ### Шаг 3:
 Если сообщение о привязке показывает `Success(Успех)`, вы успешно завершили процесс получения лицензии. Если не показывает `Success(Успех)`, повторите с первого шага.
 
-![](/assets/images/docs/202402/success.png)
+![](/assets/images/docs/202312/success.png)
 ### Шаг 4:
 ::: info If you already got a enc.json delete it before opening the program
 :::
