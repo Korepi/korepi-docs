@@ -1,38 +1,41 @@
 ---
-title: Free Version
+title: Phiên Bản Miễn Phí
 icon: key
 category:
-  - Guide
+  - Hướng Dẫn
 tag:
-  - Start
-  - License
+  - Bắt Đầu
+  - Giấy Phép
 author: Schvis
 order: 2
 ---
 
-## How to get the free license for Korepi.
+## Hướng Dẫn Lấy Key Korepi Miễn Phí
 
-### Step 1:
-- Find the `★⋅micah-bot-verify⋅★` channel [direct link](https://discord.com/channels/1069057220802781265/1203687333107335198)
+### Bước 1:
+- Đi đến kênh `★⋅micah-bot-verify⋅★` trong server Discord: [Link trực tiếp](https://discord.com/channels/1069057220802781265/1203687333107335198)
 
   ![img.png](/assets/images/docs/202402/verify-1.png)
-- Find the message sent by Micah-bot
+- Tìm tin nhắn được gửi bởi Micah-bot
 
-### Step 2:
-Click on `Bind free card`, follow the provide link by the bot after clicking on it, watch the ad and skip it.
+### Bước 2:
+Click vào `Bind free card` rồi mở đường link được cung cấp bởi bot. Sau đó xem quảng cáo rồi nhấn skip.
 
-### Step 3:
-If the bind message shows `Success`, you have successfully finished claiming the license, if it doesn't show as `Success`, repeat from the first step.
+### Bước 3:
+Nếu như tin nhắn gắn thẻ (bind message) hiển thị `Success` có nghĩa là bạn đã nhận key thành công. Nếu nó không hiện `Success`, hãy lặp lại từ bước số 1.
 
 ![](/assets/images/docs/202402/success.png)
-### Step 4:
+
+=======
+### Bước 4:
 ::: info If you already got a enc.json delete it before opening the program
 :::
-Launch the program to obtain your `HWID`, after that head to `★⋅micah-bot-verify⋅★` again and click on `Get verification file` and paste in your `HWID`.
+Mở Korepi để lấy `HWID`, sau đó đi đến kênh `★⋅micah-bot-verify⋅★` và click vào `Get verification file` rồi sau đó dán `HWID` của bạn vào.
 
-After clicking on submit you will receive a file from the bot, download it and place it on your Korepi folder. Make sure the name is `enc.json`.
+Sau khi nhấn xác nhận, bạn sẽ nhận được một file từ bot. Sau đó tải và đặt file đó vào thư mục chứa Korepi. Hãy đảm bảo rằng tên file là `enc.json`.
 
-### Step 5:
-Launch the program again and follow the instructions provide in the cmd.
+=======
+### Bước 5:
+Mở Korepi lên và làm theo hướng dẫn ghi trong cmd.
 
-Enjoy Korepi!
+Tận Hưởng Korepi!
