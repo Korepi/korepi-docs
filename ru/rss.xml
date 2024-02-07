@@ -6,45 +6,44 @@
     <link>https://korepi.com/ru/</link>
     <description>Помощь по Korepi</description>
     <language>ru-RU</language>
-    <pubDate>Wed, 07 Feb 2024 08:49:44 GMT</pubDate>
-    <lastBuildDate>Wed, 07 Feb 2024 08:49:44 GMT</lastBuildDate>
+    <pubDate>Wed, 07 Feb 2024 11:32:50 GMT</pubDate>
+    <lastBuildDate>Wed, 07 Feb 2024 11:32:50 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-    <category>Guide</category>
     <category>Руководство</category>
     <category>FAQ</category>
     <category>Особенности</category>
     <category>Устранение Неполадок</category>
     <category>Гайд</category>
     <item>
-      <title>Free Version</title>
+      <title>Бесплатная версия</title>
       <link>https://korepi.com/ru/guide/free.html</link>
       <guid>https://korepi.com/ru/guide/free.html</guid>
-      <source url="https://korepi.com/ru/rss.xml">Free Version</source>
-      <description>How to get the free license for Korepi. Step 1: Find the ★⋅micah-bot-verify⋅★ channel direct link (https://discord.com/channels/1069057220802781265/1203687333107335198); img.png...</description>
-      <category>Guide</category>
+      <source url="https://korepi.com/ru/rss.xml">Бесплатная версия</source>
+      <description>Как получить бесплатную лицензию для Korepi. Шаг 1: Найдите канал ★⋅micah-bot-verify⋅★ ссылка (https://discord.com/channels/1069057220802781265/1203687333107335198); img.png Най...</description>
+      <category>Руководство</category>
       <pubDate>Wed, 07 Feb 2024 00:26:57 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> How to get the free license for Korepi.</h2>
-<h3> Step 1:</h3>
+      <content:encoded><![CDATA[<h2> Как получить бесплатную лицензию для Korepi.</h2>
+<h3> Шаг 1:</h3>
 <ul>
 <li>
-<p>Find the <code>★⋅micah-bot-verify⋅★</code> channel <a href="https://discord.com/channels/1069057220802781265/1203687333107335198" target="_blank" rel="noopener noreferrer">direct link</a></p>
+<p>Найдите канал <code>★⋅micah-bot-verify⋅★</code> <a href="https://discord.com/channels/1069057220802781265/1203687333107335198" target="_blank" rel="noopener noreferrer">ссылка</a></p>
 <p><img src="/assets/images/docs/202402/verify-1.png" alt="img.png" loading="lazy"></p>
 </li>
 <li>
-<p>Find the message sent by Micah-bot</p>
+<p>Найдите сообщение, отправленное Micah-bot</p>
 </li>
 </ul>
-<h3> Step 2:</h3>
-<p>Click on <code>Bind free card</code>, follow the provide link by the bot after clicking on it, watch the ad and skip it.</p>
-<h3> Step 3:</h3>
-<p>If the bind message shows <code>Success</code>, you have successfully finished claiming the license, if it doesn't show as <code>Success</code>, repeat from the first step.</p>
-<h3> Step 4:</h3>
-<p>Launch the injector to obtain your <code>HWID</code>, after that head to <code>★⋅micah-bot-verify⋅★</code> again and click on <code>Get verification file</code> and paste in your <code>HWID</code>.</p>
-<p>After clicking on submit you will receive a file from the bot, download it and place it on your Korepi folder. Make sure the name is <code>enc.json</code>.</p>
-<h3> Step 5:</h3>
-<p>Launch the injector again and follow the instructions provide in the cmd.</p>
-<p>Enjoy Korepi!</p>
+<h3> Шаг 2:</h3>
+<p>Нажмите на <code>Bind free card</code>, следуйте по предоставленной ссылке от бота после нажатия на нее, посмотрите рекламу и пропустите ее.</p>
+<h3> Шаг 3:</h3>
+<p>Если сообщение о привязке показывает <code>Success(Успех)</code>, вы успешно завершили процесс получения лицензии. Если не показывает <code>Success(Успех)</code>, повторите с первого шага.</p>
+<h3> Шаг 4:</h3>
+<p>Запустите инжектор, чтобы получить свой <code>HWID</code>, затем вернитесь в канал <code>★⋅micah-bot-verify⋅★</code> и нажмите <code>Get verification file</code>, вставьте свой <code>HWID</code>.</p>
+<p>После нажатия на отправку вы получите файл от бота, загрузите его и поместите в папку Korepi. Убедитесь, что имя файла - <code>enc.json</code>.</p>
+<h3> Шаг 5:</h3>
+<p>Запустите инжектор снова и следуйте инструкциям в командной строке.</p>
+<p>Наслаждайтесь Korepi!</p>
 ]]></content:encoded>
       <enclosure url="https://korepi.com/assets/images/docs/202402/verify-1.png" type="image/png"/>
     </item>
