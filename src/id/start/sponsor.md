@@ -1,68 +1,14 @@
 ---
-title: Panduan Menjadi Sponsor
-
-icon: credit-card
-
+title: Sponsor
+icon: user-plus
 category:
-  - Panduan
-
+  - Guide
 tag:
-  - Buku Pemula
-
-author: rekiihype, Chloe, Natsume
-
-order: 4
-
+  - Start
+author: Schvis
+order: 9
 ---
 
-### Bagaimana Cara Menjadi Sponsor?
+## Sponsors
 
-Untuk menjadi Sponsor, Anda hanya perlu berdonasi minimal 50.000 Rupiah atau setara dengan 1 pizza jika donasi dilakukan melalui [Trakteer](https://trakteer.id/strigger).
-
-### Di Mana Saya Dapat Berdonasi?
-
-Setelah bergabung di server, silakan masuk ke saluran [#sponsorship](https://discord.com/channels/1069057220802781265/1097565269985071205). Pilih salah satu tautan yang tersedia untuk melakukan donasi.
-
-### Apa yang Harus Dilakukan Setelah Selesai Berdonasi?
-
-### Langkah 1:
-
-Jika Anda telah melakukan donasi, Anda dapat membuka tiket di [#sponsorship-proof-ticket](https://discord.com/channels/1069057220802781265/1195466175954550885), dan clik pada `Send Proofs`.
-
-![](/assets/images/docs/202312/sponsor-new.png)
-
-### Langkah 2: 
-
-Kirim bukti donasi Anda di saluran yang baru saja terbuat `#proof-yourname`, dan tunggu mod untuk memeriksa buktinya.
-
-![](/assets/images/docs/202312/sponsor-new2.png)
-
-### Langkah 3:
-
-Jika semuanya sudah benar, dan bukti yang Anda kirim tersebut valid maka Anda akan menerima  <span style='color:yellow;'>Sponsor</span> role.
-
-## (Bagi Non-Fans) Bagaimana Cara Mengklaim role Fans setelah Menjadi role Sponsor?
-
-Jika Anda sudah menjadi Sponsor dan belum mendapatkan role Fans, Anda bisa mengabaikan proses sign-in selama 7 hari dan langsung mengklaim role Fans. Lihat video [tutorial ini](https://www.youtube.com/watch?v=cHRC7XdsKQo&list=PL5eI1Tb64p56Mp6JqoR_o3BYk9UFTbOQI&index=1&pp=iAQB) atau ikuti langkah-langkah berikut.
-
-### Langkah 1: Buka Tiket
-
-Masuk ke saluran [#ticket-start](https://discord.com/channels/1069057220802781265/1152887509517344870) (hanya terlihat jika Anda sudah menjadi Sponsor).
-
-![Buka Tiket](/assets/images/docs/202312/openticket1.png)
-
-Setelah klik 'open', Anda akan melihat saluran baru di bawah saluran tiket.
-
-![Buka Tiket](/assets/images/docs/202312/openticket2.png)
-
-### Langkah 2: Jawab Survei Singkat
-
-Klik tombol 'form link' untuk mengisi survei singkat.
-
-![Buka Tiket](/assets/images/docs/202312/openticket3.png)
-
-Setelah selesai mengisi survei, jangan lupa klik 'Submit'.
-
-![Buka Tiket](/assets/images/docs/202312/openticket4.png)
-
-Tunggu dengan sabar sampai staf memeriksa survei Anda. Setelah mendapatkan role Fans, Anda bisa melanjutkan ke tahap selanjutnya.
+- Sponsors are a legacy role that is no longer obtainable, people with this role are elegible to extra functionality in the software without having to pay again, they also receive some extra perks in the server/software.

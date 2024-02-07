@@ -1,30 +1,14 @@
 ---
-title: Спонсорство
-icon: credit-card
-category: Гайд
-tag: Начало
-author: 
-  name: "QweRez"
-  url: "https://github.com/qwerezon/"
-order: 4
+title: Sponsor
+icon: user-plus
+category:
+  - Guide
+tag:
+  - Start
+author: Schvis
+order: 9
 ---
 
-# Спонсорство
+## Sponsors
 
-## Шаг 1: Как стать спонсором?
-
-Чтобы стать спонсором, вам нужно сделать пожертвование в размере не менее 5 долларов.
-
-## Шаг 2: Где сделать пожертвование?
-
-После присоединения к серверу, перейдите в канал [#sponsorship](https://discord.com/channels/1069057220802781265/1097565269985071205). Выберите один из предложенных способов оплаты, который вам удобен.
-
-## Шаг 2.1: Альтернативный вариант
-
-Если вам сложно разобраться с предыдущим шагом, или у вас нет времени, вы можете связаться с любым русскоязычным модератором, и он окажет вам помощь.
-
----
-::: tip Модераторы 
-- QweRez (qwerezon)
-- Butterbrodskiy
----
+- Sponsors are a legacy role that is no longer obtainable, people with this role are elegible to extra functionality in the software without having to pay again, they also receive some extra perks in the server/software.
