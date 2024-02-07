@@ -24,9 +24,13 @@ order: 1
 
 ::: info إذا كنت راعيًا قبل 4 فبراير 2024، فانقر فوق "Sponsor Compensation" وأدخل "YES" للحصول على 3 أشهر من وقت التعويض، بعد المطالبة بنجاح ب "بطاقتك" اتبع الخطوة التالية"
 :::
+
 ### الخطوه 3:
+::: info If you already got a enc.json delete it before opening the program
+:::
 انقر `Get Verification File`, ستحتاج الى لصق معرف الجهاز الخاص بك `HWID ` يمكن الحصول عليه بعد فتح الحاقن مرة واحدة.
 - سوف تحصل على ملف من الروبوت، قم بتنزيله ووضعه في مجلد korepi الخاص بك. تأكد من الاسم `enc.json`.
+
 
 يمكنك أيضًا النقر فوق `View Subscription Information` لعرض معلومات الاشتراك الخاص بك.
 
@@ -38,6 +42,9 @@ order: 1
 :::
 
 ## كيفية التغيير HWID (Device ID)
+
+::: info If you already got a enc.json delete it before opening the program
+:::
 
 انقر فوق `ID(Change HWID)`, األصق `HWID` الجديد الدي حصلت عليه من فتح الحاقن, بعد ذلك قم بتنزيل الملف الجديد وضعه في مجلد Korepi الخاص بك.
 

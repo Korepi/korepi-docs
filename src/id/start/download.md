@@ -12,24 +12,21 @@ author:
 order: 5
 ---
 
-# Panduan Unduh
+# Download
 
-## Selamat Datang!
+## Introduction
 
-Hai, selamat bergabung di komunitas kami! Untuk bisa masuk dan mendapatkan role `Newcomer`, silakan untuk menonton video [Tutorial ini](https://youtu.be/4gm6JzAnq4w?si=DS00t4anVCT4O_4I) atau ikuti langkah-langkah di bawah ini.
+Welcome to our community! To pass the bot check and receive the `Newcomer` role, follow these steps.
 
-### Langkah 1: Bergabung di Server Kami!
+### Step 1: Join our server and obtain the `Newcomer` role
 
-Jika Anda belum bergabung, silakan baca instruksi di saluran verifikasi tentang cara bergabung di server dan mendapatkan role `Newcomer` dan `Fans`.
+If you haven't joined the server yet, please read the verification post, which describes how to join the server and obtain the `Newcomer`.
 
-### Langkah 2: Pilih role di `★⋅korepi-version-roles⋅★`
+### Step 2: Go to the channel `★⋅korepi-download⋅★`
 
-Cari dan pilih role versi F-Auth atau V-Auth di saluran `★⋅korepi-version-roles⋅★`. Kami merekomendasikan memilih role F-Auth.
+Locate the channel `★⋅korepi-download⋅★` and follow the link to download the program.
 
-### Langkah 3: Download Panduan yang Dibutuhkan
+### Step 3: Ready!
 
-Setelah itu, Anda akan mendapatkan akses ke saluran unduhan yang sesuai: `★⋅f-download⋅★` atau `★⋅v-download⋅★`.
+Place the .rar in a folder and add it to [exclusions](../guide/virus.md), after that extract it and follow this [guide](../guide/getkey.md)
 
-### Langkah 4: Siap untuk Mulai!
-
-Di saluran tersebut, Anda akan menemukan link untuk pergi ke versi terbaru dan kata sandi untuk membuka file arsipnya. Semoga berhasil!

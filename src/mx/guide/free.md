@@ -24,7 +24,10 @@ Dale click a `Bind free card`, sigue el link mandado por el bot, mira el anuncio
 ### Paso 3:
 Si el mensaje aparece como `Success`, has conseguido reclamar la licencia correctamente, si no aparece como `Success`, repite desde el paso 1 de nuevo.
 
+![](/assets/images/docs/202402/success.png)
 ### Paso 4:
+::: info Si ya tienes un enc.json, borra antes de abrir el programa
+:::
 Abre el programa para obtener tu `HWID`, después dirígete al canal de `★⋅micah-bot-verify⋅★` y dale click a `Get verification file` y pega tu `HWID`.
 
 Después de darle a `Submit`, descarga el archivo y ponlo en la carpeta de Korepi. El nombre del archivo tiene que ser `enc.json`.

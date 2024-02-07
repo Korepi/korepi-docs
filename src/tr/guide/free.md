@@ -24,7 +24,10 @@ order: 2
 ### Adım 3:
 Bağlama mesajı `Success` gösteriyorsa, lisans talebini başarıyla tamamladınız demektir, `Success` göstermiyorsa, ilk adımdan itibaren tekrarlayın.
 
+![](/assets/images/docs/202402/success.png)
 ### Adım 4:
+::: info If you already got a enc.json delete it before opening the program
+:::
 `HWID`, almak için enjektörü başlatın, ardından tekrar `★⋅micah-bot-verify⋅★` adresine gidin ve `Get verification file` seçeneğine tıklayın ve `HWID`'nizi yapıştırın..
 
 Gönder'e tıkladıktan sonra bottan bir dosya alacaksınız, dosyayı indirin ve Korepi klasörünüze yerleştirin. Adının `enc.json` olduğundan emin olun.

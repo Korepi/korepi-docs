@@ -8,7 +8,8 @@ tag:
 author: Schvis
 order: 4
 ---
-
+::: info PERTAMAX Only
+:::
 ### Auto Destroy Objects lets you destroy customizable objects within a specified range, in which it includes, ores, plants, rock piles, chests, special objects, shields, etc.
 
 ## Example Video:

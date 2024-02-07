@@ -24,9 +24,13 @@ Nếu như bạn mua key từ reseller, hãy click vào `bind card str` rồi d�
 
 ::: info Nếu như bạn là Nhà Tài Trợ (Sponsor) trước ngày 4 tháng 2 năm 2024, hãy click vào "Sponsor Compensation" rồi nhập "YES" để nhận 3 tháng đền bù. Sau khi nhận "card" thành công, hãy làm bước tiếp theo
 :::
+=======
 ### Bước 3:
+::: info If you already got a enc.json delete it before opening the program
+:::
 Click vào `Get Verification File`, sau đó điền `HWID (device ID)` mà bạn nhận được khi mở Korepi.
 - Bạn sẽ nhận được một file từ bot. Tải nó về rồi đặt vào trong thư mục chứa Korepi. Hãy đảm bảo rằng tên của file phải là `enc.json`.
+
 
 Bạn cũng có thể click vào `View Subscription Information` để xem thông tin key hiện tại đang sử dụng.
 
@@ -39,6 +43,7 @@ Click vào `Pause Card` và nhập `YES` để tạm dừng thời hạn của k
 
 ## Hướng Dẫn Đổi HWID (Device ID)
 
+=======
 Click vào `ID(Change HWID)` rồi sau đó nhập `HWID` mới mà bạn nhận được từ Korepi vào. Tiếp đó hãy tải file và đặt nó vào thư mục chứa Korepi.
 
 ::: info Bạn chỉ có thể reset HWID một lần mỗi 7 ngày.

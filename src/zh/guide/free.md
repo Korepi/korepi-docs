@@ -24,7 +24,10 @@ order: 2
 ### 步骤 3:
 如果绑定信息显示 `成功`，则表示已成功完成密钥申请；如果未显示 `成功`，请重新从第一步开始.
 
+![](/assets/images/docs/202402/success.png)
 ### 步骤 4:
+::: info If you already got a enc.json delete it before opening the program
+:::
 启动Korepi获取您的`HWID`，然后去`★⋅micah-bot-verify⋅★★` 频道中 `点击获取验证文件` 然后粘贴您的 `HWID`.
 
 点击`提交`后，您将收到机器人发送的文件，将其下载并放到 Korepi 文件夹中.确保文件名`enc.json`.

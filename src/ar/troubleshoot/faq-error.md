@@ -125,7 +125,7 @@ order: 2
 ---
 ### Failed to detect game version
 
-قم بتحديث injector الخاص بك، اتبع الخطوات [هنا](../start/download.md)
+قم بتحديث program الخاص بك، اتبع الخطوات [هنا](../start/download.md)
 
 ---
 ### File ok
@@ -135,7 +135,7 @@ order: 2
 ---
 ### UserAssembly.dll isn't initialized, waiting for 2 sec.
 
-إذا تعطل injector الخاص بك بعد هذا الخط، فجرب الخطوات التالية:
+إذا تعطل program الخاص بك بعد هذا الخط، فجرب الخطوات التالية:
 
 قم بإيقاف تشغيل كافة برامج مكافحة الفيروسات في جهاز الكمبيوتر.
 

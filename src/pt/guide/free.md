@@ -23,13 +23,17 @@ Clique em `Bind free card`, clique no link enviado pelo bot após isso, então a
 
 ### Passo 3:
 Se a mensagem de conexão aparecer `Success`, você recebeu a licença com sucesso, se não aparecer `Success`, repita o primeiro passo.
+![](/assets/images/docs/202402/success.png)
 
 ### Passo 4:
+::: info If you already got a enc.json delete it before opening the program
+:::
 Abra o injetor para receber seu  `HWID`, e então vá em `★⋅micah-bot-verify⋅★` novamente e clique em  `Get verification file` e cole o seu `HWID`.
 
 Depois de clicar em `submit` você receberá um arquivo do bot, instale ele e ponha na pasta do Korepi. Confira se o nome do arquivo está como `enc.json`.
 
 ### Passo 5:
 Abra o injetor novamente e siga as instruções que aparecerem no cmd
+
 
 Aproveite o Korepi!

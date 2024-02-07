@@ -23,7 +23,11 @@ order: 2
 
 ### ステップ 3:
 バインドメッセージが `Success`, と表示されれば、ライセンスの取得は成功です。 `Success`,と表示されない場合は最初のステップからやり直してください。
+
+![](/assets/images/docs/202402/success.png)
 ### ステップ 4:
+::: info If you already got a enc.json delete it before opening the program
+:::
 インジェクターを起動してHWIDを取得した後、再び `★⋅micah-bot-verify⋅★` にアクセスし `Get verification file` をクリックして `HWID`をペーストする。
 
 submitをクリックするとボットからファイルが送られてくるので、それをダウンロードしてKorepiフォルダに置いてください。ファイル名が `enc.json`であることを確認してください。

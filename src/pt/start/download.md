@@ -11,25 +11,22 @@ author:
 order: 7
 ---
 
-# Baixar
+# Download
 
-## Introdução
+## Introduction
 
-Bem-vindo à nossa comunidade! Para passar pela verificação do bot e receber o cargo `Newcomer`, segue os seguintes passos.
+Welcome to our community! To pass the bot check and receive the `Newcomer` role, follow these steps.
 
-### Passo 1: Junte-se ao nosso servidor e obtenha os cargos de `Newcomer` e `Fans`
+### Step 1: Join our server and obtain the `Newcomer` role
 
-Se ainda não se juntou ao servidor, por favor, leia a publicação de verificação, que explica como ingressar no servidor e obter as funções de `Newcomer` e `Fans`.
+If you haven't joined the server yet, please read the verification post, which describes how to join the server and obtain the `Newcomer`.
 
-### Passo 2: Vá para o canal `★⋅korepi-version-roles⋅★`
+### Step 2: Go to the channel `★⋅korepi-download⋅★`
 
-Localize o canal `★⋅korepi-version-roles⋅★` e escolha a função correspondente à versão F ou V. Recomendamos escolher a função F.
+Locate the channel `★⋅korepi-download⋅★` and follow the link to download the program.
 
-### Passo 3: Baixe os recursos necessários
+### Step 3: Ready!
 
-Após fazer isso, você terá acesso ao canal de download, dependendo da função escolhida, `★⋅f-download⋅★` ou `★⋅v-download⋅★`.
+Place the .rar in a folder and add it to [exclusions](../guide/virus.md), after that extract it and follow this [guide](../guide/getkey.md)
 
-### Paso 4: Pronto!
-
-No canal, você encontrará um link para a versão atual e a senha do arquivo. Boa sorte!
 

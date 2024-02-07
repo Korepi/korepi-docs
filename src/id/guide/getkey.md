@@ -24,9 +24,13 @@ Jika Anda membeli kunci dari reseller, klik `bind card str` dan tempelkan kunci 
 
 ::: info Jika Anda adalah seorang Sponsor sebelum 4 Februari 2024, klik "Kompensasi Sponsor" dan masukkan "YA" untuk menerima 3 bulan waktu kompensasi, setelah berhasil mengklaim "kartu" Anda, ikuti langkah selanjutnya"
 :::
+=======
 ### Langkah 3:
+::: info If you already got a enc.json delete it before opening the program
+:::
 Klik `Dapatkan File Verifikasi`, dan Anda harus mengisi `HWID (ID perangkat) Anda yang diperoleh setelah membuka injektor sekali.
 - Anda akan mendapatkan file dari bot, unduh dan letakkan di folder korepi Anda. Pastikan namanya adalah `enc.json`.
+
 
 Anda juga dapat mengklik `Lihat Informasi Langganan` untuk melihat informasi langganan Anda.
 
@@ -39,6 +43,7 @@ Info Anda hanya dapat menjeda kartu setiap 30 hari sekali
 
 ## Cara mengubah HWID (ID Perangkat)
 
+=======
 Klik pada `ID (Ubah HWID), dan tempelkan `HWID` baru yang anda dapatkan dari membuka injektor, setelah itu unduh file baru dan letakkan di folder Korepi anda.
 
 Info Anda hanya dapat mengatur ulang HWID setiap 7 hari sekali

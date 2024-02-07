@@ -12,24 +12,21 @@ author:
 order: 6
 ---
 
-# تحميل
+# Download
 
-## مقدمة
+## Introduction
 
-أهلا بك في مجتمعنا! لاجتياز فحص الروبوت والحصول على روول `Newcomer` اتبع الخطوات التالية
+Welcome to our community! To pass the bot check and receive the `Newcomer` role, follow these steps.
 
-###  الخطوة 1: انضم إلى السيرفر واحصل على روول `Newcomer` و `Fans`.
+### Step 1: Join our server and obtain the `Newcomer` role
 
-إذا لم تنضم إلى الخادم بعد، فيرجى قراءة منشور التحقق الذي يوضح كيفية الانضمام إلى الخادم والحصول على روول `Newcomer` و `Fans`.
+If you haven't joined the server yet, please read the verification post, which describes how to join the server and obtain the `Newcomer`.
 
-###  الخطوة الثانية: اذهب إلى القناة `★⋅korepi-version-roles⋅★`
+### Step 2: Go to the channel `★⋅korepi-download⋅★`
 
-حدد موقع القناة `★⋅korepi-version-roles⋅★` واختر إما روول الإصدار F أو V. نوصي باختيار روول F.
+Locate the channel `★⋅korepi-download⋅★` and follow the link to download the program.
 
-### الخطوة 3: قم بتنزيل الموارد اللازمة
+### Step 3: Ready!
 
-بمجرد القيام بذلك، ستتمكن من الوصول إلى قناة التنزيل المقابلة: `★⋅f-download⋅★` أو `★⋅v-download⋅★`
+Place the .rar in a folder and add it to [exclusions](../guide/virus.md), after that extract it and follow this [guide](../guide/getkey.md)
 
-### الخطوة 4: جاهز!
-
-ستجد في القناة رابط الإصدار الحالي وكلمة المرور للأرشيف. حظ سعيد!

@@ -1,5 +1,5 @@
 ---
-title: Common Injector Errors
+title: Common program Errors
 icon: info
 category:
   - Troubleshoot
@@ -125,7 +125,7 @@ Try using a VPN if it doesn't work.
 ---
 ### Failed to detect game version
 
-Update your injector, follow the steps [here](../start/download.md)
+Update your program, follow the steps [here](../start/download.md)
 
 ---
 ### File ok
@@ -135,7 +135,7 @@ Delete your cfg.json, something might be wrong with the file.
 ---
 ### UserAssembly.dll isn't initialized, waiting for 2 sec.
 
-If your injector crashes after this line try the following steps:
+If your program crashes after this line try the following steps:
 
 Turn off all anti-viruses in PC.
 

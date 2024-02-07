@@ -24,11 +24,16 @@ Klik `Ikat kartu gratis`, ikuti tautan yang disediakan oleh bot setelah mengklik
 ### Langkah 3:
 Jika pesan pengikatan menunjukkan `Sukses`, Anda telah berhasil menyelesaikan klaim lisensi, jika tidak menunjukkan `Sukses`, ulangi dari langkah pertama.
 
+![](/assets/images/docs/202402/success.png)
 ### Langkah 4:
+::: info If you already got a enc.json delete it before opening the program
+:::
 Luncurkan injektor untuk mendapatkan `HWID` Anda, setelah itu buka `★⋅micah-bot-verify⋅★` lagi dan klik `Get verification file` dan tempelkan `HWID` Anda.
+
 
 Setelah mengklik kirim, Anda akan menerima file dari bot, unduh dan letakkan di folder Korepi Anda. Pastikan namanya adalah `enc.json`.
 
+=======
 ### Langkah 5:
 Luncurkan injektor lagi dan ikuti instruksi yang disediakan dalam cmd.
 

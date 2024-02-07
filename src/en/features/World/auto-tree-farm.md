@@ -8,7 +8,7 @@ tag:
 author: Schvis, Chloe
 order: 9
 ---
-::: info Sponsor Only
+::: info PERTAMAX Only
 :::
 ---
 ### Auto Tree Farm lets you punch nearby trees with the selected value and delay, therefore automatically getting wood from nearby trees.

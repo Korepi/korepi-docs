@@ -12,24 +12,21 @@ author:
 order: 5
 ---
 
-# Tải Xuống
+# Download
 
-## Giới thiệu
+## Introduction
 
-Chào mừng đến với cộng đồng của chúng tôi! Để tải xuống công cụ này, hãy làm theo các bước sau.
+Welcome to our community! To pass the bot check and receive the `Newcomer` role, follow these steps.
 
-## Bước 1: Tham gia vào server và lấy Role "Newcomer", "Fans" nếu bạn chưa có
+### Step 1: Join our server and obtain the `Newcomer` role
 
-Nếu bạn chưa có mặt trên máy chủ, vui lòng đọc những bài trước đó, nơi nó được mô tả cách tham gia máy chủ và lấy Role **Newcomer** và **Fans**.
+If you haven't joined the server yet, please read the verification post, which describes how to join the server and obtain the `Newcomer`.
 
-## Bước 2: Tìm đến kênh `★⋅korepi-version-roles⋅★`
+### Step 2: Go to the channel `★⋅korepi-download⋅★`
 
-Tìm đến kênh `★⋅korepi-version-roles⋅★` và chọn một trong hai giữa F và V. Chúng tôi khuyến khích bạn lựa chọn Role **F**
+Locate the channel `★⋅korepi-download⋅★` and follow the link to download the program.
 
-## Bước 3: Tải các tài nguyên cần thiết
+### Step 3: Ready!
 
-Một khi bạn đã làm được điều đó, bạn sẽ có quyền truy cập vào kênh tải xuống tương ứng: `★⋅f-download⋅★` hoặc `★⋅v-download⋅★`.
+Place the .rar in a folder and add it to [exclusions](../guide/virus.md), after that extract it and follow this [guide](../guide/getkey.md)
 
-## Bước 4: Sẵn sàng!
-
-Ở trong kênh này, bạn sẽ tìm thấy link dẫn đến phiên bản hiện tại và mật khẩu của tệp tin. Chúc may mắn!

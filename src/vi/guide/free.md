@@ -24,11 +24,17 @@ Click vào `Bind free card` rồi mở đường link được cung cấp bởi 
 ### Bước 3:
 Nếu như tin nhắn gắn thẻ (bind message) hiển thị `Success` có nghĩa là bạn đã nhận key thành công. Nếu nó không hiện `Success`, hãy lặp lại từ bước số 1.
 
+![](/assets/images/docs/202402/success.png)
+
+=======
 ### Bước 4:
+::: info If you already got a enc.json delete it before opening the program
+:::
 Mở Korepi để lấy `HWID`, sau đó đi đến kênh `★⋅micah-bot-verify⋅★` và click vào `Get verification file` rồi sau đó dán `HWID` của bạn vào.
 
 Sau khi nhấn xác nhận, bạn sẽ nhận được một file từ bot. Sau đó tải và đặt file đó vào thư mục chứa Korepi. Hãy đảm bảo rằng tên file là `enc.json`.
 
+=======
 ### Bước 5:
 Mở Korepi lên và làm theo hướng dẫn ghi trong cmd.
 

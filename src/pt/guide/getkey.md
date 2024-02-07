@@ -24,9 +24,13 @@ Se você comprou a chave por um revendedor, clique em `bind card str` e cole a s
 
 ::: Se você era sponsor antes de 24 de fevereiro de 2024, clique em "Sponsor Compensation" e então escreva "YES" para receber os 3 meses de compensação, depois de receber seu "card", siga o próximo passo
 :::
+
 ### Passo 3:
+::: info If you already got a enc.json delete it before opening the program
+:::
 Clique em `Get Verification File`, e então preencha o  `HWID (device ID)` que você recebeu após abrir o injetor.
 -Você vai receber um arquivo do bot, instale ele e coloque na pasta do Korepi. Confira se o nome está como `enc.json`.
+
 
 Você pode clicar em `View Subscription Information` para verificar as informações da sua assinatura.
 

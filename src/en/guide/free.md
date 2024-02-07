@@ -24,12 +24,15 @@ Click on `Bind free card`, follow the provide link by the bot after clicking on 
 ### Step 3:
 If the bind message shows `Success`, you have successfully finished claiming the license, if it doesn't show as `Success`, repeat from the first step.
 
+![](/assets/images/docs/202402/success.png)
 ### Step 4:
-Launch the injector to obtain your `HWID`, after that head to `★⋅micah-bot-verify⋅★` again and click on `Get verification file` and paste in your `HWID`.
+::: info If you already got a enc.json delete it before opening the program
+:::
+Launch the program to obtain your `HWID`, after that head to `★⋅micah-bot-verify⋅★` again and click on `Get verification file` and paste in your `HWID`.
 
 After clicking on submit you will receive a file from the bot, download it and place it on your Korepi folder. Make sure the name is `enc.json`.
 
 ### Step 5:
-Launch the injector again and follow the instructions provide in the cmd.
+Launch the program again and select your game path if you didn't yet, after that Korepi will launch the game and inject itself.
 
 Enjoy Korepi!

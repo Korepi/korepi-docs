@@ -8,7 +8,8 @@ tag:
 author: Schvis
 order: 13
 ---
-
+::: info Solo para PERTAMAX
+:::
 ## Succión de Botín acerca a los drops con un rango y velocidad personalizados.
 
 ## Video de Ejemplo:

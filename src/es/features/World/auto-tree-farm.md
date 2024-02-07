@@ -8,7 +8,7 @@ tag:
 author: Schvis
 order: 9
 ---
-::: info Solo para Sponsor
+::: info Solo para PERTAMAX
 :::
 ---
 ### Auto Madera permite golpear arboles cercanos para conseguir madera con rango, golpes y retraso personalizado.

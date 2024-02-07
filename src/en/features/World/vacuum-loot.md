@@ -8,7 +8,8 @@ tag:
 author: Schvis
 order: 14
 ---
-
+::: info PERTAMAX Only
+:::
 ## Vacuum Loot moves nearby drops to the player with the specified range and delay.
 
 ## Example Video:
