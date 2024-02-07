@@ -6,45 +6,45 @@ category:
 tag:
   - Buku Pemula
   - Lisensi
-author: Schvis, Natsume, Chloe
+author: Schvis, Natsume, Chloe, RodanZ
 order: 1
 ---
 
-## Verification Tutorial
+## Tutorial Verifikasi
 
-### Step 1:
-- Find the `★⋅micah-bot-verify⋅★` channel [direct link](https://discord.com/channels/1069057220802781265/1203687333107335198)
+### Langkah 1:
+- Temukan channel `★⋅micah-bot-verify⋅★` [tautan langsung] (https://discord.com/channels/1069057220802781265/1203687333107335198)
 
   ![img.png](/assets/images/docs/202402/verify-1.png)
-- Find the message sent by Micah-bot
-### Step 2:
-For free version follow this [link](free.md).
+- Temukan pesan yang dikirim oleh Micah-bot
+### Langkah 2:
+Untuk versi gratis, ikuti [tautan] ini (free.md).
 
-If you bought a key from a reseller, click on `bind card str` and paste in your key.
+Jika Anda membeli kunci dari reseller, klik `bind card str` dan tempelkan kunci Anda.
 
-::: info If you are a Sponsor before February 4th, 2024, click "Sponsor Compensation" and enter "YES" to receive 3 months of compensation time, after successfully claiming your "card" follow the next step"
+::: info Jika Anda adalah seorang Sponsor sebelum 4 Februari 2024, klik "Kompensasi Sponsor" dan masukkan "YA" untuk menerima 3 bulan waktu kompensasi, setelah berhasil mengklaim "kartu" Anda, ikuti langkah selanjutnya"
 :::
-### Step 3:
-Click `Get Verification File`, and you need to fill in your `HWID (device ID)` obtainable after opening the injector once.
-- You will get a file from the bot, download it and place it on your korepi folder. Make sure the name is `enc.json`.
+### Langkah 3:
+Klik `Dapatkan File Verifikasi`, dan Anda harus mengisi `HWID (ID perangkat) Anda yang diperoleh setelah membuka injektor sekali.
+- Anda akan mendapatkan file dari bot, unduh dan letakkan di folder korepi Anda. Pastikan namanya adalah `enc.json`.
 
-You can also click `View Subscription Information` to view your subscription information.
+Anda juga dapat mengklik `Lihat Informasi Langganan` untuk melihat informasi langganan Anda.
 
-## How to pause the key
+## Cara menjeda kunci
 
-Click on `Pause Card` and type `YES` to pause it. You can unpause it anytime and your subscription will continue.
+Klik `Jeda Kartu` dan ketik `YES` untuk menjeda kartu. Anda dapat membatalkan jeda kapan saja dan langganan Anda akan berlanjut.
 
-::: info You can only pause the key once every 30 days
-:::
-
-## How to change HWID (Device ID)
-
-Click on `ID(Change HWID)`, and paste in the new `HWID` you get from opening the injector, after that download the new file and place it on your Korepi folder.
-
-::: info You can only reset the HWID once every 7 days
+Info Anda hanya dapat menjeda kartu setiap 30 hari sekali
 :::
 
-## MD5 Verification Issue
-Each time you obtain the `enc.json` file again, the previous `enc.json` file will become invalid.
+## Cara mengubah HWID (ID Perangkat)
 
-If the new one is still invalid, please obtain the file again. If it still doesn't work, wait for a while and try again.
+Klik pada `ID (Ubah HWID), dan tempelkan `HWID` baru yang anda dapatkan dari membuka injektor, setelah itu unduh file baru dan letakkan di folder Korepi anda.
+
+Info Anda hanya dapat mengatur ulang HWID setiap 7 hari sekali
+:::
+
+## Masalah Verifikasi MD5
+Setiap kali Anda mendapatkan file `enc.json` lagi, file `enc.json` sebelumnya akan menjadi tidak valid.
+
+Jika file yang baru masih tidak valid, silakan dapatkan kembali file tersebut. Jika masih tidak berhasil, tunggu beberapa saat dan coba lagi.
