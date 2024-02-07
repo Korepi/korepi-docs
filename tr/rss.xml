@@ -6,14 +6,15 @@
     <link>https://korepi.com/tr/</link>
     <description>Korepi Yardım Bölümü</description>
     <language>tr</language>
-    <pubDate>Wed, 07 Feb 2024 05:01:22 GMT</pubDate>
-    <lastBuildDate>Wed, 07 Feb 2024 05:01:22 GMT</lastBuildDate>
+    <pubDate>Wed, 07 Feb 2024 05:01:35 GMT</pubDate>
+    <lastBuildDate>Wed, 07 Feb 2024 05:01:35 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Guide</category>
     <category>FAQ</category>
     <category>Features</category>
     <category>Troubleshoot</category>
+    <category>Özellikler</category>
     <item>
       <title>Free Version</title>
       <link>https://korepi.com/tr/guide/free.html</link>
@@ -47,138 +48,132 @@
       <enclosure url="https://korepi.com/assets/images/docs/202402/verify-1.png" type="image/png"/>
     </item>
     <item>
-      <title>Differences between versions</title>
+      <title>Versiyonlar arasındaki farklar</title>
       <link>https://korepi.com/tr/start/differences.html</link>
       <guid>https://korepi.com/tr/start/differences.html</guid>
-      <source url="https://korepi.com/tr/rss.xml">Differences between versions</source>
-      <description>Key differences between V and F version Version F VersionV Version --------------------- FeaturesSameSame Update NoticeX✓ Multi-Instance (../guide/multi-instance.md)X✓ Set-upEas...</description>
+      <source url="https://korepi.com/tr/rss.xml">Versiyonlar arasındaki farklar</source>
+      <description>V ve F versiyonları arasındaki temel farklar Versiyon F VersiyonV Versyion --------------------- ÖzellikleriAynıAynı Güncelleme BildirimiX✓ Çoklu-Örnek (../guide/multi-instance....</description>
       <category>Guide</category>
       <pubDate>Sat, 13 Jan 2024 00:53:24 GMT</pubDate>
-      <content:encoded><![CDATA[<h1> Differences between V and F version.</h1>
-<h2> Key differences between V and F version</h2>
+      <content:encoded><![CDATA[<h1> V ve F versiyonları arasındaki farklar.</h1>
+<h2> V ve F versiyonları arasındaki temel farklar</h2>
 <table>
 <thead>
 <tr>
-<th>Version</th>
-<th>F Version</th>
-<th>V Version</th>
+<th>Versiyon</th>
+<th>F Versiyon</th>
+<th>V Versyion</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td>Features</td>
-<td>Same</td>
-<td>Same</td>
+<td>Özellikleri</td>
+<td>Aynı</td>
+<td>Aynı</td>
 </tr>
 <tr>
-<td>Update Notice</td>
+<td>Güncelleme Bildirimi</td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td><a href="/tr/guide/multi-instance.html" target="blank">Multi-Instance</a></td>
+<td><a href="/tr/guide/multi-instance.html" target="blank">Çoklu-Örnek</a></td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Set-up</td>
-<td>Easy</td>
-<td>Mid-Hard</td>
+<td>Kurulum</td>
+<td>Kolay</td>
+<td>Orta-Zor</td>
 </tr>
 <tr>
-<td>Problem Solving</td>
-<td>Easy</td>
-<td>Mid-Hard</td>
+<td>Sorun Çözümü</td>
+<td>Kolay</td>
+<td>Orta-Zor</td>
 </tr>
 <tr>
-<td>Authentication</td>
-<td>Key Verification</td>
-<td>File Verification</td>
+<td>Kimlik Doğrulama</td>
+<td>Anahtar Doğrulaması</td>
+<td>Dosya Doğrulaması</td>
 </tr>
 </tbody>
 </table>
-<h2> Which version should i use?</h2>
-<p>For the <span style="color:yellow;">Sponsor</span> users you can use any of the versions according to your needs. For Fans is recommended to use V version since its more stable and the set-up is more reliable as it is for now.</p>
+<h2> Hangi versiyonu kullanmalıyım?</h2>
+<p><span style="color:yellow;">Sponsor</span> Kullanıcılar, ihtiyaçlarınıza göre sürümlerden herhangi birini kullanabilirsiniz. Fanlar için V sürümünü kullanmaları önerilir çünkü daha kararlı ve kurulum şimdilik olduğu gibi daha güvenilirdir.</p>
 ]]></content:encoded>
     </item>
     <item>
-      <title>How to add to exclusion list</title>
+      <title>Dışlamalara ekleme</title>
       <link>https://korepi.com/tr/guide/virus.html</link>
       <guid>https://korepi.com/tr/guide/virus.html</guid>
-      <source url="https://korepi.com/tr/rss.xml">How to add to exclusion list</source>
-      <description>Other antivirus will have similar steps, adapt depending on the antivirus you are using. How to add Korepi to antivirus exclusion list (Windows Defender) Step 1: Open the antivi...</description>
+      <source url="https://korepi.com/tr/rss.xml">Dışlamalara ekleme</source>
+      <description>anti virüslerde aşamalar farklı olabilir! Korepiyi dışlamalar listesine nasıl ekleyebilirsiniz? (Windows Defender) 1. Aşama: Antivirüsü açma Arama çubuğuna Windows Güvenliği Yaz...</description>
       <category>Guide</category>
       <pubDate>Sat, 23 Dec 2023 17:10:07 GMT</pubDate>
-      <content:encoded><![CDATA[<div class="hint-container info">
-<p class="hint-container-title">Other antivirus will have similar steps, adapt depending on the antivirus you are using.</p>
-</div>
-<hr>
-<h2> How to add Korepi to antivirus exclusion list (Windows Defender)</h2>
-<h3> Step 1: Open the antivirus</h3>
-<p>Open the windows search bar and search for <code>Windows Security</code> and open it.</p>
+      <content:encoded><![CDATA[<h2> ::: Başka anti virüslerde aşamalar farklı olabilir!
+:::</h2>
+<h2> Korepiyi dışlamalar listesine nasıl ekleyebilirsiniz? (Windows Defender)</h2>
+<h3> 1. Aşama: Antivirüsü açma</h3>
+<p>Arama çubuğuna <code>Windows Güvenliği</code> Yazın ve tıklayın</p>
 <p><img src="/assets/images/docs/202312/security.png" alt="" loading="lazy"></p>
-<p>We click on <code>Virus &amp; threat protection</code>.</p>
+<p><code>Virüs ve tehdit koruması</code>'na tıklayın.</p>
 <p><img src="/assets/images/docs/202312/virus1.png" alt="" loading="lazy"></p>
-<p>Then we scroll till we find <code>Virus &amp; threat protection settings</code> and click on <code>Manage settings</code>.</p>
+<p>Aşağı inin ve <code>Virüs ve tehdit ayarları</code>'nı seçin. Oradanda  <code>Ayarları yönet</code>'e tıklayın.</p>
 <p><img src="/assets/images/docs/202312/virus3.png" alt="" loading="lazy"></p>
-<h3> Step 2: Adding to the exclusion list</h3>
-<p>After following the last step, we will scroll until we find <code>Exclusions</code> and then we click on <code>Add or remove exclusions</code>.</p>
+<h3> 2. Aşama: Dışlamaya ekleme</h3>
+<p>Son aşamadan sonra, <code>Dışlamalar</code>'ı buluncaya kadar aşğı inin ve <code>Dışarıda bırakılanları ekle veya kaldır</code> a tıklayın.</p>
 <p><img src="/assets/images/docs/202312/virus4.png" alt="" loading="lazy"></p>
-<p>Click yes to the popup, after that we click on <code>Add an Exclusion</code> and select folder, then we select our Korepi folder.</p>
+<p>Çıkan uyarıya evet diyin ve <code>Bir dışlama ekleyin</code>'e tıklayıp Klasörü seçin. Oradanda Korepinin bulunduğu klasörü seçin ve tammadır!</p>
 <h2> Video</h2>
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/BonLkFNnO9w" title="How to Exclude a File or Folder from Windows Defender Scan In Windows 10 [Tutorial]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 ]]></content:encoded>
       <enclosure url="https://korepi.com/assets/images/docs/202312/security.png" type="image/png"/>
     </item>
     <item>
-      <title>FAQ</title>
+      <title>Çok Sorulanlar</title>
       <link>https://korepi.com/tr/troubleshoot/faq.html</link>
       <guid>https://korepi.com/tr/troubleshoot/faq.html</guid>
-      <source url="https://korepi.com/tr/rss.xml">FAQ</source>
-      <description>List of FAQs Is Korepi free? Yes, it is free, in order to get it for the first time you have to do a 7 days sign-in (../start/sign-in.md), you can skip this by Sponsoring (../st...</description>
+      <source url="https://korepi.com/tr/rss.xml">Çok Sorulanlar</source>
+      <description>En Sorulanlar Listesi Korepi Ücretsiz mi? Evet, ücretsizdir, ilk kez almak için 7 günlük bir deneme yapmanız gerekir Kayıt-olma (../start/sign-in.md), bunu şu şekilde atlayabili...</description>
       <category>FAQ</category>
       <pubDate>Tue, 19 Dec 2023 17:09:24 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> List of FAQs</h2>
-<h3> Is Korepi free?</h3>
-<p>Yes, it is free, in order to get it for the first time you have to do a 7 days <a href="/tr/start/sign-in.html" target="blank">sign-in</a>, you can skip this by <a href="/tr/start/sponsor.html" target="blank">Sponsoring</a>, after that you can get the license every time your key expires.</p>
+      <content:encoded><![CDATA[<h2> En Sorulanlar Listesi</h2>
+<h3> Korepi Ücretsiz mi?</h3>
+<p>Evet, ücretsizdir, ilk kez almak için 7 günlük bir deneme yapmanız gerekir <a href="/tr/start/sign-in.html" target="blank">Kayıt-olma</a>, bunu şu şekilde atlayabilirsiniz <a href="/tr/start/sponsor.html" target="blank">Sponsorluk</a>, bundan sonra anahtarınızın süresi her dolduğunda lisansı alabilirsiniz.</p>
 <hr>
-<h3> What is the .rar/.zip password?</h3>
+<h3> .rar/.zip şifresi nedir?</h3>
 <p>...</p>
-<p>Its <code>1234</code>, please read the download post next time.</p>
+<p>Bu <code>1234</code>, lütfen bir dahaki sefere indirme yazısını okuyun.</p>
 <hr>
-<h3> Why my config doesn't save?</h3>
-<p>Keep in mind you have to extract the <code>.rar/.zip</code> file you got in another folder.</p>
-<p>If config is still not saving after this step, please contact with any helper in the server for more help.</p>
+<h3> Konfigürasyonum neden kaydedilmiyor?</h3>
+<p>Aldığınız <code>.rar/.zip</code> dosyasını başka bir klasöre çıkarmanız gerektiğini unutmayın.</p>
+<p>Bu adımdan sonra yapılandırma hala kaydedilmiyorsa, daha fazla yardım için lütfen sunucudaki herhangi bir yardımcı ile iletişime geçin.</p>
 <hr>
-<h3> Where do i find themes?</h3>
-<p>You can find themes for your Korepi on <code>community share</code> or you can make your own in Korepi settings.</p>
+<h3> Temaları nereden bulabilirim?</h3>
+<p>Korepi'niz için temaları `community share' üzerinde bulabilir veya Korepi ayarlarından kendiniz yapabilirsiniz.</p>
 <p><img src="/assets/images/docs/202312/theme-settings.png" alt="" loading="lazy"></p>
-<p>Check <code>Theme Customization</code> to start making your own theme.</p>
+<p>Kendi temanızı oluşturmaya başlamak için <code>Theme Customization</code> seçeneğini işaretleyin.</p>
 <hr>
-<h3> Why did my /start streak reset?</h3>
-<p>Most likely you surpassed the reset time, it resets daily, if you skip 1 day it will reset entirely</p>
-<div class="hint-container info">
-<p class="hint-container-title">Reset time is at GMT/UTC+8 00:00 everyday. Please convert to your timezone.</p>
-</div>
+<h3> Neden /start serim sıfırlandı?</h3>
+<p>Büyük olasılıkla sıfırlama süresini aştınız, günlük olarak sıfırlanır, 1 günü atlarsanız tamamen sıfırlanır</p>
+<h2> ::: bilgi Sıfırlama saati her gün GMT/UTC+8 00:00'dır. Lütfen kendi zaman diliminize çevirin.
+:::</h2>
+<h3> Yeni bir güncelleme geldiğinde Korepi'yi kullanabilir miyim?</h3>
+<p>Hayır, yeni bir Korepi sürümü yayınlanana kadar beklemeniz gerekiyor.</p>
+<h2> ::: bilgi Eski enjektörü kullanmak işe yaramaz, Korepi güncellemesi yaklaşık 1-2 hafta sürer.
+:::</h2>
+<h3> Menü neden oyunda görünmüyor?</h3>
+<p>Korepi'yi başlatmadan önce tüm kaplamaları (MSI Afterburner, GeForce Experience, vb.) devre dışı bıraktığınızdan emin olun.</p>
 <hr>
-<h3> Can i use Korepi when a new update comes?</h3>
-<p>No, you need to wait till a new Korepi version gets released.</p>
-<div class="hint-container info">
-<p class="hint-container-title">Using the old injector wont work, Korepi update takes 1-2 weeks approximately.</p>
-</div>
+<h3> <span style="color:yellow;">Sponsor</span>'u nereden alabilirim ve ne kadar?</h3>
+<p><a href="/tr/start/sponsor.html" target="blank">Sponsor</a> rolünü sunucuda <code>#sponsorship</code> içinde sağlanan bağlantılardan alabilirsiniz.</p>
+<p>Sponsor rolünü alabilmek için en az 5$ bağış yapmanız gerekmektedir, 5$'ın altındaki diğer bağışlar dikkate alınmayacaktır.</p>
 <hr>
-<h3> Why the menu doesn't appear in game?</h3>
-<p>Make sure you have disabled every overlay(MSI Afterburner, GeForce Experience, etc.) before launching korepi.</p>
-<hr>
-<h3> Where do i get <span style="color:yellow;">Sponsor</span> and how much it is?</h3>
-<p>You can get <a href="/tr/start/sponsor.html" target="blank">Sponsor</a> from the links provided in <code>#sponsorship</code> in the server.</p>
-<p>In order to get the Sponsor role, you need to donate at least 5$, any other donation below 5$ will be ignored.</p>
-<hr>
-<h3> Why my game crashes in loading screen?</h3>
-<p>If you get a error like this:</p>
+<h3> Oyunum neden yükleme ekranında çöküyor?</h3>
+<p>Eğer böyle bir hata alırsanız:</p>
 <p><code>atidxx64.dll caused an Access Violation (0xc0000005) in module atidxx64.dll at 0033:43d1356c.</code></p>
-<p>Please update your drivers and try again.</p>
-<p>If you don't get that error, try setting more delay on launch on <code>cfg.ini</code>.</p>
+<p>Lütfen sürücülerinizi güncelleyin ve tekrar deneyin.</p>
+<p>Bu hatayı almazsanız, başlatma sırasında daha fazla gecikme ayarlamayı deneyin <code>cfg.ini</code>.</p>
 ]]></content:encoded>
       <enclosure url="https://korepi.com/assets/images/docs/202312/theme-settings.png" type="image/png"/>
     </item>
@@ -265,10 +260,10 @@ In order to use custom skins in we will need to download:</p>
       <enclosure url="https://korepi.com/assets/images/docs/202312/example.png" type="image/png"/>
     </item>
     <item>
-      <title>Guides</title>
+      <title>Talimatlar</title>
       <link>https://korepi.com/tr/guide/</link>
       <guid>https://korepi.com/tr/guide/</guid>
-      <source url="https://korepi.com/tr/rss.xml">Guides</source>
+      <source url="https://korepi.com/tr/rss.xml">Talimatlar</source>
       <category>Guide</category>
       <pubDate>Tue, 19 Dec 2023 12:28:02 GMT</pubDate>
     </item>
@@ -351,315 +346,313 @@ In order to use custom skins in we will need to download:</p>
       <enclosure url="https://korepi.com/assets/images/docs/202402/verify-1.png" type="image/png"/>
     </item>
     <item>
-      <title>How to Multi-Instance</title>
+      <title>Aynı anda iki tane oyun uygulamasını açma</title>
       <link>https://korepi.com/tr/guide/multi-instance.html</link>
       <guid>https://korepi.com/tr/guide/multi-instance.html</guid>
-      <source url="https://korepi.com/tr/rss.xml">How to Multi-Instance</source>
-      <description>How to Multi-instance (Open 2 game window at the same time) Only works with Local(V) version</description>
+      <source url="https://korepi.com/tr/rss.xml">Aynı anda iki tane oyun uygulamasını açma</source>
+      <description>Aynı anda iki tane oyun uygulamasını açabilirsiniz Local(V) Versiyonunda yapılabilir bir özelliktir</description>
       <category>Guide</category>
       <pubDate>Tue, 19 Dec 2023 12:28:02 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> How to Multi-instance (Open 2 game window at the same time)</h2>
-<div class="hint-container info">
-<p class="hint-container-title">Only works with Local(V) version</p>
-</div>
-<hr>
+      <content:encoded><![CDATA[<h2> Aynı anda iki tane oyun uygulamasını açabilirsiniz</h2>
+<h2> ::: Sadece Local(V) Versiyonunda yapılabilir bir özelliktir
+:::</h2>
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/pSAxKoneT64" title="Multi-Instance V (Updated)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 ]]></content:encoded>
     </item>
     <item>
-      <title>Catalog</title>
+      <title>Katalog</title>
       <link>https://korepi.com/tr/start/</link>
       <guid>https://korepi.com/tr/start/</guid>
-      <source url="https://korepi.com/tr/rss.xml">Catalog</source>
+      <source url="https://korepi.com/tr/rss.xml">Katalog</source>
       <category>Guide</category>
       <pubDate>Tue, 19 Dec 2023 12:28:02 GMT</pubDate>
     </item>
     <item>
-      <title>Download</title>
+      <title>İndirme</title>
       <link>https://korepi.com/tr/start/download.html</link>
       <guid>https://korepi.com/tr/start/download.html</guid>
-      <source url="https://korepi.com/tr/rss.xml">Download</source>
-      <description>Introduction Welcome to our community! To pass the bot check and receive the Newcomer role, follow these steps. Step 1: Join our server and obtain the Newcomer and Fans roles If...</description>
+      <source url="https://korepi.com/tr/rss.xml">İndirme</source>
+      <description>Giriş Topluluğumuza hoş geldiniz! Bot kontrolünü geçmek ve Newcomer rolü için aşağıdaki adımları izleyin. Adım 1: Sunucumuza katılın ve Newcomer ve Fans rollerini edinin. Sunucu...</description>
       <category>Guide</category>
       <pubDate>Tue, 19 Dec 2023 12:28:02 GMT</pubDate>
-      <content:encoded><![CDATA[<h1> Download</h1>
-<h2> Introduction</h2>
-<p>Welcome to our community! To pass the bot check and receive the <code>Newcomer</code> role, follow these steps.</p>
-<h3> Step 1: Join our server and obtain the <code>Newcomer</code> and <code>Fans</code> roles</h3>
-<p>If you haven't joined the server yet, please read the verification post, which describes how to join the server and obtain the <code>Newcomer</code> and <code>Fans</code> roles.</p>
-<h3> Step 2: Go to the channel <code>★⋅korepi-version-roles⋅★</code></h3>
-<p>Locate the channel <code>★⋅korepi-version-roles⋅★</code> and choose either the F or V version role. We recommend selecting the F role.</p>
-<h3> Step 3: Download the necessary resources</h3>
-<p>Once you've done that, you will gain access to the corresponding download channel: <code>★⋅f-download⋅★</code> or <code>★⋅v-download⋅★</code>.</p>
-<h3> Step 4: Ready!</h3>
-<p>In the channel, you will find a link to the current version and the password for the archive. Good luck!</p>
+      <content:encoded><![CDATA[<h1> İndirme</h1>
+<h2> Giriş</h2>
+<p>Topluluğumuza hoş geldiniz! Bot kontrolünü geçmek ve <code>Newcomer</code> rolü için aşağıdaki adımları izleyin.</p>
+<h3> Adım 1: Sunucumuza katılın ve <code>Newcomer</code> ve <code>Fans</code> rollerini edinin.</h3>
+<p>Sunucuya henüz katılmadıysanız, lütfen sunucuya nasıl katılacağınızı ve <code>Newcomer</code> ve <code>Fans</code> rollerini nasıl elde edeceğinizi açıklayan doğrulama gönderisini okuyun.</p>
+<h3> Adım 2: <code>★⋅korepi-version-roles⋅★</code> Kanalına gidin.</h3>
+<p><code>★⋅korepi-version-roles⋅★</code> kanalını bulun ve F veya V versiyon rolünü seçin. F rolünü seçmenizi öneririz.</p>
+<h3> Adım 3: Gerekli kaynakları indirin</h3>
+<p>Bunu yaptıktan sonra, ilgili indirme kanalına erişim kazanacaksınız: <code>★⋅f-download⋅★</code> veya <code>★⋅v-download⋅★</code>.</p>
+<h3> Adım 4: Hazır!</h3>
+<p>Kanalda, güncel sürüme bir bağlantı ve arşiv için şifre bulacaksınız. İyi şanslar!</p>
 ]]></content:encoded>
     </item>
     <item>
-      <title>Joining the Server</title>
+      <title>Sunucuya Katılma</title>
       <link>https://korepi.com/tr/start/join.html</link>
       <guid>https://korepi.com/tr/start/join.html</guid>
-      <source url="https://korepi.com/tr/rss.xml">Joining the Server</source>
-      <description>Introduction Welcome to our community! To join the Discord server and start using Korepi, follow these steps. Step 1: Create a Discord Account If you don&amp;apos;t have a Discord accoun...</description>
+      <source url="https://korepi.com/tr/rss.xml">Sunucuya Katılma</source>
+      <description>Giriş Topluluğumuza hoş geldiniz! Discord sunucusuna katılmak ve Korepi&amp;apos;yi kullanmaya başlamak için aşağıdaki adımları izleyin. Adım 1: Bir Discord Hesabı Oluşturun Henüz bir Di...</description>
       <category>Guide</category>
       <pubDate>Tue, 19 Dec 2023 12:28:02 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Introduction</h2>
-<p>Welcome to our community! To join the Discord server and start using Korepi, follow these steps.</p>
-<h3> Step 1: Create a Discord Account</h3>
-<p>If you don't have a Discord account yet, start by creating a new one. Visit the <a href="https://discord.com/" target="_blank" rel="noopener noreferrer">official Discord website</a> and follow the registration instructions.</p>
-<h3> Step 2: Download and Install Discord</h3>
-<p>After creating an account, download the <a href="https://discord.com/download" target="_blank" rel="noopener noreferrer">Discord client</a> for your operating system. Install the client following the on-screen instructions.</p>
-<h3> Step 3: Joining the Server</h3>
+      <content:encoded><![CDATA[<h2> Giriş</h2>
+<p>Topluluğumuza hoş geldiniz! Discord sunucusuna katılmak ve Korepi'yi kullanmaya başlamak için aşağıdaki adımları izleyin.</p>
+<h3> Adım 1: Bir Discord Hesabı Oluşturun</h3>
+<p>Henüz bir Discord hesabınız yoksa, yeni bir hesap oluşturarak başlayın. Ziyaret edin <a href="https://discord.com/" target="_blank" rel="noopener noreferrer">Resmi Discord Web Sitesi</a> ve kayıt talimatlarını izleyin.</p>
+<h3> Adım 2: Discord'u İndirin ve Kurun</h3>
+<p>Bir hesap oluşturduktan sonra <a href="https://discord.com/download" target="_blank" rel="noopener noreferrer">Discord Uygulaması</a> işletim sisteminiz için. Ekrandaki talimatları izleyerek istemciyi kurun.</p>
+<h3> Adım 3: Sunucuya Katılma</h3>
 <ol>
-<li>Copy the <a href="https://discord.gg/cottonbuds" target="_blank" rel="noopener noreferrer">invitation link</a> for the Discord server provided by the administrator.</li>
-<li>In the Discord client, click the "+" button in the bottom left corner.</li>
-<li>Select "Join a Server."</li>
-<li>Paste the invitation link and click "Join."</li>
+<li><a href="https://discord.gg/cottonbuds" target="_blank" rel="noopener noreferrer">Discord Davet Linki</a> Yönetici tarafından sağlanan Discord sunucu davet bağlantısı için.</li>
+<li>Discord istemcisinde, sol alt köşedeki "+" düğmesine tıklayın.</li>
+<li>"Bir Sunucuya Katıl" seçeneğini seçin.</li>
+<li>Davet bağlantısını yapıştırın ve "Katıl "a tıklayın.</li>
 </ol>
-<p>If the invitation link is invalid, the server may be temporarily closed. Please wait for it to reopen. Now you can proceed to the next step.</p>
+<p>Davet bağlantısı geçersizse, sunucu geçici olarak kapalı olabilir. Lütfen yeniden açılmasını bekleyin. Şimdi bir sonraki adıma geçebilirsiniz.</p>
 ]]></content:encoded>
     </item>
     <item>
-      <title>Registration</title>
+      <title>Kayıt Olma</title>
       <link>https://korepi.com/tr/start/sign-in.html</link>
       <guid>https://korepi.com/tr/start/sign-in.html</guid>
-      <source url="https://korepi.com/tr/rss.xml">Registration</source>
-      <description>Introduction Welcome to our community! To register and obtain the &amp;quot;Fans&amp;quot; role, follow these steps. Step 1: Join our server and get the &amp;quot;Newcomer&amp;quot; role if you haven&amp;apos;t already If ...</description>
+      <source url="https://korepi.com/tr/rss.xml">Kayıt Olma</source>
+      <description>Giriş Topluluğumuza hoş geldiniz! Kaydolmak ve &amp;quot;Fans&amp;quot; rolünü almak için aşağıdaki adımları izleyin. Adım 1: Sunucumuza katılın ve henüz yapmadıysanız &amp;quot;Newcomer&amp;quot; rolünü alın Henü...</description>
       <category>Guide</category>
       <pubDate>Tue, 19 Dec 2023 12:28:02 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Introduction</h2>
-<p>Welcome to our community! To register and obtain the "Fans" role, follow these steps.</p>
-<h3> Step 1: Join our server and get the "Newcomer" role if you haven't already</h3>
-<p>If you are not on the server yet, please read the previous post, where it is described how to join the server and get the "Newcomer" role.</p>
-<h3> Step 2: Find the bot</h3>
-<p>Now you need to find the bot with the image of a goose and write to him in direct messages (micah-sign-bot#0245).</p>
+      <content:encoded><![CDATA[<h2> Giriş</h2>
+<p>Topluluğumuza hoş geldiniz! Kaydolmak ve "Fans" rolünü almak için aşağıdaki adımları izleyin.</p>
+<h3> Adım 1: Sunucumuza katılın ve henüz yapmadıysanız "Newcomer" rolünü alın</h3>
+<p>Henüz sunucuda değilseniz, lütfen sunucuya nasıl katılacağınızın ve "Newcomer" rolünü nasıl alacağınızın anlatıldığı önceki yazıyı okuyun.</p>
+<h3> Adım 2: Botu bulun</h3>
+<p>Şimdi bir kaz resmi olan botu bulmanız ve ona direkt mesajlarla yazmanız gerekiyor (micah-sign-bot#0245).</p>
 <p><img src="/assets/images/docs/202312/signin1.png" alt="Sign-in" loading="lazy"></p>
-<h3> Step 3: Getting started</h3>
-<p>Write him the command <code>/start</code>, solve the captcha. Note: if the bot does not respond to your captcha request, you probably entered it incorrectly. Try writing the captcha again (without the command). After successful input, the bot will send you the message "Consecutive &lt; days &gt; days".</p>
+<h3> Adım 3: Başlarken</h3>
+<p>Ona <code>/start</code> komutunu yazın, captcha'yı çözün. Not: Eğer bot captcha isteğinize yanıt vermezse, muhtemelen yanlış girmişsinizdir. Captcha'yı tekrar yazmayı deneyin (komut olmadan). Başarılı bir girişten sonra, bot size "Consecutive &lt; days &gt; days" mesajını gönderecektir.</p>
 <p><img src="/assets/images/docs/202312/signin2.png" alt="Sign-in" loading="lazy"></p>
 <p><img src="/assets/images/docs/202312/signin3.png" alt="Sign-in" loading="lazy"></p>
-<h3> Step 4: After receiving the "Fans" role</h3>
-<p>So now you need to enter this command every day for 7 days (every 24 hours). Note that if you make a mistake by a couple of hours, the bot will consider that you did not mark and reset your days. On the 7th day of check-ins, you will be given the "Fans" role, and you can stop checking in.</p>
+<h3> Adım 4: "Fans" rolünü aldıktan sonra</h3>
+<p>Şimdi bu komutu 7 gün boyunca her gün (her 24 saatte bir) girmeniz gerekiyor. Birkaç saatlik bir hata yaparsanız, botun günlerinizi işaretlemediğinizi ve sıfırlamadığınızı düşüneceğini unutmayın. Check-in'lerin 7. gününde, size "Fans" rolü verilecek ve check-in yapmayı bırakabilirsiniz.</p>
 <p><img src="/assets/images/docs/202312/signin4.png" alt="Sign-in" loading="lazy"></p>
 ]]></content:encoded>
       <enclosure url="https://korepi.com/assets/images/docs/202312/signin1.png" type="image/png"/>
     </item>
     <item>
-      <title>Sponsor Exclusive Features</title>
+      <title>Sponsorlara Özel Özellikler</title>
       <link>https://korepi.com/tr/start/sponsor-exclusive.html</link>
       <guid>https://korepi.com/tr/start/sponsor-exclusive.html</guid>
-      <source url="https://korepi.com/tr/rss.xml">Sponsor Exclusive Features</source>
-      <description>Player Critical Hit Rate Probabilities (https://www.youtube.com/watch?v=ByucMEL7pXM&amp;list=PL5eI1Tb64p54t7LyUaudX0ume6HbS4ikD&amp;index=1&amp;pp=iAQB); Extra Movement (https://www.youtube...</description>
+      <source url="https://korepi.com/tr/rss.xml">Sponsorlara Özel Özellikler</source>
+      <description>Oyuncu Kritik Vuruş Oranı Olasılıkları (https://www.youtube.com/watch?v=ByucMEL7pXM&amp;list=PL5eI1Tb64p54t7LyUaudX0ume6HbS4ikD&amp;index=1&amp;pp=iAQB); Ekstra Hareket (https://www.youtube...</description>
       <category>Guide</category>
       <pubDate>Tue, 19 Dec 2023 12:28:02 GMT</pubDate>
-      <content:encoded><![CDATA[<h3> Player</h3>
+      <content:encoded><![CDATA[<h3> Oyuncu</h3>
 <ul>
-<li><a href="https://www.youtube.com/watch?v=ByucMEL7pXM&amp;list=PL5eI1Tb64p54t7LyUaudX0ume6HbS4ikD&amp;index=1&amp;pp=iAQB" target="_blank" rel="noopener noreferrer">Critical Hit Rate Probabilities</a></li>
-<li><a href="https://www.youtube.com/watch?v=wMd9icqhFQg&amp;list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa&amp;index=5&amp;pp=iAQB" target="_blank" rel="noopener noreferrer">Extra Movement</a></li>
-<li><a href="https://youtu.be/42utUUYNHRE?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa&amp;t=16" target="_blank" rel="noopener noreferrer">Undead ( Godmode )</a></li>
-<li><a href="https://www.youtube.com/watch?v=XGztUEy82sE&amp;list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa&amp;index=12&amp;pp=iAQB" target="_blank" rel="noopener noreferrer">Remote Utility</a>
+<li><a href="https://www.youtube.com/watch?v=ByucMEL7pXM&amp;list=PL5eI1Tb64p54t7LyUaudX0ume6HbS4ikD&amp;index=1&amp;pp=iAQB" target="_blank" rel="noopener noreferrer">Kritik Vuruş Oranı Olasılıkları</a></li>
+<li><a href="https://www.youtube.com/watch?v=wMd9icqhFQg&amp;list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa&amp;index=5&amp;pp=iAQB" target="_blank" rel="noopener noreferrer">Ekstra Hareket</a></li>
+<li><a href="https://youtu.be/42utUUYNHRE?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa&amp;t=16" target="_blank" rel="noopener noreferrer">Ölümsüzlük ( Tanrı Modu )</a></li>
+<li><a href="https://www.youtube.com/watch?v=XGztUEy82sE&amp;list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa&amp;index=12&amp;pp=iAQB" target="_blank" rel="noopener noreferrer">Uzak Yardımcı Programı</a>
 <ul>
-<li><a href="https://www.youtube.com/watch?v=Ggnvh8ORJZU&amp;list=PL5eI1Tb64p54t7LyUaudX0ume6HbS4ikD&amp;index=3&amp;pp=iAQB" target="_blank" rel="noopener noreferrer">Claim Daily Commission everywhere</a></li>
-<li><a href="https://www.youtube.com/watch?v=HZuyD6b-qYc&amp;list=PL5eI1Tb64p54t7LyUaudX0ume6HbS4ikD&amp;index=4&amp;pp=iAQB" target="_blank" rel="noopener noreferrer">Make Condensed Resin</a></li>
-<li><a href="https://youtu.be/XGztUEy82sE?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa&amp;t=62" target="_blank" rel="noopener noreferrer">Summon Features</a></li>
+<li><a href="https://www.youtube.com/watch?v=Ggnvh8ORJZU&amp;list=PL5eI1Tb64p54t7LyUaudX0ume6HbS4ikD&amp;index=3&amp;pp=iAQB" target="_blank" rel="noopener noreferrer">Her yerden Günlük Ödül Talebi</a></li>
+<li><a href="https://www.youtube.com/watch?v=HZuyD6b-qYc&amp;list=PL5eI1Tb64p54t7LyUaudX0ume6HbS4ikD&amp;index=4&amp;pp=iAQB" target="_blank" rel="noopener noreferrer">Yoğunlaştırılmış Reçine Yapma</a></li>
+<li><a href="https://youtu.be/XGztUEy82sE?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa&amp;t=62" target="_blank" rel="noopener noreferrer">Çağırma Özellikleri</a></li>
 </ul>
 </li>
-<li><a href="https://www.youtube.com/watch?v=Gh2GX23E6dw&amp;list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa&amp;index=21&amp;pp=iAQB" target="_blank" rel="noopener noreferrer">Bunny Hop</a></li>
+<li><a href="https://www.youtube.com/watch?v=Gh2GX23E6dw&amp;list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa&amp;index=21&amp;pp=iAQB" target="_blank" rel="noopener noreferrer">Tavşan Zıplaması</a></li>
 </ul>
-<h3> World</h3>
+<h3> Dünya</h3>
 <ul>
-<li><a href="https://www.youtube.com/watch?v=qstBErr9mJ0&amp;list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa&amp;index=22&amp;pp=iAQB" target="_blank" rel="noopener noreferrer">Auto Activate Waypoint</a></li>
-<li><a href="https://www.youtube.com/watch?v=v95_NOxc4do&amp;list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa&amp;index=31&amp;pp=iAQB" target="_blank" rel="noopener noreferrer">Auto Tree Farm</a></li>
+<li><a href="https://www.youtube.com/watch?v=qstBErr9mJ0&amp;list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa&amp;index=22&amp;pp=iAQB" target="_blank" rel="noopener noreferrer">Işınlanma Portallarını Otomatik Etkinleştir</a></li>
+<li><a href="https://www.youtube.com/watch?v=v95_NOxc4do&amp;list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa&amp;index=31&amp;pp=iAQB" target="_blank" rel="noopener noreferrer">Otomatik Ağaç Çiftliği</a></li>
 <li><a href="https://www.youtube.com/watch?v=FskTJiknOgQ&amp;list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa&amp;index=32&amp;pp=iAQB" target="_blank" rel="noopener noreferrer">Elemental Aura</a></li>
-<li><a href="https://www.youtube.com/watch?v=fF6LC552cvY&amp;list=PL5eI1Tb64p54t7LyUaudX0ume6HbS4ikD&amp;index=2&amp;pp=iAQB" target="_blank" rel="noopener noreferrer">Skip Dialog (Safer than Fast Dialog)</a></li>
+<li><a href="https://www.youtube.com/watch?v=fF6LC552cvY&amp;list=PL5eI1Tb64p54t7LyUaudX0ume6HbS4ikD&amp;index=2&amp;pp=iAQB" target="_blank" rel="noopener noreferrer">Diyaloğu Geç (Hızlı Diyalogdan Daha Güvenli)</a></li>
 </ul>
-<h3> Visual</h3>
+<h3> Görsel</h3>
 <ul>
-<li><a href="https://www.youtube.com/watch?v=S9-g5weE9l8&amp;list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa&amp;index=37&amp;pp=iAQB" target="_blank" rel="noopener noreferrer">Constellation Modifier</a></li>
-<li><a href="https://youtu.be/EtRT95qEW6Y?si=v2AoRfRnjYrR93J5" target="_blank" rel="noopener noreferrer">Hide UI</a></li>
-<li><a href="https://youtu.be/AjkJ8S8NHsI?si=pZ3FDJXHcmfpe7Ee&amp;t=101" target="_blank" rel="noopener noreferrer">No Camera Blur</a></li>
-<li><a href="https://youtu.be/AjkJ8S8NHsI?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa&amp;t=102" target="_blank" rel="noopener noreferrer">No Camera Shake</a></li>
-<li>No Footprints</li>
+<li><a href="https://www.youtube.com/watch?v=S9-g5weE9l8&amp;list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa&amp;index=37&amp;pp=iAQB" target="_blank" rel="noopener noreferrer">Takımyıldızı Değiştirici</a></li>
+<li><a href="https://youtu.be/EtRT95qEW6Y?si=v2AoRfRnjYrR93J5" target="_blank" rel="noopener noreferrer">UI'yi Gizle</a></li>
+<li><a href="https://youtu.be/AjkJ8S8NHsI?si=pZ3FDJXHcmfpe7Ee&amp;t=101" target="_blank" rel="noopener noreferrer">Kamera Bulanıklığı Yok</a></li>
+<li><a href="https://youtu.be/AjkJ8S8NHsI?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa&amp;t=102" target="_blank" rel="noopener noreferrer">Kamera Sarsıntısı Yok</a></li>
+<li>Ayak İzi Yok</li>
 </ul>
 ]]></content:encoded>
     </item>
     <item>
-      <title>Becoming a Sponsor</title>
+      <title>Sponsor Olma</title>
       <link>https://korepi.com/tr/start/sponsor.html</link>
       <guid>https://korepi.com/tr/start/sponsor.html</guid>
-      <source url="https://korepi.com/tr/rss.xml">Becoming a Sponsor</source>
-      <description>How to become a Sponsor? To becoming a Sponsor, you need to donate atleast $5 or equivalent if you are using another currency. Where to donate? Once you already in the server, p...</description>
+      <source url="https://korepi.com/tr/rss.xml">Sponsor Olma</source>
+      <description>Nasıl Sponsor Olunur? Sponsor, olmak için en az 5$ veya başka bir para birimi kullanıyorsanız eşdeğeri bağışta bulunmanız gerekir. Nereye bağış yapabilirim? Zaten sunucuya girdi...</description>
       <category>Guide</category>
       <pubDate>Tue, 19 Dec 2023 12:28:02 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> How to become a <span style="color:yellow;">Sponsor</span>?</h2>
-<p>To becoming a  <span style="color:yellow;">Sponsor</span>, you need to donate atleast $5 or equivalent if you are using another currency.</p>
-<h2> Where to donate?</h2>
-<p>Once you already in the server, please go to <a href="https://discord.com/channels/1069057220802781265/1097565269985071205" target="_blank" rel="noopener noreferrer">#sponsorship</a> channel. Choose one of the links you prefer to donate. Please make sure to screenshot the process as proof for the next step.</p>
-<h2> What to do after I done donated?</h2>
-<h3> Step 1:</h3>
-<p>If you already donated, you can start a ticket at <a href="https://discord.com/channels/1069057220802781265/1195466175954550885" target="_blank" rel="noopener noreferrer">#sponsorship-proof-ticket</a>, and click on <code>Send Proofs</code>.</p>
+      <content:encoded><![CDATA[<h2> Nasıl <span style="color:yellow;">Sponsor</span> Olunur?</h2>
+<p><span style="color:yellow;">Sponsor</span>, olmak için en az 5$ veya başka bir para birimi kullanıyorsanız eşdeğeri bağışta bulunmanız gerekir.</p>
+<h2> Nereye bağış yapabilirim?</h2>
+<p>Zaten sunucuya girdikten sonra, lütfen Bu kanala gidin. <a href="https://discord.com/channels/1069057220802781265/1097565269985071205" target="_blank" rel="noopener noreferrer">#sponsorship</a> Bağış yapmak için tercih ettiğiniz bağlantılardan birini seçin. Lütfen bir sonraki adım için kanıt olarak işlemin ekran görüntüsünü aldığınızdan emin olun.</p>
+<h2> Bağış yaptıktan sonra ne yapmalıyım?</h2>
+<h3> Adım 1:</h3>
+<p>Zaten bağışta bulunduysanız, şu adresten bir bilet başlatabilirsiniz <a href="https://discord.com/channels/1069057220802781265/1195466175954550885" target="_blank" rel="noopener noreferrer">#sponsorship-proof-ticket</a>, ve üzerine tıklayın <code>Send Proofs</code>.</p>
 <p><img src="/assets/images/docs/202312/sponsor-new.png" alt="" loading="lazy"></p>
-<h3> Step 2:</h3>
-<p>Send your proof to the newly created channel <code>#proof-yourname</code>, and then wait for a Mod to review the proof.</p>
+<h3> Adım 2:</h3>
+<p>Kanıtınızı yeni oluşturulan kanala gönderin <code>#proof-yourname</code>, ve ardından bir Mod'un kanıtı incelemesini bekleyin.</p>
 <p><img src="/assets/images/docs/202312/sponsor-new2.png" alt="" loading="lazy"></p>
-<h3> Step 3:</h3>
-<p>If everything went right, and the proof is valid you will receive your  <span style="color:yellow;">Sponsor</span> role.</p>
-<h2> (FOR NON-FANS) How to claim Fans role after donation?</h2>
-<p>If you are a  <span style="color:yellow;">Sponsor</span> and do not have Fans role, you can skip the 7-days sign-in and claim the role instantly</p>
-<h3> Step 1: Open a ticket</h3>
-<p>To do that, you need to go to #ticket-start channel (only visible when you already have Sponsor).</p>
+<h3> Adım 3:</h3>
+<p>Her şey doğru gittiyse ve kanıt geçerliyse <span style="color:yellow;">Sponsor</span> Rolünüzü alacaksınız.</p>
+<h2> (FANS OLMAYANLAR İÇİN) Bağıştan sonra Fans rolü nasıl talep edilir?</h2>
+<p><span style="color:yellow;">Sponsor</span> iseniz ve Taraftar rolünüz yoksa, 7 günlük oturum açma işlemini atlayabilir ve rolü anında talep edebilirsiniz</p>
+<h3> Adım 1: Bir bilet açın</h3>
+<p>Bunu yapmak için #ticket-start kanalına gitmeniz gerekir (yalnızca zaten Sponsorunuz olduğunda görünür).</p>
 <p><a href="https://postimg.cc/dLD6D8jC" target="_blank" rel="noopener noreferrer"><img src="https://i.postimg.cc/NfkzJDyd/openticket1.png" alt="" loading="lazy"></a></p>
-<p>Once you click on 'open', you will see a new channel under the ticket channel.</p>
+<p>'open'a tıkladığınızda, bilet kanalının altında yeni bir kanal göreceksiniz.</p>
 <p><a href="https://postimg.cc/sMhJ4s8D" target="_blank" rel="noopener noreferrer"><img src="https://i.postimg.cc/Vk7H1NWM/openticket2.png" alt="" loading="lazy"></a></p>
-<h3> Step 2: Answer short survey</h3>
-<p>Press the 'form link' button to answer the survey.</p>
+<h3> Adım 2: Kısa anketi yanıtlayın</h3>
+<p>Anketi yanıtlamak için 'form link' düğmesine basın.</p>
 <p><a href="https://postimg.cc/mzbN4Mrt" target="_blank" rel="noopener noreferrer"><img src="https://i.postimg.cc/qRKm8xVX/openticket4.png" alt="" loading="lazy"></a></p>
-<p>Once you are done with the survey, do not forget to press 'Submit' button.</p>
+<p>Anketi tamamladıktan sonra 'sumbit' düğmesine basmayı unutmayın.</p>
 <p><a href="https://postimg.cc/GBnxM6wP" target="_blank" rel="noopener noreferrer"><img src="https://i.postimg.cc/GpHgp1Xf/openticket5.png" alt="" loading="lazy"></a></p>
-<p>After that, just wait patiently for the staffs to check your survey. Once you get your Fans role, then you are good to go.</p>
+<p>Bundan sonra, moderatörün anketinizi kontrol etmesi için sabırla bekleyin. Fans rolünüzü aldıktan sonra, gitmeye hazırsınız demektir.</p>
 ]]></content:encoded>
       <enclosure url="https://korepi.com/assets/images/docs/202312/sponsor-new.png" type="image/png"/>
     </item>
     <item>
-      <title>Verification</title>
+      <title>Doğrulama</title>
       <link>https://korepi.com/tr/start/verify.html</link>
       <guid>https://korepi.com/tr/start/verify.html</guid>
-      <source url="https://korepi.com/tr/rss.xml">Verification</source>
-      <description>Introduction Welcome to our community! To pass the bot verification and obtain the &amp;quot;Newcomer&amp;quot; role, follow these steps. Step 1: Join our server if you haven&amp;apos;t already If you are...</description>
+      <source url="https://korepi.com/tr/rss.xml">Doğrulama</source>
+      <description>Giriş Topluluğumuza hoş geldiniz! Bot doğrulamasını geçmek ve &amp;quot;Newcomer&amp;quot; rolünü almak için aşağıdaki adımları izleyin. Adım 1: Henüz yapmadıysanız sunucumuza katılın Henüz sunuc...</description>
       <category>Guide</category>
       <pubDate>Tue, 19 Dec 2023 12:28:02 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Introduction</h2>
-<p>Welcome to our community! To pass the bot verification and obtain the "Newcomer" role, follow these steps.</p>
-<h3> Step 1: Join our server if you haven't already</h3>
-<p>If you are not on the server yet, please read the previous post, where it is described how to join the server.</p>
-<h3> Step 2: So, you are on the server</h3>
-<p>Now that you are on the server, choose the necessary channels and roles from the list, then go to the ★⋅rules⋅★ channel.</p>
-<h3> Step 3: ★⋅rules⋅★ channel</h3>
-<p>In the rules channel, familiarize yourself with the rules and undergo verification to confirm that you are not a bot. Find the "Verify" button, click on it, and the bot will send you a link that you need to follow and confirm that you are not a bot.</p>
-<h3> Step 4: After receiving the "Newcomer" role</h3>
-<p>After successful verification, the bot will assign you the "Newcomer" role. With this role, you will not be kicked by the bot without valid reasons. Now proceed to the next step.</p>
+      <content:encoded><![CDATA[<h2> Giriş</h2>
+<p>Topluluğumuza hoş geldiniz! Bot doğrulamasını geçmek ve "Newcomer" rolünü almak için aşağıdaki adımları izleyin.</p>
+<h3> Adım 1: Henüz yapmadıysanız sunucumuza katılın</h3>
+<p>Henüz sunucuda değilseniz, lütfen sunucuya nasıl katılacağınızın anlatıldığı bir önceki yazıyı okuyun.</p>
+<h3> Adım 2: Demek sunucudasınız</h3>
+<p>Artık sunucuda olduğunuza göre, listeden gerekli kanalları ve rolleri seçin, ardından ★⋅rules⋅★ kanalına gidin.</p>
+<h3> Adım 3: ★⋅rules⋅★ kanalı</h3>
+<p>Kurallar kanalındaki, kurallara aşina olun ve bir bot olmadığınızı doğrulamak için doğrulama işleminden geçin. "Verify" düğmesini bulun, üzerine tıklayın ve bot size takip etmeniz ve bot olmadığınızı onaylamanız gereken bir bağlantı gönderecektir.</p>
+<h3> Adım 4: "Newcomer" rolünü aldıktan sonra</h3>
+<p>Başarılı bir doğrulamadan sonra bot size "Newcomer" rolünü atayacaktır. Bu rolle, geçerli nedenler olmadan bot tarafından atılmayacaksınız. Şimdi bir sonraki adıma geçin.</p>
 ]]></content:encoded>
     </item>
     <item>
-      <title>Error 31-4302</title>
+      <title>Hata 31-4302</title>
       <link>https://korepi.com/tr/troubleshoot/31-4302.html</link>
       <guid>https://korepi.com/tr/troubleshoot/31-4302.html</guid>
-      <source url="https://korepi.com/tr/rss.xml">Error 31-4302</source>
-      <description>How to solve the error 31-4302 Method 1 If your game folder contains non-original files, this prompt might appear for you. Check that theres only original files like the next ex...</description>
+      <source url="https://korepi.com/tr/rss.xml">Hata 31-4302</source>
+      <description>31-4302 Hata nasıl çözülür? 1. Yöntem Oyun klasörünüz orijinal olmayan dosyalar içeriyorsa, bu istem sizin için görünebilir. Bir sonraki örnekte olduğu gibi sadece orijinal dosy...</description>
       <category>Guide</category>
       <pubDate>Tue, 19 Dec 2023 12:28:02 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> How to solve the error <code>31-4302</code></h2>
+      <content:encoded><![CDATA[<h2> <code>31-4302</code> Hata nasıl çözülür?</h2>
 <p><img src="/assets/images/docs/202312/31-4302.png" alt="" loading="lazy"></p>
-<h3> Method 1</h3>
-<p>If your game folder contains non-original files, this prompt might appear for you. Check that theres only original files like the next example:</p>
+<h3> 1. Yöntem</h3>
+<p>Oyun klasörünüz orijinal olmayan dosyalar içeriyorsa, bu istem sizin için görünebilir. Bir sonraki örnekte olduğu gibi sadece orijinal dosyaların olup olmadığını kontrol edin:</p>
 <p><img src="/assets/images/docs/202312/launcher.png" alt="" loading="lazy"></p>
 <p><img src="/assets/images/docs/202312/folder1.png" alt="" loading="lazy"></p>
-<p>If you keep getting the error in-game even after deleting the files continue reading.</p>
-<h3> Method 2</h3>
-<p>Go to your Korepi, go to <code>Settings --&gt; Other</code>.</p>
+<p>Dosyaları sildikten sonra bile oyun içinde hata almaya devam ediyorsanız okumaya devam edin.</p>
+<h3> 2. Yöntem</h3>
+<p>Korepi'nize gidin, <code>Ayarlar --&gt; Diğer</code> bölümüne gidin.</p>
 <p><img src="/assets/images/docs/202312/settings1.png" alt="" loading="lazy"></p>
-<p>Find <code>Bypass Intengrity</code> and uncheck it.</p>
+<p><code>Bypass Intengrity</code> seçeneğini bulun ve Tik işaretini kaldırın.</p>
 <p><img src="/assets/images/docs/202312/settings2.png" alt="" loading="lazy"></p>
-<p>Now the error should disapear.</p>
-<h2> What if i can't enter Korepi</h2>
-<p>Head to your Korepi folder and find <code>cfg.json</code>, and click <code>CTRL + F</code>, type <code>bypass</code> and search, set the value to <code>false</code> and open Korepi.</p>
-<h2> What if nothing works?</h2>
-<p>You have to reinstall the game.</p>
+<p>Şimdi hata ortadan kalkmalıdır.</p>
+<h2> Ya Korepi'ye giremezsem?</h2>
+<p>Korepi klasörünüze gidin ve <code>cfg.json</code> dosyasını bulun ve <code>CTRL + F</code> tuşlarına tıklayın, <code>bypass</code> yazın ve arayın, değeri <code>false</code> olarak ayarlayın ve Korepi'yi açın.</p>
+<h2> Ya hiçbiri işe yaramazsa?</h2>
+<p>Oyunu yeniden yüklemeniz gerekiyor.</p>
 ]]></content:encoded>
       <enclosure url="https://korepi.com/assets/images/docs/202312/31-4302.png" type="image/png"/>
     </item>
     <item>
-      <title>List of Errors</title>
+      <title>Hataların Listesi</title>
       <link>https://korepi.com/tr/troubleshoot/</link>
       <guid>https://korepi.com/tr/troubleshoot/</guid>
-      <source url="https://korepi.com/tr/rss.xml">List of Errors</source>
+      <source url="https://korepi.com/tr/rss.xml">Hataların Listesi</source>
       <category>Troubleshoot</category>
       <pubDate>Tue, 19 Dec 2023 12:28:02 GMT</pubDate>
     </item>
     <item>
-      <title>Common Injector Errors</title>
+      <title>Yaygın İnjektör Hataları</title>
       <link>https://korepi.com/tr/troubleshoot/faq-error.html</link>
       <guid>https://korepi.com/tr/troubleshoot/faq-error.html</guid>
-      <source url="https://korepi.com/tr/rss.xml">Common Injector Errors</source>
-      <description>List of common errors Why my korepi disappears? Make sure you got your anti-virus disabled, create a new folder and add it to exclusions. Extract korepi inside the excluded fold...</description>
+      <source url="https://korepi.com/tr/rss.xml">Yaygın İnjektör Hataları</source>
+      <description>Yaygın hataların listesi Korepi&amp;apos;m neden kayboluyor? Anti-virüsünüzü devre dışı bıraktığınızdan emin olun, yeni bir klasör oluşturun ve hariç tutulanlara ekleyin. Korepi&amp;apos;yi hariç...</description>
       <category>Troubleshoot</category>
       <pubDate>Tue, 19 Dec 2023 12:28:02 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> List of common errors</h2>
-<h3> Why my korepi disappears?</h3>
-<p>Make sure you got your anti-virus disabled, create a new folder and add it to exclusions.</p>
+      <content:encoded><![CDATA[<h2> Yaygın hataların listesi</h2>
+<h3> Korepi'm neden kayboluyor?</h3>
+<p>Anti-virüsünüzü devre dışı bıraktığınızdan emin olun, yeni bir klasör oluşturun ve hariç tutulanlara ekleyin.</p>
 <p><img src="/assets/images/docs/202312/virus.png" alt="" loading="lazy"></p>
-<p>Extract korepi inside the excluded folder and run again.</p>
+<p>Korepi'yi hariç tutulan klasörün içine çıkarın ve tekrar çalıştırın.</p>
 <hr>
-<h3> Status: No active subscription(s) found, Invalid license key</h3>
-<p>You need to <a href="/tr/guide/getkey.html" target="blank">get a new key</a> from <code>⁠★⋅micah-bot-verify⋅★</code>, if you can't get a key or if the key doesn't work, you have to wait till key expiration.</p>
-<p><code>Sponsors can use F:Reset Key instead</code></p>
-<h3> [DLL injection]  Process crashed, exit code 0xc000005</h3>
-<p>Open <code>cmd</code> as administrator and write the following command:</p>
+<h3> Durum: No active subscription(s) found, Geçersiz lisans anahtarı</h3>
+<p><a href="/tr/guide/getkey.html" target="blank">get a new key</a> Butonuna Tıklayarak Yeni Anahtar Alabilirsiniz <code>⁠★⋅micah-bot-verify⋅★</code>, Eğer Bir anahtar alamazsanız veya anahtar çalışmazsa, anahtarın süresi dolana kadar beklemeniz gerekir.</p>
+<p><code>F:Reset Key instead Sponsorlar kullanabilir</code></p>
+<h3> [DLL injection]  Process crashed Hatası, exit code 0xc000005</h3>
+<p><code>cmd</code> yi yönetici olarak açın ve aşağıdaki komutu yazın:</p>
 <p><code>sfc /scannow</code></p>
-<p>After that, if errors were found, restart the computer and check.
-If after restarting it did not help or no errors were found, write this command:</p>
+<p>Bundan sonra, hatalar bulunursa, bilgisayarı yeniden başlatın ve kontrol edin.
+Yeniden başlattıktan sonra yardımcı olmadıysa veya hiçbir hata bulunmadıysa, bu komutu yazın:</p>
 <p><code>DISM.exe /Online /Cleanup-Image /RestoreHealth</code></p>
-<p>After completing the checks, restart the computer and check.</p>
-<p>If it doesn't work, reinstall Windows.</p>
+<p>Kontrolleri tamamladıktan sonra bilgisayarı yeniden başlatın ve kontrol edin.</p>
+<p>Çalışmazsa, Windows'u yeniden yükleyin.</p>
 <hr>
-<h3> ImGUI: DirectX11 backend initialized successfully.</h3>
-<p>Error occurs because of themes installed, clear the <code>themes</code> folder.</p>
+<h3> ImGUI: DirectX11 backend başarıyla başlatıldı.</h3>
+<p>Yüklü temalar nedeniyle hata oluşuyor, <code>themes</code> klasörünü temizleyin.</p>
 <hr>
-<h3> The system did not detect MSVCP140.dll</h3>
-<p>Update <a href="https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170#visual-studio-2015-2017-2019-and-2022" target="_blank" rel="noopener noreferrer">Microsoft Visual Studio C++</a></p>
-<p>Update <a href="https://www.microsoft.com/en-us/download/details.aspx?id=35" target="_blank" rel="noopener noreferrer">DirectX</a></p>
+<h3> Sistem şunları tespit etmedi MSVCP140.dll</h3>
+<p>Güncelleyin <a href="https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170#visual-studio-2015-2017-2019-and-2022" target="_blank" rel="noopener noreferrer">Microsoft Visual Studio C++</a></p>
+<p>Güncelleyin <a href="https://www.microsoft.com/en-us/download/details.aspx?id=35" target="_blank" rel="noopener noreferrer">DirectX</a></p>
 <hr>
-<h3> File corrupted! This program has been manipulated and maybe it's infected.</h3>
+<h3> Dosya bozulmuş! Bu program manipüle edilmiş ve belki de virüs bulaşmıştır.</h3>
 <p><img src="/assets/images/docs/202312/virus2.png" alt="" loading="lazy"></p>
-<p>In this case, you can try using <code>Malware Bytes</code> or <code>Dr.Web</code> to do a full scan, if any virus is found, remove them, restart and try again. If it doesn't work, reinstall Windows is the easiest way to solve this issue.</p>
+<p>Bu durumda, tam bir tarama yapmak için <code>Malware Bytes</code> veya <code>Dr.Web</code> kullanmayı deneyebilirsiniz, herhangi bir virüs bulunursa, bunları kaldırın, yeniden başlatın ve tekrar deneyin. Eğer işe yaramazsa, Windows'u yeniden yüklemek bu sorunu çözmenin en kolay yoludur.</p>
 <hr>
-<h3> Timeout was reached</h3>
+<h3> Zaman aşımına uğradı</h3>
 <p><img src="/assets/images/docs/202312/error1.png" alt="" loading="lazy"></p>
-<p>Reboot your router.</p>
-<p>An antivirus may be blocking the connection, make sure that is not in the Task Manager.</p>
-<p>Use a VPN and try again.</p>
-<p>Turn off all applications that affect the firewall. If nothing works, then you might have some problems with the network.</p>
+<p>Modeminizi yeniden başlatın.</p>
+<p>Bir antivirüs bağlantısı engelliyor olabilir, bunun Görev Yöneticisi'nde olmadığından emin olun.</p>
+<p>Bir VPN kullanın ve tekrar deneyin.</p>
+<p>Güvenlik duvarını etkileyen tüm uygulamaları kapatın. Hiçbir şey işe yaramazsa, ağ ile ilgili bazı sorunlarınız olabilir.</p>
 <hr>
-<h3> DLL Injection failed</h3>
-<p>Uninstall colorpicker folder and download colorpicker again.</p>
+<h3> DLL Enjöktörü başarısız oldu</h3>
+<p>calculator klasörünü kaldırın ve calculator'u tekrar indirin.</p>
 <hr>
-<h3> Windows cannot access the specified device, path, or file</h3>
+<h3> Windows belirtilen aygıta, yola veya dosyaya erişemiyor</h3>
 <p><img src="/assets/images/docs/202312/error2.png" alt="" loading="lazy"></p>
-<p>At first go to <a href="https://support.microsoft.com/en-us/topic/-windows-cannot-access-the-specified-device-path-or-file-error-when-you-try-to-install-update-or-start-a-program-or-file-46361133-47ed-6967-c13e-e75d3cc29657" target="_blank" rel="noopener noreferrer">HERE</a> and follow the steps on that post.</p>
-<p>Also after going to the solutions on the post, download an antivirus like <code>Dr.Web</code> or <code>Malware bytes</code> and run a full system check!</p>
-<p>If it doesn't help open cmd as administrator and write <code>sfc /scannow</code></p>
-<p>After that, if errors were found, restart the computer and check.</p>
-<p>If after restarting it didn't help or no errors were found, write this command:</p>
+<p>İlk önce şu adrese gidin <a href="https://support.microsoft.com/en-us/topic/-windows-cannot-access-the-specified-device-path-or-file-error-when-you-try-to-install-update-or-start-a-program-or-file-46361133-47ed-6967-c13e-e75d3cc29657" target="_blank" rel="noopener noreferrer">BURAYA</a> ve o gönderideki adımları takip edin.</p>
+<p>Ayrıca, yazıdaki çözümlere gittikten sonra, <code>Dr.Web</code> veya <code>Malware bytes</code> gibi bir antivirüs indirin ve tam bir sistem kontrolü yapın!</p>
+<p>Eğer yardımcı olmazsa cmd'yi yönetici olarak açın ve <code>sfc /scannow</code> yazın</p>
+<p>Bundan sonra, hatalar bulunursa, bilgisayarı yeniden başlatın ve kontrol edin.</p>
+<p>Yeniden başlattıktan sonra yardımcı olmadıysa veya herhangi bir hata bulunmadıysa, bu komutu yazın:</p>
 <p><code>DISM.exe /Online /Cleanup-Image /RestoreHealth</code></p>
-<p>After completing the checks, restart the computer and check again.</p>
-<p>If it doesn't work, reinstall Windows.</p>
+<p>Kontrolleri tamamladıktan sonra bilgisayarı yeniden başlatın ve tekrar kontrol edin.</p>
+<p>Çalışmazsa, Windows'u yeniden yükleyin.</p>
 <hr>
-<h3> Signature checksum failed</h3>
+<h3> İmza sağlaması başarısız oldu</h3>
 <p><img src="/assets/images/docs/202312/checksum.png" alt="" loading="lazy"></p>
-<p>Servers are down or shut down, wait for servers to come back online.</p>
+<p>Sunucular çöktü veya kapatıldı, sunucuların tekrar çevrimiçi olmasını bekleyin.</p>
 <hr>
-<h3> Failed to create game process with Error 5</h3>
+<h3> Error 5 ile oyun süreci oluşturulamadı</h3>
 <p><img src="/assets/images/docs/202312/error3.png" alt="" loading="lazy"></p>
-<p>Delete <code>cfg.ini</code>.</p>
+<p>Kaldırın <code>cfg.ini</code>.</p>
 <hr>
-<h3> SSL connect error</h3>
+<h3> SSL bağlantı hatası</h3>
 <p><img src="/assets/images/docs/202312/error4.png" alt="" loading="lazy"></p>
-<p>Restart your PC, restart your router.</p>
-<p>Try using a VPN if it doesn't work.</p>
+<p>Bilgisayarınızı yeniden başlatın, yöneticinizi yeniden başlatın.</p>
+<p>Çalışmazsa VPN kullanmayı deneyin.</p>
 <hr>
-<h3> Failed to detect game version</h3>
-<p>Update your injector, follow the steps <a href="/tr/start/download.html" target="blank">here</a></p>
+<h3> Oyun sürümü algılanamadı</h3>
+<p>Enjektörünüzü güncelleyin, aşağıdaki adımları izleyin <a href="/tr/start/download.html" target="blank">BURA</a></p>
 <hr>
-<h3> File ok</h3>
-<p>Delete your cfg.json, something might be wrong with the file.</p>
+<h3> Dosya tamam</h3>
+<p>cfg.json dosyanızı silin, dosyada bir sorun olabilir.</p>
 <hr>
 <h3> UserAssembly.dll isn't initialized, waiting for 2 sec.</h3>
-<p>If your injector crashes after this line try the following steps:</p>
-<p>Turn off all anti-viruses in PC.</p>
-<p>If its doesn't help use <code>sfc /scannow</code> command in cmd as administrator.</p>
-<p>If errors are found after checking and Windows is unable to resolve them, use the <code>DISM.exe /Online /Cleanup-Image /RestoreHealth</code> command.</p>
-<p>After checking restart your computer and try to run colorpicker again.</p>
-<p>If the error repeats you can make factory reset of Windows.</p>
+<p>Bu satırdan sonra enjektörünüz çökerse aşağıdaki adımları deneyin:</p>
+<p>PC'deki tüm anti-virüsleri kapatın.</p>
+<p>Eğer yardımcı olmazsa cmd'de yönetici olarak <code>sfc /scannow</code> komutunu kullanın.</p>
+<p>Kontrolden sonra hatalar bulunursa ve Windows bunları çözemezse, <code>DISM.exe /Online /Cleanup-Image /RestoreHealth</code> komutunu kullanın.</p>
+<p>Kontrol ettikten sonra bilgisayarınızı yeniden başlatın ve calculator'u tekrar çalıştırmayı deneyin.</p>
+<p>Hata tekrar ederse Windows'u fabrika ayarlarına sıfırlayabilirsiniz.</p>
 <h3> Current data does not exist or server error.</h3>
 <p><img src="/assets/images/docs/202312/error.png" alt="" loading="lazy"></p>
 <p>Unpause your license and try again.</p>
@@ -667,82 +660,82 @@ If after restarting it did not help or no errors were found, write this command:
       <enclosure url="https://korepi.com/assets/images/docs/202312/virus.png" type="image/png"/>
     </item>
     <item>
-      <title>Attack Effects</title>
+      <title>Saldırı Etkileri</title>
       <link>https://korepi.com/tr/features/Player/attack-effects.html</link>
       <guid>https://korepi.com/tr/features/Player/attack-effects.html</guid>
-      <source url="https://korepi.com/tr/rss.xml">Attack Effects</source>
-      <description>Attack Effects: Modifications for your attacks Multi-Hit Mode: One Punch Mode: Tries to kill the target with 1 hit.; Note: Not recommended to use. Modifies the number of attacks...</description>
-      <category>Features</category>
+      <source url="https://korepi.com/tr/rss.xml">Saldırı Etkileri</source>
+      <description>Saldırı Etkileri: Saldırılarınız için modifikasyonlar Çoklu-Vuruş modu: Tek vuruş modu: Tek bir vuruş işe öldürmeyi dener.; Not: Kullanımı tercih edilmez. Riskli. Saldırılan hed...</description>
+      <category>Özellikler</category>
       <pubDate>Tue, 19 Dec 2023 12:28:02 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Attack Effects: Modifications for your attacks</h2>
-<h3> Multi-Hit Mode:</h3>
+      <content:encoded><![CDATA[<h2> Saldırı Etkileri: Saldırılarınız için modifikasyonlar</h2>
+<h3> Çoklu-Vuruş modu:</h3>
 <ul>
-<li>One Punch Mode: Tries to kill the target with 1 hit.</li>
+<li>Tek vuruş modu: Tek bir vuruş işe öldürmeyi dener.</li>
 </ul>
 <blockquote>
-<p>Note: Not recommended to use.</p>
+<p>Not: Kullanımı tercih edilmez. Riskli.</p>
 </blockquote>
 <ul>
-<li>Modifies the number of attacks received by the target.</li>
+<li>Saldırılan hedefe yapılan saldırı sayısını çoğaltır.</li>
 </ul>
 <blockquote>
-<p>Note: Not recommended to go above <code>5</code>.</p>
+<p>Not: <code>5</code> üzerine çıkmak risklidir.</p>
 </blockquote>
-<h3> Multi-Target:</h3>
+<h3> Çoklu Hedef:</h3>
 <ul>
-<li>Hit all the targets within the selected radius from the target hit.</li>
+<li>Belirtilen alan içindeki tüm hedeflere vurabilme.</li>
 </ul>
 <blockquote>
-<p>Note: Not recommended to change default settings.</p>
+<p>Not: Orijinal ayarlardan başka değişim yapmak risklidir.</p>
 </blockquote>
-<h3> Multi-Animation:</h3>
+<h3> Çoklu Animasyon:</h3>
 <ul>
-<li>Modifies the number of times the character does an action.</li>
+<li>Karakterin hareket sayısını arttırıyor</li>
 </ul>
 <blockquote>
-<p>Note: Not recommended to use.</p>
+<p>Note: Kullanılması tavsiye edilmez, karakter sesini spamlatabilir.</p>
 </blockquote>
-<h3> Attack Speed:</h3>
+<h3> Saldırı Hızı:</h3>
 <ul>
-<li>Modifies the speed of the normal attacks from the player.</li>
+<li>Saldırı hızını değiştirir.</li>
 </ul>
 <blockquote>
-<p>Note: Not recommended to use above <code>1.5</code>.</p>
+<p>Note: Hız çarpanında <code>1.5</code> in üstüne çıkmak risklidir.</p>
 </blockquote>
-<h3> Custom Element:</h3>
+<h3> Özel Element:</h3>
 <ul>
-<li>Modifies the element of all outgoing attacks.</li>
+<li>Saldırıların element tipini değiştirir</li>
 </ul>
-<h3> Infuse Element:</h3>
+<h3> Saldırı elementi:</h3>
 <ul>
-<li>Modifies the element of normal attacks from sword, polearms and claymore.</li>
+<li>Normal(M1) den yapılan atağa seçilen element türünü ekler.</li>
 </ul>
-<h3> Auto Weakspot:</h3>
+<h3> Oto zayıf nokta:</h3>
 <ul>
-<li>Hits target weakspot therefore criting, only works with bow users.</li>
+<li>Menzilli karakterlerde otomatik zayıf noktalara vurmayı sağlar.</li>
 </ul>
-<h3> Critical Hit (<span style="color:yellow;">Sponsor</span>):</h3>
+<h3> Kritik Vuruş (<span style="color:yellow;">Sponsor</span>):</h3>
 <ul>
-<li>Changes the probability of critical hits.</li>
+<li>Kritikal hasar olasılığını değiştirir</li>
 </ul>
-<h3> Nullify Incoming Element:</h3>
+<h3> Gelen Elementi Etkisiz Bırak:</h3>
 <ul>
-<li>Will nullify any incoming element converting it to physical damage instead.</li>
+<li>Alınan bütün elementsel tepkimeleri normal hasara çevirir.</li>
 </ul>
-<h2> Example Video:</h2>
+<h2> Örnek Video:</h2>
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/1BdKwxBjWyg?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Attack Effects" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 ]]></content:encoded>
     </item>
     <item>
-      <title>Auto Run</title>
+      <title>Otomatik Koşu</title>
       <link>https://korepi.com/tr/features/Player/auto-run.html</link>
       <guid>https://korepi.com/tr/features/Player/auto-run.html</guid>
-      <source url="https://korepi.com/tr/rss.xml">Auto Run</source>
-      <description>Auto Run will move the player to the direction the player is facing automatically. Example Video:</description>
-      <category>Features</category>
+      <source url="https://korepi.com/tr/rss.xml">Otomatik Koşu</source>
+      <description>Otomatik Koşu, kameranın baktığı direksiyona doğru karakteri hareket ettirir. Örnek Video:</description>
+      <category>Özellikler</category>
       <pubDate>Tue, 19 Dec 2023 12:28:02 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Auto Run will move the player to the direction the player is facing automatically.</h2>
-<h2> Example Video:</h2>
+      <content:encoded><![CDATA[<h2> Otomatik Koşu, kameranın baktığı direksiyona doğru karakteri hareket ettirir.</h2>
+<h2> Örnek Video:</h2>
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/BLDhPBMs7Es?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Run" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 ]]></content:encoded>
     </item>
@@ -751,176 +744,174 @@ If after restarting it did not help or no errors were found, write this command:
       <link>https://korepi.com/tr/features/Player/bunny-hop.html</link>
       <guid>https://korepi.com/tr/features/Player/bunny-hop.html</guid>
       <source url="https://korepi.com/tr/rss.xml">Bunny Hop</source>
-      <description>Sponsor Only Bunny Hop will jump automatically after first jump when enabled. Example Video:</description>
-      <category>Features</category>
+      <description>Sponsor&amp;apos;a özel Bunny Hop bir kere zıpladıktan sonra otomatikmen zıplamaya başlatır. Example Video:</description>
+      <category>Özellikler</category>
       <pubDate>Tue, 19 Dec 2023 12:28:02 GMT</pubDate>
       <content:encoded><![CDATA[<div class="hint-container info">
-<p class="hint-container-title">Sponsor Only</p>
+<p class="hint-container-title">Sponsor'a özel</p>
 </div>
 <hr>
-<h2> Bunny Hop will jump automatically after first jump when enabled.</h2>
+<h2> Bunny Hop bir kere zıpladıktan sonra otomatikmen zıplamaya başlatır.</h2>
 <h2> Example Video:</h2>
 <div class="iframe-container"><iframe width="640" height="369" src="https://www.youtube.com/embed/Gh2GX23E6dw?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Bunnyhop (Sponsor)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 ]]></content:encoded>
     </item>
     <item>
-      <title>Cooldown Effects</title>
+      <title>Bekleme Süreleri Etkileri</title>
       <link>https://korepi.com/tr/features/Player/cooldown-effects.html</link>
       <guid>https://korepi.com/tr/features/Player/cooldown-effects.html</guid>
-      <source url="https://korepi.com/tr/rss.xml">Cooldown Effects</source>
-      <description>Cooldown Effects: Modifies the cooldown time of various actions. Max Burst Energy: Removes the requirement needed to use elemental bursts.; Note: Energy bubble may appear incomp...</description>
-      <category>Features</category>
+      <source url="https://korepi.com/tr/rss.xml">Bekleme Süreleri Etkileri</source>
+      <description>Bekleme Süresi etkileri: Bazı aksiyonların bekleme süresini değiştirir. Maks Elementsel Patlama Enerjisi: Elementsel Patlamada enerji gereksinimi kaldırır.; Not: Enerji Baloncuğ...</description>
+      <category>Özellikler</category>
       <pubDate>Tue, 19 Dec 2023 12:28:02 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Cooldown Effects: Modifies the cooldown time of various actions.</h2>
-<h3> Max Burst Energy:</h3>
+      <content:encoded><![CDATA[<h2> Bekleme Süresi etkileri: Bazı aksiyonların bekleme süresini değiştirir.</h2>
+<h3> Maks Elementsel Patlama Enerjisi:</h3>
 <ul>
-<li>Removes the requirement needed to use elemental bursts.</li>
+<li>Elementsel Patlamada enerji gereksinimi kaldırır.</li>
 </ul>
 <blockquote>
-<p>Note: Energy bubble may appear incomplete but will be still usable.</p>
+<p>Not: Enerji Baloncuğunu hala dolu gözükmeyebilir ama hala kullanabilirsiniz.</p>
 </blockquote>
-<h3> No Avatar Skill Cooldown: Removes the cooldown for character skill and burst.</h3>
+<h3> Karakter Beceri Kullanma Süresi Yok:</h3>
 <ul>
-<li>Reduce Skill/Burst Cooldown: When activated instead of removing the cooldown, it will be set to the selected values if the cooldown is higher than the value selected.</li>
+<li>Becerinin süresini azaltma: Süreyi direk kaldırmak yerine gecikme ekler.</li>
 </ul>
 <blockquote>
-<p>Note: You can use any value for CD, but don't spam it too hard. <code>ex. 40 times in 1m</code></p>
+<p>Not: Gecikme süresi için herhangi değeri kullanabilirsiniz ama kısa bir sürede fazla spamlamayın. <code>ex. 1 dakikada 40 kez</code></p>
 </blockquote>
-<h3> No Sprint Cooldown:</h3>
+<h3> Sprint Bekleme Süresi Yok:</h3>
 <ul>
-<li>Removes the delay between sprints.</li>
+<li>Süratlı ileri fırlama arasındaki bekleme süresini kaldırır</li>
 </ul>
-<h3> Instant Charged Attack:</h3>
+<h3> Ani Yüklü Hasar:</h3>
 <ul>
-<li>Bow: Removes the charge time for bow users.</li>
-<li>Other: Removes the charge time for other weapon users.</li>
+<li>Yay: Yayı aniden şarj eder.</li>
+<li>Başka: Başka silahları aniden şarj eder.</li>
 </ul>
-<h3> No Vehicle Skill Cooldown:</h3>
+<h3> Araç Beceri Süresi Yok:</h3>
 <ul>
-<li>Removes the cooldown for the boat skills.</li>
+<li>Bot becerisi süresini kaldırır</li>
 </ul>
-<h2> Example Video:</h2>
+<h2> Örnek Video:</h2>
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/qv5ykSL3Ojw?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Cooldown Effects" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 ]]></content:encoded>
     </item>
     <item>
-      <title>Extra Movements</title>
+      <title>Ekstra Hareketler</title>
       <link>https://korepi.com/tr/features/Player/extra-movements.html</link>
       <guid>https://korepi.com/tr/features/Player/extra-movements.html</guid>
-      <source url="https://korepi.com/tr/rss.xml">Extra Movements</source>
-      <description>Sponsor Only Extra Movements: Modifies/Enhances certain actions for the player. Run On Water: Enables the ability to walk on water.; Run Boost: Enhances the speed when the playe...</description>
+      <source url="https://korepi.com/tr/rss.xml">Ekstra Hareketler</source>
+      <description>Yalnızca Sponsorlar Ekstra Hareketler: Oyuncu için belirli hareketleri değiştirir/geliştirir. Suyun Üzerinde Yürüme: Suyun üzerinde yürümeyi sağlar.; Koşu Desteği: Oyuncu koşark...</description>
       <category>Features</category>
       <pubDate>Tue, 19 Dec 2023 12:28:02 GMT</pubDate>
-      <content:encoded><![CDATA[<div class="hint-container info">
-<p class="hint-container-title">Sponsor Only</p>
-</div>
-<hr>
-<h2> Extra Movements: Modifies/Enhances certain actions for the player.</h2>
-<h3> Run On Water:</h3>
+      <content:encoded><![CDATA[<h2> ::: Bilgilendirme: Yalnızca Sponsorlar
+:::</h2>
+<h2> Ekstra Hareketler: Oyuncu için belirli hareketleri değiştirir/geliştirir.</h2>
+<h3> Suyun Üzerinde Yürüme:</h3>
 <ul>
-<li>Enables the ability to walk on water.</li>
+<li>Suyun üzerinde yürümeyi sağlar.</li>
 </ul>
-<h3> Run Boost:</h3>
+<h3> Koşu Desteği:</h3>
 <ul>
-<li>Enhances the speed when the player is running.</li>
+<li>Oyuncu koşarken hızını artırır.</li>
 </ul>
 <blockquote>
-<p>Note: Not recommended to change default values.</p>
+<p>Not: Varsayılan değerlerin değiştirilmesi önerilmez.</p>
 </blockquote>
-<h3> Jump Boost:</h3>
+<h3> Zıplama Desteği:</h3>
 <ul>
-<li>Enhances the height of the jump for the player.
+<li>Oyuncu için zıplamanın yüksekliğini artırır.
 <ul>
-<li>Apply Mid Air: Enable jumping while not on the ground.</li>
+<li>Havanın Ortasında Uygula: Yerde değilken zıplamayı etkinleştirin.</li>
 </ul>
 </li>
 </ul>
 <blockquote>
-<p>Note: Not recommended to change default values.</p>
+<p>Not: Varsayılan değerlerin değiştirilmesi önerilmez.</p>
 </blockquote>
-<h3> Fly Boost:</h3>
+<h3> Uçma Desteği:</h3>
 <ul>
-<li>Enhances the speed when the player is gliding.</li>
+<li>Oyuncu süzülürken hızını artırır.</li>
 </ul>
 <blockquote>
-<p>Note: Not recommended to change default values.</p>
+<p>Not: Varsayılan değerlerin değiştirilmesi önerilmez.</p>
 </blockquote>
-<h3> Swim Boost:</h3>
+<h3> Yüzme Desteği:</h3>
 <ul>
-<li>Enhances the speed when the player is swimming.</li>
+<li>Oyuncu yüzerken hızını artırır.</li>
 </ul>
 <blockquote>
-<p>Note: Not recommended to change default values.</p>
+<p>Not: Varsayılan değerlerin değiştirilmesi önerilmez.</p>
 </blockquote>
-<h3> Dive Boost:</h3>
+<h3> Dalış Desteği:</h3>
 <ul>
-<li>Enhances the speed when the player is diving.</li>
+<li>Oyuncu dalış yaparken hızını artırır.</li>
 </ul>
 <blockquote>
-<p>Note: Not recommended to change default values.</p>
+<p>Not: Varsayılan değerlerin değiştirilmesi önerilmez.</p>
 </blockquote>
-<h3> Blink:</h3>
+<h3> Göz kırpma:</h3>
 <ul>
-<li>Allows the player to move certain distance after pressing a hotkey.</li>
+<li>Oyuncunun bir kısayol tuşuna bastıktan sonra belirli bir mesafeyi hareket ettirmesini sağlar.</li>
 </ul>
-<h2> Example Video:</h2>
+<h2> Örnek Video:</h2>
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/wMd9icqhFQg?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Extra Movement (Sponsor)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 ]]></content:encoded>
     </item>
     <item>
-      <title>Fall Control</title>
+      <title>Düşme Kontrolü</title>
       <link>https://korepi.com/tr/features/Player/fall-control.html</link>
       <guid>https://korepi.com/tr/features/Player/fall-control.html</guid>
-      <source url="https://korepi.com/tr/rss.xml">Fall Control</source>
-      <description>Fall Control allows you to move with the selected speed while falling. Example Video:</description>
+      <source url="https://korepi.com/tr/rss.xml">Düşme Kontrolü</source>
+      <description>Düşme Kontrolü, düşerken seçilen hızla hareket etmenizi sağlar. Örnek Video:</description>
       <category>Features</category>
       <pubDate>Tue, 19 Dec 2023 12:28:02 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Fall Control allows you to move with the selected speed while falling.</h2>
-<h2> Example Video:</h2>
+      <content:encoded><![CDATA[<h2> Düşme Kontrolü, düşerken seçilen hızla hareket etmenizi sağlar.</h2>
+<h2> Örnek Video:</h2>
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/BHiabtwSSNc?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Fall Control" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 ]]></content:encoded>
     </item>
     <item>
-      <title>God Mode</title>
+      <title>Tanrı Modu</title>
       <link>https://korepi.com/tr/features/Player/god-mode.html</link>
       <guid>https://korepi.com/tr/features/Player/god-mode.html</guid>
-      <source url="https://korepi.com/tr/rss.xml">God Mode</source>
-      <description>God Mode will disable all incoming damage. Undead: When enabled, god mode only will turn on if damage is lethal.; Conditional: When enabled, god mode only will turn on if the ch...</description>
+      <source url="https://korepi.com/tr/rss.xml">Tanrı Modu</source>
+      <description>Tanrı Modu gelen tüm hasarları devre dışı bırakır. Ölümsüzlük: Etkinleştirildiğinde, tanrı modu yalnızca hasar ölümcül olduğunda açılır.; Koşullu olarak: Etkinleştirildiğinde, t...</description>
       <category>Features</category>
       <pubDate>Tue, 19 Dec 2023 12:28:02 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> God Mode will disable all incoming damage.</h2>
-<h3> Undead:</h3>
+      <content:encoded><![CDATA[<h2> Tanrı Modu gelen tüm hasarları devre dışı bırakır.</h2>
+<h3> Ölümsüzlük:</h3>
 <ul>
-<li>When enabled, god mode only will turn on if damage is lethal.</li>
+<li>Etkinleştirildiğinde, tanrı modu yalnızca hasar ölümcül olduğunda açılır.</li>
 </ul>
-<h3> Conditional:</h3>
+<h3> Koşullu olarak:</h3>
 <ul>
-<li>When enabled, god mode only will turn on if the character hp falls below the specified value.</li>
+<li>Etkinleştirildiğinde, tanrı modu yalnızca Sağlık belirtilen değerin altına düştüğünde açılır.</li>
 </ul>
 <blockquote>
-<p>Note: Recommended to use conditional for abyss.</p>
+<p>Not: Abyss için koşullu kullanılması önerilir.</p>
 </blockquote>
-<h2> Example Video:</h2>
+<h2> Örnek Video:</h2>
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/42utUUYNHRE?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - God Mode" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 ]]></content:encoded>
     </item>
     <item>
-      <title>Infinite Stamina</title>
+      <title>Sonsuz Dayanıklılık</title>
       <link>https://korepi.com/tr/features/Player/infinite-stamina.html</link>
       <guid>https://korepi.com/tr/features/Player/infinite-stamina.html</guid>
-      <source url="https://korepi.com/tr/rss.xml">Infinite Stamina</source>
-      <description>Infinite Stamina disables the stamina consumption for all actions. Move Sync Packet Replacement: When this is enabled and Infinite Stamina is disabled, will prevent sending stam...</description>
+      <source url="https://korepi.com/tr/rss.xml">Sonsuz Dayanıklılık</source>
+      <description>Sonsuz Dayanıklılık tüm eylemler için dayanıklılık tüketimini devre dışı bırakır. Senkronizasyon Paketini Değiştirin: Bu etkinleştirildiğinde ve Sonsuz Dayanıklılık devre dışı b...</description>
       <category>Features</category>
       <pubDate>Tue, 19 Dec 2023 12:28:02 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Infinite Stamina disables the stamina consumption for all actions.</h2>
-<h3> Move Sync Packet Replacement:</h3>
+      <content:encoded><![CDATA[<h2> Sonsuz Dayanıklılık tüm eylemler için dayanıklılık tüketimini devre dışı bırakır.</h2>
+<h3> Senkronizasyon Paketini Değiştirin:</h3>
 <ul>
-<li>When this is enabled and Infinite Stamina is disabled, will prevent sending stamina consuming action packets to server like running, climbing, swimming, etc.</li>
+<li>Bu etkinleştirildiğinde ve Sonsuz Dayanıklılık devre dışı bırakıldığında, sunucuya koşma, tırmanma, yüzme vb. gibi dayanıklılık tüketen eylem paketlerinin gönderilmesini önleyecektir.</li>
 </ul>
 <blockquote>
-<p>Note: Recommended to use Move Sync Packet Replacement.</p>
+<p>Not: Yürürken "Senkronizasyon Paketini Değiştirin" kullanılması önerilir.</p>
 </blockquote>
-<h2> Example Video:</h2>
+<h2> Örnek Video:</h2>
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/NZhfaMOLuY0?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Infinite Stamina" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 ]]></content:encoded>
     </item>
@@ -929,237 +920,235 @@ If after restarting it did not help or no errors were found, write this command:
       <link>https://korepi.com/tr/features/Player/no-clip.html</link>
       <guid>https://korepi.com/tr/features/Player/no-clip.html</guid>
       <source url="https://korepi.com/tr/rss.xml">No Clip</source>
-      <description>No Clip will allow you to have no collision, move faster and fly. No Animation: When enabled it will disable animations of the character while using no clip.; Camera-relative mo...</description>
+      <description>No Clip çarpışma yaşamamanızı, daha hızlı hareket etmenizi ve uçmanızı sağlar. Animasyon Yok: No Clip Etkinleştirildiğinde, kullanırken karakterin animasyonlarını devre dışı bır...</description>
       <category>Features</category>
       <pubDate>Tue, 19 Dec 2023 12:28:02 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> No Clip will allow you to have no collision, move faster and fly.</h2>
-<h3> No Animation:</h3>
+      <content:encoded><![CDATA[<h2> No Clip çarpışma yaşamamanızı, daha hızlı hareket etmenizi ve uçmanızı sağlar.</h2>
+<h3> Animasyon Yok:</h3>
 <ul>
-<li>When enabled it will disable animations of the character while using no clip.</li>
+<li>No Clip Etkinleştirildiğinde, kullanırken karakterin animasyonlarını devre dışı bırakır.</li>
 </ul>
-<h3> Camera-relative movement:</h3>
+<h3> Kameraya bağlı hareket:</h3>
 <ul>
-<li>When enabled, character will move based on camera view instead of where the character is facing.</li>
+<li>Etkinleştirildiğinde karakter, karakterin baktığı yer yerine kamera görünümüne göre hareket eder.</li>
 </ul>
-<h3> Alternate No-Clip:</h3>
+<h3> Alternatif No-Clip:</h3>
 <ul>
-<li>When enabled, no clip speed will change after pressing the selected hotkey at the designed speed.</li>
+<li>Etkinleştirildiğinde, seçilen kısayol tuşuna tasarlanan hızda basıldıktan sonra No Clip hızı değişmez.</li>
 </ul>
-<h3> Use Custom Keys:</h3>
+<h3> Özel Anahtarla Kullanma:</h3>
 <ul>
-<li>Enables the option to change no-clip directional controls.</li>
+<li>No Clip kontrollerini değiştirme seçeneğini etkinleştirir.</li>
 </ul>
 <h3> DragBack Bypass:</h3>
 <ul>
-<li>Prevents the server to drag the character back due to excessive speed.</li>
+<li>Sunucunun aşırı hız nedeniyle karakteri geri sürüklemesini önler.</li>
 </ul>
 <blockquote>
-<p>Note: Not recommended to use above <code>20</code>.</p>
+<p>Not: <code>20</code>nin üzerinde kullanılması önerilmez.</p>
 </blockquote>
-<h2> Example Video:</h2>
+<h2> Örnek Video:</h2>
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/nPdq-yzBt3k?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - NoClip" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 ]]></content:encoded>
     </item>
     <item>
-      <title>Player Speed</title>
+      <title>Oyuncu Hızı</title>
       <link>https://korepi.com/tr/features/Player/player-speed.html</link>
       <guid>https://korepi.com/tr/features/Player/player-speed.html</guid>
-      <source url="https://korepi.com/tr/rss.xml">Player Speed</source>
-      <description>Player Speed modifies player speed. Real. No Fake. Note: Recommended to use below 1.5. Note 2: Extra Movements (extra-movements.md) is recommended since its better synced with t...</description>
+      <source url="https://korepi.com/tr/rss.xml">Oyuncu Hızı</source>
+      <description>Oyuncu Hızı oyuncu hızını değiştirir. Gerçek. Sahte değil. Not: 1,5un altında kullanılması önerilir. Not 2: Ekstra Hareketler (extra-movements.md) sunucu ile daha iyi senkronize...</description>
       <category>Features</category>
       <pubDate>Tue, 19 Dec 2023 12:28:02 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Player Speed modifies player speed. Real. No Fake.</h2>
+      <content:encoded><![CDATA[<h2> Oyuncu Hızı oyuncu hızını değiştirir. Gerçek. Sahte değil.</h2>
 <blockquote>
-<p>Note: Recommended to use below <code>1.5</code>.
-Note 2: <a href="/tr/features/Player/extra-movements.html" target="blank">Extra Movements</a> is recommended since its better synced with the server (safer)(Sponsor)</p>
+<p>Not: <code>1,5</code>un altında kullanılması önerilir.
+Not 2: <a href="/tr/features/Player/extra-movements.html" target="blank">Ekstra Hareketler</a> sunucu ile daha iyi senkronize edildiği için önerilir (daha güvenli) (Sponsor)</p>
 </blockquote>
-<h2> Example Video:</h2>
+<h2> Örnek Video:</h2>
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/HCxmOUMFRs8?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Player Speed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 ]]></content:encoded>
     </item>
     <item>
-      <title>Remote Utility</title>
+      <title>Uzak Yardımcı Programı</title>
       <link>https://korepi.com/tr/features/Player/remote-utility.html</link>
       <guid>https://korepi.com/tr/features/Player/remote-utility.html</guid>
-      <source url="https://korepi.com/tr/rss.xml">Remote Utility</source>
-      <description>Sponsor Only Remote Utility: Claim Daily Commission Reward: Claims daily commission reward when all 4 comissions are completed.; Custom Talk: Starts a conversation using the con...</description>
+      <source url="https://korepi.com/tr/rss.xml">Uzak Yardımcı Programı</source>
+      <description>Sadece Sponsor Uzak Yardımcı Programı: Günlük Görev Ödüllerini Talep Edin: Tüm 4 görev tamamlandığında günlük görev ödülünü talep eder.; Özel Konuşma: Konuşma kimliğini kullanar...</description>
       <category>Features</category>
       <pubDate>Tue, 19 Dec 2023 12:28:02 GMT</pubDate>
-      <content:encoded><![CDATA[<div class="hint-container info">
-<p class="hint-container-title">Sponsor Only</p>
-</div>
-<hr>
-<h2> Remote Utility:</h2>
-<h3> Claim Daily Commission Reward:</h3>
+      <content:encoded><![CDATA[<h2> ::: Bilgilendirme Sadece Sponsor
+:::</h2>
+<h2> Uzak Yardımcı Programı:</h2>
+<h3> Günlük Görev Ödüllerini Talep Edin:</h3>
 <ul>
-<li>Claims daily commission reward when all 4 comissions are completed.</li>
+<li>Tüm 4 görev tamamlandığında günlük görev ödülünü talep eder.</li>
 </ul>
-<h3> Custom Talk:</h3>
+<h3> Özel Konuşma:</h3>
 <ul>
-<li>Starts a conversation using the conversation ID, some conversations might not work.</li>
+<li>Konuşma kimliğini kullanarak bir konuşma başlatır, bazı konuşmalarda çalışmayabilir.</li>
 </ul>
 <blockquote>
-<p>Note: This feature is dangerous.
-Note: To get the conversation ID, enable <code>Debug Talk</code>, ID will be displayed in <code>cmd</code>.</p>
+<p>Not: Bu özellik tehlikelidir.
+Not: Görüşme kimliğini almak için <code>Debug Talk</code> özelliğini etkinleştirin, kimlik <code>cmd</code> içinde görüntülenecektir.</p>
 </blockquote>
 <h3> Spawn Gadget:</h3>
 <ul>
-<li>Spawns the selected gadget by ID, some of them might not work.</li>
+<li>Seçilen gadget'ı ID'ye göre doğurur, bazıları çalışmayabilir.</li>
 </ul>
 <blockquote>
-<p>Note: This feature is dangerous.
-Note 2: You can find the gadget IDs <a href="https://github.com/jie65535/GrasscutterCommandGenerator/blob/main/Source/GrasscutterTools/Resources/en-us/Gadget.txt" target="_blank" rel="noopener noreferrer">here</a></p>
+<p>Not: Bu özellik tehlikelidir.
+Not 2: Gadget ID'lerini <a href="https://github.com/jie65535/GrasscutterCommandGenerator/blob/main/Source/GrasscutterTools/Resources/en-us/Gadget.txt" target="_blank" rel="noopener noreferrer">Buradan</a> bulabilirsiniz.</p>
 </blockquote>
-<h3> Crafting:</h3>
+<h3> Üretim:</h3>
 <ul>
-<li>Condensed Resin: Crafts a condensed resin if you got the resin and the items.</li>
-<li>Spawn Alchemy Table: Spawns an Alchemy Table.</li>
-<li>Spawn Forging Table: Spawns a Forging Table.</li>
-<li>Custom Combine: Will try to combine the selected item using the current character.
+<li>Yoğunlaştırılmış Reçine: Reçine ve eşyalarınız varsa yoğunlaştırılmış reçine üretir.</li>
+<li>Simya Masası Doğurur: Bir Simya Masası doğurur.</li>
+<li>Dövme Masasını Doğurur: Bir Dövme Masası ortaya çıkarır.</li>
+<li>Özel Birleştirme: Mevcut karakteri kullanarak seçili öğeyi birleştirmeye çalışır.
 <blockquote>
-<p>Note: If successful, there will be no prompt. Please check inventory.
-Note 2: You can find the combine IDs <a href="https://github.com/jie65535/GrasscutterCommandGenerator/blob/main/Source/GrasscutterTools/Resources/en-us/Item.txt" target="_blank" rel="noopener noreferrer">here</a></p>
-</blockquote>
-</li>
-</ul>
-<h3> Summon NPC:</h3>
-<ul>
-<li>Summons the selected NPC by ID.</li>
-</ul>
-<blockquote>
-<p>Note: Katheryne, Wagner and Prince already included.</p>
-</blockquote>
-<h3> Summon Monster:</h3>
-<ul>
-<li>Summons the selected monster with the selected parameters by ID.</li>
-</ul>
-<blockquote>
-<p>Note: You can't kill them.
-Note 2: You can find the monster IDs <a href="https://github.com/jie65535/GrasscutterCommandGenerator/blob/main/Source/GrasscutterTools/Resources/en-us/Monsters.txt" target="_blank" rel="noopener noreferrer">here</a></p>
-</blockquote>
-<h3> Summon Item:</h3>
-<ul>
-<li>Summons the selected item by ID.</li>
-</ul>
-<blockquote>
-<p>Note: Some items might not work.
-Note 2: You can find the items IDs <a href="https://github.com/jie65535/GrasscutterCommandGenerator/blob/main/Source/GrasscutterTools/Resources/en-us/Item.txt" target="_blank" rel="noopener noreferrer">here</a></p>
-</blockquote>
-<h3> Open UI Page:</h3>
-<ul>
-<li>Open Paimon Menu Page: Opens the menu.</li>
-<li>Open Cooking Page: Opens cooking page.
-<blockquote>
-<p>Note: Needs to open cooking page once before using this feature.</p>
+<p>Not: Başarılı olursa, herhangi bir uyarı verilmeyecektir. Lütfen envanteri kontrol edin.
+Not 2: Birleştirme ID'lerini <a href="https://github.com/jie65535/GrasscutterCommandGenerator/blob/main/Source/GrasscutterTools/Resources/en-us/Item.txt" target="_blank" rel="noopener noreferrer">Buradan</a> bulabilirsiniz.</p>
 </blockquote>
 </li>
 </ul>
-<h3> Worship Statue:</h3>
+<h3> NPC'yi çağır:</h3>
 <ul>
-<li>Will worship the selected Statue of the Seven with the amount selected, need to have the oculus to do this.</li>
+<li>Seçilen NPC'yi kimliğine göre çağırır.</li>
 </ul>
-<h3> Change Traveler Element:</h3>
+<blockquote>
+<p>Not: Katheryne, Wagner ve Prince zaten dahil edilmiştir.</p>
+</blockquote>
+<h3> Canavar Çağır:</h3>
 <ul>
-<li>Allows player to change traveler element anywhere.</li>
+<li>Seçilen canavarı ID'ye göre seçilen parametrelerle çağırır.</li>
 </ul>
-<h2> Example Video:</h2>
+<blockquote>
+<p>Not: Onları öldüremezsiniz.
+Not 2: Canavar ID'lerini <a href="https://github.com/jie65535/GrasscutterCommandGenerator/blob/main/Source/GrasscutterTools/Resources/en-us/Monsters.txt" target="_blank" rel="noopener noreferrer">Buradan</a> bulabilirsiniz.</p>
+</blockquote>
+<h3> Eşya çağır:</h3>
+<ul>
+<li>Seçilen eşyayı ID'ye göre çağırır.</li>
+</ul>
+<blockquote>
+<p>Not: Bazı eşyalar çalışmayabilir.
+Note 2: Öğelerin ID'lerini <a href="https://github.com/jie65535/GrasscutterCommandGenerator/blob/main/Source/GrasscutterTools/Resources/en-us/Item.txt" target="_blank" rel="noopener noreferrer">Buradan</a> bulabilirsiniz.</p>
+</blockquote>
+<h3> UI Sayfasını Açın:</h3>
+<ul>
+<li>Paimon Menü Sayfasını Aç: Menüyü açar.</li>
+<li>Pişirme Sayfasını Aç: Pişirme sayfasını açar.
+<blockquote>
+<p>Not: Bu özelliği kullanmadan önce pişirme sayfasını bir kez açmanız gerekir.</p>
+</blockquote>
+</li>
+</ul>
+<h3> Tapınak Heykeli:</h3>
+<ul>
+<li>Seçilen Yedi Heykeli'ne seçilen miktarda ibadet eder, bunu yapmak için oculus'a sahip olmak gerekir.</li>
+</ul>
+<h3> Gezgin Elementini Değiştirin:</h3>
+<ul>
+<li>Oyuncunun gezgin elementini herhangi bir yerde değiştirmesine izin verir.</li>
+</ul>
+<h2> Örnek Video:</h2>
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/XGztUEy82sE?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Remote Utilities (Sponsor)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 ]]></content:encoded>
     </item>
     <item>
-      <title>0culi Teleport</title>
+      <title>0culi Işınlanma</title>
       <link>https://korepi.com/tr/features/Teleport/0culi-teleport.html</link>
       <guid>https://korepi.com/tr/features/Teleport/0culi-teleport.html</guid>
-      <source url="https://korepi.com/tr/rss.xml">0culi Teleport</source>
-      <description>Oculi Teleport will teleport the player to the nearest rendered oculi location when the hotkey is pressed. Note: Wait &amp;gt;15s between teleports for safety. Example Video:</description>
+      <source url="https://korepi.com/tr/rss.xml">0culi Işınlanma</source>
+      <description>0culi Işınlanma seçilen tuşa basıldığında en yakın Öze ışınlar Not: Riski azaltmak için ışınlanmalar arası &amp;gt;15s bekleyiniz. Örnek Video:</description>
       <category>Features</category>
       <pubDate>Tue, 19 Dec 2023 12:28:02 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Oculi Teleport will teleport the player to the nearest rendered oculi location when the hotkey is pressed.</h2>
+      <content:encoded><![CDATA[<h2> 0culi Işınlanma seçilen tuşa basıldığında en yakın Öze ışınlar</h2>
 <blockquote>
-<p>Note: Wait <code>&gt;15s</code> between teleports for safety.</p>
+<p>Not: Riski azaltmak için ışınlanmalar arası <code>&gt;15s</code> bekleyiniz.</p>
 </blockquote>
-<h2> Example Video:</h2>
+<h2> Örnek Video:</h2>
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/j2Yu31J7Yh4?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Oculi/ChestTeleport" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 ]]></content:encoded>
     </item>
     <item>
-      <title>Chest Teleport</title>
+      <title>Sandığa Işınlanma</title>
       <link>https://korepi.com/tr/features/Teleport/chest-teleport.html</link>
       <guid>https://korepi.com/tr/features/Teleport/chest-teleport.html</guid>
-      <source url="https://korepi.com/tr/rss.xml">Chest Teleport</source>
-      <description>Chest Teleport will teleport the player to the nearest rendered chest location when the hotkey is pressed. Note: Wait &amp;gt;15s between teleports for safety. Example Video:</description>
+      <source url="https://korepi.com/tr/rss.xml">Sandığa Işınlanma</source>
+      <description>Sandığa Işınlanma atanmış tuşa basıldığında sizi en yakın sandığa ışınlar. Not: Riski azaltmak için ışınlanmalar arası &amp;gt;15s bekleyiniz. Örnek Video:</description>
       <category>Features</category>
       <pubDate>Tue, 19 Dec 2023 12:28:02 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Chest Teleport will teleport the player to the nearest rendered chest location when the hotkey is pressed.</h2>
+      <content:encoded><![CDATA[<h2> Sandığa Işınlanma atanmış tuşa basıldığında sizi en yakın sandığa ışınlar.</h2>
 <blockquote>
-<p>Note: Wait <code>&gt;15s</code> between teleports for safety.</p>
+<p>Not: Riski azaltmak için ışınlanmalar arası <code>&gt;15s</code> bekleyiniz.</p>
 </blockquote>
-<h2> Example Video:</h2>
+<h2> Örnek Video:</h2>
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/j2Yu31J7Yh4?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Oculi/ChestTeleport" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 ]]></content:encoded>
     </item>
     <item>
-      <title>Custom Teleport</title>
+      <title>Özel Işınlanma</title>
       <link>https://korepi.com/tr/features/Teleport/custom-teleport.html</link>
       <guid>https://korepi.com/tr/features/Teleport/custom-teleport.html</guid>
-      <source url="https://korepi.com/tr/rss.xml">Custom Teleport</source>
-      <description>Custom Teleport: Allows the player to teleport to a selected location designed by a .json file. Interpolation Speed: Controls the teleportation animation speed, set to 0.1 to av...</description>
+      <source url="https://korepi.com/tr/rss.xml">Özel Işınlanma</source>
+      <description>Özel Işınlanma: Kullanıcıyı bir .json dosyası ile belirli bir noktaya ışınlar. Enterpolasyon Hızı: Işınlanma animasyonunun hızını ayarlar. Sorun yaşamamak için değeri 0.1 yapını...</description>
       <category>Features</category>
       <pubDate>Tue, 19 Dec 2023 12:28:02 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Custom Teleport: Allows the player to teleport to a selected location designed by a <code>.json</code> file.</h2>
-<h3> Interpolation Speed:</h3>
+      <content:encoded><![CDATA[<h2> Özel Işınlanma: Kullanıcıyı bir <code>.json</code> dosyası ile belirli bir noktaya ışınlar.</h2>
+<h3> Enterpolasyon Hızı:</h3>
 <ul>
-<li>Controls the teleportation animation speed, set to <code>0.1</code> to avoid issues.</li>
+<li>Işınlanma animasyonunun hızını ayarlar. Sorun yaşamamak için değeri <code>0.1</code> yapınız.</li>
 </ul>
-<h3> Auto Teleport:</h3>
+<h3> Otomatik Işınlanma:</h3>
 <ul>
-<li>Teleports automatically following the order of the provided <code>.json</code> files.
+<li><code>.json</code> dosyalarının sıralamasına göre otomatik ışınlar
 <ul>
-<li>Teleport Next: Teleports to next location after pressing the selected hotkey.</li>
-<li>Teleport Previous: Teleports to previous location after pressing the selected hotkey.</li>
+<li>Sonrakine Işınlan: Atanmış tuşa basınca sonraki ışınlanmaya ışınlar.</li>
+<li>Öncekine Işınlan: Atanmış tuşa basınca önceki ışınlanmaya ışınlar.</li>
 </ul>
 </li>
 </ul>
 <blockquote>
-<p>Note: Recommended to set above <code>15s</code> for safety.</p>
+<p>Not: Riski azaltmak için ışınlanmalar arası <code>&gt;15s</code> bekleyiniz.</p>
 </blockquote>
-<h1> You can find out more on how to use this feature <a href="/tr/guide/custom-tp-setting.html" target="blank">here</a></h1>
+<h1> Bu özelliğin kullanımı hakkında daha fazla bilgi bulmak için <a href="/tr/guide/custom-tp-setting.html" target="blank">buraya</a> tıklayınız.</h1>
 ]]></content:encoded>
     </item>
     <item>
-      <title>Map Teleport</title>
+      <title>Haritayla Işınlanma</title>
       <link>https://korepi.com/tr/features/Teleport/map-teleport.html</link>
       <guid>https://korepi.com/tr/features/Teleport/map-teleport.html</guid>
-      <source url="https://korepi.com/tr/rss.xml">Map Teleport</source>
-      <description>Map Teleport allows you to teleport to anywhere on the map. To use map teleport you have to enable it, and select the hotkey you going to use.; To teleport, hold the hotkey whil...</description>
+      <source url="https://korepi.com/tr/rss.xml">Haritayla Işınlanma</source>
+      <description>Haritayla Işınlanma haritadan istediğiniz yere ışınlanmanızı sağlar. Bu özelliği kullanmak için özelliği aktif edip, Işınlanma Tuşu atamanız gerekmektedir.; Işınlanmak için hari...</description>
       <category>Features</category>
       <pubDate>Tue, 19 Dec 2023 12:28:02 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Map Teleport allows you to teleport to anywhere on the map.</h2>
+      <content:encoded><![CDATA[<h2> Haritayla Işınlanma haritadan istediğiniz yere ışınlanmanızı sağlar.</h2>
 <ul>
-<li>To use map teleport you have to enable it, and select the hotkey you going to use.</li>
-<li>To teleport, hold the hotkey while having the map opened and click on where you want to teleport.</li>
+<li>Bu özelliği kullanmak için özelliği aktif edip, Işınlanma Tuşu atamanız gerekmektedir.</li>
+<li>Işınlanmak için haritayı açıp seçtiğiniz tuşa basılı tutup haritada istediğiniz noktaya tıklayınız.</li>
 </ul>
-<h3> Fast Teleport (<span style="color:yellow;">Sponsor</span>):</h3>
+<h3> Hızlı Işınlanma (<span style="color:yellow;">Sponsor</span>):</h3>
 <ul>
-<li>Disables the loading screen within the selected distance while teleporting.</li>
+<li>Işınlanınca ortaya çıkan yüklenme ekranını kaldırır.</li>
 </ul>
-<h2> Example Video:</h2>
+<h2> Örnek Video:</h2>
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/Xm3mTEbIE9g?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Map TP/Fast TP" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 ]]></content:encoded>
     </item>
     <item>
-      <title>Quest Teleport</title>
+      <title>Göreve Işınlanma</title>
       <link>https://korepi.com/tr/features/Teleport/quest-teleport.html</link>
       <guid>https://korepi.com/tr/features/Teleport/quest-teleport.html</guid>
-      <source url="https://korepi.com/tr/rss.xml">Quest Teleport</source>
-      <description>Quest Teleports allows you to teleport to the current on-going quest location. To use this feature, you must click your navigation hotkey first and then click on quest teleport ...</description>
+      <source url="https://korepi.com/tr/rss.xml">Göreve Işınlanma</source>
+      <description>Göreve Işınlanma, sizi o anda seçtiğiniz görevin lokasyonuna ışınlar. Bu özelliği kullanmak için, bir Görev TP tuşu atayıp, bir görev seçip seçtiğiniz tuşa basmanız gerekmektedi...</description>
       <category>Features</category>
       <pubDate>Tue, 19 Dec 2023 12:28:02 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Quest Teleports allows you to teleport to the current on-going quest location.</h2>
+      <content:encoded><![CDATA[<h2> Göreve Işınlanma, sizi o anda seçtiğiniz görevin lokasyonuna ışınlar.</h2>
 <ul>
-<li>To use this feature, you must click your navigation hotkey first and then click on quest teleport hotkey.</li>
+<li>Bu özelliği kullanmak için, bir Görev TP tuşu atayıp, bir görev seçip seçtiğiniz tuşa basmanız gerekmektedir.</li>
 </ul>
-<h2> Example Video:</h2>
+<h2> Örnek Video:</h2>
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/HNdQu39G2Tc?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - QuestTP" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 ]]></content:encoded>
     </item>
