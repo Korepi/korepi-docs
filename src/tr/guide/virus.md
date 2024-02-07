@@ -2,10 +2,10 @@
 title: Dışlamalara ekleme
 icon: info-circle
 category:
-  - Guide
+  - Kılavuzlar
 tag:
-  - Start
-author: Schvis, OpHellfire, Hiro
+  - Başlangıç
+author: Schvis
 order: 7
 ---
 
