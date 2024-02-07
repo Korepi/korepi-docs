@@ -6,8 +6,8 @@
     <link>https://korepi.com/zh/</link>
     <description>Korepi 中文文档介绍</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 07 Feb 2024 11:32:50 GMT</pubDate>
-    <lastBuildDate>Wed, 07 Feb 2024 11:32:50 GMT</lastBuildDate>
+    <pubDate>Wed, 07 Feb 2024 12:25:10 GMT</pubDate>
+    <lastBuildDate>Wed, 07 Feb 2024 12:25:10 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>指南</category>
@@ -17,6 +17,361 @@
     <category>Features</category>
     <category>Guide</category>
     <category>Troubleshoot</category>
+    <item>
+      <title>Korepi版本介绍</title>
+      <link>https://korepi.com/zh/start/Introduction%20of%20version.html</link>
+      <guid>https://korepi.com/zh/start/Introduction%20of%20version.html</guid>
+      <source url="https://korepi.com/zh/rss.xml">Korepi版本介绍</source>
+      <description>Korepi 2024年2月6日晚上10点00分 起更替到全新的运作方式日后科技将拥有三种版本 ， 特定功能只会在指定的版本解锁使用。 三种版本分别为： 免费 Free ： 日后入群者无需再签到，只需完成最低限度的验证（Newcomer）即可在密钥频道获取1天密钥; 可使用免费(Free)功能; 赞助 Sponsorship ：（于2024年2月6日凌...</description>
+      <category>指南</category>
+      <pubDate>Wed, 07 Feb 2024 11:59:30 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Korepi 2024年2月6日晚上10点00分 起更替到全新的运作方式日后科技将拥有三种版本 ， 特定功能只会在指定的版本解锁使用。</h2>
+<hr>
+<h2> 三种版本分别为：</h2>
+<hr>
+<h3> <span style="color:red;">免费 Free ：</span></h3>
+<ul>
+<li>日后入群者无需再签到，只需完成最低限度的验证（Newcomer）即可在密钥频道获取1天密钥</li>
+<li>可使用免费(Free)功能</li>
+</ul>
+<hr>
+<h3> <span style="color:red;">赞助 Sponsorship ：</span>（于2024年2月6日凌晨2点30分前成为Sponsor者，已绝版）</h3>
+<ul>
+<li>密钥有效期为7天，每7天可获取一次密钥</li>
+<li>在免费版拥有的功能之上解锁赞助者(Sponsor)功能</li>
+</ul>
+<hr>
+<h3> <span style="color:red;">订阅 Subscription ：</span></h3>
+<ul>
+<li>
+<p>通过各渠道购买Korepi 周/月/年卡的用户将处于此版本，密钥有效期根据用户购买程度而定（目前不详）</p>
+</li>
+<li>
+<p>在赞助者版拥有的功能之上解锁完整满血版(PERTAMAX)功能</p>
+</li>
+<li>
+<p>密钥每个月可暂停1次</p>
+</li>
+<li>
+<p>HWID均为7天可重设一次</p>
+</li>
+</ul>
+<h1> <span style="color:red;"><strong>各版本可用功能</strong></span></h1>
+<h2> <strong>免费 Free</strong></h2>
+<h3> <strong><strong>玩家</strong></strong></h3>
+<ol>
+<li><strong><strong>攻击效果</strong></strong></li>
+</ol>
+<blockquote>
+<ul>
+<li><strong>倍攻</strong> – 对敌人造成的伤害X段化</li>
+<li><strong>普攻范围</strong> – 对指定范围内的敌人造成伤害</li>
+<li><strong>多重动画</strong> – 玩家的动作X重化</li>
+<li><strong>攻击速度</strong> – 自定义玩家的攻击速度</li>
+<li><strong>自定义元素</strong> – 自定义玩家战技元素</li>
+<li><strong>注入元素</strong> – 自定义玩家普攻元素</li>
+<li><strong>自动弱点</strong> – 玩家攻击必触发弱点攻击</li>
+<li><strong>免疫元素</strong> – 玩家免疫指定元素伤害</li>
+</ul>
+</blockquote>
+<ol start="2">
+<li><strong><strong>自动奔跑</strong></strong></li>
+<li><strong><strong>冷却效果</strong></strong></li>
+</ol>
+<blockquote>
+<ul>
+<li><strong>满元素爆发能量</strong> - 能量满槽与否皆可使用元素爆发</li>
+<li><strong>调整角色元素战技冷却时间</strong></li>
+<li><strong>无冲刺间隔时间</strong></li>
+<li><strong>瞬间蓄力</strong></li>
+<li><strong>浪船主炮无冷却</strong></li>
+</ul>
+</blockquote>
+<ol start="4">
+<li><strong><strong>坠落控制</strong></strong> - 玩家可控制处于下落状态的角色</li>
+<li><strong><strong>无敌模式</strong></strong></li>
+</ol>
+<blockquote>
+<ul>
+<li><strong>不死</strong> - 无敌仅在抵御致命攻击时启用</li>
+<li><strong>条件</strong> - 自定义玩家血量处于XX%时才启用无敌</li>
+</ul>
+</blockquote>
+<ol start="6">
+<li><strong><strong>无限体力</strong></strong> - 进行任何行动皆不消耗体力（切记须在进入他人世界前关闭，成功进入后再启用以防止出错）</li>
+</ol>
+<blockquote>
+<ul>
+<li><strong>阻止上传</strong> - 采用更安全的实现方式，但特殊行动 比如重击会消耗体力</li>
+</ul>
+</blockquote>
+<ol start="7">
+<li><strong><strong>自由移动</strong></strong> - 玩家可全方位无死角 无视碰撞体积（穿墙）的移动</li>
+<li><strong><strong>玩家速度</strong></strong> - 自定义玩家角色动作速度</li>
+</ol>
+<h3> <strong><strong>世界</strong></strong></h3>
+<ol>
+<li><strong><strong>自动挑战</strong></strong> - （主要用于收集元素微粒类挑战）</li>
+<li><strong><strong>自动收集</strong></strong></li>
+</ol>
+<blockquote>
+<ul>
+<li><strong>自动拾取</strong> - 可自定义拾取一定范围内的物品及拾取延迟</li>
+<li><strong>自动交互</strong> - 可自动开启宝箱、收取花萼（和双倍活动冲突）、检查任务点、检查调查点</li>
+</ul>
+</blockquote>
+<ol start="3">
+<li><strong><strong>自动仙灵</strong></strong></li>
+<li><strong><strong>自动对话</strong></strong></li>
+<li><strong><strong>全局速度</strong></strong></li>
+<li><strong><strong>其他</strong></strong></li>
+</ol>
+<blockquote>
+<ul>
+<li><strong>敌人变傻</strong> - 敌人变小~龙(聋)~虾(瞎)~</li>
+<li><strong>敌人冻结</strong> - 定怪</li>
+<li><strong>元素视野</strong> - 一键切换元素视野状态</li>
+<li><strong>瞬间打开编队界面</strong> - 无等待时间</li>
+<li><strong>跳过强化动画</strong></li>
+</ul>
+</blockquote>
+<h3> <strong><strong>传送</strong></strong></h3>
+<ol>
+<li><strong><strong>宝箱传送</strong></strong></li>
+<li><strong><strong>神瞳传送</strong></strong></li>
+<li><strong><strong>地图传送</strong></strong></li>
+<li><strong><strong>自定义传送</strong></strong> – 配合定位Json使用</li>
+<li><strong><strong>任务传送</strong></strong></li>
+</ol>
+<h3> <strong><strong>视图</strong></strong></h3>
+<ol>
+<li><strong><strong>自定义玩家信息</strong></strong> - 作用于本地游戏</li>
+</ol>
+<blockquote>
+<ul>
+<li><strong>UID</strong> - 自定义UID，可<a href="https://kanatimc.github.io/Unity-Gradient-Maker/" target="_blank" rel="noopener noreferrer">玩出花样</a></li>
+<li><strong>昵称</strong> - 自定义玩家昵称，同上</li>
+<li><strong>等级</strong></li>
+<li><strong>冒险阅历</strong></li>
+<li><strong>世界等级</strong></li>
+<li><strong>头像</strong> - 自定义PNG图片作为头像</li>
+<li><strong>个人名片</strong> - 自定义PNG图片作为个人资料名片</li>
+</ul>
+</blockquote>
+<ol start="2">
+<li><strong><strong>镜头缩放</strong></strong> - 覆盖默认的最高和最低缩放值</li>
+<li><strong><strong>视距(FOV)修改</strong></strong></li>
+<li><strong><strong>帧率解锁</strong></strong></li>
+<li><strong>**隐藏界面(UI) **</strong></li>
+</ol>
+<blockquote>
+<ul>
+<li><strong>隐藏服务器Ping值</strong></li>
+<li><strong>隐藏当前角色血条</strong></li>
+<li><strong>隐藏队员血条</strong></li>
+</ul>
+</blockquote>
+<ol start="7">
+<li><strong><strong>地图缩放</strong></strong> - 覆盖默认的最高和最低缩放值</li>
+<li><strong><strong>其他</strong></strong></li>
+</ol>
+<blockquote>
+<ul>
+<li><strong>去和谐</strong> - 移除相机处于绅士角度时的虚化效果</li>
+<li><strong>宝箱指示器</strong> - 启用游戏原本带有的指示器，但作用距离更远</li>
+<li><strong>去草</strong></li>
+<li><strong>去雾</strong></li>
+<li><strong>移除大地图迷雾</strong></li>
+<li><strong>派蒙跟随</strong></li>
+</ul>
+</blockquote>
+<h3> <strong><strong>其他</strong></strong></h3>
+<ol>
+<li><strong><strong>互动地图</strong></strong></li>
+</ol>
+<h2> <strong>赞助 Sponsorship（于2024年2月6日凌晨2点30分前成为Sponsor者，已绝版）</strong></h2>
+<blockquote>
+<p>包含 <strong>免费 Free</strong> 所有功能</p>
+</blockquote>
+<h3> <strong><strong>玩家</strong></strong></h3>
+<ol>
+<li><strong><strong>攻击效果</strong></strong></li>
+</ol>
+<blockquote>
+<ul>
+<li><strong>自定义暴击率</strong></li>
+</ul>
+</blockquote>
+<ol start="2">
+<li><strong><strong>额外移动</strong></strong></li>
+</ol>
+<blockquote>
+<ul>
+<li><strong>水面移动</strong> - 玩家可行走于水面上（和芙宁娜冲突）</li>
+<li><strong>疾奔增强</strong> - 自定义玩家行走和奔跑速度</li>
+<li><strong>跳跃增强</strong> - 自定义玩家跳跃高度</li>
+<li><strong>飞行增强</strong> - 自定义玩家飞行时的水平和纵向移速</li>
+<li><strong>游泳增强</strong> - 自定义玩家水面游泳速度</li>
+<li><strong>浮潜增强</strong> - 自定义玩家在枫丹水域浮潜状态下的移速</li>
+<li><strong>闪现</strong> - 玩家向着前方瞬移一小段距离</li>
+<li><strong>潜行模式</strong> - 仅对旅行者有效，让其进入潜行任务时的状态</li>
+</ul>
+</blockquote>
+<ol start="3">
+<li><strong><strong>兔子跳</strong></strong> - 长按跳跃+移动键，角色以蹦蹦跳跳状态移动</li>
+</ol>
+<h3> <strong><strong>世界</strong></strong></h3>
+<ol>
+<li><strong><strong>自动解锁锚点</strong></strong> - 一定范围内生效</li>
+<li><strong><strong>元素光环</strong></strong> - 让范围内的敌人和物体附上元素，元素附着间隔太低会导致报错（多出现在范围内存在多个敌人的情况下）</li>
+</ol>
+<blockquote>
+<ul>
+<li><strong>物体</strong> - 用于某些物体上可进行采集，例如绯樱绣球(雷)</li>
+<li><strong>多重元素</strong> - 每次启动程序都要重新设定一遍，搭配得当可触发元素反应自动杀怪（草体系-绽放）</li>
+</ul>
+</blockquote>
+<h3> <strong><strong>传送</strong></strong></h3>
+<ol>
+<li><strong><strong>自定义传送进度</strong></strong> - 在进行自动传送时显示进度</li>
+<li><strong><strong>地图传送-快速传送</strong></strong> - 近距离传送将不会进入加载画面（作用于科技内的所有传送功能）</li>
+</ol>
+<h3> <strong><strong>视图</strong></strong></h3>
+<ol>
+<li><strong><strong>额外图像设置</strong></strong> - 可使用额外的抗锯齿选项、调整伽马值和角色轮廓线</li>
+<li><strong><strong>自由相机</strong></strong> - 可在不锁定角色的情况下自由移动相机</li>
+</ol>
+<blockquote>
+<ul>
+<li><strong>冻结角色动画</strong></li>
+<li><strong>隐藏角色</strong> - 本地玩家角色不可视化</li>
+<li><strong>阻止用户输入</strong> - 禁用鼠标移动相机</li>
+</ul>
+</blockquote>
+<ol start="3">
+<li><strong><strong>伪装时间</strong></strong></li>
+<li><strong><strong>敌人替换器</strong></strong> - 将敌人替换为指定敌人（掉落物不会因此改变）</li>
+</ol>
+<blockquote>
+<ul>
+<li><strong>排除动物</strong></li>
+<li><strong>随机变换</strong></li>
+</ul>
+</blockquote>
+<ol start="5">
+<li><strong><strong>其他</strong></strong></li>
+</ol>
+<blockquote>
+<ul>
+<li><strong>无足迹</strong></li>
+<li><strong>海豚跳</strong> - 非枫丹角色也能像他们那样跃出水面</li>
+<li><strong>GM图标</strong> - 本地视觉效果</li>
+<li><strong>无镜像模糊</strong></li>
+<li><strong>无相机抖动</strong></li>
+<li><strong>无元素爆发动画</strong></li>
+</ul>
+</blockquote>
+<h2> <strong>订阅 Subscription（PERTAMAX）</strong></h2>
+<blockquote>
+<p>包含 <strong>免费 Free</strong> 和 <strong>赞助 Sponsorship</strong> 所有功能</p>
+</blockquote>
+<h3> <strong><strong>玩家</strong></strong></h3>
+<ol>
+<li><strong><strong>远程工具</strong></strong> - 须切换操控角色后，方可使用名下功能</li>
+</ol>
+<blockquote>
+<ul>
+<li><strong>一键领取委托奖励</strong> - 原地领取凯瑟琳的每日委托额外奖励（须先完成4件委托）</li>
+<li><strong>一键合成浓缩树脂</strong> - 原地合成浓缩树脂（须背包里有原材料）</li>
+<li><strong>生成凯瑟琳/合成台/锻造台</strong></li>
+<li><strong>实体生成器</strong> - 根据ID生成技能、物体、敌人，甚至是原石（视觉效果 无法拾取）</li>
+<li><strong>随时可打开派蒙界面</strong></li>
+<li><strong>便携烹饪工具</strong> - 随时可打开烹饪界面（须先开启过烹饪界面）</li>
+<li><strong>供奉神像</strong> - 原地供奉神像</li>
+<li><strong>共鸣</strong> - 原地修改旅行者元素共鸣形态</li>
+</ul>
+</blockquote>
+<h3> <strong><strong>世界</strong></strong></h3>
+<ol>
+<li><strong><strong>自动烹饪</strong></strong> - 选定想要的料理的数量后 自动完成烹饪</li>
+</ol>
+<blockquote>
+<ul>
+<li><strong>快速熟练</strong> - 快速提升料理熟练度（若烹饪失败，请关闭此功能）</li>
+</ul>
+</blockquote>
+<ol start="2">
+<li><strong><strong>自动钓鱼</strong></strong> - 使用正确的钓饵并抛竿到鱼群附近即可瞬间捕获（别抛鱼儿头上）</li>
+</ol>
+<blockquote>
+<ul>
+<li><strong>自动重抛</strong>- 目前不可用</li>
+</ul>
+</blockquote>
+<ol start="3">
+<li><strong><strong>自动伐木</strong></strong> - 自动攻击指定范围内的树木以获取木材</li>
+<li><strong><strong>自动摧毁</strong></strong> - 自动摧毁范围内的矿石、矿脉、敌人护盾（会消除部分元素敌人本该带有的元素，不能和杀戮光环一同启用。正确方式为先启用摧毁护盾，待敌人拾取护盾后关闭并启用杀戮光环。）、被缠绕宝箱、特殊对象</li>
+<li><strong><strong>杀戮光环</strong></strong> - 自动攻击指定范围内的敌人（包括动物）</li>
+</ol>
+<blockquote>
+<ul>
+<li><strong>坠伤模式</strong> - 对敌人造成自定义坠落伤害数值</li>
+<li><strong>百分比模式</strong> - 自定义消灭敌人所需的伤害次数</li>
+<li><strong>预留生命值</strong> - 自定义敌人受到杀戮光环伤害后，必定残留的生命值（不设置即为直接消灭）</li>
+<li><strong>仅带仇恨的敌人</strong> - 杀戮光环只会作用在对玩家带有仇恨值的敌人</li>
+</ul>
+</blockquote>
+<ol start="6">
+<li><strong><strong>生物吸附</strong></strong> - 吸附自定义范围内的敌人、动物及NPC</li>
+<li><strong><strong>掉落物吸附</strong></strong> - 吸附自定义范围内的掉落物</li>
+<li><strong><strong>自动对话-略过对话</strong></strong> - 如同Galgame的快进功能</li>
+</ol>
+<h3> <strong><strong>视图</strong></strong></h3>
+<ol>
+<li><strong>**命座修改器 **</strong> - &lt;#1166323490501173309&gt;</li>
+<li><strong><strong>自定义天气</strong></strong></li>
+<li><strong><strong>动作修改器</strong></strong> - 自定义角色动作和表情</li>
+<li><strong><strong>风之翼修改器</strong></strong></li>
+<li><strong><strong>时装修改器</strong></strong></li>
+<li><strong><strong>地图管理器</strong></strong> - 一键逐步解锁全图神像及锚点</li>
+<li><strong><strong>纹理替换器</strong></strong> - （然而我选择3DMIGOTO）</li>
+</ol>
+<h3> <strong><strong>其他</strong></strong></h3>
+<ol>
+<li><strong><strong>调试</strong></strong></li>
+</ol>
+<h3> <strong><strong>开发中</strong></strong></h3>
+<ol>
+<li><strong><strong>自动解谜</strong></strong></li>
+<li><strong><strong>自动秘境</strong></strong></li>
+<li><strong><strong>数值修改器</strong></strong> - 修改角色天赋(技能)等级</li>
+</ol>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>地图管理器</title>
+      <link>https://korepi.com/zh/features/2.%E4%B8%96%E7%95%8C%E5%8A%9F%E8%83%BD/map-manger.html</link>
+      <guid>https://korepi.com/zh/features/2.%E4%B8%96%E7%95%8C%E5%8A%9F%E8%83%BD/map-manger.html</guid>
+      <source url="https://korepi.com/zh/rss.xml">地图管理器</source>
+      <description>解锁七天神像 打开地图后，点击一次解锁七天神像。需要等待几秒运行。启用解锁七天神像结束后，请再点击一次解锁七天神像关闭此功能。否正解锁锚点无法使用; 解锁传送锚点 打开地图，点击解锁传送锚点，会自动解锁全部锚点，全部解锁完成后会自动关闭。如果需要暂停，请再点击一次。; ## 解锁速率是共用的，建议不要太快，容易被封禁</description>
+      <category>功能</category>
+      <pubDate>Wed, 07 Feb 2024 11:59:30 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> 解锁七天神像</h2>
+<ul>
+<li>打开地图后，点击一次解锁七天神像。需要等待几秒运行。</li>
+</ul>
+<div class="hint-container tip">
+<p class="hint-container-title">启用解锁七天神像结束后，请再点击一次解锁七天神像关闭此功能。否正解锁锚点无法使用</p>
+</div>
+<h2> 解锁传送锚点</h2>
+<ul>
+<li>打开地图，点击解锁传送锚点，会自动解锁全部锚点，全部解锁完成后会自动关闭。如果需要暂停，请再点击一次。</li>
+</ul>
+<blockquote>
+<h2> 解锁速率是共用的，建议不要太快，容易被封禁</h2>
+</blockquote>
+]]></content:encoded>
+    </item>
     <item>
       <title>免费版本</title>
       <link>https://korepi.com/zh/guide/free.html</link>
@@ -332,7 +687,7 @@ VPN并非专为翻墙而生，而机场是专门的翻墙节点服务商。</p>
       <link>https://korepi.com/zh/features/3.%E4%BC%A0%E9%80%81%E5%8A%9F%E8%83%BD/map-teleport.html</link>
       <guid>https://korepi.com/zh/features/3.%E4%BC%A0%E9%80%81%E5%8A%9F%E8%83%BD/map-teleport.html</guid>
       <source url="https://korepi.com/zh/rss.xml">地图传送</source>
-      <description>地图传送：允许你传送到地图上的任何地方。 要使用地图传送，你必须启用它，并选择你要使用的热键。热键一般是设置为T键。; 要传送时，请在打开地图的同时按住热键，然后点击要传送的位置。; 快速传送(赞助者专属)： 传送时不会进行地图加载。;</description>
+      <description>地图传送：允许你传送到地图上的任何地方。 要使用地图传送，你必须启用它，并选择你要使用的热键。热键一般是设置为T键。; 要传送时，请在打开地图的同时按住热键，然后点击要传送的位置。; 快速传送： 传送时不会进行地图加载。;</description>
       <category>Features</category>
       <pubDate>Sun, 17 Dec 2023 13:19:15 GMT</pubDate>
       <content:encoded><![CDATA[<h2> 地图传送：允许你传送到地图上的任何地方。</h2>
@@ -340,7 +695,7 @@ VPN并非专为翻墙而生，而机场是专门的翻墙节点服务商。</p>
 <li>要使用地图传送，你必须启用它，并选择你要使用的热键。热键一般是设置为T键。</li>
 <li>要传送时，请在打开地图的同时按住热键，然后点击要传送的位置。</li>
 </ul>
-<h3> 快速传送(<span style="color:#f1c40f;">赞助者专属</span>)：</h3>
+<h3> 快速传送：</h3>
 <ul>
 <li>传送时不会进行地图加载。</li>
 </ul>
@@ -767,22 +1122,22 @@ C1: ?  C2: ?  C3: ?  C4: ?  C5: ?  C6: ?</li>
       <link>https://korepi.com/zh/features/4.%E8%A7%86%E5%9B%BE%E5%8A%9F%E8%83%BD/hide-ui.html</link>
       <guid>https://korepi.com/zh/features/4.%E8%A7%86%E5%9B%BE%E5%8A%9F%E8%83%BD/hide-ui.html</guid>
       <source url="https://korepi.com/zh/rss.xml">隐藏界面</source>
-      <description>隐藏界面: 完全隐藏玩家用户界面。; 隐藏Ping：（赞助者专属） 仅隐藏ping。; 隐藏血条形图：（赞助者专属） 仅隐藏当前角色HP栏。; 隐藏团队生命值栏：（赞助者专属） 仅在角色选项卡上隐藏团队hp栏。;</description>
+      <description>隐藏界面: 完全隐藏玩家用户界面。; 隐藏Ping： 仅隐藏ping。; 隐藏血条形图： 仅隐藏当前角色HP栏。; 隐藏团队生命值栏： 仅在角色选项卡上隐藏团队hp栏。;</description>
       <category>功能</category>
       <pubDate>Sun, 17 Dec 2023 13:19:15 GMT</pubDate>
       <content:encoded><![CDATA[<h2> 隐藏界面:</h2>
 <ul>
 <li>完全隐藏玩家用户界面。</li>
 </ul>
-<h3> 隐藏Ping：（<span style="color:#f1c40f;">赞助者专属</span>）</h3>
+<h3> 隐藏Ping：</h3>
 <ul>
 <li>仅隐藏ping。</li>
 </ul>
-<h3> 隐藏血条形图：（<span style="color:#f1c40f;">赞助者专属</span>）</h3>
+<h3> 隐藏血条形图：</h3>
 <ul>
 <li>仅隐藏当前角色HP栏。</li>
 </ul>
-<h3> 隐藏团队生命值栏：（<span style="color:#f1c40f;">赞助者专属</span>）</h3>
+<h3> 隐藏团队生命值栏：</h3>
 <ul>
 <li>仅在角色选项卡上隐藏团队hp栏。</li>
 </ul>
@@ -830,7 +1185,7 @@ C1: ?  C2: ?  C3: ?  C4: ?  C5: ?  C6: ?</li>
       <link>https://korepi.com/zh/features/4.%E8%A7%86%E5%9B%BE%E5%8A%9F%E8%83%BD/others.html</link>
       <guid>https://korepi.com/zh/features/4.%E8%A7%86%E5%9B%BE%E5%8A%9F%E8%83%BD/others.html</guid>
       <source url="https://korepi.com/zh/rss.xml">其他</source>
-      <description>其他功能： 显示宝箱指示器 反虚化 无黑屏 去雾（去除地图雾气） 去草 地图黑色区域去除 派梦跟随 海豚跳 GM图标 菜单解锁器 赞助者专属： 无相机模糊 无相机抖动 无足迹 无元素爆发动画</description>
+      <description>其他功能： 显示宝箱指示器 反虚化 无黑屏 去雾（去除地图雾气） 去草 地图黑色区域去除 派梦跟随 海豚跳 GM图标 菜单解锁器 无相机模糊 无相机抖动 无足迹 无元素爆发动画</description>
       <category>功能</category>
       <pubDate>Sun, 17 Dec 2023 13:19:15 GMT</pubDate>
       <content:encoded><![CDATA[<h2> 其他功能：</h2>
@@ -844,7 +1199,6 @@ C1: ?  C2: ?  C3: ?  C4: ?  C5: ?  C6: ?</li>
 <h3> 海豚跳</h3>
 <h3> GM图标</h3>
 <h3> 菜单解锁器</h3>
-<h2> <span style="color:#f1c40f;">赞助者专属</span>：</h2>
 <h3> 无相机模糊</h3>
 <h3> 无相机抖动</h3>
 <h3> 无足迹</h3>
@@ -956,11 +1310,10 @@ C1: ?  C2: ?  C3: ?  C4: ?  C5: ?  C6: ?</li>
       <link>https://korepi.com/zh/features/1.%E7%8E%A9%E5%AE%B6%E5%8A%9F%E8%83%BD/bunny-hop.html</link>
       <guid>https://korepi.com/zh/features/1.%E7%8E%A9%E5%AE%B6%E5%8A%9F%E8%83%BD/bunny-hop.html</guid>
       <source url="https://korepi.com/zh/rss.xml">兔子跳</source>
-      <description>赞助者专属 兔子跳 ：启用后将在第一次跳跃后自动跳跃。</description>
+      <description>兔子跳 ：启用后将在第一次跳跃后自动跳跃。</description>
       <category>功能</category>
       <pubDate>Sun, 17 Dec 2023 05:01:05 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> <span style="color:#f1c40f;">赞助者专属</span></h2>
-<h2> 兔子跳 ：启用后将在第一次跳跃后自动跳跃。</h2>
+      <content:encoded><![CDATA[<h2> 兔子跳 ：启用后将在第一次跳跃后自动跳跃。</h2>
 ]]></content:encoded>
     </item>
     <item>
@@ -1002,10 +1355,10 @@ C1: ?  C2: ?  C3: ?  C4: ?  C5: ?  C6: ?</li>
       <link>https://korepi.com/zh/features/1.%E7%8E%A9%E5%AE%B6%E5%8A%9F%E8%83%BD/extra-movements.html</link>
       <guid>https://korepi.com/zh/features/1.%E7%8E%A9%E5%AE%B6%E5%8A%9F%E8%83%BD/extra-movements.html</guid>
       <source url="https://korepi.com/zh/rss.xml">额外移动</source>
-      <description>额外动作：修改/增强玩家的某些动作。赞助者专属 水上行走： 启用在水上行走的能力。; 让我们在水上自由行走，新一代渡海真君！ 存在bug，使用水神E技能无法在水上行走; 加速奔跑： 提高玩家移动时的速度。; 注意：不建议更改默认值。 跳跃提升： 提高角色跳跃的高度。; 让每个角色都可以成为魈 空中可用：不在地面上时启用跳跃。; 可实现左脚踩右脚 飞天：...</description>
+      <description>额外动作：修改/增强玩家的某些动作。 水上行走： 启用在水上行走的能力。; 让我们在水上自由行走，新一代渡海真君！ 存在bug，使用水神E技能无法在水上行走; 加速奔跑： 提高玩家移动时的速度。; 注意：不建议更改默认值。 跳跃提升： 提高角色跳跃的高度。; 让每个角色都可以成为魈 空中可用：不在地面上时启用跳跃。; 可实现左脚踩右脚 飞天： 提高玩家...</description>
       <category>功能</category>
       <pubDate>Sun, 17 Dec 2023 05:01:05 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> 额外动作：修改/增强玩家的某些动作。<span style="color:#f1c40f;">赞助者专属</span></h2>
+      <content:encoded><![CDATA[<h2> 额外动作：修改/增强玩家的某些动作。</h2>
 <h3> 水上行走：</h3>
 <ul>
 <li>启用在水上行走的能力。</li>
@@ -1176,11 +1529,10 @@ C1: ?  C2: ?  C3: ?  C4: ?  C5: ?  C6: ?</li>
       <link>https://korepi.com/zh/features/1.%E7%8E%A9%E5%AE%B6%E5%8A%9F%E8%83%BD/remote-utility.html</link>
       <guid>https://korepi.com/zh/features/1.%E7%8E%A9%E5%AE%B6%E5%8A%9F%E8%83%BD/remote-utility.html</guid>
       <source url="https://korepi.com/zh/rss.xml">远程工具</source>
-      <description>赞助者专属 远程工具: 领取每日任务奖励： 完成每日四次任务后，点击领取每日任务奖励。; 自定义对话： 使用ID启动对话，某些对话可能无法工作。; 注意：此功能很危险。 注意：要获取会话ID，请启用“调试对话”，ID将显示在“cmd”中。 自定义合成： -根据ID生成选定的小工具，其中一些可能无法工作。 注意：此功能很危险。。 您可以在此处找到小工具I...</description>
+      <description>远程工具: 领取每日任务奖励： 完成每日四次任务后，点击领取每日任务奖励。; 自定义对话： 使用ID启动对话，某些对话可能无法工作。; 注意：此功能很危险。 注意：要获取会话ID，请启用“调试对话”，ID将显示在“cmd”中。 自定义合成： -根据ID生成选定的小工具，其中一些可能无法工作。 注意：此功能很危险。。 您可以在此处找到小工具ID 。点击这...</description>
       <category>功能</category>
       <pubDate>Sun, 17 Dec 2023 05:01:05 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> <span style="color:#f1c40f;">赞助者专属</span></h2>
-<h2> 远程工具:</h2>
+      <content:encoded><![CDATA[<h2> 远程工具:</h2>
 <h3> 领取每日任务奖励：</h3>
 <ul>
 <li>完成每日四次任务后，点击领取每日任务奖励。</li>
@@ -1219,11 +1571,10 @@ C1: ?  C2: ?  C3: ?  C4: ?  C5: ?  C6: ?</li>
       <link>https://korepi.com/zh/features/2.%E4%B8%96%E7%95%8C%E5%8A%9F%E8%83%BD/auto-activate-tp.html</link>
       <guid>https://korepi.com/zh/features/2.%E4%B8%96%E7%95%8C%E5%8A%9F%E8%83%BD/auto-activate-tp.html</guid>
       <source url="https://korepi.com/zh/rss.xml">自动解锁锚点</source>
-      <description>赞助者专属 自动解锁锚点：配合自动传送可以解锁附近50m的锚点和神像.</description>
+      <description>自动解锁锚点：配合自动传送可以解锁附近50m的锚点和神像.</description>
       <category>功能</category>
       <pubDate>Sun, 17 Dec 2023 05:01:05 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> <span style="color:#f1c40f;">赞助者专属</span></h2>
-<h3> 自动解锁锚点：配合自动传送可以解锁附近50m的锚点和神像.</h3>
+      <content:encoded><![CDATA[<h3> 自动解锁锚点：配合自动传送可以解锁附近50m的锚点和神像.</h3>
 ]]></content:encoded>
     </item>
     <item>
@@ -1328,7 +1679,7 @@ C1: ?  C2: ?  C3: ?  C4: ?  C5: ?  C6: ?</li>
 <blockquote>
 <p>注意：不建议使用高于“5”的值。</p>
 </blockquote>
-<h3> 跳过对话框<span style="color:#f1c40f;">赞助者专属</span>：</h3>
+<h3> 跳过对话框赞助者专属：</h3>
 <ul>
 <li>以选定的值跳过对话框。它比快速对话更安全。</li>
 </ul>
@@ -1391,11 +1742,10 @@ C1: ?  C2: ?  C3: ?  C4: ?  C5: ?  C6: ?</li>
       <link>https://korepi.com/zh/features/2.%E4%B8%96%E7%95%8C%E5%8A%9F%E8%83%BD/elemental-aura.html</link>
       <guid>https://korepi.com/zh/features/2.%E4%B8%96%E7%95%8C%E5%8A%9F%E8%83%BD/elemental-aura.html</guid>
       <source url="https://korepi.com/zh/rss.xml">元素光环</source>
-      <description>赞助者专属 元素光环将指定元素、范围和延迟的元素应用于目标、物体或你自己，多个元素可以应用于附近的目标。 注意：低延迟时间将增加检测你被检测的概率。</description>
+      <description>元素光环将指定元素、范围和延迟的元素应用于目标、物体或你自己，多个元素可以应用于附近的目标。 注意：低延迟时间将增加检测你被检测的概率。</description>
       <category>功能</category>
       <pubDate>Sun, 17 Dec 2023 05:01:05 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> <span style="color:#f1c40f;">赞助者专属</span></h2>
-<h3> 元素光环将指定元素、范围和延迟的元素应用于目标、物体或你自己，多个元素可以应用于附近的目标。</h3>
+      <content:encoded><![CDATA[<h3> 元素光环将指定元素、范围和延迟的元素应用于目标、物体或你自己，多个元素可以应用于附近的目标。</h3>
 <blockquote>
 <p>注意：低延迟时间将增加检测你被检测的概率。</p>
 </blockquote>
@@ -1693,72 +2043,100 @@ C1: ?  C2: ?  C3: ?  C4: ?  C5: ?  C6: ?</li>
 <li>你还可以点击<code>查看订阅信息</code>来查看你的订阅信息</li>
 </ul>
 <div class="hint-container danger">
-<p class="hint-container-title">如果你是赞助者（sponsor身份），请不要点击 ` 绑定赞助者卡密` 或者 ` 绑定免费卡密` ，这样视为放弃三个月的补偿！</p>
+<p class="hint-container-title">如果你是赞助者（sponsor身份），请不要点击 `绑定赞助者卡密` 或者 `绑定免费卡密` ，这样视为放弃三个月的补偿！领取补偿截至日期到2023年3月6日凌晨12点00分</p>
 </div>
-<h1> 详细教程：</h1>
+<h1> 详细教程</h1>
 <h2> 使用所购买的卡密</h2>
-<ol>
-<li>点击<code>绑定卡密</code>。然后输入你的卡密。
-</li>
-<li>打开你所下载的korepi，它会自动复制你的hwid码。<div class="hint-container tip">
+<p><strong><strong>1. 点击〖1️⃣ 绑定卡密(Bind card str)〗。然后在弹出的窗口输入框处填入从经销商处购买得来的41位卡密，并点击Submit。</strong></strong></p>
+<p></p>
+<p></p>
+<p><strong><strong>2. 打开你所下载的korepi，它会自动复制你的hwid码。</strong></strong></p>
+<div class="hint-container tip">
 <p class="hint-container-title">在你使用前看看你的korepi文件夹中是否有过期的enc.json文件，如果有的话，请删除。</p>
 </div>
-</li>
-<li>点击获取验证文件，输入hwid码。
-</li>
-<li>下载enc.json文件，将文件放在korepi文件夹中。</li>
-<li>打开korepi，即可使用。</li>
-</ol>
+<p><strong><strong>3. 点击〖2️⃣ 获取验证文件(Get verification file)〗，输入hwid码，然后点击submit。</strong></strong></p>
+<p>
+</p>
+<p><strong><strong>4. 下载enc.json文件，将文件放在korepi文件夹中。</strong></strong></p>
+<p></p>
+<p><strong><strong>5. 打开korepi，即可使用。</strong></strong></p>
 <h2> sponsor使用教程</h2>
 <div class="hint-container tip">
 <p class="hint-container-title">sponsor的密钥时间为7天，过期后请删除旧的enc.json文件，重新获取新的。</p>
 </div>
-<ol>
-<li>点击<code>赞助者补偿</code>。即可获取三个月补偿。
-</li>
-</ol>
+<p><strong><strong>1. 点击〖1️⃣ 赞助者补偿(三个月)(Sponsor compensation(three months))〗</strong></strong></p>
+<p></p>
 <ul>
 <li>
-<h2> 如果你已经获得过补偿,或者因为操作失误,导致无法获得补偿,请直接点击<code> 绑定赞助者卡密</code>。</h2>
+<h2> 如果你已经获得过补偿,或者因为操作失误,导致无法获得补偿,请直接点击〖1️⃣ 绑定赞助者卡密(bind sponsor card)〗</h2>
 </li>
 </ul>
-<ol start="2">
-<li>打开你所下载的korepi，它会自动复制你的hwid码。<div class="hint-container tip">
+<p>_<strong><strong>2. 打开你所下载的korepi，它会自动复制你的hwid码。</strong></strong></p>
+<div class="hint-container tip">
 <p class="hint-container-title">在你使用前看看你的korepi文件夹中是否有过期的enc.json文件，如果有的话，请删除。</p>
 </div>
-</li>
-<li>点击获取验证文件，输入hwid码。
-</li>
-<li>下载enc.json文件，将文件放在korepi文件夹中。</li>
-<li>打开korepi，即可使用。</li>
-</ol>
+<p><strong><strong>3. 点击〖2️⃣ 获取验证文件(Get verification file)〗，输入hwid码，然后点击submit。</strong></strong></p>
+<p>
+</p>
+<p><strong><strong>4. 下载enc.json文件，将文件放在korepi文件夹中。</strong></strong></p>
+<p></p>
+<p><strong><strong>5. 打开korepi，即可使用。</strong></strong></p>
 <h2> 免费版使用教程</h2>
 <div class="hint-container tip">
 <p class="hint-container-title">免费的密钥时间为1天，过期后请删除旧的enc.json文件，重新获取新的。</p>
 </div>
-<ol>
-<li>点击<code>绑定免费卡密</code>。自动跳转看广告获取免费卡密。
-</li>
-<li>打开你所下载的korepi，它会自动复制你的hwid码。<div class="hint-container tip">
+<p><strong><strong>1. 点击〖1️⃣ 绑定免费卡密(Bind free card)〗。自动跳转看广告获取免费卡密。</strong></strong></p>
+<p></p>
+<p><strong><strong>成功后将在频道底部得到此信息</strong></strong></p>
+<p></p>
+<p><strong><strong>点击〖form link〗后将让您经历一段广告洗礼，并在最后出现以下提示</strong></strong>
+<strong>** 一般会提示绑定成功(Binding success)**</strong></p>
+<p><strong><strong>当您存在另个仍在活跃的密钥时，才会提示更新绑定成功(Update binding success) (已编辑)</strong></strong></p>
+<p></p>
+<p></p>
+<p><strong><strong>2. 打开你所下载的korepi，它会自动复制你的hwid码。</strong></strong></p>
+<div class="hint-container tip">
 <p class="hint-container-title">在你使用前看看你的korepi文件夹中是否有过期的enc.json文件，如果有的话，请删除。</p>
 </div>
-</li>
-<li>点击获取验证文件，输入hwid码。
-</li>
-<li>下载enc.json文件，将文件放在korepi文件夹中。</li>
-<li>打开korepi，即可使用。</li>
-</ol>
+<p><strong><strong>3. 点击〖2️⃣ 获取验证文件(Get verification file)〗，输入hwid码，然后点击submit。</strong></strong></p>
+<p>
+</p>
+<p><strong><strong>4. 下载enc.json文件，将文件放在korepi文件夹中。</strong></strong></p>
+<p></p>
+<p><strong><strong>5. 打开korepi，即可使用。</strong></strong></p>
 <h2> 暂停卡密</h2>
-<ul>
-<li>你可以暂停卡密已暂停时间防止卡密过期</li>
-<li>结束暂停后,你的卡密将会继续计时,并且追加你暂停的这段时间</li>
-<li>暂停后要三十天后才能暂停,暂停时间不限制</li>
-</ul>
-<h2> 更改设备id</h2>
-<ul>
-<li>点击更换设备id，输入新的设备的hwid即可。</li>
-<li>更改设备id后需等待7天才能更改</li>
-</ul>
+<h1> <strong><strong>暂停和解除暂停卡密（仅限订阅者Subscription/PERTAMAX）</strong></strong></h1>
+<blockquote>
+<p><strong><strong>暂停和解除暂停卡密的方法，每个月能暂停一次</strong></strong></p>
+</blockquote>
+<h2> <strong>暂停卡密</strong></h2>
+<p><strong><strong>1. 点击</strong>〖4️⃣  暂停卡密(Pause card)〗**</strong></p>
+<p></p>
+<p><strong><strong>2. 在弹出的窗口输入框处输入『YES』（全大写），并点击Submit即可</strong></strong></p>
+<p></p>
+<h2> 解除暂停卡密</h2>
+<p><strong><strong>1.点击〖  解除暂停卡密(Unpause card)〗</strong></strong></p>
+<p><strong><strong>2.在弹出的窗口输入框处输入『YES』（全大写），并点击Submit即可</strong></strong></p>
+<p></p>
+<h2> 更改设备</h2>
+<h1> <strong><strong>更换设备</strong></strong></h1>
+<blockquote>
+<p><strong><strong>更换密钥绑定的设备(HWID)的方法，每7天能更换一次</strong></strong></p>
+</blockquote>
+<p><strong><strong>1. 点击</strong>〖4️⃣  更换设备ID(Change HWID)〗**</strong></p>
+<p></p>
+<p><strong><strong>2. 在弹出的窗口输入框处填入您新的设备ID，并点击Submit</strong></strong></p>
+<p></p>
+<p><strong><strong>3. 打开你所下载的korepi，它会自动复制你的hwid码。</strong></strong></p>
+<div class="hint-container tip">
+<p class="hint-container-title">在你使用前看看你的korepi文件夹中是否有过期的enc.json文件，如果有的话，请删除。</p>
+</div>
+<p><strong><strong>4. 点击〖2️⃣ 获取验证文件(Get verification file)〗，输入hwid码，然后点击submit。</strong></strong></p>
+<p>
+</p>
+<p><strong><strong>5. 下载enc.json文件，将文件放在korepi文件夹中。</strong></strong></p>
+<p></p>
+<p><strong><strong>6. 打开korepi，即可使用。</strong></strong></p>
 <h2> md5校验问题</h2>
 <ul>
 <li>每次重新获得<code>enc.json</code>文件后,之前的<code>enc.json</code>文件都会失效</li>
@@ -1869,45 +2247,25 @@ C1: ?  C2: ?  C3: ?  C4: ?  C5: ?  C6: ?</li>
       <link>https://korepi.com/zh/start/download.html</link>
       <guid>https://korepi.com/zh/start/download.html</guid>
       <source url="https://korepi.com/zh/rss.xml">下载Korepi</source>
-      <description>介绍 欢迎来到我们的社区！要通过机器人检查并获得Newcomer角色，请按照以下步骤进行。 1.加入我们的服务器并获得Newcomer和`Fans角色 如果您还没有加入服务器，请阅读验证帖子，了解如何加入服务器并获得Newcomer和Fans角色。 2.进入频道 ★⋅korepi-version-roles⋅★ 在频道中找到links下的 ★korep...</description>
+      <description>介绍 欢迎来到我们的社区！要通过机器人检查并获得Newcomer角色，请按照以下步骤进行。 1.加入我们的服务器并获得Newcomer角色 如果您还没有加入服务器，请阅读验证帖子，了解如何加入服务器并获得Newcomer角色。 2.下载必要的资源 之后，您将获得访问相应下载频道的权限：★⋅koepi-download⋅★ ::: tip 如果找不到频道...</description>
       <category>指南</category>
       <pubDate>Thu, 30 Nov 2023 10:24:26 GMT</pubDate>
       <content:encoded><![CDATA[<h1> 下载</h1>
 <h2> 介绍</h2>
 <p>欢迎来到我们的社区！要通过机器人检查并获得<code>Newcomer</code>角色，请按照以下步骤进行。</p>
-<h2> 1.加入我们的服务器并获得<code>Newcomer</code>和<code>Fans</code>角色</h2>
-<p>如果您还没有加入服务器，请阅读验证帖子，了解如何加入服务器并获得<code>Newcomer</code>和<code>Fans</code>角色。</p>
-<h2> 2.进入频道 <code>★⋅korepi-version-roles⋅★</code></h2>
-<h3> 在频道中找到links下的 ★korepi-verison-roles★ 频道，点击并进入。</h3>
-<ul>
-<li>选择你所需要的版本密钥身份，如下图：</li>
-</ul>
-<p></p>
-<h2> 点击F-Auth或者V-Auth</h2>
-<p></p>
-<div class="hint-container tip">
-<p class="hint-container-title">提示</p>
-<h1> korepi的F版本和V版本不区分所使用的服务器，F与V只是验证方式。</h1>
-<ul>
-<li>F是网络验证方式，中国大陆部分地区可能连接不上。</li>
-<li>V是本地验证方式，建议中国大陆用户使用此版本。</li>
-</ul>
-</div>
-<ul>
-<li>获取身份后会显示下图：
-</li>
-</ul>
-<h2> 3.下载必要的资源</h2>
-<p>之后，您将获得访问相应下载频道的权限：<code>★⋅online-f-download⋅★</code> 或 <code>★⋅local-v-download⋅★</code>。</p>
+<h2> 1.加入我们的服务器并获得<code>Newcomer</code>角色</h2>
+<p>如果您还没有加入服务器，请阅读验证帖子，了解如何加入服务器并获得<code>Newcomer</code>角色。</p>
+<h2> 2.下载必要的资源</h2>
+<p>之后，您将获得访问相应下载频道的权限：<code>★⋅koepi-download⋅★</code></p>
 <blockquote>
 <div class="hint-container tip">
 <p class="hint-container-title">如果找不到频道，先确认自己是否打开频道全显示。</p>
 </div>
 </blockquote>
-<h2> 4.准备好！</h2>
+<h2> 3.准备好！</h2>
 <p>在频道中，您将找到指向当前版本和存档密码的链接。祝你好运！</p>
-<h2> 5.如何使用密钥。</h2>
-<p><a href="/zh/guide/key-use.html" target="blank">如何获取并使用密钥</a></p>
+<h2> 4.如何使用密钥。</h2>
+<p><a href="/zh/guide/key-use.html" target="blank">使用密钥</a></p>
 <div class="hint-container danger">
 <p class="hint-container-title">请按照步骤操作，否则将无法下载和使用。</p>
 </div>
