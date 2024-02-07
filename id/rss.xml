@@ -6,17 +6,86 @@
     <link>https://korepi.com/id/</link>
     <description>Pertolongan Korepi</description>
     <language>id-ID</language>
-    <pubDate>Wed, 07 Feb 2024 04:01:03 GMT</pubDate>
-    <lastBuildDate>Wed, 07 Feb 2024 04:01:03 GMT</lastBuildDate>
+    <pubDate>Wed, 07 Feb 2024 04:18:51 GMT</pubDate>
+    <lastBuildDate>Wed, 07 Feb 2024 04:18:51 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+    <category>Fitur</category>
     <category>Guide</category>
     <category>Panduan</category>
     <category>FAQ</category>
     <category>Features</category>
-    <category>Fitur</category>
     <category>Quest Teleport</category>
     <category>Solusi</category>
+    <item>
+      <title>Debug</title>
+      <link>https://korepi.com/id/features/Other/Debug.html</link>
+      <guid>https://korepi.com/id/features/Other/Debug.html</guid>
+      <source url="https://korepi.com/id/rss.xml">Debug</source>
+      <description>Hanya Untuk PERTAMAX! Debug memungkinkan pemain menemukan dan memperbaiki kesalahan atau bug di setiap kode korepi. Ketika korepi tidak bekerja seperti yang diharapkan, pemrogra...</description>
+      <category>Fitur</category>
+      <pubDate>Wed, 07 Feb 2024 04:03:57 GMT</pubDate>
+      <content:encoded><![CDATA[<div class="hint-container info">
+<p class="hint-container-title">Hanya Untuk PERTAMAX!</p>
+</div>
+<hr>
+<h3> Debug memungkinkan pemain menemukan dan memperbaiki kesalahan atau bug di setiap kode korepi. Ketika korepi tidak bekerja seperti yang diharapkan, pemrogram komputer mempelajari kode untuk menentukan alasan terjadinya kesalahan.</h3>
+<blockquote>
+<p>Catatan: Hanya untuk ahli!</p>
+</blockquote>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Hotkeys</title>
+      <link>https://korepi.com/id/features/Other/Hotkeys.html</link>
+      <guid>https://korepi.com/id/features/Other/Hotkeys.html</guid>
+      <source url="https://korepi.com/id/rss.xml">Hotkeys</source>
+      <description>Hotkey memungkinkan pemain mengatur tombol pintasan setiap fitur yang ada.</description>
+      <category>Fitur</category>
+      <pubDate>Wed, 07 Feb 2024 04:03:57 GMT</pubDate>
+      <content:encoded><![CDATA[<h3> Hotkey memungkinkan pemain mengatur tombol pintasan setiap fitur yang ada.</h3>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Risk Unknown</title>
+      <link>https://korepi.com/id/features/Other/Risk%20Unknow.html</link>
+      <guid>https://korepi.com/id/features/Other/Risk%20Unknow.html</guid>
+      <source url="https://korepi.com/id/rss.xml">Risk Unknown</source>
+      <description>Risk Unknown memungkinkan pemain mengakses restricted area tanpa peringatan.</description>
+      <category>Fitur</category>
+      <pubDate>Wed, 07 Feb 2024 04:03:57 GMT</pubDate>
+      <content:encoded><![CDATA[<h3> Risk Unknown memungkinkan pemain mengakses <code>restricted area</code> tanpa peringatan.</h3>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Settings</title>
+      <link>https://korepi.com/id/features/Other/Settings.html</link>
+      <guid>https://korepi.com/id/features/Other/Settings.html</guid>
+      <source url="https://korepi.com/id/rss.xml">Settings</source>
+      <description>Settings memungkinkan pemain untuk mengatur pengaturan Mod Korepi.</description>
+      <category>Fitur</category>
+      <pubDate>Wed, 07 Feb 2024 04:03:57 GMT</pubDate>
+      <content:encoded><![CDATA[<h3> Settings memungkinkan pemain untuk mengatur pengaturan Mod Korepi.</h3>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Map Manager</title>
+      <link>https://korepi.com/id/features/World/map%20manager.html</link>
+      <guid>https://korepi.com/id/features/World/map%20manager.html</guid>
+      <source url="https://korepi.com/id/rss.xml">Map Manager</source>
+      <description>Hanya Untuk PERTAMAX! Map Manager memungkinkan pemain untuk membuka Statue of The Seven dan Teleport Waypoint. Catatan: Buka map setidaknya 1 kali, atau gamenya akan mengalami c...</description>
+      <category>Fitur</category>
+      <pubDate>Wed, 07 Feb 2024 04:03:57 GMT</pubDate>
+      <content:encoded><![CDATA[<div class="hint-container info">
+<p class="hint-container-title">Hanya Untuk PERTAMAX!</p>
+</div>
+<hr>
+<h3> Map Manager memungkinkan pemain untuk membuka <code>Statue of The Seven</code> dan <code>Teleport Waypoint</code>.</h3>
+<blockquote>
+<p>Catatan: Buka map setidaknya 1 kali, atau gamenya akan mengalami crash.</p>
+</blockquote>
+]]></content:encoded>
+    </item>
     <item>
       <title>Free Version</title>
       <link>https://korepi.com/id/guide/free.html</link>
@@ -189,10 +258,14 @@
       <link>https://korepi.com/id/features/Visuals/animation-changer.html</link>
       <guid>https://korepi.com/id/features/Visuals/animation-changer.html</guid>
       <source url="https://korepi.com/id/rss.xml">Animation Changer</source>
-      <description>Animation Changer, Memperbolehkan pemain mengganti animasi karakter ke animasi yang dipilih.</description>
+      <description>Hanya Untuk PERTAMAX! Animation Changer, Memperbolehkan pemain mengganti animasi karakter ke animasi yang dipilih.</description>
       <category>Features</category>
       <pubDate>Mon, 18 Dec 2023 00:59:43 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Animation Changer, Memperbolehkan pemain mengganti animasi karakter ke animasi yang dipilih.</h2>
+      <content:encoded><![CDATA[<div class="hint-container info">
+<p class="hint-container-title">Hanya Untuk PERTAMAX!</p>
+</div>
+<hr>
+<h2> Animation Changer, Memperbolehkan pemain mengganti animasi karakter ke animasi yang dipilih.</h2>
 ]]></content:encoded>
     </item>
     <item>
@@ -211,11 +284,11 @@
       <link>https://korepi.com/id/features/Visuals/constellation-modifier.html</link>
       <guid>https://korepi.com/id/features/Visuals/constellation-modifier.html</guid>
       <source url="https://korepi.com/id/rss.xml">Constellation Modifier</source>
-      <description>Hanya sponsor. Constellation Modifier, Akan membuka konstelasi karakter yang dipilih, secara visual dan ada beberapa yang berfungsi. Anda bisa mendapatkan informasi konstelasi c...</description>
+      <description>Hanya PERTAMAX. Constellation Modifier, Akan membuka konstelasi karakter yang dipilih, secara visual dan ada beberapa yang berfungsi. Anda bisa mendapatkan informasi konstelasi ...</description>
       <category>Features</category>
       <pubDate>Mon, 18 Dec 2023 00:59:43 GMT</pubDate>
       <content:encoded><![CDATA[<div class="hint-container info">
-<p class="hint-container-title">Hanya sponsor.</p>
+<p class="hint-container-title">Hanya PERTAMAX.</p>
 </div>
 <hr>
 <h2> Constellation Modifier, Akan membuka konstelasi karakter yang dipilih, secara visual dan ada beberapa yang berfungsi.</h2>
@@ -274,10 +347,14 @@
       <link>https://korepi.com/id/features/Visuals/custom-weather.html</link>
       <guid>https://korepi.com/id/features/Visuals/custom-weather.html</guid>
       <source url="https://korepi.com/id/rss.xml">Custom Weather</source>
-      <description>Custom weather, memperbolehkan mengubah cuaca dengan pilihan yang Anda mau gunakan.</description>
+      <description>Hanya Untuk PERTAMAX! Custom weather, memperbolehkan mengubah cuaca dengan pilihan yang Anda mau gunakan.</description>
       <category>Features</category>
       <pubDate>Mon, 18 Dec 2023 00:59:43 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Custom weather, memperbolehkan mengubah cuaca dengan pilihan yang Anda mau gunakan.</h2>
+      <content:encoded><![CDATA[<div class="hint-container info">
+<p class="hint-container-title">Hanya Untuk PERTAMAX!</p>
+</div>
+<hr>
+<h2> Custom weather, memperbolehkan mengubah cuaca dengan pilihan yang Anda mau gunakan.</h2>
 ]]></content:encoded>
     </item>
     <item>
@@ -285,10 +362,14 @@
       <link>https://korepi.com/id/features/Visuals/emotion-changer.html</link>
       <guid>https://korepi.com/id/features/Visuals/emotion-changer.html</guid>
       <source url="https://korepi.com/id/rss.xml">Emotion Changer</source>
-      <description>Emotion Changer Memperbolehkan pemain mengganti ekspresi wajah karakter.</description>
+      <description>Hanya Untuk PERTAMAX! Emotion Changer Memperbolehkan pemain mengganti ekspresi wajah karakter.</description>
       <category>Features</category>
       <pubDate>Mon, 18 Dec 2023 00:59:43 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Emotion Changer Memperbolehkan pemain mengganti ekspresi wajah karakter.</h2>
+      <content:encoded><![CDATA[<div class="hint-container info">
+<p class="hint-container-title">Hanya Untuk PERTAMAX!</p>
+</div>
+<hr>
+<h2> Emotion Changer Memperbolehkan pemain mengganti ekspresi wajah karakter.</h2>
 ]]></content:encoded>
     </item>
     <item>
@@ -296,10 +377,14 @@
       <link>https://korepi.com/id/features/Visuals/extra-visual-settings.html</link>
       <guid>https://korepi.com/id/features/Visuals/extra-visual-settings.html</guid>
       <source url="https://korepi.com/id/rss.xml">Extra Visual Settings</source>
-      <description>Extra Visual Settings: Gamma: Memperbolehkan Anda mengganti nilai gamma dari game.; Outline Width: Memperbolehkan Anda menganti garis luar karakter yang ada di game.; Anti-Alias...</description>
+      <description>Hanya Untuk Sponsor! Extra Visual Settings: Gamma: Memperbolehkan Anda mengganti nilai gamma dari game.; Outline Width: Memperbolehkan Anda menganti garis luar karakter yang ada...</description>
       <category>Features</category>
       <pubDate>Mon, 18 Dec 2023 00:59:43 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Extra Visual Settings:</h2>
+      <content:encoded><![CDATA[<div class="hint-container info">
+<p class="hint-container-title">Hanya Untuk Sponsor!</p>
+</div>
+<hr>
+<h2> Extra Visual Settings:</h2>
 <h3> Gamma:</h3>
 <ul>
 <li>Memperbolehkan Anda mengganti nilai gamma dari game.</li>
@@ -319,10 +404,14 @@
       <link>https://korepi.com/id/features/Visuals/fake-time.html</link>
       <guid>https://korepi.com/id/features/Visuals/fake-time.html</guid>
       <source url="https://korepi.com/id/rss.xml">Fake Time</source>
-      <description>Fake Time: Mengubah waktu (jam dan menit) dalam game.;</description>
+      <description>Hanya Untuk Sponsor! Fake Time: Mengubah waktu (jam dan menit) dalam game.;</description>
       <category>Features</category>
       <pubDate>Mon, 18 Dec 2023 00:59:43 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Fake Time:</h2>
+      <content:encoded><![CDATA[<div class="hint-container info">
+<p class="hint-container-title">Hanya Untuk Sponsor!</p>
+</div>
+<hr>
+<h2> Fake Time:</h2>
 <ul>
 <li>Mengubah waktu (jam dan menit) dalam game.</li>
 </ul>
@@ -333,10 +422,14 @@
       <link>https://korepi.com/id/features/Visuals/flycloak-modifier.html</link>
       <guid>https://korepi.com/id/features/Visuals/flycloak-modifier.html</guid>
       <source url="https://korepi.com/id/rss.xml">Flycloack Modifier</source>
-      <description>Flycloack Modifier Memperbolehkan pemain untuk mengganti skin glider bahkan jika Anda tidak mempunyainya.</description>
+      <description>Hanya Untuk PERTAMAX! Flycloack Modifier Memperbolehkan pemain untuk mengganti skin glider bahkan jika Anda tidak mempunyainya.</description>
       <category>Features</category>
       <pubDate>Mon, 18 Dec 2023 00:59:43 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Flycloack Modifier Memperbolehkan pemain untuk mengganti skin glider bahkan jika Anda tidak mempunyainya.</h2>
+      <content:encoded><![CDATA[<div class="hint-container info">
+<p class="hint-container-title">Hanya Untuk PERTAMAX!</p>
+</div>
+<hr>
+<h2> Flycloack Modifier Memperbolehkan pemain untuk mengganti skin glider bahkan jika Anda tidak mempunyainya.</h2>
 ]]></content:encoded>
     </item>
     <item>
@@ -359,10 +452,14 @@
       <link>https://korepi.com/id/features/Visuals/free-camera.html</link>
       <guid>https://korepi.com/id/features/Visuals/free-camera.html</guid>
       <source url="https://korepi.com/id/rss.xml">Free Camera</source>
-      <description>Free Camera: Menggerakkan kamera secara bebas tanpa terkunci pada karakter.; Freeze Character Animation: Membekukan animasi karakter.; Make Character Invisible: Membuat karakter...</description>
+      <description>Hanya Untuk Sponsor! Free Camera: Menggerakkan kamera secara bebas tanpa terkunci pada karakter.; Freeze Character Animation: Membekukan animasi karakter.; Make Character Invisi...</description>
       <category>Features</category>
       <pubDate>Mon, 18 Dec 2023 00:59:43 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Free Camera:</h2>
+      <content:encoded><![CDATA[<div class="hint-container info">
+<p class="hint-container-title">Hanya Untuk Sponsor!</p>
+</div>
+<hr>
+<h2> Free Camera:</h2>
 <ul>
 <li>Menggerakkan kamera secara bebas tanpa terkunci pada karakter.</li>
 </ul>
@@ -422,10 +519,14 @@
       <link>https://korepi.com/id/features/Visuals/monster-changer.html</link>
       <guid>https://korepi.com/id/features/Visuals/monster-changer.html</guid>
       <source url="https://korepi.com/id/rss.xml">Monster Changer</source>
-      <description>Monster Changer: Jika diaktifkan, semua monster akan terubah secara visual ke monster yang dipilih.; Exclude Animals: Aktif atau Non-aktif mengganti visual hewan.; Custom Monste...</description>
+      <description>Hanya Untuk Sponsor! Monster Changer: Jika diaktifkan, semua monster akan terubah secara visual ke monster yang dipilih.; Exclude Animals: Aktif atau Non-aktif mengganti visual ...</description>
       <category>Features</category>
       <pubDate>Mon, 18 Dec 2023 00:59:43 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Monster Changer:</h2>
+      <content:encoded><![CDATA[<div class="hint-container info">
+<p class="hint-container-title">Hanya Untuk Sponsor!</p>
+</div>
+<hr>
+<h2> Monster Changer:</h2>
 <ul>
 <li>Jika diaktifkan, semua monster akan terubah secara visual ke monster yang dipilih.</li>
 </ul>
@@ -448,7 +549,7 @@
       <link>https://korepi.com/id/features/Visuals/others.html</link>
       <guid>https://korepi.com/id/features/Visuals/others.html</guid>
       <source url="https://korepi.com/id/rss.xml">Others</source>
-      <description>Other Features: Show Chest Indicator Enable Peeking No Black Screen No fog No grass No map fog Paimon Follow Dolphin Dive GM Icon Menu Unlocker Sponsor Only No Camera Blur No Ca...</description>
+      <description>Other Features: Show Chest Indicator Enable Peeking No Black Screen No fog No grass No map fog Paimon Follow Menu Unlocker Sponsor Only No Camera Blur No Camera Shake Dolphin Di...</description>
       <category>Features</category>
       <pubDate>Mon, 18 Dec 2023 00:59:43 GMT</pubDate>
       <content:encoded><![CDATA[<h2> Other Features:</h2>
@@ -459,12 +560,12 @@
 <h3> No grass</h3>
 <h3> No map fog</h3>
 <h3> Paimon Follow</h3>
-<h3> Dolphin Dive</h3>
-<h3> GM Icon</h3>
 <h3> Menu Unlocker</h3>
 <h2> <span style="color:yellow;">Sponsor Only</span></h2>
 <h3> No Camera Blur</h3>
 <h3> No Camera Shake</h3>
+<h3> Dolphin Dive</h3>
+<h3> GM Icon</h3>
 <h3> No Footprints</h3>
 <h3> No Burst Animation</h3>
 ]]></content:encoded>
@@ -474,10 +575,14 @@
       <link>https://korepi.com/id/features/Visuals/skin-modifier.html</link>
       <guid>https://korepi.com/id/features/Visuals/skin-modifier.html</guid>
       <source url="https://korepi.com/id/rss.xml">Skin Modifier</source>
-      <description>Skin Modifier memperbolehkan pemain menggunakan skin dari game dengan gratis.</description>
+      <description>Hanya Untuk PERTAMAX! Skin Modifier memperbolehkan pemain menggunakan skin dari game dengan gratis.</description>
       <category>Features</category>
       <pubDate>Mon, 18 Dec 2023 00:59:43 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Skin Modifier memperbolehkan pemain menggunakan skin dari game dengan gratis.</h2>
+      <content:encoded><![CDATA[<div class="hint-container info">
+<p class="hint-container-title">Hanya Untuk PERTAMAX!</p>
+</div>
+<hr>
+<h2> Skin Modifier memperbolehkan pemain menggunakan skin dari game dengan gratis.</h2>
 ]]></content:encoded>
     </item>
     <item>
@@ -533,13 +638,13 @@
       <link>https://korepi.com/id/features/Teleport/custom-teleport.html</link>
       <guid>https://korepi.com/id/features/Teleport/custom-teleport.html</guid>
       <source url="https://korepi.com/id/rss.xml">Custom Teleport</source>
-      <description>Custom Teleport: Memungkinkan pemain untuk teleportasi ke lokasi yang dipilih yang telah didesain di file .json. Interpolation Speed: Mengkontrol kecepatan animasi teleportasi, ...</description>
+      <description>Custom Teleport: Memungkinkan pemain untuk teleportasi ke lokasi yang dipilih yang telah didesain di file .json. Interpolation Speed: Mengontrol kecepatan animasi teleportasi, a...</description>
       <category>Fitur</category>
       <pubDate>Sat, 16 Dec 2023 23:36:46 GMT</pubDate>
       <content:encoded><![CDATA[<h2> Custom Teleport: Memungkinkan pemain untuk teleportasi ke lokasi yang dipilih yang telah didesain di file <code>.json</code>.</h2>
 <h3> Interpolation Speed:</h3>
 <ul>
-<li>Mengkontrol kecepatan animasi teleportasi, atur ke <code>0.1</code> untuk menghindari masalah.</li>
+<li>Mengontrol kecepatan animasi teleportasi, atur ke <code>0.1</code> untuk menghindari masalah.</li>
 </ul>
 <h3> Auto Teleport:</h3>
 <ul>
@@ -561,10 +666,10 @@
       <link>https://korepi.com/id/features/Teleport/map-teleport.html</link>
       <guid>https://korepi.com/id/features/Teleport/map-teleport.html</guid>
       <source url="https://korepi.com/id/rss.xml">Map Teleport</source>
-      <description>Map Teleport memungkinkanmu untuk berpindah ke mana saja di peta. Untuk menggunakan teleport peta, Anda harus mengaktifkannya, dan pilih tombol pintas yang akan Anda gunakan.; U...</description>
+      <description>Map Teleport memungkinkan pemain untuk berpindah ke mana saja di peta. Untuk menggunakan teleport peta, Anda harus mengaktifkannya, dan pilih tombol pintas yang akan Anda gunaka...</description>
       <category>Fitur</category>
       <pubDate>Sat, 16 Dec 2023 23:36:46 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Map Teleport memungkinkanmu untuk berpindah ke mana saja di peta.</h2>
+      <content:encoded><![CDATA[<h2> Map Teleport memungkinkan pemain untuk berpindah ke mana saja di peta.</h2>
 <ul>
 <li>Untuk menggunakan teleport peta, Anda harus mengaktifkannya, dan pilih tombol pintas yang akan Anda gunakan.</li>
 <li>Untuk melakukan teleportasi, tahan tombol pintas saat membuka peta dan klik di mana Anda ingin melakukan teleportasi.</li>
@@ -582,11 +687,11 @@
       <link>https://korepi.com/id/features/Teleport/quest-teleport.html</link>
       <guid>https://korepi.com/id/features/Teleport/quest-teleport.html</guid>
       <source url="https://korepi.com/id/rss.xml">Quest Teleport</source>
-      <description>Quest Teleports memungkinkanmu untuk teleportasi ke lokasi misi yang sedang berlangsung saat itu juga. Untuk menggunakan fitur ini, Anda harus tekan tombol navigasi terlebih dah...</description>
+      <description>Quest Teleports memungkinkan pemain untuk teleportasi ke lokasi misi yang sedang berlangsung saat itu juga. Untuk menggunakan fitur ini, Anda harus tekan tombol navigasi terlebi...</description>
       <category>Fitur</category>
       <category>Quest Teleport</category>
       <pubDate>Sat, 16 Dec 2023 23:36:46 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Quest Teleports memungkinkanmu untuk teleportasi ke lokasi misi yang sedang berlangsung saat itu juga.</h2>
+      <content:encoded><![CDATA[<h2> Quest Teleports memungkinkan pemain untuk teleportasi ke lokasi misi yang sedang berlangsung saat itu juga.</h2>
 <ul>
 <li>Untuk menggunakan fitur ini, Anda harus tekan tombol navigasi terlebih dahulu, kemudian tekan tombol teleport misi.</li>
 </ul>
@@ -649,7 +754,7 @@
 <ul>
 <li>Mengenai titik lemah target sehingga memicu serangan kritis, <code>hanya berfungsi dengan pengguna panah</code>.</li>
 </ul>
-<h3> Critical Hit (Sponsor!):</h3>
+<h3> Critical Rate (Sponsor!):</h3>
 <ul>
 <li>Mengubah probabilitas serangan kritis.</li>
 </ul>
@@ -901,11 +1006,11 @@ Catatan 2: <a href="/id/features/Player/extra-movements.html" target="blank">Ext
       <link>https://korepi.com/id/features/Player/remote-utility.html</link>
       <guid>https://korepi.com/id/features/Player/remote-utility.html</guid>
       <source url="https://korepi.com/id/rss.xml">Remote Utility</source>
-      <description>Hanya Untuk Sponsor! Remote Utility: Claim Daily Commision Reward: Mengklaim hadiah komisi harian saat 4 komisi telah selesai dilakukan.; Custom Talk: Memulai percakapan menggun...</description>
+      <description>Hanya Untuk PERTAMAX! Remote Utility: Claim Daily Commision Reward: Mengklaim hadiah komisi harian saat 4 komisi telah selesai dilakukan.; Custom Talk: Memulai percakapan menggu...</description>
       <category>Fitur</category>
       <pubDate>Sat, 16 Dec 2023 12:12:13 GMT</pubDate>
       <content:encoded><![CDATA[<div class="hint-container info">
-<p class="hint-container-title">Hanya Untuk Sponsor!</p>
+<p class="hint-container-title">Hanya Untuk PERTAMAX!</p>
 </div>
 <hr>
 <h2> Remote Utility:</h2>
@@ -1029,10 +1134,14 @@ Catatan 2: Anda dapat menemukan ID barang <a href="https://github.com/jie65535/G
       <link>https://korepi.com/id/features/World/auto-cook.html</link>
       <guid>https://korepi.com/id/features/World/auto-cook.html</guid>
       <source url="https://korepi.com/id/rss.xml">Auto Cook</source>
-      <description>Auto Cook memungkinkan Anda untuk memasak dalam jumlah dan kualitas makanan yang dipilih secara otomatis di halaman memasak, dilengkapi dengan keahlian otomatis (Auto unlock aut...</description>
+      <description>Hanya Untuk PERTAMAX! Auto Cook memungkinkan Anda untuk memasak dalam jumlah dan kualitas makanan yang dipilih secara otomatis di halaman memasak, dilengkapi dengan keahlian oto...</description>
       <category>Fitur</category>
       <pubDate>Fri, 15 Dec 2023 14:22:50 GMT</pubDate>
-      <content:encoded><![CDATA[<h3> Auto Cook memungkinkan Anda untuk memasak dalam jumlah dan kualitas makanan yang dipilih secara otomatis di halaman memasak, dilengkapi dengan keahlian otomatis (Auto unlock auto cook) bawaan.</h3>
+      <content:encoded><![CDATA[<div class="hint-container info">
+<p class="hint-container-title">Hanya Untuk PERTAMAX!</p>
+</div>
+<hr>
+<h3> Auto Cook memungkinkan Anda untuk memasak dalam jumlah dan kualitas makanan yang dipilih secara otomatis di halaman memasak, dilengkapi dengan keahlian otomatis (Auto unlock auto cook) bawaan.</h3>
 <h2> Video contoh:</h2>
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/T_X13AXiAiY?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Cook" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>]]></content:encoded>
     </item>
@@ -1041,10 +1150,14 @@ Catatan 2: Anda dapat menemukan ID barang <a href="https://github.com/jie65535/G
       <link>https://korepi.com/id/features/World/auto-destroy.html</link>
       <guid>https://korepi.com/id/features/World/auto-destroy.html</guid>
       <source url="https://korepi.com/id/rss.xml">Auto Destroy Objects</source>
-      <description>Auto Destroy Objects memungkinkan Anda menghancurkan objek yang dapat disesuaikan dalam jangkauan tertentu, termasuk bahan tambang, tanaman, tumpukan batu, peti, objek khusus, p...</description>
+      <description>Hanya Untuk PERTAMAX! Auto Destroy Objects memungkinkan Anda menghancurkan objek yang dapat disesuaikan dalam jangkauan tertentu, termasuk bahan tambang, tanaman, tumpukan batu,...</description>
       <category>Fitur</category>
       <pubDate>Fri, 15 Dec 2023 14:22:50 GMT</pubDate>
-      <content:encoded><![CDATA[<h3> Auto Destroy Objects memungkinkan Anda menghancurkan objek yang dapat disesuaikan dalam jangkauan tertentu, termasuk bahan tambang, tanaman, tumpukan batu, peti, objek khusus, perisai, dan lainnya.</h3>
+      <content:encoded><![CDATA[<div class="hint-container info">
+<p class="hint-container-title">Hanya Untuk PERTAMAX!</p>
+</div>
+<hr>
+<h3> Auto Destroy Objects memungkinkan Anda menghancurkan objek yang dapat disesuaikan dalam jangkauan tertentu, termasuk bahan tambang, tanaman, tumpukan batu, peti, objek khusus, perisai, dan lainnya.</h3>
 <h2> Video contoh:</h2>
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/3ML6s3SR8nE?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Destroy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 <blockquote>
@@ -1057,10 +1170,14 @@ Catatan 2: Anda dapat menemukan ID barang <a href="https://github.com/jie65535/G
       <link>https://korepi.com/id/features/World/auto-fish.html</link>
       <guid>https://korepi.com/id/features/World/auto-fish.html</guid>
       <source url="https://korepi.com/id/rss.xml">Auto Fish</source>
-      <description>Auto fish memungkinkan Anda untuk melewati animasi menangkap ikan, yang pasti akan mengurangi waktu yang dibutuhkan untuk menangkap ikan. Video contoh: Catatan: Auto Recast tida...</description>
+      <description>Hanya Untuk PERTAMAX! Auto fish memungkinkan Anda untuk melewati animasi menangkap ikan, yang pasti akan mengurangi waktu yang dibutuhkan untuk menangkap ikan. Video contoh: Cat...</description>
       <category>Fitur</category>
       <pubDate>Fri, 15 Dec 2023 14:22:50 GMT</pubDate>
-      <content:encoded><![CDATA[<h3> Auto fish memungkinkan Anda untuk melewati animasi menangkap ikan, yang pasti akan mengurangi waktu yang dibutuhkan untuk menangkap ikan.</h3>
+      <content:encoded><![CDATA[<div class="hint-container info">
+<p class="hint-container-title">Hanya Untuk PERTAMAX!</p>
+</div>
+<hr>
+<h3> Auto fish memungkinkan Anda untuk melewati animasi menangkap ikan, yang pasti akan mengurangi waktu yang dibutuhkan untuk menangkap ikan.</h3>
 <h2> Video contoh:</h2>
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/K_l4Tg-81iQ?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Fish" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 <blockquote>
@@ -1153,11 +1270,11 @@ Catatan 2: Jika menggunakan jarak yang jauh maka waktu jeda yang lama juga di pe
       <link>https://korepi.com/id/features/World/auto-tree-farm.html</link>
       <guid>https://korepi.com/id/features/World/auto-tree-farm.html</guid>
       <source url="https://korepi.com/id/rss.xml">Auto Tree Farm</source>
-      <description>Hanya Untuk Sponsor! Auto Tree Farm memungkinkan Anda untuk memukul pohon-pohon di sekitar secara otomatis dengan nilai dan waktu jeda yang dipilih, sehingga mendapatkan kayu se...</description>
+      <description>Hanya Untuk PERTAMAX! Auto Tree Farm memungkinkan Anda untuk memukul pohon-pohon di sekitar secara otomatis dengan nilai dan waktu jeda yang dipilih, sehingga mendapatkan kayu s...</description>
       <category>Fitur</category>
       <pubDate>Fri, 15 Dec 2023 14:22:50 GMT</pubDate>
       <content:encoded><![CDATA[<div class="hint-container info">
-<p class="hint-container-title">Hanya Untuk Sponsor!</p>
+<p class="hint-container-title">Hanya Untuk PERTAMAX!</p>
 </div>
 <hr>
 <h3> Auto Tree Farm memungkinkan Anda untuk memukul pohon-pohon di sekitar secara otomatis dengan nilai dan waktu jeda yang dipilih, sehingga mendapatkan kayu secara otomatis dari pohon-pohon di sekitar.</h3>
@@ -1208,10 +1325,14 @@ Catatan 2: Jika menggunakan jarak yang jauh maka waktu jeda yang lama juga di pe
       <link>https://korepi.com/id/features/World/kill-aura.html</link>
       <guid>https://korepi.com/id/features/World/kill-aura.html</guid>
       <source url="https://korepi.com/id/rss.xml">Kill Aura</source>
-      <description>Kill Aura: Memberikan kerusakan kepada musuh di sekitar. Crash Damage mode: Memberikan fall damage kepada musuh di sekitar dengan nilai, waktu jeda, dan jarak jangkau tertentu.;...</description>
+      <description>Hanya Untuk PERTAMAX! Kill Aura: Memberikan kerusakan kepada musuh di sekitar. Crash Damage mode: Memberikan fall damage kepada musuh di sekitar dengan nilai, waktu jeda, dan ja...</description>
       <category>Fitur</category>
       <pubDate>Fri, 15 Dec 2023 14:22:50 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Kill Aura: Memberikan kerusakan kepada musuh di sekitar.</h2>
+      <content:encoded><![CDATA[<div class="hint-container info">
+<p class="hint-container-title">Hanya Untuk PERTAMAX!</p>
+</div>
+<hr>
+<h2> Kill Aura: Memberikan kerusakan kepada musuh di sekitar.</h2>
 <h1> Catatan: Fitur ini memiliki risiko tinggi terkena ban.</h1>
 <h3> Crash Damage mode:</h3>
 <ul>
@@ -1251,10 +1372,14 @@ Catatan 2: Tidak disarankan untuk digunakan.</p>
       <link>https://korepi.com/id/features/World/mob-vacuum.html</link>
       <guid>https://korepi.com/id/features/World/mob-vacuum.html</guid>
       <source url="https://korepi.com/id/rss.xml">Mob Vacuum</source>
-      <description>Mob Vacuum manarik makhluk hidup yang dekat ke pemain dengan kecepatan dan jarak jangkau yang dipilih, makhluk hidup yang akan terpengaruh dapat disesuaikan. Video contoh: Catat...</description>
+      <description>Hanya Untuk PERTAMAX! Mob Vacuum manarik makhluk hidup yang dekat ke pemain dengan kecepatan dan jarak jangkau yang dipilih, makhluk hidup yang akan terpengaruh dapat disesuaika...</description>
       <category>Fitur</category>
       <pubDate>Fri, 15 Dec 2023 14:22:50 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Mob Vacuum manarik makhluk hidup yang dekat ke pemain dengan kecepatan dan jarak jangkau yang dipilih, makhluk hidup yang akan terpengaruh dapat disesuaikan.</h2>
+      <content:encoded><![CDATA[<div class="hint-container info">
+<p class="hint-container-title">Hanya Untuk PERTAMAX!</p>
+</div>
+<hr>
+<h2> Mob Vacuum manarik makhluk hidup yang dekat ke pemain dengan kecepatan dan jarak jangkau yang dipilih, makhluk hidup yang akan terpengaruh dapat disesuaikan.</h2>
 <h2> Video contoh:</h2>
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/KNzVgG_V10I?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Mob Vacuum" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 <blockquote>
@@ -1267,10 +1392,14 @@ Catatan 2: Tidak disarankan untuk digunakan.</p>
       <link>https://korepi.com/id/features/World/vacuum-loot.html</link>
       <guid>https://korepi.com/id/features/World/vacuum-loot.html</guid>
       <source url="https://korepi.com/id/rss.xml">Vacuum Loot</source>
-      <description>Vacuum Loot memindahkan drop-item di sekitar ke pemain dengan jarak jangkau dan waktu jeda yang ditentukan. Video contoh: Catatan: Disarankan di bawah 20m.</description>
+      <description>Hanya Untuk PERTAMAX! Vacuum Loot memindahkan drop-item di sekitar ke pemain dengan jarak jangkau dan waktu jeda yang ditentukan. Video contoh: Catatan: Disarankan di bawah 20m.</description>
       <category>Fitur</category>
       <pubDate>Fri, 15 Dec 2023 14:22:50 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Vacuum Loot memindahkan drop-item di sekitar ke pemain dengan jarak jangkau dan waktu jeda yang ditentukan.</h2>
+      <content:encoded><![CDATA[<div class="hint-container info">
+<p class="hint-container-title">Hanya Untuk PERTAMAX!</p>
+</div>
+<hr>
+<h2> Vacuum Loot memindahkan drop-item di sekitar ke pemain dengan jarak jangkau dan waktu jeda yang ditentukan.</h2>
 <h2> Video contoh:</h2>
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/iMElTsNF77c?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Vacuum Loot" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 <blockquote>
