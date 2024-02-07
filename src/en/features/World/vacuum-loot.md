@@ -6,7 +6,7 @@ category:
 tag:
   - Vacuum Loot
 author: Schvis
-order: 14
+order: 15
 ---
 ::: info PERTAMAX Only
 :::
