@@ -17,7 +17,7 @@ actions:
 - text: Hızlı Başlangıç
   icon: lightbulb
   link: ./start/
-- text: Kılavuzlar
+- text: Kılavuz
   icon: book
   link: ./guide/
 
