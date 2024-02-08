@@ -2,7 +2,7 @@
 title: Auto Domain
 icon: bolt
 category:
-  - Features
+  - Tính Năng
 tag:
   - Auto Domain
 author: Schvis

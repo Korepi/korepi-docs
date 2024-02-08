@@ -2,7 +2,7 @@
 title: Tốc Độ Nhân Vật
 icon: forward-fast
 category:
-  - Các Tính Năng
+  - Tính Năng
 tag:
   - Tốc Độ Nhân Vật
 author: Schvis

@@ -2,7 +2,7 @@
 title: Di Chuyển Nâng Cao
 icon: bolt
 category:
-  - Các Tính Năng
+  - Tính Năng
 tag:
   - Di Chuyển Nâng Cao
 author: Schvis

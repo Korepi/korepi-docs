@@ -2,7 +2,7 @@
 title: Nhảy Vọt
 icon: carrot
 category:
-  - Các Tính Năng
+  - Tính Năng
 tag:
   - Nhảy Vọt
 author: Schvis

@@ -2,7 +2,7 @@
 title: Kiểm Soát Tốc Độ Rơi
 icon: person-falling
 category:
-  - Các Tính Năng
+  - Tính Năng
 tag:
   - Kiểm Soát Tốc Độ Rơi
 author: Schvis

@@ -2,7 +2,7 @@
 title: Ẩn Giao Diện
 icon: square
 category:
-  - Các Tính Năng
+  - Tính Năng
 tag:
   - Ẩn Giao Diện
 author: Schvis

@@ -2,7 +2,7 @@
 title: Tự Động Kích Hoạt Điểm Dịch Chuyển
 icon: satellite-dish
 category:
-  - Các Tính Năng
+  - Tính Năng
 tag:
   - Tự Động Kích Hoạt Điểm Dịch Chuyển
 author: Schvis

@@ -2,13 +2,13 @@
 title: Tự Động Đốn Gỗ
 icon: tree
 category:
-  - Các Tính Năng
+  - Tính Năng
 tag:
   - Tự Động Đốn Gỗ
 author: Schvis, Chloe
 order: 9
 ---
-::: info Chức Năng Chỉ Dành Cho Nhà Tài Trợ
+::: info Chỉ có ở phiên bản PERTAMAX
 :::
 ---
 ### Tự Động Đốn Gỗ cho phép bạn đốn các cây xung quanh trong phạm vi và độ trễ nhất định để lấy gỗ.
