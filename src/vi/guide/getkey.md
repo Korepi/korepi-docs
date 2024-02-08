@@ -26,7 +26,7 @@ Nếu như bạn mua key từ reseller, hãy click vào `bind card str` rồi d�
 :::
 =======
 ### Bước 3:
-::: info If you already got a enc.json delete it before opening the program
+::: info Nếu trong thư mục chứa Korepi đã tồn tại một file enc.json, hãy xoá nó trước khi mở Korepi
 :::
 Click vào `Get Verification File`, sau đó điền `HWID (device ID)` mà bạn nhận được khi mở Korepi.
 - Bạn sẽ nhận được một file từ bot. Tải nó về rồi đặt vào trong thư mục chứa Korepi. Hãy đảm bảo rằng tên của file phải là `enc.json`.

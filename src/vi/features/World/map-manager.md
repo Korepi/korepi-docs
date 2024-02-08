@@ -1,12 +1,12 @@
 ---
-title: Quản lí bản đồ
+title: Quản Lý Bản Đồ
 icon: satellite-dish
 category:
-  - Tính Năng
+  - Tính năng
 tag:
-  - Quản lí bản đồ
+  - Quản Lý Bản Đồ
 author: Schvis
 order: 13
 ---
 
-### Quản lí bản đồ cho phép người chơi mở khoá Thất Thiên Thần Tượng hoặc Điểm dịch chuyển một cách tự động mà không cần di chuyển, nó thật tuyệt với khi tạo nhiều tài khoản reroll.
+### Quản Lý Bản Đồ cho phép người chơi mở khoá các Thất Thiên Thần Tượng hoặc điểm dịch chuyển một cách tự động mà không phải di chuyển. Đây là một tính năng rất hữu ích khi tạo tài khoản reroll.

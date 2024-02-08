@@ -30,7 +30,7 @@ Nếu như tin nhắn gắn thẻ (bind message) hiển thị `Success` có ngh�
 
 =======
 ### Bước 4:
-::: info If you already got a enc.json delete it before opening the program
+::: info Nếu trong thư mục chứa Korepi đã tồn tại một file enc.json, hãy xoá nó trước khi mở Korepi
 :::
 Mở Korepi để lấy `HWID`, sau đó đi đến kênh `★⋅micah-bot-verify⋅★` và click vào `Get verification file` rồi sau đó dán `HWID` của bạn vào.
 

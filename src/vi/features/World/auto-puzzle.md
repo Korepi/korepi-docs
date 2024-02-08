@@ -1,12 +1,13 @@
 ---
-title: Tự động giải đố
+title: Tự Động Giải Đố
 icon: bolt
 category:
   - Tính Năng
 tag:
-  - Tự động giải đố
+  - Tự Động Giải Đố
 author: Schvis
 order: 12
 ---
 
-## Sẽ có sau.
+
+## Sắp Ra Mắt.

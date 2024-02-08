@@ -1,5 +1,5 @@
 ---
-title: Hào Quang Huỷ Diệt
+title: Hào Quang Huỷ Diệt (Kill Aura)
 icon: street-view
 category:
   - Tính Năng

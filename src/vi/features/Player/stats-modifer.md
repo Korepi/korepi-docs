@@ -1,12 +1,12 @@
 ---
-title: Tinh chỉnh thông số
+title: Tinh Chỉnh Thông Số
 icon: bolt
 category:
   - Tính Năng
 tag:
-  - Tinh chỉnh thông số
+  - Tinh Chỉnh Thông Số
 author: Schvis
 order: 12
 ---
 
-## Soon.
+## Sắp Ra Mắt.
