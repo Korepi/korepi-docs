@@ -5,7 +5,7 @@ category:
   - Guide
 tag:
   - Start
-author: Schvis, Rodanz
+author: Schvis, RodanZ
 order: 6
 ---
 
