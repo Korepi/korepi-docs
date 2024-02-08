@@ -38,6 +38,6 @@ Sau khi nhấn xác nhận, bạn sẽ nhận được một file từ bot. Sau 
 
 =======
 ### Bước 5:
-Mở Korepi lên và làm theo hướng dẫn ghi trong cmd.
+Mở lại Korepi và chọn đường dẫn của game nếu bạn chưa từng làm việc này, sau đấy Korepi sẽ khởi chạy và tiêm vào trò chơi.
 
-Tận Hưởng Korepi!
+Xong rồi, hãy Tận Hưởng Korepi thôi!

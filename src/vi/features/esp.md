@@ -2,7 +2,7 @@
 title: ESP
 icon: satellite-dish
 category:
-  - Các Tính Năng
+  - Tính Năng
 tag:
   - ESP
 author: Schvis

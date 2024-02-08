@@ -2,7 +2,7 @@
 title: Hiệu Ứng Hồi Chiêu
 icon: clock-rotate-left
 category:
-  - Các Tính Năng
+  - Tính Năng
 tag:
   - Hiệu Ứng Hồi Chiêu
 author: Schvis

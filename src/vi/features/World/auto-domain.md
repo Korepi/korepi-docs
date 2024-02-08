@@ -2,7 +2,7 @@
 title: Tự Động Chạy Bí Cảnh
 icon: bolt
 category:
-  - Các Tính Năng
+  - Tính Năng
 tag:
   - Tự Động Chạy Bí Cảnh
 author: Schvis

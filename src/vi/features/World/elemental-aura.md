@@ -2,7 +2,7 @@
 title: Hào Quang Nguyên Tố
 icon: street-view
 category:
-  - Các Tính Năng
+  - Tính Năng
 tag:
   - Hào Quang Nguyên Tố
 author: Schvis

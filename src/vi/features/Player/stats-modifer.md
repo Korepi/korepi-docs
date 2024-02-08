@@ -1,10 +1,10 @@
 ---
-title: Chỉnh Sửa Thông Số Nhân Vật
+title: Tinh Chỉnh Thông Số
 icon: bolt
 category:
-  - Các Tính Năng
+  - Tính Năng
 tag:
-  - Chỉnh Sửa Thông Số Nhân Vật
+  - Tinh Chỉnh Thông Số
 author: Schvis
 order: 12
 ---

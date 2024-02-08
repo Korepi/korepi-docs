@@ -2,7 +2,7 @@
 title: Hiệu Ứng Tấn Công
 icon: explosion
 category:
-  - Các Tính Năng
+  - Tính Năng
 tag:
   - Hiệu Ứng Tấn Công
 author: Schvis

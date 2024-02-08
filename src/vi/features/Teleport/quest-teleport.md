@@ -2,7 +2,7 @@
 title: Dịch Chuyển Tới Nhiệm Vụ
 icon: person-rays
 category:
-  - Các Tính Năng
+  - Tính Năng
 tag:
   - Dịch Chuyển Tới Nhiệm Vụ
 author: Schvis

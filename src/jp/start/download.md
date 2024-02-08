@@ -12,20 +12,20 @@ author:
 order: 7
 ---
 
-# Download
+# ダウンロード
 
-## Introduction
+## はじめに
 
-Welcome to our community! To pass the bot check and receive the `Newcomer` role, follow these steps.
+コミュニティへようこそ。botチェックを通過し、`Newcomer`ロールを受け取るには、以下の手順に従ってください。
 
-### Step 1: Join our server and obtain the `Newcomer` role
+### ステップ 1: サーバーにログインし、`Newcomer`ロールを取得します。
 
-If you haven't joined the server yet, please read the verification post, which describes how to join the server and obtain the `Newcomer`.
+まだサーバーに参加されていない方は、サーバーへの参加方法と`Newcomer`の取得方法について書かれたページをお読みください。
 
-### Step 2: Go to the channel `★⋅korepi-download⋅★`
+### ステップ 2: `★⋅korepi-download⋅★`チャンネルへ移動
 
-Locate the channel `★⋅korepi-download⋅★` and follow the link to download the program.
+`★⋅korepi-download⋅★`チャンネルを探し、リンクをたどってソフトをダウンロードしてください。
 
-### Step 3: Ready!
+### ステップ 3: 準備完了！
 
-Place the .rar in a folder and add it to [exclusions](../guide/virus.md), after that extract it and follow this [guide](../guide/getkey.md)
+.rarをフォルダに入れ、[除外リスト](../guide/virus.md)に追加した後、解凍して以下の[ガイド](../guide/getkey.md)に従ってください。

@@ -2,7 +2,7 @@
 title: Thiết Đặt Đồ Hoạ Bổ Sung
 icon: eye
 category:
-  - Các Tính Năng
+  - Tính Năng
 tag:
   - Thiết Đặt Đồ Hoạ Bổ Sung
 author: Schvis
