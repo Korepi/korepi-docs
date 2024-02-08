@@ -1,12 +1,12 @@
 ---
-title: Map Manager
+title: マップマネージャー
 icon: satellite-dish
 category:
-  - Features
+  - 機能
 tag:
-  - Map Manager
+  - マップマネージャー
 author: Schvis
 order: 13
 ---
 
-### Map Manager allows the player to unlock Statues of the Seven or Waypoints automatically without moving from the place, great to create reroll accounts.
+### マップマネージャーによって、プレイヤーはその場から移動することなく、自動的に「七神神像」やワープポイントを解除することができる。

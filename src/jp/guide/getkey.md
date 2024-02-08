@@ -10,44 +10,43 @@ author: Schvis
 order: 1
 ---
 
-## Verification Tutorial
+## 認証チュートリアル
 
-### Step 1:
-- Find the `★⋅micah-bot-verify⋅★` channel [direct link](https://discord.com/channels/1069057220802781265/1203687333107335198)
+### ステップ 1:
+- `★⋅micah-bot-verify⋅★`チャンネルを見つける [リンク](https://discord.com/channels/1069057220802781265/1203687333107335198)
 
   ![img.png](/assets/images/docs/202402/verify-1.png)
-- Find the message sent by Micah-bot
-### Step 2:
-For free version follow this [link](free.md).
+- Micah-botが送信したメッセージを見つける
+### ステップ 2:
+無料版はこの[リンク](free.md)から。
 
-If you bought a key from a reseller, click on `bind card str` and paste in your key.
+再販業者からキーを購入した場合は、`bind card str` をクリックし、キーを貼り付けます。
 
-::: info If you are a Sponsor before February 4th, 2024, click "Sponsor Compensation" and enter "YES" to receive 3 months of compensation time, after successfully claiming your "card" follow the next step"
+::: info 2024年2月4日以前にスポンサーになった方は、「Sponsor Compensation」をクリックし、「YES」と入力してください。
 :::
-### Step 3:
-::: info If you already got a enc.json delete it before opening the program
+### ステップ 3:
+::: info すでにenc.jsonをお持ちの場合は、プログラムを開く前に削除してください。
 :::
-Click `Get Verification File`, and you need to fill in your `HWID (device ID)` obtainable after opening the program once.
-- You will get a file from the bot, download it and place it on your korepi folder. Make sure the name is `enc.json`.
+`Get Verification File`をクリックし、プログラムを開いた後に取得できる`HWID (デバイスID)`をペーストする。
+- botからファイルが送られてくるので、それをダウンロードしてkorepiフォルダに置いてください。ファイル名が`enc.json`であることを確認してください。
 
-You can also click `View Subscription Information` to view your subscription information.
+また、`View Subscription Information`をクリックすると、サブスク情報を見ることができます。
 
-## How to pause the key
+## キーを一時停止する方法
 
-Click on `Pause Card` and type `YES` to pause it. You can unpause it anytime and your subscription will continue.
+`Pause Card`をクリックし、`YES`と入力すれば一時停止します。いつでも一時停止を解除することができます。
 
-::: info You can only pause the key once every 30 days
-:::
-
-## How to change HWID (Device ID)
-
-Click on `ID(Change HWID)`, and paste in the new `HWID` you get from opening the program, after that download the new file and place it on your Korepi folder.
-
-::: info You can only reset the HWID once every 7 days
+::: info キーを一時停止できるのは30日に1度だけです。
 :::
 
-## MD5 Verification Issue
-Each time you obtain the `enc.json` file again, the previous `enc.json` file will become invalid.
+## HWID（デバイスID）の変更方法
 
-If the new one is still invalid, please obtain the file again. If it still doesn't work, wait for a while and try again.
+`ID(Change HWID)`をクリックし、プログラムを開いて新しく得た`HWID` を貼り付け、新しいファイルをダウンロードしてKorepiフォルダに置く
 
+::: info HWIDのリセットは7日間に1回のみ可能です。
+:::
+
+## MD5認証の問題
+`enc.json`ファイルを再度取得するたびに、以前の`enc.json`ファイルは無効になります。
+
+新しいファイルがまだ無効な場合は、再度ファイルを入手してください。それでもうまくいかない場合は、しばらく待ってから再度お試しください。
