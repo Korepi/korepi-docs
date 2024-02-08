@@ -6,58 +6,57 @@
     <link>https://korepi.com/jp/</link>
     <description>Korepiに関するヘルプ</description>
     <language>ja-JP</language>
-    <pubDate>Thu, 08 Feb 2024 16:15:59 GMT</pubDate>
-    <lastBuildDate>Thu, 08 Feb 2024 16:15:59 GMT</lastBuildDate>
+    <pubDate>Thu, 08 Feb 2024 16:17:21 GMT</pubDate>
+    <lastBuildDate>Thu, 08 Feb 2024 16:17:21 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-    <category>Features</category>
+    <category>機能</category>
     <category>ガイド</category>
-    <category>Guide</category>
     <category>特徴</category>
     <category>トラブルシューティング</category>
     <category>FAQ</category>
     <item>
-      <title>Map Manager</title>
+      <title>マップマネージャー</title>
       <link>https://korepi.com/jp/features/World/map-manager.html</link>
       <guid>https://korepi.com/jp/features/World/map-manager.html</guid>
-      <source url="https://korepi.com/jp/rss.xml">Map Manager</source>
-      <description>Map Manager allows the player to unlock Statues of the Seven or Waypoints automatically without moving from the place, great to create reroll accounts.</description>
-      <category>Features</category>
+      <source url="https://korepi.com/jp/rss.xml">マップマネージャー</source>
+      <description>マップマネージャーによって、プレイヤーはその場から移動することなく、自動的に「七神神像」やワープポイントを解除することができる。</description>
+      <category>機能</category>
       <pubDate>Wed, 07 Feb 2024 20:25:33 GMT</pubDate>
-      <content:encoded><![CDATA[<h3> Map Manager allows the player to unlock Statues of the Seven or Waypoints automatically without moving from the place, great to create reroll accounts.</h3>
+      <content:encoded><![CDATA[<h3> マップマネージャーによって、プレイヤーはその場から移動することなく、自動的に「七神神像」やワープポイントを解除することができる。</h3>
 ]]></content:encoded>
     </item>
     <item>
-      <title>Auto Domain</title>
+      <title>秘境自動挑戦</title>
       <link>https://korepi.com/jp/features/World/auto-domain.html</link>
       <guid>https://korepi.com/jp/features/World/auto-domain.html</guid>
-      <source url="https://korepi.com/jp/rss.xml">Auto Domain</source>
-      <description>Soon.</description>
-      <category>Features</category>
+      <source url="https://korepi.com/jp/rss.xml">秘境自動挑戦</source>
+      <description>リリース待ち</description>
+      <category>機能</category>
       <pubDate>Wed, 07 Feb 2024 13:27:26 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Soon.</h2>
+      <content:encoded><![CDATA[<h2> リリース待ち</h2>
 ]]></content:encoded>
     </item>
     <item>
-      <title>Auto Puzzle</title>
+      <title>自動謎解き</title>
       <link>https://korepi.com/jp/features/World/auto-puzzle.html</link>
       <guid>https://korepi.com/jp/features/World/auto-puzzle.html</guid>
-      <source url="https://korepi.com/jp/rss.xml">Auto Puzzle</source>
-      <description>Soon.</description>
-      <category>Features</category>
+      <source url="https://korepi.com/jp/rss.xml">自動謎解き</source>
+      <description>リリース待ち</description>
+      <category>機能</category>
       <pubDate>Wed, 07 Feb 2024 13:27:26 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Soon.</h2>
+      <content:encoded><![CDATA[<h2> リリース待ち</h2>
 ]]></content:encoded>
     </item>
     <item>
-      <title>Stats Modifier</title>
+      <title>ステータス変更</title>
       <link>https://korepi.com/jp/features/Player/stats-modifer.html</link>
       <guid>https://korepi.com/jp/features/Player/stats-modifer.html</guid>
-      <source url="https://korepi.com/jp/rss.xml">Stats Modifier</source>
-      <description>Soon.</description>
-      <category>Features</category>
+      <source url="https://korepi.com/jp/rss.xml">ステータス変更</source>
+      <description>リリース待ち</description>
+      <category>機能</category>
       <pubDate>Wed, 07 Feb 2024 13:14:17 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Soon.</h2>
+      <content:encoded><![CDATA[<h2> リリース待ち</h2>
 ]]></content:encoded>
     </item>
     <item>
@@ -98,440 +97,440 @@
       <enclosure url="https://korepi.com/assets/images/docs/202402/verify-1.png" type="image/png"/>
     </item>
     <item>
-      <title>Differences between versions</title>
+      <title>バージョン間での違い</title>
       <link>https://korepi.com/jp/start/differences.html</link>
       <guid>https://korepi.com/jp/start/differences.html</guid>
-      <source url="https://korepi.com/jp/rss.xml">Differences between versions</source>
-      <description>Available Features between versions. Version Free SponsorPERTAMAX --------------------------- Attack Effects✓✓✓ Auto Run✓✓✓ Cooldown Effects✓✓✓ Fall Control✓✓✓ God Mode✓✓✓ Infin...</description>
-      <category>Guide</category>
+      <source url="https://korepi.com/jp/rss.xml">バージョン間での違い</source>
+      <description>それぞれのバージョンで利用可能な機能。 バージョン 無料版 スポンサー版PERTAMAX(サブスク) --------------------------- 攻撃効果✓✓✓ 自動ダッシュ✓✓✓ クールタイム効果✓✓✓ 落下コントロール✓✓✓ 無敵モード✓✓✓ 無限スタミナ✓✓✓ ノークリップ✓✓✓ プレイヤー速度✓✓✓ 自動挑戦✓✓✓ 自動取得✓✓✓ ...</description>
+      <category>ガイド</category>
       <pubDate>Sat, 13 Jan 2024 00:53:24 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Available Features between versions.</h2>
+      <content:encoded><![CDATA[<h2> それぞれのバージョンで利用可能な機能。</h2>
 <table>
 <thead>
 <tr>
-<th>Version</th>
-<th>Free</th>
-<th>Sponsor</th>
-<th>PERTAMAX</th>
+<th>バージョン</th>
+<th>無料版</th>
+<th>スポンサー版</th>
+<th>PERTAMAX(サブスク)</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td>Attack Effects</td>
+<td>攻撃効果</td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Auto Run</td>
+<td>自動ダッシュ</td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Cooldown Effects</td>
+<td>クールタイム効果</td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Fall Control</td>
+<td>落下コントロール</td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>God Mode</td>
+<td>無敵モード</td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Infinite Stamina</td>
+<td>無限スタミナ</td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>No-Clip</td>
+<td>ノークリップ</td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Player Speed</td>
+<td>プレイヤー速度</td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Auto-Challenge</td>
+<td>自動挑戦</td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Auto-Loot</td>
+<td>自動取得</td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Auto-Seelie</td>
+<td>自動仙霊</td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Auto Talk</td>
+<td>自動会話</td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Dumb Enemies</td>
+<td>敵の攻撃停止</td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Elemental Sight</td>
+<td>元素視覚</td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>ESP</td>
+<td>ESP（透視）</td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Freeze Enemies</td>
+<td>敵の行動停止</td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Game Speed</td>
+<td>ゲーム内速度</td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Open Team Immediately</td>
+<td>即チーム編成</td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Skip Enhance Animation</td>
+<td>強化演出スキップ</td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Chest Teleport</td>
+<td>宝物TP</td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Oculi Teleport</td>
+<td>瞳TP</td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Map Teleport</td>
+<td>マップTP</td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Quest Teleport</td>
+<td>任務TP</td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Custom Teleport</td>
+<td>カスタムTP</td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Interactive Map</td>
+<td>マッピング機能</td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Camera Zoom</td>
+<td>カメラズーム</td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>FOV Changer</td>
+<td>視野角変更</td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Chest Indicator</td>
+<td>宝物表示</td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Censor Remover</td>
+<td>検知回避</td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>FPS Unlock</td>
+<td>FPS上限解放</td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Hide UI</td>
+<td>UI非表示</td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Map Zoom</td>
+<td>マップズーム</td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>No Fog</td>
+<td>霧消し</td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>No Grass</td>
+<td>除草</td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>No Map Fog</td>
+<td>マップ上の霧消し</td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Summon Paimon</td>
+<td>パイモン召喚</td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Profile Changer</td>
+<td>プロフィール変更</td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Auto Activate Waypoint</td>
+<td>自動開放（ワープポイント）</td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Crit Rate Modifier</td>
+<td>会心率</td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Dolphin Dive</td>
+<td>イルカジャンプ</td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Elemental Aura</td>
+<td>元素オーラ</td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Extra Movement</td>
+<td>追加の速度設定</td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Extra Visual Settings</td>
+<td>追加の描画設定</td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Fake Time</td>
+<td>時刻偽装</td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Free Camera</td>
+<td>幽体離脱</td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>GM Icon</td>
+<td>GMアイコン表示</td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Monster Changer</td>
+<td>モンスター変更</td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>No Camera Blur</td>
+<td>カメラブレ無効化</td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>No Camera Shake</td>
+<td>手ブレ無効化</td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>No Footprints</td>
+<td>足跡無効化</td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>No Skill Animation</td>
+<td>爆発演出無効化</td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Debug</td>
+<td>デバッグ機能</td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Animation Changer</td>
+<td>アニメーション変更</td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Auto Cook</td>
+<td>自動調理</td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Auto Destroy</td>
+<td>自動破壊</td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Auto Fish</td>
+<td>自動釣り</td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Auto Tree Farm</td>
+<td>自動伐採</td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Constellation Modifier</td>
+<td>星座変更（完凸化）</td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Custom Weather</td>
+<td>天候変更</td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Emotion Changer</td>
+<td>表情変更</td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Flycloak Modifier</td>
+<td>翼変更</td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Kill Aura</td>
+<td>キルオーラ</td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Map Manager</td>
+<td>マップマネージャー</td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Mob Vacuum</td>
+<td>モブ吸い寄せ</td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Remote Utilities</td>
+<td>リモートユーティリティ</td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Vacuum Loot</td>
+<td>ドロップ品吸い寄せ</td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Skin Modifier</td>
+<td>衣装変更</td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Auto Puzzle</td>
+<td>自動謎解き</td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Auto Domain</td>
+<td>自動攻略</td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Stats Modifier</td>
+<td>ステータス変更</td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:green;">✓</span></td>
@@ -666,48 +665,48 @@
       <link>https://korepi.com/jp/guide/getkey.html</link>
       <guid>https://korepi.com/jp/guide/getkey.html</guid>
       <source url="https://korepi.com/jp/rss.xml">キーの入手方法</source>
-      <description>Verification Tutorial Step 1: Find the ★⋅micah-bot-verify⋅★ channel direct link (https://discord.com/channels/1069057220802781265/1203687333107335198); img.png Find the message ...</description>
+      <description>認証チュートリアル ステップ 1: ★⋅micah-bot-verify⋅★チャンネルを見つける リンク (https://discord.com/channels/1069057220802781265/1203687333107335198); img.png Micah-botが送信したメッセージを見つける; ステップ 2: 無料版はこのリンク ...</description>
       <category>ガイド</category>
       <pubDate>Wed, 03 Jan 2024 06:45:45 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Verification Tutorial</h2>
-<h3> Step 1:</h3>
+      <content:encoded><![CDATA[<h2> 認証チュートリアル</h2>
+<h3> ステップ 1:</h3>
 <ul>
 <li>
-<p>Find the <code>★⋅micah-bot-verify⋅★</code> channel <a href="https://discord.com/channels/1069057220802781265/1203687333107335198" target="_blank" rel="noopener noreferrer">direct link</a></p>
+<p><code>★⋅micah-bot-verify⋅★</code>チャンネルを見つける <a href="https://discord.com/channels/1069057220802781265/1203687333107335198" target="_blank" rel="noopener noreferrer">リンク</a></p>
 <p><img src="/assets/images/docs/202402/verify-1.png" alt="img.png" loading="lazy"></p>
 </li>
 <li>
-<p>Find the message sent by Micah-bot</p>
+<p>Micah-botが送信したメッセージを見つける</p>
 </li>
 </ul>
-<h3> Step 2:</h3>
-<p>For free version follow this <a href="/jp/guide/free.html" target="blank">link</a>.</p>
-<p>If you bought a key from a reseller, click on <code>bind card str</code> and paste in your key.</p>
+<h3> ステップ 2:</h3>
+<p>無料版はこの<a href="/jp/guide/free.html" target="blank">リンク</a>から。</p>
+<p>再販業者からキーを購入した場合は、<code>bind card str</code> をクリックし、キーを貼り付けます。</p>
 <div class="hint-container info">
-<p class="hint-container-title">If you are a Sponsor before February 4th, 2024, click "Sponsor Compensation" and enter "YES" to receive 3 months of compensation time, after successfully claiming your "card" follow the next step"</p>
+<p class="hint-container-title">2024年2月4日以前にスポンサーになった方は、「Sponsor Compensation」をクリックし、「YES」と入力してください。</p>
 </div>
-<h3> Step 3:</h3>
+<h3> ステップ 3:</h3>
 <div class="hint-container info">
-<p class="hint-container-title">If you already got a enc.json delete it before opening the program</p>
+<p class="hint-container-title">すでにenc.jsonをお持ちの場合は、プログラムを開く前に削除してください。</p>
 </div>
-<p>Click <code>Get Verification File</code>, and you need to fill in your <code>HWID (device ID)</code> obtainable after opening the program once.</p>
+<p><code>Get Verification File</code>をクリックし、プログラムを開いた後に取得できる<code>HWID (デバイスID)</code>をペーストする。</p>
 <ul>
-<li>You will get a file from the bot, download it and place it on your korepi folder. Make sure the name is <code>enc.json</code>.</li>
+<li>botからファイルが送られてくるので、それをダウンロードしてkorepiフォルダに置いてください。ファイル名が<code>enc.json</code>であることを確認してください。</li>
 </ul>
-<p>You can also click <code>View Subscription Information</code> to view your subscription information.</p>
-<h2> How to pause the key</h2>
-<p>Click on <code>Pause Card</code> and type <code>YES</code> to pause it. You can unpause it anytime and your subscription will continue.</p>
+<p>また、<code>View Subscription Information</code>をクリックすると、サブスク情報を見ることができます。</p>
+<h2> キーを一時停止する方法</h2>
+<p><code>Pause Card</code>をクリックし、<code>YES</code>と入力すれば一時停止します。いつでも一時停止を解除することができます。</p>
 <div class="hint-container info">
-<p class="hint-container-title">You can only pause the key once every 30 days</p>
+<p class="hint-container-title">キーを一時停止できるのは30日に1度だけです。</p>
 </div>
-<h2> How to change HWID (Device ID)</h2>
-<p>Click on <code>ID(Change HWID)</code>, and paste in the new <code>HWID</code> you get from opening the program, after that download the new file and place it on your Korepi folder.</p>
+<h2> HWID（デバイスID）の変更方法</h2>
+<p><code>ID(Change HWID)</code>をクリックし、プログラムを開いて新しく得た<code>HWID</code> を貼り付け、新しいファイルをダウンロードしてKorepiフォルダに置く</p>
 <div class="hint-container info">
-<p class="hint-container-title">You can only reset the HWID once every 7 days</p>
+<p class="hint-container-title">HWIDのリセットは7日間に1回のみ可能です。</p>
 </div>
-<h2> MD5 Verification Issue</h2>
-<p>Each time you obtain the <code>enc.json</code> file again, the previous <code>enc.json</code> file will become invalid.</p>
-<p>If the new one is still invalid, please obtain the file again. If it still doesn't work, wait for a while and try again.</p>
+<h2> MD5認証の問題</h2>
+<p><code>enc.json</code>ファイルを再度取得するたびに、以前の<code>enc.json</code>ファイルは無効になります。</p>
+<p>新しいファイルがまだ無効な場合は、再度ファイルを入手してください。それでもうまくいかない場合は、しばらく待ってから再度お試しください。</p>
 ]]></content:encoded>
       <enclosure url="https://korepi.com/assets/images/docs/202402/verify-1.png" type="image/png"/>
     </item>
@@ -769,18 +768,18 @@
       <link>https://korepi.com/jp/start/download.html</link>
       <guid>https://korepi.com/jp/start/download.html</guid>
       <source url="https://korepi.com/jp/rss.xml">ダウンロード</source>
-      <description>Introduction Welcome to our community! To pass the bot check and receive the Newcomer role, follow these steps. Step 1: Join our server and obtain the Newcomer role If you haven...</description>
+      <description>はじめに コミュニティへようこそ。botチェックを通過し、Newcomerロールを受け取るには、以下の手順に従ってください。 ステップ 1: サーバーにログインし、Newcomerロールを取得します。 まだサーバーに参加されていない方は、サーバーへの参加方法とNewcomerの取得方法について書かれたページをお読みください。 ステップ 2: ★⋅kor...</description>
       <category>ガイド</category>
       <pubDate>Wed, 03 Jan 2024 06:45:45 GMT</pubDate>
-      <content:encoded><![CDATA[<h1> Download</h1>
-<h2> Introduction</h2>
-<p>Welcome to our community! To pass the bot check and receive the <code>Newcomer</code> role, follow these steps.</p>
-<h3> Step 1: Join our server and obtain the <code>Newcomer</code> role</h3>
-<p>If you haven't joined the server yet, please read the verification post, which describes how to join the server and obtain the <code>Newcomer</code>.</p>
-<h3> Step 2: Go to the channel <code>★⋅korepi-download⋅★</code></h3>
-<p>Locate the channel <code>★⋅korepi-download⋅★</code> and follow the link to download the program.</p>
-<h3> Step 3: Ready!</h3>
-<p>Place the .rar in a folder and add it to <a href="/jp/guide/virus.html" target="blank">exclusions</a>, after that extract it and follow this <a href="/jp/guide/getkey.html" target="blank">guide</a></p>
+      <content:encoded><![CDATA[<h1> ダウンロード</h1>
+<h2> はじめに</h2>
+<p>コミュニティへようこそ。botチェックを通過し、<code>Newcomer</code>ロールを受け取るには、以下の手順に従ってください。</p>
+<h3> ステップ 1: サーバーにログインし、<code>Newcomer</code>ロールを取得します。</h3>
+<p>まだサーバーに参加されていない方は、サーバーへの参加方法と<code>Newcomer</code>の取得方法について書かれたページをお読みください。</p>
+<h3> ステップ 2: <code>★⋅korepi-download⋅★</code>チャンネルへ移動</h3>
+<p><code>★⋅korepi-download⋅★</code>チャンネルを探し、リンクをたどってソフトをダウンロードしてください。</p>
+<h3> ステップ 3: 準備完了！</h3>
+<p>.rarをフォルダに入れ、<a href="/jp/guide/virus.html" target="blank">除外リスト</a>に追加した後、解凍して以下の<a href="/jp/guide/getkey.html" target="blank">ガイド</a>に従ってください。</p>
 ]]></content:encoded>
     </item>
     <item>
@@ -808,16 +807,16 @@
 ]]></content:encoded>
     </item>
     <item>
-      <title>Sponsor</title>
+      <title>スポンサー</title>
       <link>https://korepi.com/jp/start/sponsor.html</link>
       <guid>https://korepi.com/jp/start/sponsor.html</guid>
-      <source url="https://korepi.com/jp/rss.xml">Sponsor</source>
-      <description>Sponsors Sponsors are a legacy role that is no longer obtainable, people with this role are elegible to extra functionality in the software without having to pay again, they als...</description>
-      <category>Guide</category>
+      <source url="https://korepi.com/jp/rss.xml">スポンサー</source>
+      <description>スポンサー スポンサーは昔の役割で、もう手に入れることはできません。この役割を持つ人は、追加で買うことなくKPの追加機能を利用することができます。;</description>
+      <category>ガイド</category>
       <pubDate>Wed, 03 Jan 2024 06:45:45 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Sponsors</h2>
+      <content:encoded><![CDATA[<h2> スポンサー</h2>
 <ul>
-<li>Sponsors are a legacy role that is no longer obtainable, people with this role are elegible to extra functionality in the software without having to pay again, they also receive some extra perks in the server/software.</li>
+<li>スポンサーは昔の役割で、もう手に入れることはできません。この役割を持つ人は、追加で買うことなくKPの追加機能を利用することができます。</li>
 </ul>
 ]]></content:encoded>
     </item>
