@@ -1,5 +1,5 @@
 ---
-title: Hào Quang Huỷ Diệt
+title: Hào Quang Huỷ Diệt (Kill Aura)
 icon: street-view
 category:
   - Các Tính Năng
@@ -9,7 +9,7 @@ author: Schvis
 order: 12
 ---
 
-::: danger This feature has a high risk of ban.
+::: danger Tính năng dễ gây ban.
 :::
 ---
 ## Hào Quang Huỷ Diệt: Gây Sát Thương Cho Kẻ Địch Xung Quanh

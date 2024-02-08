@@ -1,14 +1,14 @@
 ---
-title: Sponsor
+title: Nhà Tài Trợ
 icon: user-plus
 category:
-  - Guide
+  - Hướng Dẫn
 tag:
-  - Start
+  - Bắt Đầu
 author: Schvis
 order: 9
 ---
 
-## Sponsors
+## Nhà Tài Trợ
 
-- Sponsors are a legacy role that is no longer obtainable, people with this role are elegible to extra functionality in the software without having to pay again, they also receive some extra perks in the server/software.
+- Nhà Tài Trợ là một vai trò cũ mà bạn không thể nhận được nữa. Những người hiện có vai trò này có thể sử dụng một số tính năng mà bản miễn phí không có. Đồng thời họ cũng nhận được một số đặc quyền trong server Discord và Korepi.

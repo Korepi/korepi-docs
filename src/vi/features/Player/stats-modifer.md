@@ -1,12 +1,12 @@
 ---
-title: Stats Modifier
+title: Chỉnh Sửa Thông Số Nhân Vật
 icon: bolt
 category:
-  - Features
+  - Các Tính Năng
 tag:
-  - Stats Modifier
+  - Chỉnh Sửa Thông Số Nhân Vật
 author: Schvis
 order: 12
 ---
 
-## Soon.
+## Sắp Ra Mắt.

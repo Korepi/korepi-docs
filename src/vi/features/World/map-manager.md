@@ -1,12 +1,12 @@
 ---
-title: Map Manager
+title: Quản Lý Bản Đồ
 icon: satellite-dish
 category:
-  - Features
+  - Các Tính năng
 tag:
-  - Map Manager
+  - Quản Lý Bản Đồ
 author: Schvis
 order: 13
 ---
 
-### Map Manager allows the player to unlock Statues of the Seven or Waypoints automatically without moving from the place, great to create reroll accounts.
+### Quản Lý Bản Đồ cho phép người chơi mở khoá các thất thiên thần tượng hoặc điểm dịch chuyển một cách tự động mà không phải chạy loanh quanh. Đây là một tính năng rất hữu ích khi tạo tài khoản reroll.

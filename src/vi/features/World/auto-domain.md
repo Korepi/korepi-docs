@@ -1,12 +1,12 @@
 ---
-title: Auto Domain
+title: Tự Động Chạy Bí Cảnh
 icon: bolt
 category:
-  - Features
+  - Các Tính Năng
 tag:
-  - Auto Domain
+  - Tự Động Chạy Bí Cảnh
 author: Schvis
 order: 12
 ---
 
-## Soon.
+## Sắp Ra Mắt.

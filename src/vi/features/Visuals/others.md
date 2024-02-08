@@ -20,7 +20,7 @@ order: 17
 ### Lặn Kiểu Cá Heo
 ### Biểu Tượng GM
 ### Mở Khoá Menu
-## <span style='color:yellow;'>Sponsor Only</span>
+## <span style='color:yellow;'>Chỉ Dành Cho Nhà Tài Trợ</span>
 ### Không Làm Mờ Camera
 ### Không Rung Camera
 ### Không Hiện Dấu Chân
