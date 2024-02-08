@@ -1,17 +1,17 @@
 ---
-title: Differences between versions
+title: Perbedaan antar versi
 icon: server
 category:
   - Guide
 tag:
   - Start
-author: Schvis
+author: Schvis, Rodanz
 order: 6
 ---
 
-## Available Features between versions.
+## Fitur yang tersedia di antara versi.
 
-|Version | Free |Sponsor|PERTAMAX|
+|Versi | Gratis |Sponsor|PERTAMAX|
 |-----|--------|--------|------|
 |Attack Effects|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
 |Auto Run|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
