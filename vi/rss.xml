@@ -6,58 +6,58 @@
     <link>https://korepi.com/vi/</link>
     <description>Trợ giúp về Korepi</description>
     <language>vi-VN</language>
-    <pubDate>Thu, 08 Feb 2024 16:17:21 GMT</pubDate>
-    <lastBuildDate>Thu, 08 Feb 2024 16:17:21 GMT</lastBuildDate>
+    <pubDate>Thu, 08 Feb 2024 16:33:22 GMT</pubDate>
+    <lastBuildDate>Thu, 08 Feb 2024 16:33:22 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+    <category>Tính năng</category>
     <category>Tính Năng</category>
     <category>Hướng Dẫn</category>
-    <category>Guide</category>
     <category>Các Câu Hỏi Thường Gặp</category>
     <category>Khắc Phục Lỗi</category>
     <category>Hướng dẫn</category>
     <item>
-      <title>Quản lí bản đồ</title>
+      <title>Quản Lý Bản Đồ</title>
       <link>https://korepi.com/vi/features/World/map-manager.html</link>
       <guid>https://korepi.com/vi/features/World/map-manager.html</guid>
-      <source url="https://korepi.com/vi/rss.xml">Quản lí bản đồ</source>
-      <description>Quản lí bản đồ cho phép người chơi mở khoá Thất Thiên Thần Tượng hoặc Điểm dịch chuyển một cách tự động mà không cần di chuyển, nó thật tuyệt với khi tạo nhiều tài khoản reroll.</description>
-      <category>Tính Năng</category>
+      <source url="https://korepi.com/vi/rss.xml">Quản Lý Bản Đồ</source>
+      <description>Quản Lý Bản Đồ cho phép người chơi mở khoá các Thất Thiên Thần Tượng hoặc điểm dịch chuyển một cách tự động mà không phải di chuyển. Đây là một tính năng rất hữu ích khi tạo tài...</description>
+      <category>Tính năng</category>
       <pubDate>Wed, 07 Feb 2024 20:25:33 GMT</pubDate>
-      <content:encoded><![CDATA[<h3> Quản lí bản đồ cho phép người chơi mở khoá Thất Thiên Thần Tượng hoặc Điểm dịch chuyển một cách tự động mà không cần di chuyển, nó thật tuyệt với khi tạo nhiều tài khoản reroll.</h3>
+      <content:encoded><![CDATA[<h3> Quản Lý Bản Đồ cho phép người chơi mở khoá các Thất Thiên Thần Tượng hoặc điểm dịch chuyển một cách tự động mà không phải di chuyển. Đây là một tính năng rất hữu ích khi tạo tài khoản reroll.</h3>
 ]]></content:encoded>
     </item>
     <item>
-      <title>Auto Domain</title>
+      <title>Tự Động Chạy Bí Cảnh</title>
       <link>https://korepi.com/vi/features/World/auto-domain.html</link>
       <guid>https://korepi.com/vi/features/World/auto-domain.html</guid>
-      <source url="https://korepi.com/vi/rss.xml">Auto Domain</source>
-      <description>Soon.</description>
+      <source url="https://korepi.com/vi/rss.xml">Tự Động Chạy Bí Cảnh</source>
+      <description>Sắp Ra Mắt.</description>
       <category>Tính Năng</category>
       <pubDate>Wed, 07 Feb 2024 13:27:26 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Soon.</h2>
+      <content:encoded><![CDATA[<h2> Sắp Ra Mắt.</h2>
 ]]></content:encoded>
     </item>
     <item>
-      <title>Tự động giải đố</title>
+      <title>Tự Động Giải Đố</title>
       <link>https://korepi.com/vi/features/World/auto-puzzle.html</link>
       <guid>https://korepi.com/vi/features/World/auto-puzzle.html</guid>
-      <source url="https://korepi.com/vi/rss.xml">Tự động giải đố</source>
-      <description>Sẽ có sau.</description>
+      <source url="https://korepi.com/vi/rss.xml">Tự Động Giải Đố</source>
+      <description>Sắp Ra Mắt.</description>
       <category>Tính Năng</category>
       <pubDate>Wed, 07 Feb 2024 13:27:26 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Sẽ có sau.</h2>
+      <content:encoded><![CDATA[<h2> Sắp Ra Mắt.</h2>
 ]]></content:encoded>
     </item>
     <item>
-      <title>Tinh chỉnh thông số</title>
+      <title>Tinh Chỉnh Thông Số</title>
       <link>https://korepi.com/vi/features/Player/stats-modifer.html</link>
       <guid>https://korepi.com/vi/features/Player/stats-modifer.html</guid>
-      <source url="https://korepi.com/vi/rss.xml">Tinh chỉnh thông số</source>
-      <description>Soon.</description>
+      <source url="https://korepi.com/vi/rss.xml">Tinh Chỉnh Thông Số</source>
+      <description>Sắp Ra Mắt.</description>
       <category>Tính Năng</category>
       <pubDate>Wed, 07 Feb 2024 13:14:17 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Soon.</h2>
+      <content:encoded><![CDATA[<h2> Sắp Ra Mắt.</h2>
 ]]></content:encoded>
     </item>
     <item>
@@ -88,7 +88,7 @@
 <p>=======</p>
 <h3> Bước 4:</h3>
 <div class="hint-container info">
-<p class="hint-container-title">If you already got a enc.json delete it before opening the program</p>
+<p class="hint-container-title">Nếu trong thư mục chứa Korepi đã tồn tại một file enc.json, hãy xoá nó trước khi mở Korepi</p>
 </div>
 <p>Mở Korepi để lấy <code>HWID</code>, sau đó đi đến kênh <code>★⋅micah-bot-verify⋅★</code> và click vào <code>Get verification file</code> rồi sau đó dán <code>HWID</code> của bạn vào.</p>
 <p>Sau khi nhấn xác nhận, bạn sẽ nhận được một file từ bot. Sau đó tải và đặt file đó vào thư mục chứa Korepi. Hãy đảm bảo rằng tên file là <code>enc.json</code>.</p>
@@ -100,104 +100,104 @@
       <enclosure url="https://korepi.com/assets/images/docs/202402/verify-1.png" type="image/png"/>
     </item>
     <item>
-      <title>Differences between versions</title>
+      <title>Sự Khác Nhau Giữa Các Phiên Bản</title>
       <link>https://korepi.com/vi/start/differences.html</link>
       <guid>https://korepi.com/vi/start/differences.html</guid>
-      <source url="https://korepi.com/vi/rss.xml">Differences between versions</source>
-      <description>Available Features between versions. Version Free SponsorPERTAMAX --------------------------- Attack Effects✓✓✓ Auto Run✓✓✓ Cooldown Effects✓✓✓ Fall Control✓✓✓ God Mode✓✓✓ Infin...</description>
-      <category>Guide</category>
+      <source url="https://korepi.com/vi/rss.xml">Sự Khác Nhau Giữa Các Phiên Bản</source>
+      <description>Các Tính Năng Hiện Có Giữa Các Phiên Bản. Phiên Bản Miễn Phí Nhà Tài TrợPERTAMAX --------------------------- Hiệu Ứng Tấn Công✓✓✓ Tự Động Chạy✓✓✓ Hiệu Ứng Hồi Chiêu✓✓✓ Kiểm Soát...</description>
+      <category>Hướng Dẫn</category>
       <pubDate>Sat, 13 Jan 2024 00:53:24 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Available Features between versions.</h2>
+      <content:encoded><![CDATA[<h2> Các Tính Năng Hiện Có Giữa Các Phiên Bản.</h2>
 <table>
 <thead>
 <tr>
-<th>Version</th>
-<th>Free</th>
-<th>Sponsor</th>
+<th>Phiên Bản</th>
+<th>Miễn Phí</th>
+<th>Nhà Tài Trợ</th>
 <th>PERTAMAX</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td>Attack Effects</td>
+<td>Hiệu Ứng Tấn Công</td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Auto Run</td>
+<td>Tự Động Chạy</td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Cooldown Effects</td>
+<td>Hiệu Ứng Hồi Chiêu</td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Fall Control</td>
+<td>Kiểm Soát Tốc Độ Rơi</td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>God Mode</td>
+<td>Bất Tử</td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Infinite Stamina</td>
+<td>Thể Lực Vô Hạn</td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>No-Clip</td>
+<td>Xuyên Tường</td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Player Speed</td>
+<td>Tốc Độ Nhân Vật</td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Auto-Challenge</td>
+<td>Tự Động Khiêu Chiến</td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Auto-Loot</td>
+<td>Tự Động Nhặt</td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Auto-Seelie</td>
+<td>Tự Động Dẫn Đường Tiên Linh</td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Auto Talk</td>
+<td>Tự Động Trò Chuyện</td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Dumb Enemies</td>
+<td>Địch Không Tấn Công</td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Elemental Sight</td>
+<td>Góc Nhìn Nguyên Tố</td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
@@ -209,217 +209,217 @@
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Freeze Enemies</td>
+<td>Đóng Băng Chuyển Động Kẻ Địch</td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Game Speed</td>
+<td>Điều Chỉnh Tốc Độ Game</td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Open Team Immediately</td>
+<td>Mở Thiết Lập Đội Hình Nhanh</td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Skip Enhance Animation</td>
+<td>Bỏ Qua Hoạt Ảnh Nâng Cấp</td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Chest Teleport</td>
+<td>Dịch Chuyển Tới Rương</td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Oculi Teleport</td>
+<td>Dịch Chuyển Tới Thần Đồng</td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Map Teleport</td>
+<td>Dịch Chuyển Bằng Bản Đồ</td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Quest Teleport</td>
+<td>Dịch Chuyển Tới Nhiệm Vụ</td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Custom Teleport</td>
+<td>Dịch Chuyển Tuỳ Chọn</td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Interactive Map</td>
+<td>Bản Đồ Tương Tác</td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Camera Zoom</td>
+<td>Thu Phóng Camera</td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>FOV Changer</td>
+<td>Thay Đổi Góc Nhìn</td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Chest Indicator</td>
+<td>Hiển Thị Rương Chưa Mở</td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Censor Remover</td>
+<td>Loại Bỏ Kiểm Duyệt</td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>FPS Unlock</td>
+<td>Bỏ Giới Hạn FPS</td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Hide UI</td>
+<td>Ẩn Giao Diện</td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Map Zoom</td>
+<td>Thu Phóng Bản Đồ</td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>No Fog</td>
+<td>Không Sương Mù</td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>No Grass</td>
+<td>Không Hiện Cỏ</td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>No Map Fog</td>
+<td>Không Hiện Sương Mù Trên Bản Đồ</td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Summon Paimon</td>
+<td>Triệu Hồi Paimon</td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Profile Changer</td>
+<td>Tuỳ Chỉnh Profile</td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Auto Activate Waypoint</td>
+<td>Tự Động Kích Hoạt Điểm Dịch Chuyển</td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Crit Rate Modifier</td>
+<td>Điều Chỉnh Tỷ Lệ Chí Mạng</td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Dolphin Dive</td>
+<td>Lặn Kiểu Cá Heo</td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Elemental Aura</td>
+<td>Hào Quang Nguyên Tố</td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Extra Movement</td>
+<td>Di Chuyển Nâng Can</td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Extra Visual Settings</td>
+<td>Thiết Đặt Đồ Hoạ Bổ Sung</td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Fake Time</td>
+<td>Tuỳ Chỉnh Thời Gian</td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Free Camera</td>
+<td>Camera Tự Do</td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>GM Icon</td>
+<td>Biểu Tượng GM</td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Monster Changer</td>
+<td>Thay Đổi Quái</td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>No Camera Blur</td>
+<td>Không Làm Mờ Camera</td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>No Camera Shake</td>
+<td>Không Làm Rung Camera</td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>No Footprints</td>
+<td>Không Hiện Dấu Chân</td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>No Skill Animation</td>
+<td>Không Hiện Hoạt Ảnh Kỹ Năng</td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
@@ -431,109 +431,109 @@
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Animation Changer</td>
+<td>Thay Đổi Hoạt Ảnh</td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Auto Cook</td>
+<td>Tự Động Nấu Nướng</td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Auto Destroy</td>
+<td>Tự Động Phá Huỷ Vật Thể</td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Auto Fish</td>
+<td>Tự Động Câu Cá</td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Auto Tree Farm</td>
+<td>Tự Động Đốn Gỗ</td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Constellation Modifier</td>
+<td>Thay Đổi Cung Mệnh</td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Custom Weather</td>
+<td>Thời Tiết Tuỳ Chỉnh</td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Emotion Changer</td>
+<td>Thay Đổi Biểu Cảm</td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Flycloak Modifier</td>
+<td>Tuỳ Chỉnh Phong Chi Dực</td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Kill Aura</td>
+<td>Hào Quang Huỷ Diệt (Kill Aura)</td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Map Manager</td>
+<td>Quản Lý Bản Đồ</td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Mob Vacuum</td>
+<td>Thu Gom Quái</td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Remote Utilities</td>
+<td>Tiện Ích Từ Xa</td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Vacuum Loot</td>
+<td>Thu Gom Vật Phẩm</td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Skin Modifier</td>
+<td>Thay Đổi Skin</td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Auto Puzzle</td>
+<td>Tự Động Giải Đố</td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Auto Domain</td>
+<td>Tự Động Chạy Bí Cảnh</td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Stats Modifier</td>
+<td>Điều Chỉnh Thông Số Nhân Vật</td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:green;">✓</span></td>
@@ -596,8 +596,7 @@
 <p>Mở mục <code>Tuỳ Chỉnh Chủ Đề</code> để bắt đầu tạo chủ đề riêng của bạn.</p>
 <hr>
 <h3> Tại sao chuỗi điểm danh của tôi bị reset?</h3>
-<p>Có vẻ như bạn đã bỏ lỡ lượt điểm danh của một ngày nào đó. Lượt điểm danh được làm mới mỗi ngày. Nếu như bạn bỏ lỡ 1 ngày thì chuỗi điểm danh sẽ bị reset hoàn toàn.
-Most likely you surpassed the reset time, it resets daily, if you skip 1 day it will reset entirely</p>
+<p>Có vẻ như bạn đã bỏ lỡ lượt điểm danh của một ngày nào đó. Lượt điểm danh được làm mới mỗi ngày. Nếu như bạn bỏ lỡ 1 ngày thì chuỗi điểm danh sẽ bị reset hoàn toàn.</p>
 <div class="hint-container info">
 <p class="hint-container-title">Thời gian làm mới lượt điểm danh vào GMT/UTC+8 00:00 mỗi ngày. Vui lòng tự chuyển đổi sang múi giờ địa phương.</p>
 </div>
@@ -644,7 +643,7 @@ Most likely you surpassed the reset time, it resets daily, if you skip 1 day it 
 <p>Lưu ý: Phạm vi, vật thể, đồ hoạ đều có thể được tuỳ chỉnh.</p>
 </blockquote>
 <h2> Video Tham Khảo:</h2>
-<h3> Soon...</h3>
+<h3> Sắp Ra Mắt...</h3>
 ]]></content:encoded>
     </item>
     <item>
@@ -764,7 +763,7 @@ Most likely you surpassed the reset time, it resets daily, if you skip 1 day it 
 <p>=======</p>
 <h3> Bước 3:</h3>
 <div class="hint-container info">
-<p class="hint-container-title">If you already got a enc.json delete it before opening the program</p>
+<p class="hint-container-title">Nếu trong thư mục chứa Korepi đã tồn tại một file enc.json, hãy xoá nó trước khi mở Korepi</p>
 </div>
 <p>Click vào <code>Get Verification File</code>, sau đó điền <code>HWID (device ID)</code> mà bạn nhận được khi mở Korepi.</p>
 <ul>
@@ -1582,17 +1581,17 @@ Lưu ý 2: Bạn có thể tìm ID vật phẩm <a href="https://github.com/jie6
 ]]></content:encoded>
     </item>
     <item>
-      <title>Tuỳ Chính Cánh</title>
+      <title>Tuỳ Chỉnh Phong Chi Dực</title>
       <link>https://korepi.com/vi/features/Visuals/flycloak-modifier.html</link>
       <guid>https://korepi.com/vi/features/Visuals/flycloak-modifier.html</guid>
-      <source url="https://korepi.com/vi/rss.xml">Tuỳ Chính Cánh</source>
-      <description>Chỉ có ở phiên bản PERTAMAX Tuỳ Chính Cánh cho phép người chơi thay đổi skin của phong chi dực cho dù không sở hữu chúng.</description>
+      <source url="https://korepi.com/vi/rss.xml">Tuỳ Chỉnh Phong Chi Dực</source>
+      <description>::: info Chỉ có ở phiên bản PERTAMAX Tuỳ Chính Phong Chi Dực cho phép người chơi thay đổi skin của phong chi dực cho dù không sở hữu chúng.</description>
       <category>Tính Năng</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
       <content:encoded><![CDATA[<div class="hint-container info">
 <p class="hint-container-title">Chỉ có ở phiên bản PERTAMAX</p>
+<h2> Tuỳ Chính Phong Chi Dực cho phép người chơi thay đổi skin của phong chi dực cho dù không sở hữu chúng.</h2>
 </div>
-<h2> Tuỳ Chính Cánh cho phép người chơi thay đổi skin của phong chi dực cho dù không sở hữu chúng.</h2>
 ]]></content:encoded>
     </item>
     <item>
@@ -1718,7 +1717,7 @@ Lưu ý 2: Bạn có thể tìm ID vật phẩm <a href="https://github.com/jie6
 <h3> Lặn Kiểu Cá Heo</h3>
 <h3> Biểu Tượng GM</h3>
 <h3> Mở Khoá Menu</h3>
-<h2> <span style="color:yellow;">Sponsor Only</span></h2>
+<h2> <span style="color:yellow;">Chỉ Dành Cho Nhà Tài Trợ</span></h2>
 <h3> Không Làm Mờ Camera</h3>
 <h3> Không Rung Camera</h3>
 <h3> Không Hiện Dấu Chân</h3>
@@ -1977,10 +1976,10 @@ Note 2: Higher the distance higher delay should be used.</p>
 ]]></content:encoded>
     </item>
     <item>
-      <title>Hào Quang Huỷ Diệt</title>
+      <title>Hào Quang Huỷ Diệt (Kill Aura)</title>
       <link>https://korepi.com/vi/features/World/kill-aura.html</link>
       <guid>https://korepi.com/vi/features/World/kill-aura.html</guid>
-      <source url="https://korepi.com/vi/rss.xml">Hào Quang Huỷ Diệt</source>
+      <source url="https://korepi.com/vi/rss.xml">Hào Quang Huỷ Diệt (Kill Aura)</source>
       <description>Chỉ có ở phiên bản PERTAMAX Tính năng này có khả năng cao sẽ khiến tài khoản của bạn bị cấm. Hãy lưu ý trước khi sử dụng. Hào Quang Huỷ Diệt: Gây Sát Thương Cho Kẻ Địch Xung Qua...</description>
       <category>Tính Năng</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
@@ -2085,18 +2084,18 @@ Lưu ý 2: Không khuyến khích sử dụng chức năng này.</p>
       <link>https://korepi.com/vi/start/download.html</link>
       <guid>https://korepi.com/vi/start/download.html</guid>
       <source url="https://korepi.com/vi/rss.xml">Tải Xuống</source>
-      <description>Introduction Welcome to our community! To pass the bot check and receive the Newcomer role, follow these steps. Step 1: Join our server and obtain the Newcomer role If you haven...</description>
+      <description>Giới Thiệu Chào mừng bạn đến với cộng đồng của chúng tôi! Để vượt qua sự kiểm tra của bot và nhận vai trò Newcomer, vui lòng làm các bước sau đây. Bước 1: Tham Gia Server Và Nhậ...</description>
       <category>Hướng Dẫn</category>
       <pubDate>Thu, 30 Nov 2023 15:50:40 GMT</pubDate>
-      <content:encoded><![CDATA[<h1> Download</h1>
-<h2> Introduction</h2>
-<p>Welcome to our community! To pass the bot check and receive the <code>Newcomer</code> role, follow these steps.</p>
-<h3> Step 1: Join our server and obtain the <code>Newcomer</code> role</h3>
-<p>If you haven't joined the server yet, please read the verification post, which describes how to join the server and obtain the <code>Newcomer</code>.</p>
-<h3> Step 2: Go to the channel <code>★⋅korepi-download⋅★</code></h3>
-<p>Locate the channel <code>★⋅korepi-download⋅★</code> and follow the link to download the program.</p>
-<h3> Step 3: Ready!</h3>
-<p>Place the .rar in a folder and add it to <a href="/vi/guide/virus.html" target="blank">exclusions</a>, after that extract it and follow this <a href="/vi/guide/getkey.html" target="blank">guide</a></p>
+      <content:encoded><![CDATA[<h1> Tải Xuống</h1>
+<h2> Giới Thiệu</h2>
+<p>Chào mừng bạn đến với cộng đồng của chúng tôi! Để vượt qua sự kiểm tra của bot và nhận vai trò <code>Newcomer</code>, vui lòng làm các bước sau đây.</p>
+<h3> Bước 1: Tham Gia Server Và Nhận Vai Trò <code>Newcomer</code></h3>
+<p>Nếu như bạn chưa tham gia server Discord, vui lòng xem bài đăng về Xác Thực trước. Bạn sẽ tìm thấy thông tin về cách tham gia server Discord và lấy vai trò <code>Newcomer</code>.</p>
+<h3> Bước 2: Đi Tới Kênh <code>★⋅korepi-download⋅★</code></h3>
+<p>Đi tới kênh <code>★⋅korepi-download⋅★</code> và tải Korepi theo đường link được cung cấp.</p>
+<h3> Bước 3: Sẵn Sàng Để Sử Dụng!</h3>
+<p>Hãy đặt file .rar mà bạn đã tải về vào trong một thư mục rồi thêm thư mục đó vào <a href="/vi/guide/virus.html" target="blank">Danh Sách Loại Trừ</a>. Tiếp theo hãy giải nén file đó ra và làm theo <a href="/vi/guide/getkey.html" target="blank">Hướng Dẫn</a></p>
 ]]></content:encoded>
     </item>
     <item>
@@ -2124,16 +2123,16 @@ Lưu ý 2: Không khuyến khích sử dụng chức năng này.</p>
 ]]></content:encoded>
     </item>
     <item>
-      <title>Sponsor</title>
+      <title>Nhà Tài Trợ</title>
       <link>https://korepi.com/vi/start/sponsor.html</link>
       <guid>https://korepi.com/vi/start/sponsor.html</guid>
-      <source url="https://korepi.com/vi/rss.xml">Sponsor</source>
-      <description>Sponsors Sponsors are a legacy role that is no longer obtainable, people with this role are elegible to extra functionality in the software without having to pay again, they als...</description>
-      <category>Guide</category>
+      <source url="https://korepi.com/vi/rss.xml">Nhà Tài Trợ</source>
+      <description>Nhà Tài Trợ Nhà Tài Trợ là một vai trò cũ mà bạn không thể nhận được nữa. Những người hiện có vai trò này có thể sử dụng một số tính năng mà bản miễn phí không có. Đồng thời họ ...</description>
+      <category>Hướng Dẫn</category>
       <pubDate>Thu, 30 Nov 2023 15:50:40 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Sponsors</h2>
+      <content:encoded><![CDATA[<h2> Nhà Tài Trợ</h2>
 <ul>
-<li>Sponsors are a legacy role that is no longer obtainable, people with this role are elegible to extra functionality in the software without having to pay again, they also receive some extra perks in the server/software.</li>
+<li>Nhà Tài Trợ là một vai trò cũ mà bạn không thể nhận được nữa. Những người hiện có vai trò này có thể sử dụng một số tính năng mà bản miễn phí không có. Đồng thời họ cũng nhận được một số đặc quyền trong server Discord và Korepi.</li>
 </ul>
 ]]></content:encoded>
     </item>
@@ -2142,11 +2141,11 @@ Lưu ý 2: Không khuyến khích sử dụng chức năng này.</p>
       <link>https://korepi.com/vi/start/verify.html</link>
       <guid>https://korepi.com/vi/start/verify.html</guid>
       <source url="https://korepi.com/vi/rss.xml">Xác Thực</source>
-      <description>Giới thiệu Chào mừng đến với cộng đồng của chúng tôi! Để vượt qua quá trình xác minh bot và lấy Role &amp;quot;Newcomer&amp;quot;, hãy làm theo các bước sau. Bước 1: Tham gia vào server của chúng...</description>
+      <description>Giới thiệu Chào mừng đến với cộng đồng của chúng tôi! Để vượt qua quá trình xác minh bot và lấy vai trò &amp;quot;Newcomer&amp;quot;, hãy làm theo các bước sau. Bước 1: Tham gia vào server của ch...</description>
       <category>Hướng Dẫn</category>
       <pubDate>Thu, 30 Nov 2023 15:50:40 GMT</pubDate>
       <content:encoded><![CDATA[<h2> Giới thiệu</h2>
-<p>Chào mừng đến với cộng đồng của chúng tôi! Để vượt qua quá trình xác minh bot và lấy Role "Newcomer", hãy làm theo các bước sau.</p>
+<p>Chào mừng đến với cộng đồng của chúng tôi! Để vượt qua quá trình xác minh bot và lấy vai trò "Newcomer", hãy làm theo các bước sau.</p>
 <h2> Bước 1: Tham gia vào server của chúng nếu như bạn chưa tham gia</h2>
 <p>Nếu bạn chưa có mặt trên máy chủ, vui lòng đọc <a href="/vi/start/join.html" target="blank">bài trước đó</a>, nơi nó được mô tả cách tham gia máy chủ.</p>
 <h2> Bước 2: Bạn đã ở trong server</h2>
@@ -2156,7 +2155,7 @@ Lưu ý 2: Không khuyến khích sử dụng chức năng này.</p>
 <p>Nhấn vào nút <strong>Verify</strong> như hình bên dưới.</p>
 <p><img src="/assets/images/docs/202312/verify_vi.png" alt="" loading="lazy"></p>
 <p>Bot sẽ gửi cho bạn một đường link mà bạn cần làm theo và xác nhận rằng bạn không phải là Robot</p>
-<h2> Step 4: Sau khi nhận được Role "Newcomer"</h2>
+<h2> Bước 4: Sau khi nhận được Role "Newcomer"</h2>
 <p>Sau khi đã xác thực thành công, bot sẽ tự động gắn cho bạn Role "Newcomer". Với Role này, bạn sẽ không bị đá ra khỏi máy chủ mà không có bất cứ lí do nào. Giờ hãy đến với bước tiếp theo.</p>
 ]]></content:encoded>
       <enclosure url="https://korepi.com/assets/images/docs/202312/verify_vi.png" type="image/png"/>
