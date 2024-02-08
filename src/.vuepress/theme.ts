@@ -1,6 +1,6 @@
 import { hopeTheme } from "vuepress-theme-hope";
-import { enNavbar, zhNavbar, ruNavbar, idNavbar, esNavbar, mxNavbar, viNavbar, ptNavbar, arNavbar, jpNavbar, trNavbar } from "./navbar/index.js";
-import { enSidebar, zhSidebar, ruSidebar, idSidebar, esSidebar, mxSidebar, viSidebar, ptSidebar, arSidebar, jpSidebar, trSidebar } from "./sidebar/index.js";
+import { enNavbar, zhNavbar, ruNavbar, idNavbar, esNavbar, mxNavbar, mmNavbar, viNavbar, ptNavbar, arNavbar, jpNavbar, trNavbar } from "./navbar/index.js";
+import { enSidebar, zhSidebar, ruSidebar, idSidebar, esSidebar, mxSidebar, mmSidebar, viSidebar, ptSidebar, arSidebar, jpSidebar, trSidebar } from "./sidebar/index.js";
 
 
 export default hopeTheme({
@@ -86,6 +86,19 @@ export default hopeTheme({
             },
             metaLocales: {
                 editLink: "Edita esta pagina en GitHub",
+            },
+        },
+        "/mm/": {
+            navbar: mmNavbar,
+            sidebar: mmSidebar,
+            footer:
+                "Genshin Impact ရှိ ကစားသမားများအတွက် အကောင်းဆုံး gaming အတွေ့အကြုံကို ပေးသည်။",
+            displayFooter: true,
+            navbarLocales: {
+                langName: "Burmese",
+            },
+            metaLocales: {
+                editLink: "GitHub တွင် ဤစာမျက်နှာကို တည်းဖြတ်ပါ။",
             },
         },
         "/vi/": {
@@ -201,6 +214,14 @@ export default hopeTheme({
                         title: "Ayuda con tu talento",
                         content:
                             "Si tienes experiencia en <b>desarrollo front-end</b> y <b>gestión de documentos</b>, y te gustaría participar en este proyecto, eres bienvenid@ a <a href='https://github.com/Korepi/korepi-docs'>unirte a ayudarnos con la documentación</a>",
+                        fullscreen: false,
+                        showOnce: false,
+                    },
+                    {
+                        path: "/mm/",
+                        title: "Contribute Your Skills",
+                        content:
+                            "If you have experience in <b>web front-end development</b> and <b>document management</b>, and would like to apply it to this documentation project, you are welcome to <a href='https://github.com/Korepi/korepi-docs'>join us in writing the documentation</a>",
                         fullscreen: false,
                         showOnce: false,
                     },
