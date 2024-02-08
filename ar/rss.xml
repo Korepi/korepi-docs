@@ -6,8 +6,8 @@
     <link>https://korepi.com/ar/</link>
     <description>للمساعدة Korepi</description>
     <language>ar</language>
-    <pubDate>Thu, 08 Feb 2024 09:23:00 GMT</pubDate>
-    <lastBuildDate>Thu, 08 Feb 2024 09:23:00 GMT</lastBuildDate>
+    <pubDate>Thu, 08 Feb 2024 16:15:32 GMT</pubDate>
+    <lastBuildDate>Thu, 08 Feb 2024 16:15:32 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Features</category>
@@ -28,20 +28,20 @@
 ]]></content:encoded>
     </item>
     <item>
-      <title>Differences between versions</title>
+      <title>الاختلافات بين الإصدارات</title>
       <link>https://korepi.com/ar/start/differences.html</link>
       <guid>https://korepi.com/ar/start/differences.html</guid>
-      <source url="https://korepi.com/ar/rss.xml">Differences between versions</source>
-      <description>Available Features between versions. Version Free SponsorPERTAMAX --------------------------- Attack Effects✓✓✓ Auto Run✓✓✓ Cooldown Effects✓✓✓ Fall Control✓✓✓ God Mode✓✓✓ Infin...</description>
+      <source url="https://korepi.com/ar/rss.xml">الاختلافات بين الإصدارات</source>
+      <description>الميزات المتوفرة بين الإصدارات. الاصدار مجاني الداعمينPERTAMAX --------------------------- Attack Effects✓✓✓ Auto Run✓✓✓ Cooldown Effects✓✓✓ Fall Control✓✓✓ God Mode✓✓✓ Infinite...</description>
       <category>Guide</category>
       <pubDate>Wed, 07 Feb 2024 20:20:28 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Available Features between versions.</h2>
+      <content:encoded><![CDATA[<h2> الميزات المتوفرة بين الإصدارات.</h2>
 <table>
 <thead>
 <tr>
-<th>Version</th>
-<th>Free</th>
-<th>Sponsor</th>
+<th>الاصدار</th>
+<th>مجاني</th>
+<th>الداعمين</th>
 <th>PERTAMAX</th>
 </tr>
 </thead>
@@ -504,21 +504,24 @@
 ]]></content:encoded>
     </item>
     <item>
-      <title>Free Version</title>
+      <title>النسخة المجانية</title>
       <link>https://korepi.com/ar/guide/free.html</link>
       <guid>https://korepi.com/ar/guide/free.html</guid>
-      <source url="https://korepi.com/ar/rss.xml">Free Version</source>
+      <source url="https://korepi.com/ar/rss.xml">النسخة المجانية</source>
       <description>كيفية الحصول على ترخيص مجاني لـKorepi. الخطوة 1: اعثر على قناة ★⋅micah-bot-verify⋅★ رابط مباشر (https://discord.com/channels/1069057220802781265/1203687333107335198); img.png اب...</description>
       <category>Guide</category>
       <pubDate>Wed, 07 Feb 2024 00:26:57 GMT</pubDate>
       <content:encoded><![CDATA[<h2> كيفية الحصول على ترخيص مجاني لـKorepi.</h2>
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/GURGoE2IEg8" title="Free Version | Cotton Buds" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
-<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/GURGoE2IEg8" title="Free Version | Cotton Buds" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
-### الخطوة 1:
-- اعثر على قناة `★⋅micah-bot-verify⋅★`  [رابط مباشر](https://discord.com/channels/1069057220802781265/1203687333107335198)
-<p><img src="/assets/images/docs/202402/verify-1.png" alt="img.png" loading="lazy"></p>
+<h3> الخطوة 1:</h3>
 <ul>
-<li>ابحث عن الرسالة المرسلة من <code>★Micah-bot★</code></li>
+<li>
+<p>اعثر على قناة <code>★⋅micah-bot-verify⋅★</code>  <a href="https://discord.com/channels/1069057220802781265/1203687333107335198" target="_blank" rel="noopener noreferrer">رابط مباشر</a></p>
+<p><img src="/assets/images/docs/202402/verify-1.png" alt="img.png" loading="lazy"></p>
+</li>
+<li>
+<p>ابحث عن الرسالة المرسلة من <code>★Micah-bot★</code></p>
+</li>
 </ul>
 <h3> الخطوة 2:</h3>
 <p>انقر فوق <code>Bind free card</code>, اتبع رابط الدي ارسله لك البوت بعد الضغط عليه، شاهد الإعلان وتخطاه.</p>
@@ -527,11 +530,11 @@
 <p><img src="/assets/images/docs/202312/success.png" alt="" loading="lazy"></p>
 <p>=======</p>
 <h3> الخطوة 4:</h3>
-<p>افتح الحاقن للحصول على <code>HWID</code> الخاص بك, بعد ذلك توجه إلى <code>★⋅micah-bot-verify⋅★</code> مرة أخرى وانقر على <code>Get verification file</code> ولصق <code>HWID</code>الخاص بك.</p>
-<p>بعد النقر على إرسال، ستتلقى ملفًا من الروبوت، قم بتنزيله ووضعه في مجلد Korepi الخاص بك. تأكد من الاسم <code>enc.json</code>.</p>
+<p>افتح برنامج الهاك للحصول على <code>HWID</code> الخاص بك, بعد ذلك توجه إلى <code>★⋅micah-bot-verify⋅★</code> مرة أخرى وانقر على <code>Get verification file</code> ولصق <code>HWID</code>الخاص بك.</p>
+<p>بعد النقر على إرسال، ستتلقى ملفًا من الروبوت، قم بتنزيله ووضعه في مجلد Korepi الخاص بك. تأكد من ان اسمه <code>enc.json</code>.</p>
 <p>=======</p>
 <h3> الخطوة 5:</h3>
-<p>قم بتشغيل الحاقن مرة أخرى واتبع التعليمات الموجودة في cmd.</p>
+<p>قم بتشغيل برنامج الهاك مرة أخرى واتبع التعليمات الموجودة في cmd.</p>
 <p>استمتع Korepi!</p>
 ]]></content:encoded>
       <enclosure url="https://korepi.com/assets/images/docs/202402/verify-1.png" type="image/png"/>
@@ -712,11 +715,11 @@
 </div>
 <h3> الخطوه 3:</h3>
 <div class="hint-container info">
-<p class="hint-container-title">If you already got a enc.json delete it before opening the program</p>
+<p class="hint-container-title">إذا كان لديك ملف enc.json بالفعل، فاحذفه قبل فتح البرنامج</p>
 </div>
-<p>انقر <code>Get Verification File</code>, ستحتاج الى لصق معرف الجهاز الخاص بك <code>HWID </code> يمكن الحصول عليه بعد فتح الحاقن مرة واحدة.</p>
+<p>انقر <code>Get Verification File</code>, ستحتاج الى لصق معرف الجهاز الخاص بك <code>HWID</code> يمكن الحصول عليه بعد فتح برنامج الهاك مرة واحدة.</p>
 <ul>
-<li>سوف تحصل على ملف من الروبوت، قم بتنزيله ووضعه في مجلد korepi الخاص بك. تأكد من الاسم <code>enc.json</code>.</li>
+<li>سوف تحصل على ملف من الروبوت، قم بتنزيله ووضعه في مجلد korepi الخاص بك. تأكد من ان اسمه <code>enc.json</code>.</li>
 </ul>
 <p>يمكنك أيضًا النقر فوق <code>View Subscription Information</code> لعرض معلومات الاشتراك الخاص بك.</p>
 <h2> كيفية إيقاف المفتاح مؤقتًا</h2>
@@ -724,11 +727,11 @@
 <div class="hint-container info">
 <p class="hint-container-title">يمكنك إيقاف المفتاح مؤقتًا مرة واحدة فقط كل 30 يومًا</p>
 </div>
-<h2> كيفية التغيير HWID (Device ID)</h2>
+<h2> كيفية التغيير HWID (معرف الجهاز)</h2>
 <div class="hint-container info">
-<p class="hint-container-title">If you already got a enc.json delete it before opening the program</p>
+<p class="hint-container-title">إذا كان لديك ملف enc.json بالفعل، فاحذفه قبل فتح البرنامج</p>
 </div>
-<p>انقر فوق <code>ID(Change HWID)</code>, األصق <code>HWID</code> الجديد الدي حصلت عليه من فتح الحاقن, بعد ذلك قم بتنزيل الملف الجديد وضعه في مجلد Korepi الخاص بك.</p>
+<p>انقر فوق <code>ID(Change HWID)</code>, ألصق <code>HWID</code> الجديد الدي حصلت عليه من فتح برنامج الهاك, بعد ذلك قم بتنزيل الملف الجديد وضعه في مجلد Korepi الخاص بك.</p>
 <div class="hint-container info">
 <p class="hint-container-title">يمكنك فقط إعادة تعيين HWID مرة واحدة كل 7 أيام</p>
 </div>
@@ -767,18 +770,18 @@
       <link>https://korepi.com/ar/start/download.html</link>
       <guid>https://korepi.com/ar/start/download.html</guid>
       <source url="https://korepi.com/ar/rss.xml">تحميل</source>
-      <description>Introduction Welcome to our community! To pass the bot check and receive the Newcomer role, follow these steps. Step 1: Join our server and obtain the Newcomer role If you haven...</description>
+      <description>مقدمة أهلا بك في مجتمعنا! لاجتياز فحص الروبوت واستلام دور Newcomer اتبع هذه الخطوات. الخطوة 1: انضم إلى خادمنا واحصل على دور Newcomer إذا لم تكن قد انضممت إلى الخادم بعد، فيرجى ...</description>
       <category>Guide</category>
       <pubDate>Fri, 22 Dec 2023 11:31:21 GMT</pubDate>
-      <content:encoded><![CDATA[<h1> Download</h1>
-<h2> Introduction</h2>
-<p>Welcome to our community! To pass the bot check and receive the <code>Newcomer</code> role, follow these steps.</p>
-<h3> Step 1: Join our server and obtain the <code>Newcomer</code> role</h3>
-<p>If you haven't joined the server yet, please read the verification post, which describes how to join the server and obtain the <code>Newcomer</code>.</p>
-<h3> Step 2: Go to the channel <code>★⋅korepi-download⋅★</code></h3>
-<p>Locate the channel <code>★⋅korepi-download⋅★</code> and follow the link to download the program.</p>
-<h3> Step 3: Ready!</h3>
-<p>Place the .rar in a folder and add it to <a href="/ar/guide/virus.html" target="blank">exclusions</a>, after that extract it and follow this <a href="/ar/guide/getkey.html" target="blank">guide</a></p>
+      <content:encoded><![CDATA[<h1> تحميل</h1>
+<h2> مقدمة</h2>
+<p>أهلا بك في مجتمعنا! لاجتياز فحص الروبوت واستلام دور <code>Newcomer</code> اتبع هذه الخطوات.</p>
+<h3> الخطوة 1: انضم إلى خادمنا واحصل على دور <code>Newcomer</code></h3>
+<p>إذا لم تكن قد انضممت إلى الخادم بعد، فيرجى قراءة منشور التحقق الذي يوضح كيفية الانضمام إلى الخادم والحصول على <code>Newcomer</code>.</p>
+<h3> الخطوة الثانية: اذهب إلى القناة <code>★⋅korepi-download⋅★</code></h3>
+<p>اعثر على قناة <code>★⋅korepi-download⋅★</code> واتبع الرابط لتنزيل البرنامج.</p>
+<h3> الخطوة 3: جاهز!</h3>
+<p>ضع ملف .rar في مجلد وأضفه إليه <a href="/ar/guide/virus.html" target="blank">exclusions</a>, بعد ذلك استخرجه واتبع هاده <a href="/ar/guide/getkey.html" target="blank">الخطوات</a></p>
 ]]></content:encoded>
     </item>
     <item>
@@ -806,16 +809,16 @@
 ]]></content:encoded>
     </item>
     <item>
-      <title>Sponsor</title>
+      <title>داعم</title>
       <link>https://korepi.com/ar/start/sponsor.html</link>
       <guid>https://korepi.com/ar/start/sponsor.html</guid>
-      <source url="https://korepi.com/ar/rss.xml">Sponsor</source>
-      <description>Sponsors Sponsors are a legacy role that is no longer obtainable, people with this role are elegible to extra functionality in the software without having to pay again, they als...</description>
+      <source url="https://korepi.com/ar/rss.xml">داعم</source>
+      <description>الداعمين Sponsors هو دور قديم لم يعد من الممكن الحصول عليه، والأشخاص الذين لديهم هذا الدور مؤهلون للحصول على وظائف إضافية في البرنامج دون الحاجة إلى الدفع مرة أخرى، كما أنهم يتل...</description>
       <category>Guide</category>
       <pubDate>Fri, 22 Dec 2023 11:31:21 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Sponsors</h2>
+      <content:encoded><![CDATA[<h2> الداعمين</h2>
 <ul>
-<li>Sponsors are a legacy role that is no longer obtainable, people with this role are elegible to extra functionality in the software without having to pay again, they also receive some extra perks in the server/software.</li>
+<li>Sponsors هو دور قديم لم يعد من الممكن الحصول عليه، والأشخاص الذين لديهم هذا الدور مؤهلون للحصول على وظائف إضافية في البرنامج دون الحاجة إلى الدفع مرة أخرى، كما أنهم يتلقون بعض الامتيازات الإضافية في الخادم/البرنامج.</li>
 </ul>
 ]]></content:encoded>
     </item>
