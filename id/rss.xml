@@ -6,8 +6,8 @@
     <link>https://korepi.com/id/</link>
     <description>Pertolongan Korepi</description>
     <language>id-ID</language>
-    <pubDate>Wed, 07 Feb 2024 22:46:10 GMT</pubDate>
-    <lastBuildDate>Wed, 07 Feb 2024 22:46:10 GMT</lastBuildDate>
+    <pubDate>Thu, 08 Feb 2024 09:12:37 GMT</pubDate>
+    <lastBuildDate>Thu, 08 Feb 2024 09:12:37 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Features</category>
@@ -169,19 +169,19 @@
       <enclosure url="https://korepi.com/assets/images/docs/202402/verify-1.png" type="image/png"/>
     </item>
     <item>
-      <title>Differences between versions</title>
+      <title>Perbedaan antar versi</title>
       <link>https://korepi.com/id/start/differences.html</link>
       <guid>https://korepi.com/id/start/differences.html</guid>
-      <source url="https://korepi.com/id/rss.xml">Differences between versions</source>
-      <description>Available Features between versions. Version Free SponsorPERTAMAX --------------------------- Attack Effects✓✓✓ Auto Run✓✓✓ Cooldown Effects✓✓✓ Fall Control✓✓✓ God Mode✓✓✓ Infin...</description>
+      <source url="https://korepi.com/id/rss.xml">Perbedaan antar versi</source>
+      <description>Fitur yang tersedia di antara versi. Versi Gratis SponsorPERTAMAX --------------------------- Attack Effects✓✓✓ Auto Run✓✓✓ Cooldown Effects✓✓✓ Fall Control✓✓✓ God Mode✓✓✓ Infin...</description>
       <category>Guide</category>
       <pubDate>Sat, 13 Jan 2024 00:53:24 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Available Features between versions.</h2>
+      <content:encoded><![CDATA[<h2> Fitur yang tersedia di antara versi.</h2>
 <table>
 <thead>
 <tr>
-<th>Version</th>
-<th>Free</th>
+<th>Versi</th>
+<th>Gratis</th>
 <th>Sponsor</th>
 <th>PERTAMAX</th>
 </tr>
@@ -2113,18 +2113,18 @@ Jika tidak berhasil, buka cmd sebagai administrator dan ketik <code>sfc /scannow
       <link>https://korepi.com/id/start/download.html</link>
       <guid>https://korepi.com/id/start/download.html</guid>
       <source url="https://korepi.com/id/rss.xml">Panduan Download</source>
-      <description>Introduction Welcome to our community! To pass the bot check and receive the Newcomer role, follow these steps. Step 1: Join our server and obtain the Newcomer role If you haven...</description>
+      <description>Pendahuluan Selamat datang di komunitas kami! Untuk lulus pemeriksaan bot dan menerima role Newcomer, ikuti langkah-langkah berikut. Langkah 1: Bergabunglah dengan server kami d...</description>
       <category>Panduan</category>
       <pubDate>Thu, 30 Nov 2023 10:24:26 GMT</pubDate>
-      <content:encoded><![CDATA[<h1> Download</h1>
-<h2> Introduction</h2>
-<p>Welcome to our community! To pass the bot check and receive the <code>Newcomer</code> role, follow these steps.</p>
-<h3> Step 1: Join our server and obtain the <code>Newcomer</code> role</h3>
-<p>If you haven't joined the server yet, please read the verification post, which describes how to join the server and obtain the <code>Newcomer</code>.</p>
-<h3> Step 2: Go to the channel <code>★⋅korepi-download⋅★</code></h3>
-<p>Locate the channel <code>★⋅korepi-download⋅★</code> and follow the link to download the program.</p>
-<h3> Step 3: Ready!</h3>
-<p>Place the .rar in a folder and add it to <a href="/id/guide/virus.html" target="blank">exclusions</a>, after that extract it and follow this <a href="/id/guide/getkey.html" target="blank">guide</a></p>
+      <content:encoded><![CDATA[<h1> Unduh</h1>
+<h2> Pendahuluan</h2>
+<p>Selamat datang di komunitas kami! Untuk lulus pemeriksaan bot dan menerima role <code>Newcomer</code>, ikuti langkah-langkah berikut.</p>
+<h3> Langkah 1: Bergabunglah dengan server kami dan dapatkan <code>Newcomer</code> role</h3>
+<p>Jika Anda belum bergabung dengan server, silakan baca pos verifikasi, yang menjelaskan cara bergabung dengan server dan mendapatkan peran <code>Newcomer</code>.</p>
+<h3> Langkah 2: Buka saluran <code>★⋅korepi-download⋅★</code></h3>
+<p>Cari saluran <code>★⋅korepi-download⋅★</code> dan ikuti tautan untuk mengunduh program.</p>
+<h3> Langkah 3: Siap!</h3>
+<p>Tempatkan .rar dalam folder dan tambahkan ke <a href="/id/guide/virus.html" target="blank">exclusions</a>, setelah itu ekstrak dan ikuti <a href="/id/guide/getkey.html" target="blank">guide</a></p>
 ]]></content:encoded>
     </item>
     <item>
@@ -2132,12 +2132,12 @@ Jika tidak berhasil, buka cmd sebagai administrator dan ketik <code>sfc /scannow
       <link>https://korepi.com/id/start/sponsor.html</link>
       <guid>https://korepi.com/id/start/sponsor.html</guid>
       <source url="https://korepi.com/id/rss.xml">Sponsor</source>
-      <description>Sponsors Sponsors are a legacy role that is no longer obtainable, people with this role are elegible to extra functionality in the software without having to pay again, they als...</description>
+      <description>Sponsors Sponsor adalah peran lama yang sudah tidak dapat diperoleh lagi, orang-orang dengan peran ini dapat menikmati fungsionalitas tambahan dalam perangkat lunak tanpa harus ...</description>
       <category>Guide</category>
       <pubDate>Tue, 28 Nov 2023 17:13:32 GMT</pubDate>
       <content:encoded><![CDATA[<h2> Sponsors</h2>
 <ul>
-<li>Sponsors are a legacy role that is no longer obtainable, people with this role are elegible to extra functionality in the software without having to pay again, they also receive some extra perks in the server/software.</li>
+<li>Sponsor adalah peran lama yang sudah tidak dapat diperoleh lagi, orang-orang dengan peran ini dapat menikmati fungsionalitas tambahan dalam perangkat lunak tanpa harus membayar lagi, mereka juga menerima beberapa fasilitas tambahan di server/perangkat lunak.</li>
 </ul>
 ]]></content:encoded>
     </item>
