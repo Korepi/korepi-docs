@@ -2,12 +2,14 @@
 title: Tự Động Phá Huỷ Vật Thể
 icon: bomb
 category:
-  - Các Tính Năng
+  - Tính Năng
 tag:
   - Tự Động Phá Huỷ Vật Thể
 author: Schvis
 order: 4
 ---
+::: info Chỉ có ở phiên bản PERTAMAX
+:::
 
 ### Tự Động Phá Huỷ Vật Thể cho phép bạn tự động phá huỷ các vật thể được chọn trong phạm vi tuỳ chỉnh, bao gồm quặng, thực vật, mỏm đá, rương, các vật thể đặc biệt, khiên, etc.
 

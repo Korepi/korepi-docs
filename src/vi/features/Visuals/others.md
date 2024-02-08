@@ -2,7 +2,7 @@
 title: Các Tính Năng Khác
 icon: layer-group
 category:
-  - Các Tính Năng
+  - Tính Năng
 tag:
   - Các Tính Năng Khác
 author: Schvis

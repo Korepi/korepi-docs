@@ -2,7 +2,7 @@
 title: Xuyên Tường
 icon: person-walking-dashed-line-arrow-right
 category:
-  - Các Tính Năng
+  - Tính Năng
 tag:
   - Xuyên Tường
 author: Schvis

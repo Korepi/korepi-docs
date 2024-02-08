@@ -1,10 +1,10 @@
 ---
-title: Stats Modifier
+title: Tinh chỉnh thông số
 icon: bolt
 category:
-  - Features
+  - Tính Năng
 tag:
-  - Stats Modifier
+  - Tinh chỉnh thông số
 author: Schvis
 order: 12
 ---

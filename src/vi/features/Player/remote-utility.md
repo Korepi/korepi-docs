@@ -2,13 +2,13 @@
 title: Tiện Ích Từ Xa
 icon: tower-broadcast
 category:
-  - Các Tính Năng
+  - Tính Năng
 tag:
   - Tiện Ích Từ Xa
 author: Schvis
 order: 11
 ---
-::: info Chức Năng Chỉ Dành Cho Nhà Tài Trợ
+::: info Chỉ có ở phiên bản PERTAMAX
 :::
 ---
 ## Tiện Ích Từ Xa:

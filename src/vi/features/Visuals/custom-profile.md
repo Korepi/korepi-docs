@@ -2,7 +2,7 @@
 title: Tuỳ Chỉnh Profile
 icon: users-gear
 category:
-  - Các Tính Năng
+  - Tính Năng
 tag:
   - Tuỳ Chỉnh Profile
 author: Schvis

@@ -2,7 +2,7 @@
 title: Dịch Chuyển Tới Rương
 icon: person-rays
 category:
-  - Các Tính Năng
+  - Tính Năng
 tag:
   - Dịch Chuyển Tới Rương
 author: Schvis
