@@ -6,27 +6,25 @@ category:
 tag:
   - Mulai
   - Unduh
-author:
-  name: "QweRez"
-  url: "https://github.com/qwerezon/"
+author: QweRez, RodanZ
 order: 5
 ---
 
-# Download
+# Unduh
 
-## Introduction
+## Pendahuluan
 
-Welcome to our community! To pass the bot check and receive the `Newcomer` role, follow these steps.
+Selamat datang di komunitas kami! Untuk lulus pemeriksaan bot dan menerima role `Newcomer`, ikuti langkah-langkah berikut.
 
-### Step 1: Join our server and obtain the `Newcomer` role
+### Langkah 1: Bergabunglah dengan server kami dan dapatkan `Newcomer` role
 
-If you haven't joined the server yet, please read the verification post, which describes how to join the server and obtain the `Newcomer`.
+Jika Anda belum bergabung dengan server, silakan baca pos verifikasi, yang menjelaskan cara bergabung dengan server dan mendapatkan peran `Newcomer`.
 
-### Step 2: Go to the channel `★⋅korepi-download⋅★`
+### Langkah 2: Buka saluran `★⋅korepi-download⋅★`
 
-Locate the channel `★⋅korepi-download⋅★` and follow the link to download the program.
+Cari saluran `★⋅korepi-download⋅★` dan ikuti tautan untuk mengunduh program.
 
-### Step 3: Ready!
+### Langkah 3: Siap!
 
-Place the .rar in a folder and add it to [exclusions](../guide/virus.md), after that extract it and follow this [guide](../guide/getkey.md)
+Tempatkan .rar dalam folder dan tambahkan ke [exclusions](../guide/virus.md), setelah itu ekstrak dan ikuti [guide](../guide/getkey.md)
 
