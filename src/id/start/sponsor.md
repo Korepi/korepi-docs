@@ -5,10 +5,10 @@ category:
   - Guide
 tag:
   - Start
-author: Schvis
+author: Schvis, RodanZ
 order: 9
 ---
 
 ## Sponsors
 
-- Sponsors are a legacy role that is no longer obtainable, people with this role are elegible to extra functionality in the software without having to pay again, they also receive some extra perks in the server/software.
+- Sponsor adalah peran lama yang sudah tidak dapat diperoleh lagi, orang-orang dengan peran ini dapat menikmati fungsionalitas tambahan dalam perangkat lunak tanpa harus membayar lagi, mereka juga menerima beberapa fasilitas tambahan di server/perangkat lunak.
