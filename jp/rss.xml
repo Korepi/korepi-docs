@@ -6,8 +6,8 @@
     <link>https://korepi.com/jp/</link>
     <description>Korepiに関するヘルプ</description>
     <language>ja-JP</language>
-    <pubDate>Thu, 08 Feb 2024 16:33:22 GMT</pubDate>
-    <lastBuildDate>Thu, 08 Feb 2024 16:33:22 GMT</lastBuildDate>
+    <pubDate>Fri, 09 Feb 2024 11:55:49 GMT</pubDate>
+    <lastBuildDate>Fri, 09 Feb 2024 11:55:49 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>機能</category>
@@ -86,7 +86,7 @@
 <p><img src="/assets/images/docs/202312/success.png" alt="" loading="lazy"></p>
 <h3> ステップ 4:</h3>
 <div class="hint-container info">
-<p class="hint-container-title">If you already got a enc.json delete it before opening the program</p>
+<p class="hint-container-title">すでにenc.jsonをお持ちの場合は、プログラムを開く前に削除してください。</p>
 </div>
 <p>インジェクターを起動してHWIDを取得した後、再び <code>★⋅micah-bot-verify⋅★</code> にアクセスし <code>Get verification file</code> をクリックして <code>HWID</code>をペーストする。</p>
 <p>submitをクリックするとボットからファイルが送られてくるので、それをダウンロードしてKorepiフォルダに置いてください。ファイル名が <code>enc.json</code>であることを確認してください。</p>
