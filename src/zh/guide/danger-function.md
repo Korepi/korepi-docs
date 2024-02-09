@@ -31,5 +31,5 @@ order: 8
 :::
 ---
 # <span style="color:red;">视图功能</span>
-<span style="color:#f1c40f;">赞助者功能[命座修改]</span>
+[命座修改]
 ---

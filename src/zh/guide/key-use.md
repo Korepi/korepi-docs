@@ -51,6 +51,10 @@ __**4. 下载enc.json文件，将文件放在korepi文件夹中。**__
 
 __**5. 打开korepi，即可使用。**__
 
+:::tip 视频教程
+:::
+<iframe width="560" height="315" src="https://www.youtube.com/embed/N6odK8Q6LEE?si=LLIeftUPtpyNVKuE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ## sponsor使用教程
 
 :::tip sponsor的密钥时间为7天，过期后请删除旧的enc.json文件，重新获取新的。
@@ -76,6 +80,10 @@ __**4. 下载enc.json文件，将文件放在korepi文件夹中。**__
 ![](images/verify-7.png)
 
 __**5. 打开korepi，即可使用。**__
+
+:::tip 视频教程
+:::
+<iframe width="560" height="315" src="https://www.youtube.com/embed/k44z8yl7wLY?si=IwkpFWbR-tJw4xAw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## 免费版使用教程
 
@@ -113,6 +121,12 @@ __**4. 下载enc.json文件，将文件放在korepi文件夹中。**__
 ![](images/verify-7.png)
 
 __**5. 打开korepi，即可使用。**__
+
+:::tip 视频教程
+:::
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WGmro7aRmOw?si=b1ywSsKaB-MU-cpT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 
 ## 暂停卡密
 
