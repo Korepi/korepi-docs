@@ -6,17 +6,42 @@
     <link>https://korepi.com/zh/</link>
     <description>Korepi 中文文档介绍</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 09 Feb 2024 11:55:49 GMT</pubDate>
-    <lastBuildDate>Fri, 09 Feb 2024 11:55:49 GMT</lastBuildDate>
+    <pubDate>Fri, 09 Feb 2024 11:56:03 GMT</pubDate>
+    <lastBuildDate>Fri, 09 Feb 2024 11:56:03 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+    <category>其他</category>
     <category>Features</category>
     <category>指南</category>
     <category>功能</category>
     <category>Guide</category>
-    <category>其他</category>
     <category>问题解答</category>
     <category>Troubleshoot</category>
+    <item>
+      <title>使用技巧</title>
+      <link>https://korepi.com/zh/others/skill.html</link>
+      <guid>https://korepi.com/zh/others/skill.html</guid>
+      <source url="https://korepi.com/zh/rss.xml">使用技巧</source>
+      <description>sponsor使用元素光环平替杀戮光环技巧 原理为通过元素光环让怪物附着元素 触发注入元素V2的连续闪爆; 元素反应不长眼 不想被草核炸死 灼烧烧死就开无敌; 玩家角色最好别出手 就让他自己炸 免得报错，BOSS可以适当出手 ! (image\sponsor-skill-1.png) ! (image\sponsor-skill-2.png) :::t...</description>
+      <category>其他</category>
+      <pubDate>Fri, 09 Feb 2024 08:42:58 GMT</pubDate>
+      <content:encoded><![CDATA[<h3> sponsor使用元素光环平替杀戮光环技巧</h3>
+<hr>
+<ul>
+<li>原理为通过元素光环让怪物附着元素 触发注入元素V2的连续闪爆</li>
+<li>元素反应不长眼 不想被草核炸死 灼烧烧死就开无敌</li>
+</ul>
+<blockquote>
+<p>玩家角色最好别出手 就让他自己炸 免得报错，BOSS可以适当出手</p>
+</blockquote>
+<p>
+
+</p>
+<div class="hint-container tip">
+<p class="hint-container-title">一般作用于物体必须是风,不然容易异常。</p>
+</div>
+]]></content:encoded>
+    </item>
     <item>
       <title>Auto Domain</title>
       <link>https://korepi.com/zh/features/2.%E4%B8%96%E7%95%8C%E5%8A%9F%E8%83%BD/auto-domain.html</link>
@@ -404,43 +429,6 @@
 <h2> 解锁速率是共用的，建议不要太快，容易被封禁</h2>
 </blockquote>
 ]]></content:encoded>
-    </item>
-    <item>
-      <title>免费版本</title>
-      <link>https://korepi.com/zh/guide/free.html</link>
-      <guid>https://korepi.com/zh/guide/free.html</guid>
-      <source url="https://korepi.com/zh/rss.xml">免费版本</source>
-      <description>如何获得Korepi免费密钥. 步骤 1: 找到 ★⋅micah-bot-verify⋅★ 频道 直达链接 (https://discord.com/channels/1069057220802781265/1203687333107335198); img.png 找到 Micah-bot 发送的消息查找 Micah-bot 发送的消息; 步骤 2:...</description>
-      <category>指南</category>
-      <pubDate>Wed, 07 Feb 2024 00:26:57 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> 如何获得Korepi免费密钥.</h2>
-<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/GURGoE2IEg8" title="Free Version | Cotton Buds" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
-<h3> 步骤 1:</h3>
-<ul>
-<li>
-<p>找到 <code>★⋅micah-bot-verify⋅★</code> 频道 <a href="https://discord.com/channels/1069057220802781265/1203687333107335198" target="_blank" rel="noopener noreferrer">直达链接</a></p>
-<p><img src="/assets/images/docs/202402/verify-1.png" alt="img.png" loading="lazy"></p>
-</li>
-<li>
-<p>找到 Micah-bot 发送的消息查找 Micah-bot 发送的消息</p>
-</li>
-</ul>
-<h3> 步骤 2:</h3>
-<p>点击<code>绑定免费卡密</code>，点击后按照机器人提供的链接，观看广告并跳过广告.</p>
-<h3> 步骤 3:</h3>
-<p>如果绑定信息显示 <code>成功</code>，则表示已成功完成密钥申请；如果未显示 <code>成功</code>，请重新从第一步开始.</p>
-<p><img src="/assets/images/docs/202312/success.png" alt="" loading="lazy"></p>
-<h3> 步骤 4:</h3>
-<div class="hint-container info">
-<p class="hint-container-title">If you already got a enc.json delete it before opening the program</p>
-</div>
-<p>启动Korepi获取您的<code>HWID</code>，然后去<code>★⋅micah-bot-verify⋅★★</code> 频道中 <code>点击获取验证文件</code> 然后粘贴您的 <code>HWID</code>.</p>
-<p>点击<code>提交</code>后，您将收到机器人发送的文件，将其下载并放到 Korepi 文件夹中.确保文件名<code>enc.json</code>.</p>
-<h3> 步骤 5:</h3>
-<p>再次启动Korepi，并按照控制台提供的说明进行操作.</p>
-<p>请享用 Korepi！</p>
-]]></content:encoded>
-      <enclosure url="https://korepi.com/assets/images/docs/202402/verify-1.png" type="image/png"/>
     </item>
     <item>
       <title>其他</title>
@@ -933,12 +921,13 @@
       <link>https://korepi.com/zh/others/</link>
       <guid>https://korepi.com/zh/others/</guid>
       <source url="https://korepi.com/zh/rss.xml">其他</source>
-      <description>目录 机场推荐 (ap.md);</description>
+      <description>目录 机场推荐 (ap.md); 使用技巧 (skill.md);</description>
       <category>其他</category>
       <pubDate>Tue, 09 Jan 2024 18:55:50 GMT</pubDate>
       <content:encoded><![CDATA[<h2> 目录</h2>
 <ul>
 <li><a href="/zh/others/ap.html" target="blank">机场推荐</a></li>
+<li><a href="/zh/others/skill.html" target="blank">使用技巧</a></li>
 </ul>
 ]]></content:encoded>
     </item>
@@ -1036,57 +1025,40 @@ VPN并非专为翻墙而生，而机场是专门的翻墙节点服务商。</p>
       <link>https://korepi.com/zh/troubleshoot/faq.html</link>
       <guid>https://korepi.com/zh/troubleshoot/faq.html</guid>
       <source url="https://korepi.com/zh/rss.xml">问题解答</source>
-      <description>问题列表 1.Korepi是免费的吗？ 是的，它是免费的，为了第一次获得它，你必须进行7天的签到方法 (../start/sign-in.md)，你可以通过赞助 (../start/donate.md)跳过这一步，然后每次密钥到期时你可以在频道中再次获取密钥。 2.赞助者是一次性的？还是需要每个月赞助一次？ 是一次性的，赞助满5＄获取永久的sponso...</description>
+      <description>问题列表 1.Korepi是免费的吗？ 它有免费的版本，但是功能比较少。 2.为什么我的配置不保存? 请记住，您必须提取另一个文件夹中的“.rar/.zip”文件。 如果在该步骤之后仍然没有保存配置，请与服务器中的任何帮助者联系以获取更多帮助。 你的配置文件一般是cfg.json，只要你不更改它，你以前的配置就不会改变。 路径文件是cfg.ini，这是...</description>
       <category>问题解答</category>
       <pubDate>Tue, 19 Dec 2023 17:09:24 GMT</pubDate>
       <content:encoded><![CDATA[<h2> 问题列表</h2>
 <h2> 1.Korepi是免费的吗？</h2>
-<h2> 是的，它是免费的，为了第一次获得它，你必须进行7天的<a href="/zh/start/sign-in.html" target="blank">签到方法</a>，你可以通过<a href="/zh/start/donate.html" target="blank">赞助</a>跳过这一步，然后每次密钥到期时你可以在频道中再次获取密钥。</h2>
-<h2> 2.<span style="color:#f1c40f;">赞助者</span>是一次性的？还是需要每个月赞助一次？</h2>
-<p>是一次性的，赞助满5＄获取永久的sponsor身份。</p>
-<hr>
-<h2> 3.在哪获取 <span style="color:#f1c40f;">赞助者身份</span>，赞助需要多少?</h2>
-<p>你可以在这<a href="/zh/start/donate.html" target="blank">赞助</a> 或者在频道中的 <code>#sponsorship</code>获取赞助链接 。</p>
-<p>为了获得赞助商的角色，您需要捐赠至少5美元(也就是最少35￥)，任何低于5美元的其他捐赠都将被忽略。</p>
-<p>如果你第一次赞助了其他金额，你可以继续赞助，直到满35￥即可。</p>
-<hr>
-<h2> 4.F版本的压缩文件的密码是什么?</h2>
-<p>是 <code>1234</code>, 下次请阅读下载公告.</p>
-<hr>
-<h2> 5.为什么我的配置不保存?</h2>
+<h2> 它有免费的版本，但是功能比较少。</h2>
+<h2> 2.为什么我的配置不保存?</h2>
 <p>请记住，您必须提取另一个文件夹中的“.rar/.zip”文件。</p>
 <p>如果在该步骤之后仍然没有保存配置，请与服务器中的任何帮助者联系以获取更多帮助。</p>
 <p>你的配置文件一般是cfg.json，只要你不更改它，你以前的配置就不会改变。</p>
 <p>路径文件是cfg.ini，这是你游戏路径文件，切服请在这把你游戏路径给删除。</p>
 <hr>
-<h2> 6.在哪里我可以找到主题theme?</h2>
+<h2> 3.在哪里我可以找到主题theme?</h2>
 <p>您可以在<code>community share</code>上找到Korepi的主题，也可以在Korepi设置中创建自己的主题。</p>
 <p><img src="/assets/images/docs/202312/theme-settings.png" alt="" loading="lazy"></p>
 <p>选中<code>Theme Customization(中文是主题自定义)</code>开始制作自己的主题。</p>
 <p>主题文件与korepi的注入器在同一个文件夹，文件夹名称<code>theme</code>。</p>
 <hr>
-<h2> 7.为什么我的/连续签到重置了?</h2>
-<p>很可能你超过了重置时间，它每天都会重置，如果你跳过1天，它会完全重置</p>
-<div class="hint-container info">
-<p class="hint-container-title">重置时间为每天GMT/UTC+8 00:00也就是中国时间。请转换到您的时区。</p>
-</div>
-<hr>
-<h2> 8.当有新的更新时，我可以使用Korepi吗?</h2>
+<h2> 4.当有新的更新时，我可以使用Korepi吗?</h2>
 <p>不，你需要等到Korepi的新版本发布。</p>
 <div class="hint-container info">
 <p class="hint-container-title">使用旧的注入器是没有用的，例如：1.1.0的Korepi只适配4.2的原神。Korepi更新大约需要1-2周。</p>
 </div>
 <hr>
-<h2> 9.为什么我启动游戏没有菜单，只有防欺诈警告?</h2>
+<h2> 5.为什么我启动游戏没有菜单，只有防欺诈警告?</h2>
 <p>在启动korepi之前，请确保已禁用所有覆盖（MSI、GeForce Experience等）。</p>
 <hr>
-<h2> 10.为什么我的游戏在加载屏幕时崩溃?</h2>
+<h2> 6.为什么我的游戏在加载屏幕时崩溃?</h2>
 <p>如果你遇到这样的错误:</p>
 <p><code>atidxx64.dll caused an Access Violation (0xc0000005) in module atidxx64.dll  at 0033:43d1356c.</code></p>
 <p>请更新驱动程序，然后重试。</p>
 <h2> 如果您没有收到该错误，请尝试在上设置更多的启动延迟<code>cfg.ini</code>.
 具体情况请<a href="/zh/troubleshoot/faq-error.html" target="blank">点击这里</a></h2>
-<h2> 11.为什么我像是在海里面一直用头顶着一个地方，无法左右移动？</h2>
+<h2> 7.为什么我像是在海里面一直用头顶着一个地方，无法左右移动？</h2>
 <p>请把自动挑战关了，这是bug，在枫丹部分地区使用，会自动触碰到附近的洋流导致卡住。</p>
 <hr>
 ]]></content:encoded>
@@ -2341,7 +2313,7 @@ C1: ?  C2: ?  C3: ?  C4: ?  C5: ?  C6: ?</li>
       <link>https://korepi.com/zh/guide/danger-function.html</link>
       <guid>https://korepi.com/zh/guide/danger-function.html</guid>
       <source url="https://korepi.com/zh/rss.xml">危险功能</source>
-      <description>[远程工具]; 自定义对话; 生成 工具; --- [自动对话] 自动对话; 跳过对话; --- [全局加速]; [杀戮光环]; [掉落物吸附]; 传送功能在版本末期基本上属于高危功能之一 赞助者功能[命座修改]</description>
+      <description>[远程工具]; 自定义对话; 生成 工具; --- [自动对话] 自动对话; 跳过对话; --- [全局加速]; [杀戮光环]; [掉落物吸附]; 传送功能在版本末期基本上属于高危功能之一 [命座修改]</description>
       <category>指南</category>
       <pubDate>Sat, 16 Dec 2023 07:28:19 GMT</pubDate>
       <content:encoded><![CDATA[<hr>
@@ -2373,7 +2345,7 @@ C1: ?  C2: ?  C3: ?  C4: ?  C5: ?  C6: ?</li>
 </div>
 <hr>
 <h1> <span style="color:red;">视图功能</span></h1>
-<h2> <span style="color:#f1c40f;">赞助者功能[命座修改]</span></h2>
+<h2> [命座修改]</h2>
 ]]></content:encoded>
     </item>
     <item>
@@ -2541,6 +2513,10 @@ C1: ?  C2: ?  C3: ?  C4: ?  C5: ?  C6: ?</li>
 <p><strong><strong>4. 下载enc.json文件，将文件放在korepi文件夹中。</strong></strong></p>
 <p></p>
 <p><strong><strong>5. 打开korepi，即可使用。</strong></strong></p>
+<div class="hint-container tip">
+<p class="hint-container-title">视频教程</p>
+</div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/N6odK8Q6LEE?si=LLIeftUPtpyNVKuE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 <h2> sponsor使用教程</h2>
 <div class="hint-container tip">
 <p class="hint-container-title">sponsor的密钥时间为7天，过期后请删除旧的enc.json文件，重新获取新的。</p>
@@ -2562,6 +2538,10 @@ C1: ?  C2: ?  C3: ?  C4: ?  C5: ?  C6: ?</li>
 <p><strong><strong>4. 下载enc.json文件，将文件放在korepi文件夹中。</strong></strong></p>
 <p></p>
 <p><strong><strong>5. 打开korepi，即可使用。</strong></strong></p>
+<div class="hint-container tip">
+<p class="hint-container-title">视频教程</p>
+</div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/k44z8yl7wLY?si=IwkpFWbR-tJw4xAw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 <h2> 免费版使用教程</h2>
 <div class="hint-container tip">
 <p class="hint-container-title">免费的密钥时间为1天，过期后请删除旧的enc.json文件，重新获取新的。</p>
@@ -2585,6 +2565,10 @@ C1: ?  C2: ?  C3: ?  C4: ?  C5: ?  C6: ?</li>
 <p><strong><strong>4. 下载enc.json文件，将文件放在korepi文件夹中。</strong></strong></p>
 <p></p>
 <p><strong><strong>5. 打开korepi，即可使用。</strong></strong></p>
+<div class="hint-container tip">
+<p class="hint-container-title">视频教程</p>
+</div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WGmro7aRmOw?si=b1ywSsKaB-MU-cpT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 <h2> 暂停卡密</h2>
 <h1> <strong><strong>暂停和解除暂停卡密（仅限订阅者Subscription/PERTAMAX）</strong></strong></h1>
 <blockquote>
