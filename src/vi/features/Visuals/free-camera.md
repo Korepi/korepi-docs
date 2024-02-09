@@ -2,7 +2,7 @@
 title: Camera Tự Do
 icon: camera-rotate
 category:
-  - Các Tính Năng
+  - Tính Năng
 tag:
   - Camera Tự Do
 author: Schvis

@@ -8,7 +8,8 @@ tag:
 author: Schvis, ll33ee
 order: 3
 ---
-
+::: info Solo para PERTAMAX
+:::
 ### Auto Cocinar permite cocinar la cantidad y calidad del platillo elejido, y así completar la maestría culinaria para obtener el Autococinar del juego.
 
 ## Video de Ejemplo:

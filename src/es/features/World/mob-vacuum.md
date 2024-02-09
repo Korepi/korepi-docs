@@ -8,7 +8,8 @@ tag:
 author: Schvis
 order: 12
 ---
-
+::: info Solo para PERTAMAX
+:::
 ## Succión de Mobs acerca a los enemigos con un rango y velocidad personalizados.
 
 ## Video de Ejemplo:

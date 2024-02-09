@@ -9,7 +9,7 @@ author: Schvis
 order: 11
 ---
 
-::: info Solo para Sponsor
+::: info Solo para PERTAMAX
 :::
 ---
 ## Utilidad Remota:

@@ -2,7 +2,7 @@
 title: Thể Lực Vô Hạn
 icon: dumbbell
 category:
-  - Các Tính Năng
+  - Tính Năng
 tag:
   - Thể Lực Vô Hạn
 author: Schvis

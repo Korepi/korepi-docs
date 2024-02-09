@@ -1,8 +1,8 @@
 ---
-title: Danh Sách Các Tính Năng
+title: Danh Sách Tính Năng
 icon: "book"
 category:
-  - Các Tính Năng
+  - Tính Năng
 tag:
   - Bắt Đầu
 author: Schvis

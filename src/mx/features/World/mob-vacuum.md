@@ -8,7 +8,8 @@ tag:
 author: Schvis, ll33ee
 order: 12
 ---
-
+::: info Solo para PERTAMAX
+:::
 ## Atraer Mobs acerca a los enemigos con un rango y velocidad personalizados.
 
 ## Video de Ejemplo:

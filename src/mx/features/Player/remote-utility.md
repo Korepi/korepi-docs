@@ -9,7 +9,7 @@ author: Schvis, ll33ee
 order: 11
 ---
 
-::: info Solo para Sponsor
+::: info Solo para PERTAMAX
 :::
 ---
 ## Herramientas Remotas:

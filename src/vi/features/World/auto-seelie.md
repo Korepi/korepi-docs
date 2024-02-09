@@ -2,7 +2,7 @@
 title: Tự Động Dẫn Đường Tiên Linh
 icon: arrows-split-up-and-left
 category:
-  - Các Tính Năng
+  - Tính Năng
 tag:
   - Tự Động Dẫn Đường Tiên Linh
 author: Schvis, Chloe

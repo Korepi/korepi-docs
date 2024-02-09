@@ -8,7 +8,8 @@ tag:
 author: Schvis
 order: 4
 ---
-
+::: info Solo para PERTAMAX
+:::
 ### Auto Destruir Objetos te permite destruir objetos como cofres, plantas, escudos, minerales y más automaticamente con rangos personalizados.
 
 ## Video de Ejemplo:

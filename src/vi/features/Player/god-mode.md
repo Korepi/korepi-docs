@@ -2,7 +2,7 @@
 title: Bất Tử
 icon: user
 category:
-  - Các Tính Năng
+  - Tính Năng
 tag:
   - Bất Tử
 author: Schvis

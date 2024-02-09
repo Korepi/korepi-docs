@@ -1,15 +1,17 @@
 ---
-title: Hào Quang Huỷ Diệt
+title: Hào Quang Huỷ Diệt (Kill Aura)
 icon: street-view
 category:
-  - Các Tính Năng
+  - Tính Năng
 tag:
   - Hào Quang Huỷ Diệt
 author: Schvis
 order: 12
 ---
 
-::: danger This feature has a high risk of ban.
+::: info Chỉ có ở phiên bản PERTAMAX
+:::
+::: danger Tính năng này có khả năng cao sẽ khiến tài khoản của bạn bị cấm. Hãy lưu ý trước khi sử dụng.
 :::
 ---
 ## Hào Quang Huỷ Diệt: Gây Sát Thương Cho Kẻ Địch Xung Quanh

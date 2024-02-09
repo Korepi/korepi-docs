@@ -2,7 +2,7 @@
 title: Dịch Chuyển Bằng Bản Đồ
 icon: person-rays
 category:
-  - Các Tính Năng
+  - Tính Năng
 tag:
   - Dịch Chuyển Bằng Bản Đồ
 author: Schvis

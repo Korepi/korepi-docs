@@ -8,5 +8,6 @@ tag:
 author: Schvis
 order: 14
 ---
-
+::: info Solo para PERTAMAX
+:::
 ## Modificador de Pieles te permite cambiar la skin del personaje gratuitamente.
