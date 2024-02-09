@@ -1,6 +1,6 @@
 ---
 title: 使用技巧
-icon: server
+icon: gift
 category:
   - 其他
 tag:
