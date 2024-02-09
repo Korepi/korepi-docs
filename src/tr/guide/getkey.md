@@ -24,6 +24,8 @@ Bir satıcıdan bir anahtar satın aldıysanız, `bind card str` seçeneğine t�
 ::: info Eğer 4 Şubat 2024'ten önce Sponsor olduysanız, "Sponsor Tazminatı"na tıklayın ve 3 aylık tazminat süresi almak için "EVET" girin, "kartınızı" başarıyla talep ettikten sonra bir sonraki adımı izleyin"
 :::
 ### Adım 3:
+::: info If you already got a enc.json delete it before opening the program
+:::
 `Get Verification File`'a, tıklayın ve enjektörü bir kez açtıktan sonra elde edebileceğiniz `HWID (device ID)`'nizi doldurmanız gerekir.
 - Bottan bir dosya alacaksınız, indirin ve korepi klasörünüze yerleştirin. Adının `enc.json` olduğundan emin olun.
 

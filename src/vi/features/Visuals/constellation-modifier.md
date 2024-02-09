@@ -2,13 +2,13 @@
 title: Tuỳ Chỉnh Cung Mệnh
 icon: retweet
 category:
-  - Các Tính Năng
+  - Tính Năng
 tag:
   - Tuỳ Chỉnh Cung Mệnh
 author: Schvis
 order: 3
 ---
-::: info Chức Năng Chỉ Dành Cho Nhà Tài Trợ
+::: info Chỉ có ở phiên bản PERTAMAX
 :::
 ---
 ## Tuỳ Chỉnh Cung Mệnh sẽ sửa đổi cung mệnh của nhân vật hiện tại khi được bật. Một số chỉ mang tính hình thức còn số một khác sẽ hoạt động được như cung mệnh thực sự.

@@ -2,7 +2,7 @@
 title: Dịch Chuyển Tuỳ Chọn
 icon: person-rays
 category:
-  - Features
+  - Tính Năng
 tag:
   - Dịch Chuyển Tuỳ Chọn
 author: Schvis

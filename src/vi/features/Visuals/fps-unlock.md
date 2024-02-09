@@ -2,7 +2,7 @@
 title: Bỏ Giới Hạn FPS
 icon: arrow-up-right-dots
 category:
-  - Các Tính Năng
+  - Tính Năng
 tag:
   - Bỏ Giới Hạn FPS
 author: Schvis

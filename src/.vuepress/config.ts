@@ -40,6 +40,11 @@ export default defineUserConfig({
             title: "Korepi",
             description: "Ayuda en Korepi"
         },
+        "/mm/": {
+            lang: "my-MM",
+            title: "Korepi",
+            description: "Korepi တွင်ကူညီပါ။"
+        },
         "/vi/": {
             lang: "vi-VN",
             title: "Korepi",
@@ -320,6 +325,47 @@ export default defineUserConfig({
                                 suggestedQueryText: "Intenta con una consulta diferente",
                                 reportMissingResultsText: "¿Crees que esta consulta debería arrojar algunos resultados :> ?",
                                 reportMissingResultsLinkText: "Contáctenos",
+                            },
+                        },
+                    },
+                },
+                "/mm/": {
+                    placeholder: "Search",
+                    translations: {
+                        button: {
+                            buttonText: "Search",
+                            buttonAriaLabel: "Search",
+                        },
+                        modal: {
+                            searchBox: {
+                                resetButtonTitle: "Clear Search Criteria",
+                                resetButtonAriaLabel: "Clear Search Criteria",
+                                cancelButtonText: "Back",
+                                cancelButtonAriaLabel: "Back",
+                            },
+                            startScreen: {
+                                recentSearchesTitle: "Search History",
+                                noRecentSearchesText: "No search history",
+                                saveRecentSearchButtonTitle: "Save to Search History",
+                                removeRecentSearchButtonTitle: "Remove from Search History",
+                                favoriteSearchesTitle: "Favorites",
+                                removeFavoriteSearchButtonTitle: "Remove from Favorites",
+                            },
+                            errorScreen: {
+                                titleText: "Failed to Retrieve Results",
+                                helpText: "Check your internet connection and the requested resource.",
+                            },
+                            footer: {
+                                selectText: "Select",
+                                navigateText: "Toggle",
+                                closeText: "Close",
+                                searchByText: "We use search",
+                            },
+                            noResultsScreen: {
+                                noResultsText: "Couldn't find anything for your query:",
+                                suggestedQueryText: "You can try a different query",
+                                reportMissingResultsText: "Do you think this query should yield some results :> ?",
+                                reportMissingResultsLinkText: "Contact us",
                             },
                         },
                     },

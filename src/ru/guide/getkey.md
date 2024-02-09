@@ -24,7 +24,9 @@ If you bought a key from a reseller, click on `bind card str` and paste in your 
 ::: info If you are a Sponsor before February 4th, 2024, click "Sponsor Compensation" and enter "YES" to receive 3 months of compensation time, after successfully claiming your "card" follow the next step"
 :::
 ### Step 3:
-Click `Get Verification File`, and you need to fill in your `HWID (device ID)` obtainable after opening the injector once.
+::: info If you already got a enc.json delete it before opening the program
+:::
+Click `Get Verification File`, and you need to fill in your `HWID (device ID)` obtainable after opening the program once.
 - You will get a file from the bot, download it and place it on your korepi folder. Make sure the name is `enc.json`.
 
 You can also click `View Subscription Information` to view your subscription information.
@@ -38,7 +40,7 @@ Click on `Pause Card` and type `YES` to pause it. You can unpause it anytime and
 
 ## How to change HWID (Device ID)
 
-Click on `ID(Change HWID)`, and paste in the new `HWID` you get from opening the injector, after that download the new file and place it on your Korepi folder.
+Click on `ID(Change HWID)`, and paste in the new `HWID` you get from opening the program, after that download the new file and place it on your Korepi folder.
 
 ::: info You can only reset the HWID once every 7 days
 :::

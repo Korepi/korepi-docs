@@ -2,7 +2,7 @@
 title: Thu Phóng Bản Đồ
 icon: map
 category:
-  - Các Tính Năng
+  - Tính Năng
 tag:
   - Thu Phóng Bản Đồ
 author: Schvis

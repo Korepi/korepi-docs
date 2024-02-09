@@ -8,7 +8,7 @@ tag:
 author: Schvis
 order: 3
 ---
-::: info Solo para Sponsor
+::: info Solo para PERTAMAX
 :::
 ---
 ## Modificador de Constelaciones, cambiara las constelaciones del personaje visualmente, algunos funcionan de verdad.

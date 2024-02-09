@@ -1,35 +1,43 @@
 ---
-title: Free Version
+title: Phiên Bản Miễn Phí
 icon: key
 category:
-  - Guide
+  - Hướng Dẫn
 tag:
-  - Start
-  - License
+  - Bắt Đầu
+  - Giấy Phép
 author: Schvis
 order: 2
 ---
 
-## How to get the free license for Korepi.
+## Hướng Dẫn Lấy Key Korepi Miễn Phí
 
-### Step 1:
-- Find the `★⋅micah-bot-verify⋅★` channel [direct link](https://discord.com/channels/1069057220802781265/1203687333107335198)
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/GURGoE2IEg8" title="Free Version | Cotton Buds" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
+
+### Bước 1:
+- Đi đến kênh `★⋅micah-bot-verify⋅★` trong server Discord: [Link trực tiếp](https://discord.com/channels/1069057220802781265/1203687333107335198)
 
   ![img.png](/assets/images/docs/202402/verify-1.png)
-- Find the message sent by Micah-bot
+- Tìm tin nhắn được gửi bởi Micah-bot
 
-### Step 2:
-Click on `Bind free card`, follow the provide link by the bot after clicking on it, watch the ad and skip it.
+### Bước 2:
+Click vào `Bind free card` rồi mở đường link được cung cấp bởi bot. Sau đó xem quảng cáo rồi nhấn skip.
 
-### Step 3:
-If the bind message shows `Success`, you have successfully finished claiming the license, if it doesn't show as `Success`, repeat from the first step.
+### Bước 3:
+Nếu như tin nhắn gắn thẻ (bind message) hiển thị `Success` có nghĩa là bạn đã nhận key thành công. Nếu nó không hiện `Success`, hãy lặp lại từ bước số 1.
 
-### Step 4:
-Launch the injector to obtain your `HWID`, after that head to `★⋅micah-bot-verify⋅★` again and click on `Get verification file` and paste in your `HWID`.
+![](/assets/images/docs/202312/success.png)
 
-After clicking on submit you will receive a file from the bot, download it and place it on your Korepi folder. Make sure the name is `enc.json`.
+=======
+### Bước 4:
+::: info Nếu trong thư mục chứa Korepi đã tồn tại một file enc.json, hãy xoá nó trước khi mở Korepi
+:::
+Mở Korepi để lấy `HWID`, sau đó đi đến kênh `★⋅micah-bot-verify⋅★` và click vào `Get verification file` rồi sau đó dán `HWID` của bạn vào.
 
-### Step 5:
-Launch the injector again and follow the instructions provide in the cmd.
+Sau khi nhấn xác nhận, bạn sẽ nhận được một file từ bot. Sau đó tải và đặt file đó vào thư mục chứa Korepi. Hãy đảm bảo rằng tên file là `enc.json`.
 
-Enjoy Korepi!
+=======
+### Bước 5:
+Mở lại Korepi và chọn đường dẫn của game nếu bạn chưa từng làm việc này, sau đấy Korepi sẽ khởi chạy và tiêm vào trò chơi.
+
+Xong rồi, hãy Tận Hưởng Korepi thôi!

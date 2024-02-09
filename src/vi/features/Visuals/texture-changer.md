@@ -2,7 +2,7 @@
 title: Thay Đổi Kết Cấu
 icon: list
 category:
-  - Các Tính Năng
+  - Tính Năng
 tag:
   - Thay Đổi Kết Cấu
 author: Schvis

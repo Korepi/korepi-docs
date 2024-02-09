@@ -2,7 +2,7 @@
 title: Điều Chỉnh Tốc Độ Game
 icon: forward-fast
 category:
-  - Các Tính Năng
+  - Tính Năng
 tag:
   - Điều Chỉnh Tốc Độ Game
 author: Schvis

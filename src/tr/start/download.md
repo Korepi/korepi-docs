@@ -12,24 +12,21 @@ author:
 order: 7
 ---
 
-# İndirme
+# Download
 
-## Giriş
+## Introduction
 
-Topluluğumuza hoş geldiniz! Bot kontrolünü geçmek ve `Newcomer` rolü için aşağıdaki adımları izleyin.
+Welcome to our community! To pass the bot check and receive the `Newcomer` role, follow these steps.
 
-### Adım 1: Sunucumuza katılın ve `Newcomer` ve `Fans` rollerini edinin.
+### Step 1: Join our server and obtain the `Newcomer` role
 
-Sunucuya henüz katılmadıysanız, lütfen sunucuya nasıl katılacağınızı ve `Newcomer` ve `Fans` rollerini nasıl elde edeceğinizi açıklayan doğrulama gönderisini okuyun.
+If you haven't joined the server yet, please read the verification post, which describes how to join the server and obtain the `Newcomer`.
 
-### Adım 2: `★⋅korepi-version-roles⋅★` Kanalına gidin.
+### Step 2: Go to the channel `★⋅korepi-download⋅★`
 
-`★⋅korepi-version-roles⋅★` kanalını bulun ve F veya V versiyon rolünü seçin. F rolünü seçmenizi öneririz.
+Locate the channel `★⋅korepi-download⋅★` and follow the link to download the program.
 
-### Adım 3: Gerekli kaynakları indirin
+### Step 3: Ready!
 
-Bunu yaptıktan sonra, ilgili indirme kanalına erişim kazanacaksınız: `★⋅f-download⋅★` veya `★⋅v-download⋅★`.
+Place the .rar in a folder and add it to [exclusions](../guide/virus.md), after that extract it and follow this [guide](../guide/getkey.md)
 
-### Adım 4: Hazır!
-
-Kanalda, güncel sürüme bir bağlantı ve arşiv için şifre bulacaksınız. İyi şanslar!

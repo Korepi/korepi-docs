@@ -2,7 +2,7 @@
 title: Tự Động Khiêu Chiến
 icon: power-off
 category:
-  - Các Tính Năng
+  - Tính Năng
 tag:
   - Tự Động Khiêu Chiến
 author: Schvis
@@ -15,4 +15,5 @@ order: 2
 
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/7JNegfQiK2U?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Challenge" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
 
->Note: Not recommended to use in low delays and very high ranges.
+>Lưu ý: Không khuyến khích bạn sử dụng với độ trễ thấp và tầm ảnh hưởng quá cao.
+
