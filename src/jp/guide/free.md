@@ -28,7 +28,7 @@ order: 2
 
 ![](/assets/images/docs/202312/success.png)
 ### ステップ 4:
-::: info If you already got a enc.json delete it before opening the program
+::: info すでにenc.jsonをお持ちの場合は、プログラムを開く前に削除してください。
 :::
 インジェクターを起動してHWIDを取得した後、再び `★⋅micah-bot-verify⋅★` にアクセスし `Get verification file` をクリックして `HWID`をペーストする。
 
