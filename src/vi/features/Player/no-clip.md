@@ -1,5 +1,5 @@
 ---
-title: Xuyên Tường
+title: Xuyên Tường (No Clip)
 icon: person-walking-dashed-line-arrow-right
 category:
   - Tính Năng

@@ -1,5 +1,5 @@
 ---
-title: Bất Tử
+title: Bất Tử (God Mode)
 icon: user
 category:
   - Tính Năng
