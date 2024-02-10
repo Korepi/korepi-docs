@@ -38,7 +38,7 @@ Anda juga dapat mengklik `Lihat Informasi Langganan` untuk melihat informasi lan
 
 Klik `Jeda Kartu` dan ketik `YES` untuk menjeda kartu. Anda dapat membatalkan jeda kapan saja dan langganan Anda akan berlanjut.
 
-Info Anda hanya dapat menjeda kartu setiap 30 hari sekali
+::: info Anda hanya dapat menjeda kartu setiap 30 hari sekali
 :::
 
 ## Cara mengubah HWID (ID Perangkat)
