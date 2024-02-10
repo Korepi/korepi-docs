@@ -26,7 +26,7 @@ Jika Anda membeli kunci dari reseller, klik `bind card str` dan tempelkan kunci 
 :::
 
 ### Langkah 3:
-::: info If you already got a enc.json delete it before opening the program
+::: info Jika kamu sudah punya enc.json, hapus dulu sebelum membuka injektor
 :::
 Klik `Dapatkan File Verifikasi`, dan Anda harus mengisi `HWID` (ID perangkat) Anda yang diperoleh setelah membuka injektor sekali.
 - Anda akan mendapatkan file dari bot, unduh dan letakkan di folder korepi Anda. Pastikan namanya adalah `enc.json`.
@@ -44,7 +44,7 @@ Klik `Jeda Kartu` dan ketik `YES` untuk menjeda kartu. Anda dapat membatalkan je
 ## Cara mengubah HWID (ID Perangkat)
 
 
-Klik pada `ID` (Ubah HWID), dan tempelkan `HWID` baru yang anda dapatkan dari membuka injektor, setelah itu unduh file baru dan letakkan di folder Korepi anda.
+Klik pada `ID (Ubah HWID)`, dan tempelkan `HWID` baru yang anda dapatkan dari membuka injektor, setelah itu unduh file baru dan letakkan di folder Korepi anda.
 
 ::: info Anda hanya dapat mengatur ulang HWID setiap 7 hari sekali 
 :::
