@@ -6,8 +6,8 @@
     <link>https://korepi.com/es/</link>
     <description>Ayuda en Korepi</description>
     <language>es-ES</language>
-    <pubDate>Sat, 10 Feb 2024 16:45:12 GMT</pubDate>
-    <lastBuildDate>Sat, 10 Feb 2024 16:45:12 GMT</lastBuildDate>
+    <pubDate>Sat, 10 Feb 2024 16:46:24 GMT</pubDate>
+    <lastBuildDate>Sat, 10 Feb 2024 16:46:24 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Funciones</category>
@@ -24,7 +24,7 @@
       <category>Funciones</category>
       <pubDate>Wed, 07 Feb 2024 20:25:33 GMT</pubDate>
       <content:encoded><![CDATA[<h3> El gestor de mapa te permitirá desbloquear teletransportadores y los estatua de los siete automaticamente sin tener que moverte del sitio, ideal para crear cuentas nuevas.</h3>
-]]></content:encoded>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/jOY5Gm2z8To" title="Map Manager - Korepi" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>]]></content:encoded>
     </item>
     <item>
       <title>Auto Dominios</title>

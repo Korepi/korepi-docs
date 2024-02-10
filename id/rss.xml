@@ -6,8 +6,8 @@
     <link>https://korepi.com/id/</link>
     <description>Pertolongan Korepi</description>
     <language>id-ID</language>
-    <pubDate>Sat, 10 Feb 2024 16:45:12 GMT</pubDate>
-    <lastBuildDate>Sat, 10 Feb 2024 16:45:12 GMT</lastBuildDate>
+    <pubDate>Sat, 10 Feb 2024 16:46:24 GMT</pubDate>
+    <lastBuildDate>Sat, 10 Feb 2024 16:46:24 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Features</category>
@@ -26,7 +26,7 @@
       <category>Features</category>
       <pubDate>Wed, 07 Feb 2024 20:25:33 GMT</pubDate>
       <content:encoded><![CDATA[<h3> Map Manager allows the player to unlock Statues of the Seven or Waypoints automatically without moving from the place, great to create reroll accounts.</h3>
-]]></content:encoded>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/jOY5Gm2z8To" title="Map Manager - Korepi" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>]]></content:encoded>
     </item>
     <item>
       <title>Auto Domain</title>
