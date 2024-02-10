@@ -2,7 +2,7 @@
 title: Tự Động Trò Chuyện
 icon: comments
 category:
-  - Các Tính Năng
+  - Tính Năng
 tag:
   - Tự Động Trò Chuyện
 author: Schvis

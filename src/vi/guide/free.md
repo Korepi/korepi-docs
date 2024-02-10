@@ -30,7 +30,7 @@ Nếu như tin nhắn gắn thẻ (bind message) hiển thị `Success` có ngh�
 
 =======
 ### Bước 4:
-::: info If you already got a enc.json delete it before opening the program
+::: info Nếu trong thư mục chứa Korepi đã tồn tại một file enc.json, hãy xoá nó trước khi mở Korepi
 :::
 Mở Korepi để lấy `HWID`, sau đó đi đến kênh `★⋅micah-bot-verify⋅★` và click vào `Get verification file` rồi sau đó dán `HWID` của bạn vào.
 
@@ -38,6 +38,6 @@ Sau khi nhấn xác nhận, bạn sẽ nhận được một file từ bot. Sau 
 
 =======
 ### Bước 5:
-Mở Korepi lên và làm theo hướng dẫn ghi trong cmd.
+Mở lại Korepi và chọn đường dẫn của game nếu bạn chưa từng làm việc này, sau đấy Korepi sẽ khởi chạy và tiêm vào trò chơi.
 
-Tận Hưởng Korepi!
+Xong rồi, hãy Tận Hưởng Korepi thôi!

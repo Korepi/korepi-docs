@@ -1,12 +1,12 @@
 ---
-title: Stats Modifier
+title: Tinh Chỉnh Thông Số
 icon: bolt
 category:
-  - Features
+  - Tính Năng
 tag:
-  - Stats Modifier
+  - Tinh Chỉnh Thông Số
 author: Schvis
 order: 12
 ---
 
-## Soon.
+## Sắp Ra Mắt.

@@ -1,85 +1,85 @@
 ---
-title: Differences between versions
+title: Sự Khác Nhau Giữa Các Phiên Bản
 icon: server
 category:
-  - Guide
+  - Hướng Dẫn
 tag:
-  - Start
+  - Bắt Đầu
 author: Schvis
 order: 6
 ---
 
-## Available Features between versions.
+## Các Tính Năng Hiện Có Giữa Các Phiên Bản.
 
-|Version | Free |Sponsor|PERTAMAX|
+|Phiên Bản | Miễn Phí |Nhà Tài Trợ|PERTAMAX|
 |-----|--------|--------|------|
-|Attack Effects|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
-|Auto Run|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
-|Cooldown Effects|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
-|Fall Control|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
-|God Mode|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
-|Infinite Stamina|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
-|No-Clip|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
-|Player Speed|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
-|Auto-Challenge|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
-|Auto-Loot|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
-|Auto-Seelie|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
-|Auto Talk|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
-|Dumb Enemies|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
-|Elemental Sight|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
+|Hiệu Ứng Tấn Công|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
+|Tự Động Chạy|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
+|Hiệu Ứng Hồi Chiêu|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
+|Kiểm Soát Tốc Độ Rơi|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
+|Bất Tử (God Mode)|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
+|Thể Lực Vô Hạn|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
+|Xuyên Tường (No Clip)|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
+|Tốc Độ Nhân Vật|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
+|Tự Động Khiêu Chiến|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
+|Tự Động Nhặt|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
+|Tự Động Dẫn Đường Tiên Linh|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
+|Tự Động Trò Chuyện|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
+|Địch Không Tấn Công|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
+|Góc Nhìn Nguyên Tố|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
 |ESP|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
-|Freeze Enemies|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
-|Game Speed|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
-|Open Team Immediately|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
-|Skip Enhance Animation|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
-|Chest Teleport|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
-|Oculi Teleport|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
-|Map Teleport|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
-|Quest Teleport|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
-|Custom Teleport|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
-|Interactive Map|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
-|Camera Zoom|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
-|FOV Changer|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
-|Chest Indicator|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
-|Censor Remover|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
-|FPS Unlock|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
-|Hide UI|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
-|Map Zoom|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
-|No Fog|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
-|No Grass|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
-|No Map Fog|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
-|Summon Paimon|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
-|Profile Changer|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
-|Auto Activate Waypoint|<span style='color:red;'>X</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
-|Crit Rate Modifier|<span style='color:red;'>X</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
-|Dolphin Dive|<span style='color:red;'>X</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
-|Elemental Aura|<span style='color:red;'>X</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
-|Extra Movement|<span style='color:red;'>X</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
-|Extra Visual Settings|<span style='color:red;'>X</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
-|Fake Time|<span style='color:red;'>X</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
-|Free Camera|<span style='color:red;'>X</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
-|GM Icon|<span style='color:red;'>X</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
-|Monster Changer|<span style='color:red;'>X</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
-|No Camera Blur|<span style='color:red;'>X</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
-|No Camera Shake|<span style='color:red;'>X</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
-|No Footprints|<span style='color:red;'>X</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
-|No Skill Animation|<span style='color:red;'>X</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
+|Đóng Băng Chuyển Động Kẻ Địch|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
+|Điều Chỉnh Tốc Độ Game|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
+|Mở Thiết Lập Đội Hình Nhanh|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
+|Bỏ Qua Hoạt Ảnh Nâng Cấp|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
+|Dịch Chuyển Tới Rương|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
+|Dịch Chuyển Tới Thần Đồng|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
+|Dịch Chuyển Bằng Bản Đồ|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
+|Dịch Chuyển Tới Nhiệm Vụ|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
+|Dịch Chuyển Tuỳ Chọn|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
+|Bản Đồ Tương Tác|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
+|Thu Phóng Camera|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
+|Thay Đổi Góc Nhìn|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
+|Hiển Thị Rương Chưa Mở|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
+|Loại Bỏ Kiểm Duyệt|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
+|Bỏ Giới Hạn FPS|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
+|Ẩn Giao Diện|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
+|Thu Phóng Bản Đồ|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
+|Không Sương Mù|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
+|Không Hiện Cỏ|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
+|Không Hiện Sương Mù Trên Bản Đồ|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
+|Triệu Hồi Paimon|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
+|Tuỳ Chỉnh Profile|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
+|Tự Động Kích Hoạt Điểm Dịch Chuyển|<span style='color:red;'>X</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
+|Tuỳ Chỉnh Tỷ Lệ Chí Mạng|<span style='color:red;'>X</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
+|Lặn Kiểu Cá Heo|<span style='color:red;'>X</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
+|Hào Quang Nguyên Tố|<span style='color:red;'>X</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
+|Di Chuyển Nâng Cao|<span style='color:red;'>X</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
+|Thiết Đặt Đồ Hoạ Bổ Sung|<span style='color:red;'>X</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
+|Tuỳ Chỉnh Thời Gian|<span style='color:red;'>X</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
+|Camera Tự Do|<span style='color:red;'>X</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
+|Biểu Tượng GM|<span style='color:red;'>X</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
+|Thay Đổi Quái|<span style='color:red;'>X</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
+|Không Làm Mờ Camera|<span style='color:red;'>X</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
+|Không Làm Rung Camera|<span style='color:red;'>X</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
+|Không Hiện Dấu Chân|<span style='color:red;'>X</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
+|Không Hiện Hoạt Ảnh Kỹ Năng|<span style='color:red;'>X</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
 |Debug|<span style='color:red;'>X</span>|<span style='color:red;'>X</span>|<span style='color:green;'>✓</span>|
-|Animation Changer|<span style='color:red;'>X</span>|<span style='color:red;'>X</span>|<span style='color:green;'>✓</span>|
-|Auto Cook|<span style='color:red;'>X</span>|<span style='color:red;'>X</span>|<span style='color:green;'>✓</span>|
-|Auto Destroy|<span style='color:red;'>X</span>|<span style='color:red;'>X</span>|<span style='color:green;'>✓</span>|
-|Auto Fish|<span style='color:red;'>X</span>|<span style='color:red;'>X</span>|<span style='color:green;'>✓</span>|
-|Auto Tree Farm|<span style='color:red;'>X</span>|<span style='color:red;'>X</span>|<span style='color:green;'>✓</span>|
-|Constellation Modifier|<span style='color:red;'>X</span>|<span style='color:red;'>X</span>|<span style='color:green;'>✓</span>|
-|Custom Weather|<span style='color:red;'>X</span>|<span style='color:red;'>X</span>|<span style='color:green;'>✓</span>|
-|Emotion Changer|<span style='color:red;'>X</span>|<span style='color:red;'>X</span>|<span style='color:green;'>✓</span>|
-|Flycloak Modifier|<span style='color:red;'>X</span>|<span style='color:red;'>X</span>|<span style='color:green;'>✓</span>|
-|Kill Aura|<span style='color:red;'>X</span>|<span style='color:red;'>X</span>|<span style='color:green;'>✓</span>|
-|Map Manager|<span style='color:red;'>X</span>|<span style='color:red;'>X</span>|<span style='color:green;'>✓</span>|
-|Mob Vacuum|<span style='color:red;'>X</span>|<span style='color:red;'>X</span>|<span style='color:green;'>✓</span>|
-|Remote Utilities|<span style='color:red;'>X</span>|<span style='color:red;'>X</span>|<span style='color:green;'>✓</span>|
-|Vacuum Loot|<span style='color:red;'>X</span>|<span style='color:red;'>X</span>|<span style='color:green;'>✓</span>|
-|Skin Modifier|<span style='color:red;'>X</span>|<span style='color:red;'>X</span>|<span style='color:green;'>✓</span>|
-|Auto Puzzle|<span style='color:red;'>X</span>|<span style='color:red;'>X</span>|<span style='color:green;'>✓</span>|
-|Auto Domain|<span style='color:red;'>X</span>|<span style='color:red;'>X</span>|<span style='color:green;'>✓</span>|
-|Stats Modifier|<span style='color:red;'>X</span>|<span style='color:red;'>X</span>|<span style='color:green;'>✓</span>|
+|Thay Đổi Hoạt Ảnh|<span style='color:red;'>X</span>|<span style='color:red;'>X</span>|<span style='color:green;'>✓</span>|
+|Tự Động Nấu Nướng|<span style='color:red;'>X</span>|<span style='color:red;'>X</span>|<span style='color:green;'>✓</span>|
+|Tự Động Phá Huỷ Vật Thể|<span style='color:red;'>X</span>|<span style='color:red;'>X</span>|<span style='color:green;'>✓</span>|
+|Tự Động Câu Cá|<span style='color:red;'>X</span>|<span style='color:red;'>X</span>|<span style='color:green;'>✓</span>|
+|Tự Động Đốn Gỗ|<span style='color:red;'>X</span>|<span style='color:red;'>X</span>|<span style='color:green;'>✓</span>|
+|Thay Đổi Cung Mệnh|<span style='color:red;'>X</span>|<span style='color:red;'>X</span>|<span style='color:green;'>✓</span>|
+|Thời Tiết Tuỳ Chỉnh|<span style='color:red;'>X</span>|<span style='color:red;'>X</span>|<span style='color:green;'>✓</span>|
+|Thay Đổi Biểu Cảm|<span style='color:red;'>X</span>|<span style='color:red;'>X</span>|<span style='color:green;'>✓</span>|
+|Tuỳ Chỉnh Phong Chi Dực|<span style='color:red;'>X</span>|<span style='color:red;'>X</span>|<span style='color:green;'>✓</span>|
+|Hào Quang Huỷ Diệt (Kill Aura)|<span style='color:red;'>X</span>|<span style='color:red;'>X</span>|<span style='color:green;'>✓</span>|
+|Quản Lý Bản Đồ|<span style='color:red;'>X</span>|<span style='color:red;'>X</span>|<span style='color:green;'>✓</span>|
+|Thu Gom Quái|<span style='color:red;'>X</span>|<span style='color:red;'>X</span>|<span style='color:green;'>✓</span>|
+|Tiện Ích Từ Xa|<span style='color:red;'>X</span>|<span style='color:red;'>X</span>|<span style='color:green;'>✓</span>|
+|Thu Gom Vật Phẩm|<span style='color:red;'>X</span>|<span style='color:red;'>X</span>|<span style='color:green;'>✓</span>|
+|Thay Đổi Skin|<span style='color:red;'>X</span>|<span style='color:red;'>X</span>|<span style='color:green;'>✓</span>|
+|Tự Động Giải Đố|<span style='color:red;'>X</span>|<span style='color:red;'>X</span>|<span style='color:green;'>✓</span>|
+|Tự Động Chạy Bí Cảnh|<span style='color:red;'>X</span>|<span style='color:red;'>X</span>|<span style='color:green;'>✓</span>|
+|Tinh Chỉnh Thông Số|<span style='color:red;'>X</span>|<span style='color:red;'>X</span>|<span style='color:green;'>✓</span>|

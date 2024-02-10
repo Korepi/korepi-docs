@@ -1,5 +1,5 @@
 ---
-title: Free Version
+title: النسخة المجانية
 icon: key
 category:
   - Guide
@@ -14,7 +14,6 @@ order: 2
 
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/GURGoE2IEg8" title="Free Version | Cotton Buds" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
 
-<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/GURGoE2IEg8" title="Free Version | Cotton Buds" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
 ### الخطوة 1:
 - اعثر على قناة `★⋅micah-bot-verify⋅★`  [رابط مباشر](https://discord.com/channels/1069057220802781265/1203687333107335198)
 
@@ -31,12 +30,12 @@ order: 2
 
 =======
 ### الخطوة 4:
-افتح الحاقن للحصول على `HWID` الخاص بك, بعد ذلك توجه إلى `★⋅micah-bot-verify⋅★` مرة أخرى وانقر على `Get verification file` ولصق `HWID`الخاص بك.
+افتح برنامج الهاك للحصول على `HWID` الخاص بك, بعد ذلك توجه إلى `★⋅micah-bot-verify⋅★` مرة أخرى وانقر على `Get verification file` ولصق `HWID`الخاص بك.
 
-بعد النقر على إرسال، ستتلقى ملفًا من الروبوت، قم بتنزيله ووضعه في مجلد Korepi الخاص بك. تأكد من الاسم `enc.json`.
+بعد النقر على إرسال، ستتلقى ملفًا من الروبوت، قم بتنزيله ووضعه في مجلد Korepi الخاص بك. تأكد من ان اسمه `enc.json`.
 
 =======
 ### الخطوة 5:
-قم بتشغيل الحاقن مرة أخرى واتبع التعليمات الموجودة في cmd.
+قم بتشغيل برنامج الهاك مرة أخرى واتبع التعليمات الموجودة في cmd.
 
 استمتع Korepi!

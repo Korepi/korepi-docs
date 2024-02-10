@@ -2,7 +2,7 @@
 title: Tự Động Chạy
 icon: person-running
 category:
-  - Các Tính Năng
+  - Tính Năng
 tag:
   - Tự Động Chạy
 author: Schvis

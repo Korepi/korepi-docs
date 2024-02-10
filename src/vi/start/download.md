@@ -12,21 +12,21 @@ author:
 order: 5
 ---
 
-# Download
+# Tải Xuống
 
-## Introduction
+## Giới Thiệu
 
-Welcome to our community! To pass the bot check and receive the `Newcomer` role, follow these steps.
+Chào mừng bạn đến với cộng đồng của chúng tôi! Để vượt qua sự kiểm tra của bot và nhận vai trò `Newcomer`, vui lòng làm các bước sau đây.
 
-### Step 1: Join our server and obtain the `Newcomer` role
+### Bước 1: Tham Gia Server Và Nhận Vai Trò `Newcomer`
 
-If you haven't joined the server yet, please read the verification post, which describes how to join the server and obtain the `Newcomer`.
+Nếu như bạn chưa tham gia server Discord, vui lòng xem bài đăng về Xác Thực trước. Bạn sẽ tìm thấy thông tin về cách tham gia server Discord và lấy vai trò `Newcomer`.
 
-### Step 2: Go to the channel `★⋅korepi-download⋅★`
+### Bước 2: Đi Tới Kênh `★⋅korepi-download⋅★`
 
-Locate the channel `★⋅korepi-download⋅★` and follow the link to download the program.
+Đi tới kênh `★⋅korepi-download⋅★` và tải Korepi theo đường link được cung cấp.
 
-### Step 3: Ready!
+### Bước 3: Sẵn Sàng Để Sử Dụng!
 
-Place the .rar in a folder and add it to [exclusions](../guide/virus.md), after that extract it and follow this [guide](../guide/getkey.md)
+Hãy đặt file .rar mà bạn đã tải về vào trong một thư mục rồi thêm thư mục đó vào [Danh Sách Loại Trừ](../guide/virus.md). Tiếp theo hãy giải nén file đó ra và làm theo [Hướng Dẫn](../guide/getkey.md)
 

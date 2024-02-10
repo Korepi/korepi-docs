@@ -1,5 +1,5 @@
 ---
-title: Differences between versions
+title: الاختلافات بين الإصدارات
 icon: server
 category:
   - Guide
@@ -9,9 +9,9 @@ author: Schvis
 order: 6
 ---
 
-## Available Features between versions.
+## الميزات المتوفرة بين الإصدارات.
 
-|Version | Free |Sponsor|PERTAMAX|
+|الاصدار | مجاني |الداعمين|PERTAMAX|
 |-----|--------|--------|------|
 |Attack Effects|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
 |Auto Run|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|

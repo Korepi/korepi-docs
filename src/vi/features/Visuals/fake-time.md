@@ -2,7 +2,7 @@
 title: Tuỳ Chỉnh Thời Gian
 icon: clock
 category:
-  - Các Tính Năng
+  - Tính Năng
 tag:
   - Tuỳ Chỉnh Thời Gian
 author: Schvis

@@ -42,7 +42,6 @@ Mở mục `Tuỳ Chỉnh Chủ Đề` để bắt đầu tạo chủ đề riê
 ### Tại sao chuỗi điểm danh của tôi bị reset?
 
 Có vẻ như bạn đã bỏ lỡ lượt điểm danh của một ngày nào đó. Lượt điểm danh được làm mới mỗi ngày. Nếu như bạn bỏ lỡ 1 ngày thì chuỗi điểm danh sẽ bị reset hoàn toàn.
-Most likely you surpassed the reset time, it resets daily, if you skip 1 day it will reset entirely
 
 ::: info Thời gian làm mới lượt điểm danh vào GMT/UTC+8 00:00 mỗi ngày. Vui lòng tự chuyển đổi sang múi giờ địa phương.
 :::

@@ -1,12 +1,12 @@
 ---
-title: Stats Modifier
+title: ステータス変更
 icon: bolt
 category:
-  - Features
+  - 機能
 tag:
-  - Stats Modifier
+  - ステータス変更
 author: Schvis
 order: 12
 ---
 
-## Soon.
+## リリース待ち

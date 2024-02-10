@@ -1,5 +1,5 @@
 ---
-title: Sponsor
+title: داعم
 icon: user-plus
 category:
   - Guide
@@ -9,6 +9,6 @@ author: Schvis
 order: 9
 ---
 
-## Sponsors
+## الداعمين
 
-- Sponsors are a legacy role that is no longer obtainable, people with this role are elegible to extra functionality in the software without having to pay again, they also receive some extra perks in the server/software.
+- Sponsors هو دور قديم لم يعد من الممكن الحصول عليه، والأشخاص الذين لديهم هذا الدور مؤهلون للحصول على وظائف إضافية في البرنامج دون الحاجة إلى الدفع مرة أخرى، كما أنهم يتلقون بعض الامتيازات الإضافية في الخادم/البرنامج.

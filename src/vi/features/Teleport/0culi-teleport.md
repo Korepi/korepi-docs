@@ -2,7 +2,7 @@
 title: Dịch Chuyển Tới Thần Đồng
 icon: person-rays
 category:
-  - Các Tính Năng
+  - Tính Năng
 tag:
   - Dịch Chuyển Tới Thần Đồng
 author: Schvis

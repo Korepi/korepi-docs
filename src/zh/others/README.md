@@ -11,5 +11,5 @@ author: Micah
 ## 目录
 
 - [机场推荐](ap.md)
-
+- [使用技巧](skill.md)
 

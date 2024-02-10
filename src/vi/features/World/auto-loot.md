@@ -2,7 +2,7 @@
 title: Tự Động Nhặt
 icon: hand
 category:
-  - Các Tính Năng
+  - Tính Năng
 tag:
   - Tự Động Nhặt
 author: Schvis, Chloe

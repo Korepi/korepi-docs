@@ -1,8 +1,8 @@
 ---
-title: Xuyên Tường
+title: Xuyên Tường (No Clip)
 icon: person-walking-dashed-line-arrow-right
 category:
-  - Các Tính Năng
+  - Tính Năng
 tag:
   - Xuyên Tường
 author: Schvis

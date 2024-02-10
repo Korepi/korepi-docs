@@ -1,12 +1,12 @@
 ---
-title: Auto Puzzle
+title: 自動謎解き
 icon: bolt
 category:
-  - Features
+  - 機能
 tag:
-  - Auto Puzzle
+  - 自動謎解き
 author: Schvis
 order: 12
 ---
 
-## Soon.
+## リリース待ち

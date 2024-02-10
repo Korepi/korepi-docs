@@ -1,8 +1,8 @@
 ---
-title: Bất Tử
+title: Bất Tử (God Mode)
 icon: user
 category:
-  - Các Tính Năng
+  - Tính Năng
 tag:
   - Bất Tử
 author: Schvis

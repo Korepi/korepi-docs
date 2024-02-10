@@ -12,21 +12,21 @@ author:
 order: 6
 ---
 
-# Download
+# تحميل
 
-## Introduction
+## مقدمة
 
-Welcome to our community! To pass the bot check and receive the `Newcomer` role, follow these steps.
+أهلا بك في مجتمعنا! لاجتياز فحص الروبوت واستلام دور `Newcomer` اتبع هذه الخطوات.
 
-### Step 1: Join our server and obtain the `Newcomer` role
+### الخطوة 1: انضم إلى خادمنا واحصل على دور `Newcomer`
 
-If you haven't joined the server yet, please read the verification post, which describes how to join the server and obtain the `Newcomer`.
+إذا لم تكن قد انضممت إلى الخادم بعد، فيرجى قراءة منشور التحقق الذي يوضح كيفية الانضمام إلى الخادم والحصول على `Newcomer`.
 
-### Step 2: Go to the channel `★⋅korepi-download⋅★`
+### الخطوة الثانية: اذهب إلى القناة `★⋅korepi-download⋅★`
 
-Locate the channel `★⋅korepi-download⋅★` and follow the link to download the program.
+اعثر على قناة `★⋅korepi-download⋅★` واتبع الرابط لتنزيل البرنامج.
 
-### Step 3: Ready!
+### الخطوة 3: جاهز!
 
-Place the .rar in a folder and add it to [exclusions](../guide/virus.md), after that extract it and follow this [guide](../guide/getkey.md)
+ضع ملف .rar في مجلد وأضفه إليه [exclusions](../guide/virus.md), بعد ذلك استخرجه واتبع هاده [الخطوات](../guide/getkey.md)
 

@@ -2,12 +2,14 @@
 title: Thu Gom Vật Phẩm
 icon: magnet
 category:
-  - Các Tính Năng
+  - Tính Năng
 tag:
   - Thu Gom Vật Phẩm
 author: Schvis
 order: 14
 ---
+::: info Chỉ có ở phiên bản PERTAMAX
+:::
 
 ## Thu Gom Vật Phẩm sẽ gom các vật phẩm xung quanh lại gần người chơi trong phạm vi và độ trễ nhất định.
 

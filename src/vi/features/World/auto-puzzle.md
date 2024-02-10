@@ -1,12 +1,13 @@
 ---
-title: Auto Puzzle
+title: Tự Động Giải Đố
 icon: bolt
 category:
-  - Features
+  - Tính Năng
 tag:
-  - Auto Puzzle
+  - Tự Động Giải Đố
 author: Schvis
 order: 12
 ---
 
-## Soon.
+
+## Sắp Ra Mắt.
