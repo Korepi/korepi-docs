@@ -6,8 +6,8 @@
     <link>https://korepi.com/vi/</link>
     <description>Trợ giúp về Korepi</description>
     <language>vi-VN</language>
-    <pubDate>Fri, 09 Feb 2024 11:56:03 GMT</pubDate>
-    <lastBuildDate>Fri, 09 Feb 2024 11:56:03 GMT</lastBuildDate>
+    <pubDate>Sat, 10 Feb 2024 16:45:12 GMT</pubDate>
+    <lastBuildDate>Sat, 10 Feb 2024 16:45:12 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Tính năng</category>
@@ -143,7 +143,7 @@
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Bất Tử</td>
+<td>Bất Tử (God Mode)</td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
@@ -155,7 +155,7 @@
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Xuyên Tường</td>
+<td>Xuyên Tường (No Clip)</td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
@@ -347,7 +347,7 @@
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Điều Chỉnh Tỷ Lệ Chí Mạng</td>
+<td>Tuỳ Chỉnh Tỷ Lệ Chí Mạng</td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
@@ -365,7 +365,7 @@
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Di Chuyển Nâng Can</td>
+<td>Di Chuyển Nâng Cao</td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
@@ -533,7 +533,7 @@
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Điều Chỉnh Thông Số Nhân Vật</td>
+<td>Tinh Chỉnh Thông Số</td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:green;">✓</span></td>
@@ -985,9 +985,9 @@ Nếu như việc khởi động lại máy không giúp ích được gì hoặ
 <ul>
 <li>Tấn công vào điểm yếu mục tiêu (chí mạng), chỉ hoạt động khi sử dụng cung.</li>
 </ul>
-<h3> Tỷ Lệ Chí Mạng (<span style="color:yellow;">Nhà Tài Trợ</span>):</h3>
+<h3> Tuỳ Chỉnh Tỷ Lệ Chí Mạng (<span style="color:yellow;">Nhà Tài Trợ</span>):</h3>
 <ul>
-<li>Điều chỉnh tỷ lệ chí mạng.</li>
+<li>Điều chỉnh tỷ lệ chí mạng của đòn đánh theo ý muốn.</li>
 </ul>
 <h3> Loại Bỏ Nguyên Tố Của Sát Thương Nhận Vào:</h3>
 <ul>
@@ -1145,10 +1145,10 @@ Nếu như việc khởi động lại máy không giúp ích được gì hoặ
 ]]></content:encoded>
     </item>
     <item>
-      <title>Bất Tử</title>
+      <title>Bất Tử (God Mode)</title>
       <link>https://korepi.com/vi/features/Player/god-mode.html</link>
       <guid>https://korepi.com/vi/features/Player/god-mode.html</guid>
-      <source url="https://korepi.com/vi/rss.xml">Bất Tử</source>
+      <source url="https://korepi.com/vi/rss.xml">Bất Tử (God Mode)</source>
       <description>Bất Tử sẽ vô hiệu hoá mọi sát thương nhận vào. Bảo Hiểm: Khi bật, Bất Tử sẽ chỉ được kích hoạt khi nhận lượng sát thương có thể khiến nhân vật bay màu.; Điều Kiện Tuỳ Chỉnh: Khi...</description>
       <category>Tính Năng</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
@@ -1189,10 +1189,10 @@ Nếu như việc khởi động lại máy không giúp ích được gì hoặ
 ]]></content:encoded>
     </item>
     <item>
-      <title>Xuyên Tường</title>
+      <title>Xuyên Tường (No Clip)</title>
       <link>https://korepi.com/vi/features/Player/no-clip.html</link>
       <guid>https://korepi.com/vi/features/Player/no-clip.html</guid>
-      <source url="https://korepi.com/vi/rss.xml">Xuyên Tường</source>
+      <source url="https://korepi.com/vi/rss.xml">Xuyên Tường (No Clip)</source>
       <description>Xuyên Tường sẽ cho phép bạn di chuyển xuyên vật thể, di chuyển nhanh hơn và bay. Không Hoạt Ảnh: Khi bật, hoạt ảnh của nhân vật sẽ bị loại bỏ khi sử dụng Xuyên Tường.; Di Chuyển...</description>
       <category>Tính Năng</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
