@@ -575,6 +575,47 @@ export default defineUserConfig({
                         },
                     },
                 },
+                "/ko/": {
+                    placeholder: "검색",
+                    translations: {
+                        button: {
+                            buttonText: "검색",
+                            buttonAriaLabel: "검색",
+                        },
+                        modal: {
+                            searchBox: {
+                                resetButtonTitle: "검색 조건 초기화",
+                                resetButtonAriaLabel: "검색 조건 초기화",
+                                cancelButtonText: "취소",
+                                cancelButtonAriaLabel: "취소",
+                            },
+                            startScreen: {
+                                recentSearchesTitle: "검색 기록",
+                                noRecentSearchesText: "검색 기록 없음",
+                                saveRecentSearchButtonTitle: "검색 기록에 저장",
+                                removeRecentSearchButtonTitle: "검색 기록에서 제거",
+                                favoriteSearchesTitle: "즐겨찾기",
+                                removeFavoriteSearchButtonTitle: "즐겨찾기에서 제거",
+                            },
+                            errorScreen: {
+                                titleText: "결과 검색에 실패했습니다.",
+                                helpText: "인터넷 연결과 요청된 리소스를 확인하세요.",
+                            },
+                            footer: {
+                                selectText: "선택",
+                                navigateText: "토글",
+                                closeText: "닫기",
+                                searchByText: "검색:",
+                            },
+                            noResultsScreen: {
+                                noResultsText: "검색어에 대한 항목을 찾을 수 없습니다.",
+                                suggestedQueryText: "다른 검색어로 시도하세요.",
+                                reportMissingResultsText: "이 검색어에 결과가 나와야 된다고 생각하시나요?",
+                                reportMissingResultsLinkText: "문의하기",
+                            },
+                        },
+                    },
+                },
             },
         }),
         redirectPlugin({

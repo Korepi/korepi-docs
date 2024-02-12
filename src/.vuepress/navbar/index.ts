@@ -10,3 +10,4 @@ export * from "./pt.js";
 export * from "./ar.js";
 export * from "./jp.js";
 export * from "./tr.js";
+export * from "./ko.js";
