@@ -1,17 +1,17 @@
 ---
-title: Cara melakukan Multi-Instance
+title: 멀티 인스턴스
 icon: clone
 category:
-  - Panduan
+  - 가이드
 tag:
-  - Buku pemula
-  - Multi-Instance
-author: Schvis, Chloe
-order: 2
+  - 시작
+author: Schvis
+order: 3
 ---
 
-## Cara Melakukan Multi-Instance (Membuka 2 Jendela Game Secara Bersamaan)
-::: info Hanya untuk Calculator ( Autentikasi local )
+## How to Multi-instance (Open 2 game window at the same time)
+
+::: info Only works with Local(V) version
 :::
 ---
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/pSAxKoneT64" title="Multi-Instance V (Updated)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
