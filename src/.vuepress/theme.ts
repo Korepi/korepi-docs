@@ -1,6 +1,6 @@
 import { hopeTheme } from "vuepress-theme-hope";
-import { enNavbar, zhNavbar, ruNavbar, idNavbar, esNavbar, mxNavbar, mmNavbar, viNavbar, ptNavbar, arNavbar, jpNavbar, trNavbar } from "./navbar/index.js";
-import { enSidebar, zhSidebar, ruSidebar, idSidebar, esSidebar, mxSidebar, mmSidebar, viSidebar, ptSidebar, arSidebar, jpSidebar, trSidebar } from "./sidebar/index.js";
+import { enNavbar, zhNavbar, ruNavbar, idNavbar, esNavbar, mxNavbar, mmNavbar, viNavbar, ptNavbar, arNavbar, jpNavbar, trNavbar, koNavbar } from "./navbar/index.js";
+import { enSidebar, zhSidebar, ruSidebar, idSidebar, esSidebar, mxSidebar, mmSidebar, viSidebar, ptSidebar, arSidebar, jpSidebar, trSidebar, koSidebar } from "./sidebar/index.js";
 
 
 export default hopeTheme({
@@ -162,6 +162,18 @@ export default hopeTheme({
                 editLink: "GitHub'da bu sayfayı düzenleyin",
             },
         },
+        "/ko/": {
+            navbar: koNavbar,
+            sidebar: koSidebar,
+            footer:
+                "원신 PC 플레이어에게 최고의 게임 경험 제공.",
+
+            displayFooter: true,
+
+            metaLocales: {
+                editLink: "Github에서 수정",
+            },
+        },
     },
 
     plugins: {
@@ -187,7 +199,7 @@ export default hopeTheme({
                     },
                     {
                         path: "/ko/",
-                        title: "당신의 능력을 기여하세요.",
+                        title: "당신의 능력으로 기여하세요.",
                         content:
                             "당신이 <b>웹 프론트엔드 개발</b>과 <b>문서 관리</b>에 대한 경험이 있고, 이 문서 프로젝트에 기여하고 싶다면, 당신이 <a href='https://github.com/Korepi/korepi-docs'>우리 문서를 작성</a>하는 것을 환영합니다.",
                         fullscreen: false,
