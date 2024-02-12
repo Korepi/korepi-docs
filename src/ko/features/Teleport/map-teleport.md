@@ -1,10 +1,10 @@
 ---
-title: Map Teleport
+title: 맵 텔레포트
 icon: person-rays
 category:
-  - Features
+  - 기능
 tag:
-  - Map Teleport
+  - 맵 텔레포트
 author: Schvis
 order: 4
 ---

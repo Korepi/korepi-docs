@@ -1,10 +1,10 @@
 ---
-title: Custom Teleport
+title: 커스텀 텔레포트
 icon: person-rays
 category:
-  - Features
+  - 기능
 tag:
-  - Custom Teleport
+  - 커스텀 텔레포트
 author: Schvis
 order: 3
 ---

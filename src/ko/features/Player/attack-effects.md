@@ -1,19 +1,19 @@
 ---
-title: Attack Effects
+title: 공격 효과
 icon: explosion
 category:
-  - Features
+  - 기능
 tag:
-  - Attack Effects
+  - 공격 효과
 author: Schvis
 order: 1
 ---
 
-## Attack Effects: Modifications for your attacks
+## 공격 효과: 공격을 수정합니다.
 
-### Multi-Hit Mode:
-- One Punch Mode: Tries to kill the target with 1 hit.
-> Note: Not recommended to use.
+### 다중 타격 모드:
+- 한방 모드: 적을 한 번에 죽입니다..
+> 메모: 사용을 추천하지 않습니다.
 - Modifies the number of attacks received by the target.
 > Note: Not recommended to go above `5`.
 ### Multi-Target:

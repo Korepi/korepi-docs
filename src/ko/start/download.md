@@ -1,11 +1,11 @@
 ---
-title: Download
+title: 다운로드
 icon: download
 category:
-  - Guide
+  - 가이드
 tag:
-  - Start
-  - Download
+  - 시작
+  - 다운로드
 author:
   name: QweRez, Schvis
 order: 7
@@ -13,18 +13,18 @@ order: 7
 
 # Download
 
-## Introduction
+## 소개
 
-Welcome to our community! To pass the bot check and receive the `Newcomer` role, follow these steps.
+환영합니다! 봇 체크를 통과하고 'Newcomer' 역할을 받으려면 아래 절차를 따라주세요.
 
-### Step 1: Join our server and obtain the `Newcomer` role
+### 1단계: 서버에 가입하여 `Newcomer` 역할 획득
 
-If you haven't joined the server yet, please read the verification post, which describes how to join the server and obtain the `Newcomer`.
+아직 서버에 가입하지 않으셨다면 'Newcomer'를 얻는 방법이 있는 인증 게시글을 읽어보세요.
 
-### Step 2: Go to the channel `★⋅korepi-download⋅★`
+### 2단계: `★⋅korepi-download⋅★` 채널로 이동
 
-Locate the channel `★⋅korepi-download⋅★` and follow the link to download the program.
+`★⋅korepi-download⋅★` 채널에 있는 링크를 통해 프로그램을 다운로드하세요.
 
-### Step 3: Ready!
+### 3단계: 준비!
 
-Place the .rar in a folder and add it to [exclusions](../guide/virus.md), after that extract it and follow this [guide](../guide/getkey.md)
+.rar을 폴더에 넣고 [제외 리스트](../guide/virus.md)에 추가한 뒤, 압축을 풀어 [가이드](../guide/getkey.md)를 참고하세요.

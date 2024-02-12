@@ -1,30 +1,30 @@
 ---
-title: Verification
+title: 인증
 icon: lock
 category:
-  - Guide
+  - 가이드
 tag:
-  - Start
+  - 시작
 author: QweRez
 order: 2
 ---
 
-## Introduction
+## 소개
 
-Welcome to our community! To pass the bot verification and obtain the "Newcomer" role, follow these steps.
+환영합니다! 봇 체크를 통과하고 'Newcomer' 역할을 받으려면 아래 절차를 따라주세요.
 
-### Step 1: Join our server if you haven't already
+### 1단계: 서버에 가입하세요
 
-If you are not on the server yet, please read the previous post, where it is described how to join the server.
+아직 서버에 가입하지 않았다면 서버 가입 방법이 포함된 이전 게시글을 읽어주세요.
 
-### Step 2: So, you are on the server
+### 2단계: 서버에 가입한 이후
 
-Now that you are on the server, choose the necessary channels and roles from the list, then go to the ★⋅rules⋅★ channel.
+이제 필요한 채널과 역할을 선택한 뒤, ★⋅rules⋅★ 채널로 이동합니다.
 
-### Step 3: ★⋅rules⋅★ channel
+### 3단계: ★⋅rules⋅★ 채널
 
-In the rules channel, familiarize yourself with the rules and undergo verification to confirm that you are not a bot. Find the "Verify" button, click on it, and the bot will send you a link that you need to follow and confirm that you are not a bot.
+규칙 채널에서 규칙을 읽고, "Verify" 버튼을 찾아 클릭한 뒤, 봇이 보낸 링크를 통해 봇이 아님을 확인합니다.
 
-### Step 4: After receiving the "Newcomer" role
+### 4단계: "Newcomer" 역할을 받은 이후
 
-After successful verification, the bot will assign you the "Newcomer" role. With this role, you will not be kicked by the bot without valid reasons. Now proceed to the next step.
+인증에 성공했다면 "Newcomer" 역할을 받아, 봇에게 추방되지 않습니다. 이제 다음 단계를 진행하세요.

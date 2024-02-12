@@ -1,31 +1,31 @@
 ---
-title: Joining the Server
+title: 서버 가입하기
 icon: server
 category:
-  - Guide
+  - 가이드
 tag:
-  - Start
+  - 시작
 author: QweRez
 order: 1
 ---
 
-## Introduction
+## 소개
 
-Welcome to our community! To join the Discord server and start using Korepi, follow these steps.
+환영합니다! Discord 서버에 가입하고 Korepi를 사용하려면 아래 절차를 따라주세요.
 
-### Step 1: Create a Discord Account
+### 1단계: Discord 계정 만들기 
 
-If you don't have a Discord account yet, start by creating a new one. Visit the [official Discord website](https://discord.com/) and follow the registration instructions.
+아직 Discord 계정이 없다면, [공식 Discord 웹사이트](https://discord.com/)에서 가입 절차에 따라 계정을 생성해야 합니다.
 
-### Step 2: Download and Install Discord
+### 2단계: Discord 다운로드 하고 설치하기
 
-After creating an account, download the [Discord client](https://discord.com/download) for your operating system. Install the client following the on-screen instructions.
+계정을 만든 이후, 운영체제에 맞는 [Discord 클라이언트](https://discord.com/download)를 다운로드 하고, 화면의 지시에 따라 설치합니다.
 
-### Step 3: Joining the Server
+### 3단계: 서버 가입하기
 
-1. Copy the [invitation link](https://discord.gg/cottonbuds) for the Discord server provided by the administrator.
-2. In the Discord client, click the "+" button in the bottom left corner.
-3. Select "Join a Server."
-4. Paste the invitation link and click "Join."
+1. [초대 링크](https://discord.gg/cottonbuds)를 복사합니다.
+2. Discord 클라이언트에서, 왼쪽 하단 모서리의 "+" 버튼을 클릭합니다.
+3. "서버 참가하기"를 클릭합니다.
+4. 초대 링크를 붙여넣고, "서버 참가하기"를 클릭합니다.
 
-If the invitation link is invalid, the server may be temporarily closed. Please wait for it to reopen. Now you can proceed to the next step.
+초대 링크가 유효하지 않다면, 서버가 다시 열릴 때까지 기다려주세요. 이제 다음 단계를 진행할 수 있습니다.

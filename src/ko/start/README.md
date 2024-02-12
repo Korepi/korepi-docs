@@ -1,8 +1,8 @@
 ---
-title: Catalog
+title: 목차
 icon: book
-category: Guide
-tag: Start
+category: 가이드
+tag: 시작
 author: QweRez
 ---
 

@@ -166,7 +166,7 @@ export default hopeTheme({
             navbar: koNavbar,
             sidebar: koSidebar,
             footer:
-                "원신의 PC 플레이어에게 최고의 게임 경험 제공.",
+                "원신 PC 플레이어에게 최고의 게임 경험 제공.",
 
             displayFooter: true,
 

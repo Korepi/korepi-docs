@@ -1,10 +1,10 @@
 ---
-title: How to Multi-Instance
+title: 멀티 인스턴스
 icon: clone
 category:
-  - Guide
+  - 가이드
 tag:
-  - Start
+  - 시작
 author: Schvis
 order: 3
 ---

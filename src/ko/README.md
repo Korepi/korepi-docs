@@ -8,7 +8,7 @@ bgImageDark: https://theme-hope-assets.vuejs.press/bg/6-dark.svg
 bgImageStyle:
  background-attachment: fixed
 heroText: Korepi
-tagline: 고퀄리티의 사용하기 쉬운 Korepi의 편리한 툴을 제공합니다
+tagline: 사용하기 쉬운 고품질 Korepi를 제공합니다.
 actions:
 - text: 다운로드
   icon: download
@@ -29,7 +29,7 @@ highlights:
   highlights:
     - title: 미지의 장소 개방
     - title: 보물 자동 탐험!
-    - title: 탐험 모드, 게임에 더 집중하기!
+    - title: 탐험 모드로 게임에 더 집중하기!
     - title: 여러가지 언어를 지원합니다!
 
 - header: 실용적이고 편리한 원신용 기술
@@ -97,8 +97,8 @@ highlights:
   features:
     - title: 자동 대화 선택지 속도 향상
       icon: comment
-      details: 자동 대화 선택지의 처리 속도 향상되었습니다
-    - title: 멥 확대
+      details: 자동 대화 선택지의 처리 속도가 향상되었습니다
+    - title: 맵 확대
       icon: search-plus
       details: 맵 확대 기능이 추가됩니다
     - title: 공격 즉시 차징 (이제 설정 가능)
@@ -110,9 +110,9 @@ highlights:
     - title: NPC 소환
       icon: user
       details: NPC 소환의 문제를 해결했습니다
-    - title: 일곱신상과 상호작용
+    - title: 일곱신상에 공양하기
       icon: hands
-      details: 일곱신상의 문제를 해결했습니다
+      details: 일곱신상 관련 문제를 해결했습니다
 
 - header: 우리의 장점
   description: 우리의 활동에 대한 자세한 내용을 소개합니다.
@@ -122,10 +122,10 @@ highlights:
   highlights:
     - title: 연중무휴 응답 서비스
       icon: wind
-      details: 항상 밤낮으로 신뢰할 수 있는 연중무휴 서비스를 제공하기 위해 여기에 있습니다
+      details: 항상 밤낮으로 신뢰할 수 있는 연중무휴 서비스를 제공합니다.
     - title: 간단함과 사용 편의성
       icon: user-friends
-      details: 저희 제품은 사용하기 쉽고 간단하도록 설계되어 유저 친화적이고 편안한 경험을 보장합니다.
+      details: 저희 제품은 사용하기 쉽고 간단하게 설계되어 유저 친화적이며 편리한 경험을 보장합니다.
     - title: 보안
       icon: shield-alt
       details: 보안을 중시하여 데이터에 안전하게 액세스하고 보호합니다.
