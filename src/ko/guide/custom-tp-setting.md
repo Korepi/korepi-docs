@@ -1,18 +1,18 @@
 ---
-title: How to use Custom TP
+title: 커스텀 TP 사용 방법
 icon: running
 category:
-  - Guide
+  - 가이드
 tag:
-  - Start
-  - Teleports
+  - 시작
+  - 텔레포트
 author: Schvis
 order: 6
 ---
 
-## How to use custom TP
+## 커스텀 TP 사용 방법
 
-### Step 1: Settings to use
+### 1단계: 사용할 설정
 
 We will use the following settings.
 

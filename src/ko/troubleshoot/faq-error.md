@@ -1,57 +1,56 @@
 ---
-title: Common program Errors
+title: 일반적인 프로그램 오류
 icon: info
 category:
-  - Troubleshoot
+  - 트러블슈팅
 tag:
-  - Start
+  - 시작
 author: Schvis
 order: 2
 ---
 
-## List of common errors
+## 일반적인 오류 목록
 
-### Why my korepi disappears?
+### 왜 Korepi가 사라지나요?
 
-Make sure you got your anti-virus disabled, create a new folder and add it to exclusions.
+바이러스 백신을 비활성화하세요, 새로운 폴더를 만들고 제외 리스트에 추가합니다.
 
 ![](/assets/images/docs/202312/virus.png)
 
-Extract korepi inside the excluded folder and run again.
+제외한 폴더에 Korepi를 압축 해제하고 다시 실행합니다.
 
 ---
-### Status: No active subscription(s) found, Invalid license key
 
-You need to [get a new key](../guide/getkey.md) from `⁠★⋅micah-bot-verify⋅★`, if you can't get a key or if the key doesn't work, you have to wait till key expiration.
+`⁠★⋅micah-bot-verify⋅★`에서 [새로운 키](../guide/getkey.md)를 획득해야 합니다. 키를 얻을 수 없거나 키가 작동하지 않으면 키가 만료될 때까지 기다려야 합니다.
 
-`Sponsors can use F:Reset Key instead`
+`스폰서는 F:Reset Key를 사용할 수 있습니다.`
 
 ### [DLL injection]  Process crashed, exit code 0xc000005
 
-Open `cmd` as administrator and write the following command:
+`cmd`를 관리자 권한으로 실행하고 아래 명령을 입력합니다:
 
 `sfc /scannow`
 
-After that, if errors were found, restart the computer and check.
-If after restarting it did not help or no errors were found, write this command:
+오류가 발견되면 컴퓨터를 재시작하고 확인합니다.
+재시작해도 효과가 없거나 오류가 발견되지 않으면 아래 명령을 입력합니다.
 
 `DISM.exe /Online /Cleanup-Image /RestoreHealth`
 
-After completing the checks, restart the computer and check.
+확인이 끝나면 컴퓨터를 재시작하고 확인합니다.
 
-If it doesn't work, reinstall Windows.
+그래도 안되면 윈도우를 재설치하세요.
 
 ---
 ### ImGUI: DirectX11 backend initialized successfully.
 
-Error occurs because of themes installed, clear the `themes` folder.
+테마가 설치된 후 오류가 발생했다면, `themes` 폴더를 비우세요.
 
 ---
 ### The system did not detect MSVCP140.dll
 
-Update [Microsoft Visual Studio C++](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170#visual-studio-2015-2017-2019-and-2022)
+[Microsoft Visual Studio C++](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170#visual-studio-2015-2017-2019-and-2022)를 업데이트하세요.
 
-Update [DirectX](https://www.microsoft.com/en-us/download/details.aspx?id=35)
+[DirectX](https://www.microsoft.com/en-us/download/details.aspx?id=35)를 업데이트하세요.
 
 ---
 ### File corrupted! This program has been manipulated and maybe it's infected.

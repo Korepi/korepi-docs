@@ -1,15 +1,15 @@
 ---
-title: FAQ
+title: 자주하는 질문
 icon: info
 category:
   - FAQ
 tag:
-  - Start
+  - 시작
 author: Schvis
 order: 1
 ---
 
-## 자주 하는 질문들
+## 자주하는 질문들
 
 ### Korepi는 무료인가요?
 
@@ -43,7 +43,7 @@ order: 1
 
 초기화 시간을 초과했을 가능성이 높습니다. 매일 초기화됩니다. 하루를 건너뛰면 완전히 초기화됩니다
 
-::: 정보 초기화 시간은 매일 GMT/UTC+8 00:00 입니다. 자신의 시간대로 변환해주세요.
+::: info 정보 초기화 시간은 매일 GMT/UTC+8 00:00 입니다. 자신의 시간대로 변환해주세요.
 :::
 ---
 
@@ -51,7 +51,7 @@ order: 1
 
 아니요, Korepi가 업데이트 될 때까지 기다려야 합니다.
 
-::: 이전 버전을 사용하면 작동하지 않아, Korepi 업데이트까지 1~2주를 기다려야 합니다.
+::: info 이전 버전을 사용하면 작동하지 않아, Korepi 업데이트까지 1~2주를 기다려야 합니다.
 :::
 ---
 
@@ -60,7 +60,7 @@ order: 1
 Korepi를 실행하기 전에, MSI Afterburner, GeForce Experience 등의 오버레이를 꺼주세요.
 
 ---
-### <span style='color:yellow;'>스폰서</span>는 얼마인가요?
+### <span style='color:gold;'>스폰서</span>는 얼마인가요?
 
 [스폰서](../start/sponsor.md)는 링크에 있는 서버의 `#sponsorship`에서 얻을 수 있습니다.
 

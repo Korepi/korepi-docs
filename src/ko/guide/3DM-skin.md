@@ -1,11 +1,11 @@
 ---
-title: Install Skins
+title: 스킨 설치
 icon: magic-wand-sparkles
 category:
-  - Guide
+  - 가이드
 tag:
-  - Start
-  - Skins
+  - 시작
+  - 스킨
 author: Schvis
 order: 5
 ---

@@ -1,10 +1,10 @@
 ---
-title: Others
+title: 기타
 icon: layer-group
 category:
-  - Features
+  - 기능
 tag:
-  - Others
+  - 기타
 author: Schvis
 order: 17
 ---

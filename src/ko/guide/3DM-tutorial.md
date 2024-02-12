@@ -1,11 +1,11 @@
 ---
-title: How to use custom skins
+title: 커스텀 스킨 사용 방법
 icon: magic-wand-sparkles
 category:
-  - Guide
+  - 가이드
 tag:
-  - Start
-  - Skins
+  - 시작
+  - 스킨
 author: Schvis
 order: 4
 ---

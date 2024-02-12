@@ -5,24 +5,24 @@ export const koNavbar = navbar([
   "/ko/guide/",
   "/ko/start/",
   {
-    text: "Guide",
+    text: "가이드",
     icon: "lightbulb",
     prefix: "/ko/",
     children: [
       {
-        text: "Getting Started",
+        text: "시작하기",
         icon: "lightbulb",
         prefix: "start/",
         children: ["join"],
       },
       {
-        text: "Guides",
+        text: "가이드",
         icon: "lightbulb",
         prefix: "guide/",
         children: ["getkey"],
       },
       {
-        text: "Available Features",
+        text: "사용 가능한 기능들",
         icon: "sitemap",
         prefix: "features/",
         children: [""],

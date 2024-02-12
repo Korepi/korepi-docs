@@ -1,10 +1,10 @@
 ---
-title: How to add to exclusion list
+title: 제외 목록에 추가
 icon: info-circle
 category:
-  - Guide
+  - 가이드
 tag:
-  - Start
+  - 시작
 author: Schvis
 order: 7
 ---

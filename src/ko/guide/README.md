@@ -1,8 +1,8 @@
 ---
-title: Guides
+title: 가이드
 icon: book
-category: Guide
-tag: Start
+category: 가이드
+tag: 시작
 author: QweRez, Schvis
 ---
 
