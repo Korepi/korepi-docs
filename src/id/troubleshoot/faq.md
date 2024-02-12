@@ -13,7 +13,7 @@ order: 1
 
 ### Apakah Korepi gratis?
 
-Iya, gratis, untuk pertama kali mendapatkannya Anda harus melakukan 7 hari [sign-in](../start/sign-in.md), Anda bisa melewatinya dengan [Sponsor](../start/sponsor.md), setelah itu Anda dapat mengambil lisensi setiap kali lisensi Anda kedaluwarsa.
+Yes, Korepi has a free version which you can use easily following this [guide](../guide/free.md).
 
 ---
 ### Apa kata sandi dari file .rar/.zip?
