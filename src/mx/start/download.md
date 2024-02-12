@@ -13,6 +13,8 @@ order: 7
 
 # Descargar
 
+<video controls preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/HFYfj2E25cFYnYC/preview"><source src="https://nextcloud.atruicardona.xyz/s/HFYfj2E25cFYnYC/download" type="video/mp4"></video>
+
 ## Introducción
 
 ¡Bienvenid@ a nuestra comunidad! Para pasar la verificación del bot y recibir el rol de `Newcomer`, sigue los siguientes pasos.

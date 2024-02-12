@@ -14,6 +14,8 @@ order: 6
 
 # تحميل
 
+<video controls preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/HFYfj2E25cFYnYC/preview"><source src="https://nextcloud.atruicardona.xyz/s/HFYfj2E25cFYnYC/download" type="video/mp4"></video>
+
 ## مقدمة
 
 أهلا بك في مجتمعنا! لاجتياز فحص الروبوت واستلام دور `Newcomer` اتبع هذه الخطوات.

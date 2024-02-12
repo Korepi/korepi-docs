@@ -13,6 +13,8 @@ order: 7
 
 # Download
 
+<video controls preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/HFYfj2E25cFYnYC/preview"><source src="https://nextcloud.atruicardona.xyz/s/HFYfj2E25cFYnYC/download" type="video/mp4"></video>
+
 ## 소개
 
 환영합니다! 봇 체크를 통과하고 'Newcomer' 역할을 받으려면 아래 절차를 따라주세요.

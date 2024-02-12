@@ -12,7 +12,7 @@ order: 2
 
 ## كيفية الحصول على ترخيص مجاني لـKorepi.
 
-<video controls preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/fg2DdCy5B2272wf/preview"><source src="https://nextcloud.atruicardona.xyz/s/fg2DdCy5B2272wf/download" type="video/mp4"></video>
+<video controls preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/6Lq9c23qJFPYdcZ/preview"><source src="https://nextcloud.atruicardona.xyz/s/6Lq9c23qJFPYdcZ/download" type="video/mp4"></video>
 
 ### الخطوة 1:
 - اعثر على قناة `★⋅micah-bot-verify⋅★`  [رابط مباشر](https://discord.com/channels/1069057220802781265/1203687333107335198)

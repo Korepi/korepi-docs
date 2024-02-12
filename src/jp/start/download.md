@@ -14,6 +14,8 @@ order: 7
 
 # ダウンロード
 
+<video controls preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/HFYfj2E25cFYnYC/preview"><source src="https://nextcloud.atruicardona.xyz/s/HFYfj2E25cFYnYC/download" type="video/mp4"></video>
+
 ## はじめに
 
 コミュニティへようこそ。botチェックを通過し、`Newcomer`ロールを受け取るには、以下の手順に従ってください。
