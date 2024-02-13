@@ -1,10 +1,10 @@
 ---
-title: Bunny Hop
+title: 버니합
 icon: carrot
 category:
-  - Features
+  - 기능
 tag:
-  - Bunny Hop
+  - 버니합
 author: Schvis
 order: 3
 ---

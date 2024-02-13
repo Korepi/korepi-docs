@@ -1,10 +1,10 @@
 ---
-title: Hide UI
+title: UI 숨기기
 icon: square
 category:
-  - Features
+  - 기능
 tag:
-  - Hide UI
+  - UI 숨기기
 author: Schvis
 order: 12
 ---

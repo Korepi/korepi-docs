@@ -1,10 +1,10 @@
 ---
-title: Fake Time
+title: 가짜 시간
 icon: clock
 category:
-  - Features
+  - 기능
 tag:
-  - Fake Time
+  - 가짜 시간
 author: Schvis
 order: 9
 ---

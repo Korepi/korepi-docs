@@ -1,10 +1,10 @@
 ---
-title: Remote Utility
+title: 유틸리티 조종
 icon: tower-broadcast
 category:
-  - Features
+  - 기능
 tag:
-  - Remote Utility
+  - 유틸리티 조종
 author: Schvis
 order: 11
 ---

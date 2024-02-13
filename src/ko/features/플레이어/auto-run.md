@@ -1,10 +1,10 @@
 ---
-title: Auto Run
+title: 자동 달리기
 icon: person-running
 category:
-  - Features
+  - 기능
 tag:
-  - Auto Run
+  - 자동 달리기
 author: Schvis
 order: 2
 ---
