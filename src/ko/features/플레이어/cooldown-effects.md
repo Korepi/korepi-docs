@@ -1,10 +1,10 @@
 ---
-title: Cooldown Effects
+title: 쿨다운 효과
 icon: clock-rotate-left
 category:
-  - Features
+  - 기능
 tag:
-  - Cooldown Effects
+  - 쿨다운 효과
 author: Schvis
 order: 4
 ---

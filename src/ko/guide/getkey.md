@@ -27,18 +27,18 @@ order: 1
 ::: info enc.json이 있다면 프로그램 실행 전에 삭제하세요.
 :::
 `Get Verification File`을 클릭하고, 프로그램을 한 번 실행해야 얻을 수 있는 `HWID (장치 ID)`를 입력해야 합니다.
-- You will get a file from the bot, download it and place it on your korepi folder. Make sure the name is `enc.json`.
+- 봇에게서 받은 파일을 다운로드받고 Korepi 폴더에 넣습니다. 이름이 `enc.json`인지 확인하세요.
 
 `View Subscription Information`를 클릭하여 구독 정보를 확인할 수 있습니다.
 
-## 키를 일시 중지하는 방법
+## 키 일시 중지 방법
 
 `Pause Card`를 클릭하고 `YES`를 입력하면 일시 중지할 수 있습니다. 언제든지 일시 중지를 해제할 수 있으며, 구독은 계속됩니다.
 
 ::: info 30일에 한 번만 일시 중지할 수 있습니다.
 :::
 
-## HWID 변경하는 방법 (장치 ID)
+## HWID 변경 방법 (장치 ID)
 
 `ID(Change HWID)`를 클릭하고, 프로그램을 실행할 때 얻은 새로운 `HWID`를 붙여넣으세요, 그리고 새로운 파일을 다운로드하여 Korepi 폴더에 넣습니다.
 

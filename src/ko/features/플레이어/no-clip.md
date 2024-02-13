@@ -1,10 +1,10 @@
 ---
-title: No Clip
+title: 노클립
 icon: person-walking-dashed-line-arrow-right
 category:
-  - Features
+  - 기능
 tag:
-  - No Clip
+  - 노클립
 author: Schvis
 order: 9
 ---

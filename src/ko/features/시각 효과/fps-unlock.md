@@ -1,10 +1,10 @@
 ---
-title: FPS Unlock
+title: FPS 제한 해제
 icon: arrow-up-right-dots
 category:
   - Features
 tag:
-  - FPS Unlock
+  - FPS 제한 해제
 author: Schvis
 order: 8
 ---

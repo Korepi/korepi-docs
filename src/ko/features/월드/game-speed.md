@@ -1,10 +1,10 @@
 ---
-title: Game Speed
+title: 게임 속도
 icon: forward-fast
 category:
-  - Features
+  - 기능
 tag:
-  - Game Speed
+  - 게임 속도
 author: Schvis
 order: 11
 ---
