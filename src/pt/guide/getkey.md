@@ -22,7 +22,7 @@ Para a versão grátis, siga isso [link](free.md).
 
 Se você comprou a chave por um revendedor, clique em `bind card str` e cole a sua chave.
 
-::: Se você era sponsor antes de 24 de fevereiro de 2024, clique em "Sponsor Compensation" e então escreva "YES" para receber os 3 meses de compensação, depois de receber seu "card", siga o próximo passo
+::: info Se você era sponsor antes de 24 de fevereiro de 2024, clique em "Sponsor Compensation" e então escreva "YES" para receber os 3 meses de compensação, depois de receber seu "card", siga o próximo passo
 :::
 
 ### Passo 3:

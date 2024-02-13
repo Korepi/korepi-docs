@@ -14,7 +14,7 @@ description: "Частые вопросы."
 
 ### Бесплатен ли Korepi?
 
-Yes, Korepi has a free version which you can use easily following this [guide](../guide/free.md).
+Да, у Korepi есть бесплатная версия, которой Вы можете легко воспользоваться следуя этому [гайду](../guide/free.md).
 
 ---
 ### Какой пароль у архива?

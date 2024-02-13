@@ -12,7 +12,7 @@ order: 2
 
 ## Como receber a licença grátis do Korepi.
 
-<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/4Q4N8D35a-I" title="Como Obter a Chave do Korepi e Como Utilizar o Korepi" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
+<video controls preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/XYpHWo2NDLg33WW/preview"><source src="https://nextcloud.atruicardona.xyz/s/XYpHWo2NDLg33WW/download" type="video/mp4"></video>
 
 ### Passo 1:
 - Encontre o canal `★⋅micah-bot-verify⋅★` [link direto](https://discord.com/channels/1069057220802781265/1203687333107335198)
