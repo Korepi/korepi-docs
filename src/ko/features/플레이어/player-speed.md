@@ -1,10 +1,10 @@
 ---
-title: Player Speed
+title: 플레이어 속도
 icon: forward-fast
 category:
-  - Features
+  - 기능
 tag:
-  - Player Speed
+  - 플레이어 속도
 author: Schvis
 order: 10
 ---

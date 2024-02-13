@@ -1,10 +1,10 @@
 ---
-title: Quest Teleport
+title: 퀘스트 텔레포트
 icon: person-rays
 category:
-  - Features
+  - 기능
 tag:
-  - Quest Teleport
+  - 퀘스트 텔레포트
 author: Schvis
 order: 5
 ---

@@ -1,10 +1,10 @@
 ---
-title: Fall Control
+title: 낙하 컨트롤
 icon: person-falling
 category:
-  - Features
+  - 기능
 tag:
-  - Fall Control
+  - 낙하 컨트롤
 author: Schvis
 order: 6
 ---

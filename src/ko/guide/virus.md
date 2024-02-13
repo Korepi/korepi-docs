@@ -9,33 +9,33 @@ author: Schvis
 order: 7
 ---
 
-::: info Other antivirus will have similar steps, adapt depending on the antivirus you are using.
+::: info 다른 바이러스 백신도 비슷한 단계를 따릅니다.
 :::
 ---
-## How to add Korepi to antivirus exclusion list (Windows Defender)
+## 제외 목록에 Korepi를 추가하는 방법 (Windows Defender)
 
-### Step 1: Open the antivirus
+### 1단계: 바이러스 백신을 실행합니다.
 
-Open the windows search bar and search for `Windows Security` and open it.
+Windows 검색창을 열고 `Windows 보안`을 검색하여 실행합니다.
 
-![](/assets/images/docs/202312/security.png)
+![](../images/security.png)
 
-We click on `Virus & threat protection`.
+`바이러스 및 위협 방지`를 클릭합니다.
 
-![](/assets/images/docs/202312/virus1.png)
+![](../images/virus1.png)
 
-Then we scroll till we find `Virus & threat protection settings` and click on `Manage settings`.
+`바이러스 및 위협 방지 설정`을 찾고 `설정 관리`를 클릭합니다.
 
-![](/assets/images/docs/202312/virus3.png)
+![](../images/virus2.png)
 
-### Step 2: Adding to the exclusion list
+### 2단계: 제외 목록에 추가하기
 
-After following the last step, we will scroll until we find `Exclusions` and then we click on `Add or remove exclusions`.
+아래로 스크롤하여 `제외`를 찾고 `제외 추가 또는 제거`를 클릭합니다.
 
-![](/assets/images/docs/202312/virus4.png)
+![](../images/virus3.png)
 
-Click yes to the popup, after that we click on `Add an Exclusion` and select folder, then we select our Korepi folder.
+`제외 사항 추가`에서 폴더를 클릭하고, Korepi 폴더를 선택합니다.
 
-## Video
+## 동영상
 
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/BonLkFNnO9w" title="How to Exclude a File or Folder from Windows Defender Scan In Windows 10 [Tutorial]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>

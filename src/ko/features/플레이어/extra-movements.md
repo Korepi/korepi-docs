@@ -1,10 +1,10 @@
 ---
-title: Extra Movements
+title: 이동 효과
 icon: bolt
 category:
-  - Features
+  - 기능
 tag:
-  - Extra Movements
+  - 이동 효과
 author: Schvis
 order: 5
 ---

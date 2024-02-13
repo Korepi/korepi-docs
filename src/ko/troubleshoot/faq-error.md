@@ -13,9 +13,9 @@ order: 2
 
 ### 왜 Korepi가 사라지나요?
 
-바이러스 백신을 비활성화하세요, 새로운 폴더를 만들고 제외 리스트에 추가합니다.
+바이러스 백신을 비활성화하세요, 새로운 폴더를 만들고 제외 목록에 추가합니다.
 
-![](/assets/images/docs/202312/virus.png)
+![](../images/virus.png)
 
 제외한 폴더에 Korepi를 압축 해제하고 다시 실행합니다.
 
@@ -57,36 +57,36 @@ order: 2
 
 ![](/assets/images/docs/202312/virus2.png)
 
-In this case, you can try using `Malware Bytes` or `Dr.Web` to do a full scan, if any virus is found, remove them, restart and try again. If it doesn't work, reinstall Windows is the easiest way to solve this issue.
+이 경우 `Malware Zero`나 `V3` 등의 바이러스 백신에서 전체 스캔을 하고, 바이러스가 발견되면 제거한 다음 재부팅하여 다시 시도해야 합니다. 문제가 해결되지 않으면 Windows를 재설치하는 것이 가장 쉬운 방법입니다.
 
 ---
 ### Timeout was reached
 
 ![](/assets/images/docs/202312/error1.png)
 
-Reboot your router.
+라우터를 재부팅합니다.
 
-An antivirus may be blocking the connection, make sure that is not in the Task Manager.
+바이러스 백신이 연결을 차단하고 있을 수 있습니다. 작업 관리자에 없는지 확인하세요.
 
-Use a VPN and try again.
+VPN을 사용하여 재시도 해보세요.
 
-Turn off all applications that affect the firewall. If nothing works, then you might have some problems with the network.
+방화벽에 영향을 미치는 모든 프로그램을 꺼도 작동하지 않으면 네트워크에 문제가 있을 수 있습니다.
 
 ---
 ### DLL Injection failed
 
-Uninstall colorpicker folder and download colorpicker again.
+colorpicker 폴더를 삭제하고 다시 다운로드합니다.
 
 ---
-### Windows cannot access the specified device, path, or file
+### “지정한 장치, 경로 또는 파일에 액세스할 수 없습니다.”
 
-![](/assets/images/docs/202312/error2.png)
+![](../images/error2.png)
 
-At first go to [HERE](https://support.microsoft.com/en-us/topic/-windows-cannot-access-the-specified-device-path-or-file-error-when-you-try-to-install-update-or-start-a-program-or-file-46361133-47ed-6967-c13e-e75d3cc29657) and follow the steps on that post.
+[여기](https://support.microsoft.com/ko-KR/topic/프로그램이나-파일을-설치-업데이트-또는-시작하려고-하면-지정한-장치-경로-또는-파일에-액세스할-수-없습니다-오류가-발생함-46361133-47ed-6967-c13e-e75d3cc29657)에 있는 게시글의 단계를 따르세요.
 
-Also after going to the solutions on the post, download an antivirus like `Dr.Web` or `Malware bytes` and run a full system check!
+`V3` 또는 `Malware Zero` 등의 바이러스 백신을 이용해 시스템 검사를 해보세요!
 
-If it doesn't help open cmd as administrator and write `sfc /scannow`
+도움이 되지 않으면 cmd를 관리자 권한으로 실행하고 `sfc /scannow`를 입력하세요.
 
 After that, if errors were found, restart the computer and check.
 

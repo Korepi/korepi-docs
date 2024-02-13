@@ -1,10 +1,10 @@
 ---
-title: God Mode
+title: 갓모드
 icon: user
 category:
-  - Features
+  - 기능
 tag:
-  - God Mode
+  - 갓모드
 author: Schvis
 order: 7
 ---

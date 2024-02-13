@@ -1,10 +1,10 @@
 ---
-title: Flycloak Modifier
+title: 바람의 날개 수정
 icon: arrows-rotate
 category:
-  - Features
+  - 기능
 tag:
-  - Flycloak Modifier
+  - 바람의 날개 수정
 author: Schvis
 order: 10
 ---

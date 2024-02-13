@@ -10,18 +10,16 @@ author: Schvis
 order: 4
 ---
 
-::: info If GIMI shows `echo off` on the cmd, you can just press `Numpad 0` to remove it, you can also edit `d3dx.ini` and search for `hunting=` and set to `0`. 
+::: info GIMI가 cmd에 `echo off`를 표시하면, `숫자패드 0`로 삭제할 수 있으며, `d3dx.ini`에서 `hunting=`을 검색한 뒤 `0`으로 설정할 수도 있습니다. 
 :::
 ---
 
-## How to use custom Skins in Korepi
+## Korepi에서 커스텀 스킨을 사용하는 방법
 
 ![](/assets/images/docs/202312/example.png)
-In order to use custom skins in we will need to download: 
-
-`3DMigoto(GIMI)`.
+커스텀 스킨을 사용하려면 `3DMigoto(GIMI)`를 설치해야 합니다.
 ## <span style='color:blue;'>Method 1</span>
-### Step 1: Download `GIMI`
+### 1단계: `GIMI` 다운로드
 
 Download `GIMI` in their oficial [Github](https://github.com/SilentNightSound/GI-Model-Importer/releases/tag/v7.0) and download the file named: `3dmigoto-GIMI-for-playing-mods.zip`.
 

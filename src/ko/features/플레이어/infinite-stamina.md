@@ -1,10 +1,10 @@
 ---
-title: Infinite Stamina
+title: 무한 스태미나
 icon: dumbbell
 category:
-  - Features
+  - 기능
 tag:
-  - Infinite Stamina
+  - 무한 스태미나
 author: Schvis
 order: 8
 ---

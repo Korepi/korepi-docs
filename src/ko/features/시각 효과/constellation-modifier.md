@@ -1,14 +1,14 @@
 ---
-title: Constellation Modifier
+title: 운명의 자리 수정
 icon: retweet
 category:
   - Features
 tag:
-  - Constellation Modifier
+  - 운명의 자리 수정
 author: Schvis
 order: 3
 ---
-::: info PERTAMAX Only
+::: info PERTAMAX만 사용 가능합니다.
 :::
 ---
 ## Constellation Modifier, will change your active character constellations if selected, visually and some of them will actually work.
