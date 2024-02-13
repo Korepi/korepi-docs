@@ -6,8 +6,8 @@
     <link>https://korepi.com/tr/</link>
     <description>Korepi Yardım Bölümü</description>
     <language>tr</language>
-    <pubDate>Mon, 12 Feb 2024 12:45:31 GMT</pubDate>
-    <lastBuildDate>Mon, 12 Feb 2024 12:45:31 GMT</lastBuildDate>
+    <pubDate>Tue, 13 Feb 2024 04:35:39 GMT</pubDate>
+    <lastBuildDate>Tue, 13 Feb 2024 04:35:39 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Features</category>
@@ -69,7 +69,7 @@
       <category>Kılavuzlar</category>
       <pubDate>Wed, 07 Feb 2024 00:26:57 GMT</pubDate>
       <content:encoded><![CDATA[<h2> Korepi için ücretsiz lisans nasıl alınır?</h2>
-<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/GURGoE2IEg8" title="Free Version | Cotton Buds" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+<p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/6Lq9c23qJFPYdcZ/preview"><source src="https://nextcloud.atruicardona.xyz/s/6Lq9c23qJFPYdcZ/download" type="video/mp4"></video></p>
 <h3> Adım 1:</h3>
 <ul>
 <li>
@@ -572,13 +572,12 @@
       <link>https://korepi.com/tr/troubleshoot/faq.html</link>
       <guid>https://korepi.com/tr/troubleshoot/faq.html</guid>
       <source url="https://korepi.com/tr/rss.xml">Çok Sorulanlar</source>
-      <description>En Sorulanlar Listesi Korepi Ücretsiz mi? Evet, ücretsizdir, ilk kez almak için 7 günlük bir deneme yapmanız gerekir Kayıt-olma (../start/sign-in.md), bunu şu şekilde atlayabili...</description>
+      <description>En Sorulanlar Listesi Korepi Ücretsiz mi? Yes, Korepi has a free version which you can use easily following this guide (../guide/free.md). .rar/.zip şifresi nedir? ... Bu 1234, ...</description>
       <category>SSS</category>
       <pubDate>Tue, 19 Dec 2023 17:09:24 GMT</pubDate>
       <content:encoded><![CDATA[<h2> En Sorulanlar Listesi</h2>
 <h3> Korepi Ücretsiz mi?</h3>
-<p>Evet, ücretsizdir, ilk kez almak için 7 günlük bir deneme yapmanız gerekir <a href="/tr/start/sign-in.html" target="blank">Kayıt-olma</a>, bunu şu şekilde atlayabilirsiniz <a href="/tr/start/sponsor.html" target="blank">Sponsorluk</a>, bundan sonra anahtarınızın süresi her dolduğunda lisansı alabilirsiniz.</p>
-<hr>
+<h2> Yes, Korepi has a free version which you can use easily following this <a href="/tr/guide/free.html" target="blank">guide</a>.</h2>
 <h3> .rar/.zip şifresi nedir?</h3>
 <p>...</p>
 <p>Bu <code>1234</code>, lütfen bir dahaki sefere indirme yazısını okuyun.</p>
@@ -815,6 +814,7 @@
       <category>Kılavuzlar</category>
       <pubDate>Tue, 19 Dec 2023 12:28:02 GMT</pubDate>
       <content:encoded><![CDATA[<h1> Download</h1>
+<p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/HFYfj2E25cFYnYC/preview"><source src="https://nextcloud.atruicardona.xyz/s/HFYfj2E25cFYnYC/download" type="video/mp4"></video></p>
 <h2> Introduction</h2>
 <p>Welcome to our community! To pass the bot check and receive the <code>Newcomer</code> role, follow these steps.</p>
 <h3> Step 1: Join our server and obtain the <code>Newcomer</code> role</h3>

@@ -6,8 +6,8 @@
     <link>https://korepi.com/id/</link>
     <description>Pertolongan Korepi</description>
     <language>id-ID</language>
-    <pubDate>Mon, 12 Feb 2024 12:45:31 GMT</pubDate>
-    <lastBuildDate>Mon, 12 Feb 2024 12:45:31 GMT</lastBuildDate>
+    <pubDate>Tue, 13 Feb 2024 04:35:39 GMT</pubDate>
+    <lastBuildDate>Tue, 13 Feb 2024 04:35:39 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Features</category>
@@ -139,7 +139,7 @@
       <category>Panduan</category>
       <pubDate>Wed, 07 Feb 2024 00:26:57 GMT</pubDate>
       <content:encoded><![CDATA[<h2> Cara mendapatkan lisensi gratis untuk Korepi.</h2>
-<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/GURGoE2IEg8" title="Free Version | Cotton Buds" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+<p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/6Lq9c23qJFPYdcZ/preview"><source src="https://nextcloud.atruicardona.xyz/s/6Lq9c23qJFPYdcZ/download" type="video/mp4"></video></p>
 <h3> Langkah 1:</h3>
 <ul>
 <li>
@@ -644,12 +644,12 @@
       <link>https://korepi.com/id/troubleshoot/faq.html</link>
       <guid>https://korepi.com/id/troubleshoot/faq.html</guid>
       <source url="https://korepi.com/id/rss.xml">FAQ</source>
-      <description>Daftar FAQ Apakah Korepi gratis? Iya, gratis, untuk pertama kali mendapatkannya Anda harus melakukan 7 hari sign-in (../start/sign-in.md), Anda bisa melewatinya dengan Sponsor (...</description>
+      <description>Daftar FAQ Apakah Korepi gratis? Yes, Korepi has a free version which you can use easily following this guide (../guide/free.md). Apa kata sandi dari file .rar/.zip? ... Kata sa...</description>
       <category>FAQ</category>
       <pubDate>Tue, 19 Dec 2023 17:09:24 GMT</pubDate>
       <content:encoded><![CDATA[<h2> Daftar FAQ</h2>
 <h3> Apakah Korepi gratis?</h3>
-<p>Iya, gratis, untuk pertama kali mendapatkannya Anda harus melakukan 7 hari <a href="/id/start/sign-in.html" target="blank">sign-in</a>, Anda bisa melewatinya dengan <a href="/id/start/sponsor.html" target="blank">Sponsor</a>, setelah itu Anda dapat mengambil lisensi setiap kali lisensi Anda kedaluwarsa.</p>
+<p>Yes, Korepi has a free version which you can use easily following this <a href="/id/guide/free.html" target="blank">guide</a>.</p>
 <hr>
 <h3> Apa kata sandi dari file .rar/.zip?</h3>
 <p>...</p>
@@ -2116,6 +2116,7 @@ Jika tidak berhasil, buka cmd sebagai administrator dan ketik <code>sfc /scannow
       <category>Panduan</category>
       <pubDate>Thu, 30 Nov 2023 10:24:26 GMT</pubDate>
       <content:encoded><![CDATA[<h1> Unduh</h1>
+<p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/HFYfj2E25cFYnYC/preview"><source src="https://nextcloud.atruicardona.xyz/s/HFYfj2E25cFYnYC/download" type="video/mp4"></video></p>
 <h2> Pendahuluan</h2>
 <p>Selamat datang di komunitas kami! Untuk lulus pemeriksaan bot dan menerima role <code>Newcomer</code>, ikuti langkah-langkah berikut.</p>
 <h3> Langkah 1: Bergabunglah dengan server kami dan dapatkan <code>Newcomer</code> role</h3>

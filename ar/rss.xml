@@ -6,8 +6,8 @@
     <link>https://korepi.com/ar/</link>
     <description>للمساعدة Korepi</description>
     <language>ar</language>
-    <pubDate>Mon, 12 Feb 2024 12:45:31 GMT</pubDate>
-    <lastBuildDate>Mon, 12 Feb 2024 12:45:31 GMT</lastBuildDate>
+    <pubDate>Tue, 13 Feb 2024 04:35:39 GMT</pubDate>
+    <lastBuildDate>Tue, 13 Feb 2024 04:35:39 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Features</category>
@@ -512,7 +512,7 @@
       <category>Guide</category>
       <pubDate>Wed, 07 Feb 2024 00:26:57 GMT</pubDate>
       <content:encoded><![CDATA[<h2> كيفية الحصول على ترخيص مجاني لـKorepi.</h2>
-<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/GURGoE2IEg8" title="Free Version | Cotton Buds" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+<p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/6Lq9c23qJFPYdcZ/preview"><source src="https://nextcloud.atruicardona.xyz/s/6Lq9c23qJFPYdcZ/download" type="video/mp4"></video></p>
 <h3> الخطوة 1:</h3>
 <ul>
 <li>
@@ -774,6 +774,7 @@
       <category>Guide</category>
       <pubDate>Fri, 22 Dec 2023 11:31:21 GMT</pubDate>
       <content:encoded><![CDATA[<h1> تحميل</h1>
+<p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/HFYfj2E25cFYnYC/preview"><source src="https://nextcloud.atruicardona.xyz/s/HFYfj2E25cFYnYC/download" type="video/mp4"></video></p>
 <h2> مقدمة</h2>
 <p>أهلا بك في مجتمعنا! لاجتياز فحص الروبوت واستلام دور <code>Newcomer</code> اتبع هذه الخطوات.</p>
 <h3> الخطوة 1: انضم إلى خادمنا واحصل على دور <code>Newcomer</code></h3>
@@ -974,12 +975,12 @@
       <link>https://korepi.com/ar/troubleshoot/faq.html</link>
       <guid>https://korepi.com/ar/troubleshoot/faq.html</guid>
       <source url="https://korepi.com/ar/rss.xml">الأسئلة الشائعة</source>
-      <description>قائمة الأسئلة الشائعة هل Korepi مجاني؟ نعم إنه مجاني، للحصول عليه لأول مرة عليك القيام بـ 7 أيام تسجيل الدخول (../start/sign-in.md), يمكنك تخطي هذا ب دعم (../start/sponsor.md), ...</description>
+      <description>قائمة الأسئلة الشائعة هل Korepi مجاني؟ Yes, Korepi has a free version which you can use easily following this guide (../guide/free.md). ما هي كلمة المرور .rar/.zip؟ ... إنه 1234...</description>
       <category>FAQ</category>
       <pubDate>Fri, 22 Dec 2023 11:31:21 GMT</pubDate>
       <content:encoded><![CDATA[<h2> قائمة الأسئلة الشائعة</h2>
 <h3> هل Korepi  مجاني؟</h3>
-<p>نعم إنه مجاني، للحصول عليه لأول مرة عليك القيام بـ 7 أيام <a href="/ar/start/sign-in.html" target="blank">تسجيل الدخول</a>, يمكنك تخطي هذا ب <a href="/ar/start/sponsor.html" target="blank">دعم</a>, وبعد ذلك يمكنك الحصول على الترخيص في كل مرة تنتهي فيها صلاحية مفتاحك.</p>
+<p>Yes, Korepi has a free version which you can use easily following this <a href="/ar/guide/free.html" target="blank">guide</a>.</p>
 <hr>
 <h3> ما هي كلمة المرور .rar/.zip؟</h3>
 <p>...</p>

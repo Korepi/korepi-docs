@@ -6,8 +6,8 @@
     <link>https://korepi.com/zh/</link>
     <description>Korepi 中文文档介绍</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 12 Feb 2024 12:45:31 GMT</pubDate>
-    <lastBuildDate>Mon, 12 Feb 2024 12:45:31 GMT</lastBuildDate>
+    <pubDate>Tue, 13 Feb 2024 04:35:39 GMT</pubDate>
+    <lastBuildDate>Tue, 13 Feb 2024 04:35:39 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>其他</category>
@@ -1025,12 +1025,12 @@ VPN并非专为翻墙而生，而机场是专门的翻墙节点服务商。</p>
       <link>https://korepi.com/zh/troubleshoot/faq.html</link>
       <guid>https://korepi.com/zh/troubleshoot/faq.html</guid>
       <source url="https://korepi.com/zh/rss.xml">问题解答</source>
-      <description>问题列表 1.Korepi是免费的吗？ 它有免费的版本，但是功能比较少。 2.为什么我的配置不保存? 请记住，您必须提取另一个文件夹中的“.rar/.zip”文件。 如果在该步骤之后仍然没有保存配置，请与服务器中的任何帮助者联系以获取更多帮助。 你的配置文件一般是cfg.json，只要你不更改它，你以前的配置就不会改变。 路径文件是cfg.ini，这是...</description>
+      <description>问题列表 1.Korepi是免费的吗？ Yes, Korepi has a free version which you can use easily following this guide (../guide/free.md). 2.为什么我的配置不保存? 请记住，您必须提取另一个文件夹中的“.rar/.zip”文件。 如果在该步骤之后仍然没有保存...</description>
       <category>问题解答</category>
       <pubDate>Tue, 19 Dec 2023 17:09:24 GMT</pubDate>
       <content:encoded><![CDATA[<h2> 问题列表</h2>
 <h2> 1.Korepi是免费的吗？</h2>
-<h2> 它有免费的版本，但是功能比较少。</h2>
+<h2> Yes, Korepi has a free version which you can use easily following this <a href="/zh/guide/free.html" target="blank">guide</a>.</h2>
 <h2> 2.为什么我的配置不保存?</h2>
 <p>请记住，您必须提取另一个文件夹中的“.rar/.zip”文件。</p>
 <p>如果在该步骤之后仍然没有保存配置，请与服务器中的任何帮助者联系以获取更多帮助。</p>
@@ -2716,6 +2716,7 @@ C1: ?  C2: ?  C3: ?  C4: ?  C5: ?  C6: ?</li>
       <category>指南</category>
       <pubDate>Thu, 30 Nov 2023 10:24:26 GMT</pubDate>
       <content:encoded><![CDATA[<h1> 下载</h1>
+<p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/HFYfj2E25cFYnYC/preview"><source src="https://nextcloud.atruicardona.xyz/s/HFYfj2E25cFYnYC/download" type="video/mp4"></video></p>
 <h2> 介绍</h2>
 <p>欢迎来到我们的社区！要通过机器人检查并获得<code>Newcomer</code>角色，请按照以下步骤进行。</p>
 <h2> 1.加入我们的服务器并获得<code>Newcomer</code>角色</h2>

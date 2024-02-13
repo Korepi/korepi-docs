@@ -6,8 +6,8 @@
     <link>https://korepi.com/pt/</link>
     <description>Ajuda em Korepi</description>
     <language>pt-BR</language>
-    <pubDate>Mon, 12 Feb 2024 12:45:31 GMT</pubDate>
-    <lastBuildDate>Mon, 12 Feb 2024 12:45:31 GMT</lastBuildDate>
+    <pubDate>Tue, 13 Feb 2024 04:35:39 GMT</pubDate>
+    <lastBuildDate>Tue, 13 Feb 2024 04:35:39 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Features</category>
@@ -574,13 +574,12 @@
       <link>https://korepi.com/pt/troubleshoot/faq.html</link>
       <guid>https://korepi.com/pt/troubleshoot/faq.html</guid>
       <source url="https://korepi.com/pt/rss.xml">FAQ</source>
-      <description>List of FAQ Is Korepi free? Yes, it is free, in order to get it for the first time you have to do a 7 days sign-in (../start/sign-in.md), you can skip this by Sponsoring (../sta...</description>
+      <description>List of FAQ Is Korepi free? Yes, Korepi has a free version which you can use easily following this guide (../guide/free.md). What is the .rar/.zip password? ... Its 1234, please...</description>
       <category>FAQ</category>
       <pubDate>Tue, 19 Dec 2023 17:09:24 GMT</pubDate>
       <content:encoded><![CDATA[<h2> List of FAQ</h2>
 <h3> Is Korepi free?</h3>
-<p>Yes, it is free, in order to get it for the first time you have to do a 7 days <a href="/pt/start/sign-in.html" target="blank">sign-in</a>, you can skip this by <a href="/pt/start/sponsor.html" target="blank">Sponsoring</a>, after that you can get the license every time your key expires.</p>
-<hr>
+<h2> Yes, Korepi has a free version which you can use easily following this <a href="/pt/guide/free.html" target="blank">guide</a>.</h2>
 <h3> What is the .rar/.zip password?</h3>
 <p>...</p>
 <p>Its <code>1234</code>, please read the download post next time.</p>
@@ -1923,6 +1922,7 @@ Para usar skins personalizadas no Korepi, você precisará baixar o aplicativo</
       <category>Guia</category>
       <pubDate>Wed, 13 Dec 2023 16:37:40 GMT</pubDate>
       <content:encoded><![CDATA[<h1> Download</h1>
+<p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/HFYfj2E25cFYnYC/preview"><source src="https://nextcloud.atruicardona.xyz/s/HFYfj2E25cFYnYC/download" type="video/mp4"></video></p>
 <h2> Introduction</h2>
 <p>Welcome to our community! To pass the bot check and receive the <code>Newcomer</code> role, follow these steps.</p>
 <h3> Step 1: Join our server and obtain the <code>Newcomer</code> role</h3>

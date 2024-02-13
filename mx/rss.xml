@@ -6,8 +6,8 @@
     <link>https://korepi.com/mx/</link>
     <description>Ayuda en Korepi</description>
     <language>es-MX</language>
-    <pubDate>Mon, 12 Feb 2024 12:45:31 GMT</pubDate>
-    <lastBuildDate>Mon, 12 Feb 2024 12:45:31 GMT</lastBuildDate>
+    <pubDate>Tue, 13 Feb 2024 04:35:39 GMT</pubDate>
+    <lastBuildDate>Tue, 13 Feb 2024 04:35:39 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Funciones</category>
@@ -68,7 +68,7 @@
       <category>Guía</category>
       <pubDate>Wed, 07 Feb 2024 00:26:57 GMT</pubDate>
       <content:encoded><![CDATA[<h2> Como obtener la licencia gratis de Korepi.</h2>
-<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/GURGoE2IEg8" title="Free Version | Cotton Buds" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+<p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/6Lq9c23qJFPYdcZ/preview"><source src="https://nextcloud.atruicardona.xyz/s/6Lq9c23qJFPYdcZ/download" type="video/mp4"></video></p>
 <h3> Paso 1:</h3>
 <ul>
 <li>
@@ -770,6 +770,7 @@ Para poder usar skins personalizadas en Korepi tendremos que descargar la aplica
       <category>Guía</category>
       <pubDate>Wed, 20 Dec 2023 19:58:51 GMT</pubDate>
       <content:encoded><![CDATA[<h1> Descargar</h1>
+<p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/HFYfj2E25cFYnYC/preview"><source src="https://nextcloud.atruicardona.xyz/s/HFYfj2E25cFYnYC/download" type="video/mp4"></video></p>
 <h2> Introducción</h2>
 <p>¡Bienvenid@ a nuestra comunidad! Para pasar la verificación del bot y recibir el rol de <code>Newcomer</code>, sigue los siguientes pasos.</p>
 <h3> Paso 1: Únete a nuestro servidor y obtén el rol de <code>Newcomer</code></h3>
@@ -966,12 +967,12 @@ Para poder usar skins personalizadas en Korepi tendremos que descargar la aplica
       <link>https://korepi.com/mx/troubleshoot/faq.html</link>
       <guid>https://korepi.com/mx/troubleshoot/faq.html</guid>
       <source url="https://korepi.com/mx/rss.xml">Preguntas Frecuentes</source>
-      <description>Lista de Preguntas Frecuentes Es Korepi gratis?? Si solo tienes que hacer sign-in (../start/sign-in.md) por 7 días y lo podrás usar, puedes saltarte esto con Sponsor (../start/s...</description>
+      <description>Lista de Preguntas Frecuentes Es Korepi gratis?? Si, Korepi tiene una version gratuita, puedes ver como conseguirla Aquí (../guide/free.md). Cual es la contraseña del .rar/.zip?...</description>
       <category>FAQ</category>
       <pubDate>Wed, 20 Dec 2023 19:58:51 GMT</pubDate>
       <content:encoded><![CDATA[<h2> Lista de Preguntas Frecuentes</h2>
 <h3> Es Korepi gratis??</h3>
-<p>Si solo tienes que hacer <a href="/mx/start/sign-in.html" target="blank">sign-in</a> por 7 días y lo podrás usar, puedes saltarte esto con <a href="/mx/start/sponsor.html" target="blank">Sponsor</a>, después podrás conseguir una licencia cada vez que se expire.</p>
+<p>Si, Korepi tiene una version gratuita, puedes ver como conseguirla <a href="/mx/guide/free.html" target="blank">Aquí</a>.</p>
 <hr>
 <h3> Cual es la contraseña del .rar/.zip?</h3>
 <p>...</p>

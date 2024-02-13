@@ -6,8 +6,8 @@
     <link>https://korepi.com/ru/</link>
     <description>Помощь по Korepi</description>
     <language>ru-RU</language>
-    <pubDate>Mon, 12 Feb 2024 12:45:31 GMT</pubDate>
-    <lastBuildDate>Mon, 12 Feb 2024 12:45:31 GMT</lastBuildDate>
+    <pubDate>Tue, 13 Feb 2024 04:35:39 GMT</pubDate>
+    <lastBuildDate>Tue, 13 Feb 2024 04:35:39 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Features</category>
@@ -70,7 +70,7 @@
       <category>Руководство</category>
       <pubDate>Wed, 07 Feb 2024 00:26:57 GMT</pubDate>
       <content:encoded><![CDATA[<h2> Как получить бесплатную лицензию для Korepi.</h2>
-<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/GURGoE2IEg8" title="Free Version | Cotton Buds" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+<p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/6Lq9c23qJFPYdcZ/preview"><source src="https://nextcloud.atruicardona.xyz/s/6Lq9c23qJFPYdcZ/download" type="video/mp4"></video></p>
 <h3> Шаг 1:</h3>
 <ul>
 <li>
@@ -579,7 +579,7 @@
       <pubDate>Mon, 18 Dec 2023 17:38:21 GMT</pubDate>
       <content:encoded><![CDATA[<h2> Список Часто Задаваемых Вопросов</h2>
 <h3> Бесплатен ли Korepi?</h3>
-<p>Да, Korepi бесплатен. Однако, чтобы получить его в первый раз, вам потребуется 7 дней для <a href="/ru/start/sign-in.html" target="blank">входа в систему</a>. Вы можете пропустить этот этап с помощью <a href="/ru/start/sponsor.html" target="blank">Спонсорства</a>. После этого вы сможете получать лицензионный ключ при окончании срока действия предыдущего.</p>
+<p>Yes, Korepi has a free version which you can use easily following this <a href="/ru/guide/free.html" target="blank">guide</a>.</p>
 <hr>
 <h3> Какой пароль у архива?</h3>
 <p>Пароль очень прост, вы можете найти его в канале где скачали версию</p>
@@ -2041,6 +2041,7 @@ pass korepi</p>
       <category>Руководство</category>
       <pubDate>Wed, 29 Nov 2023 18:44:10 GMT</pubDate>
       <content:encoded><![CDATA[<h1> Download</h1>
+<p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/HFYfj2E25cFYnYC/preview"><source src="https://nextcloud.atruicardona.xyz/s/HFYfj2E25cFYnYC/download" type="video/mp4"></video></p>
 <h2> Introduction</h2>
 <p>Welcome to our community! To pass the bot check and receive the <code>Newcomer</code> role, follow these steps.</p>
 <h3> Step 1: Join our server and obtain the <code>Newcomer</code> role</h3>
