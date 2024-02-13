@@ -14,6 +14,8 @@ order: 5
 
 # Tải Xuống
 
+<video controls preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/HFYfj2E25cFYnYC/preview"><source src="https://nextcloud.atruicardona.xyz/s/HFYfj2E25cFYnYC/download" type="video/mp4"></video>
+
 ## Giới Thiệu
 
 Chào mừng bạn đến với cộng đồng của chúng tôi! Để vượt qua sự kiểm tra của bot và nhận vai trò `Newcomer`, vui lòng làm các bước sau đây.

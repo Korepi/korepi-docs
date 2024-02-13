@@ -13,7 +13,7 @@ order: 1
 
 ### هل Korepi  مجاني؟
 
-نعم إنه مجاني، للحصول عليه لأول مرة عليك القيام بـ 7 أيام [تسجيل الدخول](../start/sign-in.md), يمكنك تخطي هذا ب [دعم](../start/sponsor.md), وبعد ذلك يمكنك الحصول على الترخيص في كل مرة تنتهي فيها صلاحية مفتاحك.
+Yes, Korepi has a free version which you can use easily following this [guide](../guide/free.md).
 
 ---
 ### ما هي كلمة المرور .rar/.zip؟

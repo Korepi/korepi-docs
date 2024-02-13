@@ -15,6 +15,8 @@ order: 6
 
 # 下载
 
+<video controls preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/HFYfj2E25cFYnYC/preview"><source src="https://nextcloud.atruicardona.xyz/s/HFYfj2E25cFYnYC/download" type="video/mp4"></video>
+
 ## 介绍
 
 欢迎来到我们的社区！要通过机器人检查并获得`Newcomer`角色，请按照以下步骤进行。

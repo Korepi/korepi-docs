@@ -13,8 +13,7 @@ order: 1
 
 ### Korepi Ücretsiz mi?
 
-Evet, ücretsizdir, ilk kez almak için 7 günlük bir deneme yapmanız gerekir [Kayıt-olma](../start/sign-in.md), bunu şu şekilde atlayabilirsiniz [Sponsorluk](../start/sponsor.md), bundan sonra anahtarınızın süresi her dolduğunda lisansı alabilirsiniz.
-
+Yes, Korepi has a free version which you can use easily following this [guide](../guide/free.md).
 ---
 ### .rar/.zip şifresi nedir?
 

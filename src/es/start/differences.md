@@ -1,17 +1,17 @@
 ---
-title: Differences between versions
+title: Diferencias Entre Versiones
 icon: server
 category:
-  - Guide
+  - Guías
 tag:
-  - Start
+  - Inicio
 author: Schvis
 order: 6
 ---
 
-## Available Features between versions.
+## Funciones disponibles para cada Versión.
 
-|Version | Free |Sponsor|PERTAMAX|
+| Versión | Gratis |Sponsor|PERTAMAX|
 |-----|--------|--------|------|
 |Efectos de Ataque|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
 |Auto Correr|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
