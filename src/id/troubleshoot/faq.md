@@ -13,7 +13,7 @@ order: 1
 
 ### Apakah Korepi gratis?
 
-Yes, Korepi has a free version which you can use easily following this [guide](../guide/free.md).
+Ya, Korepi punya versi gratis yang bisa kalian gunakan dengan mengikuti [tautan ini](../guide/free.md).
 
 ---
 ### Apa kata sandi dari file .rar/.zip?
