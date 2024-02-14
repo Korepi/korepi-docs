@@ -11,6 +11,8 @@ order: 1
 ---
 ## Doğrulama Eğitimi
 
+<video controls preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/dEnSM8gwYdDwbnD/preview"><source src="https://nextcloud.atruicardona.xyz/s/dEnSM8gwYdDwbnD/download" type="video/mp4"></video>
+
 ### Adım 1:
 - `★⋅micah-bot-verify⋅★` kanalını bulun [doğrudan bağlantı](https://discord.com/channels/1069057220802781265/1203687333107335198)
 

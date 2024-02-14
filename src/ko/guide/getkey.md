@@ -11,6 +11,8 @@ order: 1
 ---
 ## 인증 튜토리얼
 
+<video controls preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/dEnSM8gwYdDwbnD/preview"><source src="https://nextcloud.atruicardona.xyz/s/dEnSM8gwYdDwbnD/download" type="video/mp4"></video>
+
 ### 1단계:
 - [링크](https://discord.com/channels/1069057220802781265/1203687333107335198)`에서 ★⋅micah-bot-verify⋅★` 채널을 찾습니다. 
 

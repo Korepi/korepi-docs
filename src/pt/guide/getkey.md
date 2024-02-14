@@ -12,6 +12,8 @@ order: 1
 
 ## Tutorial de verificação
 
+<video controls preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/Y3ECm4LcH3i9n2d/preview"><source src="https://nextcloud.atruicardona.xyz/s/Y3ECm4LcH3i9n2d/download" type="video/mp4"></video>
+
 ### Passo 1:
 - Encontre o canal `★⋅micah-bot-verify⋅★` [link direto](https://discord.com/channels/1069057220802781265/1203687333107335198)
 
