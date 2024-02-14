@@ -16,13 +16,6 @@ order: 1
 Yes, Korepi has a free version which you can use easily following this [guide](../guide/free.md).
 
 ---
-### What is the .rar/.zip password?
-
-...
-
-Its `1234`, please read the download post next time.
-
----
 ### Why my config doesn't save?
 
 Keep in mind you have to extract the `.rar/.zip` file you got in another folder.
@@ -39,14 +32,6 @@ You can find themes for your Korepi on `community share` or you can make your ow
 Check `Theme Customization` to start making your own theme.
 
 ---
-### Why did my /start streak reset?
-
-Most likely you surpassed the reset time, it resets daily, if you skip 1 day it will reset entirely
-
-::: info Reset time is at GMT/UTC+8 00:00 everyday. Please convert to your timezone.
-:::
----
-
 ### Can i use Korepi when a new update comes?
 
 No, you need to wait till a new Korepi version gets released.
