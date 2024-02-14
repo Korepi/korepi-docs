@@ -12,6 +12,8 @@ order: 1
 
 ## Hướng Dẫn Xác Thực Key
 
+<video controls preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/dEnSM8gwYdDwbnD/preview"><source src="https://nextcloud.atruicardona.xyz/s/dEnSM8gwYdDwbnD/download" type="video/mp4"></video>
+
 ### Bước 1:
 - Đi tới kênh `★⋅micah-bot-verify⋅★` ở server Discord: [Link trực tiếp](https://discord.com/channels/1069057220802781265/1203687333107335198)
 

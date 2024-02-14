@@ -151,3 +151,16 @@ PCのウイルス対策ソフトをすべてオフにします。
 ![](/assets/images/docs/202312/error.png)
 
 Unpause your license and try again.
+
+### Cannot verify current timestamp.
+
+![](/assets/images/docs/202402/timestamp.png)
+
+Case 1:
+- You might get this error while using a VPN, please disable it and try again.
+
+Case 2:
+- Check that your PC time is set to automatic sync.
+
+::: info If you are from Iran you might need to use a VPN instead.
+:::

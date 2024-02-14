@@ -18,8 +18,6 @@ Si, Korepi tiene una version gratuita, puedes ver como conseguirla [Aquí](../gu
 ---
 ### Cual es la contraseña del .rar/.zip?
 
-...
-
 Es `1234`, lee el post la proxima vez.
 
 ---

@@ -12,6 +12,8 @@ order: 1
 
 ## شرح التحقق
 
+<video controls preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/dEnSM8gwYdDwbnD/preview"><source src="https://nextcloud.atruicardona.xyz/s/dEnSM8gwYdDwbnD/download" type="video/mp4"></video>
+
 ### الخطوة 1:
 - أعثر على قناة `★⋅micah-bot-verify⋅★` [رابط مباشر](https://discord.com/channels/1069057220802781265/1203687333107335198)
 

@@ -12,6 +12,8 @@ order: 1
 
 ## Tutorial Verifikasi
 
+<video controls preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/dEnSM8gwYdDwbnD/preview"><source src="https://nextcloud.atruicardona.xyz/s/dEnSM8gwYdDwbnD/download" type="video/mp4"></video>
+
 ### Langkah 1:
 - Temukan channel `★⋅micah-bot-verify⋅★` atau dengan klik [di sini](https://discord.com/channels/1069057220802781265/1203687333107335198)
 
