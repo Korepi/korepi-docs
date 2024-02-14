@@ -17,3 +17,7 @@ Oculta el Ping.
 Oculta la Barra de Vida.
 ### Ocultar Barra de Vida del Equipo: (<span style='color:yellow;'>Sponsor</span>)
 Oculta la Barra de Vida del Equipo.
+
+# Video:
+
+<video controls preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/tRDjSriLiqs6QWq/preview"><source src="https://nextcloud.atruicardona.xyz/s/tRDjSriLiqs6QWq/download" type="video/mp4"></video>
