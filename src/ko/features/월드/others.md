@@ -1,14 +1,21 @@
 ---
-title: Map Manager
-icon: satellite-dish
+title: Others
+icon: magnet
 category:
   - Features
 tag:
-  - Map Manager
+  - Others
 author: Schvis
-order: 13
+order: 16
 ---
 
-### Map Manager allows the player to unlock Statues of the Seven or Waypoints automatically without moving from the place, great to create reroll accounts.
+## Other Features:
+### Open Team Imediately
+### Skip Enhance Animation
+### Dumb Enemies
+### Freeze Enemies
+### Permanent Elemental Sight
+
+# Video:
 
 <video controls preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/5qrXm8Bzsj7pJsM/preview"><source src="https://nextcloud.atruicardona.xyz/s/5qrXm8Bzsj7pJsM/download" type="video/mp4"></video>
