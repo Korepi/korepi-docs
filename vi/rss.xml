@@ -6,16 +6,34 @@
     <link>https://korepi.com/vi/</link>
     <description>Trợ giúp về Korepi</description>
     <language>vi-VN</language>
-    <pubDate>Tue, 13 Feb 2024 04:35:39 GMT</pubDate>
-    <lastBuildDate>Tue, 13 Feb 2024 04:35:39 GMT</lastBuildDate>
+    <pubDate>Thu, 15 Feb 2024 18:36:18 GMT</pubDate>
+    <lastBuildDate>Thu, 15 Feb 2024 18:36:18 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-    <category>Tính năng</category>
     <category>Tính Năng</category>
+    <category>Tính năng</category>
     <category>Hướng Dẫn</category>
     <category>Các Câu Hỏi Thường Gặp</category>
     <category>Khắc Phục Lỗi</category>
     <category>Hướng dẫn</category>
+    <item>
+      <title>Các Tính Năng Khác</title>
+      <link>https://korepi.com/vi/features/World/others.html</link>
+      <guid>https://korepi.com/vi/features/World/others.html</guid>
+      <source url="https://korepi.com/vi/rss.xml">Các Tính Năng Khác</source>
+      <description>Các Tính Năng Khác: Sửa Đội Hình Nhanh Bỏ Hoạt Ảnh Nâng Cấp Địch Không Tấn Công Kẻ Địch Đứng Yên Luôn Bật Góc Nhìn Nguyên Tố</description>
+      <category>Tính Năng</category>
+      <pubDate>Wed, 14 Feb 2024 21:50:28 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Các Tính Năng Khác:</h2>
+<h3> Sửa Đội Hình Nhanh</h3>
+<h3> Bỏ Hoạt Ảnh Nâng Cấp</h3>
+<h3> Địch Không Tấn Công</h3>
+<h3> Kẻ Địch Đứng Yên</h3>
+<h3> Luôn Bật Góc Nhìn Nguyên Tố</h3>
+<h1> Video Minh Hoạ:</h1>
+<p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/5qrXm8Bzsj7pJsM/preview"><source src="https://nextcloud.atruicardona.xyz/s/5qrXm8Bzsj7pJsM/download" type="video/mp4"></video></p>
+]]></content:encoded>
+    </item>
     <item>
       <title>Quản Lý Bản Đồ</title>
       <link>https://korepi.com/vi/features/World/map-manager.html</link>
@@ -25,7 +43,7 @@
       <category>Tính năng</category>
       <pubDate>Wed, 07 Feb 2024 20:25:33 GMT</pubDate>
       <content:encoded><![CDATA[<h3> Quản Lý Bản Đồ cho phép người chơi mở khoá các Thất Thiên Thần Tượng hoặc điểm dịch chuyển một cách tự động mà không phải di chuyển. Đây là một tính năng rất hữu ích khi tạo tài khoản reroll.</h3>
-<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/jOY5Gm2z8To" title="Map Manager - Korepi" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+<p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/5qrXm8Bzsj7pJsM/preview"><source src="https://nextcloud.atruicardona.xyz/s/5qrXm8Bzsj7pJsM/download" type="video/mp4"></video></p>
 ]]></content:encoded>
     </item>
     <item>
@@ -745,6 +763,7 @@
       <category>Hướng Dẫn</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
       <content:encoded><![CDATA[<h2> Hướng Dẫn Xác Thực Key</h2>
+<p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/dEnSM8gwYdDwbnD/preview"><source src="https://nextcloud.atruicardona.xyz/s/dEnSM8gwYdDwbnD/download" type="video/mp4"></video></p>
 <h3> Bước 1:</h3>
 <ul>
 <li>
@@ -801,7 +820,7 @@ Click vào <code>ID(Change HWID)</code> rồi sau đó nhập <code>HWID</code> 
 <p class="hint-container-title">Chỉ hoạt động với phiên bản Local(V)</p>
 </div>
 <hr>
-<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/pSAxKoneT64" title="Multi-Instance V (Updated)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+<p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/a3K6SK5bHyxfmZw/preview"><source src="https://nextcloud.atruicardona.xyz/s/a3K6SK5bHyxfmZw/download" type="video/mp4"></video></p>
 ]]></content:encoded>
     </item>
     <item>
@@ -827,6 +846,8 @@ Click vào <code>ID(Change HWID)</code> rồi sau đó nhập <code>HWID</code> 
 <p>Lúc này bạn sẽ không còn gặp lỗi trên nữa.</p>
 <h2> Trường Hợp Bạn Không Thể Mở Korepi</h2>
 <p>Mở thư mục chứa Korepi và tìm mở file <code>cfg.json</code>, sau đó nhấn tổ hợp phím <code>CTRL + F</code>, gõ <code>bypass</code> và tìm, đặt giá trị thành <code>false</code> rồi lưu lại file và mở Korepi.</p>
+<h3> Cách 3</h3>
+<p>Mở launcher game và chọn <code>Sửa Nhanh</code>. Sau đó hãy mở game mà không sử dụng Korepi. Sau khi bạn có thể vào được game thành công, hãy thử mở lại game bằng Korepi.</p>
 <h2> Đã Thử Mọi Cách Nhưng Vẫn Không Được?</h2>
 <p>Bạn nên cài lại game thôi.</p>
 ]]></content:encoded>
@@ -928,6 +949,19 @@ Nếu như việc khởi động lại máy không giúp ích được gì hoặ
 <h3> Current data does not exist or server error.</h3>
 <p><img src="/assets/images/docs/202312/error.png" alt="" loading="lazy"></p>
 <p>Hãy ngưng tạm dừng key (unpause) rồi thử lại.</p>
+<h3> Cannot verify current timestamp.</h3>
+<p><img src="/assets/images/docs/202402/timestamp.png" alt="" loading="lazy"></p>
+<p>Trường hợp 1:</p>
+<ul>
+<li>Bạn có thể gặp phải lỗi này khi đang sử dụng VPN. Hãy thử tắt VPN rồi bật Korepi lên lại.</li>
+</ul>
+<p>Trường hợp 2:</p>
+<ul>
+<li>Kiểm tra cài đặt thời gian trên máy của bạn và đảm bảo rằng đồng bộ tự động đã được bật.</li>
+</ul>
+<div class="hint-container info">
+<p class="hint-container-title">Đối với người dùng tại Iran, bạn cần bật VPN để có thể sử dụng Korepi.</p>
+</div>
 ]]></content:encoded>
       <enclosure url="https://korepi.com/assets/images/docs/202312/virus.png" type="image/png"/>
     </item>
@@ -995,7 +1029,7 @@ Nếu như việc khởi động lại máy không giúp ích được gì hoặ
 <li>Loại bỏ nguyên tố của sát thương nhận vào và chuyển nó thành sát thương vật lý.</li>
 </ul>
 <h2> Video Minh Hoạ:</h2>
-<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/1BdKwxBjWyg?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Attack Effects" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+<p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/4rRZ3mQoxsnfMQy/preview"><source src="https://nextcloud.atruicardona.xyz/s/4rRZ3mQoxsnfMQy/download" type="video/mp4"></video></p>
 ]]></content:encoded>
     </item>
     <item>
@@ -1008,7 +1042,7 @@ Nếu như việc khởi động lại máy không giúp ích được gì hoặ
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
       <content:encoded><![CDATA[<h2> Tự Động Chạy sẽ tự động di chuyển nhân vật theo hướng mà người chơi đang quay mặt.</h2>
 <h2> Video Minh Hoạ:</h2>
-<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/BLDhPBMs7Es?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Run" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+<p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/QGyZW8KnWNtrsxi/preview"><source src="https://nextcloud.atruicardona.xyz/s/QGyZW8KnWNtrsxi/download" type="video/mp4"></video></p>
 ]]></content:encoded>
     </item>
     <item>
@@ -1025,7 +1059,7 @@ Nếu như việc khởi động lại máy không giúp ích được gì hoặ
 <hr>
 <h2> Nhảy Vọt sẽ khiến nhân vật nhảy cao hơn khi được kích hoạt.</h2>
 <h2> Video Minh Hoạ:</h2>
-<div class="iframe-container"><iframe width="640" height="369" src="https://www.youtube.com/embed/Gh2GX23E6dw?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Bunnyhop (Sponsor)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+<p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/5NYq9Rcf7852oJD/preview"><source src="https://nextcloud.atruicardona.xyz/s/5NYq9Rcf7852oJD/download" type="video/mp4"></video></p>
 ]]></content:encoded>
     </item>
     <item>
@@ -1065,7 +1099,7 @@ Nếu như việc khởi động lại máy không giúp ích được gì hoặ
 <li>Loại bỏ thời gian hồi chiêu khi sử dụng kỹ năng của thuyền.</li>
 </ul>
 <h2> Video Minh Hoạ:</h2>
-<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/qv5ykSL3Ojw?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Cooldown Effects" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+<p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/6Gf3Wnc5F5bAfay/preview"><source src="https://nextcloud.atruicardona.xyz/s/6Gf3Wnc5F5bAfay/download" type="video/mp4"></video></p>
 ]]></content:encoded>
     </item>
     <item>
@@ -1129,7 +1163,7 @@ Nếu như việc khởi động lại máy không giúp ích được gì hoặ
 <li>Cho phép người chơi di chuyển một khoảng cách cụ thể tức thì sau khi nhấn phím tắt.</li>
 </ul>
 <h2> Video Minh Hoạ:</h2>
-<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/wMd9icqhFQg?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Extra Movement (Sponsor)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+<p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/RsLzFEcNLJKqtLC/preview"><source src="https://nextcloud.atruicardona.xyz/s/RsLzFEcNLJKqtLC/download" type="video/mp4"></video></p>
 ]]></content:encoded>
     </item>
     <item>
@@ -1142,7 +1176,7 @@ Nếu như việc khởi động lại máy không giúp ích được gì hoặ
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
       <content:encoded><![CDATA[<h2> Kiểm Soát Tốc Độ Rơi cho phép bạn tuỷ chỉnh tốc độ khi nhân vật rơi xuống.</h2>
 <h2> Video Minh Hoạ:</h2>
-<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/BHiabtwSSNc?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Fall Control" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+<p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/ztqDzL5ZQb2Y4cN/preview"><source src="https://nextcloud.atruicardona.xyz/s/ztqDzL5ZQb2Y4cN/download" type="video/mp4"></video></p>
 ]]></content:encoded>
     </item>
     <item>
@@ -1166,7 +1200,7 @@ Nếu như việc khởi động lại máy không giúp ích được gì hoặ
 <p>Lưu ý: Khuyến khích sử dụng Điều Kiện Tuỳ Chỉnh trong la hoàn.</p>
 </blockquote>
 <h2> Video Minh Hoạ:</h2>
-<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/42utUUYNHRE?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - God Mode" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+<p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/Hg5y3FxN7gmR6HE/preview"><source src="https://nextcloud.atruicardona.xyz/s/Hg5y3FxN7gmR6HE/download" type="video/mp4"></video></p>
 ]]></content:encoded>
     </item>
     <item>
@@ -1186,7 +1220,7 @@ Nếu như việc khởi động lại máy không giúp ích được gì hoặ
 <p>Lưu ý: Khuyến khích sử dụng Thay Thế Dữ Liệu Di Chuyển.</p>
 </blockquote>
 <h2> Video Minh Hoạ:</h2>
-<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/NZhfaMOLuY0?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Infinite Stamina" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+<p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/x4dWmX8J3Y9GAZo/preview"><source src="https://nextcloud.atruicardona.xyz/s/x4dWmX8J3Y9GAZo/download" type="video/mp4"></video></p>
 ]]></content:encoded>
     </item>
     <item>
@@ -1222,7 +1256,7 @@ Nếu như việc khởi động lại máy không giúp ích được gì hoặ
 <p>Lưu ý: Không khuyến khích sử dụng thiết đặt lớn hơn <code>20</code>.</p>
 </blockquote>
 <h2> Video Minh Hoạ:</h2>
-<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/nPdq-yzBt3k?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - NoClip" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+<p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/rPa8iA5zkAQyZni/preview"><source src="https://nextcloud.atruicardona.xyz/s/rPa8iA5zkAQyZni/download" type="video/mp4"></video></p>
 ]]></content:encoded>
     </item>
     <item>
@@ -1239,7 +1273,7 @@ Nếu như việc khởi động lại máy không giúp ích được gì hoặ
 Lưu ý 2: <a href="/vi/features/Player/extra-movements.html" target="blank">Di Chuyển Nâng Cao</a> được khuyến khích sử dụng hơn vì chức năng này động bộ tốt hơn với server (an toàn hơn)(chỉ dành cho nhà tài trợ)</p>
 </blockquote>
 <h2> Video Minh Hoạ:</h2>
-<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/HCxmOUMFRs8?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Player Speed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+<p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/oKdGWF7zRi8qmLx/preview"><source src="https://nextcloud.atruicardona.xyz/s/oKdGWF7zRi8qmLx/download" type="video/mp4"></video></p>
 ]]></content:encoded>
     </item>
     <item>
@@ -1328,7 +1362,7 @@ Lưu ý 2: Bạn có thể tìm ID vật phẩm <a href="https://github.com/jie6
 <li>Cho phép thay đổi nguyên tố của nhà lữ hành ở bất kỳ nơi nào.</li>
 </ul>
 <h2> Video Minh Hoạ:</h2>
-<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/XGztUEy82sE?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Remote Utilities (Sponsor)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+<p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/TrwzrHqCr2sMyS4/preview"><source src="https://nextcloud.atruicardona.xyz/s/TrwzrHqCr2sMyS4/download" type="video/mp4"></video></p>
 ]]></content:encoded>
     </item>
     <item>
@@ -1344,7 +1378,7 @@ Lưu ý 2: Bạn có thể tìm ID vật phẩm <a href="https://github.com/jie6
 <p>Lưu ý: Chờ khoảng <code>&gt;15s</code> giữa các lần dịch chuyển sẽ an toàn hơn.</p>
 </blockquote>
 <h2> Video Minh Hoạ:</h2>
-<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/j2Yu31J7Yh4?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Oculi/ChestTeleport" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+<p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/i4b27NoW8i4mNxn/preview"><source src="https://nextcloud.atruicardona.xyz/s/i4b27NoW8i4mNxn/download" type="video/mp4"></video></p>
 ]]></content:encoded>
     </item>
     <item>
@@ -1360,7 +1394,7 @@ Lưu ý 2: Bạn có thể tìm ID vật phẩm <a href="https://github.com/jie6
 <p>Lưu ý: Chờ khoảng <code>&gt;15s</code> giữa các lần dịch chuyển sẽ an toàn hơn.</p>
 </blockquote>
 <h2> Video Minh Hoạ:</h2>
-<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/j2Yu31J7Yh4?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Oculi/ChestTeleport" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+<p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/i4b27NoW8i4mNxn/preview"><source src="https://nextcloud.atruicardona.xyz/s/i4b27NoW8i4mNxn/download" type="video/mp4"></video></p>
 ]]></content:encoded>
     </item>
     <item>
@@ -1409,7 +1443,7 @@ Lưu ý 2: Bạn có thể tìm ID vật phẩm <a href="https://github.com/jie6
 <li>Loại bỏ màn hình tải trong phạm vi được chọn khi thực hiện dịch chuyển.</li>
 </ul>
 <h2> Video Minh Hoạ:</h2>
-<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/Xm3mTEbIE9g?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Map TP/Fast TP" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+<p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/x8LsMBL3iX2fbRe/preview"><source src="https://nextcloud.atruicardona.xyz/s/x8LsMBL3iX2fbRe/download" type="video/mp4"></video></p>
 ]]></content:encoded>
     </item>
     <item>
@@ -1425,7 +1459,7 @@ Lưu ý 2: Bạn có thể tìm ID vật phẩm <a href="https://github.com/jie6
 <li>Để sử dụng tính năng này, bạn phải nhấn phím tắt điều hướng tới nhiệm vụ trước sau đó nhấn phím tắt dịch chuyển tới nhiệm vụ.</li>
 </ul>
 <h2> Video Minh Hoạ:</h2>
-<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/HNdQu39G2Tc?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - QuestTP" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+<p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/bHDsLK6ktT7sqn7/preview"><source src="https://nextcloud.atruicardona.xyz/s/bHDsLK6ktT7sqn7/download" type="video/mp4"></video></p>
 ]]></content:encoded>
     </item>
     <item>
@@ -1474,7 +1508,7 @@ Lưu ý 2: Bạn có thể tìm ID vật phẩm <a href="https://github.com/jie6
 </div>
 <hr>
 <h2> Video Minh Hoạ:</h2>
-<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/S9-g5weE9l8?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Constellation Modifier (Sponsor)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+<p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/kzizWdRXjmnDL8G/preview"><source src="https://nextcloud.atruicardona.xyz/s/kzizWdRXjmnDL8G/download" type="video/mp4"></video></p>
 ]]></content:encoded>
     </item>
     <item>
@@ -1724,7 +1758,8 @@ Lưu ý 2: Bạn có thể tìm ID vật phẩm <a href="https://github.com/jie6
 <h3> Không Hiện Dấu Chân</h3>
 <h3> Bỏ Qua Hoạt Ảnh Kỹ Năng Nộ</h3>
 <h2> Video Minh Hoạ:</h2>
-<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/AjkJ8S8NHsI?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Visuals/Other" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>]]></content:encoded>
+<p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/eMP6xMRxWbfSqti/preview"><source src="https://nextcloud.atruicardona.xyz/s/eMP6xMRxWbfSqti/download" type="video/mp4"></video></p>
+]]></content:encoded>
     </item>
     <item>
       <title>Thay Đổi Skin</title>
@@ -1769,7 +1804,7 @@ Lưu ý 2: Bạn có thể tìm ID vật phẩm <a href="https://github.com/jie6
 <hr>
 <h3> Tự Động Kích Hoạt Điểm Dịch Chuyển sẽ tự động kích hoạt các điểm dịch chuyển trong bán kính lên tới 50m.</h3>
 <h2> Video Minh Hoạ:</h2>
-<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/qstBErr9mJ0?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - AutoActivateTP (Sponsor)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+<p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/ydzPcwiLDfEGMJY/preview"><source src="https://nextcloud.atruicardona.xyz/s/ydzPcwiLDfEGMJY/download" type="video/mp4"></video></p>
 ]]></content:encoded>
     </item>
     <item>
@@ -1782,7 +1817,7 @@ Lưu ý 2: Bạn có thể tìm ID vật phẩm <a href="https://github.com/jie6
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
       <content:encoded><![CDATA[<h3> Tự Động Khiêu Chiến cho phép bạn hoàn thành khiêu chiến giới hạn trong phạm vi và độ trễ nhất định. Bạn có thể điều chỉnh các thông số này tuỳ thích.</h3>
 <h2> Video Minh Hoạ:</h2>
-<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/7JNegfQiK2U?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Challenge" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+<p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/wp5N6BwGNbezqEg/preview"><source src="https://nextcloud.atruicardona.xyz/s/wp5N6BwGNbezqEg/download" type="video/mp4"></video></p>
 <blockquote>
 <p>Lưu ý: Không khuyến khích bạn sử dụng với độ trễ thấp và tầm ảnh hưởng quá cao.</p>
 </blockquote>
@@ -1800,8 +1835,8 @@ Lưu ý 2: Bạn có thể tìm ID vật phẩm <a href="https://github.com/jie6
 <p class="hint-container-title">Chỉ có ở phiên bản PERTAMAX</p>
 </div>
 <h3> Tự Động Nấu Nướng cho phép bạn nấu loại thực phẩm được chọn với chất lượng và số lượng tuỳ chỉnh. Bạn có thể sử dụng chức năng này cùng với chức năng tự động mở khoá thông thạo nấu nướng để có thể nấu tự động.</h3>
-<h2> Example Video:</h2>
-<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/T_X13AXiAiY?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Cook" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+<h2> Video Minh Hoạ:</h2>
+<p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/s7cSiMAtmdLZAqx/preview"><source src="https://nextcloud.atruicardona.xyz/s/s7cSiMAtmdLZAqx/download" type="video/mp4"></video></p>
 ]]></content:encoded>
     </item>
     <item>
@@ -1817,7 +1852,7 @@ Lưu ý 2: Bạn có thể tìm ID vật phẩm <a href="https://github.com/jie6
 </div>
 <h3> Tự Động Phá Huỷ Vật Thể cho phép bạn tự động phá huỷ các vật thể được chọn trong phạm vi tuỳ chỉnh, bao gồm quặng, thực vật, mỏm đá, rương, các vật thể đặc biệt, khiên, etc.</h3>
 <h2> Video Minh Hoạ:</h2>
-<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/3ML6s3SR8nE?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Destroy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+<p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/34xYZt5G5Aid4zk/preview"><source src="https://nextcloud.atruicardona.xyz/s/34xYZt5G5Aid4zk/download" type="video/mp4"></video></p>
 <blockquote>
 <p>Note: Recommended value is below <code>20m</code>, not recommended to use at max range (<code>40m</code>)</p>
 </blockquote>
@@ -1836,7 +1871,7 @@ Lưu ý 2: Bạn có thể tìm ID vật phẩm <a href="https://github.com/jie6
 </div>
 <h3> Tự Động Câu Cá cho phép bạn bỏ qua hoạt ảnh câu cá, giúp giảm thời gian câu.</h3>
 <h2> Video Minh Hoạ:</h2>
-<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/K_l4Tg-81iQ?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Fish" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+<p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/A5RxPpHs7mqYgtb/preview"><source src="https://nextcloud.atruicardona.xyz/s/A5RxPpHs7mqYgtb/download" type="video/mp4"></video></p>
 <blockquote>
 <p>Note: Auto Recast is not working at the time creating this post.</p>
 </blockquote>
@@ -1852,7 +1887,7 @@ Lưu ý 2: Bạn có thể tìm ID vật phẩm <a href="https://github.com/jie6
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
       <content:encoded><![CDATA[<h2> Tự Động Nhặt cho phép bạn tự động nhặt trong phạm vi và độ trễ nhất định. Bạn có thể tuỳ chỉnh những thứ có thể tự động nhặt, bao gồm rương,vật phẩm rớt từ quái và nhiều thứ khác.</h2>
 <h2> Video Minh Hoạ:</h2>
-<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/wUyI2XO_Z4E?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Loot" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+<p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/ekNmga3Ffe9TxDN/preview"><source src="https://nextcloud.atruicardona.xyz/s/ekNmga3Ffe9TxDN/download" type="video/mp4"></video></p>
 <blockquote>
 <p>Note: Recommended below <code>10m</code> for normal use and <code>20m</code> if using custom tp.
 Note 2: Higher the distance higher delay should be used.</p>
@@ -1869,7 +1904,7 @@ Note 2: Higher the distance higher delay should be used.</p>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
       <content:encoded><![CDATA[<h2> Tự Động Dẫn Đường Tiên Linh loại bỏ việc bạn phải đi theo tiên linh liên tục. Tiên linh sẽ đi thẳng tới điểm đích khi người chơi đứng gần đó.</h2>
 <h2> Video Minh Hoạ:</h2>
-<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/uETIJ4KS39M?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Seelie" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+<p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/f3Z4wMqM4d8dERo/preview"><source src="https://nextcloud.atruicardona.xyz/s/f3Z4wMqM4d8dERo/download" type="video/mp4"></video></p>
 ]]></content:encoded>
     </item>
     <item>
@@ -1917,7 +1952,7 @@ Note 2: Higher the distance higher delay should be used.</p>
 <p>Lưu ý: Có thể bị màn hình đen khi sử dụng tính năng này.</p>
 </blockquote>
 <h2> Video Minh Hoạ:</h2>
-<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/IS0BvLLO1xc?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - AutoTalk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+<p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/7ceaQqesRBQcqxr/preview"><source src="https://nextcloud.atruicardona.xyz/s/7ceaQqesRBQcqxr/download" type="video/mp4"></video></p>
 ]]></content:encoded>
     </item>
     <item>
@@ -1934,7 +1969,7 @@ Note 2: Higher the distance higher delay should be used.</p>
 <hr>
 <h3> Tự Động Đốn Gỗ cho phép bạn đốn các cây xung quanh trong phạm vi và độ trễ nhất định để lấy gỗ.</h3>
 <h2> Video Minh Hoạ:</h2>
-<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/v95_NOxc4do?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Tree Farm" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+<p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/2fctdnkH4q98yNo/preview"><source src="https://nextcloud.atruicardona.xyz/s/2fctdnkH4q98yNo/download" type="video/mp4"></video></p>
 <blockquote>
 <p>Note: Not recommended to change default values.</p>
 </blockquote>
@@ -1954,7 +1989,7 @@ Note 2: Higher the distance higher delay should be used.</p>
 <hr>
 <h3> Hào Quang Nguyên Tố sẽ áp dụng các nguyên tố được chọn với một phạm vi và độ trễ nhất định lên các mục tiêu, vật thể hoặc bản thân người chơi. Có thể áp dụng nhiều nguyên tố khác nhau cùng một</h3>
 <h2> Video Minh Hoạ:</h2>
-<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/FskTJiknOgQ?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Elemental Aura (Sponsor)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+<p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/mjfe6J4Q5Ja6ipN/preview"><source src="https://nextcloud.atruicardona.xyz/s/mjfe6J4Q5Ja6ipN/download" type="video/mp4"></video></p>
 <blockquote>
 <p>Note: Low delay times will increase the chance of detection.</p>
 </blockquote>
@@ -1973,7 +2008,7 @@ Note 2: Higher the distance higher delay should be used.</p>
 <p>Lưu ý: Không khuyến khích sử dụng tính năng này.</p>
 </blockquote>
 <h2> Video Minh Hoạ:</h2>
-<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/MzXhudYkaDg?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Game Speed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+<p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/5r8a7BqXMBbSWry/preview"><source src="https://nextcloud.atruicardona.xyz/s/5r8a7BqXMBbSWry/download" type="video/mp4"></video></p>
 ]]></content:encoded>
     </item>
     <item>
@@ -2023,7 +2058,7 @@ Lưu ý 2: Không khuyến khích sử dụng chức năng này.</p>
 <li>Bật hoặc tắt việc chỉ tự động gây sát thương lên quái đang bị khiêu khích.</li>
 </ul>
 <h2> Video Minh Hoạ:</h2>
-<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/NiAh00VBy-w?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Kill Aura" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+<p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/CW5fzAXWC3CPfdN/preview"><source src="https://nextcloud.atruicardona.xyz/s/CW5fzAXWC3CPfdN/download" type="video/mp4"></video></p>
 ]]></content:encoded>
     </item>
     <item>
@@ -2039,7 +2074,7 @@ Lưu ý 2: Không khuyến khích sử dụng chức năng này.</p>
 </div>
 <h2> Thu Gom Quái Vật sẽ gom quái vật xung quanh lại gần người chơi với tốc độ và phạm vi được lựa chọn. Có thể tuỳ chỉnh danh sách quái bị hút.</h2>
 <h2> Video Minh Hoạ:</h2>
-<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/KNzVgG_V10I?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Mob Vacuum" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+<p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/fpQcNirHFpYreRy/preview"><source src="https://nextcloud.atruicardona.xyz/s/fpQcNirHFpYreRy/download" type="video/mp4"></video></p>
 <blockquote>
 <p>Lưu ý: Khuyến khích sử dụng với cự li dưới <code>20m</code>.</p>
 </blockquote>
@@ -2058,7 +2093,7 @@ Lưu ý 2: Không khuyến khích sử dụng chức năng này.</p>
 </div>
 <h2> Thu Gom Vật Phẩm sẽ gom các vật phẩm xung quanh lại gần người chơi trong phạm vi và độ trễ nhất định.</h2>
 <h2> Video Minh Hoạ:</h2>
-<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/iMElTsNF77c?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Vacuum Loot" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+<p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/iTnSNmWWgqApwLr/preview"><source src="https://nextcloud.atruicardona.xyz/s/iTnSNmWWgqApwLr/download" type="video/mp4"></video></p>
 <blockquote>
 <p>Note: Recommended below <code>20m</code>.</p>
 </blockquote>

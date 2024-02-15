@@ -6,8 +6,8 @@
     <link>https://korepi.com/zh/</link>
     <description>Korepi 中文文档介绍</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 13 Feb 2024 04:35:39 GMT</pubDate>
-    <lastBuildDate>Tue, 13 Feb 2024 04:35:39 GMT</lastBuildDate>
+    <pubDate>Thu, 15 Feb 2024 18:36:18 GMT</pubDate>
+    <lastBuildDate>Thu, 15 Feb 2024 18:36:18 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>其他</category>
@@ -990,7 +990,7 @@ VPN并非专为翻墙而生，而机场是专门的翻墙节点服务商。</p>
 <h2> 2.打开Korepi所在文件夹，打开<code>cfj.ini</code>。</h2>
 <h2> 3.找到Multi korepi=，将<code>false</code>改为<code>true</code>。</h2>
 <h2> 展示视频：</h2>
- <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/pSAxKoneT64" title="Multi-Instance V (Updated)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+<p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/a3K6SK5bHyxfmZw/preview"><source src="https://nextcloud.atruicardona.xyz/s/a3K6SK5bHyxfmZw/download" type="video/mp4"></video></p>
 ]]></content:encoded>
     </item>
     <item>
@@ -1025,12 +1025,12 @@ VPN并非专为翻墙而生，而机场是专门的翻墙节点服务商。</p>
       <link>https://korepi.com/zh/troubleshoot/faq.html</link>
       <guid>https://korepi.com/zh/troubleshoot/faq.html</guid>
       <source url="https://korepi.com/zh/rss.xml">问题解答</source>
-      <description>问题列表 1.Korepi是免费的吗？ Yes, Korepi has a free version which you can use easily following this guide (../guide/free.md). 2.为什么我的配置不保存? 请记住，您必须提取另一个文件夹中的“.rar/.zip”文件。 如果在该步骤之后仍然没有保存...</description>
+      <description>问题列表 1.Korepi是免费的吗？ Yes, Korepi has a free version which you can use easily following this guide (../guide/key-use.md). 2.为什么我的配置不保存? 请记住，您必须提取另一个文件夹中的“.rar/.zip”文件。 如果在该步骤之后仍然没...</description>
       <category>问题解答</category>
       <pubDate>Tue, 19 Dec 2023 17:09:24 GMT</pubDate>
       <content:encoded><![CDATA[<h2> 问题列表</h2>
 <h2> 1.Korepi是免费的吗？</h2>
-<h2> Yes, Korepi has a free version which you can use easily following this <a href="/zh/guide/free.html" target="blank">guide</a>.</h2>
+<h2> Yes, Korepi has a free version which you can use easily following this <a href="/zh/guide/key-use.html" target="blank">guide</a>.</h2>
 <h2> 2.为什么我的配置不保存?</h2>
 <p>请记住，您必须提取另一个文件夹中的“.rar/.zip”文件。</p>
 <p>如果在该步骤之后仍然没有保存配置，请与服务器中的任何帮助者联系以获取更多帮助。</p>
@@ -2371,6 +2371,8 @@ C1: ?  C2: ?  C3: ?  C4: ?  C5: ?  C6: ?</li>
 <p>现在错误应该会消失。</p>
 <h2> 如果我无法进入Korepi怎么办</h2>
 <p>前往您的 Korepi 文件夹，找到 <code>cfg.json</code>，点击 <code>CTRL + F</code>，输入 <code>bypass</code> 并搜索，将值设置为 <code>false</code>，然后打开 Korepi。</p>
+<h3> Method 3</h3>
+<p>Go to the game launcher and click on repair files. After that log into the game without Korepi. If everything works fine, try opening with Korepi once again.</p>
 <h2> 如果什么都不起作用怎么办</h2>
 <p>您必须重新安装游戏。</p>
 ]]></content:encoded>
@@ -2471,6 +2473,19 @@ C1: ?  C2: ?  C3: ?  C4: ?  C5: ?  C6: ?</li>
 <h3> Current data does not exist or server error.</h3>
 <p><img src="/assets/images/docs/202312/error.png" alt="" loading="lazy"></p>
 <p>Unpause your license and try again.</p>
+<h3> Cannot verify current timestamp.</h3>
+<p><img src="/assets/images/docs/202402/timestamp.png" alt="" loading="lazy"></p>
+<p>Case 1:</p>
+<ul>
+<li>You might get this error while using a VPN, please disable it and try again.</li>
+</ul>
+<p>Case 2:</p>
+<ul>
+<li>Check that your PC time is set to automatic sync.</li>
+</ul>
+<div class="hint-container info">
+<p class="hint-container-title">If you are from Iran you might need to use a VPN instead.</p>
+</div>
 ]]></content:encoded>
       <enclosure url="https://korepi.com/assets/images/docs/202312/virus.png" type="image/png"/>
     </item>

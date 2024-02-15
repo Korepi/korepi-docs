@@ -6,8 +6,8 @@
     <link>https://korepi.com/ru/</link>
     <description>Помощь по Korepi</description>
     <language>ru-RU</language>
-    <pubDate>Tue, 13 Feb 2024 04:35:39 GMT</pubDate>
-    <lastBuildDate>Tue, 13 Feb 2024 04:35:39 GMT</lastBuildDate>
+    <pubDate>Thu, 15 Feb 2024 18:36:18 GMT</pubDate>
+    <lastBuildDate>Thu, 15 Feb 2024 18:36:18 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Features</category>
@@ -18,6 +18,24 @@
     <category>Устранение Неполадок</category>
     <category>Гайд</category>
     <item>
+      <title>Others</title>
+      <link>https://korepi.com/ru/features/World/others.html</link>
+      <guid>https://korepi.com/ru/features/World/others.html</guid>
+      <source url="https://korepi.com/ru/rss.xml">Others</source>
+      <description>Other Features: Open Team Imediately Skip Enhance Animation Dumb Enemies Freeze Enemies Permanent Elemental Sight</description>
+      <category>Features</category>
+      <pubDate>Wed, 14 Feb 2024 21:50:28 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Other Features:</h2>
+<h3> Open Team Imediately</h3>
+<h3> Skip Enhance Animation</h3>
+<h3> Dumb Enemies</h3>
+<h3> Freeze Enemies</h3>
+<h3> Permanent Elemental Sight</h3>
+<h1> Video:</h1>
+<p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/5qrXm8Bzsj7pJsM/preview"><source src="https://nextcloud.atruicardona.xyz/s/5qrXm8Bzsj7pJsM/download" type="video/mp4"></video></p>
+]]></content:encoded>
+    </item>
+    <item>
       <title>Map Manager</title>
       <link>https://korepi.com/ru/features/World/map-manager.html</link>
       <guid>https://korepi.com/ru/features/World/map-manager.html</guid>
@@ -26,7 +44,8 @@
       <category>Features</category>
       <pubDate>Wed, 07 Feb 2024 20:25:33 GMT</pubDate>
       <content:encoded><![CDATA[<h3> Map Manager allows the player to unlock Statues of the Seven or Waypoints automatically without moving from the place, great to create reroll accounts.</h3>
-<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/jOY5Gm2z8To" title="Map Manager - Korepi" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>]]></content:encoded>
+<p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/5qrXm8Bzsj7pJsM/preview"><source src="https://nextcloud.atruicardona.xyz/s/5qrXm8Bzsj7pJsM/download" type="video/mp4"></video></p>
+]]></content:encoded>
     </item>
     <item>
       <title>Auto Domain</title>
@@ -579,7 +598,7 @@
       <pubDate>Mon, 18 Dec 2023 17:38:21 GMT</pubDate>
       <content:encoded><![CDATA[<h2> Список Часто Задаваемых Вопросов</h2>
 <h3> Бесплатен ли Korepi?</h3>
-<p>Yes, Korepi has a free version which you can use easily following this <a href="/ru/guide/free.html" target="blank">guide</a>.</p>
+<p>Да, у Korepi есть бесплатная версия, которой Вы можете легко воспользоваться следуя этому <a href="/ru/guide/free.html" target="blank">гайду</a>.</p>
 <hr>
 <h3> Какой пароль у архива?</h3>
 <p>Пароль очень прост, вы можете найти его в канале где скачали версию</p>
@@ -737,6 +756,7 @@ pass korepi</p>
       <category>Руководство</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
       <content:encoded><![CDATA[<h2> Verification Tutorial</h2>
+<p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/dEnSM8gwYdDwbnD/preview"><source src="https://nextcloud.atruicardona.xyz/s/dEnSM8gwYdDwbnD/download" type="video/mp4"></video></p>
 <h3> Step 1:</h3>
 <ul>
 <li>
@@ -818,6 +838,8 @@ pass korepi</p>
 <p>Теперь ошибка должна исчезнуть.</p>
 <h2> Что делать, если я не могу войти в Korepi</h2>
 <p>Перейдите в папку Korepi, найдите файл <code>cfg.json</code>, нажмите <code>CTRL + F</code>, введите <code>bypass</code> и выполните поиск, установите значение <code>false</code>, после чего откройте Korepi.</p>
+<h3> Method 3</h3>
+<p>Go to the game launcher and click on repair files. After that log into the game without Korepi. If everything works fine, try opening with Korepi once again.</p>
 <h2> Что, если ничего не помогает?</h2>
 <p>Придется выполнить переустановку игры.</p>
 ]]></content:encoded>
@@ -920,6 +942,19 @@ pass korepi</p>
 <h3> Current data does not exist or server error.</h3>
 <p><img src="/assets/images/docs/202312/error.png" alt="" loading="lazy"></p>
 <p>Unpause your license and try again.</p>
+<h3> Cannot verify current timestamp.</h3>
+<p><img src="/assets/images/docs/202402/timestamp.png" alt="" loading="lazy"></p>
+<p>Case 1:</p>
+<ul>
+<li>You might get this error while using a VPN, please disable it and try again.</li>
+</ul>
+<p>Case 2:</p>
+<ul>
+<li>Check that your PC time is set to automatic sync.</li>
+</ul>
+<div class="hint-container info">
+<p class="hint-container-title">If you are from Iran you might need to use a VPN instead.</p>
+</div>
 ]]></content:encoded>
       <enclosure url="https://korepi.com/assets/images/docs/202312/virus.png" type="image/png"/>
     </item>
@@ -1336,7 +1371,7 @@ pass korepi</p>
 <p>Примечание: Пожалуйста, подождите не менее 15 секунд между телепортациями в целях обеспечения безопасности.</p>
 </blockquote>
 <h2> Пример видео:</h2>
-<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/j2Yu31J7Yh4?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Oculi/ChestTeleport" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+<p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/i4b27NoW8i4mNxn/preview"><source src="https://nextcloud.atruicardona.xyz/s/i4b27NoW8i4mNxn/download" type="video/mp4"></video></p>
 ]]></content:encoded>
     </item>
     <item>
@@ -1353,7 +1388,7 @@ pass korepi</p>
 <p>Примечание: Подождите не менее 15 секунд между телепортациями в целях обеспечения безопасности.</p>
 </blockquote>
 <h2> Пример видео:</h2>
-<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/j2Yu31J7Yh4?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Oculi/ChestTeleport" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+<p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/i4b27NoW8i4mNxn/preview"><source src="https://nextcloud.atruicardona.xyz/s/i4b27NoW8i4mNxn/download" type="video/mp4"></video></p>
 ]]></content:encoded>
     </item>
     <item>
@@ -1409,7 +1444,7 @@ pass korepi</p>
 <li>Отключает экран загрузки в определенном радиусе во время телепортации.</li>
 </ul>
 <h2> Пример в действии:</h2>
-<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/Xm3mTEbIE9g?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Map TP/Fast TP" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+<p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/x8LsMBL3iX2fbRe/preview"><source src="https://nextcloud.atruicardona.xyz/s/x8LsMBL3iX2fbRe/download" type="video/mp4"></video></p>
 ]]></content:encoded>
     </item>
     <item>
@@ -1425,7 +1460,7 @@ pass korepi</p>
 <li>Для использования этой функции, вам необходимо сначала выбрать квест, а затем нажать горячую клавишу Телепорт к заданию (Quest Teleports).</li>
 </ul>
 <h2> Пример видео:</h2>
-<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/HNdQu39G2Tc?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - QuestTP" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+<p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/bHDsLK6ktT7sqn7/preview"><source src="https://nextcloud.atruicardona.xyz/s/bHDsLK6ktT7sqn7/download" type="video/mp4"></video></p>
 ]]></content:encoded>
     </item>
     <item>
@@ -1648,6 +1683,8 @@ pass korepi</p>
 <ul>
 <li>Скрывает панель здоровья команды только на вкладке персонажа.</li>
 </ul>
+<h1> Video:</h1>
+<p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/tRDjSriLiqs6QWq/preview"><source src="https://nextcloud.atruicardona.xyz/s/tRDjSriLiqs6QWq/download" type="video/mp4"></video></p>
 ]]></content:encoded>
     </item>
     <item>
@@ -1712,7 +1749,7 @@ pass korepi</p>
 <h3> Отсутствие следов ног</h3>
 <h3> Отсутствие анимации выстрела</h3>
 <h2> Пример видео:</h2>
-<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/AjkJ8S8NHsI?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Visuals/Other" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+<p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/eMP6xMRxWbfSqti/preview"><source src="https://nextcloud.atruicardona.xyz/s/eMP6xMRxWbfSqti/download" type="video/mp4"></video></p>
 ]]></content:encoded>
     </item>
     <item>
@@ -1784,7 +1821,7 @@ pass korepi</p>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
       <content:encoded><![CDATA[<h3> Функция авто-приготовления позволяет вам приготовить указанное количество выбранных блюд высокого качества на странице приготовления. Это учитывается при использовании встроенной функции автоматического разблокирования авто-приготовления (Auto unlock auto cook).</h3>
 <h2> Пример видео:</h2>
-<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/T_X13AXiAiY?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Cook" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+<p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/s7cSiMAtmdLZAqx/preview"><source src="https://nextcloud.atruicardona.xyz/s/s7cSiMAtmdLZAqx/download" type="video/mp4"></video></p>
 ]]></content:encoded>
     </item>
     <item>
@@ -1846,7 +1883,7 @@ pass korepi</p>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
       <content:encoded><![CDATA[<h2> Автоматический поиск избавляет игрока от необходимости постоянно следовать за поисковиком, отправляясь в назначенное место назначения.</h2>
 <h2> Пример видео:</h2>
-<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/uETIJ4KS39M?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Seelie" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+<p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/f3Z4wMqM4d8dERo/preview"><source src="https://nextcloud.atruicardona.xyz/s/f3Z4wMqM4d8dERo/download" type="video/mp4"></video></p>
 ]]></content:encoded>
     </item>
     <item>
@@ -1894,7 +1931,7 @@ pass korepi</p>
 <p>Примечание: Возможно появление черного экрана при использовании.</p>
 </blockquote>
 <h2> Пример видео:</h2>
-<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/IS0BvLLO1xc?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - AutoTalk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+<p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/7ceaQqesRBQcqxr/preview"><source src="https://nextcloud.atruicardona.xyz/s/7ceaQqesRBQcqxr/download" type="video/mp4"></video></p>
 ]]></content:encoded>
     </item>
     <item>

@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="robots" content="noindex">
+  <title>Redirecting...</title>
+  <script>
+    const { hash, origin, pathname } = window.location;
+    const routePath = pathname.substring(1);
+    const { languages } = window.navigator;
+    const anchor = hash.substring(1);
+
+    const localeConfig = {"0":["/en/",["en-US","en-UK","en"]],"1":["/zh/",["zh-CN","zh-TW","zh"]],"2":["/ru/",["ru-RU","ru-KZ","ru-BY","ru-UA","ru-MD","ru-LV","tt-RU","ru"]],"3":["/id/",["id-ID","id"]],"4":["/es/",["es-ES","es"]],"5":["/mx/",["es-MX","es-419","es-AR","es-BM","es-BZ","es-BO","es-CL","es-CO","es-CR","es-CU","es-DO","es-EC","es-SV","es-GT","es-HN","es-NI","es-PA","es-PY","es-PE","es-PR","es-US","es-UY","es-VE"]],"6":["/vi/",["vi-VN","vi"]],"7":["/pt/",["pt-PT","pt-BR","pt"]],"8":["/ko/",["ko","ko-KR"]],"9":["/tr/",["tr","tr-TR"]],"10":["/jp/",["ja-JP","jp-JP","jp"]],"11":["/ar/",["ar","ar-MA","ar-SA","ar-PS","ar-DZ","ar-BH","ar-TD","ar-KM","ar-JO","ar-EG","ar-IQ","ar-KW","ar-LB","ar-LY","ar-MR","ar-OM","ar-QA","ar-SO","ar-SD","ar-SY","ar-TN","ar-AE","ar-YE"]],"/en/":["en-US"],"/zh/":["zh-CN"],"/ru/":["ru-RU"],"/id/":["id-ID"],"/es/":["es-ES"],"/mx/":["es-MX"],"/mm/":["my-MM"],"/vi/":["vi-VN"],"/pt/":["pt-BR"],"/ko/":["ko-KR"],"/ar/":["ar"],"/jp/":["ja-JP"],"/tr/":["tr"]};
+    const availableLocales = ["/ar/","/en/","/es/","/id/","/jp/","/mm/","/mx/","/pt/","/ru/","/tr/","/vi/"];
+    const defaultLocale = "/en/";
+    const defaultBehavior = "defaultLocale"
+
+    let matchedLocalePath = null;
+
+    // get matched locale
+    findLanguage:
+      for (const lang of languages)
+        for (const [localePath, langs] of Object.entries(localeConfig))
+          if (langs.includes(lang)) {
+            if (!availableLocales.includes(localePath))
+              continue;
+            matchedLocalePath = localePath;
+            break findLanguage;
+          }
+    
+    // default link
+    const defaultLink = defaultLocale? `${origin}${defaultLocale}${routePath}${anchor? `#${anchor}`: ""}`: null;
+
+    // a locale matches
+    if (matchedLocalePath) {
+      const localeLink = `${origin}${matchedLocalePath}${routePath}${anchor? `#${anchor}`: ""}`;
+
+      if (availableLocales.includes(matchedLocalePath)) {
+        location.href = localeLink;
+      }
+      // the page does not exist
+      else {
+        // locale homepage
+        if (defaultBehavior === "homepage") {
+          location.href = `${origin}${matchedLocalePath}`;
+        }
+        // default locale page
+        else if (defaultBehavior === "defaultLocale" && defaultLink) {
+          location.href = defaultLink;
+        }
+        // as is to get a 404 page of that locale
+        else {
+          location.href = localeLink;
+        }
+      }
+    }
+    // we have a default page
+    else if (defaultLink) {
+      location.href = defaultLink;
+    }
+    else {
+      location.href = `${origin}/404.html`;
+    }
+  </script>
+</head>
+<body>
+  <p>Redirecting...</p>
+</body>
+</html>

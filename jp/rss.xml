@@ -6,15 +6,34 @@
     <link>https://korepi.com/jp/</link>
     <description>Korepiに関するヘルプ</description>
     <language>ja-JP</language>
-    <pubDate>Tue, 13 Feb 2024 04:35:39 GMT</pubDate>
-    <lastBuildDate>Tue, 13 Feb 2024 04:35:39 GMT</lastBuildDate>
+    <pubDate>Thu, 15 Feb 2024 18:36:18 GMT</pubDate>
+    <lastBuildDate>Thu, 15 Feb 2024 18:36:18 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+    <category>Features</category>
     <category>機能</category>
     <category>ガイド</category>
     <category>特徴</category>
     <category>トラブルシューティング</category>
     <category>FAQ</category>
+    <item>
+      <title>Others</title>
+      <link>https://korepi.com/jp/features/World/others.html</link>
+      <guid>https://korepi.com/jp/features/World/others.html</guid>
+      <source url="https://korepi.com/jp/rss.xml">Others</source>
+      <description>Other Features: Open Team Imediately Skip Enhance Animation Dumb Enemies Freeze Enemies Permanent Elemental Sight</description>
+      <category>Features</category>
+      <pubDate>Wed, 14 Feb 2024 21:50:28 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Other Features:</h2>
+<h3> Open Team Imediately</h3>
+<h3> Skip Enhance Animation</h3>
+<h3> Dumb Enemies</h3>
+<h3> Freeze Enemies</h3>
+<h3> Permanent Elemental Sight</h3>
+<h1> Video:</h1>
+<p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/5qrXm8Bzsj7pJsM/preview"><source src="https://nextcloud.atruicardona.xyz/s/5qrXm8Bzsj7pJsM/download" type="video/mp4"></video></p>
+]]></content:encoded>
+    </item>
     <item>
       <title>マップマネージャー</title>
       <link>https://korepi.com/jp/features/World/map-manager.html</link>
@@ -24,7 +43,7 @@
       <category>機能</category>
       <pubDate>Wed, 07 Feb 2024 20:25:33 GMT</pubDate>
       <content:encoded><![CDATA[<h3> マップマネージャーによって、プレイヤーはその場から移動することなく、自動的に「七神神像」やワープポイントを解除することができる。</h3>
-<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/jOY5Gm2z8To" title="Map Manager - Korepi" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+<p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/5qrXm8Bzsj7pJsM/preview"><source src="https://nextcloud.atruicardona.xyz/s/5qrXm8Bzsj7pJsM/download" type="video/mp4"></video></p>
 ]]></content:encoded>
     </item>
     <item>
@@ -670,6 +689,7 @@
       <category>ガイド</category>
       <pubDate>Wed, 03 Jan 2024 06:45:45 GMT</pubDate>
       <content:encoded><![CDATA[<h2> 認証チュートリアル</h2>
+<p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/dEnSM8gwYdDwbnD/preview"><source src="https://nextcloud.atruicardona.xyz/s/dEnSM8gwYdDwbnD/download" type="video/mp4"></video></p>
 <h3> ステップ 1:</h3>
 <ul>
 <li>
@@ -724,7 +744,7 @@
 <p class="hint-container-title">Local(V)バージョンでのみ動作します</p>
 </div>
 <hr>
-<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/pSAxKoneT64" title="Multi-Instance V (Updated)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+<p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/a3K6SK5bHyxfmZw/preview"><source src="https://nextcloud.atruicardona.xyz/s/a3K6SK5bHyxfmZw/download" type="video/mp4"></video></p>
 ]]></content:encoded>
     </item>
     <item>
@@ -865,6 +885,8 @@
 <p>これでエラーは消えるはずです</p>
 <h2> korepiに入れない場合はどうすればよいですか？</h2>
 <p>Korepiフォルダに移動し <code>cfg.json</code>, をみつけ <code>CTRL + F</code>, を押し、<code>bypass</code> と入力して検索し、値を <code>false</code> に設定してKorepiを開きます。</p>
+<h3> Method 3</h3>
+<p>Go to the game launcher and click on repair files. After that log into the game without Korepi. If everything works fine, try opening with Korepi once again.</p>
 <h2> 何も機能しない場合はどうすればよいですか？</h2>
 <p>ゲームを再インストールする必要があります。</p>
 ]]></content:encoded>
@@ -964,6 +986,19 @@
 <h3> Current data does not exist or server error.</h3>
 <p><img src="/assets/images/docs/202312/error.png" alt="" loading="lazy"></p>
 <p>Unpause your license and try again.</p>
+<h3> Cannot verify current timestamp.</h3>
+<p><img src="/assets/images/docs/202402/timestamp.png" alt="" loading="lazy"></p>
+<p>Case 1:</p>
+<ul>
+<li>You might get this error while using a VPN, please disable it and try again.</li>
+</ul>
+<p>Case 2:</p>
+<ul>
+<li>Check that your PC time is set to automatic sync.</li>
+</ul>
+<div class="hint-container info">
+<p class="hint-container-title">If you are from Iran you might need to use a VPN instead.</p>
+</div>
 ]]></content:encoded>
       <enclosure url="https://korepi.com/assets/images/docs/202312/virus.png" type="image/png"/>
     </item>
@@ -1083,7 +1118,7 @@
 <li>プレイヤーへの元素ダメージを無効化し、物理ダメージへ変換する。</li>
 </ul>
 <h2> ビデオ:</h2>
-<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/1BdKwxBjWyg?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Attack Effects" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+<p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/4rRZ3mQoxsnfMQy/preview"><source src="https://nextcloud.atruicardona.xyz/s/4rRZ3mQoxsnfMQy/download" type="video/mp4"></video></p>
 ]]></content:encoded>
     </item>
     <item>
@@ -1096,7 +1131,7 @@
       <pubDate>Wed, 03 Jan 2024 06:45:45 GMT</pubDate>
       <content:encoded><![CDATA[<h2> 自動ダッシュは、プレーヤーが向いている方向に自動的に移動します。</h2>
 <h2> ビデオ:</h2>
-<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/BLDhPBMs7Es?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Run" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+<p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/QGyZW8KnWNtrsxi/preview"><source src="https://nextcloud.atruicardona.xyz/s/QGyZW8KnWNtrsxi/download" type="video/mp4"></video></p>
 ]]></content:encoded>
     </item>
     <item>
@@ -1113,7 +1148,7 @@
 <hr>
 <h2> バニーホップを有効にすると、最初のジャンプ後に自動的にジャンプします。</h2>
 <h2> ビデオ:</h2>
-<div class="iframe-container"><iframe width="640" height="369" src="https://www.youtube.com/embed/Gh2GX23E6dw?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Bunnyhop (Sponsor)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+<p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/5NYq9Rcf7852oJD/preview"><source src="https://nextcloud.atruicardona.xyz/s/5NYq9Rcf7852oJD/download" type="video/mp4"></video></p>
 ]]></content:encoded>
     </item>
     <item>
@@ -1153,7 +1188,7 @@
 <li>ボートスキルのクールタイムを削除する。</li>
 </ul>
 <h2> ビデオ:</h2>
-<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/qv5ykSL3Ojw?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Cooldown Effects" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+<p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/6Gf3Wnc5F5bAfay/preview"><source src="https://nextcloud.atruicardona.xyz/s/6Gf3Wnc5F5bAfay/download" type="video/mp4"></video></p>
 ]]></content:encoded>
     </item>
     <item>
@@ -1217,7 +1252,7 @@
 <li>ホットキーを押した後にプレーヤーが一定距離を移動できるようにします。</li>
 </ul>
 <h2> ビデオ:</h2>
-<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/wMd9icqhFQg?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Extra Movement (Sponsor)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+<p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/RsLzFEcNLJKqtLC/preview"><source src="https://nextcloud.atruicardona.xyz/s/RsLzFEcNLJKqtLC/download" type="video/mp4"></video></p>
 ]]></content:encoded>
     </item>
     <item>
@@ -1230,7 +1265,7 @@
       <pubDate>Wed, 03 Jan 2024 06:45:45 GMT</pubDate>
       <content:encoded><![CDATA[<h2> 落下コントロールでは、落下中スピードを変更することができる。</h2>
 <h2> ビデオ:</h2>
-<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/BHiabtwSSNc?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Fall Control" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+<p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/ztqDzL5ZQb2Y4cN/preview"><source src="https://nextcloud.atruicardona.xyz/s/ztqDzL5ZQb2Y4cN/download" type="video/mp4"></video></p>
 ]]></content:encoded>
     </item>
     <item>
@@ -1254,7 +1289,7 @@
 <p>注：螺旋には条件付きの使用を推奨。</p>
 </blockquote>
 <h2> ビデオ:</h2>
-<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/42utUUYNHRE?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - God Mode" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+<p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/Hg5y3FxN7gmR6HE/preview"><source src="https://nextcloud.atruicardona.xyz/s/Hg5y3FxN7gmR6HE/download" type="video/mp4"></video></p>
 ]]></content:encoded>
     </item>
     <item>
@@ -1274,7 +1309,7 @@
 <p>注：移動同期パケットの置き換えの使用を推奨。</p>
 </blockquote>
 <h2> ビデオ:</h2>
-<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/NZhfaMOLuY0?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Infinite Stamina" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+<p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/x4dWmX8J3Y9GAZo/preview"><source src="https://nextcloud.atruicardona.xyz/s/x4dWmX8J3Y9GAZo/download" type="video/mp4"></video></p>
 ]]></content:encoded>
     </item>
     <item>
@@ -1310,7 +1345,7 @@
 <p>注：20以上の使用は推奨されない。</p>
 </blockquote>
 <h2> ビデオ:</h2>
-<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/nPdq-yzBt3k?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - NoClip" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+<p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/rPa8iA5zkAQyZni/preview"><source src="https://nextcloud.atruicardona.xyz/s/rPa8iA5zkAQyZni/download" type="video/mp4"></video></p>
 ]]></content:encoded>
     </item>
     <item>
@@ -1327,7 +1362,7 @@
 注2： <a href="/jp/features/Player/extra-movements.html" target="blank">追加の速度設定</a> の方がサーバーとの同期が良いのでお勧め（安全）(スポンサーのみ)</p>
 </blockquote>
 <h2> ビデオ:</h2>
-<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/HCxmOUMFRs8?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Player Speed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+<p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/oKdGWF7zRi8qmLx/preview"><source src="https://nextcloud.atruicardona.xyz/s/oKdGWF7zRi8qmLx/download" type="video/mp4"></video></p>
 ]]></content:encoded>
     </item>
     <item>
@@ -1416,7 +1451,7 @@
 <li>プレーヤーがどこでも旅人の元素を変更できるようにする。</li>
 </ul>
 <h2> ビデオ:</h2>
-<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/XGztUEy82sE?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Remote Utilities (Sponsor)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+<p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/TrwzrHqCr2sMyS4/preview"><source src="https://nextcloud.atruicardona.xyz/s/TrwzrHqCr2sMyS4/download" type="video/mp4"></video></p>
 ]]></content:encoded>
     </item>
     <item>
@@ -1432,7 +1467,7 @@
 <p>注意：安全のため、テレポートの間隔を<code>15秒以上</code>空けること。</p>
 </blockquote>
 <h2> ビデオ:</h2>
-<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/j2Yu31J7Yh4?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Oculi/ChestTeleport" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+<p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/i4b27NoW8i4mNxn/preview"><source src="https://nextcloud.atruicardona.xyz/s/i4b27NoW8i4mNxn/download" type="video/mp4"></video></p>
 ]]></content:encoded>
     </item>
     <item>
@@ -1448,7 +1483,7 @@
 <p>注：安全のため、テレポートの間隔を<code>15秒以上</code>空けること。</p>
 </blockquote>
 <h2> ビデオ:</h2>
-<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/j2Yu31J7Yh4?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Oculi/ChestTeleport" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+<p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/i4b27NoW8i4mNxn/preview"><source src="https://nextcloud.atruicardona.xyz/s/i4b27NoW8i4mNxn/download" type="video/mp4"></video></p>
 ]]></content:encoded>
     </item>
     <item>
@@ -1497,7 +1532,7 @@
 <li>テレポート中に選択した距離内のロード画面を無効にする。</li>
 </ul>
 <h2> ビデオ:</h2>
-<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/Xm3mTEbIE9g?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Map TP/Fast TP" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+<p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/x8LsMBL3iX2fbRe/preview"><source src="https://nextcloud.atruicardona.xyz/s/x8LsMBL3iX2fbRe/download" type="video/mp4"></video></p>
 ]]></content:encoded>
     </item>
     <item>
@@ -1513,7 +1548,7 @@
 <li>この機能を使うには、まずナビゲーションホットキーをクリックし、次にクエストテレポートホットキーをクリックする必要がある。</li>
 </ul>
 <h2> ビデオ:</h2>
-<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/HNdQu39G2Tc?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - QuestTP" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+<p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/bHDsLK6ktT7sqn7/preview"><source src="https://nextcloud.atruicardona.xyz/s/bHDsLK6ktT7sqn7/download" type="video/mp4"></video></p>
 ]]></content:encoded>
     </item>
     <item>
@@ -1559,7 +1594,7 @@
 </div>
 <hr>
 <h2> ビデオ:</h2>
-<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/S9-g5weE9l8?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Constellation Modifier (Sponsor)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+<p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/kzizWdRXjmnDL8G/preview"><source src="https://nextcloud.atruicardona.xyz/s/kzizWdRXjmnDL8G/download" type="video/mp4"></video></p>
 ]]></content:encoded>
     </item>
     <item>
@@ -1736,6 +1771,8 @@
 <ul>
 <li>キャラクタータブのチームHPバーのみを隠す。</li>
 </ul>
+<h1> Video:</h1>
+<p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/tRDjSriLiqs6QWq/preview"><source src="https://nextcloud.atruicardona.xyz/s/tRDjSriLiqs6QWq/download" type="video/mp4"></video></p>
 ]]></content:encoded>
     </item>
     <item>
@@ -1800,7 +1837,8 @@
 <h3> 足跡無効化</h3>
 <h3> 元素爆発の演出無効化</h3>
 <h2> ビデオ:</h2>
-<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/AjkJ8S8NHsI?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Visuals/Other" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>]]></content:encoded>
+<p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/eMP6xMRxWbfSqti/preview"><source src="https://nextcloud.atruicardona.xyz/s/eMP6xMRxWbfSqti/download" type="video/mp4"></video></p>
+]]></content:encoded>
     </item>
     <item>
       <title>スキン変更</title>
@@ -1842,7 +1880,7 @@
 <hr>
 <h3> 自動開放は、50mまでの近くのウェイポイントをアクティブにする。</h3>
 <h2> ビデオ:</h2>
-<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/qstBErr9mJ0?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - AutoActivateTP (Sponsor)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+<p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/ydzPcwiLDfEGMJY/preview"><source src="https://nextcloud.atruicardona.xyz/s/ydzPcwiLDfEGMJY/download" type="video/mp4"></video></p>
 ]]></content:encoded>
     </item>
     <item>
@@ -1855,7 +1893,7 @@
       <pubDate>Wed, 03 Jan 2024 06:45:45 GMT</pubDate>
       <content:encoded><![CDATA[<h3> 自動挑戦は、指定された範囲と遅延時間内に、現在アクティブなタイムトライアルを完了させることができます。</h3>
 <h2> ビデオ:</h2>
-<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/7JNegfQiK2U?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Challenge" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+<p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/wp5N6BwGNbezqEg/preview"><source src="https://nextcloud.atruicardona.xyz/s/wp5N6BwGNbezqEg/download" type="video/mp4"></video></p>
 <blockquote>
 <p>注：低遅延や非常に高いレンジでの使用は推奨されない。</p>
 </blockquote>
@@ -1871,7 +1909,7 @@
       <pubDate>Wed, 03 Jan 2024 06:45:45 GMT</pubDate>
       <content:encoded><![CDATA[<h3> 自動調理は、調理ページで選択された食品の指定された量と品質を調理することができ、それは自動熟練度（自動ロック解除自動調理）内蔵でカウントされます。</h3>
 <h2> ビデオ:</h2>
-<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/T_X13AXiAiY?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Cook" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+<p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/s7cSiMAtmdLZAqx/preview"><source src="https://nextcloud.atruicardona.xyz/s/s7cSiMAtmdLZAqx/download" type="video/mp4"></video></p>
 ]]></content:encoded>
     </item>
     <item>
@@ -1884,7 +1922,7 @@
       <pubDate>Wed, 03 Jan 2024 06:45:45 GMT</pubDate>
       <content:encoded><![CDATA[<h3> 自動破壊は、鉱石、植物、岩山、チェスト、特別なオブジェクト、シールドなどを含む、指定された範囲内のカスタマイズ可能なオブジェクトを破壊することができます。</h3>
 <h2> ビデオ:</h2>
-<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/3ML6s3SR8nE?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Destroy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+<p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/34xYZt5G5Aid4zk/preview"><source src="https://nextcloud.atruicardona.xyz/s/34xYZt5G5Aid4zk/download" type="video/mp4"></video></p>
 <blockquote>
 <p>注：推奨値<code>は</code>20m以下、最大レンジ(<code>40m</code>)での使用は推奨しない。</p>
 </blockquote>
@@ -1900,7 +1938,7 @@
       <pubDate>Wed, 03 Jan 2024 06:45:45 GMT</pubDate>
       <content:encoded><![CDATA[<h3> 自動釣りは、魚をキャッチするアニメーションをスキップすることができ、魚をキャッチするのに必要な時間を短縮することができます。</h3>
 <h2> ビデオ:</h2>
-<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/K_l4Tg-81iQ?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Fish" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+<p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/A5RxPpHs7mqYgtb/preview"><source src="https://nextcloud.atruicardona.xyz/s/A5RxPpHs7mqYgtb/download" type="video/mp4"></video></p>
 <blockquote>
 <p>注：この記事を作成している時点では、自動リキャストは機能していません。</p>
 </blockquote>
@@ -1916,7 +1954,7 @@
       <pubDate>Wed, 03 Jan 2024 06:45:45 GMT</pubDate>
       <content:encoded><![CDATA[<h2> 自動取得は、選択した範囲と遅延でドロップ品を自動収集することができます。収集されるドロップ品は、チェスト、モブドロップなどを含むカスタマイズが可能です。</h2>
 <h2> ビデオ:</h2>
-<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/wUyI2XO_Z4E?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Loot" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+<p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/ekNmga3Ffe9TxDN/preview"><source src="https://nextcloud.atruicardona.xyz/s/ekNmga3Ffe9TxDN/download" type="video/mp4"></video></p>
 <blockquote>
 <p>注：通常の使用では10m以下、カスタムTPを使用する場合は20m以下を推奨。
 注2：距離が長いほど高い遅延を使用すべきである。</p>
@@ -1933,7 +1971,7 @@
       <pubDate>Wed, 03 Jan 2024 06:45:45 GMT</pubDate>
       <content:encoded><![CDATA[<h2> 自動仙霊は、プレイヤーが常に仙霊を追いかける必要性をなくし、プレイヤーが近づくと仙霊は目的地に自動で行く。</h2>
 <h2> ビデオ:</h2>
-<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/uETIJ4KS39M?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Seelie" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+<p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/f3Z4wMqM4d8dERo/preview"><source src="https://nextcloud.atruicardona.xyz/s/f3Z4wMqM4d8dERo/download" type="video/mp4"></video></p>
 ]]></content:encoded>
     </item>
     <item>
@@ -1981,7 +2019,7 @@
 <p>注：使用中に黒い画面が表示されることがあります。</p>
 </blockquote>
 <h2> ビデオ:</h2>
-<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/IS0BvLLO1xc?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - AutoTalk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+<p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/7ceaQqesRBQcqxr/preview"><source src="https://nextcloud.atruicardona.xyz/s/7ceaQqesRBQcqxr/download" type="video/mp4"></video></p>
 ]]></content:encoded>
     </item>
     <item>
@@ -1998,7 +2036,7 @@
 <hr>
 <h3> 自動伐採では、選択した値と遅延で近くの木を伐採し、自動的に近くの木から木材を得ることができます。</h3>
 <h2> ビデオ:</h2>
-<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/v95_NOxc4do?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Tree Farm" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+<p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/2fctdnkH4q98yNo/preview"><source src="https://nextcloud.atruicardona.xyz/s/2fctdnkH4q98yNo/download" type="video/mp4"></video></p>
 <blockquote>
 <p>注：デフォルト値を変更することは推奨されない。</p>
 </blockquote>
@@ -2018,7 +2056,7 @@
 <hr>
 <h3> 元素オーラは、指定した元素、範囲を持つ元素を、ターゲット、オブジェクト、または自分自身に適用する。</h3>
 <h2> ビデオ:</h2>
-<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/FskTJiknOgQ?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Elemental Aura (Sponsor)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+<p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/mjfe6J4Q5Ja6ipN/preview"><source src="https://nextcloud.atruicardona.xyz/s/mjfe6J4Q5Ja6ipN/download" type="video/mp4"></video></p>
 <blockquote>
 <p>注：遅延時間が短いと、検知される可能性が高くなります。</p>
 </blockquote>
@@ -2037,7 +2075,7 @@
 <p>注：メニュー以外や一般的な使用は推奨しない。</p>
 </blockquote>
 <h2> ビデオ:</h2>
-<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/MzXhudYkaDg?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Game Speed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+<p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/5r8a7BqXMBbSWry/preview"><source src="https://nextcloud.atruicardona.xyz/s/5r8a7BqXMBbSWry/download" type="video/mp4"></video></p>
 ]]></content:encoded>
     </item>
     <item>
@@ -2084,7 +2122,7 @@
 <li>敵対的なモブだけをターゲットにする。</li>
 </ul>
 <h2> ビデオ:</h2>
-<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/NiAh00VBy-w?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Kill Aura" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+<p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/CW5fzAXWC3CPfdN/preview"><source src="https://nextcloud.atruicardona.xyz/s/CW5fzAXWC3CPfdN/download" type="video/mp4"></video></p>
 ]]></content:encoded>
     </item>
     <item>
@@ -2097,7 +2135,7 @@
       <pubDate>Wed, 03 Jan 2024 06:45:45 GMT</pubDate>
       <content:encoded><![CDATA[<h2> モブ吸い寄せは、選択した速度と範囲で近くのモブをプレイヤーに移動させる。</h2>
 <h2> ビデオ:</h2>
-<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/KNzVgG_V10I?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Mob Vacuum" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+<p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/fpQcNirHFpYreRy/preview"><source src="https://nextcloud.atruicardona.xyz/s/fpQcNirHFpYreRy/download" type="video/mp4"></video></p>
 <blockquote>
 <p>注：<code>20m以下</code>を推奨。</p>
 </blockquote>
@@ -2113,7 +2151,7 @@
       <pubDate>Wed, 03 Jan 2024 06:45:45 GMT</pubDate>
       <content:encoded><![CDATA[<h2> ドロップ品吸い寄せは、指定した範囲で、近くのドロップ品をプレイヤーに移動させる。</h2>
 <h2> ビデオ:</h2>
-<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/iMElTsNF77c?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Vacuum Loot" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+<p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/iTnSNmWWgqApwLr/preview"><source src="https://nextcloud.atruicardona.xyz/s/iTnSNmWWgqApwLr/download" type="video/mp4"></video></p>
 <blockquote>
 <p>注： <code>20m以下</code>を推奨。</p>
 </blockquote>
