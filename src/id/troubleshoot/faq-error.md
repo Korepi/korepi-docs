@@ -122,17 +122,14 @@ Jika tidak berhasil, coba menggunakan VPN.
 
 ![](/assets/images/docs/202312/error.png)
 
-Unpause your license and try again.
+Unpause lisensi kamu dan coba lagi.
 
 ### Cannot verify current timestamp.
 
 ![](/assets/images/docs/202402/timestamp.png)
 
-Case 1:
-- You might get this error while using a VPN, please disable it and try again.
+Kasus 1:
+- Kamu bisa mendapatkan error ini ketika menggunakan VPN, tolong matikan dan coba lagi.
 
-Case 2:
-- Check that your PC time is set to automatic sync.
-
-::: info If you are from Iran you might need to use a VPN instead.
-:::
+Kasus 2:
+- Cek waktu jam PC kamu sudah diatur sinkron otomatis.
