@@ -14,7 +14,7 @@ order: 1
 
 <video controls preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/dEnSM8gwYdDwbnD/preview"><source src="https://nextcloud.atruicardona.xyz/s/dEnSM8gwYdDwbnD/download" type="video/mp4"></video>
 
-::: danger If you got an active subscription, don't bind any other card or you will lose your current subscription. If you bind any other card, you wont be able to claim your sponsor compensation.
+::: danger Jika Anda memiliki langganan yang sedang aktif, jangan hubungkan dengan kartu lain atau Anda akan kehilangan langganan saat ini. Jika Anda menghubungkan kartu lain, Anda tidak dapat klaim kompensasi sponsor.
 :::
 
 ### Langkah 1:
@@ -25,7 +25,7 @@ order: 1
 ### Langkah 2:
 Untuk versi gratis, ikuti [tautan ini](free.md).
 
-::: tip If you already got an active subscription, please click on stack card instead, to merge with your current subscription.
+::: tip Jika Anda sudah memiliki langganan yang sedang aktif, sebaiknya untuk tekan munumpuk kartu, untuk menggabungkan langganan Anda saat ini.
 :::
 
 Jika Anda membeli kunci dari reseller, klik `bind card str` dan tempelkan kunci Anda.
