@@ -2,15 +2,15 @@
 title: Others
 icon: magnet
 category:
-  - Features
+  - Fitur
 tag:
-  - Others
+  - Lainnya
 author: Schvis
 order: 16
 ---
 
-## Other Features:
-### Open Team Imediately
+## Fitur Lain:
+### Open Team Immediately
 ### Skip Enhance Animation
 ### Dumb Enemies
 ### Freeze Enemies
