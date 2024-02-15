@@ -158,12 +158,12 @@ Hãy ngưng tạm dừng key (unpause) rồi thử lại.
 
 ![](/assets/images/docs/202402/timestamp.png)
 
-Case 1:
-- You might get this error while using a VPN, please disable it and try again.
+Trường hợp 1:
+- Bạn có thể gặp phải lỗi này khi đang sử dụng VPN. Hãy thử tắt VPN rồi bật Korepi lên lại.
 
-Case 2:
-- Check that your PC time is set to automatic sync.
+Trường hợp 2:
+- Kiểm tra cài đặt thời gian trên máy của bạn và đảm bảo rằng đồng bộ tự động đã được bật.
 
-::: info If you are from Iran you might need to use a VPN instead.
+::: info Đối với người dùng tại Iran, bạn cần bật VPN để có thể sử dụng Korepi.
 :::
 
