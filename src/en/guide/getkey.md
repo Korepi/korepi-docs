@@ -13,6 +13,9 @@ order: 1
 
 <video controls preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/dEnSM8gwYdDwbnD/preview"><source src="https://nextcloud.atruicardona.xyz/s/dEnSM8gwYdDwbnD/download" type="video/mp4"></video>
 
+::: danger If you got an active subscription, don't bind any other card or you will lose your current subscription. If you bind any other card, you wont be able to claim your sponsor compensation.
+:::
+
 ### Step 1:
 - Find the `★⋅micah-bot-verify⋅★` channel [direct link](https://discord.com/channels/1069057220802781265/1203687333107335198)
 
@@ -20,6 +23,9 @@ order: 1
 - Find the message sent by Micah-bot
 ### Step 2:
 For free version follow this [link](free.md).
+
+::: tip If you already got an active subscription, please click on stack card instead, to merge with your current subscription.
+:::
 
 If you bought a key from a reseller, click on `bind card str` and paste in your key.
 

@@ -13,6 +13,9 @@ order: 1
 
 <video controls preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/dEnSM8gwYdDwbnD/preview"><source src="https://nextcloud.atruicardona.xyz/s/dEnSM8gwYdDwbnD/download" type="video/mp4"></video>
 
+::: danger If you got an active subscription, don't bind any other card or you will lose your current subscription. If you bind any other card, you wont be able to claim your sponsor compensation.
+:::
+
 ### 1단계:
 - [링크](https://discord.com/channels/1069057220802781265/1203687333107335198)`에서 ★⋅micah-bot-verify⋅★` 채널을 찾습니다. 
 
@@ -20,6 +23,9 @@ order: 1
 - Micah-bot이 보낸 메세지를 찾습니다.
 ### 2단계:
 무료 버전은 이 [링크](free.md)를 따르세요.
+
+::: tip If you already got an active subscription, please click on stack card instead, to merge with your current subscription.
+:::
 
 리셀러에게서 키를 구매했다면, `bind card str`을 클릭하고 키를 붙여넣습니다.
 
