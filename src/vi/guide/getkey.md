@@ -14,6 +14,9 @@ order: 1
 
 <video controls preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/dEnSM8gwYdDwbnD/preview"><source src="https://nextcloud.atruicardona.xyz/s/dEnSM8gwYdDwbnD/download" type="video/mp4"></video>
 
+::: danger If you got an active subscription, don't bind any other card or you will lose your current subscription. If you bind any other card, you wont be able to claim your sponsor compensation.
+:::
+
 ### Bước 1:
 - Đi tới kênh `★⋅micah-bot-verify⋅★` ở server Discord: [Link trực tiếp](https://discord.com/channels/1069057220802781265/1203687333107335198)
 
@@ -21,6 +24,9 @@ order: 1
 - Tìm tin nhắn được gửi bởi Micah-bot
 ### Bước 2:
 Đối với phiên bản miễn phí, hãy làm theo [hướng dẫn này](free.md).
+
+::: tip If you already got an active subscription, please click on stack card instead, to merge with your current subscription.
+:::
 
 Nếu như bạn mua key từ reseller, hãy click vào `bind card str` rồi dán key của bạn vào.
 
