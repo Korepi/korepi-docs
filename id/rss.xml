@@ -6,8 +6,8 @@
     <link>https://korepi.com/id/</link>
     <description>Pertolongan Korepi</description>
     <language>id-ID</language>
-    <pubDate>Thu, 15 Feb 2024 18:36:18 GMT</pubDate>
-    <lastBuildDate>Thu, 15 Feb 2024 18:36:18 GMT</lastBuildDate>
+    <pubDate>Fri, 16 Feb 2024 08:52:47 GMT</pubDate>
+    <lastBuildDate>Fri, 16 Feb 2024 08:52:47 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Fitur</category>
@@ -1887,11 +1887,14 @@ Catatan 2: Tidak disarankan untuk digunakan.</p>
       <link>https://korepi.com/id/guide/getkey.html</link>
       <guid>https://korepi.com/id/guide/getkey.html</guid>
       <source url="https://korepi.com/id/rss.xml">Cara Get-Key</source>
-      <description>Tutorial Verifikasi Langkah 1: Temukan channel ★⋅micah-bot-verify⋅★ atau dengan klik di sini (https://discord.com/channels/1069057220802781265/1203687333107335198); img.png Temu...</description>
+      <description>Tutorial Verifikasi Jika Anda memiliki langganan yang sedang aktif, jangan hubungkan dengan kartu lain atau Anda akan kehilangan langganan saat ini. Jika Anda menghubungkan kart...</description>
       <category>Panduan</category>
       <pubDate>Thu, 14 Dec 2023 11:12:15 GMT</pubDate>
       <content:encoded><![CDATA[<h2> Tutorial Verifikasi</h2>
 <p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/dEnSM8gwYdDwbnD/preview"><source src="https://nextcloud.atruicardona.xyz/s/dEnSM8gwYdDwbnD/download" type="video/mp4"></video></p>
+<div class="hint-container danger">
+<p class="hint-container-title">Jika Anda memiliki langganan yang sedang aktif, jangan hubungkan dengan kartu lain atau Anda akan kehilangan langganan saat ini. Jika Anda menghubungkan kartu lain, Anda tidak dapat klaim kompensasi sponsor.</p>
+</div>
 <h3> Langkah 1:</h3>
 <ul>
 <li>
@@ -1904,6 +1907,9 @@ Catatan 2: Tidak disarankan untuk digunakan.</p>
 </ul>
 <h3> Langkah 2:</h3>
 <p>Untuk versi gratis, ikuti <a href="/id/guide/free.html" target="blank">tautan ini</a>.</p>
+<div class="hint-container tip">
+<p class="hint-container-title">Jika Anda sudah memiliki langganan yang sedang aktif, sebaiknya untuk tekan munumpuk kartu, untuk menggabungkan langganan Anda saat ini.</p>
+</div>
 <p>Jika Anda membeli kunci dari reseller, klik <code>bind card str</code> dan tempelkan kunci Anda.</p>
 <div class="hint-container info">
 <p class="hint-container-title">Jika Anda adalah seorang Sponsor sebelum 4 Februari 2024, klik "Kompensasi Sponsor" dan masukkan "YA" untuk menerima 3 bulan waktu kompensasi, setelah berhasil mengklaim "kartu" Anda, ikuti langkah selanjutnya"</p>

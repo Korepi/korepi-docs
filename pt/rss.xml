@@ -6,8 +6,8 @@
     <link>https://korepi.com/pt/</link>
     <description>Ajuda em Korepi</description>
     <language>pt-BR</language>
-    <pubDate>Thu, 15 Feb 2024 18:36:18 GMT</pubDate>
-    <lastBuildDate>Thu, 15 Feb 2024 18:36:18 GMT</lastBuildDate>
+    <pubDate>Fri, 16 Feb 2024 08:52:47 GMT</pubDate>
+    <lastBuildDate>Fri, 16 Feb 2024 08:52:47 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Features</category>
@@ -1868,11 +1868,14 @@ Para usar skins personalizadas no Korepi, você precisará baixar o aplicativo</
       <link>https://korepi.com/pt/guide/getkey.html</link>
       <guid>https://korepi.com/pt/guide/getkey.html</guid>
       <source url="https://korepi.com/pt/rss.xml">Como conseguir a Key</source>
-      <description>Tutorial de verificação Passo 1: Encontre o canal ★⋅micah-bot-verify⋅★ link direto (https://discord.com/channels/1069057220802781265/1203687333107335198); img.png Encontre a men...</description>
+      <description>Tutorial de verificação If you got an active subscription, don&amp;apos;t bind any other card or you will lose your current subscription. If you bind any other card, you wont be able to ...</description>
       <category>Guia</category>
       <pubDate>Wed, 13 Dec 2023 16:37:40 GMT</pubDate>
       <content:encoded><![CDATA[<h2> Tutorial de verificação</h2>
 <p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/Y3ECm4LcH3i9n2d/preview"><source src="https://nextcloud.atruicardona.xyz/s/Y3ECm4LcH3i9n2d/download" type="video/mp4"></video></p>
+<div class="hint-container danger">
+<p class="hint-container-title">If you got an active subscription, don't bind any other card or you will lose your current subscription. If you bind any other card, you wont be able to claim your sponsor compensation.</p>
+</div>
 <h3> Passo 1:</h3>
 <ul>
 <li>
@@ -1885,6 +1888,9 @@ Para usar skins personalizadas no Korepi, você precisará baixar o aplicativo</
 </ul>
 <h3> Passo 2:</h3>
 <p>Para a versão grátis, siga isso <a href="/pt/guide/free.html" target="blank">link</a>.</p>
+<div class="hint-container tip">
+<p class="hint-container-title">If you already got an active subscription, please click on stack card instead, to merge with your current subscription.</p>
+</div>
 <p>Se você comprou a chave por um revendedor, clique em <code>bind card str</code> e cole a sua chave.</p>
 <div class="hint-container info">
 <p class="hint-container-title">Se você era sponsor antes de 24 de fevereiro de 2024, clique em "Sponsor Compensation" e então escreva "YES" para receber os 3 meses de compensação, depois de receber seu "card", siga o próximo passo</p>

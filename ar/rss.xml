@@ -6,8 +6,8 @@
     <link>https://korepi.com/ar/</link>
     <description>للمساعدة Korepi</description>
     <language>ar</language>
-    <pubDate>Thu, 15 Feb 2024 18:36:18 GMT</pubDate>
-    <lastBuildDate>Thu, 15 Feb 2024 18:36:18 GMT</lastBuildDate>
+    <pubDate>Fri, 16 Feb 2024 08:52:47 GMT</pubDate>
+    <lastBuildDate>Fri, 16 Feb 2024 08:52:47 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Features</category>
@@ -712,11 +712,14 @@
       <link>https://korepi.com/ar/guide/getkey.html</link>
       <guid>https://korepi.com/ar/guide/getkey.html</guid>
       <source url="https://korepi.com/ar/rss.xml">كيفية الحصول على المفتاح</source>
-      <description>شرح التحقق الخطوة 1: أعثر على قناة ★⋅micah-bot-verify⋅★ رابط مباشر (https://discord.com/channels/1069057220802781265/1203687333107335198); img.png ابحث عن الرسالة التي أرسلها Mi...</description>
+      <description>شرح التحقق If you got an active subscription, don&amp;apos;t bind any other card or you will lose your current subscription. If you bind any other card, you wont be able to claim your sp...</description>
       <category>Guide</category>
       <pubDate>Fri, 22 Dec 2023 11:31:21 GMT</pubDate>
       <content:encoded><![CDATA[<h2> شرح التحقق</h2>
 <p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/dEnSM8gwYdDwbnD/preview"><source src="https://nextcloud.atruicardona.xyz/s/dEnSM8gwYdDwbnD/download" type="video/mp4"></video></p>
+<div class="hint-container danger">
+<p class="hint-container-title">If you got an active subscription, don't bind any other card or you will lose your current subscription. If you bind any other card, you wont be able to claim your sponsor compensation.</p>
+</div>
 <h3> الخطوة 1:</h3>
 <ul>
 <li>
@@ -729,6 +732,9 @@
 </ul>
 <h3> الخطوة 2:</h3>
 <p>للحصول على نسخة مجانية اتبع هذا <a href="/ar/guide/free.html" target="blank">الرابط</a>.</p>
+<div class="hint-container tip">
+<p class="hint-container-title">If you already got an active subscription, please click on stack card instead, to merge with your current subscription.</p>
+</div>
 <p>إذا قمت بشراء مفتاح من أحد الموزعين، فانقر فوق <code>bind card str</code> والصق المفتاح الخاص بك.</p>
 <div class="hint-container info">
 <p class="hint-container-title">إذا كنت راعيًا قبل 4 فبراير 2024، فانقر فوق "Sponsor Compensation" وأدخل "YES" للحصول على 3 أشهر من وقت التعويض، بعد المطالبة بنجاح ب "بطاقتك" اتبع الخطوة التالية"</p>

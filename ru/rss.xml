@@ -6,8 +6,8 @@
     <link>https://korepi.com/ru/</link>
     <description>Помощь по Korepi</description>
     <language>ru-RU</language>
-    <pubDate>Thu, 15 Feb 2024 18:36:18 GMT</pubDate>
-    <lastBuildDate>Thu, 15 Feb 2024 18:36:18 GMT</lastBuildDate>
+    <pubDate>Fri, 16 Feb 2024 08:52:47 GMT</pubDate>
+    <lastBuildDate>Fri, 16 Feb 2024 08:52:47 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Features</category>
@@ -752,11 +752,14 @@ pass korepi</p>
       <link>https://korepi.com/ru/guide/getkey.html</link>
       <guid>https://korepi.com/ru/guide/getkey.html</guid>
       <source url="https://korepi.com/ru/rss.xml">Как получить ключ</source>
-      <description>Verification Tutorial Step 1: Find the ★⋅micah-bot-verify⋅★ channel direct link (https://discord.com/channels/1069057220802781265/1203687333107335198); img.png Find the message ...</description>
+      <description>Verification Tutorial If you got an active subscription, don&amp;apos;t bind any other card or you will lose your current subscription. If you bind any other card, you wont be able to cl...</description>
       <category>Руководство</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
       <content:encoded><![CDATA[<h2> Verification Tutorial</h2>
 <p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/dEnSM8gwYdDwbnD/preview"><source src="https://nextcloud.atruicardona.xyz/s/dEnSM8gwYdDwbnD/download" type="video/mp4"></video></p>
+<div class="hint-container danger">
+<p class="hint-container-title">If you got an active subscription, don't bind any other card or you will lose your current subscription. If you bind any other card, you wont be able to claim your sponsor compensation.</p>
+</div>
 <h3> Step 1:</h3>
 <ul>
 <li>
@@ -769,6 +772,9 @@ pass korepi</p>
 </ul>
 <h3> Step 2:</h3>
 <p>For free version follow this <a href="/ru/guide/free.html" target="blank">link</a>.</p>
+<div class="hint-container tip">
+<p class="hint-container-title">If you already got an active subscription, please click on stack card instead, to merge with your current subscription.</p>
+</div>
 <p>If you bought a key from a reseller, click on <code>bind card str</code> and paste in your key.</p>
 <div class="hint-container info">
 <p class="hint-container-title">If you are a Sponsor before February 4th, 2024, click "Sponsor Compensation" and enter "YES" to receive 3 months of compensation time, after successfully claiming your "card" follow the next step"</p>

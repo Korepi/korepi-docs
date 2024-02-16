@@ -6,8 +6,8 @@
     <link>https://korepi.com/ko/</link>
     <description>Korepi 도움말</description>
     <language>ko-KR</language>
-    <pubDate>Thu, 15 Feb 2024 18:36:18 GMT</pubDate>
-    <lastBuildDate>Thu, 15 Feb 2024 18:36:18 GMT</lastBuildDate>
+    <pubDate>Fri, 16 Feb 2024 08:52:47 GMT</pubDate>
+    <lastBuildDate>Fri, 16 Feb 2024 08:52:47 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Features</category>
@@ -1898,11 +1898,14 @@ Note 2: You can find the items IDs <a href="https://github.com/jie65535/Grasscut
       <link>https://korepi.com/ko/guide/getkey.html</link>
       <guid>https://korepi.com/ko/guide/getkey.html</guid>
       <source url="https://korepi.com/ko/rss.xml">인증 튜토리얼</source>
-      <description>인증 튜토리얼 1단계: 링크 (https://discord.com/channels/1069057220802781265/1203687333107335198)에서 ★⋅micah-bot-verify⋅★ 채널을 찾습니다. ; img.png Micah-bot이 보낸 메세지를 찾습니다.; 2단계: 무료 버전은 이 링크 (fre...</description>
+      <description>인증 튜토리얼 If you got an active subscription, don&amp;apos;t bind any other card or you will lose your current subscription. If you bind any other card, you wont be able to claim your spons...</description>
       <category>가이드</category>
       <pubDate>Tue, 19 Dec 2023 11:43:03 GMT</pubDate>
       <content:encoded><![CDATA[<h2> 인증 튜토리얼</h2>
 <p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/dEnSM8gwYdDwbnD/preview"><source src="https://nextcloud.atruicardona.xyz/s/dEnSM8gwYdDwbnD/download" type="video/mp4"></video></p>
+<div class="hint-container danger">
+<p class="hint-container-title">If you got an active subscription, don't bind any other card or you will lose your current subscription. If you bind any other card, you wont be able to claim your sponsor compensation.</p>
+</div>
 <h3> 1단계:</h3>
 <ul>
 <li>
@@ -1915,6 +1918,9 @@ Note 2: You can find the items IDs <a href="https://github.com/jie65535/Grasscut
 </ul>
 <h3> 2단계:</h3>
 <p>무료 버전은 이 <a href="/ko/guide/free.html" target="blank">링크</a>를 따르세요.</p>
+<div class="hint-container tip">
+<p class="hint-container-title">If you already got an active subscription, please click on stack card instead, to merge with your current subscription.</p>
+</div>
 <p>리셀러에게서 키를 구매했다면, <code>bind card str</code>을 클릭하고 키를 붙여넣습니다.</p>
 <div class="hint-container info">
 <p class="hint-container-title">2024년 2월 4일 이전에 스폰서였다면, "Sponsor Compensation"를 클릭하고 "YES"를 입력하여 3개월의 보상 기간을 받을 수 있습니다. "card"를 받았다면 다음 단계를 따르세요.</p>

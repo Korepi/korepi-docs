@@ -6,8 +6,8 @@
     <link>https://korepi.com/tr/</link>
     <description>Korepi Yardım Bölümü</description>
     <language>tr</language>
-    <pubDate>Thu, 15 Feb 2024 18:36:18 GMT</pubDate>
-    <lastBuildDate>Thu, 15 Feb 2024 18:36:18 GMT</lastBuildDate>
+    <pubDate>Fri, 16 Feb 2024 08:52:47 GMT</pubDate>
+    <lastBuildDate>Fri, 16 Feb 2024 08:52:47 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Features</category>
@@ -759,11 +759,14 @@
       <link>https://korepi.com/tr/guide/getkey.html</link>
       <guid>https://korepi.com/tr/guide/getkey.html</guid>
       <source url="https://korepi.com/tr/rss.xml">Doğrulama Eğitimi</source>
-      <description>Doğrulama Eğitimi Adım 1: ★⋅micah-bot-verify⋅★ kanalını bulun doğrudan bağlantı (https://discord.com/channels/1069057220802781265/1203687333107335198); img.png Micah-bot tarafın...</description>
+      <description>Doğrulama Eğitimi If you got an active subscription, don&amp;apos;t bind any other card or you will lose your current subscription. If you bind any other card, you wont be able to claim ...</description>
       <category>Kılavuzlar</category>
       <pubDate>Tue, 19 Dec 2023 12:28:02 GMT</pubDate>
       <content:encoded><![CDATA[<h2> Doğrulama Eğitimi</h2>
 <p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/dEnSM8gwYdDwbnD/preview"><source src="https://nextcloud.atruicardona.xyz/s/dEnSM8gwYdDwbnD/download" type="video/mp4"></video></p>
+<div class="hint-container danger">
+<p class="hint-container-title">If you got an active subscription, don't bind any other card or you will lose your current subscription. If you bind any other card, you wont be able to claim your sponsor compensation.</p>
+</div>
 <h3> Adım 1:</h3>
 <ul>
 <li>
@@ -776,6 +779,9 @@
 </ul>
 <h3> Adım 2:</h3>
 <p>Ücretsiz sürüm için bunu takip edin <a href="/tr/guide/free.html" target="blank">link</a>.</p>
+<div class="hint-container tip">
+<p class="hint-container-title">If you already got an active subscription, please click on stack card instead, to merge with your current subscription.</p>
+</div>
 <p>Bir satıcıdan bir anahtar satın aldıysanız, <code>bind card str</code> seçeneğine tıklayın ve anahtarınızı yapıştırın.</p>
 <div class="hint-container info">
 <p class="hint-container-title">Eğer 4 Şubat 2024'ten önce Sponsor olduysanız, "Sponsor Tazminatı"na tıklayın ve 3 aylık tazminat süresi almak için "EVET" girin, "kartınızı" başarıyla talep ettikten sonra bir sonraki adımı izleyin"</p>
