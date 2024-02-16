@@ -14,7 +14,7 @@ order: 1
 
 <video controls preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/dEnSM8gwYdDwbnD/preview"><source src="https://nextcloud.atruicardona.xyz/s/dEnSM8gwYdDwbnD/download" type="video/mp4"></video>
 
-::: danger If you got an active subscription, don't bind any other card or you will lose your current subscription. If you bind any other card, you wont be able to claim your sponsor compensation.
+::: danger Nếu như bạn đang có sẵn một gói đăng ký (subscription), đừng gắn (bind) bất kỳ card nào khác nếu không bạn sẽ mất gói đăng ký hiện tại. Đồng thời nếu bạn chọn bind bất kỳ card nào khác, bạn cũng sẽ không thể nhận đền bù 3 tháng miễn phí dành cho Nhà Tài Trợ.
 :::
 
 ### Bước 1:
@@ -25,10 +25,10 @@ order: 1
 ### Bước 2:
 Đối với phiên bản miễn phí, hãy làm theo [hướng dẫn này](free.md).
 
-::: tip If you already got an active subscription, please click on stack card instead, to merge with your current subscription.
+::: tip Để cộng dồn thời hạn sử dụng vào gói đăng ký hiện tại, hãy nhấn vào `stack card (subscription time)`.
 :::
 
-Nếu như bạn mua key từ reseller, hãy click vào `bind card str` rồi dán key của bạn vào.
+Nếu như bạn mua key từ seller, hãy click vào `bind card str` rồi dán key của bạn vào.
 
 ::: info Nếu như bạn là Nhà Tài Trợ (Sponsor) trước ngày 4 tháng 2 năm 2024, hãy click vào "Sponsor Compensation" rồi nhập "YES" để nhận 3 tháng đền bù. Sau khi nhận "card" thành công, hãy làm bước tiếp theo
 :::
