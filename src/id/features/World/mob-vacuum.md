@@ -5,14 +5,16 @@ category:
   - Fitur
 tag:
   - Mob Vacuum
-author: Schvis, Natsume, Chloe
+author: Schvis, Natsume, Chloe, RodanZ
 order: 13
 ---
-
+::: info Hanya Untuk PERTAMAX!
+:::
+---
 ## Mob Vacuum manarik makhluk hidup yang dekat ke pemain dengan kecepatan dan jarak jangkau yang dipilih, makhluk hidup yang akan terpengaruh dapat disesuaikan.
 
 ## Video contoh:
 
-<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/KNzVgG_V10I?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Mob Vacuum" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
+<video controls preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/fpQcNirHFpYreRy/preview"><source src="https://nextcloud.atruicardona.xyz/s/fpQcNirHFpYreRy/download" type="video/mp4"></video>
 
 > Catatan: Disarankan di bawah `20m`.

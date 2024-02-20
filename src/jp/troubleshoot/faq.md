@@ -13,7 +13,7 @@ order: 1
 
 ### Korepiは無料ですか？
 
-はい、無料です。初めて使用する場合7日間の[サインイン](../start/sign-in.md)が必要です。[スポンサー](../start/sponsor.md), になることでこれをスキップすることができます。
+Yes, Korepi has a free version which you can use easily following this [guide](../guide/free.md).
 
 ---
 ### .rar/.zipのパスワードは何ですか？

@@ -13,7 +13,7 @@ order: 1
 
 ### Korepi có miễn phí không?
 
-Chính xác, Korepi có thể sử dụng miễn phí. Để có thể sử dụng, bạn cần thực hiện [Điểm Danh](../start/sign-in.md) trong 7 ngày. Bạn có thể bỏ qua quá trình điểm danh này thông qua [Tài Trợ](../start/sponsor.md). Sau đó bạn có thể tiến hành lấy key để sử dụng Korepi liên tục.
+Yes, Korepi has a free version which you can use easily following this [guide](../guide/free.md).
 
 ---
 ### Mật khẩu giải nén file .rar/.zip là gì?
@@ -42,7 +42,6 @@ Mở mục `Tuỳ Chỉnh Chủ Đề` để bắt đầu tạo chủ đề riê
 ### Tại sao chuỗi điểm danh của tôi bị reset?
 
 Có vẻ như bạn đã bỏ lỡ lượt điểm danh của một ngày nào đó. Lượt điểm danh được làm mới mỗi ngày. Nếu như bạn bỏ lỡ 1 ngày thì chuỗi điểm danh sẽ bị reset hoàn toàn.
-Most likely you surpassed the reset time, it resets daily, if you skip 1 day it will reset entirely
 
 ::: info Thời gian làm mới lượt điểm danh vào GMT/UTC+8 00:00 mỗi ngày. Vui lòng tự chuyển đổi sang múi giờ địa phương.
 :::

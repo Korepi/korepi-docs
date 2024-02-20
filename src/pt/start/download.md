@@ -11,25 +11,24 @@ author:
 order: 7
 ---
 
-# Baixar
+# Download
 
-## Introdução
+<video controls preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/c3EGqsxpMEzraZM/preview"><source src="https://nextcloud.atruicardona.xyz/s/c3EGqsxpMEzraZM/download" type="video/mp4"></video>
 
-Bem-vindo à nossa comunidade! Para passar pela verificação do bot e receber o cargo `Newcomer`, segue os seguintes passos.
+## Introduction
 
-### Passo 1: Junte-se ao nosso servidor e obtenha os cargos de `Newcomer` e `Fans`
+Welcome to our community! To pass the bot check and receive the `Newcomer` role, follow these steps.
 
-Se ainda não se juntou ao servidor, por favor, leia a publicação de verificação, que explica como ingressar no servidor e obter as funções de `Newcomer` e `Fans`.
+### Step 1: Join our server and obtain the `Newcomer` role
 
-### Passo 2: Vá para o canal `★⋅korepi-version-roles⋅★`
+If you haven't joined the server yet, please read the verification post, which describes how to join the server and obtain the `Newcomer`.
 
-Localize o canal `★⋅korepi-version-roles⋅★` e escolha a função correspondente à versão F ou V. Recomendamos escolher a função F.
+### Step 2: Go to the channel `★⋅korepi-download⋅★`
 
-### Passo 3: Baixe os recursos necessários
+Locate the channel `★⋅korepi-download⋅★` and follow the link to download the program.
 
-Após fazer isso, você terá acesso ao canal de download, dependendo da função escolhida, `★⋅f-download⋅★` ou `★⋅v-download⋅★`.
+### Step 3: Ready!
 
-### Paso 4: Pronto!
+Place the .rar in a folder and add it to [exclusions](../guide/virus.md), after that extract it and follow this [guide](../guide/getkey.md)
 
-No canal, você encontrará um link para a versão atual e a senha do arquivo. Boa sorte!
 

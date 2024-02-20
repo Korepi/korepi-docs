@@ -10,46 +10,51 @@ author: Schvis
 order: 1
 ---
 
-## ネットワーク(F)版のキー取得方法
+## 認証チュートリアル
 
-<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/-9bXOMH0-WM" title="Korepi - How to get V key" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
+<video controls preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/dEnSM8gwYdDwbnD/preview"><source src="https://nextcloud.atruicardona.xyz/s/dEnSM8gwYdDwbnD/download" type="video/mp4"></video>
 
-### ステップ 1: F 認証ロールを取得する
+::: danger If you got an active subscription, don't bind any other card or you will lose your current subscription. If you bind any other card, you wont be able to claim your sponsor compensation.
+:::
 
- `★⋅korepi-version-roles⋅★` チャンネルに移動し、 `F Auth` をクリックして、ロールを取得します。
+### ステップ 1:
+- `★⋅micah-bot-verify⋅★`チャンネルを見つける [リンク](https://discord.com/channels/1069057220802781265/1203687333107335198)
 
-`Note: ロールを取得したかどうかを確認し、取得していない場合は、もう一度F Authをクリックします。`
+  ![img.png](/assets/images/docs/202402/verify-1.png)
+- Micah-botが送信したメッセージを見つける
+### ステップ 2:
+無料版はこの[リンク](free.md)から。
 
-### ステップ 2: キーを取得する
+::: tip If you already got an active subscription, please click on stack card instead, to merge with your current subscription.
+:::
 
-`⁠★⋅micah-bot-verify⋅★` へ進み `F:Getkey`をクリックすると、botはキーを含む情報を送信しますので、それをコピーします。
+再販業者からキーを購入した場合は、`bind card str` をクリックし、キーを貼り付けます。
 
-### ステップ 3: キーを使用する
+::: info 2024年2月4日以前にスポンサーになった方は、「Sponsor Compensation」をクリックし、「YES」と入力してください。
+:::
+### ステップ 3:
+::: info すでにenc.jsonをお持ちの場合は、プログラムを開く前に削除してください。
+:::
+`Get Verification File`をクリックし、プログラムを開いた後に取得できる`HWID (デバイスID)`をペーストする。
+- botからファイルが送られてくるので、それをダウンロードしてkorepiフォルダに置いてください。ファイル名が`enc.json`であることを確認してください。
 
-Korepi を開き、キーの入力を求められたら、キーを貼り付けて Enter キーを押し、インジェクターによって示された手順を完了すれば準備完了です。
+また、`View Subscription Information`をクリックすると、サブスク情報を見ることができます。
 
-Koprepiを楽しんで!
+## キーを一時停止する方法
 
-## ローカル(V)版のキー取得方法
+`Pause Card`をクリックし、`YES`と入力すれば一時停止します。いつでも一時停止を解除することができます。
 
-<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/OTCSboZdexc" title="Korepi - How to get V key" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
+::: info キーを一時停止できるのは30日に1度だけです。
+:::
 
-### ステップ 1: V 認証ロールを取得する
+## HWID（デバイスID）の変更方法
 
-`★⋅korepi-version-roles⋅★` チャンネルに移動し、 `V Auth` をクリックして、ロールを取得します。
+`ID(Change HWID)`をクリックし、プログラムを開いて新しく得た`HWID` を貼り付け、新しいファイルをダウンロードしてKorepiフォルダに置く
 
-`Note: ロールを取得したかどうかを確認し、取得していない場合は再度V Authをクリックします。`
+::: info HWIDのリセットは7日間に1回のみ可能です。
+:::
 
-### ステップ 2:  `HWID`を入手します。
+## MD5認証の問題
+`enc.json`ファイルを再度取得するたびに、以前の`enc.json`ファイルは無効になります。
 
-`HWID`を取得するには、`Local(V) Injector`を一度開き、クリップボードにコピーする必要があります。
-
-### ステップ 3:  `enc.json`を入手する
-
- `⁠★⋅micah-bot-verify⋅★` へ進み `V:Verify`をクリックするとあなたの`HWID`を聞いてくるのでペーストし `Submit`をクリックして、botから送られてきたファイルをダウンロードする。
-
-### ステップ 4: Korepiファイルに置く
-
-`enc.json` ファイルを取得したら、それをKorepiフォルダーに置きます。ファイル名はenc.jsonでなければならないことに注意して、Korepiを開いてください：
-
-Korepiを楽しんで!
+新しいファイルがまだ無効な場合は、再度ファイルを入手してください。それでもうまくいかない場合は、しばらく待ってから再度お試しください。

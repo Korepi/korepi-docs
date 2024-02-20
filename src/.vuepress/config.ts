@@ -40,6 +40,11 @@ export default defineUserConfig({
             title: "Korepi",
             description: "Ayuda en Korepi"
         },
+        "/mm/": {
+            lang: "my-MM",
+            title: "Korepi",
+            description: "Korepi တွင်ကူညီပါ။"
+        },
         "/vi/": {
             lang: "vi-VN",
             title: "Korepi",
@@ -65,6 +70,11 @@ export default defineUserConfig({
             lang: "ja-JP",
             title: "Korepi",
             description: "Korepiに関するヘルプ",
+        },
+        "/tr/": {
+            lang: "tr",
+            title: "Korepi",
+            description: "Korepi Yardım Bölümü",
         },
     },
     plugins: [
@@ -319,6 +329,47 @@ export default defineUserConfig({
                         },
                     },
                 },
+                "/mm/": {
+                    placeholder: "Search",
+                    translations: {
+                        button: {
+                            buttonText: "Search",
+                            buttonAriaLabel: "Search",
+                        },
+                        modal: {
+                            searchBox: {
+                                resetButtonTitle: "Clear Search Criteria",
+                                resetButtonAriaLabel: "Clear Search Criteria",
+                                cancelButtonText: "Back",
+                                cancelButtonAriaLabel: "Back",
+                            },
+                            startScreen: {
+                                recentSearchesTitle: "Search History",
+                                noRecentSearchesText: "No search history",
+                                saveRecentSearchButtonTitle: "Save to Search History",
+                                removeRecentSearchButtonTitle: "Remove from Search History",
+                                favoriteSearchesTitle: "Favorites",
+                                removeFavoriteSearchButtonTitle: "Remove from Favorites",
+                            },
+                            errorScreen: {
+                                titleText: "Failed to Retrieve Results",
+                                helpText: "Check your internet connection and the requested resource.",
+                            },
+                            footer: {
+                                selectText: "Select",
+                                navigateText: "Toggle",
+                                closeText: "Close",
+                                searchByText: "We use search",
+                            },
+                            noResultsScreen: {
+                                noResultsText: "Couldn't find anything for your query:",
+                                suggestedQueryText: "You can try a different query",
+                                reportMissingResultsText: "Do you think this query should yield some results :> ?",
+                                reportMissingResultsLinkText: "Contact us",
+                            },
+                        },
+                    },
+                },
                 "/pt/": {
                     placeholder: "Buscar",
                     translations: {
@@ -401,6 +452,47 @@ export default defineUserConfig({
                         },
                     },
                 },
+                "/vi/": {
+                    placeholder: "Tìm Kiếm",
+                    translations: {
+                        button: {
+                            buttonText: "Tìm Kiếm",
+                            buttonAriaLabel: "Tìm Kiếm",
+                        },
+                        modal: {
+                            searchBox: {
+                                resetButtonTitle: "Xoá Tiêu Chí Tìm Kiếm",
+                                resetButtonAriaLabel: "Xoá Tiêu Chí Tìm Kiếm",
+                                cancelButtonText: "Quay Lại",
+                                cancelButtonAriaLabel: "Quay Lại",
+                            },
+                            startScreen: {
+                                recentSearchesTitle: "Lịch Sử Tìm Kiếm",
+                                noRecentSearchesText: "Không có lịch sử tìm kiếm",
+                                saveRecentSearchButtonTitle: "Lưu vào Lịch Sử Tìm Kiếm",
+                                removeRecentSearchButtonTitle: "Xoá khỏi Lịch Sử Tìm Kiếm",
+                                favoriteSearchesTitle: "Mục Yêu Thích",
+                                removeFavoriteSearchButtonTitle: "Xoá khỏi Mục Yêu Thích",
+                            },
+                            errorScreen: {
+                                titleText: "Lấy Kết Quả Thất Bại",
+                                helpText: "Hãy kiểm tra kết nối mạng của bạn và tài nguyên được yêu cầu.",
+                            },
+                            footer: {
+                                selectText: "Lựa Chọn",
+                                navigateText: "Chuyển Đổi",
+                                closeText: "Đóng",
+                                searchByText: "Sử dụng tìm kiếm",
+                            },
+                            noResultsScreen: {
+                                noResultsText: "Chẳng tìm thấy gì cả:",
+                                suggestedQueryText: "Bạn có thể thử tìm kiếm một thứ khác",
+                                reportMissingResultsText: "Bạn có nghĩ rằng cuộc tìm kiếm này nên trả về vài kết quả :> ?",
+                                reportMissingResultsLinkText: "Liên hệ chúng tôi",
+                            },
+                        },
+                    },
+                },
                 "/jp/": {
                     placeholder: "検索",
                     translations: {
@@ -442,6 +534,88 @@ export default defineUserConfig({
                         },
                     },
                 },
+                "/tr/": {
+                    placeholder: "Ara",
+                    translations: {
+                        button: {
+                            buttonText: "Ara",
+                            buttonAriaLabel: "Ara",
+                        },
+                        modal: {
+                            searchBox: {
+                                resetButtonTitle: "Arama Kriterlerini Temizle",
+                                resetButtonAriaLabel: "Arama Kriterlerini Temizle",
+                                cancelButtonText: "Geri",
+                                cancelButtonAriaLabel: "Geri",
+                            },
+                            startScreen: {
+                                recentSearchesTitle: "Arama Geçmişi",
+                                noRecentSearchesText: "Arama Geçmişi Boş",
+                                saveRecentSearchButtonTitle: "Arama Geçmişine Kaydet",
+                                removeRecentSearchButtonTitle: "Arama Geçmişinden Çıkar",
+                                favoriteSearchesTitle: "Sık Kullanınlar",
+                                removeFavoriteSearchButtonTitle: "Sık Kullanılanlardan Kaldır",
+                            },
+                            errorScreen: {
+                                titleText: "Hata! Sonuçlar Alınamıdı.",
+                                helpText: "İnternet Bağlantınızı ve İstenen Kaynağı Kontrol Edin.",
+                            },
+                            footer: {
+                                selectText: "Seç",
+                                navigateText: "Değiştir",
+                                closeText: "Kapat",
+                                searchByText: "Arama kullanıyoruz :D",
+                            },
+                            noResultsScreen: {
+                                noResultsText: "Sorgunuz için bir şey bulamadım:",
+                                suggestedQueryText: "Farklı bir sorgu deneyebilirsiniz",
+                                reportMissingResultsText: "Bu sorgunun bazı sonuçlar vermesi gerektiğini düşünüyor musunuz :D ?",
+                                reportMissingResultsLinkText: "Bizimle İletişime Geçin",
+                            },
+                        },
+                    },
+                },
+                "/ko/": {
+                    placeholder: "검색",
+                    translations: {
+                        button: {
+                            buttonText: "검색",
+                            buttonAriaLabel: "검색",
+                        },
+                        modal: {
+                            searchBox: {
+                                resetButtonTitle: "검색 조건 초기화",
+                                resetButtonAriaLabel: "검색 조건 초기화",
+                                cancelButtonText: "취소",
+                                cancelButtonAriaLabel: "취소",
+                            },
+                            startScreen: {
+                                recentSearchesTitle: "검색 기록",
+                                noRecentSearchesText: "검색 기록 없음",
+                                saveRecentSearchButtonTitle: "검색 기록에 저장",
+                                removeRecentSearchButtonTitle: "검색 기록에서 제거",
+                                favoriteSearchesTitle: "즐겨찾기",
+                                removeFavoriteSearchButtonTitle: "즐겨찾기에서 제거",
+                            },
+                            errorScreen: {
+                                titleText: "결과 검색에 실패했습니다.",
+                                helpText: "인터넷 연결과 요청된 리소스를 확인하세요.",
+                            },
+                            footer: {
+                                selectText: "선택",
+                                navigateText: "토글",
+                                closeText: "닫기",
+                                searchByText: "검색:",
+                            },
+                            noResultsScreen: {
+                                noResultsText: "검색어에 대한 항목을 찾을 수 없습니다.",
+                                suggestedQueryText: "다른 검색어로 시도하세요.",
+                                reportMissingResultsText: "이 검색어에 결과가 나와야 된다고 생각하시나요?",
+                                reportMissingResultsLinkText: "문의하기",
+                            },
+                        },
+                    },
+                },
             },
         }),
         redirectPlugin({
@@ -458,6 +632,7 @@ export default defineUserConfig({
                 "/vi/": ["vi-VN", "vi"],
                 "/pt/": ["pt-PT", "pt-BR", "pt"],
                 "/ko/": ["ko", "ko-KR"],
+                "/tr/": ["tr", "tr-TR"],
                 "/jp/": ["ja-JP","jp-JP", "jp"],
                 "/ar/": ["ar", "ar-MA", "ar-SA", "ar-PS", "ar-DZ", "ar-BH", "ar-TD", "ar-KM", "ar-JO", "ar-EG", "ar-IQ", "ar-KW", "ar-LB", "ar-LY", "ar-MR", "ar-OM", "ar-QA", "ar-SO", "ar-SD", "ar-SY", "ar-TN", "ar-AE", "ar-YE",],
             },

@@ -118,3 +118,18 @@ Ulang nyalakan komputer, ulang nyalakan router.
 
 Jika tidak berhasil, coba menggunakan VPN.
 
+### Current data does not exist or server error.
+
+![](/assets/images/docs/202312/error.png)
+
+Unpause lisensi kamu dan coba lagi.
+
+### Cannot verify current timestamp.
+
+![](/assets/images/docs/202402/timestamp.png)
+
+Kasus 1:
+- Kamu bisa mendapatkan error ini ketika menggunakan VPN, tolong matikan dan coba lagi.
+
+Kasus 2:
+- Cek waktu jam PC kamu sudah diatur sinkron otomatis.

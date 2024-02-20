@@ -1,6 +1,6 @@
 import { hopeTheme } from "vuepress-theme-hope";
-import { enNavbar, zhNavbar, ruNavbar, idNavbar, esNavbar, mxNavbar, viNavbar, ptNavbar, arNavbar, jpNavbar } from "./navbar/index.js";
-import { enSidebar, zhSidebar, ruSidebar, idSidebar, esSidebar, mxSidebar, viSidebar, ptSidebar, arSidebar, jpSidebar } from "./sidebar/index.js";
+import { enNavbar, zhNavbar, ruNavbar, idNavbar, esNavbar, mxNavbar, mmNavbar, viNavbar, ptNavbar, arNavbar, jpNavbar, trNavbar, koNavbar } from "./navbar/index.js";
+import { enSidebar, zhSidebar, ruSidebar, idSidebar, esSidebar, mxSidebar, mmSidebar, viSidebar, ptSidebar, arSidebar, jpSidebar, trSidebar, koSidebar } from "./sidebar/index.js";
 
 
 export default hopeTheme({
@@ -88,6 +88,19 @@ export default hopeTheme({
                 editLink: "Edita esta pagina en GitHub",
             },
         },
+        "/mm/": {
+            navbar: mmNavbar,
+            sidebar: mmSidebar,
+            footer:
+                "Genshin Impact ရှိ ကစားသမားများအတွက် အကောင်းဆုံး gaming အတွေ့အကြုံကို ပေးသည်။",
+            displayFooter: true,
+            navbarLocales: {
+                langName: "Burmese",
+            },
+            metaLocales: {
+                editLink: "GitHub တွင် ဤစာမျက်နှာကို တည်းဖြတ်ပါ။",
+            },
+        },
         "/vi/": {
             navbar: viNavbar,
             sidebar: viSidebar,
@@ -137,6 +150,30 @@ export default hopeTheme({
                 editLink: "GitHubでこのページを編集する",
             },
         },
+        "/tr/": {
+            navbar: trNavbar,
+            sidebar: trSidebar,
+            footer:
+                "Genshin Impact PC oyuncuları için en iyi oyun deneyimini sağlar.",
+
+            displayFooter: true,
+
+            metaLocales: {
+                editLink: "GitHub'da bu sayfayı düzenleyin",
+            },
+        },
+        "/ko/": {
+            navbar: koNavbar,
+            sidebar: koSidebar,
+            footer:
+                "원신 PC 플레이어에게 최고의 게임 경험 제공.",
+
+            displayFooter: true,
+
+            metaLocales: {
+                editLink: "Github에서 수정",
+            },
+        },
     },
 
     plugins: {
@@ -162,7 +199,7 @@ export default hopeTheme({
                     },
                     {
                         path: "/ko/",
-                        title: "당신의 능력을 기여하세요.",
+                        title: "당신의 능력으로 기여하세요.",
                         content:
                             "당신이 <b>웹 프론트엔드 개발</b>과 <b>문서 관리</b>에 대한 경험이 있고, 이 문서 프로젝트에 기여하고 싶다면, 당신이 <a href='https://github.com/Korepi/korepi-docs'>우리 문서를 작성</a>하는 것을 환영합니다.",
                         fullscreen: false,
@@ -193,6 +230,14 @@ export default hopeTheme({
                         showOnce: false,
                     },
                     {
+                        path: "/mm/",
+                        title: "Contribute Your Skills",
+                        content:
+                            "If you have experience in <b>web front-end development</b> and <b>document management</b>, and would like to apply it to this documentation project, you are welcome to <a href='https://github.com/Korepi/korepi-docs'>join us in writing the documentation</a>",
+                        fullscreen: false,
+                        showOnce: false,
+                    },
+                    {
                         path: "/id/",
                         title: "Contribute Your Skills",
                         content:
@@ -210,9 +255,9 @@ export default hopeTheme({
                     },
                     {
                         path: "/vi/",
-                        title: "Contribute Your Skills",
+                        title: "Đóng Góp Kỹ Năng Của Bạn",
                         content:
-                            "If you have experience in <b>web front-end development</b> and <b>document management</b>, and would like to apply it to this documentation project, you are welcome to <a href='https://github.com/Korepi/korepi-docs'>join us in writing the documentation</a>",
+                            "Nếu như bạn có kinh nghiệm về <b>phát triển web front-end</b> cùng với <b>quản lý tài liệu</b>, và mong muốn tham gia dự án tài liệu này, bạn luôn được chào đón <a href='https://github.com/Korepi/korepi-docs'>tham gia viết tài liệu</a>",
                         fullscreen: false,
                         showOnce: false,
                     },
@@ -229,6 +274,14 @@ export default hopeTheme({
                         title: "あなたのスキルを提供しよう",
                         content:
                             "<b>ウェブフロントエンド開発</b> と <b>ドキュメント管理</b>の経験をお持ちの方で、このドキュメンテーション・プロジェクトにそれを活かしたい方は、 <a href='https://github.com/Korepi/korepi-docs'>ぜひ私たちと一緒に活動してください</a>",
+                        fullscreen: false,
+                        showOnce: false,
+                    },
+                    {
+                        path: "/tr/",
+                        title: "Yeteneklerinizle Katkıda Bulunun",
+                        content:
+                            "Eğer şu alanlarda deneyiminiz varsa <b>WEB FRONT-END Geliştirme</b> Ve <b>Belge Yönetimi</b>, ve bu dokümantasyon projesine uygulamak istiyorsanız, aşağıdaki adrese başvurabilirsiniz <a href='https://github.com/Korepi/korepi-docs'>dokümantasyon yazımında bize katılın</a>",
                         fullscreen: false,
                         showOnce: false,
                     },

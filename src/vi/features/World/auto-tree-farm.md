@@ -2,19 +2,19 @@
 title: Tự Động Đốn Gỗ
 icon: tree
 category:
-  - Các Tính Năng
+  - Tính Năng
 tag:
   - Tự Động Đốn Gỗ
 author: Schvis, Chloe
 order: 9
 ---
-::: info Chức Năng Chỉ Dành Cho Nhà Tài Trợ
+::: info Chỉ có ở phiên bản PERTAMAX
 :::
 ---
 ### Tự Động Đốn Gỗ cho phép bạn đốn các cây xung quanh trong phạm vi và độ trễ nhất định để lấy gỗ.
 
 ## Video Minh Hoạ:
 
-<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/v95_NOxc4do?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Tree Farm" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
+<video controls preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/2fctdnkH4q98yNo/preview"><source src="https://nextcloud.atruicardona.xyz/s/2fctdnkH4q98yNo/download" type="video/mp4"></video>
 
 > Note: Not recommended to change default values.

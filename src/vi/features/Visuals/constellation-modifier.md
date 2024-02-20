@@ -2,13 +2,13 @@
 title: Tuỳ Chỉnh Cung Mệnh
 icon: retweet
 category:
-  - Các Tính Năng
+  - Tính Năng
 tag:
   - Tuỳ Chỉnh Cung Mệnh
 author: Schvis
 order: 3
 ---
-::: info Chức Năng Chỉ Dành Cho Nhà Tài Trợ
+::: info Chỉ có ở phiên bản PERTAMAX
 :::
 ---
 ## Tuỳ Chỉnh Cung Mệnh sẽ sửa đổi cung mệnh của nhân vật hiện tại khi được bật. Một số chỉ mang tính hình thức còn số một khác sẽ hoạt động được như cung mệnh thực sự.
@@ -19,4 +19,4 @@ order: 3
 ---
 ## Video Minh Hoạ:
 
-<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/S9-g5weE9l8?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Constellation Modifier (Sponsor)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
+<video controls preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/kzizWdRXjmnDL8G/preview"><source src="https://nextcloud.atruicardona.xyz/s/kzizWdRXjmnDL8G/download" type="video/mp4"></video>

@@ -5,14 +5,14 @@ category:
   - Fitur
 tag:
   - Bunny Hop
-author: Schvis, Natsume
+author: Schvis, Natsume, RodanZ
 order: 3
 ---
 ::: info Hanya Untuk Sponsor!
 :::
 ---
-## Bunny Hop akan melompat secara otomatis setelah lompatan pertama ketika diaktifkan.
+## Bunny Hop akan melompat secara otomatis setelah lompatan pertama diaktifkan.
 
 ## Video Contoh:
 
-<div class="iframe-container"><iframe width="640" height="369" src="https://www.youtube.com/embed/Gh2GX23E6dw?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Bunnyhop (Sponsor)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
+<video controls preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/5NYq9Rcf7852oJD/preview"><source src="https://nextcloud.atruicardona.xyz/s/5NYq9Rcf7852oJD/download" type="video/mp4"></video>

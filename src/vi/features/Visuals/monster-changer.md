@@ -2,7 +2,7 @@
 title: Thay Đổi Quái
 icon: arrows-rotate
 category:
-  - Các Tính Năng
+  - Tính Năng
 tag:
   - Thay Đổi Quái
 author: Schvis

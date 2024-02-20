@@ -140,3 +140,22 @@ Si se encontraron errores y Windows no lo puede solucionar, una `DISM.exe /Onlin
 Después de eso reiniciar tu ordenador y comprueba si funciona.
 
 Si no funciona, tendrás que reinstalar windows.
+
+### Current data does not exist or server error.
+
+![](/assets/images/docs/202312/error.png)
+
+Quita la pausa de tu licencia e inténtalo de nuevo.
+
+### Cannot verify current timestamp.
+
+![](/assets/images/docs/202402/timestamp.png)
+
+Caso 1:
+- Si estas usando una VPN, desactivado e inténtalo de nuevo.
+
+Caso 2:
+- Comprueba que tienes el tiempo del ordenador puesto en sincronización automática.
+
+::: info Si eres de Iran puede que tengas que usar una VPN para que funcione.
+:::

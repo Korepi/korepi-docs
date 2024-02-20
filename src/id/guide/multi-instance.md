@@ -11,7 +11,7 @@ order: 2
 ---
 
 ## Cara Melakukan Multi-Instance (Membuka 2 Jendela Game Secara Bersamaan)
-::: info Hanya untuk Local(V)
+::: info Hanya untuk Calculator ( Autentikasi local )
 :::
 ---
-<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/pSAxKoneT64" title="Multi-Instance V (Updated)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
+<video controls preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/a3K6SK5bHyxfmZw/preview"><source src="https://nextcloud.atruicardona.xyz/s/a3K6SK5bHyxfmZw/download" type="video/mp4"></video>

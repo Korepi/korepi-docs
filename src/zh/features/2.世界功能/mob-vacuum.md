@@ -6,7 +6,7 @@ category:
 tag:
   - 生物吸附
 author: Double
-order: 13
+order: 14
 ---
 
 ## 生物吸附：可以选择怪物或者动物，吸附到角色前面。

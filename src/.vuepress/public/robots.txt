@@ -10,6 +10,7 @@ Allow: /zh/rss.xml
 Allow: /id/rss.xml
 Allow: /es/rss.xml
 Allow: /mx/rss.xml
+Allow: /mm/rss.xml
 Allow: /vi/rss.xml
 Allow: /pt/rss.xml
 Allow: /ar/rss.xml

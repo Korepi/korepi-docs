@@ -1,55 +1,63 @@
 ---
-title: How to get key
+title: Hướng Dẫn Lấy Key
 icon: key
 category:
-  - Guide
+  - Hướng Dẫn
 tag:
-  - Start
-  - License
+  - Bắt Đầu
+  - Giấy Phép
 author: Schvis
 order: 1
 ---
 
-## How to get key for Network(F)
+## Hướng Dẫn Xác Thực Key
 
-<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/-9bXOMH0-WM" title="Korepi - How to get V key" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
+<video controls preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/dEnSM8gwYdDwbnD/preview"><source src="https://nextcloud.atruicardona.xyz/s/dEnSM8gwYdDwbnD/download" type="video/mp4"></video>
 
-### Step 1: Get F Auth role
+::: danger Nếu như bạn đang có sẵn một gói đăng ký (subscription), đừng gắn (bind) bất kỳ card nào khác nếu không bạn sẽ mất gói đăng ký hiện tại. Đồng thời nếu bạn chọn bind bất kỳ card nào khác, bạn cũng sẽ không thể nhận đền bù 3 tháng miễn phí dành cho Nhà Tài Trợ.
+:::
 
-Head to `★⋅korepi-version-roles⋅★` on the server and click on `F Auth` to get the role.
+### Bước 1:
+- Đi tới kênh `★⋅micah-bot-verify⋅★` ở server Discord: [Link trực tiếp](https://discord.com/channels/1069057220802781265/1203687333107335198)
 
-`Note: Check if you got the role, if you didn't click on F Auth again`
+  ![img.png](/assets/images/docs/202402/verify-1.png)
+- Tìm tin nhắn được gửi bởi Micah-bot
+### Bước 2:
+Đối với phiên bản miễn phí, hãy làm theo [hướng dẫn này](free.md).
 
-### Step 2: Get your key
+::: tip Để cộng dồn thời hạn sử dụng vào gói đăng ký hiện tại, hãy nhấn vào `stack card (subscription time)`.
+:::
 
-Head to `⁠★⋅micah-bot-verify⋅★` and click on `F:Getkey`, the bot will reply with some information including the key, copy it.
+Nếu như bạn mua key từ seller, hãy click vào `bind card str` rồi dán key của bạn vào.
 
-### Step 3: Use your key
+::: info Nếu như bạn là Nhà Tài Trợ (Sponsor) trước ngày 4 tháng 2 năm 2024, hãy click vào "Sponsor Compensation" rồi nhập "YES" để nhận 3 tháng đền bù. Sau khi nhận "card" thành công, hãy làm bước tiếp theo
+:::
+=======
+### Bước 3:
+::: info Nếu trong thư mục chứa Korepi đã tồn tại một file enc.json, hãy xoá nó trước khi mở Korepi
+:::
+Click vào `Get Verification File`, sau đó điền `HWID (device ID)` mà bạn nhận được khi mở Korepi.
+- Bạn sẽ nhận được một file từ bot. Tải nó về rồi đặt vào trong thư mục chứa Korepi. Hãy đảm bảo rằng tên của file phải là `enc.json`.
 
-Open Korepi, when it asks for your key, paste it and press enter, complete the steps mentioned by the injector and you should be good to go.
 
-Enjoy Koprepi!
+Bạn cũng có thể click vào `View Subscription Information` để xem thông tin key hiện tại đang sử dụng.
 
-## How to get key for Local(V)
+## Hướng Dẫn Tạm Dừng Key
 
-<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/OTCSboZdexc" title="Korepi - How to get V key" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
+Click vào `Pause Card` và nhập `YES` để tạm dừng thời hạn của key. Bạn có thể ngưng tạm dừng key (unpause) bất cứ khi nào bạn muốn.
 
-### Step 1: Get V Auth role
+::: info Bạn chỉ có thể tạm dừng key một lần mỗi 30 ngày.
+:::
 
-Head to `★⋅korepi-version-roles⋅★` on the server and click on `V Auth` to get the role.
+## Hướng Dẫn Đổi HWID (Device ID)
 
-`Note: Check if you got the role, if you didn't click on V Auth again`
+=======
+Click vào `ID(Change HWID)` rồi sau đó nhập `HWID` mới mà bạn nhận được từ Korepi vào. Tiếp đó hãy tải file và đặt nó vào thư mục chứa Korepi.
 
-### Step 2: Get your `HWID`
+::: info Bạn chỉ có thể reset HWID một lần mỗi 7 ngày.
+:::
 
-To get your `HWID` you will need to open `Local(V) Injector` once, and it will copy it to your clipboard
+## Vấn Đề Về Xác Thực MD5
+Mỗi khi bạn nhận file `enc.json` mới thì file `enc.json` bạn nhận trước đó sẽ không còn sử dụng được nữa.
 
-### Step 3: Get your `enc.json`
-
-Head to `⁠★⋅micah-bot-verify⋅★` and click on `V:Verify`, a pop up will ask you for your `HWID` paste and click `Submit`, and download the file sent by the bot
-
-### Step 4: Place your file with Korepi
-
-After getting the file, place it on your Korepi folder, keep in mind that the file should be name `enc.json` in order to work, open Korepi and then:
-
-Enjoy Korepi!
+Nếu như cả file mới nhận cũng không thể sử dụng được, hãy thử lấy lại file khác. Nếu vẫn không được, hãy chờ ít phút rồi thử lại.

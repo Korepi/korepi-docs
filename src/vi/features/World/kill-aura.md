@@ -1,15 +1,17 @@
 ---
-title: Hào Quang Huỷ Diệt
+title: Hào Quang Huỷ Diệt (Kill Aura)
 icon: street-view
 category:
-  - Các Tính Năng
+  - Tính Năng
 tag:
   - Hào Quang Huỷ Diệt
 author: Schvis
 order: 12
 ---
 
-::: danger This feature has a high risk of ban.
+::: info Chỉ có ở phiên bản PERTAMAX
+:::
+::: danger Tính năng này có khả năng cao sẽ khiến tài khoản của bạn bị cấm. Hãy lưu ý trước khi sử dụng.
 :::
 ---
 ## Hào Quang Huỷ Diệt: Gây Sát Thương Cho Kẻ Địch Xung Quanh
@@ -31,7 +33,7 @@ order: 12
 
 ## Video Minh Hoạ:
 
-<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/NiAh00VBy-w?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Kill Aura" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
+<video controls preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/CW5fzAXWC3CPfdN/preview"><source src="https://nextcloud.atruicardona.xyz/s/CW5fzAXWC3CPfdN/download" type="video/mp4"></video>
 
 
 

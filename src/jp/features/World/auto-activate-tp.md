@@ -14,4 +14,4 @@ order: 1
 ### 自動開放は、50mまでの近くのウェイポイントをアクティブにする。
 ## ビデオ:
 
-<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/qstBErr9mJ0?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - AutoActivateTP (Sponsor)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
+<video controls preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/ydzPcwiLDfEGMJY/preview"><source src="https://nextcloud.atruicardona.xyz/s/ydzPcwiLDfEGMJY/download" type="video/mp4"></video>

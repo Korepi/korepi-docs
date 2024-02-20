@@ -13,14 +13,7 @@ order: 1
 
 ### Is Korepi free?
 
-Yes, it is free, in order to get it for the first time you have to do a 7 days [sign-in](../start/sign-in.md), you can skip this by [Sponsoring](../start/sponsor.md), after that you can get the license every time your key expires.
-
----
-### What is the .rar/.zip password?
-
-...
-
-Its `1234`, please read the download post next time.
+Yes, Korepi has a free version which you can use easily following this [guide](../guide/free.md).
 
 ---
 ### Why my config doesn't save?
@@ -39,19 +32,11 @@ You can find themes for your Korepi on `community share` or you can make your ow
 Check `Theme Customization` to start making your own theme.
 
 ---
-### Why did my /start streak reset?
-
-Most likely you surpassed the reset time, it resets daily, if you skip 1 day it will reset entirely
-
-::: info Reset time is at GMT/UTC+8 00:00 everyday. Please convert to your timezone.
-:::
----
-
 ### Can i use Korepi when a new update comes?
 
 No, you need to wait till a new Korepi version gets released.
 
-::: info Using the old injector wont work, Korepi update takes 1-2 weeks approximately.
+::: info Using the old program wont work, Korepi update takes 1-2 weeks approximately.
 :::
 ---
 

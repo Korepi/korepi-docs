@@ -13,8 +13,7 @@ order: 1
 
 ### Is Korepi free?
 
-Yes, it is free, in order to get it for the first time you have to do a 7 days [sign-in](../start/sign-in.md), you can skip this by [Sponsoring](../start/sponsor.md), after that you can get the license every time your key expires.
-
+Yes, Korepi has a free version which you can use easily following this [guide](../guide/free.md).
 ---
 ### What is the .rar/.zip password?
 
@@ -51,7 +50,7 @@ Most likely you surpassed the reset time, it resets daily, if you skip 1 day it 
 
 No, you need to wait till a new Korepi version gets released.
 
-::: info Using the old injector wont work, Korepi update takes 1-2 weeks approximately.
+::: info Using the old program wont work, Korepi update takes 1-2 weeks approximately.
 :::
 ---
 

@@ -2,7 +2,7 @@
 title: Hào Quang Nguyên Tố
 icon: street-view
 category:
-  - Các Tính Năng
+  - Tính Năng
 tag:
   - Hào Quang Nguyên Tố
 author: Schvis
@@ -15,7 +15,7 @@ order: 10
 
 ## Video Minh Hoạ:
 
-<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/FskTJiknOgQ?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Elemental Aura (Sponsor)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
+<video controls preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/mjfe6J4Q5Ja6ipN/preview"><source src="https://nextcloud.atruicardona.xyz/s/mjfe6J4Q5Ja6ipN/download" type="video/mp4"></video>
 
 > Note: Low delay times will increase the chance of detection.
 

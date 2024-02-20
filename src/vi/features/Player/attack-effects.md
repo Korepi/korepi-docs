@@ -2,7 +2,7 @@
 title: Hiệu Ứng Tấn Công
 icon: explosion
 category:
-  - Các Tính Năng
+  - Tính Năng
 tag:
   - Hiệu Ứng Tấn Công
 author: Schvis
@@ -31,11 +31,11 @@ order: 1
 - Điều chỉnh nguyên tố của đòn đánh thường từ kiếm, thương và trọng đao.
 ### Tự Động Đánh Vào Điểm Yếu:
 - Tấn công vào điểm yếu mục tiêu (chí mạng), chỉ hoạt động khi sử dụng cung.
-### Tỷ Lệ Chí Mạng (<span style='color:yellow;'>Nhà Tài Trợ</span>):
-- Điều chỉnh tỷ lệ chí mạng.
+### Tuỳ Chỉnh Tỷ Lệ Chí Mạng (<span style='color:yellow;'>Nhà Tài Trợ</span>):
+- Điều chỉnh tỷ lệ chí mạng của đòn đánh theo ý muốn.
 ### Loại Bỏ Nguyên Tố Của Sát Thương Nhận Vào:
 - Loại bỏ nguyên tố của sát thương nhận vào và chuyển nó thành sát thương vật lý.
 
 ## Video Minh Hoạ:
 
-<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/1BdKwxBjWyg?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Attack Effects" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
+<video controls preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/4rRZ3mQoxsnfMQy/preview"><source src="https://nextcloud.atruicardona.xyz/s/4rRZ3mQoxsnfMQy/download" type="video/mp4"></video>

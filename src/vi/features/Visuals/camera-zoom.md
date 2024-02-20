@@ -2,7 +2,7 @@
 title: Thu Phóng Camera
 icon: camera
 category:
-  - Các Tính Năng
+  - Tính Năng
 tag:
   - Thu Phóng Camera
 author: Schvis

@@ -14,22 +14,20 @@ order: 7
 
 # ダウンロード
 
-## 導入
+<video controls preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/HFYfj2E25cFYnYC/preview"><source src="https://nextcloud.atruicardona.xyz/s/HFYfj2E25cFYnYC/download" type="video/mp4"></video>
 
-私たちのコミュニティへようこそ！botチェックに合格して `Newcomer` ロールを受け取るには次の手順に従います。
+## はじめに
 
-### ステップ 1: サーバーに参加し `Newcomer` と `Fans` ロールを取得する。
+コミュニティへようこそ。botチェックを通過し、`Newcomer`ロールを受け取るには、以下の手順に従ってください。
 
-まだサーバーに参加していない場合は、サーバーに参加し、`Newcomer` と `Fans` のロールを取得する方法を説明した記事をお読みください。
+### ステップ 1: サーバーにログインし、`Newcomer`ロールを取得します。
 
-### ステップ 2: `★⋅korepi-version-roles⋅★`チャンネルに移動します
+まだサーバーに参加されていない方は、サーバーへの参加方法と`Newcomer`の取得方法について書かれたページをお読みください。
 
-★⋅korepi-version-roles⋅★チャンネルを見つけて、F または V バージョンのロールを選択します。F ロールを選択することをお勧めします。
+### ステップ 2: `★⋅korepi-download⋅★`チャンネルへ移動
 
-### ステップ 3: 必要なリソースをダウンロードする
+`★⋅korepi-download⋅★`チャンネルを探し、リンクをたどってソフトをダウンロードしてください。
 
-そうすると、対応するダウンロードチャンネルにアクセスできるようになります。 `★⋅f-download⋅★` または `★⋅v-download⋅★`.
+### ステップ 3: 準備完了！
 
-### ステップ 4: 準備完了!
-
-チャンネルには、現在のバージョンへのリンクとアーカイブのパスワードが掲載されます。幸運を！
+.rarをフォルダに入れ、[除外リスト](../guide/virus.md)に追加した後、解凍して以下の[ガイド](../guide/getkey.md)に従ってください。

@@ -13,23 +13,22 @@ order: 7
 
 # Descargar
 
+<video controls preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/HFYfj2E25cFYnYC/preview"><source src="https://nextcloud.atruicardona.xyz/s/HFYfj2E25cFYnYC/download" type="video/mp4"></video>
+
 ## Introducción
 
 ¡Bienvenid@ a nuestra comunidad! Para pasar la verificación del bot y recibir el rol de `Newcomer`, sigue los siguientes pasos.
 
-### Paso 1: Únete a nuestro servidor y obtén los roles de `Newcomer` y `Fans`
+### Paso 1: Únete a nuestro servidor y obtén el rol de `Newcomer`
 
-Si aún no te has unido al servidor, por favor, lee la publicación de verificación, que explica cómo unirse al servidor y obtener los roles de `Newcomer` y `Fans`.
+Si aún no te has unido al servidor, por favor, lee la publicación de verificación, que explica cómo unirse al servidor el rol de `Newcomer`
 
-### Paso 2: Ve al canal de `★⋅korepi-version-roles⋅★`
+### Paso 2: Ve al canal de `⁠★⋅korepi-download⋅★`
 
-Localiza el canal `★⋅korepi-version-roles⋅★` y elige el rol correspondiente a la versión F o V. Recomendamos seleccionar el rol F.
-
-### Paso 3: Descargar los recursos necesarios
-
-Después de hacer esto, tendrás acceso al canal de descarga, dependiendo de que rol hayas escogido `★⋅f-download⋅★` o `★⋅v-download⋅★`.
+Localiza el canal `⁠★⋅korepi-download⋅★` y sigue el enlace para descargar el programa.
 
 ### Paso 4: ¡Listo!
 
-En el canal encontrarás un enlace a la versión actual y la contraseña del archivo. ¡Buena suerte!
+Pon el archivo .rar en una carpeta y añádelo a [exclusiones](../guide/virus.md), después de esto sigue esta [guía](../guide/getkey.md)
+
 

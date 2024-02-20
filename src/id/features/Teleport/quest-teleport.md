@@ -4,13 +4,13 @@ icon: person-rays
 category:
   - Fitur
   - Quest Teleport
-author: Schvis, Natsume
+author: Schvis, Natsume, RodanZ
 order: 5
 ---
 
-## Quest Teleports memungkinkanmu untuk teleportasi ke lokasi misi yang sedang berlangsung saat itu juga.
+## Quest Teleports memungkinkan pemain untuk teleportasi ke lokasi misi yang sedang berlangsung saat itu juga.
 - Untuk menggunakan fitur ini, Anda harus tekan tombol navigasi terlebih dahulu, kemudian tekan tombol teleport misi.
 
 ## Video Contoh:
 
-<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/HNdQu39G2Tc?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - QuestTP" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
+<video controls preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/bHDsLK6ktT7sqn7/preview"><source src="https://nextcloud.atruicardona.xyz/s/bHDsLK6ktT7sqn7/download" type="video/mp4"></video>

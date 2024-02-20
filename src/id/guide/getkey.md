@@ -6,50 +6,58 @@ category:
 tag:
   - Buku Pemula
   - Lisensi
-author: Schvis, Natsume, Chloe
+author: Schvis, Natsume, Chloe, RodanZ
 order: 1
 ---
 
-## Cara Get-Key untuk Online Auth (F)
+## Tutorial Verifikasi
 
-<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/-9bXOMH0-WM" title="Korepi - Cara Mendapatkan Kunci V" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
+<video controls preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/dEnSM8gwYdDwbnD/preview"><source src="https://nextcloud.atruicardona.xyz/s/dEnSM8gwYdDwbnD/download" type="video/mp4"></video>
 
-### Langkah 1: Dapatkan Role F Auth
+::: danger Jika Anda memiliki langganan yang sedang aktif, jangan hubungkan dengan kartu lain atau Anda akan kehilangan langganan saat ini. Jika Anda menghubungkan kartu lain, Anda tidak dapat klaim kompensasi sponsor.
+:::
 
-Pergi ke saluran `★⋅korepi-version-roles⋅★` di server dan klik `F Auth` untuk mendapatkan role tersebut.
+### Langkah 1:
+- Temukan channel `★⋅micah-bot-verify⋅★` atau dengan klik [di sini](https://discord.com/channels/1069057220802781265/1203687333107335198)
 
-`Catatan: Periksa apakah Anda mendapatkan role tersebut; jika tidak, klik F Auth lagi.`
+  ![img.png](/assets/images/docs/202402/verify-1.png)
+- Temukan pesan yang dikirim oleh Micah-bot
+### Langkah 2:
+Untuk versi gratis, ikuti [tautan ini](free.md).
 
-### Langkah 2: Dapatkan Key Anda
+::: tip Jika Anda sudah memiliki langganan yang sedang aktif, sebaiknya untuk tekan munumpuk kartu, untuk menggabungkan langganan Anda saat ini.
+:::
 
-Pergi ke saluran `⁠★⋅micah-bot-verify⋅★` dan klik `F:Get Key`, bot akan membalas dengan beberapa informasi termasuk kunci, salin `Key` tersebut.
+Jika Anda membeli kunci dari reseller, klik `bind card str` dan tempelkan kunci Anda.
 
-### Langkah 3: Gunakan Key Anda
+::: info Jika Anda adalah seorang Sponsor sebelum 4 Februari 2024, klik "Kompensasi Sponsor" dan masukkan "YA" untuk menerima 3 bulan waktu kompensasi, setelah berhasil mengklaim "kartu" Anda, ikuti langkah selanjutnya"
+:::
 
-Buka Korepi, saat diminta untuk `key`, tempelkan `key` tersebut dan tekan `enter`. Ikuti langkah-langkah yang disebutkan oleh injector, dan seharusnya Anda siap menggunakan Korepi.
+### Langkah 3:
+::: info Jika kamu sudah punya enc.json, hapus dulu sebelum membuka injektor
+:::
+Klik `Dapatkan File Verifikasi`, dan Anda harus mengisi `HWID` (ID perangkat) Anda yang diperoleh setelah membuka injektor sekali.
+- Anda akan mendapatkan file dari bot, unduh dan letakkan di folder korepi Anda. Pastikan namanya adalah `enc.json`.
 
-Selamat menikmati Korepi!
 
-## Cara Get-Key untuk Lokal Auth (V)
+Anda juga dapat mengklik `Lihat Informasi Langganan` untuk melihat informasi langganan Anda.
 
-<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/OTCSboZdexc" title="Korepi - Cara Mendapatkan Kunci V" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
+## Cara menjeda kunci
 
-### Langkah 1: Dapatkan Role V Auth
+Klik `Jeda Kartu` dan ketik `YES` untuk menjeda kartu. Anda dapat membatalkan jeda kapan saja dan langganan Anda akan berlanjut.
 
-Pergi ke saluran `★⋅korepi-version-roles⋅★` di server dan klik `V Auth` untuk mendapatkan role tersebut.
+::: info Anda hanya dapat menjeda kartu setiap 30 hari sekali
+:::
 
-`Catatan: Periksa apakah Anda mendapatkan role tersebut; jika tidak, klik V Auth lagi.`
+## Cara mengubah HWID (ID Perangkat)
 
-### Langkah 2: Dapatkan `HWID` Anda
 
-Untuk mendapatkan `HWID` Anda, buka `Local(V) Injector` sekali, dan HWID akan secara otomatis menyalinnya ke clipboard Anda.
+Klik pada `ID (Ubah HWID)`, dan tempelkan `HWID` baru yang anda dapatkan dari membuka injektor, setelah itu unduh file baru dan letakkan di folder Korepi anda.
 
-### Langkah 3: Dapatkan `enc.json` Anda
+::: info Anda hanya dapat mengatur ulang HWID setiap 7 hari sekali 
+:::
 
-Pergi ke saluran `⁠★⋅micah-bot-verify⋅★` dan klik `V:Verify`, sebuah jendela akan meminta Anda memasukkan `HWID`, tempelkan dan klik `Submit`, lalu unduh file yang dikirim oleh bot.
+## Masalah Verifikasi MD5
+Setiap kali Anda mendapatkan file `enc.json` lagi, file `enc.json` sebelumnya akan menjadi tidak valid.
 
-### Langkah 4: Tempatkan File Anda di Korepi
-
-Setelah mendapatkan file, letakkan di folder Korepi Anda. Ingatlah bahwa file tersebut harus bernama `enc.json` agar berfungsi, buka Korepi kembali.
-
-Selamat menikmati Korepi!
+Jika file yang baru masih tidak valid, silakan dapatkan kembali file tersebut. Jika masih tidak berhasil, tunggu beberapa saat dan coba lagi.

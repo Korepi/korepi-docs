@@ -17,3 +17,7 @@ order: 12
 - يخفي نقاط الحياة من الشاشة.
 ### Hide Team HP Bar: (<span style='color:yellow;'>Sponsor</span>)
 - يخفي نقاط الحياة الخاصة بالشخصيات الأخرى بالفريق
+
+# Video:
+
+<video controls preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/tRDjSriLiqs6QWq/preview"><source src="https://nextcloud.atruicardona.xyz/s/tRDjSriLiqs6QWq/download" type="video/mp4"></video>

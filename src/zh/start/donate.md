@@ -12,12 +12,10 @@ order: 6
 
 # <span style="color:#f1c40f;">赞助者(Sponsor)</span>身份获取途径
 
-# 已关闭捐赠渠道
 
+ [国内捐赠链接](https://afdian.net/a/micah) 
 
-[//]: # ( [国内捐赠链接]&#40;https://afdian.net/a/micah&#41; )
-
-[//]: # ( [海外玩家捐赠具体链接]&#40;https://discord.com/channels/1069057220802781265/1097565269985071205&#41;)
+ [海外玩家捐赠具体链接](https://discord.com/channels/1069057220802781265/1097565269985071205)
 
 ---
 # 通过国内捐赠链接，获取身份的方法

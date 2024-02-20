@@ -13,12 +13,10 @@ order: 1
 
 ### Es Korepi gratis??
 
-Si solo tienes que hacer [sign-in](../start/sign-in.md) por 7 días y lo podrás usar, puedes saltarte esto con [Sponsor](../start/sponsor.md), después podrás conseguir una licencia cada vez que se expire.
+Si, Korepi tiene una version gratuita, puedes ver como conseguirla [Aquí](../guide/free.md).
 
 ---
 ### Cual es la contraseña del .rar/.zip?
-
-...
 
 Es `1234`, lee el post la proxima vez.
 

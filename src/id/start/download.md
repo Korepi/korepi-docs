@@ -6,30 +6,27 @@ category:
 tag:
   - Mulai
   - Unduh
-author:
-  name: "QweRez"
-  url: "https://github.com/qwerezon/"
+author: QweRez, RodanZ
 order: 5
 ---
 
-# Panduan Unduh
+# Unduh
 
-## Selamat Datang!
+<video controls preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/HFYfj2E25cFYnYC/preview"><source src="https://nextcloud.atruicardona.xyz/s/HFYfj2E25cFYnYC/download" type="video/mp4"></video>
 
-Hai, selamat bergabung di komunitas kami! Untuk bisa masuk dan mendapatkan role `Newcomer`, silakan untuk menonton video [Tutorial ini](https://youtu.be/4gm6JzAnq4w?si=DS00t4anVCT4O_4I) atau ikuti langkah-langkah di bawah ini.
+## Pendahuluan
 
-### Langkah 1: Bergabung di Server Kami!
+Selamat datang di komunitas kami! Untuk lulus pemeriksaan bot dan menerima role `Newcomer`, ikuti langkah-langkah berikut.
 
-Jika Anda belum bergabung, silakan baca instruksi di saluran verifikasi tentang cara bergabung di server dan mendapatkan role `Newcomer` dan `Fans`.
+### Langkah 1: Bergabunglah dengan server kami dan dapatkan `Newcomer` role
 
-### Langkah 2: Pilih role di `★⋅korepi-version-roles⋅★`
+Jika Anda belum bergabung dengan server, silakan baca pos verifikasi, yang menjelaskan cara bergabung dengan server dan mendapatkan peran `Newcomer`.
 
-Cari dan pilih role versi F-Auth atau V-Auth di saluran `★⋅korepi-version-roles⋅★`. Kami merekomendasikan memilih role F-Auth.
+### Langkah 2: Buka saluran `★⋅korepi-download⋅★`
 
-### Langkah 3: Download Panduan yang Dibutuhkan
+Cari saluran `★⋅korepi-download⋅★` dan ikuti tautan untuk mengunduh program.
 
-Setelah itu, Anda akan mendapatkan akses ke saluran unduhan yang sesuai: `★⋅f-download⋅★` atau `★⋅v-download⋅★`.
+### Langkah 3: Siap!
 
-### Langkah 4: Siap untuk Mulai!
+Tempatkan .rar dalam folder dan tambahkan ke [exclusions](../guide/virus.md), setelah itu ekstrak dan ikuti [guide](../guide/getkey.md)
 
-Di saluran tersebut, Anda akan menemukan link untuk pergi ke versi terbaru dan kata sandi untuk membuka file arsipnya. Semoga berhasil!

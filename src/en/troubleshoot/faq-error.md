@@ -1,5 +1,5 @@
 ---
-title: Common Injector Errors
+title: Common program Errors
 icon: info
 category:
   - Troubleshoot
@@ -125,7 +125,7 @@ Try using a VPN if it doesn't work.
 ---
 ### Failed to detect game version
 
-Update your injector, follow the steps [here](../start/download.md)
+Update your program, follow the steps [here](../start/download.md)
 
 ---
 ### File ok
@@ -135,7 +135,7 @@ Delete your cfg.json, something might be wrong with the file.
 ---
 ### UserAssembly.dll isn't initialized, waiting for 2 sec.
 
-If your injector crashes after this line try the following steps:
+If your program crashes after this line try the following steps:
 
 Turn off all anti-viruses in PC.
 
@@ -147,3 +147,21 @@ After checking restart your computer and try to run colorpicker again.
 
 If the error repeats you can make factory reset of Windows.
 
+### Current data does not exist or server error.
+
+![](/assets/images/docs/202312/error.png)
+
+Unpause your license and try again.
+
+### Cannot verify current timestamp.
+
+![](/assets/images/docs/202402/timestamp.png)
+
+Case 1:
+- You might get this error while using a VPN, please disable it and try again.
+
+Case 2:
+- Check that your PC time is set to automatic sync.
+
+::: info If you are from Iran you might need to use a VPN instead.
+:::

@@ -5,7 +5,7 @@ category:
   - Fitur
 tag:
   - Attack Effects
-author: Schvis, Natsume
+author: Schvis, Natsume, RodanZ
 order: 1
 ---
 
@@ -17,7 +17,7 @@ order: 1
 - Mengubah jumlah serangan yang akan diterima oleh target.
 > Catatan: Tidak disarankan nilainya melebihi `5`.
 ### Multi-Target:
-- Memukul semua target dalam radius tertentu yang telah ditentukan dari target yang terkena.
+- Menyerang semua target dalam radius tertentu yang telah ditentukan dari target yang utama.
 >  Catatan: Tidak disarankan untuk mengubah pengaturan bawaan.
 ### Multi-Animation:
 - Mengubah jumlah berapa kali karakter melakukan suatu aksi.
@@ -28,14 +28,14 @@ order: 1
 ### Custom Element:
 - Mengubah elemen dari semua serangan yang keluar.
 ### Infuse Element:
-- Mengubah elemen dari serangan normal dari senjata pedang, tombak, dan pedang besar.
+- Mengubah elemen dari serangan normal senjata pedang, tombak, dan pedang besar.
 ### Auto Weakspot:
 - Mengenai titik lemah target sehingga memicu serangan kritis, `hanya berfungsi dengan pengguna panah`.
-### Critical Hit (Sponsor!):
+### Critical Rate (Sponsor!):
 - Mengubah probabilitas serangan kritis.
 ### Nullify Incoming Element:
 - Akan meniadakan elemen masuk apa pun, dan mengubahnya menjadi kerusakan fisik
 
 ## Video Contoh:
 
-<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/1BdKwxBjWyg?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Attack Effects" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
+<video controls preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/4rRZ3mQoxsnfMQy/preview"><source src="https://nextcloud.atruicardona.xyz/s/4rRZ3mQoxsnfMQy/download" type="video/mp4"></video>

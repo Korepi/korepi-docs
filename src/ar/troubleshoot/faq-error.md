@@ -125,7 +125,7 @@ order: 2
 ---
 ### Failed to detect game version
 
-قم بتحديث injector الخاص بك، اتبع الخطوات [هنا](../start/download.md)
+قم بتحديث program الخاص بك، اتبع الخطوات [هنا](../start/download.md)
 
 ---
 ### File ok
@@ -135,7 +135,7 @@ order: 2
 ---
 ### UserAssembly.dll isn't initialized, waiting for 2 sec.
 
-إذا تعطل injector الخاص بك بعد هذا الخط، فجرب الخطوات التالية:
+إذا تعطل program الخاص بك بعد هذا الخط، فجرب الخطوات التالية:
 
 قم بإيقاف تشغيل كافة برامج مكافحة الفيروسات في جهاز الكمبيوتر.
 
@@ -146,4 +146,23 @@ order: 2
 بعد التحقق، قم بإعادة تشغيل جهاز الكمبيوتر الخاص بك وحاول تشغيل Colorpicker مرة أخرى.
 
 إذا تكرر الخطأ، يمكنك إجراء إعادة ضبط المصنع لنظام التشغيل Windows.
+
+### Current data does not exist or server error.
+
+![](/assets/images/docs/202312/error.png)
+
+Unpause your license and try again.
+
+### Cannot verify current timestamp.
+
+![](/assets/images/docs/202402/timestamp.png)
+
+Case 1:
+- You might get this error while using a VPN, please disable it and try again.
+
+Case 2:
+- Check that your PC time is set to automatic sync.
+
+::: info If you are from Iran you might need to use a VPN instead.
+:::
 

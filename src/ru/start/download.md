@@ -11,25 +11,22 @@ author:
 order: 5
 ---
 
-# Загрузка
+# Download
 
-## Введение
+<video controls preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/HFYfj2E25cFYnYC/preview"><source src="https://nextcloud.atruicardona.xyz/s/HFYfj2E25cFYnYC/download" type="video/mp4"></video>
 
-Добро пожаловать в наше сообщество! Чтобы пройти проверку на бота и получить роль `Новичок (Newcomer)`, выполните следующие шаги.
+## Introduction
 
-## Шаг 1: Присоединение к нашему серверу и получение роли `Новичок (Newcomer)` и `Поклонник (Fans)`
+Welcome to our community! To pass the bot check and receive the `Newcomer` role, follow these steps.
 
-Если вы еще не на сервере, пожалуйста, прочтите предыдущий пост, где описано, как присоединиться к серверу и получить роль `Новичок (Newcomer)`.
+### Step 1: Join our server and obtain the `Newcomer` role
 
-## Шаг 2: Перейдите в канал `★⋅korepi-version-roles⋅★`
+If you haven't joined the server yet, please read the verification post, which describes how to join the server and obtain the `Newcomer`.
 
-Найдите канал `★⋅korepi-version-roles⋅★` и получите роль F или V версии. Мы рекомендуем выбрать роль F.
+### Step 2: Go to the channel `★⋅korepi-download⋅★`
 
-## Шаг 3: Загрузите необходимые ресурсы
+Locate the channel `★⋅korepi-download⋅★` and follow the link to download the program.
 
-После этого вам откроется доступ к соответствующему каналу для загрузки: `★⋅f-download⋅★` или `★⋅v-download⋅★`.
+### Step 3: Ready!
 
-## Шаг 4: Готовы к участию!
-
-В канале вы найдете ссылку на актуальную версию и пароль от архива.
-После распакуйте все в папку НА АНГЛИЙСКОМ ЯЗЫКЕ, Удачи!
+Place the .rar in a folder and add it to [exclusions](../guide/virus.md), after that extract it and follow this [guide](../guide/getkey.md)

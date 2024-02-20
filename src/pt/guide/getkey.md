@@ -6,50 +6,57 @@ category:
 tag:
   - Inicio
   - Licença
-author: Ryuzeen
+author: Sky
 order: 1
 ---
 
-## Como conseguir a chave para Network(F)
+## Tutorial de verificação
 
-<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/-9bXOMH0-WM" title="Korepi - How to get V key" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
+<video controls preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/Y3ECm4LcH3i9n2d/preview"><source src="https://nextcloud.atruicardona.xyz/s/Y3ECm4LcH3i9n2d/download" type="video/mp4"></video>
 
-### Passo 1: Obtenha o cargo F Auth
+::: danger If you got an active subscription, don't bind any other card or you will lose your current subscription. If you bind any other card, you wont be able to claim your sponsor compensation.
+:::
 
-Vá para o canal `★⋅korepi-version-roles⋅★` no servidor e clique em `F Auth` para obter a cargo.
+### Passo 1:
+- Encontre o canal `★⋅micah-bot-verify⋅★` [link direto](https://discord.com/channels/1069057220802781265/1203687333107335198)
 
-`Nota: Verifique se você tem a cargo. Se não tiver, clique novamente em F Auth`
+  ![img.png](/assets/images/docs/202402/verify-1.png)
+- Encontre a mensagem enviada por micah bot
+### Passo 2:
+Para a versão grátis, siga isso [link](free.md).
 
-### Passo 2: Obtenha sua chave
+::: tip If you already got an active subscription, please click on stack card instead, to merge with your current subscription.
+:::
 
-Vá para o canal `⁠★⋅micah-bot-verify⋅★` e clique em `F:Getkey`, uma tabela com informações; copie a chave.
+Se você comprou a chave por um revendedor, clique em `bind card str` e cole a sua chave.
 
-### Passo 3: Use sua chave
+::: info Se você era sponsor antes de 24 de fevereiro de 2024, clique em "Sponsor Compensation" e então escreva "YES" para receber os 3 meses de compensação, depois de receber seu "card", siga o próximo passo
+:::
 
-Abra o Korepi. Quando for solicitada a licença, cole a chave que você obteve e siga as instruções fornecidas no mod.
+### Passo 3:
+::: info If you already got a enc.json delete it before opening the program
+:::
+Clique em `Get Verification File`, e então preencha o  `HWID (device ID)` que você recebeu após abrir o injetor.
+-Você vai receber um arquivo do bot, instale ele e coloque na pasta do Korepi. Confira se o nome está como `enc.json`.
 
-Aproveite o Korepi!
 
-## Como conseguir a chave para Local(V)
+Você pode clicar em `View Subscription Information` para verificar as informações da sua assinatura.
 
-<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/OTCSboZdexc" title="Korepi - How to get V key" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
+## Como pausar a chave
 
-### Passo 1: Obtenha a cargo V Auth
+Clique em `Pause Card` e escreva `YES` para pausar ela. Você pode despausar ela a qualquer momento para continuar a assinatura.
 
-Vá para o canal `★⋅korepi-version-roles⋅★` no servidor e clique em `V Auth` para obter a cargo.
+::: info Você pode pausar a chave apenas uma vez a cada 30 dias
+:::
 
-`Nota: Verifique se você tem o cargo. Se não tiver, clique novamente em V Autho`
+## Como mudar seu HWID (ID do dispositivo)
 
-### Passo 2: Obtenha o seu `HWID`
+Clique em `ID(Change HWID)`, e cole o novo `HWID`que você recebeu ao abrir o injetor, depois disso instale o novo arquivo e ponha na pasta do Korepi.
 
-Para obter o seu `HWID` você precisará abrir o mod `Local(V)` uma vez e o `HWID` será copiado para a área de transferência.
+::: info Você pode mudar seu HWID apenas uma vez a cada 7 dias
+:::
 
-### Passo 3: Obtenha o seu `enc.json`
+## MD5 Erro de verificação
+A cada vez que você receber um novo arquivo `enc.json`, o antigo `enc.json` se tornará inválido.
 
-Vá para o canal `⁠★⋅micah-bot-verify⋅★` e clique em `V:Verify`, Uma janela aparecerá pedindo o seu `HWID`, Cole o `HWID` e clique em `Submit`, em seguida, faça o download do arquivo enviado pelo bot.
-
-### Passo 4: Coloque seu arquivo junto com o Korepi
-
-Depois de obter o seu arquivo, coloque-o junto com o Korepi na sua pasta, abra o mod novamente e você poderá usá-lo. Lembre-se de que o nome do arquivo deve se `enc.json`.
-
-Aproveite o Korepi!
+Se o novo estiver como inválido,, pegue um novo arquivo. Se ainda não funcionar, espere um pouco e tente novamente.

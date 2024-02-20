@@ -1,5 +1,5 @@
 ---
-title: Cài Đặt Trang Phục (Skins)
+title: Cài Đặt Trang Phục
 icon: magic-wand-sparkles
 category:
   - Hướng Dẫn

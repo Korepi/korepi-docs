@@ -1,10 +1,10 @@
 ---
-title: Guides
+title: Hướng Dẫn
 icon: book
 category:
-  - Guide
+  - Hướng Dẫn
 tag:
-  - Start
+  - Bắt Đầu
 author: QweRez, Schvis
 ---
 
