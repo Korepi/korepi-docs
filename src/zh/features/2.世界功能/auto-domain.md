@@ -1,12 +1,12 @@
 ---
-title: Auto Domain
+title: 自动秘境
 icon: bolt
 category:
   - Features
 tag:
-  - Auto Domain
+  - 自动秘境
 author: Schvis
 order: 12
 ---
 
-## Soon.
+## 开发中！
