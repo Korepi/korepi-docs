@@ -6,17 +6,40 @@
     <link>https://korepi.com/zh/</link>
     <description>Korepi 中文文档介绍</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 16 Feb 2024 08:52:47 GMT</pubDate>
-    <lastBuildDate>Fri, 16 Feb 2024 08:52:47 GMT</lastBuildDate>
+    <pubDate>Wed, 21 Feb 2024 06:08:07 GMT</pubDate>
+    <lastBuildDate>Wed, 21 Feb 2024 06:08:07 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-    <category>其他</category>
     <category>Features</category>
+    <category>其他</category>
     <category>指南</category>
     <category>功能</category>
-    <category>Guide</category>
     <category>问题解答</category>
+    <category>Guide</category>
     <category>Troubleshoot</category>
+    <item>
+      <title>自动秘境</title>
+      <link>https://korepi.com/zh/features/2.%E4%B8%96%E7%95%8C%E5%8A%9F%E8%83%BD/auto-domain.html</link>
+      <guid>https://korepi.com/zh/features/2.%E4%B8%96%E7%95%8C%E5%8A%9F%E8%83%BD/auto-domain.html</guid>
+      <source url="https://korepi.com/zh/rss.xml">自动秘境</source>
+      <description>开发中！</description>
+      <category>Features</category>
+      <pubDate>Fri, 09 Feb 2024 08:59:27 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> 开发中！</h2>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>自动解密</title>
+      <link>https://korepi.com/zh/features/2.%E4%B8%96%E7%95%8C%E5%8A%9F%E8%83%BD/auto-puzzle.html</link>
+      <guid>https://korepi.com/zh/features/2.%E4%B8%96%E7%95%8C%E5%8A%9F%E8%83%BD/auto-puzzle.html</guid>
+      <source url="https://korepi.com/zh/rss.xml">自动解密</source>
+      <description>打开后可以设置解密内容和解密范围。 目前仍存在bug。</description>
+      <category>Features</category>
+      <pubDate>Fri, 09 Feb 2024 08:59:27 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> 打开后可以设置解密内容和解密范围。</h2>
+<p>目前仍存在bug。</p>
+]]></content:encoded>
+    </item>
     <item>
       <title>使用技巧</title>
       <link>https://korepi.com/zh/others/skill.html</link>
@@ -40,28 +63,6 @@
 <div class="hint-container tip">
 <p class="hint-container-title">一般作用于物体必须是风,不然容易异常。</p>
 </div>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Auto Domain</title>
-      <link>https://korepi.com/zh/features/2.%E4%B8%96%E7%95%8C%E5%8A%9F%E8%83%BD/auto-domain.html</link>
-      <guid>https://korepi.com/zh/features/2.%E4%B8%96%E7%95%8C%E5%8A%9F%E8%83%BD/auto-domain.html</guid>
-      <source url="https://korepi.com/zh/rss.xml">Auto Domain</source>
-      <description>Soon.</description>
-      <category>Features</category>
-      <pubDate>Wed, 07 Feb 2024 13:27:26 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Soon.</h2>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Auto Puzzle</title>
-      <link>https://korepi.com/zh/features/2.%E4%B8%96%E7%95%8C%E5%8A%9F%E8%83%BD/auto-puzzle.html</link>
-      <guid>https://korepi.com/zh/features/2.%E4%B8%96%E7%95%8C%E5%8A%9F%E8%83%BD/auto-puzzle.html</guid>
-      <source url="https://korepi.com/zh/rss.xml">Auto Puzzle</source>
-      <description>Soon.</description>
-      <category>Features</category>
-      <pubDate>Wed, 07 Feb 2024 13:27:26 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Soon.</h2>
 ]]></content:encoded>
     </item>
     <item>
@@ -386,7 +387,7 @@
 </ol>
 <h3> <strong><strong>视图</strong></strong></h3>
 <ol>
-<li><strong>**命座修改器 **</strong> - &lt;#1166323490501173309&gt;</li>
+<li><strong>**命座修改器 **</strong> -</li>
 <li><strong><strong>自定义天气</strong></strong></li>
 <li><strong><strong>动作修改器</strong></strong> - 自定义角色动作和表情</li>
 <li><strong><strong>风之翼修改器</strong></strong></li>
@@ -461,440 +462,434 @@
 ]]></content:encoded>
     </item>
     <item>
-      <title>Differences between versions</title>
+      <title>版本之间的不同</title>
       <link>https://korepi.com/zh/start/differences.html</link>
       <guid>https://korepi.com/zh/start/differences.html</guid>
-      <source url="https://korepi.com/zh/rss.xml">Differences between versions</source>
-      <description>Available Features between versions. Version Free SponsorPERTAMAX --------------------------- Attack Effects✓✓✓ Auto Run✓✓✓ Cooldown Effects✓✓✓ Fall Control✓✓✓ God Mode✓✓✓ Infin...</description>
-      <category>Guide</category>
+      <source url="https://korepi.com/zh/rss.xml">版本之间的不同</source>
+      <description>各版本之间的可用功能差异. 版本 免费版 赞助版PERTAMAX版本 --------------------------- 攻击效果✓✓✓ 自动奔跑✓✓✓ 冷却效果 ✓✓✓ 坠落控制✓✓✓ 无敌模式✓✓✓ 无限体力✓✓✓ 自由移动✓✓✓ 玩家速度✓✓✓ 自动挑战✓✓✓ 自动收集✓✓✓ 自动仙灵✓✓✓ 自动对话✓✓✓ 敌人变傻✓✓✓ 永久元素视野✓✓✓...</description>
+      <category>指南</category>
       <pubDate>Sat, 13 Jan 2024 00:53:24 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Available Features between versions.</h2>
+      <content:encoded><![CDATA[<h2> 各版本之间的可用功能差异.</h2>
 <table>
 <thead>
 <tr>
-<th>Version</th>
-<th>Free</th>
-<th>Sponsor</th>
-<th>PERTAMAX</th>
+<th>版本</th>
+<th>免费版</th>
+<th>赞助版</th>
+<th>PERTAMAX版本</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td>Attack Effects</td>
+<td>攻击效果</td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Auto Run</td>
+<td>自动奔跑</td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Cooldown Effects</td>
+<td>冷却效果</td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Fall Control</td>
+<td>坠落控制</td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>God Mode</td>
+<td>无敌模式</td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Infinite Stamina</td>
+<td>无限体力</td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>No-Clip</td>
+<td>自由移动</td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Player Speed</td>
+<td>玩家速度</td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Auto-Challenge</td>
+<td>自动挑战</td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Auto-Loot</td>
+<td>自动收集</td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Auto-Seelie</td>
+<td>自动仙灵</td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Auto Talk</td>
+<td>自动对话</td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Dumb Enemies</td>
+<td>敌人变傻</td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Elemental Sight</td>
+<td>永久元素视野</td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>ESP</td>
+<td>透视</td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Freeze Enemies</td>
+<td>冻结敌人</td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Game Speed</td>
+<td>全局加速</td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Open Team Immediately</td>
+<td>立即打开队伍界面</td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Skip Enhance Animation</td>
+<td>跳过强化动画</td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Chest Teleport</td>
+<td>宝箱传送</td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Oculi Teleport</td>
+<td>神瞳传送</td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Map Teleport</td>
+<td>地图传送</td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Quest Teleport</td>
+<td>任务点传送</td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Custom Teleport</td>
+<td>自定义传送</td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Interactive Map</td>
+<td>交互式地图</td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Camera Zoom</td>
+<td>无限视距</td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>FOV Changer</td>
+<td>视场修改</td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Chest Indicator</td>
+<td>宝箱指示器</td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Censor Remover</td>
+<td>帧率解锁</td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>FPS Unlock</td>
+<td>隐藏界面</td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Hide UI</td>
+<td>地图缩放</td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Map Zoom</td>
+<td>去雾</td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>No Fog</td>
+<td>除草</td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>No Grass</td>
+<td>地图去雾</td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>No Map Fog</td>
+<td>派蒙跟随</td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Summon Paimon</td>
+<td>配置文件更改器</td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Profile Changer</td>
-<td><span style="color:green;">✓</span></td>
-<td><span style="color:green;">✓</span></td>
-<td><span style="color:green;">✓</span></td>
-</tr>
-<tr>
-<td>Auto Activate Waypoint</td>
+<td>自动解锁锚点</td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Crit Rate Modifier</td>
+<td>暴击率修改</td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Dolphin Dive</td>
+<td>海豚跳</td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Elemental Aura</td>
+<td>元素光环</td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Extra Movement</td>
+<td>额外移动</td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Extra Visual Settings</td>
+<td>额外视觉</td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Fake Time</td>
+<td>伪装时间</td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Free Camera</td>
+<td>自由相机</td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>GM Icon</td>
+<td>GM 图标</td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Monster Changer</td>
+<td>怪物替换</td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>No Camera Blur</td>
+<td>无相机模糊</td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>No Camera Shake</td>
+<td>无相机抖动</td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>No Footprints</td>
+<td>无脚印</td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>No Skill Animation</td>
+<td>无元素爆发动画</td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Debug</td>
+<td>调试</td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Animation Changer</td>
+<td>动画修改器</td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Auto Cook</td>
+<td>自动烹饪</td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Auto Destroy</td>
+<td>自动摧毁</td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Auto Fish</td>
+<td>自动钓鱼</td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Auto Tree Farm</td>
+<td>自动砍树</td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Constellation Modifier</td>
+<td>命座修改器</td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Custom Weather</td>
+<td>自定义天气</td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Emotion Changer</td>
+<td>表情修改器</td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Flycloak Modifier</td>
+<td>风之翼</td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Kill Aura</td>
+<td>杀戮光环</td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Map Manager</td>
+<td>地图管理器</td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Mob Vacuum</td>
+<td>生物吸附</td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Remote Utilities</td>
+<td>远程工具</td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Vacuum Loot</td>
+<td>掉落物吸附</td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Skin Modifier</td>
+<td>皮肤修改器</td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Auto Puzzle</td>
+<td>自动解密</td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Auto Domain</td>
+<td>自动秘境</td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Stats Modifier</td>
+<td>天赋修改器</td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:green;">✓</span></td>
@@ -978,14 +973,10 @@ VPN并非专为翻墙而生，而机场是专门的翻墙节点服务商。</p>
       <link>https://korepi.com/zh/guide/Multi-korepi.html</link>
       <guid>https://korepi.com/zh/guide/Multi-korepi.html</guid>
       <source url="https://korepi.com/zh/rss.xml">如何多开Korepi</source>
-      <description>---Korepi目前只有V版本可以多开 1.下载Korepi。 2.打开Korepi所在文件夹，打开cfj.ini。 3.找到Multi korepi=，将false改为true。 展示视频：</description>
+      <description>1.下载Korepi。 2.打开Korepi所在文件夹，打开cfj.ini。 3.找到Multi korepi=，将false改为true。 展示视频：</description>
       <category>指南</category>
       <pubDate>Mon, 25 Dec 2023 07:31:38 GMT</pubDate>
       <content:encoded><![CDATA[<hr>
-<div class="hint-container tip">
-<p class="hint-container-title">Korepi目前只有V版本可以多开</p>
-</div>
-<hr>
 <h2> 1.下载Korepi。</h2>
 <h2> 2.打开Korepi所在文件夹，打开<code>cfj.ini</code>。</h2>
 <h2> 3.找到Multi korepi=，将<code>false</code>改为<code>true</code>。</h2>
