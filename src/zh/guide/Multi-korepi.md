@@ -10,9 +10,6 @@ author: Double
 order: 2
 ---
 ---
-:::tip Korepi目前只有V版本可以多开
-:::
----
 ## 1.下载Korepi。
 
 
