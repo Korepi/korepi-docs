@@ -13,7 +13,7 @@ order: 1
 
 ## 1.Korepi是免费的吗？
 
-  它有免费的版本，但是功能比较少。
+ Yes, Korepi has a free version which you can use easily following this [guide](../guide/key-use.md).
 ---
 
 

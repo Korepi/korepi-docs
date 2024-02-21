@@ -154,3 +154,16 @@ Nếu như lỗi vẫn tiếp diễn, bạn nên cài lại Windows.
 
 Hãy ngưng tạm dừng key (unpause) rồi thử lại.
 
+### Cannot verify current timestamp.
+
+![](/assets/images/docs/202402/timestamp.png)
+
+Trường hợp 1:
+- Bạn có thể gặp phải lỗi này khi đang sử dụng VPN. Hãy thử tắt VPN rồi bật Korepi lên lại.
+
+Trường hợp 2:
+- Kiểm tra cài đặt thời gian trên máy của bạn và đảm bảo rằng đồng bộ tự động đã được bật.
+
+::: info Đối với người dùng tại Iran, bạn cần bật VPN để có thể sử dụng Korepi.
+:::
+

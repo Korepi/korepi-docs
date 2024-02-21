@@ -12,6 +12,11 @@ order: 1
 
 ## 認証チュートリアル
 
+<video controls preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/dEnSM8gwYdDwbnD/preview"><source src="https://nextcloud.atruicardona.xyz/s/dEnSM8gwYdDwbnD/download" type="video/mp4"></video>
+
+::: danger If you got an active subscription, don't bind any other card or you will lose your current subscription. If you bind any other card, you wont be able to claim your sponsor compensation.
+:::
+
 ### ステップ 1:
 - `★⋅micah-bot-verify⋅★`チャンネルを見つける [リンク](https://discord.com/channels/1069057220802781265/1203687333107335198)
 
@@ -19,6 +24,9 @@ order: 1
 - Micah-botが送信したメッセージを見つける
 ### ステップ 2:
 無料版はこの[リンク](free.md)から。
+
+::: tip If you already got an active subscription, please click on stack card instead, to merge with your current subscription.
+:::
 
 再販業者からキーを購入した場合は、`bind card str` をクリックし、キーを貼り付けます。
 

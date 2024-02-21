@@ -13,7 +13,7 @@ order: 1
 
 ### Korepi có miễn phí không?
 
-Chính xác, Korepi có thể sử dụng miễn phí. Để có thể sử dụng, bạn cần thực hiện [Điểm Danh](../start/sign-in.md) trong 7 ngày. Bạn có thể bỏ qua quá trình điểm danh này thông qua [Tài Trợ](../start/sponsor.md). Sau đó bạn có thể tiến hành lấy key để sử dụng Korepi liên tục.
+Yes, Korepi has a free version which you can use easily following this [guide](../guide/free.md).
 
 ---
 ### Mật khẩu giải nén file .rar/.zip là gì?

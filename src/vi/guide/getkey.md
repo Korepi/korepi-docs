@@ -12,6 +12,11 @@ order: 1
 
 ## Hướng Dẫn Xác Thực Key
 
+<video controls preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/dEnSM8gwYdDwbnD/preview"><source src="https://nextcloud.atruicardona.xyz/s/dEnSM8gwYdDwbnD/download" type="video/mp4"></video>
+
+::: danger Nếu như bạn đang có sẵn một gói đăng ký (subscription), đừng gắn (bind) bất kỳ card nào khác nếu không bạn sẽ mất gói đăng ký hiện tại. Đồng thời nếu bạn chọn bind bất kỳ card nào khác, bạn cũng sẽ không thể nhận đền bù 3 tháng miễn phí dành cho Nhà Tài Trợ.
+:::
+
 ### Bước 1:
 - Đi tới kênh `★⋅micah-bot-verify⋅★` ở server Discord: [Link trực tiếp](https://discord.com/channels/1069057220802781265/1203687333107335198)
 
@@ -20,7 +25,10 @@ order: 1
 ### Bước 2:
 Đối với phiên bản miễn phí, hãy làm theo [hướng dẫn này](free.md).
 
-Nếu như bạn mua key từ reseller, hãy click vào `bind card str` rồi dán key của bạn vào.
+::: tip Để cộng dồn thời hạn sử dụng vào gói đăng ký hiện tại, hãy nhấn vào `stack card (subscription time)`.
+:::
+
+Nếu như bạn mua key từ seller, hãy click vào `bind card str` rồi dán key của bạn vào.
 
 ::: info Nếu như bạn là Nhà Tài Trợ (Sponsor) trước ngày 4 tháng 2 năm 2024, hãy click vào "Sponsor Compensation" rồi nhập "YES" để nhận 3 tháng đền bù. Sau khi nhận "card" thành công, hãy làm bước tiếp theo
 :::

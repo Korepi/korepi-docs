@@ -17,3 +17,7 @@ order: 12
 - Esconde a Barra de Vida.
 ### Esconder Barra de Vida do Time: (<span style='color:yellow;'>Patrocinador</span>)
 - Esconde a Barra de Vida do Time.
+
+# Video:
+
+<video controls preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/tRDjSriLiqs6QWq/preview"><source src="https://nextcloud.atruicardona.xyz/s/tRDjSriLiqs6QWq/download" type="video/mp4"></video>

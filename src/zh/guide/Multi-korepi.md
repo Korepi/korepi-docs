@@ -19,4 +19,4 @@ order: 2
 ## 3.找到Multi korepi=，将`false`改为`true`。
 
 ## 展示视频：
- <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/pSAxKoneT64" title="Multi-Instance V (Updated)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
+ <video controls preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/a3K6SK5bHyxfmZw/preview"><source src="https://nextcloud.atruicardona.xyz/s/a3K6SK5bHyxfmZw/download" type="video/mp4"></video>

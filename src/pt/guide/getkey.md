@@ -12,6 +12,11 @@ order: 1
 
 ## Tutorial de verificação
 
+<video controls preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/Y3ECm4LcH3i9n2d/preview"><source src="https://nextcloud.atruicardona.xyz/s/Y3ECm4LcH3i9n2d/download" type="video/mp4"></video>
+
+::: danger If you got an active subscription, don't bind any other card or you will lose your current subscription. If you bind any other card, you wont be able to claim your sponsor compensation.
+:::
+
 ### Passo 1:
 - Encontre o canal `★⋅micah-bot-verify⋅★` [link direto](https://discord.com/channels/1069057220802781265/1203687333107335198)
 
@@ -20,9 +25,12 @@ order: 1
 ### Passo 2:
 Para a versão grátis, siga isso [link](free.md).
 
+::: tip If you already got an active subscription, please click on stack card instead, to merge with your current subscription.
+:::
+
 Se você comprou a chave por um revendedor, clique em `bind card str` e cole a sua chave.
 
-::: Se você era sponsor antes de 24 de fevereiro de 2024, clique em "Sponsor Compensation" e então escreva "YES" para receber os 3 meses de compensação, depois de receber seu "card", siga o próximo passo
+::: info Se você era sponsor antes de 24 de fevereiro de 2024, clique em "Sponsor Compensation" e então escreva "YES" para receber os 3 meses de compensação, depois de receber seu "card", siga o próximo passo
 :::
 
 ### Passo 3:

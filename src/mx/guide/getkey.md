@@ -12,6 +12,11 @@ order: 1
 
 ## Tutorial de Verificación
 
+<video controls preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/dEnSM8gwYdDwbnD/preview"><source src="https://nextcloud.atruicardona.xyz/s/dEnSM8gwYdDwbnD/download" type="video/mp4"></video>
+
+::: danger Si tienes una suscripción activa no vincules ninguna otra suscripción o perderás tu suscripción activa, si vinculas cualquier otra suscripción también perderás la compensación para Sponsor.
+:::
+
 ### Paso 1:
 - Encuentra el canal de `★⋅micah-bot-verify⋅★` [Link Directo](https://discord.com/channels/1069057220802781265/1203687333107335198)
 
@@ -19,7 +24,12 @@ order: 1
 - Encuentra el mensaje mandado por Micah-Bot.
 
 ### Paso 2:
+Para la version gratuita sigue esta [guía](./free.md).
+
 Si compraste la llave de un vendedor, dale click a `bind card str` y pega tu llave al pedírtela.
+
+::: tip Si ya tienes una suscripción dale al botón de "stack card" para prolongar tu suscripción actual.
+:::
 
 ::: info Si eras Sponsor antes del 4 de Febrero del 2024, dale click a "Sponsor Compensation" y escribe "YES" para recibir tus 3 meses de compensación, después de que hayas conseguido la "card" exitosamente sigue el siguiente paso.
 :::

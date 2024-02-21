@@ -12,6 +12,11 @@ order: 1
 
 ## شرح التحقق
 
+<video controls preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/dEnSM8gwYdDwbnD/preview"><source src="https://nextcloud.atruicardona.xyz/s/dEnSM8gwYdDwbnD/download" type="video/mp4"></video>
+
+::: danger If you got an active subscription, don't bind any other card or you will lose your current subscription. If you bind any other card, you wont be able to claim your sponsor compensation.
+:::
+
 ### الخطوة 1:
 - أعثر على قناة `★⋅micah-bot-verify⋅★` [رابط مباشر](https://discord.com/channels/1069057220802781265/1203687333107335198)
 
@@ -19,6 +24,9 @@ order: 1
 - ابحث عن الرسالة التي أرسلها Micah-bot
 ### الخطوة 2:
 للحصول على نسخة مجانية اتبع هذا [الرابط](free.md).
+
+::: tip If you already got an active subscription, please click on stack card instead, to merge with your current subscription.
+:::
 
 إذا قمت بشراء مفتاح من أحد الموزعين، فانقر فوق `bind card str` والصق المفتاح الخاص بك.
 

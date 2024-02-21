@@ -14,7 +14,7 @@ order: 4
 
 ## Video de Ejemplo:
 
-<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/3ML6s3SR8nE?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Destroy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
+<video controls preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/34xYZt5G5Aid4zk/preview"><source src="https://nextcloud.atruicardona.xyz/s/34xYZt5G5Aid4zk/download" type="video/mp4"></video>
 
 >Nota: El valor recomendado es por debajo de `20m`, no se recomienda usar al rango máximo (`40m`)
 

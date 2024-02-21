@@ -15,6 +15,6 @@ order: 5
 
 ## Video Minh Hoạ:
 
-<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/K_l4Tg-81iQ?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Fish" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
+<video controls preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/A5RxPpHs7mqYgtb/preview"><source src="https://nextcloud.atruicardona.xyz/s/A5RxPpHs7mqYgtb/download" type="video/mp4"></video>
 
 > Note: Auto Recast is not working at the time creating this post.

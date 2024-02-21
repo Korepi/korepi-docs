@@ -17,3 +17,7 @@ order: 12
 - Menyembunyikan bar darah karakter aktif.
 ### Hide Team HP Bar: (<span style='color:yellow;'>Sponsor</span>)
 - Menyembunyikan bar darah party.
+
+# Video:
+
+<video controls preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/tRDjSriLiqs6QWq/preview"><source src="https://nextcloud.atruicardona.xyz/s/tRDjSriLiqs6QWq/download" type="video/mp4"></video>
