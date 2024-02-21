@@ -5,6 +5,7 @@
 
 ## Display Address
 [Click here](https://korepi.com/) to view.
+[Backup link](https://docs.korepi.com/) to view.
 
 ## How to Test
 
