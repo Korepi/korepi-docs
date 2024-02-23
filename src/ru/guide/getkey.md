@@ -9,51 +9,51 @@ author: "Schvis"
 order: 1
 ---
 
-## Verification Tutorial
+## Руководство по верификации
 
 <video controls preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/dEnSM8gwYdDwbnD/preview"><source src="https://nextcloud.atruicardona.xyz/s/dEnSM8gwYdDwbnD/download" type="video/mp4"></video>
 
-::: danger If you got an active subscription, don't bind any other card or you will lose your current subscription. If you bind any other card, you wont be able to claim your sponsor compensation.
+::: danger Если у вас есть активная подписка, не привязывайте другую карту, иначе вы потеряете текущую подписку. Если вы привяжете другую карту, вы не сможете получить компенсацию от спонсора.
 :::
 
-### Step 1:
-- Find the `★⋅micah-bot-verify⋅★` channel [direct link](https://discord.com/channels/1069057220802781265/1203687333107335198)
+### Шаг 1:
+- Найдите канал `★⋅micah-bot-verify⋅★` [ссылка](https://discord.com/channels/1069057220802781265/1203687333107335198)
 
   ![img.png](/assets/images/docs/202402/verify-1.png)
-- Find the message sent by Micah-bot
-### Step 2:
-For free version follow this [link](free.md).
+- Найдите сообщение, отправленное Micah-bot
+### Шаг 2:
+Для бесплатной версии перейдите по [ссылке](free.md).
 
-::: tip If you already got an active subscription, please click on stack card instead, to merge with your current subscription.
+::: tip Если у вас уже есть активная подписка, нажмите на карту стопки, чтобы объединить ее с текущей подпиской.
 :::
 
-If you bought a key from a reseller, click on `bind card str` and paste in your key.
+Если вы купили ключ у перекупщика, нажмите `bind card str` и вставьте свой ключ.
 
-::: info If you are a Sponsor before February 4th, 2024, click "Sponsor Compensation" and enter "YES" to receive 3 months of compensation time, after successfully claiming your "card" follow the next step"
+::: info Если вы являетесь Спонсором до 4 февраля 2024 года, нажмите "Компенсация спонсора" и введите "ДА", чтобы получить компенсацию в течение 3 месяцев, после успешного получения "карты" следуйте следующему шагу.
 :::
-### Step 3:
-::: info If you already got a enc.json delete it before opening the program
+### Шаг 3:
+::: info Если у вас уже есть файл enc.json, удалите его перед открытием программы
 :::
-Click `Get Verification File`, and you need to fill in your `HWID (device ID)` obtainable after opening the program once.
-- You will get a file from the bot, download it and place it on your korepi folder. Make sure the name is `enc.json`.
+Нажмите `Get Verification File` и введите свой `HWID (идентификатор устройства)`, который можно получить после открытия программы один раз.
+- Вы получите файл от бота, скачайте его и поместите в папку korepi. Убедитесь, что имя файла - `enc.json`.
 
-You can also click `View Subscription Information` to view your subscription information.
+Вы также можете нажать `View Subscription Information`, чтобы просмотреть информацию о вашей подписке.
 
-## How to pause the key
+## Как приостановить ключ
 
-Click on `Pause Card` and type `YES` to pause it. You can unpause it anytime and your subscription will continue.
+Нажмите `Pause Card` и введите `YES`, чтобы приостановить его. Вы можете возобновить его в любое время, и ваша подписка продолжится.
 
-::: info You can only pause the key once every 30 days
-:::
-
-## How to change HWID (Device ID)
-
-Click on `ID(Change HWID)`, and paste in the new `HWID` you get from opening the program, after that download the new file and place it on your Korepi folder.
-
-::: info You can only reset the HWID once every 7 days
+::: info Вы можете приостановить ключ только один раз в 30 дней
 :::
 
-## MD5 Verification Issue
-Each time you obtain the `enc.json` file again, the previous `enc.json` file will become invalid.
+## Как изменить HWID (идентификатор устройства)
 
-If the new one is still invalid, please obtain the file again. If it still doesn't work, wait for a while and try again.
+Нажмите `ID(Change HWID)`, вставьте новый `HWID`, который вы получаете после открытия программы, после чего скачайте новый файл и поместите его в папку Korepi.
+
+::: info Вы можете сбросить HWID только один раз в 7 дней
+:::
+
+## Проблема с проверкой MD5
+Каждый раз, когда вы снова получаете файл `enc.json`, предыдущий файл `enc.json` становится недействительным.
+
+Если новый все еще недействителен, повторно получите файл. Если это по-прежнему не работает, подождите некоторое время и попробуйте снова.

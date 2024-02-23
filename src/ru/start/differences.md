@@ -1,5 +1,5 @@
 ---
-title: Differences between versions
+title: Разница версий
 icon: server
 category:
   - Guide
@@ -9,9 +9,9 @@ author: Schvis
 order: 6
 ---
 
-## Available Features between versions.
+## Доступные функции в разных версиях.
 
-|Version | Free |Sponsor|PERTAMAX|
+|Функции/Версия | Free |Sponsor|PERTAMAX|
 |-----|--------|--------|------|
 |Attack Effects|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
 |Auto Run|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|

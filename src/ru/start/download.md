@@ -11,22 +11,22 @@ author:
 order: 5
 ---
 
-# Download
+# Загрузка
 
 <video controls preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/HFYfj2E25cFYnYC/preview"><source src="https://nextcloud.atruicardona.xyz/s/HFYfj2E25cFYnYC/download" type="video/mp4"></video>
 
-## Introduction
+## Введение
 
-Welcome to our community! To pass the bot check and receive the `Newcomer` role, follow these steps.
+Добро пожаловать в наше сообщество! Чтобы пройти проверку бота и получить роль `Новичок`, выполните следующие шаги.
 
-### Step 1: Join our server and obtain the `Newcomer` role
+### Шаг 1: Присоединитесь к нашему серверу и получите роль `Новичок`
 
-If you haven't joined the server yet, please read the verification post, which describes how to join the server and obtain the `Newcomer`.
+Если вы еще не присоединились к серверу, ознакомьтесь с сообщением о верификации, в котором описано, как присоединиться к серверу и получить роль `Новичок`.
 
-### Step 2: Go to the channel `★⋅korepi-download⋅★`
+### Шаг 2: Перейдите в канал `★⋅korepi-download⋅★`
 
-Locate the channel `★⋅korepi-download⋅★` and follow the link to download the program.
+Найдите канал `★⋅korepi-download⋅★` и следуйте по ссылке, чтобы скачать программу.
 
-### Step 3: Ready!
+### Шаг 3: Готово!
 
-Place the .rar in a folder and add it to [exclusions](../guide/virus.md), after that extract it and follow this [guide](../guide/getkey.md)
+Поместите файл .rar в папку и добавьте его в [Исключения](../guide/virus.md), после чего извлеките его и следуйте этому [руководству](../guide/getkey.md).

@@ -1,5 +1,5 @@
 ---
-title: Sponsor
+title: Информация для Спонсоров
 icon: user-plus
 category:
   - Guide
@@ -9,6 +9,6 @@ author: Schvis
 order: 9
 ---
 
-## Sponsors
+## Спонсоры
 
-- Sponsors are a legacy role that is no longer obtainable, people with this role are elegible to extra functionality in the software without having to pay again, they also receive some extra perks in the server/software.
+- Спонсоры - это устаревшая роль, которая больше недоступна, люди с этой ролью имеют доступ компенсации, они также получают некоторые дополнительные привилегии в korepi [Отличие версий](differences.md).
