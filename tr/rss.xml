@@ -6,8 +6,8 @@
     <link>https://korepi.com/tr/</link>
     <description>Korepi Yardım Bölümü</description>
     <language>tr</language>
-    <pubDate>Wed, 21 Feb 2024 16:21:28 GMT</pubDate>
-    <lastBuildDate>Wed, 21 Feb 2024 16:21:28 GMT</lastBuildDate>
+    <pubDate>Fri, 23 Feb 2024 14:12:31 GMT</pubDate>
+    <lastBuildDate>Fri, 23 Feb 2024 14:12:31 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Features</category>
@@ -885,7 +885,7 @@
       <pubDate>Tue, 19 Dec 2023 12:28:02 GMT</pubDate>
       <content:encoded><![CDATA[<h2> Sponsors</h2>
 <ul>
-<li>Sponsors are a legacy role that is no longer obtainable, people with this role are elegible to extra functionality in the software without having to pay again, they also receive some extra perks in the server/software.</li>
+<li>Sponsors are a legacy role that is no longer obtainable, people with this role are elegible to extra functionality in the software without having to pay again, they also receive some extra perks in the server/software, <a href="/tr/start/differences.html" target="blank">Difference</a>.</li>
 </ul>
 ]]></content:encoded>
     </item>

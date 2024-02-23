@@ -6,10 +6,11 @@
     <link>https://korepi.com/ru/</link>
     <description>Помощь по Korepi</description>
     <language>ru-RU</language>
-    <pubDate>Wed, 21 Feb 2024 16:21:28 GMT</pubDate>
-    <lastBuildDate>Wed, 21 Feb 2024 16:21:28 GMT</lastBuildDate>
+    <pubDate>Fri, 23 Feb 2024 14:12:31 GMT</pubDate>
+    <lastBuildDate>Fri, 23 Feb 2024 14:12:31 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+    <category>Seller</category>
     <category>Features</category>
     <category>Руководство</category>
     <category>Guide</category>
@@ -17,6 +18,49 @@
     <category>Особенности</category>
     <category>Устранение Неполадок</category>
     <category>Гайд</category>
+    <item>
+      <title>Реселлеры Korepi в СНГ</title>
+      <link>https://korepi.com/ru/start/p2g.html</link>
+      <guid>https://korepi.com/ru/start/p2g.html</guid>
+      <source url="https://korepi.com/ru/rss.xml">Реселлеры Korepi в СНГ</source>
+      <description>Надежные реселлеры Korepi в странах СНГ: butterbrodskiy (discord: butterbrodskiy); Украина; Подробнее butterbrodskiy (https://cis.korepi.com/butterbrodskiy); QweRez (discord: qw...</description>
+      <category>Seller</category>
+      <pubDate>Fri, 23 Feb 2024 14:10:24 GMT</pubDate>
+      <content:encoded><![CDATA[<h1> Реселлеры Korepi в СНГ</h1>
+<p><strong>Надежные реселлеры Korepi в странах СНГ:</strong></p>
+<ul>
+<li>
+<p><strong>butterbrodskiy (discord: butterbrodskiy)</strong></p>
+<ul>
+<li><em>Украина</em></li>
+<li><a href="https://cis.korepi.com/butterbrodskiy" target="_blank" rel="noopener noreferrer">Подробнее butterbrodskiy</a></li>
+</ul>
+</li>
+<li>
+<p><strong>QweRez (discord: qwerezon)</strong></p>
+<ul>
+<li><em>Россия/Казахстан</em></li>
+<li><a href="https://cis.korepi.com/qwerez" target="_blank" rel="noopener noreferrer">Подробнее QweRez</a></li>
+</ul>
+</li>
+<li>
+<p><strong>Moheta (discord: moheta)</strong></p>
+<ul>
+<li><em>Россия</em></li>
+<li><a href="https://cis.korepi.com/Moheta" target="_blank" rel="noopener noreferrer">Подробнее Moheta</a></li>
+</ul>
+</li>
+<li>
+<p><strong>adwin (discord: adwinsx)</strong></p>
+<ul>
+<li><em>Россия</em></li>
+<li><a href="https://cis.korepi.com/Moheta" target="_blank" rel="noopener noreferrer">Подробнее Moheta</a></li>
+</ul>
+</li>
+</ul>
+<p>Если у вас есть вопросы по продажам, обращайтесь к одному из наших продавцов.</p>
+]]></content:encoded>
+    </item>
     <item>
       <title>Others</title>
       <link>https://korepi.com/ru/features/World/others.html</link>
@@ -118,18 +162,18 @@
       <enclosure url="https://korepi.com/assets/images/docs/202402/verify-1.png" type="image/png"/>
     </item>
     <item>
-      <title>Differences between versions</title>
+      <title>Разница версий</title>
       <link>https://korepi.com/ru/start/differences.html</link>
       <guid>https://korepi.com/ru/start/differences.html</guid>
-      <source url="https://korepi.com/ru/rss.xml">Differences between versions</source>
-      <description>Available Features between versions. Version Free SponsorPERTAMAX --------------------------- Attack Effects✓✓✓ Auto Run✓✓✓ Cooldown Effects✓✓✓ Fall Control✓✓✓ God Mode✓✓✓ Infin...</description>
+      <source url="https://korepi.com/ru/rss.xml">Разница версий</source>
+      <description>Доступные функции в разных версиях. Функции/Версия Free SponsorPERTAMAX --------------------------- Attack Effects✓✓✓ Auto Run✓✓✓ Cooldown Effects✓✓✓ Fall Control✓✓✓ God Mode✓✓✓...</description>
       <category>Guide</category>
       <pubDate>Sat, 13 Jan 2024 00:53:24 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Available Features between versions.</h2>
+      <content:encoded><![CDATA[<h2> Доступные функции в разных версиях.</h2>
 <table>
 <thead>
 <tr>
-<th>Version</th>
+<th>Функции/Версия</th>
 <th>Free</th>
 <th>Sponsor</th>
 <th>PERTAMAX</th>
@@ -743,8 +787,7 @@ pass korepi</p>
 <h3> Шаг 5: Наслаждайтесь поездкой</h3>
 <p>Телепорты запустятся автоматически. Если у вас есть <a href="/ru/start/sponsor.html" target="blank">Спонсор</a>, вы сможете видеть прогресс и оставшееся время.</p>
 <h2> Video</h2>
-<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/RR3ASYCr9rk" title="Part 1 - How to Use 'Custom Teleports' in Colorpicker or Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
-]]></content:encoded>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/RR3ASYCr9rk" title="Part 1 - How to Use 'Custom Teleports' in Colorpicker or Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>]]></content:encoded>
       <enclosure url="https://korepi.com/assets/images/docs/202312/teleport1.png" type="image/png"/>
     </item>
     <item>
@@ -752,68 +795,68 @@ pass korepi</p>
       <link>https://korepi.com/ru/guide/getkey.html</link>
       <guid>https://korepi.com/ru/guide/getkey.html</guid>
       <source url="https://korepi.com/ru/rss.xml">Как получить ключ</source>
-      <description>Verification Tutorial If you got an active subscription, don&amp;apos;t bind any other card or you will lose your current subscription. If you bind any other card, you wont be able to cl...</description>
+      <description>Руководство по верификации Если у вас есть активная подписка, не привязывайте другую карту, иначе вы потеряете текущую подписку. Если вы привяжете другую карту, вы не сможете по...</description>
       <category>Руководство</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Verification Tutorial</h2>
+      <content:encoded><![CDATA[<h2> Руководство по верификации</h2>
 <p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/dEnSM8gwYdDwbnD/preview"><source src="https://nextcloud.atruicardona.xyz/s/dEnSM8gwYdDwbnD/download" type="video/mp4"></video></p>
 <div class="hint-container danger">
-<p class="hint-container-title">If you got an active subscription, don't bind any other card or you will lose your current subscription. If you bind any other card, you wont be able to claim your sponsor compensation.</p>
+<p class="hint-container-title">Если у вас есть активная подписка, не привязывайте другую карту, иначе вы потеряете текущую подписку. Если вы привяжете другую карту, вы не сможете получить компенсацию от спонсора.</p>
 </div>
-<h3> Step 1:</h3>
+<h3> Шаг 1:</h3>
 <ul>
 <li>
-<p>Find the <code>★⋅micah-bot-verify⋅★</code> channel <a href="https://discord.com/channels/1069057220802781265/1203687333107335198" target="_blank" rel="noopener noreferrer">direct link</a></p>
+<p>Найдите канал <code>★⋅micah-bot-verify⋅★</code> <a href="https://discord.com/channels/1069057220802781265/1203687333107335198" target="_blank" rel="noopener noreferrer">ссылка</a></p>
 <p><img src="/assets/images/docs/202402/verify-1.png" alt="img.png" loading="lazy"></p>
 </li>
 <li>
-<p>Find the message sent by Micah-bot</p>
+<p>Найдите сообщение, отправленное Micah-bot</p>
 </li>
 </ul>
-<h3> Step 2:</h3>
-<p>For free version follow this <a href="/ru/guide/free.html" target="blank">link</a>.</p>
+<h3> Шаг 2:</h3>
+<p>Для бесплатной версии перейдите по <a href="/ru/guide/free.html" target="blank">ссылке</a>.</p>
 <div class="hint-container tip">
-<p class="hint-container-title">If you already got an active subscription, please click on stack card instead, to merge with your current subscription.</p>
+<p class="hint-container-title">Если у вас уже есть активная подписка, нажмите на карту стопки, чтобы объединить ее с текущей подпиской.</p>
 </div>
-<p>If you bought a key from a reseller, click on <code>bind card str</code> and paste in your key.</p>
+<p>Если вы купили ключ у перекупщика, нажмите <code>bind card str</code> и вставьте свой ключ.</p>
 <div class="hint-container info">
-<p class="hint-container-title">If you are a Sponsor before February 4th, 2024, click "Sponsor Compensation" and enter "YES" to receive 3 months of compensation time, after successfully claiming your "card" follow the next step"</p>
+<p class="hint-container-title">Если вы являетесь Спонсором до 4 февраля 2024 года, нажмите "Компенсация спонсора" и введите "ДА", чтобы получить компенсацию в течение 3 месяцев, после успешного получения "карты" следуйте следующему шагу.</p>
 </div>
-<h3> Step 3:</h3>
+<h3> Шаг 3:</h3>
 <div class="hint-container info">
-<p class="hint-container-title">If you already got a enc.json delete it before opening the program</p>
+<p class="hint-container-title">Если у вас уже есть файл enc.json, удалите его перед открытием программы</p>
 </div>
-<p>Click <code>Get Verification File</code>, and you need to fill in your <code>HWID (device ID)</code> obtainable after opening the program once.</p>
+<p>Нажмите <code>Get Verification File</code> и введите свой <code>HWID (идентификатор устройства)</code>, который можно получить после открытия программы один раз.</p>
 <ul>
-<li>You will get a file from the bot, download it and place it on your korepi folder. Make sure the name is <code>enc.json</code>.</li>
+<li>Вы получите файл от бота, скачайте его и поместите в папку korepi. Убедитесь, что имя файла - <code>enc.json</code>.</li>
 </ul>
-<p>You can also click <code>View Subscription Information</code> to view your subscription information.</p>
-<h2> How to pause the key</h2>
-<p>Click on <code>Pause Card</code> and type <code>YES</code> to pause it. You can unpause it anytime and your subscription will continue.</p>
+<p>Вы также можете нажать <code>View Subscription Information</code>, чтобы просмотреть информацию о вашей подписке.</p>
+<h2> Как приостановить ключ</h2>
+<p>Нажмите <code>Pause Card</code> и введите <code>YES</code>, чтобы приостановить его. Вы можете возобновить его в любое время, и ваша подписка продолжится.</p>
 <div class="hint-container info">
-<p class="hint-container-title">You can only pause the key once every 30 days</p>
+<p class="hint-container-title">Вы можете приостановить ключ только один раз в 30 дней</p>
 </div>
-<h2> How to change HWID (Device ID)</h2>
-<p>Click on <code>ID(Change HWID)</code>, and paste in the new <code>HWID</code> you get from opening the program, after that download the new file and place it on your Korepi folder.</p>
+<h2> Как изменить HWID (идентификатор устройства)</h2>
+<p>Нажмите <code>ID(Change HWID)</code>, вставьте новый <code>HWID</code>, который вы получаете после открытия программы, после чего скачайте новый файл и поместите его в папку Korepi.</p>
 <div class="hint-container info">
-<p class="hint-container-title">You can only reset the HWID once every 7 days</p>
+<p class="hint-container-title">Вы можете сбросить HWID только один раз в 7 дней</p>
 </div>
-<h2> MD5 Verification Issue</h2>
-<p>Each time you obtain the <code>enc.json</code> file again, the previous <code>enc.json</code> file will become invalid.</p>
-<p>If the new one is still invalid, please obtain the file again. If it still doesn't work, wait for a while and try again.</p>
+<h2> Проблема с проверкой MD5</h2>
+<p>Каждый раз, когда вы снова получаете файл <code>enc.json</code>, предыдущий файл <code>enc.json</code> становится недействительным.</p>
+<p>Если новый все еще недействителен, повторно получите файл. Если это по-прежнему не работает, подождите некоторое время и попробуйте снова.</p>
 ]]></content:encoded>
       <enclosure url="https://korepi.com/assets/images/docs/202402/verify-1.png" type="image/png"/>
     </item>
     <item>
-      <title>Как использовать множественные экземпляры</title>
+      <title>Несколько окон</title>
       <link>https://korepi.com/ru/guide/multi-instance.html</link>
       <guid>https://korepi.com/ru/guide/multi-instance.html</guid>
-      <source url="https://korepi.com/ru/rss.xml">Как использовать множественные экземпляры</source>
-      <description>::: info работает только с локальной версией (V) Как использовать несколько экземпляров (открыть два окна игры одновременно)</description>
+      <source url="https://korepi.com/ru/rss.xml">Несколько окон</source>
+      <description>::: info Временно не работает Как использовать несколько экземпляров (открыть два окна игры одновременно)</description>
       <category>Руководство</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
       <content:encoded><![CDATA[<div class="hint-container info">
-<p class="hint-container-title">работает только с локальной версией (V)</p>
+<p class="hint-container-title">Временно не работает</p>
 <hr>
 <h2> Как использовать несколько экземпляров (открыть два окна игры одновременно)</h2>
 <hr>
@@ -2080,32 +2123,32 @@ pass korepi</p>
       <link>https://korepi.com/ru/start/download.html</link>
       <guid>https://korepi.com/ru/start/download.html</guid>
       <source url="https://korepi.com/ru/rss.xml">Загрузка</source>
-      <description>Introduction Welcome to our community! To pass the bot check and receive the Newcomer role, follow these steps. Step 1: Join our server and obtain the Newcomer role If you haven...</description>
+      <description>Введение Добро пожаловать в наше сообщество! Чтобы пройти проверку бота и получить роль Новичок, выполните следующие шаги. Шаг 1: Присоединитесь к нашему серверу и получите роль...</description>
       <category>Руководство</category>
       <pubDate>Wed, 29 Nov 2023 18:44:10 GMT</pubDate>
-      <content:encoded><![CDATA[<h1> Download</h1>
+      <content:encoded><![CDATA[<h1> Загрузка</h1>
 <p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/HFYfj2E25cFYnYC/preview"><source src="https://nextcloud.atruicardona.xyz/s/HFYfj2E25cFYnYC/download" type="video/mp4"></video></p>
-<h2> Introduction</h2>
-<p>Welcome to our community! To pass the bot check and receive the <code>Newcomer</code> role, follow these steps.</p>
-<h3> Step 1: Join our server and obtain the <code>Newcomer</code> role</h3>
-<p>If you haven't joined the server yet, please read the verification post, which describes how to join the server and obtain the <code>Newcomer</code>.</p>
-<h3> Step 2: Go to the channel <code>★⋅korepi-download⋅★</code></h3>
-<p>Locate the channel <code>★⋅korepi-download⋅★</code> and follow the link to download the program.</p>
-<h3> Step 3: Ready!</h3>
-<p>Place the .rar in a folder and add it to <a href="/ru/guide/virus.html" target="blank">exclusions</a>, after that extract it and follow this <a href="/ru/guide/getkey.html" target="blank">guide</a></p>
+<h2> Введение</h2>
+<p>Добро пожаловать в наше сообщество! Чтобы пройти проверку бота и получить роль <code>Новичок</code>, выполните следующие шаги.</p>
+<h3> Шаг 1: Присоединитесь к нашему серверу и получите роль <code>Новичок</code></h3>
+<p>Если вы еще не присоединились к серверу, ознакомьтесь с сообщением о верификации, в котором описано, как присоединиться к серверу и получить роль <code>Новичок</code>.</p>
+<h3> Шаг 2: Перейдите в канал <code>★⋅korepi-download⋅★</code></h3>
+<p>Найдите канал <code>★⋅korepi-download⋅★</code> и следуйте по ссылке, чтобы скачать программу.</p>
+<h3> Шаг 3: Готово!</h3>
+<p>Поместите файл .rar в папку и добавьте его в <a href="/ru/guide/virus.html" target="blank">Исключения</a>, после чего извлеките его и следуйте этому <a href="/ru/guide/getkey.html" target="blank">руководству</a>.</p>
 ]]></content:encoded>
     </item>
     <item>
-      <title>Sponsor</title>
+      <title>Информация для Спонсоров</title>
       <link>https://korepi.com/ru/start/sponsor.html</link>
       <guid>https://korepi.com/ru/start/sponsor.html</guid>
-      <source url="https://korepi.com/ru/rss.xml">Sponsor</source>
-      <description>Sponsors Sponsors are a legacy role that is no longer obtainable, people with this role are elegible to extra functionality in the software without having to pay again, they als...</description>
+      <source url="https://korepi.com/ru/rss.xml">Информация для Спонсоров</source>
+      <description>Спонсоры Спонсоры - это устаревшая роль, которая больше недоступна, люди с этой ролью имеют доступ компенсации, они также получают некоторые дополнительные привилегии в korepi О...</description>
       <category>Guide</category>
       <pubDate>Mon, 27 Nov 2023 07:17:28 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Sponsors</h2>
+      <content:encoded><![CDATA[<h2> Спонсоры</h2>
 <ul>
-<li>Sponsors are a legacy role that is no longer obtainable, people with this role are elegible to extra functionality in the software without having to pay again, they also receive some extra perks in the server/software.</li>
+<li>Спонсоры - это устаревшая роль, которая больше недоступна, люди с этой ролью имеют доступ компенсации, они также получают некоторые дополнительные привилегии в korepi <a href="/ru/start/differences.html" target="blank">Отличие версий</a>.</li>
 </ul>
 ]]></content:encoded>
     </item>

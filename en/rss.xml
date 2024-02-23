@@ -6,8 +6,8 @@
     <link>https://korepi.com/en/</link>
     <description>Help on Korepi</description>
     <language>en-US</language>
-    <pubDate>Wed, 21 Feb 2024 16:21:28 GMT</pubDate>
-    <lastBuildDate>Wed, 21 Feb 2024 16:21:28 GMT</lastBuildDate>
+    <pubDate>Fri, 23 Feb 2024 14:12:31 GMT</pubDate>
+    <lastBuildDate>Fri, 23 Feb 2024 14:12:31 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Features</category>
@@ -2120,7 +2120,7 @@ In order to use custom skins in we will need to download:</p>
       <category>Guide</category>
       <pubDate>Sat, 25 Nov 2023 16:34:42 GMT</pubDate>
       <content:encoded><![CDATA[<ul>
-<li>Sponsors are a legacy role that is no longer obtainable, people with this role are elegible to extra functionality in the software without having to pay again, they also receive some extra perks in the server/software.</li>
+<li>Sponsors are a legacy role that is no longer obtainable, people with this role are elegible to extra functionality in the software without having to pay again, they also receive some extra perks in the server/software, <a href="/en/start/differences.html" target="blank">Difference</a>.</li>
 </ul>
 ]]></content:encoded>
     </item>

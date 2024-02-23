@@ -6,8 +6,8 @@
     <link>https://korepi.com/jp/</link>
     <description>Korepiに関するヘルプ</description>
     <language>ja-JP</language>
-    <pubDate>Wed, 21 Feb 2024 16:21:28 GMT</pubDate>
-    <lastBuildDate>Wed, 21 Feb 2024 16:21:28 GMT</lastBuildDate>
+    <pubDate>Fri, 23 Feb 2024 14:12:31 GMT</pubDate>
+    <lastBuildDate>Fri, 23 Feb 2024 14:12:31 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Features</category>
@@ -839,12 +839,12 @@
       <link>https://korepi.com/jp/start/sponsor.html</link>
       <guid>https://korepi.com/jp/start/sponsor.html</guid>
       <source url="https://korepi.com/jp/rss.xml">スポンサー</source>
-      <description>スポンサー スポンサーは昔の役割で、もう手に入れることはできません。この役割を持つ人は、追加で買うことなくKPの追加機能を利用することができます。;</description>
+      <description>スポンサー スポンサーは昔の役割で、もう手に入れることはできません。この役割を持つ人は、追加で買うことなくKPの追加機能を利用することができます。, Difference (differences.md).;</description>
       <category>ガイド</category>
       <pubDate>Wed, 03 Jan 2024 06:45:45 GMT</pubDate>
       <content:encoded><![CDATA[<h2> スポンサー</h2>
 <ul>
-<li>スポンサーは昔の役割で、もう手に入れることはできません。この役割を持つ人は、追加で買うことなくKPの追加機能を利用することができます。</li>
+<li>スポンサーは昔の役割で、もう手に入れることはできません。この役割を持つ人は、追加で買うことなくKPの追加機能を利用することができます。, <a href="/jp/start/differences.html" target="blank">Difference</a>.</li>
 </ul>
 ]]></content:encoded>
     </item>

@@ -6,8 +6,8 @@
     <link>https://korepi.com/vi/</link>
     <description>Trợ giúp về Korepi</description>
     <language>vi-VN</language>
-    <pubDate>Wed, 21 Feb 2024 16:21:28 GMT</pubDate>
-    <lastBuildDate>Wed, 21 Feb 2024 16:21:28 GMT</lastBuildDate>
+    <pubDate>Fri, 23 Feb 2024 14:12:31 GMT</pubDate>
+    <lastBuildDate>Fri, 23 Feb 2024 14:12:31 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Tính Năng</category>
@@ -2175,7 +2175,7 @@ Lưu ý 2: Không khuyến khích sử dụng chức năng này.</p>
       <pubDate>Thu, 30 Nov 2023 15:50:40 GMT</pubDate>
       <content:encoded><![CDATA[<h2> Nhà Tài Trợ</h2>
 <ul>
-<li>Nhà Tài Trợ là một vai trò cũ mà bạn không thể nhận được nữa. Những người hiện có vai trò này có thể sử dụng một số tính năng mà bản miễn phí không có. Đồng thời họ cũng nhận được một số đặc quyền trong server Discord và Korepi.</li>
+<li>Nhà Tài Trợ là một vai trò cũ mà bạn không thể nhận được nữa. Những người hiện có vai trò này có thể sử dụng một số tính năng mà bản miễn phí không có. Đồng thời họ cũng nhận được một số đặc quyền trong server Discord và Korepi, <a href="/vi/start/differences.html" target="blank">Difference</a>.</li>
 </ul>
 ]]></content:encoded>
     </item>

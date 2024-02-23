@@ -6,8 +6,8 @@
     <link>https://korepi.com/ko/</link>
     <description>Korepi 도움말</description>
     <language>ko-KR</language>
-    <pubDate>Wed, 21 Feb 2024 16:21:28 GMT</pubDate>
-    <lastBuildDate>Wed, 21 Feb 2024 16:21:28 GMT</lastBuildDate>
+    <pubDate>Fri, 23 Feb 2024 14:12:31 GMT</pubDate>
+    <lastBuildDate>Fri, 23 Feb 2024 14:12:31 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Features</category>
@@ -2023,12 +2023,12 @@ Note 2: You can find the items IDs <a href="https://github.com/jie65535/Grasscut
       <link>https://korepi.com/ko/start/sponsor.html</link>
       <guid>https://korepi.com/ko/start/sponsor.html</guid>
       <source url="https://korepi.com/ko/rss.xml">스폰서</source>
-      <description>스폰서 스폰서는 더 이상 얻을 수 없는 레거시 역할입니다. 이 역할을 가진 사람들은 다시 후원할 필요 없이 소프트웨어의 추가 기능을 누릴 수 있고, 서버 및 소프트웨어의 추가 특전을 받습니다.;</description>
+      <description>스폰서 스폰서는 더 이상 얻을 수 없는 레거시 역할입니다. 이 역할을 가진 사람들은 다시 후원할 필요 없이 소프트웨어의 추가 기능을 누릴 수 있고, 서버 및 소프트웨어의 추가 특전을 받습니다, Difference (differences.md).;</description>
       <category>가이드</category>
       <pubDate>Tue, 19 Dec 2023 11:43:03 GMT</pubDate>
       <content:encoded><![CDATA[<h2> 스폰서</h2>
 <ul>
-<li>스폰서는 더 이상 얻을 수 없는 레거시 역할입니다. 이 역할을 가진 사람들은 다시 후원할 필요 없이 소프트웨어의 추가 기능을 누릴 수 있고, 서버 및 소프트웨어의 추가 특전을 받습니다.</li>
+<li>스폰서는 더 이상 얻을 수 없는 레거시 역할입니다. 이 역할을 가진 사람들은 다시 후원할 필요 없이 소프트웨어의 추가 기능을 누릴 수 있고, 서버 및 소프트웨어의 추가 특전을 받습니다, <a href="/ko/start/differences.html" target="blank">Difference</a>.</li>
 </ul>
 ]]></content:encoded>
     </item>

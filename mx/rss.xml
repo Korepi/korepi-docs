@@ -6,8 +6,8 @@
     <link>https://korepi.com/mx/</link>
     <description>Ayuda en Korepi</description>
     <language>es-MX</language>
-    <pubDate>Wed, 21 Feb 2024 16:21:28 GMT</pubDate>
-    <lastBuildDate>Wed, 21 Feb 2024 16:21:28 GMT</lastBuildDate>
+    <pubDate>Fri, 23 Feb 2024 14:12:31 GMT</pubDate>
+    <lastBuildDate>Fri, 23 Feb 2024 14:12:31 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Funciones</category>
@@ -842,7 +842,7 @@ Para poder usar skins personalizadas en Korepi tendremos que descargar la aplica
       <pubDate>Wed, 20 Dec 2023 19:58:51 GMT</pubDate>
       <content:encoded><![CDATA[<h2> Patrocinadores</h2>
 <ul>
-<li>Los Sponsor, también conocido como patrocinadores es un rol viejo, ya no se puede obtener de ninguna forma, las personas con este rol reciben funcionalidades extra dentro del programa y el servidor.</li>
+<li>Los Sponsor, también conocido como patrocinadores es un rol viejo, ya no se puede obtener de ninguna forma, las personas con este rol reciben funcionalidades extra dentro del programa y el servidor, <a href="/mx/start/differences.html" target="blank">Difference</a>.</li>
 </ul>
 ]]></content:encoded>
     </item>
