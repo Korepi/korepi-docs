@@ -6,7 +6,7 @@ category:
 tag:
   - Start
 author: Schvis
-order: 3
+order: 8
 ---
 
 ## How to Multi-instance (Open 2 game window at the same time)
