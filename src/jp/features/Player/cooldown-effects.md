@@ -2,7 +2,7 @@
 title: クールタイム効果
 icon: clock-rotate-left
 category:
-  - 特徴
+  - 機能
 tag:
   - クールタイム効果
 author: Schvis

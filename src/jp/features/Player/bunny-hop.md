@@ -2,7 +2,7 @@
 title: バニーホップ
 icon: carrot
 category:
-  - 特徴
+  - 機能
 tag:
   - バニーホップ
 author: Schvis
@@ -14,6 +14,6 @@ order: 3
 ---
 ## バニーホップを有効にすると、最初のジャンプ後に自動的にジャンプします。
 
-## ビデオ:
+## ビデオ
 
 <video controls preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/5NYq9Rcf7852oJD/preview"><source src="https://nextcloud.atruicardona.xyz/s/5NYq9Rcf7852oJD/download" type="video/mp4"></video>

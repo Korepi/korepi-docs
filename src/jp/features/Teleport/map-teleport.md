@@ -2,7 +2,7 @@
 title: マップテレポート
 icon: person-rays
 category:
-  - 特徴
+  - 機能
 tag:
   - マップテレポート
 author: Schvis
@@ -16,7 +16,7 @@ order: 4
 ### 高速テレポート (<span style='color:yellow;'>スポンサー</span>):
 - テレポート中に選択した距離内のロード画面を無効にする。
 
-## ビデオ:
+## ビデオ
 
 <video controls preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/x8LsMBL3iX2fbRe/preview"><source src="https://nextcloud.atruicardona.xyz/s/x8LsMBL3iX2fbRe/download" type="video/mp4"></video>
 

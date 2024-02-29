@@ -2,7 +2,7 @@
 title: カスタムテレポート
 icon: person-rays
 category:
-  - 特徴
+  - 機能
 tag:
   - カスタムテレポート
 author: Schvis

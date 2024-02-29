@@ -2,7 +2,7 @@
 title: テクスチャ変更
 icon: list
 category:
-  - 特徴
+  - 機能
 tag:
   - テクスチャ変更
 author: Schvis

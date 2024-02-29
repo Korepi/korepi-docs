@@ -2,7 +2,7 @@
 title: 移動速度
 icon: forward-fast
 category:
-  - 特徴
+  - 機能
 tag:
   - 移動速度
 author: Schvis

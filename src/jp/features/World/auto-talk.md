@@ -2,7 +2,7 @@
 title: 自動会話
 icon: comments
 category:
-  - 特徴
+  - 機能
 tag:
   - 自動会話
 author: Schvis
@@ -26,7 +26,7 @@ order: 8
 - カットシーンをスキップする。
 > 注：使用中に黒い画面が表示されることがあります。
 
-## ビデオ:
+## ビデオ
 
 <video controls preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/7ceaQqesRBQcqxr/preview"><source src="https://nextcloud.atruicardona.xyz/s/7ceaQqesRBQcqxr/download" type="video/mp4"></video>
 

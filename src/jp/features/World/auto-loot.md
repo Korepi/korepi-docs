@@ -2,7 +2,7 @@
 title: 自動取得
 icon: hand
 category:
-  - 特徴
+  - 機能
 tag:
   - 自動取得
 author: Schvis, Chloe
@@ -11,7 +11,7 @@ order: 6
 
 ## 自動取得は、選択した範囲と遅延でドロップ品を自動収集することができます。収集されるドロップ品は、チェスト、モブドロップなどを含むカスタマイズが可能です。
 
-## ビデオ:
+## ビデオ
 
 <video controls preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/ekNmga3Ffe9TxDN/preview"><source src="https://nextcloud.atruicardona.xyz/s/ekNmga3Ffe9TxDN/download" type="video/mp4"></video>
 

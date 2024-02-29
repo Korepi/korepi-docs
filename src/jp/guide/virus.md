@@ -36,6 +36,6 @@ Windows の検索バーを開き、 `Windows Security` を検索し、開きま�
 
 ポップアップに[はい]をクリックし、[除外の追加]をクリックしてフォルダを選択し、Korepiフォルダを選択します。
 
-## Video
+## ビデオ
 
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/BonLkFNnO9w" title="How to Exclude a File or Folder from Windows Defender Scan In Windows 10 [Tutorial]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>

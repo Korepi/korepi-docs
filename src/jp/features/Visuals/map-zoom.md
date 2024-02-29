@@ -2,7 +2,7 @@
 title: マップズーム
 icon: map
 category:
-  - 特徴
+  - 機能
 tag:
   - マップズーム
 author: Schvis

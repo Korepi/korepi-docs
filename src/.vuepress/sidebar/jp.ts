@@ -16,13 +16,13 @@ export const jpSidebar = sidebar({
       children: "structure",
     },
     {
-      text: "特徴",
+      text: "機能",
       icon: "sitemap",
       prefix: "features/",
       children: "structure",
     },
     {
-      text: "トラブルシューティング",
+      text: "トラブルシュート",
       icon: "info-circle",
       prefix: "troubleshoot/",
       children: "structure",

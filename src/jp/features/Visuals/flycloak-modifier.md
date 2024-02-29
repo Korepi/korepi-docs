@@ -2,7 +2,7 @@
 title: 風の翼変更
 icon: arrows-rotate
 category:
-  - 特徴
+  - 機能
 tag:
   - 風の翼変更
 author: Schvis
