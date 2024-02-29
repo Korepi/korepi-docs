@@ -2,7 +2,7 @@
 title: キルオーラ
 icon: street-view
 category:
-  - 特徴
+  - 機能
 tag:
   - キルオーラ
 author: Schvis
@@ -29,7 +29,7 @@ order: 12
 ### 対象/敵対状態のみ:
 - 敵対的なモブだけをターゲットにする。
 
-## ビデオ:
+## ビデオ
 
 <video controls preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/CW5fzAXWC3CPfdN/preview"><source src="https://nextcloud.atruicardona.xyz/s/CW5fzAXWC3CPfdN/download" type="video/mp4"></video>
 

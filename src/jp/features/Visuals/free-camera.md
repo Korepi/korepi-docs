@@ -2,7 +2,7 @@
 title: 幽体離脱
 icon: camera-rotate
 category:
-  - 特徴
+  - 機能
 tag:
   - 幽体離脱
 author: Schvis

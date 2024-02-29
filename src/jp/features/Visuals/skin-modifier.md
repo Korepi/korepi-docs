@@ -2,7 +2,7 @@
 title: スキン変更
 icon: list
 category:
-  - 特徴
+  - 機能
 tag:
   - スキン変更
 author: Schvis

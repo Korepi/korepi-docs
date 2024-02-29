@@ -2,7 +2,7 @@
 title: 表情変更
 icon: face-smile
 category:
-  - 特徴
+  - 機能
 tag:
   - 表情変更
 author: Schvis

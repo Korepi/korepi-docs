@@ -2,7 +2,7 @@
 title: 命ノ星座変更
 icon: retweet
 category:
-  - 特徴
+  - 機能
 tag:
   - 命ノ星座変更
 author: Schvis
@@ -17,6 +17,6 @@ order: 3
 ::: tip まず星座を発動させたい各キャラクターに切り替えてから、遠くにテレポートして発動させなければならない。
 :::
 ---
-## ビデオ:
+## ビデオ
 
 <video controls preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/kzizWdRXjmnDL8G/preview"><source src="https://nextcloud.atruicardona.xyz/s/kzizWdRXjmnDL8G/download" type="video/mp4"></video>

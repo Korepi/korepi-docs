@@ -2,7 +2,7 @@
 title: 自動開放
 icon: satellite-dish
 category:
-  - 特徴
+  - 機能
 tag:
   - 自動開放
 author: Schvis, Chloe
@@ -12,6 +12,7 @@ order: 1
 :::
 ---
 ### 自動開放は、50mまでの近くのウェイポイントをアクティブにする。
-## ビデオ:
+
+## ビデオ
 
 <video controls preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/ydzPcwiLDfEGMJY/preview"><source src="https://nextcloud.atruicardona.xyz/s/ydzPcwiLDfEGMJY/download" type="video/mp4"></video>

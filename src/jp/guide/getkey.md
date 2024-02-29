@@ -10,11 +10,11 @@ author: Schvis
 order: 1
 ---
 
-## 認証チュートリアル
+## チュートリアル
 
 <video controls preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/dEnSM8gwYdDwbnD/preview"><source src="https://nextcloud.atruicardona.xyz/s/dEnSM8gwYdDwbnD/download" type="video/mp4"></video>
 
-::: danger If you got an active subscription, don't bind any other card or you will lose your current subscription. If you bind any other card, you wont be able to claim your sponsor compensation.
+::: danger アクティブなサブスク契約を結んでいる場合、サブスクカード以外をバインドしないでください。他のカードをバインドすると、サブスクカードを入手することができなくなります。
 :::
 
 ### ステップ 1:
@@ -25,18 +25,18 @@ order: 1
 ### ステップ 2:
 無料版はこの[リンク](free.md)から。
 
-::: tip If you already got an active subscription, please click on stack card instead, to merge with your current subscription.
+::: tip すでにアクティブなサブスクをお持ちの場合は、代わりにスタックカードをクリックして、現在のサブスクと統合してください。
 :::
 
-再販業者からキーを購入した場合は、`bind card str` をクリックし、キーを貼り付けます。
+販売業者からキーを購入した場合は、`bind card str` をクリックし、キーを貼り付けます。
 
 ::: info 2024年2月4日以前にスポンサーになった方は、「Sponsor Compensation」をクリックし、「YES」と入力してください。
 :::
 ### ステップ 3:
 ::: info すでにenc.jsonをお持ちの場合は、プログラムを開く前に削除してください。
 :::
-`Get Verification File`をクリックし、プログラムを開いた後に取得できる`HWID (デバイスID)`をペーストする。
-- botからファイルが送られてくるので、それをダウンロードしてkorepiフォルダに置いてください。ファイル名が`enc.json`であることを確認してください。
+`Get Verification File`をクリックし、プログラムを開いた後に取得できる`HWID`をペーストする。
+- botからファイルが送られてくるので、それをダウンロードしてKorepiフォルダに置いてください。ファイル名が`enc.json`であることを確認してください。
 
 また、`View Subscription Information`をクリックすると、サブスク情報を見ることができます。
 
@@ -47,7 +47,7 @@ order: 1
 ::: info キーを一時停止できるのは30日に1度だけです。
 :::
 
-## HWID（デバイスID）の変更方法
+## HWIDの変更方法
 
 `ID(Change HWID)`をクリックし、プログラムを開いて新しく得た`HWID` を貼り付け、新しいファイルをダウンロードしてKorepiフォルダに置く
 

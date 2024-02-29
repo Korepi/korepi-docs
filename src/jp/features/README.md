@@ -1,7 +1,7 @@
 ---
 title: 機能一覧
 icon: "book"
-category: 特徴
+category: 機能
 tag: Start
 author: Schvis
 ---

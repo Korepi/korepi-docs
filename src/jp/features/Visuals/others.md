@@ -2,7 +2,7 @@
 title: その他
 icon: layer-group
 category:
-  - 特徴
+  - 機能
 tag:
   - その他
 author: Schvis
@@ -26,6 +26,6 @@ order: 17
 ### 足跡無効化
 ### 元素爆発の演出無効化
 
-## ビデオ:
+## ビデオ
 
 <video controls preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/eMP6xMRxWbfSqti/preview"><source src="https://nextcloud.atruicardona.xyz/s/eMP6xMRxWbfSqti/download" type="video/mp4"></video>

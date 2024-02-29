@@ -8,16 +8,16 @@ bgImageDark: https://theme-hope-assets.vuejs.press/bg/6-dark.svg
 bgImageStyle:
  background-attachment: fixed
 heroText: Korepi
-tagline: 高品質で使いやすいKorepiの便利ツールを提供しています！
+tagline: 高品質で使いやすい便利ツール「Korepi」を提供しています！
 actions:
 - text: ダウンロード
   icon: download
   link: ./start/download
   type: primary
-- text: すぐに始める
+- text: 今すぐ始める！
   icon: lightbulb
   link: ./start/
-- text: 案内
+- text: ガイド
   icon: book
   link: ./guide/
 
@@ -27,8 +27,8 @@ highlights:
   bgImage: https://theme-hope-assets.vuejs.press/bg/3-light.svg
   bgImageDark: https://theme-hope-assets.vuejs.press/bg/3-dark.svg
   highlights:
-    - title: 未知の場所を開放する
-    - title: 宝物を自動で探索！
+    - title: 未知の場所を開放する！
+    - title: 宝箱を自動で探索！
     - title: 探索モードで、ゲームにもっと集中しよう！
     - title: 多言語に対応！
 
@@ -46,10 +46,10 @@ highlights:
       details: マップ/マーク/タスク間をテレポート
     - title: 無敵モード
       icon: shield
-      details: キャラクターを無敵にします
+      details: キャラクターを無敵状態にします
     - title: 攻撃効果（マルチヒット／ターゲット／アニメーション）
       icon: gun
-      details: マルチヒット、ターゲット、アニメーションを含む攻撃の状態を変更します
+      details: マルチヒット、ターゲット、アニメーションを含む様々な機能で攻撃を変更します
     - title: クールタイム無効化  (元素スキル/元素爆発/ダッシュ/弓)
       icon: clock
       details: 元素スキル、元素爆発、ダッシュ、弓などの様々なクールタイムを無効にします
@@ -68,7 +68,7 @@ highlights:
     - title: 敵の行動停止
       icon: snowflake
       details: 敵のアニメーションを停止します
-    - title: 鉱石/シールド/置物/植物の自動破壊
+    - title: 鉱石/シールド/置物の自動破壊
       icon: hammer
       details: 付近の様々なオブジェクトを自動で破壊します
     - title: 自動取得/宝箱を開ける
@@ -85,7 +85,7 @@ highlights:
       details: 自動で木を伐採できるようにします
     - title: 自動調理
       icon: utensils
-      details: プレイヤーが操作せずに自動で調理する
+      details: プレイヤーが操作することなく自動で調理します
     - title: モンスター引き寄せ
       icon: tornado
       details: 近くにいる様々なモンスターを呼び寄せます
@@ -103,7 +103,7 @@ highlights:
       details: マップのズーム機能を追加しました
     - title: 即重撃（現在は設定可能）
       icon: bolt
-      details: 現在は即重撃を設定できるようになりました
+      details: 即重撃を設定できるようになりました
     - title: 会話スキップ
       icon: arrow-right
       details: 会話を即スキップできるようになりました
@@ -115,7 +115,7 @@ highlights:
       details: 七天神像に関する問題を修正
 
 - header: 私たちの強み
-  description: 私たちの活動の詳細をご紹介します。
+  description: 私たちの活動の一部をご紹介します。
   image: /assets/images/web/blog.svg
   bgImage: https://theme-hope-assets.vuejs.press/bg/5-light.svg
   bgImageDark: https://theme-hope-assets.vuejs.press/bg/5-dark.svg

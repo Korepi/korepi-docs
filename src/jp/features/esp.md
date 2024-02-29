@@ -2,7 +2,7 @@
 title: ESP
 icon: satellite-dish
 category:
-  - 特徴
+  - 機能
 tag:
   - ESP
 author: Schvis
