@@ -6,16 +6,33 @@
     <link>https://korepi.com/pt/</link>
     <description>Ajuda em Korepi</description>
     <language>pt-BR</language>
-    <pubDate>Fri, 23 Feb 2024 14:12:31 GMT</pubDate>
-    <lastBuildDate>Fri, 23 Feb 2024 14:12:31 GMT</lastBuildDate>
+    <pubDate>Sun, 03 Mar 2024 10:07:41 GMT</pubDate>
+    <lastBuildDate>Sun, 03 Mar 2024 10:07:41 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+    <category>Guide</category>
     <category>Features</category>
     <category>Guia</category>
-    <category>Guide</category>
     <category>FAQ</category>
     <category>Funções</category>
     <category>Erros</category>
+    <item>
+      <title>Where to buy?</title>
+      <link>https://korepi.com/pt/guide/seller.html</link>
+      <guid>https://korepi.com/pt/guide/seller.html</guid>
+      <source url="https://korepi.com/pt/rss.xml">Where to buy?</source>
+      <description>Where can i buy PERTAMAX version? You can find our official sellers on our discord server. You can find the currency that suits you in Sellers (https://discord.com/channels/1069...</description>
+      <category>Guide</category>
+      <pubDate>Thu, 29 Feb 2024 23:14:22 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Where can i buy PERTAMAX version?</h2>
+<p>You can find our official sellers on our discord server.</p>
+<ul>
+<li>You can find the currency that suits you in <a href="https://discord.com/channels/1069057220802781265/1204755981834129439" target="_blank" rel="noopener noreferrer">Sellers</a>.</li>
+<li>If you don't find your currency, you can buy from the global sellers(USD)</li>
+<li>If you can't find a payment method that suits you, you can ask on this <a href="https://discord.com/channels/1069057220802781265/1205143920577880074" target="_blank" rel="noopener noreferrer">channel</a>, and a seller will provide you help if possible.</li>
+</ul>
+]]></content:encoded>
+    </item>
     <item>
       <title>Others</title>
       <link>https://korepi.com/pt/features/World/others.html</link>

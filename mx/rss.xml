@@ -6,15 +6,32 @@
     <link>https://korepi.com/mx/</link>
     <description>Ayuda en Korepi</description>
     <language>es-MX</language>
-    <pubDate>Fri, 23 Feb 2024 14:12:31 GMT</pubDate>
-    <lastBuildDate>Fri, 23 Feb 2024 14:12:31 GMT</lastBuildDate>
+    <pubDate>Sun, 03 Mar 2024 10:07:41 GMT</pubDate>
+    <lastBuildDate>Sun, 03 Mar 2024 10:07:41 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-    <category>Funciones</category>
     <category>Guía</category>
+    <category>Funciones</category>
     <category>Guide</category>
     <category>Errores</category>
     <category>FAQ</category>
+    <item>
+      <title>Donde lo compro?</title>
+      <link>https://korepi.com/mx/guide/seller.html</link>
+      <guid>https://korepi.com/mx/guide/seller.html</guid>
+      <source url="https://korepi.com/mx/rss.xml">Donde lo compro?</source>
+      <description>Donde puedo comprar la version PERTAMAX? Puedes encontrar a los vendedores oficiales en nuestro servidor de discord: Puedes buscar tu moneda en Sellers (https://discord.com/chan...</description>
+      <category>Guía</category>
+      <pubDate>Thu, 29 Feb 2024 23:14:22 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Donde puedo comprar la version PERTAMAX?</h2>
+<p>Puedes encontrar a los vendedores oficiales en nuestro servidor de discord:</p>
+<ul>
+<li>Puedes buscar tu moneda en <a href="https://discord.com/channels/1069057220802781265/1204755981834129439" target="_blank" rel="noopener noreferrer">Sellers</a>.</li>
+<li>Si no encuentras tu moneda, puedes comprar de los vendedores globales(USD).</li>
+<li>Si no encuentras un método de pago que puedas usar puedes preguntar en este <a href="https://discord.com/channels/1069057220802781265/1205143920577880074" target="_blank" rel="noopener noreferrer">canal</a>, y un vendedor te ayudara si es posible.</li>
+</ul>
+]]></content:encoded>
+    </item>
     <item>
       <title>Otros</title>
       <link>https://korepi.com/mx/features/World/others.html</link>
