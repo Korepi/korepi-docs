@@ -7,7 +7,7 @@ tag:
   - Buku pemula
   - Multi-Instance
 author: Schvis, Chloe
-order: 2
+order: 7
 ---
 
 ## Cara Melakukan Multi-Instance (Membuka 2 Jendela Game Secara Bersamaan)

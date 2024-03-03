@@ -6,7 +6,7 @@ category:
 tag:
   - Start
 author: Schvis, Natsume
-order: 7
+order: 8
 ---
 
 ::: info Antivirus lain akan memiliki langkah serupa, sesuaikan tergantung pada antivirus yang Anda gunakan.

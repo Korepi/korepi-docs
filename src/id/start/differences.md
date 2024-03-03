@@ -6,7 +6,7 @@ category:
 tag:
   - Start
 author: Schvis, RodanZ
-order: 6
+order: 4
 ---
 
 ## Fitur yang tersedia di antara versi.
