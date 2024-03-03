@@ -7,7 +7,7 @@ tag:
   - Buku Pemula
   - Skins
 author: Schvis, Natsume, Chloe
-order: 3
+order: 4
 ---
 
 ## Cara Menggunakan Skin Kustom di Korepi

@@ -7,7 +7,7 @@ tag:
   - Buku Pemula
   - Skin
 author: Schvis, Natsume. Chloe
-order: 4
+order: 5
 ---
 
 ## Cara Memasang Skin Kustom di `GIMI`

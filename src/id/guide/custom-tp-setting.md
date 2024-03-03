@@ -7,7 +7,7 @@ tag:
   - Buku Pemula
   - Teleports
 author: Schvis, Natsume, Chloe
-order: 5
+order: 6
 ---
 
 ## Cara Menggunakan Teleportasi Kustom
