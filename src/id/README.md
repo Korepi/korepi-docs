@@ -29,6 +29,8 @@ highlights:
     highlights:
       - title: Membuka lokasi yang belum dijelajahi
       - title: Buka semua peti di dalam permainan hanya dengan beberapa klik!
+      - title: Mode Eksplorasi, lebih fokus pada permainan!
+      - title: Mendukung berbagai bahasa!
 
   - header: Sistem Interaksi Genshin yang Mudah dan Menyenangkan
     description: Fitur eksklusif, gratis untuk digunakan

@@ -28,7 +28,7 @@ export default defineUserConfig({
         "/id/": {
             lang: "id-ID",
             title: "Korepi",
-            description: "Pertolongan Korepi"
+            description: "Bantuan tentang Korepi"
         },
         "/es/": {
             lang: "es-ES",
@@ -221,10 +221,10 @@ export default defineUserConfig({
                                 cancelButtonAriaLabel: "Kembali",
                             },
                             startScreen: {
-                                recentSearchesTitle: "Sejarah Pencariann",
-                                noRecentSearchesText: "Tidak Ada Sejarah Pencarian",
-                                saveRecentSearchButtonTitle: "Simpan ke Sejarah Pencarian",
-                                removeRecentSearchButtonTitle: "Buang dari Sejarah Pencarian",
+                                recentSearchesTitle: "Riwayat Pencarian",
+                                noRecentSearchesText: "Tidak Ada Riwayat Pencarian",
+                                saveRecentSearchButtonTitle: "Simpan ke Riwayat Pencarian",
+                                removeRecentSearchButtonTitle: "Buang dari Riwayat Pencarian",
                                 favoriteSearchesTitle: "Favorit",
                                 removeFavoriteSearchButtonTitle: "Buang dari Favorit",
                             },
