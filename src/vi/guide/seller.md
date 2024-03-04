@@ -1,17 +1,17 @@
 ---
-title: Where to buy?
+title: Hướng Dẫn Mua
 icon: info-circle
 category:
-  - Guide
+  - Hướng Dẫn
 tag:
-  - Start
+  - Bắt Đầu
 author: Schvis
 order: 3
 ---
 
-## Where can i buy PERTAMAX version?
+## Tôi Có Thể Mua Phiên Bản PERTAMAX Ở Đâu?
 
-You can find our official sellers on our discord server.
-- You can find the currency that suits you in [Sellers](https://discord.com/channels/1069057220802781265/1204755981834129439).
-- If you don't find your currency, you can buy from the global sellers(USD)
-- If you can't find a payment method that suits you, you can ask on this [channel](https://discord.com/channels/1069057220802781265/1205143920577880074), and a seller will provide you help if possible.
+Bạn có thể tìm những người bán (seller) được uỷ quyền trên kênh Discord.
+- Bạn có thể tìm mua bằng đơn vị tiền tệ ưa thích tại [Sellers](https://discord.com/channels/1069057220802781265/1204755981834129439).
+- Nếu như không tìm thấy đơn vị tiền tệ mong muốn, bạn có thể mua bằng Đô La Mỹ thông qua seller(USD).
+- Nếu như không tìm thấy phương thức thanh toán mong muốn, bạn có thể hỏi ở [kênh này](https://discord.com/channels/1069057220802781265/1205143920577880074). Người bán sẽ hỗ trợ bạn trong khả năng có thể.
