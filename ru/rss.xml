@@ -6,35 +6,18 @@
     <link>https://korepi.com/ru/</link>
     <description>Помощь по Korepi</description>
     <language>ru-RU</language>
-    <pubDate>Mon, 04 Mar 2024 09:18:51 GMT</pubDate>
-    <lastBuildDate>Mon, 04 Mar 2024 09:18:51 GMT</lastBuildDate>
+    <pubDate>Tue, 05 Mar 2024 15:46:52 GMT</pubDate>
+    <lastBuildDate>Tue, 05 Mar 2024 15:46:52 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-    <category>Guide</category>
     <category>Seller</category>
     <category>Features</category>
     <category>Руководство</category>
+    <category>Guide</category>
     <category>FAQ</category>
     <category>Особенности</category>
     <category>Устранение Неполадок</category>
     <category>Гайд</category>
-    <item>
-      <title>Where to buy?</title>
-      <link>https://korepi.com/ru/guide/seller.html</link>
-      <guid>https://korepi.com/ru/guide/seller.html</guid>
-      <source url="https://korepi.com/ru/rss.xml">Where to buy?</source>
-      <description>Where can i buy PERTAMAX version? You can find our official sellers on our discord server. You can find the currency that suits you in Sellers (https://discord.com/channels/1069...</description>
-      <category>Guide</category>
-      <pubDate>Thu, 29 Feb 2024 23:14:22 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Where can i buy PERTAMAX version?</h2>
-<p>You can find our official sellers on our discord server.</p>
-<ul>
-<li>You can find the currency that suits you in <a href="https://discord.com/channels/1069057220802781265/1204755981834129439" target="_blank" rel="noopener noreferrer">Sellers</a>.</li>
-<li>If you don't find your currency, you can buy from the global sellers(USD)</li>
-<li>If you can't find a payment method that suits you, you can ask on this <a href="https://discord.com/channels/1069057220802781265/1205143920577880074" target="_blank" rel="noopener noreferrer">channel</a>, and a seller will provide you help if possible.</li>
-</ul>
-]]></content:encoded>
-    </item>
     <item>
       <title>Реселлеры Korepi в СНГ</title>
       <link>https://korepi.com/ru/start/p2g.html</link>
