@@ -29,8 +29,6 @@ For free version follow this [link](free.md).
 
 If you bought a key from a reseller, click on `bind card str` and paste in your key.
 
-::: info If you are a Sponsor before February 4th, 2024, click "Sponsor Compensation" and enter "YES" to receive 3 months of compensation time, after successfully claiming your "card" follow the next step"
-:::
 ### Step 3:
 ::: info If you already got a enc.json delete it before opening the program
 :::
