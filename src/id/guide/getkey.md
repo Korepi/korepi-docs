@@ -30,8 +30,6 @@ Untuk versi gratis, ikuti [tautan ini](free.md).
 
 Jika Anda membeli kunci dari reseller, klik `bind card str` dan tempelkan kunci Anda.
 
-::: info Jika Anda adalah seorang Sponsor sebelum 4 Februari 2024, klik "Kompensasi Sponsor" dan masukkan "YA" untuk menerima 3 bulan waktu kompensasi, setelah berhasil mengklaim "kartu" Anda, ikuti langkah selanjutnya"
-:::
 
 ### Langkah 3:
 ::: info Jika kamu sudah punya enc.json, hapus dulu sebelum membuka injektor

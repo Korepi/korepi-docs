@@ -31,9 +31,6 @@ Si compraste la llave de un vendedor, dale click a `bind card str` y pega tu lla
 ::: tip Si ya tienes una suscripción dale al botón de "stack card" para prolongar tu suscripción actual.
 :::
 
-::: info Si eras Sponsor antes del 4 de Febrero del 2024, dale click a "Sponsor Compensation" y escribe "YES" para recibir tus 3 meses de compensación, después de que hayas conseguido la "card" exitosamente sigue el siguiente paso.
-:::
-
 ### Paso 3:
 ::: info Si ya tienes un enc.json, borra antes de abrir el programa
 :::
