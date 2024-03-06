@@ -6,8 +6,8 @@
     <link>https://korepi.com/id/</link>
     <description>Pertolongan Korepi</description>
     <language>id-ID</language>
-    <pubDate>Tue, 05 Mar 2024 15:46:52 GMT</pubDate>
-    <lastBuildDate>Tue, 05 Mar 2024 15:46:52 GMT</lastBuildDate>
+    <pubDate>Wed, 06 Mar 2024 18:50:11 GMT</pubDate>
+    <lastBuildDate>Wed, 06 Mar 2024 18:50:11 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Panduan</category>
@@ -1928,9 +1928,6 @@ Catatan 2: Tidak disarankan untuk digunakan.</p>
 <p class="hint-container-title">Jika Anda sudah memiliki langganan yang sedang aktif, sebaiknya untuk tekan munumpuk kartu, untuk menggabungkan langganan Anda saat ini.</p>
 </div>
 <p>Jika Anda membeli kunci dari reseller, klik <code>bind card str</code> dan tempelkan kunci Anda.</p>
-<div class="hint-container info">
-<p class="hint-container-title">Jika Anda adalah seorang Sponsor sebelum 4 Februari 2024, klik "Kompensasi Sponsor" dan masukkan "YA" untuk menerima 3 bulan waktu kompensasi, setelah berhasil mengklaim "kartu" Anda, ikuti langkah selanjutnya"</p>
-</div>
 <h3> Langkah 3:</h3>
 <div class="hint-container info">
 <p class="hint-container-title">Jika kamu sudah punya enc.json, hapus dulu sebelum membuka injektor</p>

@@ -6,8 +6,8 @@
     <link>https://korepi.com/ko/</link>
     <description>Korepi 도움말</description>
     <language>ko-KR</language>
-    <pubDate>Tue, 05 Mar 2024 15:46:52 GMT</pubDate>
-    <lastBuildDate>Tue, 05 Mar 2024 15:46:52 GMT</lastBuildDate>
+    <pubDate>Wed, 06 Mar 2024 18:50:11 GMT</pubDate>
+    <lastBuildDate>Wed, 06 Mar 2024 18:50:11 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Guide</category>
@@ -1939,9 +1939,6 @@ Note 2: You can find the items IDs <a href="https://github.com/jie65535/Grasscut
 <p class="hint-container-title">If you already got an active subscription, please click on stack card instead, to merge with your current subscription.</p>
 </div>
 <p>리셀러에게서 키를 구매했다면, <code>bind card str</code>을 클릭하고 키를 붙여넣습니다.</p>
-<div class="hint-container info">
-<p class="hint-container-title">2024년 2월 4일 이전에 스폰서였다면, "Sponsor Compensation"를 클릭하고 "YES"를 입력하여 3개월의 보상 기간을 받을 수 있습니다. "card"를 받았다면 다음 단계를 따르세요.</p>
-</div>
 <h3> 3단계:</h3>
 <div class="hint-container info">
 <p class="hint-container-title">enc.json이 있다면 프로그램 실행 전에 삭제하세요.</p>

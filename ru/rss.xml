@@ -6,8 +6,8 @@
     <link>https://korepi.com/ru/</link>
     <description>Помощь по Korepi</description>
     <language>ru-RU</language>
-    <pubDate>Tue, 05 Mar 2024 15:46:52 GMT</pubDate>
-    <lastBuildDate>Tue, 05 Mar 2024 15:46:52 GMT</lastBuildDate>
+    <pubDate>Wed, 06 Mar 2024 18:50:11 GMT</pubDate>
+    <lastBuildDate>Wed, 06 Mar 2024 18:50:11 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Seller</category>
@@ -819,9 +819,6 @@ pass korepi</p>
 <p class="hint-container-title">Если у вас уже есть активная подписка, нажмите на карту стопки, чтобы объединить ее с текущей подпиской.</p>
 </div>
 <p>Если вы купили ключ у перекупщика, нажмите <code>bind card str</code> и вставьте свой ключ.</p>
-<div class="hint-container info">
-<p class="hint-container-title">Если вы являетесь Спонсором до 4 февраля 2024 года, нажмите "Компенсация спонсора" и введите "ДА", чтобы получить компенсацию в течение 3 месяцев, после успешного получения "карты" следуйте следующему шагу.</p>
-</div>
 <h3> Шаг 3:</h3>
 <div class="hint-container info">
 <p class="hint-container-title">Если у вас уже есть файл enc.json, удалите его перед открытием программы</p>

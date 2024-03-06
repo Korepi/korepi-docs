@@ -6,8 +6,8 @@
     <link>https://korepi.com/pt/</link>
     <description>Ajuda em Korepi</description>
     <language>pt-BR</language>
-    <pubDate>Tue, 05 Mar 2024 15:46:52 GMT</pubDate>
-    <lastBuildDate>Tue, 05 Mar 2024 15:46:52 GMT</lastBuildDate>
+    <pubDate>Wed, 06 Mar 2024 18:50:11 GMT</pubDate>
+    <lastBuildDate>Wed, 06 Mar 2024 18:50:11 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Guide</category>
@@ -1909,9 +1909,6 @@ Para usar skins personalizadas no Korepi, você precisará baixar o aplicativo</
 <p class="hint-container-title">If you already got an active subscription, please click on stack card instead, to merge with your current subscription.</p>
 </div>
 <p>Se você comprou a chave por um revendedor, clique em <code>bind card str</code> e cole a sua chave.</p>
-<div class="hint-container info">
-<p class="hint-container-title">Se você era sponsor antes de 24 de fevereiro de 2024, clique em "Sponsor Compensation" e então escreva "YES" para receber os 3 meses de compensação, depois de receber seu "card", siga o próximo passo</p>
-</div>
 <h3> Passo 3:</h3>
 <div class="hint-container info">
 <p class="hint-container-title">If you already got a enc.json delete it before opening the program</p>

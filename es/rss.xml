@@ -6,8 +6,8 @@
     <link>https://korepi.com/es/</link>
     <description>Ayuda en Korepi</description>
     <language>es-ES</language>
-    <pubDate>Tue, 05 Mar 2024 15:46:52 GMT</pubDate>
-    <lastBuildDate>Tue, 05 Mar 2024 15:46:52 GMT</lastBuildDate>
+    <pubDate>Wed, 06 Mar 2024 18:50:11 GMT</pubDate>
+    <lastBuildDate>Wed, 06 Mar 2024 18:50:11 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Guía</category>
@@ -1978,9 +1978,6 @@ Nota 2: No se recomienda usar.</p>
 <p>Si compraste la llave de un vendedor, dale click a <code>bind card str</code> y pega tu llave al pedírtela.</p>
 <div class="hint-container tip">
 <p class="hint-container-title">Si ya tienes una suscripción dale al botón de "stack card" para prolongar tu suscripción actual.</p>
-</div>
-<div class="hint-container info">
-<p class="hint-container-title">Si eras Sponsor antes del 4 de Febrero del 2024, dale click a "Sponsor Compensation" y escribe "YES" para recibir tus 3 meses de compensación, después de que hayas conseguido la "card" exitosamente sigue el siguiente paso.</p>
 </div>
 <h3> Paso 3:</h3>
 <div class="hint-container info">

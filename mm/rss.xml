@@ -6,8 +6,8 @@
     <link>https://korepi.com/mm/</link>
     <description>Korepi တွင်ကူညီပါ။</description>
     <language>my-MM</language>
-    <pubDate>Tue, 05 Mar 2024 15:46:52 GMT</pubDate>
-    <lastBuildDate>Tue, 05 Mar 2024 15:46:52 GMT</lastBuildDate>
+    <pubDate>Wed, 06 Mar 2024 18:50:11 GMT</pubDate>
+    <lastBuildDate>Wed, 06 Mar 2024 18:50:11 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Guide</category>
@@ -236,9 +236,6 @@ In order to use custom skins in we will need to download:</p>
 <p class="hint-container-title">If you already got an active subscription, please click on stack card instead, to merge with your current subscription.</p>
 </div>
 <p>If you bought a key from a reseller, click on <code>bind card str</code> and paste in your key.</p>
-<div class="hint-container info">
-<p class="hint-container-title">If you are a Sponsor before February 4th, 2024, click "Sponsor Compensation" and enter "YES" to receive 3 months of compensation time, after successfully claiming your "card" follow the next step"</p>
-</div>
 <h3> Step 3:</h3>
 <div class="hint-container info">
 <p class="hint-container-title">If you already got a enc.json delete it before opening the program</p>

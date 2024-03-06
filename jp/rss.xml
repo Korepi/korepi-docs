@@ -6,8 +6,8 @@
     <link>https://korepi.com/jp/</link>
     <description>Korepiに関するヘルプ</description>
     <language>ja-JP</language>
-    <pubDate>Tue, 05 Mar 2024 15:46:52 GMT</pubDate>
-    <lastBuildDate>Tue, 05 Mar 2024 15:46:52 GMT</lastBuildDate>
+    <pubDate>Wed, 06 Mar 2024 18:50:11 GMT</pubDate>
+    <lastBuildDate>Wed, 06 Mar 2024 18:50:11 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Guide</category>
@@ -725,9 +725,6 @@
 <p class="hint-container-title">すでにアクティブなサブスクをお持ちの場合は、代わりにスタックカードをクリックして、現在のサブスクと統合してください。</p>
 </div>
 <p>販売業者からキーを購入した場合は、<code>bind card str</code> をクリックし、キーを貼り付けます。</p>
-<div class="hint-container info">
-<p class="hint-container-title">2024年2月4日以前にスポンサーになった方は、「Sponsor Compensation」をクリックし、「YES」と入力してください。</p>
-</div>
 <h3> ステップ 3:</h3>
 <div class="hint-container info">
 <p class="hint-container-title">すでにenc.jsonをお持ちの場合は、プログラムを開く前に削除してください。</p>

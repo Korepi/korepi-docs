@@ -6,8 +6,8 @@
     <link>https://korepi.com/ar/</link>
     <description>للمساعدة Korepi</description>
     <language>ar</language>
-    <pubDate>Tue, 05 Mar 2024 15:46:52 GMT</pubDate>
-    <lastBuildDate>Tue, 05 Mar 2024 15:46:52 GMT</lastBuildDate>
+    <pubDate>Wed, 06 Mar 2024 18:50:11 GMT</pubDate>
+    <lastBuildDate>Wed, 06 Mar 2024 18:50:11 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Guide</category>
@@ -753,9 +753,6 @@
 <p class="hint-container-title">If you already got an active subscription, please click on stack card instead, to merge with your current subscription.</p>
 </div>
 <p>إذا قمت بشراء مفتاح من أحد الموزعين، فانقر فوق <code>bind card str</code> والصق المفتاح الخاص بك.</p>
-<div class="hint-container info">
-<p class="hint-container-title">إذا كنت راعيًا قبل 4 فبراير 2024، فانقر فوق "Sponsor Compensation" وأدخل "YES" للحصول على 3 أشهر من وقت التعويض، بعد المطالبة بنجاح ب "بطاقتك" اتبع الخطوة التالية"</p>
-</div>
 <h3> الخطوه 3:</h3>
 <div class="hint-container info">
 <p class="hint-container-title">إذا كان لديك ملف enc.json بالفعل، فاحذفه قبل فتح البرنامج</p>

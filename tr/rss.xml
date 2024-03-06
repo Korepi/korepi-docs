@@ -6,8 +6,8 @@
     <link>https://korepi.com/tr/</link>
     <description>Korepi Yardım Bölümü</description>
     <language>tr</language>
-    <pubDate>Tue, 05 Mar 2024 15:46:52 GMT</pubDate>
-    <lastBuildDate>Tue, 05 Mar 2024 15:46:52 GMT</lastBuildDate>
+    <pubDate>Wed, 06 Mar 2024 18:50:11 GMT</pubDate>
+    <lastBuildDate>Wed, 06 Mar 2024 18:50:11 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Guide</category>
@@ -800,9 +800,6 @@
 <p class="hint-container-title">If you already got an active subscription, please click on stack card instead, to merge with your current subscription.</p>
 </div>
 <p>Bir satıcıdan bir anahtar satın aldıysanız, <code>bind card str</code> seçeneğine tıklayın ve anahtarınızı yapıştırın.</p>
-<div class="hint-container info">
-<p class="hint-container-title">Eğer 4 Şubat 2024'ten önce Sponsor olduysanız, "Sponsor Tazminatı"na tıklayın ve 3 aylık tazminat süresi almak için "EVET" girin, "kartınızı" başarıyla talep ettikten sonra bir sonraki adımı izleyin"</p>
-</div>
 <h3> Adım 3:</h3>
 <div class="hint-container info">
 <p class="hint-container-title">If you already got a enc.json delete it before opening the program</p>
