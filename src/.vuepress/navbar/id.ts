@@ -19,7 +19,7 @@ export const idNavbar = navbar([
         text: "Panduan",
         icon: "lightbulb",
         prefix: "guide/",
-        children: ["resethwid"],
+        children: ["getkey"],
       },
       {
         text: "Fitur Yang Tersedia",
