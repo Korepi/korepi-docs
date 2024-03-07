@@ -239,9 +239,9 @@ export default hopeTheme({
                     },
                     {
                         path: "/id/",
-                        title: "Contribute Your Skills",
+                        title: "Kontribusikan Keahlian Kamu",
                         content:
-                            "If you have experience in <b>web front-end development</b> and <b>document management</b>, and would like to apply it to this documentation project, you are welcome to <a href='https://github.com/Korepi/korepi-docs'>join us in writing the documentation</a>",
+                            "Jika kamu memiliki pengalaman dalam <b>pengembangan situs front-end</b> dan <b>manajemen dokumen</b>, dan ingin menerapkannya pada proyek dokumentasi ini, kamu dapat <a href='https://github.com/Korepi/korepi-docs'>bergabung dengan kami untuk menulis dokumentasi</a>",
                         fullscreen: false,
                         showOnce: false,
                     },
