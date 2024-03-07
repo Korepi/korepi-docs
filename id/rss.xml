@@ -4,10 +4,10 @@
     <atom:link href="https://korepi.com/id/rss.xml" rel="self" type="application/rss+xml"/>
     <title>Korepi</title>
     <link>https://korepi.com/id/</link>
-    <description>Pertolongan Korepi</description>
+    <description>Bantuan tentang Korepi</description>
     <language>id-ID</language>
-    <pubDate>Wed, 06 Mar 2024 18:50:11 GMT</pubDate>
-    <lastBuildDate>Wed, 06 Mar 2024 18:50:11 GMT</lastBuildDate>
+    <pubDate>Thu, 07 Mar 2024 18:59:06 GMT</pubDate>
+    <lastBuildDate>Thu, 07 Mar 2024 18:59:06 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Panduan</category>
@@ -2167,12 +2167,12 @@ Jika tidak berhasil, buka cmd sebagai administrator dan ketik <code>sfc /scannow
       <link>https://korepi.com/id/guide/multi-instance.html</link>
       <guid>https://korepi.com/id/guide/multi-instance.html</guid>
       <source url="https://korepi.com/id/rss.xml">Cara melakukan Multi-Instance</source>
-      <description>Cara Melakukan Multi-Instance (Membuka 2 Jendela Game Secara Bersamaan)Hanya untuk Calculator ( Autentikasi local )</description>
+      <description>Cara Melakukan Multi-Instance (Membuka 2 Jendela Game Secara Bersamaan)Hanya untuk Calculator ( Autentikasi lokal )</description>
       <category>Panduan</category>
       <pubDate>Fri, 08 Dec 2023 03:42:59 GMT</pubDate>
       <content:encoded><![CDATA[<h2> Cara Melakukan Multi-Instance (Membuka 2 Jendela Game Secara Bersamaan)</h2>
 <div class="hint-container info">
-<p class="hint-container-title">Hanya untuk Calculator ( Autentikasi local )</p>
+<p class="hint-container-title">Hanya untuk Calculator ( Autentikasi lokal )</p>
 </div>
 <hr>
 <p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/a3K6SK5bHyxfmZw/preview"><source src="https://nextcloud.atruicardona.xyz/s/a3K6SK5bHyxfmZw/download" type="video/mp4"></video></p>
