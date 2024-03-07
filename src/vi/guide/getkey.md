@@ -30,8 +30,6 @@ order: 1
 
 Nếu như bạn mua key từ seller, hãy click vào `bind card str` rồi dán key của bạn vào.
 
-::: info Nếu như bạn là Nhà Tài Trợ (Sponsor) trước ngày 4 tháng 2 năm 2024, hãy click vào "Sponsor Compensation" rồi nhập "YES" để nhận 3 tháng đền bù. Sau khi nhận "card" thành công, hãy làm bước tiếp theo
-:::
 =======
 ### Bước 3:
 ::: info Nếu trong thư mục chứa Korepi đã tồn tại một file enc.json, hãy xoá nó trước khi mở Korepi
