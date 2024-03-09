@@ -6,7 +6,6 @@ Welcome to the official documentation for Korepi. Below you'll find links to var
 
 - **Korepi GitHub Repository:** [Visit here](https://github.com/Korepi/korepi)
 - **Live Documentation:** [View here](https://github.com/Korepi/korepi-docs)
-- **Official Website:** [Explore here](https://korepi.com)
 
 ## Viewing the Documentation Online
 
