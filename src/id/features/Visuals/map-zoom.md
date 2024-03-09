@@ -2,11 +2,12 @@
 title: Map Zoom
 icon: map
 category:
-  - Features
+  - Fitur
 tag:
   - Map Zoom
-author: Schvis, Kaede
+  - Visual
+author: Schvis, Kaede, NatsumeAoii
 order: 13
 ---
 
-## Map zoom, modifikasi nilai perbesaran yang digunakan pada peta
+## Map Zoom memungkinkan Anda untuk menyesuaikan nilai pembesaran yang digunakan pada peta.

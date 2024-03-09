@@ -5,14 +5,15 @@ category:
   - Fitur
 tag:
   - Game Speed
-author: Schvis, Natsume
+  - Dunia
+author: Schvis, NatsumeAoii
 order: 11
 ---
 
-### Game Speed. Mempercepat atau memperlambat game. Tak terduga!.
+### Game Speed memungkinkan Anda untuk mempercepat atau memperlambat permainan. Efeknya sungguh tak terduga!
 
->Catatan: Tidak disarankan untuk digunakan di luar menu atau secara umum.
+>Catatan: Penggunaan fitur ini di luar menu atau dalam penggunaan umum tidak disarankan.
 
-## Video Contoh:
+## Video Demonstrasi:
 
 <video controls preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/5r8a7BqXMBbSWry/preview"><source src="https://nextcloud.atruicardona.xyz/s/5r8a7BqXMBbSWry/download" type="video/mp4"></video>

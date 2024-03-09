@@ -1,11 +1,11 @@
 ---
-title: Masalah Yang Sering Terjadi.
+title: Masalah Yang Sering Terjadi
 icon: server
 category:
   - Solusi
 tag:
   - Mulai
-author: Schvis, Chloe
+author: Schvis, Chloe, NatsumeAoii
 order: 2
 ---
 
@@ -13,39 +13,39 @@ order: 2
 
 ### Kenapa Korepi Saya Menghilang?
 
-Pastikan Anda telah non-aktifkan anti-virus, buat folder baru dan tambahkan folder pada Pengecualian.
+Pastikan Anda telah menonaktifkan anti-virus, buat folder baru dan tambahkan folder tersebut ke daftar Pengecualian.
 
-![](/assets/images/docs/202312/virus.png)
+![Anti-Virus](/assets/images/docs/202312/virus.png)
 
-Ekstrak Korepi di dalam folder yang sudah dikecualikan dan jalankan lagi.
+Ekstrak Korepi di dalam folder yang sudah dikecualikan dan jalankan kembali.
 
 ---
 ### Status: No active subscription(s) found, Invalid license key
 
-Anda harus [Ambil Key baru](../guide/getkey.md) di `⁠★⋅micah-bot-verify⋅★`, jika Anda tidak dapat mengambil Key atau Key tidak berfungsi, maka Anda harus menunggu hingga masa berlaku Key berakhir.
+Anda harus [mengambil Key baru](../guide/getkey.md) di `⁠★⋅micah-bot-verify⋅★`. Jika Anda tidak dapat mengambil Key atau Key tidak berfungsi, maka Anda harus menunggu hingga masa berlaku Key berakhir.
 
 `Sponsors dapat menggunakan F:Reset Key sebagai alternatif`
 
 ---
 ### [DLL injection]  Process crashed, exit code 0xc000005
 
-buka `cmd` sebagai administrator dan ketik perintah berikut:
+Buka `cmd` sebagai administrator dan ketik perintah berikut:
 
 `sfc /scannow`
 
-Setelah itu, Jika ditemukan masalah, ulang nyalakan komputer dan periksa.
-Jika setelah ulang nyalakan tidak membantu atau masalah tidak ditemukan, ketiklah perintah ini:
+Jika ditemukan masalah, restart komputer dan periksa kembali.
+Jika masalah tidak ditemukan atau restart tidak membantu, ketik perintah ini:
 
 `DISM.exe /Online /Cleanup-Image /RestoreHealth`
 
-Setelah selesai memeriksanya, ulang nyalakan komputer dan periksa.
+Setelah selesai, restart komputer dan periksa lagi.
 
-Jika tidak berhasil, pasang ulang windows.
+Jika masih tidak berhasil, pertimbangkan untuk menginstal ulang Windows.
 
 ---
 ### ImGUI: DirectX11 backend initialized successfully.
 
-Masalah terjadi dikarenakan tema, Bersihkan folder `themes`.
+Masalah ini terjadi karena tema. Bersihkan folder `themes`.
 
 ---
 ### The system did not detect MSVCP140.dll
@@ -59,21 +59,21 @@ Perbarui [DirectX](https://www.microsoft.com/en-us/download/details.aspx?id=35)
 
 ![](/assets/images/docs/202312/virus2.png)
 
-Dalam kasus ini, Anda dapat mencoba menggunakan `Malware Bytes` atau `Dr.Web` untuk melakukan pemeriksaan penuh, Jika virus ditemukan, hilangkan virus tersebut, Ulang buka komputer dan coba lagi. Jika tidak berhasil, ulang pasang windows adalah cara termudah untuk mengatasinya.
+Gunakan `Malware Bytes` atau `Dr.Web` untuk melakukan scan penuh. Jika ditemukan virus, bersihkan, restart komputer, dan coba lagi. Jika tidak berhasil, menginstal ulang Windows mungkin adalah solusi terbaik.
 
 ---
 ### Timeout was reached
 
 ![](/assets/images/docs/202312/error1.png)
 
-Ulang nyalakan router Anda.
-Tutup semua aplikasi yang memperngaruhi firewall. Jika keduanya tidak berhasil, maka Anda memiliki masalah dengan jaringan internet.
-Anti-virus berkemungkinan memblokir jaringan, pastikan tidak aktif pada menu Task Manager.
+Restart router Anda.
+Tutup semua aplikasi yang mempengaruhi firewall. Jika masih bermasalah, Anda mungkin memiliki masalah dengan koneksi internet.
+Anti-virus mungkin memblokir jaringan, pastikan untuk menonaktifkannya dari Task Manager.
 
 ---
 ### DLL Injection failed
 
-Hapus folder colorpicker dan unduh colorpicker lagi.
+Hapus folder colorpicker dan unduh ulang colorpicker.
 
 ---
 ### Windows cannot access the specified device, path, or file
@@ -87,7 +87,7 @@ Jika tidak berhasil, buka cmd sebagai administrator dan ketik `sfc /scannow`
 
 Setelah itu, jika masalah ditemukan, ulang nyalakan komputer dan periksa.
 
-Jika setelah ulang nyalakan tidak membantu atau masalah tidak ditemukan, ketik perintah ini:
+Jika tidak ada masalah atau restart tidak membantu, ketik:
 
 `DISM.exe /Online /Cleanup-Image /RestoreHealth`
 
@@ -100,7 +100,7 @@ Jika tidak berhasil, pasang ulang windows.
 
 ![](/assets/images/docs/202312/checksum.png)
 
-Server sedang tidak aktif atau ditutup, tunggu server untuk kembali aktif.
+Server sedang tidak aktif atau ditutup, tunggu hingga server aktif kembali.
 
 ---
 ### Failed to create game process with Error 5

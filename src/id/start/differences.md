@@ -1,15 +1,18 @@
 ---
-title: Perbedaan antar versi
+title: Perbedaan Antar Versi
 icon: server
 category:
-  - Guide
+  - Panduan
 tag:
-  - Start
-author: Schvis, RodanZ
+  - Mulai
+  - Perbedaan
+author: Schvis, RodanZ, NatsumeAoii
 order: 4
 ---
 
-## Fitur yang tersedia di antara versi.
+## Perbedaan Fitur Berdasarkan Versi
+
+Berikut adalah tabel yang memperlihatkan fitur-fitur yang tersedia di berbagai versi Korepi: Gratis, Sponsor, dan PERTAMAX.
 
 |Versi | Gratis |Sponsor|PERTAMAX|
 |-----|--------|--------|------|

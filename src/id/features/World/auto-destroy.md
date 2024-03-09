@@ -5,16 +5,17 @@ category:
   - Fitur
 tag:
   - Auto Destroy Objects
-author: Schvis, Natsume, RodanZ
+  - Dunia
+author: Schvis, NatsumeAoii, RodanZ
 order: 4
 ---
-::: info Hanya Untuk PERTAMAX!
+::: info Eksklusif Untuk PERTAMAX!
 :::
 ---
-### Auto Destroy Objects memungkinkan Anda menghancurkan objek yang dapat disesuaikan dalam jangkauan tertentu, termasuk bahan tambang, tanaman, tumpukan batu, peti, objek khusus, perisai, dan lainnya.
+### Fitur Auto Destroy Objects memungkinkan Anda untuk secara otomatis menghancurkan objek dalam jangkauan tertentu, termasuk bahan tambang, tanaman, tumpukan batu, peti, objek khusus, perisai, dan lain-lain.
 
-## Video contoh:
+## Video Demonstrasi:
 
 <video controls preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/34xYZt5G5Aid4zk/preview"><source src="https://nextcloud.atruicardona.xyz/s/34xYZt5G5Aid4zk/download" type="video/mp4"></video>
 
->Catatan: Angka yang direkomendasikan adalah di bawah 20m, tidak disarankan untuk menggunakan jarak jangkau diatas maksimal (40m).
+>Catatan: Jarak yang direkomendasikan adalah di bawah 20 meter. Penggunaan jarak jangkau di atas maksimal (40 meter) tidak disarankan.

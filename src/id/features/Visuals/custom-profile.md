@@ -2,26 +2,33 @@
 title: Custom Profile
 icon: users-gear
 category:
-  - Features
+  - Fitur
 tag:
   - Custom Profile
-author: Schvis, Kaede, Chloe
+  - Visual
+author: Schvis, Kaede, Chloe, NatsumeAoii
 order: 4
 ---
 
 ## Custom Profile:
 
 ### UID:
-- Pilih UID yang ingin Anda tampilkan.
+- Pilih UID yang ingin ditampilkan.
+
 ### Nickname:
-- Pilih Nickname yang ingin Anda tampilkan.
+- Pilih Nickname yang ingin ditampilkan.
+
 ### Level:
-- Pilih Level yang ingin Anda tampilkan.
+- Pilih Level yang ingin ditampilkan.
+
 ### EXP:
-- Pilih EXP yang ingin Anda tampilkan. 
+- Pilih EXP yang ingin ditampilkan.
+
 ### World Level:
-- Pilih World level yang ingin Anda tampilkan.
+- Pilih World Level yang ingin ditampilkan.
+
 ### Avatar Image:
-- Menggunakan gambar kustom untuk menampilkan gambar profil/avatar.
+- Gunakan gambar kustom sebagai gambar profil/avatar.
+
 ### Card Image:
-- Menggunakan Kgambar kustom untuk menampilkan gambar kartu/banner.
+- Gunakan gambar kustom sebagai gambar kartu/banner.

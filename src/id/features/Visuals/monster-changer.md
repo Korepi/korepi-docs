@@ -2,20 +2,24 @@
 title: Monster Changer
 icon: arrows-rotate
 category:
-  - Features
+  - Fitur
 tag:
   - Monster Changer
-author: Schvis, Kaede, Chloe, RodanZ
+  - Visual
+author: Schvis, Kaede, Chloe, RodanZ, NatsumeAoii
 order: 13
 ---
-::: info Hanya Untuk Sponsor!
+::: info Eksklusif Untuk Sponsor!
 :::
 ---
 ## Monster Changer:
-- Jika diaktifkan, semua monster akan terubah secara visual ke monster yang dipilih.
+- Memungkinkan semua monster dalam game untuk berubah secara visual menjadi monster yang dipilih.
+
 ### Exclude Animals:
-- Aktif atau Non-aktif mengganti visual hewan.
+- Opsi untuk mengaktifkan atau menonaktifkan perubahan visual pada hewan.
+
 ### Custom Monster ID:
-- Menggunakan ID yang terdapat di [github](https://github.com/jie65535/GrasscutterCommandGenerator/blob/main/Source/GrasscutterTools/Resources/en-us/Monsters.txt). 
+- Memungkinkan penggunaan ID monster khusus yang dapat ditemukan di [github](https://github.com/jie65535/GrasscutterCommandGenerator/blob/main/Source/GrasscutterTools/Resources/en-us/Monsters.txt).
+
 ### Randomize Monster:
-- Perubahannya akan menjadi acak.
+- Perubahan visual monster akan dilakukan secara acak.

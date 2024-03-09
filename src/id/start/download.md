@@ -6,7 +6,7 @@ category:
 tag:
   - Mulai
   - Unduh
-author: QweRez, RodanZ
+author: QweRez, RodanZ, NatsumeAoii
 order: 3
 ---
 
@@ -28,5 +28,4 @@ Cari saluran `★⋅korepi-download⋅★` dan ikuti tautan untuk mengunduh prog
 
 ### Langkah 3: Siap!
 
-Tempatkan .rar dalam folder dan tambahkan ke [exclusions](../guide/virus.md), setelah itu ekstrak dan ikuti [guide](../guide/getkey.md)
-
+Tempatkan .rar dalam folder dan tambahkan ke [exclusions](../guide/virus.md), setelah itu ekstrak dan ikuti [guide](../guide/getkey.md) untuk memulai.

@@ -5,7 +5,7 @@ category:
   - FAQ
 tag:
   - Start
-author: Schvis, Chloe
+author: Schvis, Chloe, NatsumeAoii
 order: 1
 ---
 
@@ -13,64 +13,60 @@ order: 1
 
 ### Apakah Korepi gratis?
 
-Ya, Korepi punya versi gratis yang bisa kalian gunakan dengan mengikuti [tautan ini](../guide/free.md).
+Ya, Korepi memiliki versi gratis yang dapat digunakan dengan mengikuti [tautan ini](../guide/free.md).
 
 ---
 ### Apa kata sandi dari file .rar/.zip?
 
-...
-
-Kata sandinya adalah `1234`, Harap lain kali membaca postingan unduh.
+Kata sandinya adalah `1234`. Harap membaca postingan unduhan dengan saksama di lain waktu.
 
 ---
 ### Kenapa konfigurasi saya tidak tersimpan?
 
-Ingatlah bahwa Anda harus ekstrak file `.rar/.zip` tersebut di dalam folder baru.
-
-Jika konfigurasi masih tidak tersimpan, Harap hubungi pengarah manapun yang terdapat di server untuk mendapat bantuan.
+Pastikan Anda telah mengekstrak file `.rar/.zip` ke dalam folder baru. Jika konfigurasi masih tidak tersimpan, silakan hubungi pengarah mana pun di server untuk mendapatkan bantuan.
 
 ---
 ### Di mana saya dapat menemukan tema?
 
-Anda dapat menemukan tema untuk Korepi di `community share` atau Anda dapat membuat sendiri di pengaturan Korepi.
+Tema untuk Korepi dapat ditemukan di `community share`, atau Anda dapat membuatnya sendiri melalui pengaturan Korepi.
 
 ![](/assets/images/docs/202312/theme-settings.png)
 
-periksa di `Theme Customization` untuk mulai membuat tema Anda.
+Lihat di `Theme Customization` untuk mulai membuat tema Anda.
 
 ---
 ### Kenapa /start beruntun saya terulang?
 
-Kemungkinan besar Anda melewati batas waktu harian yang telah diberikan, jika Anda melewatkan 1 hari makanya akan terulang dari awal.
+Anda mungkin telah melewati batas waktu harian yang ditetapkan. Jika Anda melewatkan satu hari, maka beruntun akan dimulai dari awal lagi.
 
-::: info Waktu reset adalah pukul 23.00 WIB (GMT/UTC+8 00:00) setiap hari. Silakan mengubahnya ke zona waktu Anda.
+::: info Waktu reset adalah pukul 23.00 WIB (GMT/UTC+8 00:00) setiap hari. Silakan sesuaikan dengan zona waktu Anda.
 :::
----
 
+---
 ### Bisakah saya menggunakan Korepi saat pembaruan datang?
 
-Tidak, Anda harus menunggu hingga Korepi melakukan pembaruan versi terbaru.
+Tidak, Anda harus menunggu Korepi diperbarui ke versi terbaru.
 
-::: info Menggunakan injektor lama tidak akan berfungsi, pembaruan Korepi akan membutuhkan waktu sekitar 1-2 minggu.
+::: info Menggunakan injektor versi lama tidak akan berfungsi. Pembaruan Korepi biasanya membutuhkan waktu sekitar 1-2 minggu.
 :::
----
 
+---
 ### Kenapa menu Korepi tidak muncul?
 
-Pastikan Anda menon-aktifkan semua overlay(MSI Afterburner, GeForce Experience, etc.) sebelum membuka Korepi.
+Pastikan Anda telah menonaktifkan semua overlay (MSI Afterburner, GeForce Experience, dll.) sebelum membuka Korepi.
 
 ---
-### Di mana saya bisa mendapatkan <span style='color:yellow;'>Sponsor</span> dan berapa harganya?
+### Di mana saya bisa mendapatkan Sponsor dan berapa harganya?
 
-Harga sponsor ialah 5$ dan untuk mendapatkan sponsor anda dapat melihatnya di [sini](../start/sponsor.md).
+Harga untuk menjadi sponsor adalah $5. Informasi lebih lanjut tentang cara menjadi sponsor dapat dilihat [di sini](../start/sponsor.md).
 
 ---
 ### Kenapa game saya crash saat loading?
 
-Jika Anda mendapatkan masalah seperti ini:
+Jika Anda mengalami masalah seperti ini:
 
 `atidxx64.dll caused an Access Violation (0xc0000005) in module atidxx64.dll at 0033:43d1356c.`
 
-Harap perbarui driver Anda dan coba kembali.
+Mohon perbarui driver Anda dan coba lagi.
 
-Jika tidak terjadi masalah seperti itu pada Anda, cobalah untuk meningkatkan penundaan peluncuran di `cfg.ini`.
+Jika masalah tersebut tidak terjadi pada Anda, coba tingkatkan delay peluncuran di `cfg.ini`.

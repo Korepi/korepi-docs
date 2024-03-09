@@ -6,46 +6,46 @@ category:
 tag:
   - Buku Pemula
   - Teleports
-author: Schvis, Natsume, Chloe
+author: Schvis, NatsumeAoii, Chloe
 order: 6
 ---
 
 ## Cara Menggunakan Teleportasi Kustom
 
-## Langkah 1: Pengaturan yang Diperlukan
+### Langkah 1: Pengaturan yang Diperlukan
 
-Gunakan pengaturan berikut.
+Atur konfigurasi berikut untuk memulai.
 
 ![](/assets/images/docs/202312/teleport1.png)
 
-`Delay Time` yang direkomendasikan adalah >15 detik.
+Disarankan menggunakan `Delay Time` lebih dari 15 detik.
 
-## Langkah 2: Unduh File `.json` untuk Teleportasi Kustom
+### Langkah 2: Unduh File `.json` untuk Teleportasi Kustom
 
-Kamu bisa menemukan Filenya dipostingan yang di `pin` pada `community-share` di server. Unduh yang sesuai dengan kebutuhanmu.
+File `.json` untuk teleportasi kustom dapat ditemukan di postingan yang di `pin` di bagian `community-share` di server. Pilih dan unduh file yang sesuai dengan kebutuhan Anda.
 
-## Langkah 3: Pilih File Teleportasi
+### Langkah 3: Pilih File Teleportasi
 
-Pergi ke pengaturan teleportasi kustom/`custom tp settings` dan masuk ke bagian ini:
+Buka pengaturan teleportasi kustom/`custom tp settings` dan navigasikan ke bagian berikut:
 
 ![](/assets/images/docs/202312/teleport2.png)
 
-Klik pada pilihan `.json path` dan pilih folder yang berisi file teleportasi yang ingin kamu gunakan.
+Klik pada opsi `.json path` dan arahkan ke folder dimana file teleportasi yang diinginkan berada.
 
-## Langkah 4: Cara Memulai Teleportasi
+### Langkah 4: Cara Memulai Teleportasi
 
-Setelah memilih folder, centang kotak ini:
+Setelah folder dipilih, centang kotak berikut:
 
 ![](/assets/images/docs/202312/teleport3.png)
 
-Setelah itu, klik `Select`:
+Kemudian, klik `Select`:
 
 ![](/assets/images/docs/202312/teleport4.png)
 
-## Langkah 5: Nikmati Perjalanan
+### Langkah 5: Nikmati Perjalanan
 
-Teleportasi akan dimulai secara otomatis. Jika kamu memiliki [Sponsor](../start/sponsor.md), kamu akan dapat melihat progress dan waktu yang tersisa.
+Teleportasi akan berlangsung secara otomatis. Bagi pengguna [Sponsor](../start/sponsor.md), Anda akan bisa melihat progres dan sisa waktu teleportasi.
 
 ## Video
 
-<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/1ft6xYr2EmM" title="Part 1 - How to Use &#39;Custom Teleports&#39; in Colorpicker or Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/1ft6xYr2EmM" title="Part 1 - How to Use 'Custom Teleports' in Colorpicker or Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>

@@ -1,41 +1,50 @@
 ---
-title: Attack Effects
+title: Efek Serangan
 icon: explosion
 category:
   - Fitur
 tag:
+  - Player
   - Attack Effects
-author: Schvis, Natsume, RodanZ
+author: Schvis, NatsumeAoii, RodanZ
 order: 1
 ---
 
-## Attack Effects: Memodifikasi serangan Anda.
+## Efek Serangan: Kustomisasi Serangan Anda
 
-### Multi-Hit Mode:
-- One Punch Mode: Mencoba membunuh target dengan 1 pukulan..
-> Catatan: Tidak disarankan untuk digunakan.
-- Mengubah jumlah serangan yang akan diterima oleh target.
-> Catatan: Tidak disarankan nilainya melebihi `5`.
+### Mode Multi-Hit:
+- **One Punch Mode**: Upaya untuk mengalahkan target dengan satu pukulan.
+  > Catatan: Penggunaan mode ini tidak disarankan.
+- Mengatur jumlah serangan yang akan diterima oleh target.
+  > Catatan: Tidak disarankan untuk mengatur nilai lebih dari `5`.
+
 ### Multi-Target:
-- Menyerang semua target dalam radius tertentu yang telah ditentukan dari target yang utama.
->  Catatan: Tidak disarankan untuk mengubah pengaturan bawaan.
-### Multi-Animation:
-- Mengubah jumlah berapa kali karakter melakukan suatu aksi.
-> Catatan: Tidak disarankan untuk digunakan.
-### Attack Speed:
-- Mengubah kecepatan serangan normal dari pemain.
-> Catatan: Tidak disarankan nilainya melebihi `1.5`.
-### Custom Element:
-- Mengubah elemen dari semua serangan yang keluar.
-### Infuse Element:
-- Mengubah elemen dari serangan normal senjata pedang, tombak, dan pedang besar.
-### Auto Weakspot:
-- Mengenai titik lemah target sehingga memicu serangan kritis, `hanya berfungsi dengan pengguna panah`.
-### Critical Rate (Sponsor!):
-- Mengubah probabilitas serangan kritis.
-### Nullify Incoming Element:
-- Akan meniadakan elemen masuk apa pun, dan mengubahnya menjadi kerusakan fisik
+- Menyerang semua target dalam jangkauan tertentu dari target utama.
+  > Catatan: Mengubah pengaturan default tidak disarankan.
 
-## Video Contoh:
+### Multi-Animation:
+- Mengubah frekuensi aksi yang dilakukan karakter.
+  > Catatan: Penggunaan fitur ini tidak disarankan.
+
+### Attack Speed:
+- Menyesuaikan kecepatan serangan normal pemain.
+  > Catatan: Tidak disarankan untuk menetapkan nilai lebih dari `1.5`.
+
+### Custom Element:
+- Mengganti elemen dari semua serangan yang dilancarkan.
+
+### Infuse Element:
+- Mengubah elemen serangan normal untuk senjata seperti pedang, tombak, dan greatsword.
+
+### Auto Weakspot:
+- Otomatis mengenai titik lemah target, memicu serangan kritis. **Hanya efektif untuk pengguna busur**.
+
+### Critical Rate (Sponsor!):
+- Menyesuaikan kemungkinan terjadinya serangan kritis.
+
+### Nullify Incoming Element:
+- Menetralkan setiap elemen yang datang dan mengubahnya menjadi kerusakan fisik.
+
+## Contoh Video:
 
 <video controls preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/4rRZ3mQoxsnfMQy/preview"><source src="https://nextcloud.atruicardona.xyz/s/4rRZ3mQoxsnfMQy/download" type="video/mp4"></video>

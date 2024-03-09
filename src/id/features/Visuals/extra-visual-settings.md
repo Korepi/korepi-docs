@@ -2,19 +2,22 @@
 title: Extra Visual Settings
 icon: eye
 category:
-  - Features
+  - Fitur
 tag:
   - Extra Visual Settings
-author: Schvis, Kaede, Chloe, RodanZ
+  - Visual
+author: Schvis, Kaede, Chloe, RodanZ, NatsumeAoii
 order: 7
 ---
-::: info Hanya Untuk Sponsor!
+::: info Eksklusif Untuk Sponsor!
 :::
 ---
 ## Extra Visual Settings:
 ### Gamma:
-- Memperbolehkan Anda mengganti nilai gamma dari game.
+- Memungkinkan Anda untuk menyesuaikan nilai gamma dalam game.
+
 ### Outline Width:
-- Memperbolehkan Anda menganti garis luar karakter yang ada di game.
+- Memungkinkan Anda untuk menyesuaikan ketebalan garis luar karakter dalam game.
+
 ### Anti-Aliasing:
-- Memperbolehkan Anda mengganti model anti-aliasing yang dipakai. termasuk beberapa hal yang tidak dapat diubah secara resmi.
+- Memungkinkan Anda untuk memilih model anti-aliasing yang digunakan, termasuk beberapa opsi yang tidak tersedia melalui pengaturan resmi game.

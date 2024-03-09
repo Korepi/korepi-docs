@@ -2,20 +2,24 @@
 title: Free Camera
 icon: camera-rotate
 category:
-  - Features
+  - Fitur
 tag:
   - Free Camera
-author: Schvis, Kaede, Chloe, RodanZ
+  - Visual
+author: Schvis, Kaede, Chloe, RodanZ, NatsumeAoii
 order: 11
 ---
-::: info Hanya Untuk Sponsor!
+::: info Eksklusif Untuk Sponsor!
 :::
 ---
 ## Free Camera:
-- Menggerakkan kamera secara bebas tanpa terkunci pada karakter.
+- Memungkinkan Anda untuk menggerakkan kamera secara bebas, tidak terbatas pada posisi karakter.
+
 ### Freeze Character Animation:
-- Membekukan animasi karakter.
+- Membekukan animasi karakter sehingga mereka tetap dalam satu pose.
+
 ### Make Character Invisible:
-- Membuat karakter tidak terlihat.
+- Membuat karakter menjadi tidak terlihat dalam game.
+
 ### Block User Input:
-- Blokir input pemain yang membuat karakter tidak bergerak walaupun menggerakkan kamera.
+- Mencegah karakter bergerak dengan memblokir input dari pemain, memungkinkan kamera bergerak tanpa mempengaruhi posisi karakter.
