@@ -1,24 +1,43 @@
 # Korepi Documentation
 
-- [Documents](https://github.com/Korepi/korepi) for Korepi.
-- Live version available [here](https://github.com/Korepi/korepi-docs).
+Welcome to the official documentation for Korepi. Below you'll find links to various resources including the live version of the documentation, the website, and how to get started with testing the project locally.
 
-## Display Address
-[Click here](https://korepi.com/) to view.
-[Backup link](https://docs.korepi.com/) to view.
+## Quick Links
 
-## How to Test
+- **Korepi GitHub Repository:** [Visit here](https://github.com/Korepi/korepi)
+- **Live Documentation:** [View here](https://github.com/Korepi/korepi-docs)
+- **Official Website:** [Explore here](https://korepi.com)
 
-### First Time Installation
+## Viewing the Documentation Online
 
-- Install [NodeJS >=18](https://nodejs.org/en/download/).
-- Clone this repository using [GitHub Desktop](https://desktop.github.com/) or Git command (`git clone`).
-- Run `pnpm install` in the project's root directory.
+To view the Korepi documentation online, you can either:
 
-### Local Test
+- Visit the [official website](https://korepi.com/).
+- Use the [backup documentation link](https://docs.korepi.com/) if the main site is unavailable.
 
-- Execute `pnpm run docs:dev` in the root directory.
-  - The document will be accessible at `http://localhost:8080` by default.
+## Local Testing and Development
 
-# Icon Selection
-- Explore icons at [FontAwesome](https://fontawesome.com/search).
+### Setting Up for the First Time
+
+To set up the Korepi documentation for local testing and development, follow these steps:
+
+1. **Install NodeJS:** Ensure you have NodeJS version 18 or higher installed. You can download it from [NodeJS official website](https://nodejs.org/en/download/).
+2. **Clone the Repository:** Use [GitHub Desktop](https://desktop.github.com/) or the Git command line (`git clone`) to clone the repository.
+3. **Install Dependencies:** Navigate to the project's root directory and run `pnpm install` to install the required dependencies.
+
+### Running Locally
+
+To test the documentation locally:
+
+1. Execute `pnpm run docs:dev` in the root directory of the project.
+2. By default, the documentation will be accessible at `http://localhost:8080`.
+
+## Additional Resources
+
+### Icon Selection
+
+For selecting icons to use within the Korepi documentation or projects, explore the vast collection available at [FontAwesome](https://fontawesome.com/search).
+
+---
+
+Thank you for contributing to and using Korepi. For more information or if you encounter issues, please refer to the GitHub repository issues section.
