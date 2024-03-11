@@ -6,7 +6,7 @@ category:
 tag:
   - Buku Pemula
   - Lisensi
-author: Schvis, Natsume, Chloe, RodanZ
+author: Schvis, NatsumeAoii, Chloe, RodanZ
 order: 1
 ---
 
@@ -18,41 +18,39 @@ order: 1
 :::
 
 ### Langkah 1:
-- Temukan channel `★⋅micah-bot-verify⋅★` atau dengan klik [di sini](https://discord.com/channels/1069057220802781265/1203687333107335198)
+- Temukan channel `★⋅micah-bot-verify⋅★` atau klik [di sini](https://discord.com/channels/1069057220802781265/1203687333107335198).
 
   ![img.png](/assets/images/docs/202402/verify-1.png)
-- Temukan pesan yang dikirim oleh Micah-bot
+- Temukan pesan yang dikirim oleh Micah-bot.
+
 ### Langkah 2:
 Untuk versi gratis, ikuti [tautan ini](free.md).
 
-::: tip Jika Anda sudah memiliki langganan yang sedang aktif, sebaiknya untuk tekan munumpuk kartu, untuk menggabungkan langganan Anda saat ini.
+::: tip Jika Anda sudah memiliki langganan yang sedang aktif, sebaiknya tekan munumpuk kartu untuk menggabungkan langganan Anda saat ini.
 :::
 
 Jika Anda membeli kunci dari reseller, klik `bind card str` dan tempelkan kunci Anda.
 
-
 ### Langkah 3:
-::: info Jika kamu sudah punya enc.json, hapus dulu sebelum membuka injektor
+::: info Jika kamu sudah punya enc.json, hapus dulu sebelum membuka injektor.
 :::
 Klik `Dapatkan File Verifikasi`, dan Anda harus mengisi `HWID` (ID perangkat) Anda yang diperoleh setelah membuka injektor sekali.
-- Anda akan mendapatkan file dari bot, unduh dan letakkan di folder korepi Anda. Pastikan namanya adalah `enc.json`.
-
+- Anda akan mendapatkan file dari bot, unduh dan letakkan di folder Korepi Anda. Pastikan namanya adalah `enc.json`.
 
 Anda juga dapat mengklik `Lihat Informasi Langganan` untuk melihat informasi langganan Anda.
 
-## Cara menjeda kunci
+## Cara Menjeda Kunci
 
 Klik `Jeda Kartu` dan ketik `YES` untuk menjeda kartu. Anda dapat membatalkan jeda kapan saja dan langganan Anda akan berlanjut.
 
-::: info Anda hanya dapat menjeda kartu setiap 30 hari sekali
+::: info Anda hanya dapat menjeda kartu setiap 30 hari sekali.
 :::
 
-## Cara mengubah HWID (ID Perangkat)
+## Cara Mengubah HWID (ID Perangkat)
 
+Klik pada `ID (Ubah HWID)`, dan tempelkan `HWID` baru yang Anda dapatkan dari membuka injektor, setelah itu unduh file baru dan letakkan di folder Korepi Anda.
 
-Klik pada `ID (Ubah HWID)`, dan tempelkan `HWID` baru yang anda dapatkan dari membuka injektor, setelah itu unduh file baru dan letakkan di folder Korepi anda.
-
-::: info Anda hanya dapat mengatur ulang HWID setiap 7 hari sekali 
+::: info Anda hanya dapat mengatur ulang HWID setiap 7 hari sekali.
 :::
 
 ## Masalah Verifikasi MD5

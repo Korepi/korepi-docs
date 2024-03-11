@@ -2,13 +2,15 @@
 title: FPS Unlock
 icon: arrow-up-right-dots
 category:
-  - Features
+  - Fitur
 tag:
   - FPS Unlock
-author: Schvis, Kaede
+  - Visual
+author: Schvis, Kaede, NatsumeAoii
 order: 8
 ---
 
-## Membuka batas fps. Membuka batas fps. Membuka batas fps wow.
+## FPS Unlock memungkinkan Anda untuk membuka batas FPS, sehingga meningkatkan jumlah frame per detik yang dapat dicapai oleh game.
+
 ### Limit background FPS:
-- Atur fps maksimal game yang dapat dicapai saat game sedang tidak terfokus
+- Memungkinkan Anda untuk mengatur batas maksimal FPS yang dapat dicapai oleh game ketika tidak dalam mode fokus atau minimalkan.

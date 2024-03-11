@@ -5,14 +5,15 @@ category:
   - Fitur
 tag:
   - Auto Challenge
-author: Schvis, Natsume
+  - Dunia
+author: Schvis, NatsumeAoii
 order: 2
 ---
 
-### Auto Challenge memungkinkan Anda menyelesaikan tantangan dengan waktu tertentu yang sedang aktif dalam rentang jarak dan waktu tunda yang telah ditentukan, Anda dapat mengkonfigurasikan ini sesuai keinginan.
+### Fitur Auto Challenge memungkinkan Anda untuk otomatis menyelesaikan tantangan dalam waktu dan jarak tertentu yang telah ditentukan, dengan kemampuan untuk mengatur waktu tunda dan jarak sesuai preferensi Anda.
 
-## Video contoh:
+## Video Demonstrasi:
 
 <video controls preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/wp5N6BwGNbezqEg/preview"><source src="https://nextcloud.atruicardona.xyz/s/wp5N6BwGNbezqEg/download" type="video/mp4"></video>
 
->Catatan: Tidak disarankan untuk digunakan dengan waktu penundaan yang rendah dan rentang jarak yang jauh!.
+>Catatan: Penggunaan fitur ini dengan waktu tunda yang singkat dan jarak yang jauh tidak disarankan.

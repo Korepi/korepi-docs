@@ -4,16 +4,20 @@ icon: forward-fast
 category:
   - Fitur
 tag:
+  - Player
   - Player Speed
-author: Schvis, Natsume
+author: Schvis, NatsumeAoii
 order: 10
 ---
 
-## Player Speed memodifikasi kecepatan pemain. Asli. Tidak Bohong.
+## Player Speed
 
-> Catatan: Disarankan menggunakan nilai dibawah `1.5`.
-> Catatan 2: [Extra Movements](extra-movements.md) disarankan karena lebih disinkronkan dengan server (lebih aman) (Sponsor!)
+Player Speed memungkinkan Anda untuk menyesuaikan kecepatan bergerak karakter Anda, memberikan kecepatan yang lebih cepat dalam permainan.
 
-## Video Contoh:
+### Catatan Penting:
+- **Keamanan**: Gunakan nilai kecepatan di bawah `1.5` untuk menghindari potensi masalah.
+- **Rekomendasi**: Untuk sinkronisasi yang lebih baik dengan server dan keamanan tambahan, gunakan [Extra Movements](extra-movements.md) yang direkomendasikan untuk Sponsor.
+
+## Demonstrasi Player Speed:
 
 <video controls preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/oKdGWF7zRi8qmLx/preview"><source src="https://nextcloud.atruicardona.xyz/s/oKdGWF7zRi8qmLx/download" type="video/mp4"></video>

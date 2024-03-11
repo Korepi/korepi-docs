@@ -2,13 +2,14 @@
 title: Flycloack Modifier
 icon: arrows-rotate
 category:
-  - Features
+  - Fitur
 tag:
   - Flycloack Modifier
-author: Schvis, Kaede, RodanZ
+  - Visual
+author: Schvis, Kaede, RodanZ, NatsumeAoii
 order: 10
 ---
-::: info Hanya Untuk PERTAMAX!
+::: info Eksklusif Untuk PERTAMAX!
 :::
 ---
-## Flycloack Modifier Memperbolehkan pemain untuk mengganti skin glider bahkan jika Anda tidak mempunyainya.
+## Flycloack Modifier memungkinkan pemain untuk mengganti skin glider, bahkan jika mereka tidak memiliki skin tersebut.

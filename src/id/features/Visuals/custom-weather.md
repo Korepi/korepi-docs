@@ -2,13 +2,14 @@
 title: Custom Weather
 icon: cloud
 category:
-  - Features
+  - Fitur
 tag:
   - Custom Weather
-author: Schvis, Kaede, RodanZ
+  - Visual
+author: Schvis, Kaede, RodanZ, NatsumeAoii
 order: 5
 ---
-::: info Hanya Untuk PERTAMAX!
+::: info Eksklusif Untuk PERTAMAX!
 :::
 ---
-## Custom weather, memperbolehkan mengubah cuaca dengan pilihan yang Anda mau gunakan.
+## Custom Weather memungkinkan Anda untuk mengubah cuaca sesuai dengan pilihan yang Anda inginkan.

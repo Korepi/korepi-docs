@@ -2,21 +2,25 @@
 title: Hide UI
 icon: square
 category:
-  - Features
+  - Fitur
 tag:
   - Hide UI
-author: Schvis, Kaede, Chloe
+  - Visual
+author: Schvis, Kaede, Chloe, NatsumeAoii
 order: 12
 ---
 
 ## Hide UI:
-- Menyembunyikan tampilan layar.
+- Memungkinkan Anda untuk menyembunyikan semua elemen antarmuka pengguna pada layar.
+
 ### Hide Ping: (<span style='color:yellow;'>Sponsor</span>)
-- Menyembunyikan Ping. 
+- Menyembunyikan indikator Ping dari tampilan.
+
 ### Hide HP Bar: (<span style='color:yellow;'>Sponsor</span>)
-- Menyembunyikan bar darah karakter aktif.
+- Menyembunyikan bar kesehatan dari karakter yang sedang aktif.
+
 ### Hide Team HP Bar: (<span style='color:yellow;'>Sponsor</span>)
-- Menyembunyikan bar darah party.
+- Menyembunyikan bar kesehatan dari seluruh anggota party.
 
 # Video:
 

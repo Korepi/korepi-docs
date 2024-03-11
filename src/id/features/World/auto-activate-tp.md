@@ -5,14 +5,15 @@ category:
   - Fitur
 tag:
   - Auto Activate Waypoints
-author: Schvis, Natsume
+  - Dunia
+author: Schvis, NatsumeAoii
 order: 1
 ---
-::: info Hanya Untuk Sponsor!
+::: info Eksklusif Untuk Sponsor!
 :::
 ---
-### Auto Activated Waypoints mengaktifkan teleport waypoints terdekat hingga jarak 50m.
+### Fitur Auto Activated Waypoints memungkinkan aktivasi teleport waypoints terdekat hingga jarak 50 meter.
 
-## Video contoh:
+## Video Demonstrasi:
 
 <video controls preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/ydzPcwiLDfEGMJY/preview"><source src="https://nextcloud.atruicardona.xyz/s/ydzPcwiLDfEGMJY/download" type="video/mp4"></video>

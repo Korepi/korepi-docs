@@ -5,16 +5,17 @@ category:
   - Fitur
 tag:
   - Elemental Aura
-author: Schvis, Natsume
+  - Dunia
+author: Schvis, NatsumeAoii
 order: 10
 ---
-::: info Hanya Untuk Sponsor!
+::: info Eksklusif Untuk Sponsor!
 :::
 ---
-### Elemental Aura menerapkan elemen dengan elemen tertentu, jarak jangkau, dan waktu jeda yang ditentukan ke target, objek, atau diri Anda sendiri. Beberapa elemen dapat diterapkan pada target terdekat.
+### Elemental Aura memungkinkan Anda untuk menerapkan efek elemen tertentu, dengan jarak jangkau dan waktu tunda yang telah ditentukan, pada target, objek, atau diri sendiri. Anda dapat mengaplikasikan berbagai elemen pada target yang berada dalam jangkauan terdekat.
 
-## Video contoh:
+## Video Demonstrasi:
 
 <video controls preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/mjfe6J4Q5Ja6ipN/preview"><source src="https://nextcloud.atruicardona.xyz/s/mjfe6J4Q5Ja6ipN/download" type="video/mp4"></video>
 
-> Catatan: Waktu jeda yang rendah akan meningkatkan peluang anda terdeteksi!.
+> Catatan: Menggunakan waktu tunda yang singkat dapat meningkatkan risiko Anda terdeteksi.

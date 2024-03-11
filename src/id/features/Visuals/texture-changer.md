@@ -2,13 +2,14 @@
 title: Texture Changer
 icon: list
 category:
-  - Features
+  - Fitur
 tag:
   - Texture Changer
-author: Schvis, Kaede
+  - Visual
+author: Schvis, Kaede, NatsumeAoii
 order: 15
 ---
-::: info Lebih baik menggunakan [GIMI](../../guide/3DM-tutorial.md) Untuk mengganti texture. 
+::: info Disarankan menggunakan [GIMI](../../guide/3DM-tutorial.md) untuk mengganti tekstur.
 :::
 ---
-## Texture Changer Memperbolehkan Anda mengubah tampilan karakter dari file gambar yang dipilih.
+## Texture Changer memungkinkan Anda untuk mengubah tekstur karakter dengan file gambar yang Anda pilih.
