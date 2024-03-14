@@ -23,7 +23,7 @@ order: 1
 
 - **Moheta (discord: moheta)**
   - *Россия*
-  - [Подробнее Moheta](https://cis.korepi.com/Moheta)
+  - [Подробнее Moheta](https://cis.korepi.com/moheta)
 
 - **adwin (discord: adwinsx)**
   - *Россия*
