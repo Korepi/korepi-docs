@@ -6,8 +6,8 @@
     <link>https://korepi.com/id/</link>
     <description>Bantuan tentang Korepi</description>
     <language>id-ID</language>
-    <pubDate>Thu, 14 Mar 2024 04:00:59 GMT</pubDate>
-    <lastBuildDate>Thu, 14 Mar 2024 04:00:59 GMT</lastBuildDate>
+    <pubDate>Sat, 16 Mar 2024 06:06:28 GMT</pubDate>
+    <lastBuildDate>Sat, 16 Mar 2024 06:06:28 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Panduan</category>
@@ -1116,7 +1116,8 @@
       <category>Fitur</category>
       <pubDate>Mon, 18 Dec 2023 00:59:43 GMT</pubDate>
       <content:encoded><![CDATA[<div class="hint-container info">
-<p class="hint-container-title">Disarankan menggunakan [GIMI](../../guide/3DM-tutorial.md) untuk mengganti tekstur.</p>
+<p class="hint-container-title">Pemberitahuan</p>
+<p>Disarankan menggunakan <a href="/id/guide/3DM-tutorial.html" target="blank">GIMI</a> untuk mengganti tekstur.</p>
 </div>
 <hr>
 <h2> Texture Changer memungkinkan Anda untuk mengubah tekstur karakter dengan file gambar yang Anda pilih.</h2>
@@ -1283,7 +1284,7 @@
 <ul>
 <li>Otomatis mengenai titik lemah target, memicu serangan kritis. <strong>Hanya efektif untuk pengguna busur</strong>.</li>
 </ul>
-<h3> Critical Rate (Sponsor!):</h3>
+<h3> Critical Rate (<span style="color:yellow;">Sponsor!</span>):</h3>
 <ul>
 <li>Menyesuaikan kemungkinan terjadinya serangan kritis.</li>
 </ul>
@@ -1566,33 +1567,33 @@
 <li><strong>Claim Daily Commision Reward</strong>: Klaim hadiah komisi harian setelah menyelesaikan 4 komisi.</li>
 <li><strong>Custom Talk</strong>: Mulai percakapan dengan ID tertentu; beberapa mungkin tidak berfungsi.
 <blockquote>
-<p>Catatan: Fitur ini berisiko.
-Catatan 2: Untuk ID percakapan, aktifkan <code>Debug Talk</code> dan ID akan ditampilkan di <code>cmd</code>.</p>
+<p>Catatan: Fitur ini berisiko.</p>
+<p>Catatan 2: Untuk ID percakapan, aktifkan <code>Debug Talk</code> dan ID akan ditampilkan di <code>cmd</code>.</p>
 </blockquote>
 </li>
 <li><strong>Spawn Gadget</strong>: Munculkan Gadget berdasarkan ID; beberapa mungkin tidak berfungsi.
 <blockquote>
-<p>Catatan: Fitur ini berisiko.
-Catatan 2: ID Gadget dapat ditemukan [di sini][1].</p>
+<p>Catatan: Fitur ini berisiko.</p>
+<p>Catatan 2: ID Gadget dapat ditemukan <a href="https://github.com/jie65535/GrasscutterCommandGenerator/blob/main/Source/GrasscutterTools/Resources/en-us/Gadget.txt" target="_blank" rel="noopener noreferrer">di sini</a>.</p>
 </blockquote>
 </li>
 <li><strong>Crafting</strong>: Buat <code>Condensed Resin</code>, munculkan Alchemy Table, Forging Table, atau gabungkan item dengan Custom Combine.
 <blockquote>
-<p>Catatan: Periksa <code>inventory</code> untuk hasil.
-Catatan 2: ID Combine dapat ditemukan [di sini][2].</p>
+<p>Catatan: Periksa <code>inventory</code> untuk hasil.</p>
+<p>Catatan 2: ID Combine dapat ditemukan <a href="https://github.com/jie65535/GrasscutterCommandGenerator/blob/main/Source/GrasscutterTools/Resources/en-us/Item.txt" target="_blank" rel="noopener noreferrer">di sini</a>.</p>
 </blockquote>
 </li>
 <li><strong>Summon NPC</strong>: Munculkan NPC dengan ID tertentu; termasuk Katheryne, Wagner, dan Prince.</li>
 <li><strong>Summon Monster</strong>: Munculkan monster dengan parameter tertentu berdasarkan ID.
 <blockquote>
-<p>Catatan: Monster tidak dapat dibunuh.
-Catatan 2: ID monster dapat ditemukan [di sini][3].</p>
+<p>Catatan: Monster tidak dapat dibunuh.</p>
+<p>Catatan 2: ID monster dapat ditemukan <a href="https://github.com/jie65535/GrasscutterCommandGenerator/blob/main/Source/GrasscutterTools/Resources/en-us/Monsters.txt" target="_blank" rel="noopener noreferrer">di sini</a>.</p>
 </blockquote>
 </li>
 <li><strong>Summon Item</strong>: Munculkan item dengan ID tertentu.
 <blockquote>
-<p>Catatan: Beberapa item mungkin tidak berfungsi.
-Catatan 2: ID item dapat ditemukan [di sini][2].</p>
+<p>Catatan: Beberapa item mungkin tidak berfungsi.</p>
+<p>Catatan 2: ID item dapat ditemukan <a href="https://github.com/jie65535/GrasscutterCommandGenerator/blob/main/Source/GrasscutterTools/Resources/en-us/Item.txt" target="_blank" rel="noopener noreferrer">di sini</a>.</p>
 </blockquote>
 </li>
 <li><strong>Open UI Page</strong>: Buka menu Paimon atau halaman memasak.
