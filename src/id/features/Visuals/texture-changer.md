@@ -9,7 +9,8 @@ tag:
 author: Schvis, Kaede, NatsumeAoii
 order: 15
 ---
-::: info Disarankan menggunakan [GIMI](../../guide/3DM-tutorial.md) untuk mengganti tekstur.
+::: info
+Disarankan menggunakan [GIMI](../../guide/3DM-tutorial.md) untuk mengganti tekstur.
 :::
 ---
 ## Texture Changer memungkinkan Anda untuk mengubah tekstur karakter dengan file gambar yang Anda pilih.

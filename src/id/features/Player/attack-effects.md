@@ -39,7 +39,7 @@ order: 1
 ### Auto Weakspot:
 - Otomatis mengenai titik lemah target, memicu serangan kritis. **Hanya efektif untuk pengguna busur**.
 
-### Critical Rate (Sponsor!):
+### Critical Rate (<span style="color:yellow;">Sponsor!</span>):
 - Menyesuaikan kemungkinan terjadinya serangan kritis.
 
 ### Nullify Incoming Element:
