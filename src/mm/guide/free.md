@@ -1,5 +1,5 @@
 ---
-title: Free Version
+title: ဖရီးဗားရှင်း
 icon: key
 category:
   - Guide
