@@ -1,7 +1,7 @@
 import { sidebar } from "vuepress-theme-hope";
 
 export const mmSidebar = sidebar({
-  "/mn/": [
+  "/mm/": [
     "",
     {
       text: "Inicio",
