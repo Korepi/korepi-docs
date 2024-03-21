@@ -6,8 +6,8 @@
     <link>https://korepi.com/mm/</link>
     <description>Korepi တွင်ကူညီပါ။</description>
     <language>my-MM</language>
-    <pubDate>Sat, 16 Mar 2024 06:06:28 GMT</pubDate>
-    <lastBuildDate>Sat, 16 Mar 2024 06:06:28 GMT</lastBuildDate>
+    <pubDate>Thu, 21 Mar 2024 17:39:53 GMT</pubDate>
+    <lastBuildDate>Thu, 21 Mar 2024 17:39:53 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Guide</category>
@@ -132,10 +132,10 @@ In order to use custom skins in we will need to download:</p>
       <enclosure url="https://korepi.com/assets/images/docs/202312/example.png" type="image/png"/>
     </item>
     <item>
-      <title>Guides</title>
+      <title>လမ်းညွှန်ချက်များ</title>
       <link>https://korepi.com/mm/guide/</link>
       <guid>https://korepi.com/mm/guide/</guid>
-      <source url="https://korepi.com/mm/rss.xml">Guides</source>
+      <source url="https://korepi.com/mm/rss.xml">လမ်းညွှန်ချက်များ</source>
       <category>Guide</category>
       <pubDate>Wed, 07 Feb 2024 23:18:47 GMT</pubDate>
     </item>
@@ -171,10 +171,10 @@ In order to use custom skins in we will need to download:</p>
       <enclosure url="https://korepi.com/assets/images/docs/202312/teleport1.png" type="image/png"/>
     </item>
     <item>
-      <title>Free Version</title>
+      <title>ဖရီးဗားရှင်း</title>
       <link>https://korepi.com/mm/guide/free.html</link>
       <guid>https://korepi.com/mm/guide/free.html</guid>
-      <source url="https://korepi.com/mm/rss.xml">Free Version</source>
+      <source url="https://korepi.com/mm/rss.xml">ဖရီးဗားရှင်း</source>
       <description>How to get the free license for Korepi. Step 1: Find the ★⋅micah-bot-verify⋅★ channel direct link (https://discord.com/channels/1069057220802781265/1203687333107335198); img.png...</description>
       <category>Guide</category>
       <pubDate>Wed, 07 Feb 2024 23:18:47 GMT</pubDate>
@@ -208,10 +208,10 @@ In order to use custom skins in we will need to download:</p>
       <enclosure url="https://korepi.com/assets/images/docs/202402/verify-1.png" type="image/png"/>
     </item>
     <item>
-      <title>Verification Tutorial</title>
+      <title>အတည်ပြုခြင်း သင်ခန်းစာ</title>
       <link>https://korepi.com/mm/guide/getkey.html</link>
       <guid>https://korepi.com/mm/guide/getkey.html</guid>
-      <source url="https://korepi.com/mm/rss.xml">Verification Tutorial</source>
+      <source url="https://korepi.com/mm/rss.xml">အတည်ပြုခြင်း သင်ခန်းစာ</source>
       <description>Verification Tutorial If you got an active subscription, don&amp;apos;t bind any other card or you will lose your current subscription. If you bind any other card, you wont be able to cl...</description>
       <category>Guide</category>
       <pubDate>Wed, 07 Feb 2024 23:18:47 GMT</pubDate>
@@ -307,10 +307,10 @@ In order to use custom skins in we will need to download:</p>
       <enclosure url="https://korepi.com/assets/images/docs/202312/security.png" type="image/png"/>
     </item>
     <item>
-      <title>Catalog</title>
+      <title>Catalog or ကတ်တလောက်</title>
       <link>https://korepi.com/mm/start/</link>
       <guid>https://korepi.com/mm/start/</guid>
-      <source url="https://korepi.com/mm/rss.xml">Catalog</source>
+      <source url="https://korepi.com/mm/rss.xml">Catalog or ကတ်တလောက်</source>
       <category>Guide</category>
       <pubDate>Wed, 07 Feb 2024 23:18:47 GMT</pubDate>
     </item>
