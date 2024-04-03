@@ -1,14 +1,14 @@
 ---
-title: Sponsor
+title: Patrocinador
 icon: user-plus
 category:
-  - Guide
+  - Guia
 tag:
-  - Start
-author: Schvis
+  - Início
+author: Sky
 order: 9
 ---
 
-## Sponsors
+## Patrocinador
 
-- Sponsors are a legacy role that is no longer obtainable, people with this role are elegible to extra functionality in the software without having to pay again, they also receive some extra perks in the server/software, [Difference](differences.md).
+- Patrocinador é um cargo exclusivo e não é mais possível obtê-lo, pessoas com esse cargo podem receber funções extras sem pagar novamente, e também recebem vantagens no servidor e no software, [Diferenças](differences.md).

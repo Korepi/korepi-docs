@@ -4,75 +4,60 @@ icon: info
 category:
   - FAQ
 tag:
-  - Start
-author: Schvis
+  - Início
+author: Sky
 order: 1
 ---
 
-## List of FAQ
+## Lista de FAQ
 
-### Is Korepi free?
+### Korepi é grátis?
 
-Yes, Korepi has a free version which you can use easily following this [guide](../guide/free.md).
+SIm, Korepi possui uma versão grátis que você pode ter acesso facilmente seguindo esse [guia](../guide/free.md).
 ---
-### What is the .rar/.zip password?
+### Qual a senha do .rar/.zip?
 
 ...
 
-Its `1234`, please read the download post next time.
+É `1234`, por favor, leia o post do download na próxima vez.
 
 ---
-### Why my config doesn't save?
+### Por que minha configuração não salva?
 
-Keep in mind you have to extract the `.rar/.zip` file you got in another folder.
+Lembre que você deve extrair o arquivo `.rar/.zip` para outra pasta.
 
-If config is still not saving after this step, please contact with any helper in the server for more help.
+Se a configuração continuar sem salvar, entre em contato com algum ajudante no servidor para auxiliá-lo. 
 
 ---
-### Where do i find themes?
+### Onde posso encontrar temas?
 
-You can find themes for your Korepi on `community share` or you can make your own in Korepi settings.
+Você pode encontrar temas do Korepi em `community share`, ou pode fazer a sua própria nas configurações.
 
 ![](/assets/images/docs/202312/theme-settings.png)
 
-Check `Theme Customization` to start making your own theme.
+Confira `Theme Customization` para começar a fazer seu próprio tema
 
 ---
-### Why did my /start streak reset?
+### Posso usar o Korepi quando o jogo atualizar?
 
-Most likely you surpassed the reset time, it resets daily, if you skip 1 day it will reset entirely
+Não, você deve esperar que o Korepi atualize para a nova versão.
 
-::: info Reset time is at GMT/UTC+8 00:00 everyday. Please convert to your timezone.
+::: info Utilizar o programa desatualizado não funcionará, a sua atualização ocorre entre 1 e 2 semanas.
 :::
 ---
 
-### Can i use Korepi when a new update comes?
+### Por que o menu não aparece?
 
-No, you need to wait till a new Korepi version gets released.
-
-::: info Using the old program wont work, Korepi update takes 1-2 weeks approximately.
-:::
----
-
-### Why the menu doesn't appear in game?
-
-Make sure you have disabled every overlay(MSI Afterburner, GeForce Experience, etc.) before launching korepi.
+Verifique se você desativou apps de overlay (MSI Afterburner, GeForce Experience, etc.) antes de abrir o Korepi.
 
 ---
-### Where do i get <span style='color:yellow;'>Sponsor</span> and how much it is?
+### Por que meu jogo fecha na tela de carregamento?
 
-You can get [Sponsor](../start/sponsor.md) from the links provided in `#sponsorship` in the server.
-
-In order to get the Sponsor role, you need to donate at least 5$, any other donation below 5$ will be ignored.
-
----
-### Why my game crashes in loading screen?
-
-If you get a error like this:
+Se você receber este erro:
 
 `atidxx64.dll caused an Access Violation (0xc0000005) in module atidxx64.dll at 0033:43d1356c.`
 
-Please update your drivers and try again.
+Atualize seus drivers e tente novamente.
 
-If you don't get that error, try setting more delay on launch on `cfg.ini`.
+Se você não recebe esse erro, aumente a demora de carregar o Korepi em `cfg.ini`.
 

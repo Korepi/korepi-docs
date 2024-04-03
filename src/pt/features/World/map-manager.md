@@ -5,10 +5,10 @@ category:
   - Features
 tag:
   - Map Manager
-author: Schvis
+author: Sky
 order: 13
 ---
 
-### Map Manager allows the player to unlock Statues of the Seven or Waypoints automatically without moving from the place, great to create reroll accounts.
+## Modificador de mapa permite que o jogador desbloqueie todos Waypoints e Estátuas dos Sete sem se mover, ótimo para fazer contas reroll.
 
 <video controls preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/5qrXm8Bzsj7pJsM/preview"><source src="https://nextcloud.atruicardona.xyz/s/5qrXm8Bzsj7pJsM/download" type="video/mp4"></video>
