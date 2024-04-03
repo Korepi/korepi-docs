@@ -6,30 +6,29 @@
     <link>https://korepi.com/pt/</link>
     <description>Ajuda em Korepi</description>
     <language>pt-BR</language>
-    <pubDate>Thu, 21 Mar 2024 17:39:53 GMT</pubDate>
-    <lastBuildDate>Thu, 21 Mar 2024 17:39:53 GMT</lastBuildDate>
+    <pubDate>Wed, 03 Apr 2024 14:25:11 GMT</pubDate>
+    <lastBuildDate>Wed, 03 Apr 2024 14:25:11 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-    <category>Guide</category>
-    <category>Features</category>
     <category>Guia</category>
+    <category>Features</category>
     <category>FAQ</category>
     <category>Funções</category>
     <category>Erros</category>
     <item>
-      <title>Where to buy?</title>
+      <title>Onde comprar?</title>
       <link>https://korepi.com/pt/guide/seller.html</link>
       <guid>https://korepi.com/pt/guide/seller.html</guid>
-      <source url="https://korepi.com/pt/rss.xml">Where to buy?</source>
-      <description>Where can i buy PERTAMAX version? You can find our official sellers on our discord server. You can find the currency that suits you in Sellers (https://discord.com/channels/1069...</description>
-      <category>Guide</category>
+      <source url="https://korepi.com/pt/rss.xml">Onde comprar?</source>
+      <description>Onde posso assinar a versão PERTAMAX? Vocẽ pode encontrar vendedores no nosso servidor oficial. Você pode encontrar vendedores na sua moeda em vendedores (https://discord.com/ch...</description>
+      <category>Guia</category>
       <pubDate>Thu, 29 Feb 2024 23:14:22 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Where can i buy PERTAMAX version?</h2>
-<p>You can find our official sellers on our discord server.</p>
+      <content:encoded><![CDATA[<h2> Onde posso assinar a versão PERTAMAX?</h2>
+<p>Vocẽ pode encontrar vendedores no nosso servidor oficial.</p>
 <ul>
-<li>You can find the currency that suits you in <a href="https://discord.com/channels/1069057220802781265/1204755981834129439" target="_blank" rel="noopener noreferrer">Sellers</a>.</li>
-<li>If you don't find your currency, you can buy from the global sellers(USD)</li>
-<li>If you can't find a payment method that suits you, you can ask on this <a href="https://discord.com/channels/1069057220802781265/1205143920577880074" target="_blank" rel="noopener noreferrer">channel</a>, and a seller will provide you help if possible.</li>
+<li>Você pode encontrar vendedores na sua moeda em <a href="https://discord.com/channels/1069057220802781265/1204755981834129439" target="_blank" rel="noopener noreferrer">vendedores</a>.</li>
+<li>Caso não encontre algum na sua moeda, você pode comprar com vendedores global (USD)</li>
+<li>Se não encontrar um método de pagamento que te agrade, peça ajuda nesse <a href="https://discord.com/channels/1069057220802781265/1205143920577880074" target="_blank" rel="noopener noreferrer">canal</a>, e um vendedor te ajudará, caso seja possível.</li>
 </ul>
 ]]></content:encoded>
     </item>
@@ -38,15 +37,15 @@
       <link>https://korepi.com/pt/features/World/others.html</link>
       <guid>https://korepi.com/pt/features/World/others.html</guid>
       <source url="https://korepi.com/pt/rss.xml">Others</source>
-      <description>Other Features: Open Team Imediately Skip Enhance Animation Dumb Enemies Freeze Enemies Permanent Elemental Sight</description>
+      <description>Outras funções: Abrir time imediatamente Pular animação de encantamento Inimigos burros Congelar inimigos Aura elemental permanente</description>
       <category>Features</category>
       <pubDate>Wed, 14 Feb 2024 21:50:28 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Other Features:</h2>
-<h3> Open Team Imediately</h3>
-<h3> Skip Enhance Animation</h3>
-<h3> Dumb Enemies</h3>
-<h3> Freeze Enemies</h3>
-<h3> Permanent Elemental Sight</h3>
+      <content:encoded><![CDATA[<h2> Outras funções:</h2>
+<h3> Abrir time imediatamente</h3>
+<h3> Pular animação de encantamento</h3>
+<h3> Inimigos burros</h3>
+<h3> Congelar inimigos</h3>
+<h3> Aura elemental permanente</h3>
 <h1> Video:</h1>
 <p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/5qrXm8Bzsj7pJsM/preview"><source src="https://nextcloud.atruicardona.xyz/s/5qrXm8Bzsj7pJsM/download" type="video/mp4"></video></p>
 ]]></content:encoded>
@@ -56,10 +55,10 @@
       <link>https://korepi.com/pt/features/World/map-manager.html</link>
       <guid>https://korepi.com/pt/features/World/map-manager.html</guid>
       <source url="https://korepi.com/pt/rss.xml">Map Manager</source>
-      <description>Map Manager allows the player to unlock Statues of the Seven or Waypoints automatically without moving from the place, great to create reroll accounts.</description>
+      <description>Modificador de mapa permite que o jogador desbloqueie todos Waypoints e Estátuas dos Sete sem se mover, ótimo para fazer contas reroll.</description>
       <category>Features</category>
       <pubDate>Wed, 07 Feb 2024 20:25:33 GMT</pubDate>
-      <content:encoded><![CDATA[<h3> Map Manager allows the player to unlock Statues of the Seven or Waypoints automatically without moving from the place, great to create reroll accounts.</h3>
+      <content:encoded><![CDATA[<h2> Modificador de mapa permite que o jogador desbloqueie todos Waypoints e Estátuas dos Sete sem se mover, ótimo para fazer contas reroll.</h2>
 <p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/5qrXm8Bzsj7pJsM/preview"><source src="https://nextcloud.atruicardona.xyz/s/5qrXm8Bzsj7pJsM/download" type="video/mp4"></video></p>
 ]]></content:encoded>
     </item>
@@ -68,10 +67,10 @@
       <link>https://korepi.com/pt/features/World/auto-domain.html</link>
       <guid>https://korepi.com/pt/features/World/auto-domain.html</guid>
       <source url="https://korepi.com/pt/rss.xml">Auto Domain</source>
-      <description>Soon.</description>
+      <description>Em breve.</description>
       <category>Features</category>
       <pubDate>Wed, 07 Feb 2024 13:27:26 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Soon.</h2>
+      <content:encoded><![CDATA[<h2> Em breve.</h2>
 ]]></content:encoded>
     </item>
     <item>
@@ -79,10 +78,10 @@
       <link>https://korepi.com/pt/features/World/auto-puzzle.html</link>
       <guid>https://korepi.com/pt/features/World/auto-puzzle.html</guid>
       <source url="https://korepi.com/pt/rss.xml">Auto Puzzle</source>
-      <description>Soon.</description>
+      <description>Em breve.</description>
       <category>Features</category>
       <pubDate>Wed, 07 Feb 2024 13:27:26 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Soon.</h2>
+      <content:encoded><![CDATA[<h2> Em breve.</h2>
 ]]></content:encoded>
     </item>
     <item>
@@ -90,10 +89,10 @@
       <link>https://korepi.com/pt/features/Player/stats-modifer.html</link>
       <guid>https://korepi.com/pt/features/Player/stats-modifer.html</guid>
       <source url="https://korepi.com/pt/rss.xml">Stats Modifier</source>
-      <description>Soon.</description>
+      <description>Em breve.</description>
       <category>Features</category>
       <pubDate>Wed, 07 Feb 2024 13:14:17 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Soon.</h2>
+      <content:encoded><![CDATA[<h2> Em breve.</h2>
 ]]></content:encoded>
     </item>
     <item>
@@ -134,104 +133,104 @@
       <enclosure url="https://korepi.com/assets/images/docs/202402/verify-1.png" type="image/png"/>
     </item>
     <item>
-      <title>Differences between versions</title>
+      <title>Diferenças entre as versões</title>
       <link>https://korepi.com/pt/start/differences.html</link>
       <guid>https://korepi.com/pt/start/differences.html</guid>
-      <source url="https://korepi.com/pt/rss.xml">Differences between versions</source>
-      <description>Available Features between versions. Version Free SponsorPERTAMAX --------------------------- Attack Effects✓✓✓ Auto Run✓✓✓ Cooldown Effects✓✓✓ Fall Control✓✓✓ God Mode✓✓✓ Infin...</description>
-      <category>Guide</category>
+      <source url="https://korepi.com/pt/rss.xml">Diferenças entre as versões</source>
+      <description>Funções disponíveis entre as versões. Version Grátis PatrocinadorPERTAMAX --------------------------- Efeitos de ataque✓✓✓ Correr automaticamente✓✓✓ Efeitos de tempo de espera✓✓...</description>
+      <category>Guia</category>
       <pubDate>Sat, 13 Jan 2024 00:53:24 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Available Features between versions.</h2>
+      <content:encoded><![CDATA[<h2> Funções disponíveis entre as versões.</h2>
 <table>
 <thead>
 <tr>
 <th>Version</th>
-<th>Free</th>
-<th>Sponsor</th>
+<th>Grátis</th>
+<th>Patrocinador</th>
 <th>PERTAMAX</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td>Attack Effects</td>
+<td>Efeitos de ataque</td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Auto Run</td>
+<td>Correr automaticamente</td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Cooldown Effects</td>
+<td>Efeitos de tempo de espera</td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Fall Control</td>
+<td>Controle de queda</td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>God Mode</td>
+<td>Modo Deus</td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Infinite Stamina</td>
+<td>Estamina infinita</td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>No-Clip</td>
+<td>Sem colisão</td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Player Speed</td>
+<td>Velocida do jogador</td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Auto-Challenge</td>
+<td>Desafio automáticp</td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Auto-Loot</td>
+<td>Saque automático</td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Auto-Seelie</td>
+<td>Seelie automático</td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Auto Talk</td>
+<td>Conversa automática</td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Dumb Enemies</td>
+<td>Inimigos burros</td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Elemental Sight</td>
+<td>Visão elemental</td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
@@ -243,331 +242,331 @@
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Freeze Enemies</td>
+<td>COngelar inimigos</td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Game Speed</td>
+<td>Velocidade do jogo</td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Open Team Immediately</td>
+<td>Abrir equipe imediatamente</td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Skip Enhance Animation</td>
+<td>Pular animação de aprimoramento</td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Chest Teleport</td>
+<td>Teleporte de baú</td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Oculi Teleport</td>
+<td>Teleporte de oculi</td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Map Teleport</td>
+<td>Teleporte de mapa</td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Quest Teleport</td>
+<td>Teleporte de missão</td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Custom Teleport</td>
+<td>Teleporte personalizado</td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Interactive Map</td>
+<td>Mapa interativo</td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Camera Zoom</td>
+<td>Zoom da câmera</td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>FOV Changer</td>
+<td>Alterador de FOV</td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Chest Indicator</td>
+<td>Indicador de baú</td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Censor Remover</td>
+<td>Removedor de censura</td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>FPS Unlock</td>
+<td>Desbloqueio de FPS</td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Hide UI</td>
+<td>Ocultar interface do usuário</td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Map Zoom</td>
+<td>Zoom do mapa</td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>No Fog</td>
+<td>Sem névoa</td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>No Grass</td>
+<td>Sem grama</td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>No Map Fog</td>
+<td>Sem névoa no mapa</td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Summon Paimon</td>
+<td>Chamar Paimon</td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Profile Changer</td>
+<td>Trocador de perfil</td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Auto Activate Waypoint</td>
+<td>Ativar waypoint automático</td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Crit Rate Modifier</td>
+<td>Taxa de crítico</td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Dolphin Dive</td>
+<td>Mergulho de golfiho</td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Elemental Aura</td>
+<td>Aura elemental</td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Extra Movement</td>
+<td>Movimento extra</td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Extra Visual Settings</td>
+<td>Configuração visual extra</td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Fake Time</td>
+<td>Tempo falso</td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Free Camera</td>
+<td>Câmera livre</td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>GM Icon</td>
+<td>Ícone do GM</td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Monster Changer</td>
+<td>Trocador de monstro</td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>No Camera Blur</td>
+<td>Sem desfoque de câmera</td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>No Camera Shake</td>
+<td>Sem vibração de câmera</td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>No Footprints</td>
+<td>Sem pegadas</td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>No Skill Animation</td>
+<td>Sem animação de habilidade</td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Debug</td>
+<td>Depuração</td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Animation Changer</td>
+<td>Trocador de animação</td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Auto Cook</td>
+<td>Cozimento automático</td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Auto Destroy</td>
+<td>Destruição automática</td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Auto Fish</td>
+<td>Pesca automática</td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Auto Tree Farm</td>
+<td>Farm de árvores automática</td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Constellation Modifier</td>
+<td>Modificador de constelação</td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Custom Weather</td>
+<td>Tempo personalizado</td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Emotion Changer</td>
+<td>Trocador de emoções</td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Flycloak Modifier</td>
+<td>Modificador de capa de vôo</td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Kill Aura</td>
+<td>Aura de morte</td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Map Manager</td>
+<td>Gerenciador de mapa</td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Mob Vacuum</td>
+<td>Vácuo de mobs</td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Remote Utilities</td>
+<td>Utilitário remoto</td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Vacuum Loot</td>
+<td>Saque a vácuo</td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Skin Modifier</td>
+<td>Modificador de skin</td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Auto Puzzle</td>
+<td>Puzzle automático</td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Auto Domain</td>
+<td>Domínio automático</td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Stats Modifier</td>
+<td>Modificador de estatísticas</td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:green;">✓</span></td>
@@ -577,29 +576,27 @@
 ]]></content:encoded>
     </item>
     <item>
-      <title>How to add to exclusion list</title>
+      <title>Como adicionar na lista de exclusão</title>
       <link>https://korepi.com/pt/guide/virus.html</link>
       <guid>https://korepi.com/pt/guide/virus.html</guid>
-      <source url="https://korepi.com/pt/rss.xml">How to add to exclusion list</source>
-      <description>Other antivirus will have similar steps, adapt depending on the antivirus you are using. How to add Korepi to antivirus exclusion list (Windows Defender) Step 1: Open the antivi...</description>
-      <category>Guide</category>
+      <source url="https://korepi.com/pt/rss.xml">Como adicionar na lista de exclusão</source>
+      <description>outros anti-virus possuem etapas parecidas, adpte o procedimento para o seu próprio. Como botar o Korepi como esclusão no (Windows Defender) Passo 1: abra o Windows Defender Abr...</description>
+      <category>Guia</category>
       <pubDate>Sat, 23 Dec 2023 17:10:07 GMT</pubDate>
-      <content:encoded><![CDATA[<div class="hint-container info">
-<p class="hint-container-title">Other antivirus will have similar steps, adapt depending on the antivirus you are using.</p>
-</div>
-<hr>
-<h2> How to add Korepi to antivirus exclusion list (Windows Defender)</h2>
-<h3> Step 1: Open the antivirus</h3>
-<p>Open the windows search bar and search for <code>Windows Security</code> and open it.</p>
+      <content:encoded><![CDATA[<h2> ::: Informação: outros anti-virus possuem etapas parecidas, adpte o procedimento para o seu próprio.
+:::</h2>
+<h2> Como botar o Korepi como esclusão no (Windows Defender)</h2>
+<h3> Passo 1: abra o Windows Defender</h3>
+<p>Abra a aba de pesquisa do windows e pesquise <code>Windows Security</code> e abra-o.</p>
 <p><img src="/assets/images/docs/202312/security.png" alt="" loading="lazy"></p>
-<p>We click on <code>Virus &amp; threat protection</code>.</p>
+<p>Clique em <code>Virus &amp; threat protection</code>.</p>
 <p><img src="/assets/images/docs/202312/virus1.png" alt="" loading="lazy"></p>
-<p>Then we scroll till we find <code>Virus &amp; threat protection settings</code> and click on <code>Manage settings</code>.</p>
+<p>Desça a página até <code>Virus &amp; threat protection settings</code> e clique em <code>Manage settings</code>.</p>
 <p><img src="/assets/images/docs/202312/virus3.png" alt="" loading="lazy"></p>
-<h3> Step 2: Adding to the exclusion list</h3>
-<p>After following the last step, we will scroll until we find <code>Exclusions</code> and then we click on <code>Add or remove exclusions</code>.</p>
+<h3> Passo 2: adicionando na lista de exclusão</h3>
+<p>Após seguir o passo anterior, desça a página até <code>Exclusions</code> e clique em <code>Add or remove exclusions</code>.</p>
 <p><img src="/assets/images/docs/202312/virus4.png" alt="" loading="lazy"></p>
-<p>Click yes to the popup, after that we click on <code>Add an Exclusion</code> and select folder, then we select our Korepi folder.</p>
+<p>Pressione <code>yes</code> no aplicativo que aparecer, então clique em <code>Add an Exclusion</code> e selecione a pasta em que o Korepi está localizado.</p>
 <h2> Video</h2>
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/BonLkFNnO9w" title="How to Exclude a File or Folder from Windows Defender Scan In Windows 10 [Tutorial]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 ]]></content:encoded>
@@ -610,49 +607,39 @@
       <link>https://korepi.com/pt/troubleshoot/faq.html</link>
       <guid>https://korepi.com/pt/troubleshoot/faq.html</guid>
       <source url="https://korepi.com/pt/rss.xml">FAQ</source>
-      <description>List of FAQ Is Korepi free? Yes, Korepi has a free version which you can use easily following this guide (../guide/free.md). What is the .rar/.zip password? ... Its 1234, please...</description>
+      <description>Lista de FAQ Korepi é grátis? SIm, Korepi possui uma versão grátis que você pode ter acesso facilmente seguindo esse guia (../guide/free.md). Qual a senha do .rar/.zip? ... É 12...</description>
       <category>FAQ</category>
       <pubDate>Tue, 19 Dec 2023 17:09:24 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> List of FAQ</h2>
-<h3> Is Korepi free?</h3>
-<h2> Yes, Korepi has a free version which you can use easily following this <a href="/pt/guide/free.html" target="blank">guide</a>.</h2>
-<h3> What is the .rar/.zip password?</h3>
+      <content:encoded><![CDATA[<h2> Lista de FAQ</h2>
+<h3> Korepi é grátis?</h3>
+<h2> SIm, Korepi possui uma versão grátis que você pode ter acesso facilmente seguindo esse <a href="/pt/guide/free.html" target="blank">guia</a>.</h2>
+<h3> Qual a senha do .rar/.zip?</h3>
 <p>...</p>
-<p>Its <code>1234</code>, please read the download post next time.</p>
+<p>É <code>1234</code>, por favor, leia o post do download na próxima vez.</p>
 <hr>
-<h3> Why my config doesn't save?</h3>
-<p>Keep in mind you have to extract the <code>.rar/.zip</code> file you got in another folder.</p>
-<p>If config is still not saving after this step, please contact with any helper in the server for more help.</p>
+<h3> Por que minha configuração não salva?</h3>
+<p>Lembre que você deve extrair o arquivo <code>.rar/.zip</code> para outra pasta.</p>
+<p>Se a configuração continuar sem salvar, entre em contato com algum ajudante no servidor para auxiliá-lo.</p>
 <hr>
-<h3> Where do i find themes?</h3>
-<p>You can find themes for your Korepi on <code>community share</code> or you can make your own in Korepi settings.</p>
+<h3> Onde posso encontrar temas?</h3>
+<p>Você pode encontrar temas do Korepi em <code>community share</code>, ou pode fazer a sua própria nas configurações.</p>
 <p><img src="/assets/images/docs/202312/theme-settings.png" alt="" loading="lazy"></p>
-<p>Check <code>Theme Customization</code> to start making your own theme.</p>
+<p>Confira <code>Theme Customization</code> para começar a fazer seu próprio tema</p>
 <hr>
-<h3> Why did my /start streak reset?</h3>
-<p>Most likely you surpassed the reset time, it resets daily, if you skip 1 day it will reset entirely</p>
+<h3> Posso usar o Korepi quando o jogo atualizar?</h3>
+<p>Não, você deve esperar que o Korepi atualize para a nova versão.</p>
 <div class="hint-container info">
-<p class="hint-container-title">Reset time is at GMT/UTC+8 00:00 everyday. Please convert to your timezone.</p>
+<p class="hint-container-title">Utilizar o programa desatualizado não funcionará, a sua atualização ocorre entre 1 e 2 semanas.</p>
 </div>
 <hr>
-<h3> Can i use Korepi when a new update comes?</h3>
-<p>No, you need to wait till a new Korepi version gets released.</p>
-<div class="hint-container info">
-<p class="hint-container-title">Using the old program wont work, Korepi update takes 1-2 weeks approximately.</p>
-</div>
+<h3> Por que o menu não aparece?</h3>
+<p>Verifique se você desativou apps de overlay (MSI Afterburner, GeForce Experience, etc.) antes de abrir o Korepi.</p>
 <hr>
-<h3> Why the menu doesn't appear in game?</h3>
-<p>Make sure you have disabled every overlay(MSI Afterburner, GeForce Experience, etc.) before launching korepi.</p>
-<hr>
-<h3> Where do i get <span style="color:yellow;">Sponsor</span> and how much it is?</h3>
-<p>You can get <a href="/pt/start/sponsor.html" target="blank">Sponsor</a> from the links provided in <code>#sponsorship</code> in the server.</p>
-<p>In order to get the Sponsor role, you need to donate at least 5$, any other donation below 5$ will be ignored.</p>
-<hr>
-<h3> Why my game crashes in loading screen?</h3>
-<p>If you get a error like this:</p>
+<h3> Por que meu jogo fecha na tela de carregamento?</h3>
+<p>Se você receber este erro:</p>
 <p><code>atidxx64.dll caused an Access Violation (0xc0000005) in module atidxx64.dll at 0033:43d1356c.</code></p>
-<p>Please update your drivers and try again.</p>
-<p>If you don't get that error, try setting more delay on launch on <code>cfg.ini</code>.</p>
+<p>Atualize seus drivers e tente novamente.</p>
+<p>Se você não recebe esse erro, aumente a demora de carregar o Korepi em <code>cfg.ini</code>.</p>
 ]]></content:encoded>
       <enclosure url="https://korepi.com/assets/images/docs/202312/theme-settings.png" type="image/png"/>
     </item>
@@ -1885,14 +1872,12 @@ Para usar skins personalizadas no Korepi, você precisará baixar o aplicativo</
       <link>https://korepi.com/pt/guide/getkey.html</link>
       <guid>https://korepi.com/pt/guide/getkey.html</guid>
       <source url="https://korepi.com/pt/rss.xml">Como conseguir a Key</source>
-      <description>Tutorial de verificação If you got an active subscription, don&amp;apos;t bind any other card or you will lose your current subscription. If you bind any other card, you wont be able to ...</description>
+      <description>Tutorial de verificação se você tiver uma assinatura ativa, não vincule nenhum outro cartão ou perderá sua assinatura atual. Se você vincular qualquer outro cartão, não poderá r...</description>
       <category>Guia</category>
       <pubDate>Wed, 13 Dec 2023 16:37:40 GMT</pubDate>
       <content:encoded><![CDATA[<h2> Tutorial de verificação</h2>
 <p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/Y3ECm4LcH3i9n2d/preview"><source src="https://nextcloud.atruicardona.xyz/s/Y3ECm4LcH3i9n2d/download" type="video/mp4"></video></p>
-<div class="hint-container danger">
-<p class="hint-container-title">If you got an active subscription, don't bind any other card or you will lose your current subscription. If you bind any other card, you wont be able to claim your sponsor compensation.</p>
-</div>
+<p>::: Cuidado, se você tiver uma assinatura ativa, não vincule nenhum outro cartão ou perderá sua assinatura atual. Se você vincular qualquer outro cartão, não poderá reivindicar a compensação do patrocinador. :::</p>
 <h3> Passo 1:</h3>
 <ul>
 <li>
@@ -1961,19 +1946,19 @@ Para usar skins personalizadas no Korepi, você precisará baixar o aplicativo</
       <link>https://korepi.com/pt/start/download.html</link>
       <guid>https://korepi.com/pt/start/download.html</guid>
       <source url="https://korepi.com/pt/rss.xml">Baixar</source>
-      <description>Introduction Welcome to our community! To pass the bot check and receive the Newcomer role, follow these steps. Step 1: Join our server and obtain the Newcomer role If you haven...</description>
+      <description>Introdução Bem vindo à nossa comunidade! Para passar a verificação do bot e receber o cargo Newcomer, siga esses passos: Passo 1: entrar no servidor e pegar o cargo Newcomer Se ...</description>
       <category>Guia</category>
       <pubDate>Wed, 13 Dec 2023 16:37:40 GMT</pubDate>
       <content:encoded><![CDATA[<h1> Download</h1>
 <p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/c3EGqsxpMEzraZM/preview"><source src="https://nextcloud.atruicardona.xyz/s/c3EGqsxpMEzraZM/download" type="video/mp4"></video></p>
-<h2> Introduction</h2>
-<p>Welcome to our community! To pass the bot check and receive the <code>Newcomer</code> role, follow these steps.</p>
-<h3> Step 1: Join our server and obtain the <code>Newcomer</code> role</h3>
-<p>If you haven't joined the server yet, please read the verification post, which describes how to join the server and obtain the <code>Newcomer</code>.</p>
-<h3> Step 2: Go to the channel <code>★⋅korepi-download⋅★</code></h3>
-<p>Locate the channel <code>★⋅korepi-download⋅★</code> and follow the link to download the program.</p>
-<h3> Step 3: Ready!</h3>
-<p>Place the .rar in a folder and add it to <a href="/pt/guide/virus.html" target="blank">exclusions</a>, after that extract it and follow this <a href="/pt/guide/getkey.html" target="blank">guide</a></p>
+<h2> Introdução</h2>
+<p>Bem vindo à nossa comunidade! Para passar a verificação do bot e receber o cargo <code>Newcomer</code>, siga esses passos:</p>
+<h3> Passo 1: entrar no servidor e pegar o cargo <code>Newcomer</code></h3>
+<p>Se você ainda não entrou no servidor, por favor, leia o post de verificação, que descreve como entrar nele e obter o cargo <code>Newcomer</code>.</p>
+<h3> Passo 2: vá ao canal <code>★⋅korepi-download⋅★</code></h3>
+<p>Encontre o canal <code>★⋅korepi-download⋅★</code> e entre no link para instalar o programa.</p>
+<h3> Passo 3: pronto!</h3>
+<p>Coloque o .rar em umap asta e adicione ela em <a href="/pt/guide/virus.html" target="blank">exclusões</a>, e então siga este <a href="/pt/guide/getkey.html" target="blank">guia</a></p>
 ]]></content:encoded>
     </item>
     <item>
@@ -2001,16 +1986,16 @@ Para usar skins personalizadas no Korepi, você precisará baixar o aplicativo</
 ]]></content:encoded>
     </item>
     <item>
-      <title>Sponsor</title>
+      <title>Patrocinador</title>
       <link>https://korepi.com/pt/start/sponsor.html</link>
       <guid>https://korepi.com/pt/start/sponsor.html</guid>
-      <source url="https://korepi.com/pt/rss.xml">Sponsor</source>
-      <description>Sponsors Sponsors are a legacy role that is no longer obtainable, people with this role are elegible to extra functionality in the software without having to pay again, they als...</description>
-      <category>Guide</category>
+      <source url="https://korepi.com/pt/rss.xml">Patrocinador</source>
+      <description>Patrocinador Patrocinador é um cargo exclusivo e não é mais possível obtê-lo, pessoas com esse cargo podem receber funções extras sem pagar novamente, e também recebem vantagens...</description>
+      <category>Guia</category>
       <pubDate>Wed, 13 Dec 2023 16:37:40 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Sponsors</h2>
+      <content:encoded><![CDATA[<h2> Patrocinador</h2>
 <ul>
-<li>Sponsors are a legacy role that is no longer obtainable, people with this role are elegible to extra functionality in the software without having to pay again, they also receive some extra perks in the server/software, <a href="/pt/start/differences.html" target="blank">Difference</a>.</li>
+<li>Patrocinador é um cargo exclusivo e não é mais possível obtê-lo, pessoas com esse cargo podem receber funções extras sem pagar novamente, e também recebem vantagens no servidor e no software, <a href="/pt/start/differences.html" target="blank">Diferenças</a>.</li>
 </ul>
 ]]></content:encoded>
     </item>
