@@ -5,16 +5,16 @@ category:
   - Features
 tag:
   - Others
-author: Schvis
+author: Sky
 order: 16
 ---
 
-## Other Features:
-### Open Team Imediately
-### Skip Enhance Animation
-### Dumb Enemies
-### Freeze Enemies
-### Permanent Elemental Sight
+## Outras funções:
+### Abrir time imediatamente
+### Pular animação de encantamento
+### Inimigos burros
+### Congelar inimigos
+### Aura elemental permanente
 
 # Video:
 
