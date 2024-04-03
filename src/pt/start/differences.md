@@ -2,9 +2,9 @@
 title: Diferenças entre as versões
 icon: server
 category:
-  - Guide
+  - Guia
 tag:
-  - Start
+  - Início
 author: Sky
 order: 6
 ---
