@@ -7,7 +7,7 @@ tag:
   - Inicio
   - Baixar
 author:
-  name: Ryuzeen
+  name: Sky
 order: 7
 ---
 
@@ -15,20 +15,20 @@ order: 7
 
 <video controls preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/c3EGqsxpMEzraZM/preview"><source src="https://nextcloud.atruicardona.xyz/s/c3EGqsxpMEzraZM/download" type="video/mp4"></video>
 
-## Introduction
+## Introdução
 
-Welcome to our community! To pass the bot check and receive the `Newcomer` role, follow these steps.
+Bem vindo à nossa comunidade! Para passar a verificação do bot e receber o cargo `Newcomer`, siga esses passos:
 
-### Step 1: Join our server and obtain the `Newcomer` role
+### Passo 1: entrar no servidor e pegar o cargo `Newcomer` 
 
-If you haven't joined the server yet, please read the verification post, which describes how to join the server and obtain the `Newcomer`.
+Se você ainda não entrou no servidor, por favor, leia o post de verificação, que descreve como entrar nele e obter o cargo `Newcomer`.
 
-### Step 2: Go to the channel `★⋅korepi-download⋅★`
+### Passo 2: vá ao canal `★⋅korepi-download⋅★`
 
-Locate the channel `★⋅korepi-download⋅★` and follow the link to download the program.
+Encontre o canal `★⋅korepi-download⋅★` e entre no link para instalar o programa.
 
-### Step 3: Ready!
+### Passo 3: pronto!
 
-Place the .rar in a folder and add it to [exclusions](../guide/virus.md), after that extract it and follow this [guide](../guide/getkey.md)
+Coloque o .rar em umap asta e adicione ela em [exclusões](../guide/virus.md), e então siga este [guia](../guide/getkey.md)
 
 
