@@ -5,7 +5,7 @@ category:
   - Guia
 tag:
   - Início
-author: Sky
+author: Ryuzeen, Sky
 order: 7
 ---
 
