@@ -6,8 +6,8 @@
     <link>https://korepi.com/pt/</link>
     <description>Ajuda em Korepi</description>
     <language>pt-BR</language>
-    <pubDate>Thu, 04 Apr 2024 00:48:14 GMT</pubDate>
-    <lastBuildDate>Thu, 04 Apr 2024 00:48:14 GMT</lastBuildDate>
+    <pubDate>Thu, 04 Apr 2024 00:48:29 GMT</pubDate>
+    <lastBuildDate>Thu, 04 Apr 2024 00:48:29 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Guia</category>
@@ -2139,21 +2139,21 @@ Para usar skins personalizadas no Korepi, você precisará baixar o aplicativo</
 <p>Se foram encontrados erros e o Windows não puder corrigi-los, use <code>DISM.exe /Online /Cleanup-Image /RestoreHealth</code> no <code>cmd</code>.</p>
 <p>Depois disso, reinicie seu computador e verifique se funciona.</p>
 <p>Se não funcionar, será necessário reinstalar o Windows.</p>
-<h3> Current data does not exist or server error.</h3>
+<h3> Dados atuais não existem ou erro de servidor.</h3>
 <p><img src="/assets/images/docs/202312/error.png" alt="" loading="lazy"></p>
-<p>Unpause your license and try again.</p>
-<h3> Cannot verify current timestamp.</h3>
+<p>Despausa sua licença e tente novamente.</p>
+<h3> Não é possível verificar o carimbo de data/hora atual.</h3>
 <p><img src="/assets/images/docs/202402/timestamp.png" alt="" loading="lazy"></p>
-<p>Case 1:</p>
+<p>Caso 1:</p>
 <ul>
-<li>You might get this error while using a VPN, please disable it and try again.</li>
+<li>Você pode receber este erro ao usar uma VPN, por favor desative-a e tente novamente.</li>
 </ul>
-<p>Case 2:</p>
+<p>Caso 2:</p>
 <ul>
-<li>Check that your PC time is set to automatic sync.</li>
+<li>Verifique se o horário do seu PC está configurado para sincronização automática.</li>
 </ul>
 <div class="hint-container info">
-<p class="hint-container-title">If you are from Iran you might need to use a VPN instead.</p>
+<p class="hint-container-title">Se você é do Irã, talvez precise usar uma VPN em vez disso.</p>
 </div>
 ]]></content:encoded>
       <enclosure url="https://korepi.com/assets/images/docs/202312/virus.png" type="image/png"/>
