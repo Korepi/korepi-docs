@@ -6,7 +6,7 @@ category:
 tag:
   - Inicio
   - Licença
-author: Sky
+author: Ryuzeen, Sky
 order: 1
 ---
 
