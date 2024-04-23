@@ -6,8 +6,8 @@
     <link>https://korepi.com/ar/</link>
     <description>للمساعدة Korepi</description>
     <language>ar</language>
-    <pubDate>Thu, 11 Apr 2024 06:50:13 GMT</pubDate>
-    <lastBuildDate>Thu, 11 Apr 2024 06:50:13 GMT</lastBuildDate>
+    <pubDate>Tue, 23 Apr 2024 15:49:23 GMT</pubDate>
+    <lastBuildDate>Tue, 23 Apr 2024 15:49:23 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Guide</category>
@@ -48,8 +48,7 @@
 <h3> Freeze Enemies</h3>
 <h3> Permanent Elemental Sight</h3>
 <h1> Video:</h1>
-<p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/5qrXm8Bzsj7pJsM/preview"><source src="https://nextcloud.atruicardona.xyz/s/5qrXm8Bzsj7pJsM/download" type="video/mp4"></video></p>
-]]></content:encoded>
+<div class="iframe-container"><iframe width="1328" height="747" src="https://www.youtube.com/embed/Pq0OiHN-DPg?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - World/Others" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>]]></content:encoded>
     </item>
     <item>
       <title>Map Manager</title>
@@ -60,8 +59,7 @@
       <category>Features</category>
       <pubDate>Wed, 07 Feb 2024 20:25:33 GMT</pubDate>
       <content:encoded><![CDATA[<h3> Map Manager allows the player to unlock Statues of the Seven or Waypoints automatically without moving from the place, great to create reroll accounts.</h3>
-<p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/5qrXm8Bzsj7pJsM/preview"><source src="https://nextcloud.atruicardona.xyz/s/5qrXm8Bzsj7pJsM/download" type="video/mp4"></video></p>
-]]></content:encoded>
+<div class="iframe-container"><iframe width="1328" height="747" src="https://www.youtube.com/embed/jOY5Gm2z8To?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Map Manager - Korepi" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>]]></content:encoded>
     </item>
     <item>
       <title>الاختلافات بين الإصدارات</title>
@@ -491,13 +489,13 @@
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Auto Domain</td>
+<td>Auto Domain (WIP)</td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Stats Modifier</td>
+<td>Stats Modifier (WIP)</td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:green;">✓</span></td>
@@ -507,10 +505,10 @@
 ]]></content:encoded>
     </item>
     <item>
-      <title>Auto Domain</title>
+      <title>Auto Domain (WIP)</title>
       <link>https://korepi.com/ar/features/World/auto-domain.html</link>
       <guid>https://korepi.com/ar/features/World/auto-domain.html</guid>
-      <source url="https://korepi.com/ar/rss.xml">Auto Domain</source>
+      <source url="https://korepi.com/ar/rss.xml">Auto Domain (WIP)</source>
       <description>Soon.</description>
       <category>Features</category>
       <pubDate>Wed, 07 Feb 2024 13:27:26 GMT</pubDate>
@@ -529,10 +527,10 @@
 ]]></content:encoded>
     </item>
     <item>
-      <title>Stats Modifier</title>
+      <title>Stats Modifier (WIP)</title>
       <link>https://korepi.com/ar/features/Player/stats-modifer.html</link>
       <guid>https://korepi.com/ar/features/Player/stats-modifer.html</guid>
-      <source url="https://korepi.com/ar/rss.xml">Stats Modifier</source>
+      <source url="https://korepi.com/ar/rss.xml">Stats Modifier (WIP)</source>
       <description>Soon.</description>
       <category>Features</category>
       <pubDate>Wed, 07 Feb 2024 13:14:17 GMT</pubDate>
@@ -548,7 +546,7 @@
       <category>Guide</category>
       <pubDate>Wed, 07 Feb 2024 00:26:57 GMT</pubDate>
       <content:encoded><![CDATA[<h2> كيفية الحصول على ترخيص مجاني لـKorepi.</h2>
-<p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/6Lq9c23qJFPYdcZ/preview"><source src="https://nextcloud.atruicardona.xyz/s/6Lq9c23qJFPYdcZ/download" type="video/mp4"></video></p>
+<div class="iframe-container"><iframe width="1328" height="747" src="https://www.youtube.com/embed/kydnZ0QR2eQ" title="How to Update Korepi and How to Renew the Key" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
 <h3> الخطوة 1:</h3>
 <ul>
 <li>
@@ -733,7 +731,6 @@
       <category>Guide</category>
       <pubDate>Fri, 22 Dec 2023 11:31:21 GMT</pubDate>
       <content:encoded><![CDATA[<h2> شرح التحقق</h2>
-<p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/dEnSM8gwYdDwbnD/preview"><source src="https://nextcloud.atruicardona.xyz/s/dEnSM8gwYdDwbnD/download" type="video/mp4"></video></p>
 <div class="hint-container danger">
 <p class="hint-container-title">If you got an active subscription, don't bind any other card or you will lose your current subscription. If you bind any other card, you wont be able to claim your sponsor compensation.</p>
 </div>
@@ -794,7 +791,7 @@
 <p class="hint-container-title">يعمل فقط مع الإصدار المحلي (V).</p>
 </div>
 <hr>
-<p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/a3K6SK5bHyxfmZw/preview"><source src="https://nextcloud.atruicardona.xyz/s/a3K6SK5bHyxfmZw/download" type="video/mp4"></video></p>
+<div class="iframe-container"><iframe width="1328" height="747" src="https://www.youtube.com/embed/pSAxKoneT64?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Multi-Instance V (Updated)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
 ]]></content:encoded>
     </item>
     <item>
@@ -1141,7 +1138,7 @@
 <li>سيتم إبطال أي عنصر وارد وتحويله إلى ضرر مادي بدلاً من ذلك.</li>
 </ul>
 <h2> فيديو توضيحي:</h2>
-<p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/4rRZ3mQoxsnfMQy/preview"><source src="https://nextcloud.atruicardona.xyz/s/4rRZ3mQoxsnfMQy/download" type="video/mp4"></video></p>
+<div class="iframe-container"><iframe width="1328" height="747" src="https://www.youtube.com/embed/pSAxKoneT64?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Multi-Instance V (Updated)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
 ]]></content:encoded>
     </item>
     <item>
@@ -1154,7 +1151,7 @@
       <pubDate>Fri, 22 Dec 2023 11:31:21 GMT</pubDate>
       <content:encoded><![CDATA[<h2> سيؤدي التحرك التلقائي إلى نقل اللاعب إلى الاتجاه الذي يواجهه اللاعب تلقائيًا.</h2>
 <h2> فيديو توضيحي:</h2>
-<p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/QGyZW8KnWNtrsxi/preview"><source src="https://nextcloud.atruicardona.xyz/s/QGyZW8KnWNtrsxi/download" type="video/mp4"></video></p>
+<div class="iframe-container"><iframe width="1328" height="747" src="https://www.youtube.com/embed/BLDhPBMs7Es?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Run" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
 ]]></content:encoded>
     </item>
     <item>
@@ -1171,7 +1168,7 @@
 <hr>
 <h2> سوف يقفز (الأرنب هوب) تلقائيًا بعد القفزة الأولى عند تمكينه.</h2>
 <h2> فيديو توضيحي:</h2>
-<p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/5NYq9Rcf7852oJD/preview"><source src="https://nextcloud.atruicardona.xyz/s/5NYq9Rcf7852oJD/download" type="video/mp4"></video></p>
+<div class="iframe-container"><iframe width="1328" height="747" src="https://www.youtube.com/embed/Gh2GX23E6dw?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Bunnyhop (Sponsor)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
 ]]></content:encoded>
     </item>
     <item>
@@ -1211,7 +1208,7 @@
 <li>يزيل المؤقت لمهارات القارب.</li>
 </ul>
 <h2> فيديو توضيحي:</h2>
-<p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/6Gf3Wnc5F5bAfay/preview"><source src="https://nextcloud.atruicardona.xyz/s/6Gf3Wnc5F5bAfay/download" type="video/mp4"></video></p>
+<div class="iframe-container"><iframe width="1328" height="747" src="https://www.youtube.com/embed/qv5ykSL3Ojw?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Cooldown Effects" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
 ]]></content:encoded>
     </item>
     <item>
@@ -1272,7 +1269,7 @@
 <li>يسمح للاعب بالتحرك لمسافة معينة بعد الضغط على مفتاح التشغيل السريع.</li>
 </ul>
 <h2> فيديو توضيحي:</h2>
-<p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/RsLzFEcNLJKqtLC/preview"><source src="https://nextcloud.atruicardona.xyz/s/RsLzFEcNLJKqtLC/download" type="video/mp4"></video></p>
+<div class="iframe-container"><iframe width="1328" height="747" src="https://www.youtube.com/embed/wMd9icqhFQg?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Extra Movement (Sponsor)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
 ]]></content:encoded>
     </item>
     <item>
@@ -1285,7 +1282,7 @@
       <pubDate>Fri, 22 Dec 2023 11:31:21 GMT</pubDate>
       <content:encoded><![CDATA[<h2> يتيح لك التحكم في سرعة السقوط</h2>
 <h2> فيديو توضيحي:</h2>
-<p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/ztqDzL5ZQb2Y4cN/preview"><source src="https://nextcloud.atruicardona.xyz/s/ztqDzL5ZQb2Y4cN/download" type="video/mp4"></video></p>
+<div class="iframe-container"><iframe width="1328" height="747" src="https://www.youtube.com/embed/BHiabtwSSNc?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Fall Control" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
 ]]></content:encoded>
     </item>
     <item>
@@ -1309,7 +1306,7 @@
 <p>ملحوظة: يوصى باستخدام الشرطية فيى الهاوية (abyss)</p>
 </blockquote>
 <h2> فيديو توضيحي:</h2>
-<p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/Hg5y3FxN7gmR6HE/preview"><source src="https://nextcloud.atruicardona.xyz/s/Hg5y3FxN7gmR6HE/download" type="video/mp4"></video></p>
+<div class="iframe-container"><iframe width="1328" height="747" src="https://www.youtube.com/embed/42utUUYNHRE?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - God Mode" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
 ]]></content:encoded>
     </item>
     <item>
@@ -1329,8 +1326,7 @@
 <p>ملاحظة: يوصى باستخدام استبدال حزمة المزامنة المتحركة.</p>
 </blockquote>
 <h2> فيديو توضيحي:</h2>
-<p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/x4dWmX8J3Y9GAZo/preview"><source src="https://nextcloud.atruicardona.xyz/s/x4dWmX8J3Y9GAZo/download" type="video/mp4"></video></p>
-]]></content:encoded>
+<div class="iframe-container"><iframe width="1328" height="747" src="https://www.youtube.com/embed/NZhfaMOLuY0?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Infinite Stamina" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>]]></content:encoded>
     </item>
     <item>
       <title>No Clip</title>
@@ -1365,7 +1361,7 @@
 <p>ملحوظة: لا يُنصح باستخدامه فوق 20.</p>
 </blockquote>
 <h2> فيديو توضيحي:</h2>
-<p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/rPa8iA5zkAQyZni/preview"><source src="https://nextcloud.atruicardona.xyz/s/rPa8iA5zkAQyZni/download" type="video/mp4"></video></p>
+<div class="iframe-container"><iframe width="1328" height="747" src="https://www.youtube.com/embed/nPdq-yzBt3k?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - NoClip" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
 ]]></content:encoded>
     </item>
     <item>
@@ -1384,7 +1380,7 @@
 <p>ملاحضة 2 : يوصى ب <a href="/ar/features/Player/extra-movements.html" target="blank">الحركات الإضافية</a> نظرًا لأنها متزامنة بشكل أفضل مع الخادم (أكثر أمانًا)(للداعمين)</p>
 </blockquote>
 <h2> فيديو توضيحي:</h2>
-<p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/oKdGWF7zRi8qmLx/preview"><source src="https://nextcloud.atruicardona.xyz/s/oKdGWF7zRi8qmLx/download" type="video/mp4"></video></p>
+<div class="iframe-container"><iframe width="1328" height="747" src="https://www.youtube.com/embed/HCxmOUMFRs8?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Player Speed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
 ]]></content:encoded>
     </item>
     <item>
@@ -1490,7 +1486,7 @@
 <li>يسمح للاعب بتغيير عنصر المسافر في أي مكان.</li>
 </ul>
 <h2> فيديو توضيحي:</h2>
-<p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/TrwzrHqCr2sMyS4/preview"><source src="https://nextcloud.atruicardona.xyz/s/TrwzrHqCr2sMyS4/download" type="video/mp4"></video></p>
+<div class="iframe-container"><iframe width="1328" height="747" src="https://www.youtube.com/embed/XGztUEy82sE?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Remote Utilities (Sponsor)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
 ]]></content:encoded>
     </item>
     <item>
@@ -1506,8 +1502,7 @@
 <p>ملحوظة: انتظر <code>&gt; 15 ثانية</code> بين عمليات النقل الآني من أجل السلامة.</p>
 </blockquote>
 <h2> فيديو توضيحي:</h2>
-<p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/i4b27NoW8i4mNxn/preview"><source src="https://nextcloud.atruicardona.xyz/s/i4b27NoW8i4mNxn/download" type="video/mp4"></video></p>
-]]></content:encoded>
+<div class="iframe-container"><iframe width="1328" height="747" src="https://www.youtube.com/embed/j2Yu31J7Yh4?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Oculi/ChestTeleport" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>]]></content:encoded>
     </item>
     <item>
       <title>Chest Teleport</title>
@@ -1522,8 +1517,7 @@
 <p>ملحوظة: انتظر <code>&gt; 15 ثانية</code> بين عمليات النقل الآني من أجل السلامة.</p>
 </blockquote>
 <h2> فيديو توضيحي:</h2>
-<p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/i4b27NoW8i4mNxn/preview"><source src="https://nextcloud.atruicardona.xyz/s/i4b27NoW8i4mNxn/download" type="video/mp4"></video></p>
-]]></content:encoded>
+<div class="iframe-container"><iframe width="1328" height="747" src="https://www.youtube.com/embed/j2Yu31J7Yh4?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Oculi/ChestTeleport" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>]]></content:encoded>
     </item>
     <item>
       <title>Custom Teleport</title>
@@ -1571,7 +1565,7 @@
 <li>تعطيل شاشة التحميل ضمن المسافة المحددة أثناء النقل الآني.</li>
 </ul>
 <h2> فيديو توضيحي:</h2>
-<p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/x8LsMBL3iX2fbRe/preview"><source src="https://nextcloud.atruicardona.xyz/s/x8LsMBL3iX2fbRe/download" type="video/mp4"></video></p>
+<div class="iframe-container"><iframe width="1328" height="747" src="https://www.youtube.com/embed/Xm3mTEbIE9g?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Map TP/Fast TP" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
 ]]></content:encoded>
     </item>
     <item>
@@ -1587,7 +1581,7 @@
 <li>لاستخدام هذه الميزة، يجب عليك النقر فوق مفتاح تتبع المهمة الخاصة بك أولاً ثم النقر فوق مفتاح التشغيل السريع الخاص بالمهمة الآنية.</li>
 </ul>
 <h2> فيديو توضيحي:</h2>
-<p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/bHDsLK6ktT7sqn7/preview"><source src="https://nextcloud.atruicardona.xyz/s/bHDsLK6ktT7sqn7/download" type="video/mp4"></video></p>
+<div class="iframe-container"><iframe width="1328" height="747" src="https://www.youtube.com/embed/HNdQu39G2Tc?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - QuestTP" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
 ]]></content:encoded>
     </item>
     <item>
@@ -1633,7 +1627,7 @@
 </div>
 <hr>
 <h2> فيديو توضيحي:</h2>
-<p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/kzizWdRXjmnDL8G/preview"><source src="https://nextcloud.atruicardona.xyz/s/kzizWdRXjmnDL8G/download" type="video/mp4"></video></p>
+<div class="iframe-container"><iframe width="1328" height="747" src="https://www.youtube.com/embed/S9-g5weE9l8?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Constellation Modifier (Sponsor)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
 ]]></content:encoded>
     </item>
     <item>
@@ -1805,8 +1799,7 @@
 <li>يخفي نقاط الحياة الخاصة بالشخصيات الأخرى بالفريق</li>
 </ul>
 <h1> Video:</h1>
-<p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/tRDjSriLiqs6QWq/preview"><source src="https://nextcloud.atruicardona.xyz/s/tRDjSriLiqs6QWq/download" type="video/mp4"></video></p>
-]]></content:encoded>
+<div class="iframe-container"><iframe width="1328" height="747" src="https://www.youtube.com/embed/EtRT95qEW6Y?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Hide UI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>]]></content:encoded>
     </item>
     <item>
       <title>Map Zoom</title>
@@ -1870,8 +1863,7 @@
 <h3> No Footprints</h3>
 <h3> No Burst Animation</h3>
 <h2> Example Video:</h2>
-<p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/eMP6xMRxWbfSqti/preview"><source src="https://nextcloud.atruicardona.xyz/s/eMP6xMRxWbfSqti/download" type="video/mp4"></video></p>
-]]></content:encoded>
+<div class="iframe-container"><iframe width="1328" height="747" src="https://www.youtube.com/embed/AjkJ8S8NHsI?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Visuals/Other" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>]]></content:encoded>
     </item>
     <item>
       <title>Skin Modifier</title>
@@ -1913,7 +1905,7 @@
 <hr>
 <h3> يقوم بالتنشيط التلقائي لنقاط الطريق القريبة التي يصل بعدها إلى 50 مترًا.</h3>
 <h2> فيديو توضيحي:</h2>
-<p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/ydzPcwiLDfEGMJY/preview"><source src="https://nextcloud.atruicardona.xyz/s/ydzPcwiLDfEGMJY/download" type="video/mp4"></video></p>
+<div class="iframe-container"><iframe width="1328" height="747" src="https://www.youtube.com/embed/qstBErr9mJ0?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - AutoActivateTP (Sponsor)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
 ]]></content:encoded>
     </item>
     <item>
@@ -1926,7 +1918,7 @@
       <pubDate>Fri, 22 Dec 2023 11:31:21 GMT</pubDate>
       <content:encoded><![CDATA[<h3> يتيح لك التحدي التلقائي إكمال تحديات العالم المفتوح ذات الفترة الزمنية, التي تقوم بتنشيطها ضمن نطاق محدد ووقت تأخير، ويمكنك تكوينهما حسب رغبتك.</h3>
 <h2> فيديو المثال:</h2>
-<p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/wp5N6BwGNbezqEg/preview"><source src="https://nextcloud.atruicardona.xyz/s/wp5N6BwGNbezqEg/download" type="video/mp4"></video></p>
+<div class="iframe-container"><iframe width="1328" height="747" src="https://www.youtube.com/embed/7JNegfQiK2U?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Challenge" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
 <blockquote>
 <p>Note: لا يُنصح باستخدامه في فترات تأخير منخفضة ونطاقات عالية جدًا.</p>
 </blockquote>
@@ -1942,7 +1934,7 @@
       <pubDate>Fri, 22 Dec 2023 11:31:21 GMT</pubDate>
       <content:encoded><![CDATA[<h3> يتيح لك الطهي التلقائي طهي كمية ونوعية محددة من الطعام المحدد في صفحة الطهي، ويتم احتسابه من خلال الكفاءة التلقائية (فتح القفل للطهي التلقائي).</h3>
 <h2> فيديو المثال:</h2>
-<p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/s7cSiMAtmdLZAqx/preview"><source src="https://nextcloud.atruicardona.xyz/s/s7cSiMAtmdLZAqx/download" type="video/mp4"></video></p>
+<div class="iframe-container"><iframe width="1328" height="747" src="https://www.youtube.com/embed/T_X13AXiAiY?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Cook" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
 ]]></content:encoded>
     </item>
     <item>
@@ -1955,7 +1947,7 @@
       <pubDate>Fri, 22 Dec 2023 11:31:21 GMT</pubDate>
       <content:encoded><![CDATA[<h3> تدمير الأهداف التلقائي يتيح لك تدمير الأهداف القابلة للتخصيص ضمن نطاق محدد، والذي يشمل الخامات والنباتات وأكوام الصخور والصناديق والأشياء الخاصة والدروع وما إلى ذلك.</h3>
 <h2> فيديو المثال:</h2>
-<p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/34xYZt5G5Aid4zk/preview"><source src="https://nextcloud.atruicardona.xyz/s/34xYZt5G5Aid4zk/download" type="video/mp4"></video></p>
+<div class="iframe-container"><iframe width="1328" height="747" src="https://www.youtube.com/embed/3ML6s3SR8nE?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Destroy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
 <blockquote>
 <p>Note: القيمة الموصى بها أقل من <code>20 مترًا</code>، ولا يُنصح باستخدامها في النطاق الأقصى (<code>40 مترًا</code>)</p>
 </blockquote>
@@ -1971,7 +1963,7 @@
       <pubDate>Fri, 22 Dec 2023 11:31:21 GMT</pubDate>
       <content:encoded><![CDATA[<h3> يتيح لك الصيد التلقائي تخطي الرسوم المتحركة الخاصة بصيد الأسماك، مما سيقلل من الوقت اللازم لاصطياد السمكة.</h3>
 <h2> فيديو المثال:</h2>
-<p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/A5RxPpHs7mqYgtb/preview"><source src="https://nextcloud.atruicardona.xyz/s/A5RxPpHs7mqYgtb/download" type="video/mp4"></video></p>
+<div class="iframe-container"><iframe width="1328" height="747" src="https://www.youtube.com/embed/K_l4Tg-81iQ?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Fish" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
 <blockquote>
 <p>Note: إعادة رمي السنارة لا تعمل في وقت إنشاء هذا المنشور.</p>
 </blockquote>
@@ -1987,7 +1979,7 @@
       <pubDate>Fri, 22 Dec 2023 11:31:21 GMT</pubDate>
       <content:encoded><![CDATA[<h2> يتيح لك آخذ الغنائم التلقائي بجمع الغنائم تلقائيًا مع النطاق والتأخير المحددين، ويمكن تخصيص الغنائم التي سيتم جمعها، بما في ذلك الصناديق وإسقاطات الوحوش والمزيد.</h2>
 <h2> فيديو المثال:</h2>
-<p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/ekNmga3Ffe9TxDN/preview"><source src="https://nextcloud.atruicardona.xyz/s/ekNmga3Ffe9TxDN/download" type="video/mp4"></video></p>
+<div class="iframe-container"><iframe width="1328" height="747" src="https://www.youtube.com/embed/wUyI2XO_Z4E?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Loot" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
 <blockquote>
 <p>ملحوظة: يوصى به ادنى من "عشرة أمتار" للاستخدام العادي و"عشرين مترًا" في حالة استخدام الانتقال المخصص.
 ملاحظة أخرى: كلما زادت المسافة، يجب استخدام تأخير أعلى.</p>
@@ -2004,7 +1996,7 @@
       <pubDate>Fri, 22 Dec 2023 11:31:21 GMT</pubDate>
       <content:encoded><![CDATA[<h2> تتبع السيلي التلقائي يلغي ضرورة متابعة اللاعب للحركة بشكل مستمر، و ذهاب السيلي تلقائيا إلى الوجهة المصممة عندما يقترب اللاعب.</h2>
 <h2> فيديو المثال:</h2>
-<p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/f3Z4wMqM4d8dERo/preview"><source src="https://nextcloud.atruicardona.xyz/s/f3Z4wMqM4d8dERo/download" type="video/mp4"></video></p>
+<div class="iframe-container"><iframe width="1328" height="747" src="https://www.youtube.com/embed/uETIJ4KS39M?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Seelie" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
 ]]></content:encoded>
     </item>
     <item>
@@ -2050,7 +2042,7 @@
 <p>ملاحظة: قد تحصل على شاشة سوداء أثناء استخدامه.</p>
 </blockquote>
 <h2> مثال المقطع:</h2>
-<p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/7ceaQqesRBQcqxr/preview"><source src="https://nextcloud.atruicardona.xyz/s/7ceaQqesRBQcqxr/download" type="video/mp4"></video></p>
+<div class="iframe-container"><iframe width="1328" height="747" src="https://www.youtube.com/embed/IS0BvLLO1xc?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - AutoTalk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
 ]]></content:encoded>
     </item>
     <item>
@@ -2067,7 +2059,7 @@
 <hr>
 <h3> تفريم الشجر التلقائي يتيح لك تدمير الأشجار القريبة بالقيمة والتأخير المحددين، وبالتالي الحصول على الخشب تلقائيًا من الأشجار القريبة.</h3>
 <h2> فيديو المثال:</h2>
-<p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/2fctdnkH4q98yNo/preview"><source src="https://nextcloud.atruicardona.xyz/s/2fctdnkH4q98yNo/download" type="video/mp4"></video></p>
+<div class="iframe-container"><iframe width="1328" height="747" src="https://www.youtube.com/embed/v95_NOxc4do?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Tree Farm" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
 <blockquote>
 <p>ملاحظة: لا يوصى بتغيير القيم العادية.</p>
 </blockquote>
@@ -2087,7 +2079,7 @@
 <hr>
 <h3> هالة عنصرية تطبق هالة ذات العنصر المحدد والمدى والتأخير على الأهداف أو الكائنات أو نفسك، ويمكن تطبيق عناصر متعددة على الأهداف القريبة.</h3>
 <h2> فيديو المثال:</h2>
-<p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/mjfe6J4Q5Ja6ipN/preview"><source src="https://nextcloud.atruicardona.xyz/s/mjfe6J4Q5Ja6ipN/download" type="video/mp4"></video></p>
+<div class="iframe-container"><iframe width="1328" height="747" src="https://www.youtube.com/embed/FskTJiknOgQ?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Elemental Aura (Sponsor)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
 <blockquote>
 <p>ملحوظة: أوقات التأخير المنخفضة ستزيد من فرصة تعرضك للاكتشاف.</p>
 </blockquote>
@@ -2106,7 +2098,7 @@
 <p>ملحوظة: لا ينصح باستخدامه خارج القوائم أو بشكل عام.</p>
 </blockquote>
 <h2> فيديو المثال:</h2>
-<p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/5r8a7BqXMBbSWry/preview"><source src="https://nextcloud.atruicardona.xyz/s/5r8a7BqXMBbSWry/download" type="video/mp4"></video></p>
+<div class="iframe-container"><iframe width="1328" height="747" src="https://www.youtube.com/embed/MzXhudYkaDg?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Game Speed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
 ]]></content:encoded>
     </item>
     <item>
@@ -2155,7 +2147,7 @@
 <li>ما إذا كان سيتم استهداف الأعداء المعادين فقط أم لا.</li>
 </ul>
 <h2> مقطع المثال:</h2>
-<p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/CW5fzAXWC3CPfdN/preview"><source src="https://nextcloud.atruicardona.xyz/s/CW5fzAXWC3CPfdN/download" type="video/mp4"></video></p>
+<div class="iframe-container"><iframe width="1328" height="747" src="https://www.youtube.com/embed/NiAh00VBy-w?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Kill Aura" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
 ]]></content:encoded>
     </item>
     <item>
@@ -2169,7 +2161,7 @@
       <content:encoded><![CDATA[<h2> مختطف العدو</h2>
 <p>يقوم بنقل الأعداء القريبين إلى اللاعب بالسرعة والنطاق المحددين، ويمكن تخصيص الأعداء الذين سيتأثرون.</p>
 <h2> فيديو المثال:</h2>
-<p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/fpQcNirHFpYreRy/preview"><source src="https://nextcloud.atruicardona.xyz/s/fpQcNirHFpYreRy/download" type="video/mp4"></video></p>
+<div class="iframe-container"><iframe width="1328" height="747" src="https://www.youtube.com/embed/KNzVgG_V10I?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Mob Vacuum" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
 <blockquote>
 <p>ملحوظة: يوصى بأدنى من "عشرين مترًا".</p>
 </blockquote>
@@ -2185,7 +2177,7 @@
       <pubDate>Fri, 22 Dec 2023 11:31:21 GMT</pubDate>
       <content:encoded><![CDATA[<h2> كانس الغنائم يحضر الغنائم الساقطة القريبة الى اللاعب بالنطاق والتأخير المحددين.</h2>
 <h2> مقطع المثال:</h2>
-<p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/iTnSNmWWgqApwLr/preview"><source src="https://nextcloud.atruicardona.xyz/s/iTnSNmWWgqApwLr/download" type="video/mp4"></video></p>
+<div class="iframe-container"><iframe width="1328" height="747" src="https://www.youtube.com/embed/iMElTsNF77c?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Vacuum Loot" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
 <blockquote>
 <p>ملحوظة: يوصى بأدنى من "عشرين مترًا".</p>
 </blockquote>

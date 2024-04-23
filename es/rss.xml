@@ -6,8 +6,8 @@
     <link>https://korepi.com/es/</link>
     <description>Ayuda en Korepi</description>
     <language>es-ES</language>
-    <pubDate>Thu, 11 Apr 2024 06:50:13 GMT</pubDate>
-    <lastBuildDate>Thu, 11 Apr 2024 06:50:13 GMT</lastBuildDate>
+    <pubDate>Tue, 23 Apr 2024 15:49:23 GMT</pubDate>
+    <lastBuildDate>Tue, 23 Apr 2024 15:49:23 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Guía</category>
@@ -47,8 +47,7 @@
 <h3> Congelar Enemigos</h3>
 <h3> Vision Elemental Permanente</h3>
 <h1> Video:</h1>
-<p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/5qrXm8Bzsj7pJsM/preview"><source src="https://nextcloud.atruicardona.xyz/s/5qrXm8Bzsj7pJsM/download" type="video/mp4"></video></p>
-]]></content:encoded>
+<div class="iframe-container"><iframe width="1328" height="747" src="https://www.youtube.com/embed/Pq0OiHN-DPg?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - World/Others" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>]]></content:encoded>
     </item>
     <item>
       <title>Gestor de Mapa</title>
@@ -59,8 +58,7 @@
       <category>Funciones</category>
       <pubDate>Wed, 07 Feb 2024 20:25:33 GMT</pubDate>
       <content:encoded><![CDATA[<h3> El gestor de mapa te permitirá desbloquear teletransportadores y los estatua de los siete automaticamente sin tener que moverte del sitio, ideal para crear cuentas nuevas.</h3>
-<p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/5qrXm8Bzsj7pJsM/preview"><source src="https://nextcloud.atruicardona.xyz/s/5qrXm8Bzsj7pJsM/download" type="video/mp4"></video></p>
-]]></content:encoded>
+<div class="iframe-container"><iframe width="1328" height="747" src="https://www.youtube.com/embed/jOY5Gm2z8To?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Map Manager - Korepi" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>]]></content:encoded>
     </item>
     <item>
       <title>Auto Dominios</title>
@@ -78,10 +76,12 @@
       <link>https://korepi.com/es/features/World/auto-puzzle.html</link>
       <guid>https://korepi.com/es/features/World/auto-puzzle.html</guid>
       <source url="https://korepi.com/es/rss.xml">Auto Puzzle</source>
-      <description>Próximamente.</description>
+      <description>Auto Puzzle completara los puzzles seleccionados en el intervalo elegido y el rango seleccionado automaticamente. Video de Ejemplo: Proximamente...</description>
       <category>Funciones</category>
       <pubDate>Wed, 07 Feb 2024 13:27:26 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Próximamente.</h2>
+      <content:encoded><![CDATA[<h2> Auto Puzzle completara los puzzles seleccionados en el intervalo elegido y el rango seleccionado automaticamente.</h2>
+<h2> Video de Ejemplo:</h2>
+<p>Proximamente...</p>
 ]]></content:encoded>
     </item>
     <item>
@@ -104,7 +104,7 @@
       <category>Guía</category>
       <pubDate>Wed, 07 Feb 2024 00:26:57 GMT</pubDate>
       <content:encoded><![CDATA[<h2> Como obtener la licencia gratis de Korepi.</h2>
-<p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/6Lq9c23qJFPYdcZ/preview"><source src="https://nextcloud.atruicardona.xyz/s/6Lq9c23qJFPYdcZ/download" type="video/mp4"></video></p>
+<div class="iframe-container"><iframe width="1328" height="747" src="https://www.youtube.com/embed/kydnZ0QR2eQ" title="How to Update Korepi and How to Renew the Key" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
 <h3> Paso 1:</h3>
 <ul>
 <li>
@@ -715,7 +715,7 @@
 </div>
 <hr>
 <h2> Video de Ejemplo:</h2>
-<p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/kzizWdRXjmnDL8G/preview"><source src="https://nextcloud.atruicardona.xyz/s/kzizWdRXjmnDL8G/download" type="video/mp4"></video></p>
+<div class="iframe-container"><iframe width="1328" height="747" src="https://www.youtube.com/embed/S9-g5weE9l8?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Constellation Modifier (Sponsor)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
 ]]></content:encoded>
     </item>
     <item>
@@ -885,8 +885,7 @@
 <li>Esconde la Barra de Vida del Equipo.</li>
 </ul>
 <h1> Video:</h1>
-<p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/tRDjSriLiqs6QWq/preview"><source src="https://nextcloud.atruicardona.xyz/s/tRDjSriLiqs6QWq/download" type="video/mp4"></video></p>
-]]></content:encoded>
+<div class="iframe-container"><iframe width="1328" height="747" src="https://www.youtube.com/embed/EtRT95qEW6Y?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Hide UI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>]]></content:encoded>
     </item>
     <item>
       <title>Zoom del Mapa</title>
@@ -950,7 +949,7 @@
 <h3> Sin Huellas</h3>
 <h3> Sin Animación de Definitiva</h3>
 <h2> Video de Ejemplo:</h2>
-<p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/eMP6xMRxWbfSqti/preview"><source src="https://nextcloud.atruicardona.xyz/s/eMP6xMRxWbfSqti/download" type="video/mp4"></video></p>
+<div class="iframe-container"><iframe width="1328" height="747" src="https://www.youtube.com/embed/AjkJ8S8NHsI?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Visuals/Other" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
 ]]></content:encoded>
     </item>
     <item>
@@ -1090,7 +1089,7 @@
 <li>Nulifica los elementos recibidos y lo cambia por daño físico.</li>
 </ul>
 <h2> Video de Ejemplo:</h2>
-<p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/4rRZ3mQoxsnfMQy/preview"><source src="https://nextcloud.atruicardona.xyz/s/4rRZ3mQoxsnfMQy/download" type="video/mp4"></video></p>
+<div class="iframe-container"><iframe width="1328" height="747" src="https://www.youtube.com/embed/pSAxKoneT64?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Multi-Instance V (Updated)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
 ]]></content:encoded>
     </item>
     <item>
@@ -1103,7 +1102,7 @@
       <pubDate>Sat, 16 Dec 2023 17:06:44 GMT</pubDate>
       <content:encoded><![CDATA[<h2> Auto Correr mueve al personaje automaticamente hacia la dirección que esta mirando.</h2>
 <h2> Video de Ejemplo:</h2>
-<p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/QGyZW8KnWNtrsxi/preview"><source src="https://nextcloud.atruicardona.xyz/s/QGyZW8KnWNtrsxi/download" type="video/mp4"></video></p>
+<div class="iframe-container"><iframe width="1328" height="747" src="https://www.youtube.com/embed/BLDhPBMs7Es?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Run" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
 ]]></content:encoded>
     </item>
     <item>
@@ -1120,7 +1119,7 @@
 <hr>
 <h2> Salto de Conejo saltara automaticamente después del primer salto.</h2>
 <h2> Video de Ejemplo:</h2>
-<p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/5NYq9Rcf7852oJD/preview"><source src="https://nextcloud.atruicardona.xyz/s/5NYq9Rcf7852oJD/download" type="video/mp4"></video></p>
+<div class="iframe-container"><iframe width="1328" height="747" src="https://www.youtube.com/embed/Gh2GX23E6dw?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Bunnyhop (Sponsor)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
 ]]></content:encoded>
     </item>
     <item>
@@ -1160,7 +1159,7 @@
 <li>Quita el enfriamiento de las habilidades del barco.</li>
 </ul>
 <h2> Video de Ejemplo:</h2>
-<p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/6Gf3Wnc5F5bAfay/preview"><source src="https://nextcloud.atruicardona.xyz/s/6Gf3Wnc5F5bAfay/download" type="video/mp4"></video></p>
+<div class="iframe-container"><iframe width="1328" height="747" src="https://www.youtube.com/embed/qv5ykSL3Ojw?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Cooldown Effects" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
 ]]></content:encoded>
     </item>
     <item>
@@ -1224,7 +1223,7 @@
 <li>Permite al jugador moverse una distancia seleccionada al darle a una tecla</li>
 </ul>
 <h2> Video de Ejemplo:</h2>
-<p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/RsLzFEcNLJKqtLC/preview"><source src="https://nextcloud.atruicardona.xyz/s/RsLzFEcNLJKqtLC/download" type="video/mp4"></video></p>
+<div class="iframe-container"><iframe width="1328" height="747" src="https://www.youtube.com/embed/wMd9icqhFQg?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Extra Movement (Sponsor)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
 ]]></content:encoded>
     </item>
     <item>
@@ -1237,7 +1236,7 @@
       <pubDate>Sat, 16 Dec 2023 17:06:44 GMT</pubDate>
       <content:encoded><![CDATA[<h2> Control de Caída permite al jugador moverse cuando esta cayendo.</h2>
 <h2> Video de Ejemplo:</h2>
-<p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/ztqDzL5ZQb2Y4cN/preview"><source src="https://nextcloud.atruicardona.xyz/s/ztqDzL5ZQb2Y4cN/download" type="video/mp4"></video></p>
+<div class="iframe-container"><iframe width="1328" height="747" src="https://www.youtube.com/embed/BHiabtwSSNc?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Fall Control" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
 ]]></content:encoded>
     </item>
     <item>
@@ -1261,7 +1260,7 @@
 <p>Nota: Se recomienda usar Condicional para el abismo.</p>
 </blockquote>
 <h2> Video de Ejemplo:</h2>
-<p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/Hg5y3FxN7gmR6HE/preview"><source src="https://nextcloud.atruicardona.xyz/s/Hg5y3FxN7gmR6HE/download" type="video/mp4"></video></p>
+<div class="iframe-container"><iframe width="1328" height="747" src="https://www.youtube.com/embed/42utUUYNHRE?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - God Mode" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
 ]]></content:encoded>
     </item>
     <item>
@@ -1281,8 +1280,7 @@
 <p>Nota: Se recomienda usar el Reemplazo de Paquetes de Movimiento Sincronizado y desactivar EStamina Infinito.</p>
 </blockquote>
 <h2> Video de Ejemplo:</h2>
-<p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/x4dWmX8J3Y9GAZo/preview"><source src="https://nextcloud.atruicardona.xyz/s/x4dWmX8J3Y9GAZo/download" type="video/mp4"></video></p>
-]]></content:encoded>
+<div class="iframe-container"><iframe width="1328" height="747" src="https://www.youtube.com/embed/NZhfaMOLuY0?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Infinite Stamina" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>]]></content:encoded>
     </item>
     <item>
       <title>Sin Colisión</title>
@@ -1317,7 +1315,7 @@
 <p>Nota: No se recomienda usar por encima de <code>20</code>.</p>
 </blockquote>
 <h2> Video de Ejemplo:</h2>
-<p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/rPa8iA5zkAQyZni/preview"><source src="https://nextcloud.atruicardona.xyz/s/rPa8iA5zkAQyZni/download" type="video/mp4"></video></p>
+<div class="iframe-container"><iframe width="1328" height="747" src="https://www.youtube.com/embed/nPdq-yzBt3k?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - NoClip" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
 ]]></content:encoded>
     </item>
     <item>
@@ -1334,7 +1332,7 @@
 Nota 2: <a href="/es/features/Player/extra-movements.html" target="blank">Movimientos Extra</a> es recomendado. (Más Seguro)(Sponsor)</p>
 </blockquote>
 <h2> Video de Ejemplo:</h2>
-<p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/oKdGWF7zRi8qmLx/preview"><source src="https://nextcloud.atruicardona.xyz/s/oKdGWF7zRi8qmLx/download" type="video/mp4"></video></p>
+<div class="iframe-container"><iframe width="1328" height="747" src="https://www.youtube.com/embed/HCxmOUMFRs8?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Player Speed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
 ]]></content:encoded>
     </item>
     <item>
@@ -1423,7 +1421,7 @@ Nota 2: Puedes encontrar los IDs <a href="https://github.com/jie65535/Grasscutte
 <li>Permite cambiar el elemento del viajero en cualquier lugar.</li>
 </ul>
 <h2> Video de Ejemplo:</h2>
-<p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/TrwzrHqCr2sMyS4/preview"><source src="https://nextcloud.atruicardona.xyz/s/TrwzrHqCr2sMyS4/download" type="video/mp4"></video></p>
+<div class="iframe-container"><iframe width="1328" height="747" src="https://www.youtube.com/embed/XGztUEy82sE?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Remote Utilities (Sponsor)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
 ]]></content:encoded>
     </item>
     <item>
@@ -1439,8 +1437,7 @@ Nota 2: Puedes encontrar los IDs <a href="https://github.com/jie65535/Grasscutte
 <p>Nota: Espera <code>&gt;15s</code> entre teletransportes por seguridad.</p>
 </blockquote>
 <h2> Video de Ejemplo:</h2>
-<p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/i4b27NoW8i4mNxn/preview"><source src="https://nextcloud.atruicardona.xyz/s/i4b27NoW8i4mNxn/download" type="video/mp4"></video></p>
-]]></content:encoded>
+<div class="iframe-container"><iframe width="1328" height="747" src="https://www.youtube.com/embed/j2Yu31J7Yh4?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Oculi/ChestTeleport" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>]]></content:encoded>
     </item>
     <item>
       <title>Teletransporte de Cofre</title>
@@ -1455,8 +1452,7 @@ Nota 2: Puedes encontrar los IDs <a href="https://github.com/jie65535/Grasscutte
 <p>Nota: Espera <code>&gt;15s</code> entre teletransportes por seguridad.</p>
 </blockquote>
 <h2> Video de Ejemplo:</h2>
-<p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/i4b27NoW8i4mNxn/preview"><source src="https://nextcloud.atruicardona.xyz/s/i4b27NoW8i4mNxn/download" type="video/mp4"></video></p>
-]]></content:encoded>
+<div class="iframe-container"><iframe width="1328" height="747" src="https://www.youtube.com/embed/j2Yu31J7Yh4?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Oculi/ChestTeleport" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>]]></content:encoded>
     </item>
     <item>
       <title>Teletransporte de Mapa</title>
@@ -1476,7 +1472,7 @@ Nota 2: Puedes encontrar los IDs <a href="https://github.com/jie65535/Grasscutte
 <li>Quita las pantallas de carga según la distancia seleccionada para los teletransportes.</li>
 </ul>
 <h2> Video de Ejemplo:</h2>
-<p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/x8LsMBL3iX2fbRe/preview"><source src="https://nextcloud.atruicardona.xyz/s/x8LsMBL3iX2fbRe/download" type="video/mp4"></video></p>
+<div class="iframe-container"><iframe width="1328" height="747" src="https://www.youtube.com/embed/Xm3mTEbIE9g?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Map TP/Fast TP" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
 ]]></content:encoded>
     </item>
     <item>
@@ -1492,7 +1488,7 @@ Nota 2: Puedes encontrar los IDs <a href="https://github.com/jie65535/Grasscutte
 <li>Para usar esta función debes estar siguiendo la misión y darle a la tecla designada.</li>
 </ul>
 <h2> Video de Ejemplo:</h2>
-<p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/bHDsLK6ktT7sqn7/preview"><source src="https://nextcloud.atruicardona.xyz/s/bHDsLK6ktT7sqn7/download" type="video/mp4"></video></p>
+<div class="iframe-container"><iframe width="1328" height="747" src="https://www.youtube.com/embed/HNdQu39G2Tc?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - QuestTP" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
 ]]></content:encoded>
     </item>
     <item>
@@ -1509,7 +1505,7 @@ Nota 2: Puedes encontrar los IDs <a href="https://github.com/jie65535/Grasscutte
 <hr>
 <h3> Auto Activar Teletransporte, activa teletransportes cercanos hasta 50 metros.</h3>
 <h2> Video de Ejemplo:</h2>
-<p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/ydzPcwiLDfEGMJY/preview"><source src="https://nextcloud.atruicardona.xyz/s/ydzPcwiLDfEGMJY/download" type="video/mp4"></video></p>
+<div class="iframe-container"><iframe width="1328" height="747" src="https://www.youtube.com/embed/qstBErr9mJ0?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - AutoActivateTP (Sponsor)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
 ]]></content:encoded>
     </item>
     <item>
@@ -1522,7 +1518,7 @@ Nota 2: Puedes encontrar los IDs <a href="https://github.com/jie65535/Grasscutte
       <pubDate>Sat, 16 Dec 2023 17:06:44 GMT</pubDate>
       <content:encoded><![CDATA[<h3> Auto Desafió completa los desafiós de tiempo activos con un rango personalizado y retraso personalizado.</h3>
 <h2> Video de Ejemplo:</h2>
-<p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/wp5N6BwGNbezqEg/preview"><source src="https://nextcloud.atruicardona.xyz/s/wp5N6BwGNbezqEg/download" type="video/mp4"></video></p>
+<div class="iframe-container"><iframe width="1328" height="747" src="https://www.youtube.com/embed/7JNegfQiK2U?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Challenge" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
 <blockquote>
 <p>Nota: No se recomienda usar con retrasos bajos y rangos altos.</p>
 </blockquote>
@@ -1541,7 +1537,7 @@ Nota 2: Puedes encontrar los IDs <a href="https://github.com/jie65535/Grasscutte
 </div>
 <h3> Auto Cocinar deja que cocines automaticamente la cantidad deseada de la comida seleccionada, puedes elegir calidad, cantidad y completar la maestría.</h3>
 <h2> Video de Ejemplo:</h2>
-<p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/s7cSiMAtmdLZAqx/preview"><source src="https://nextcloud.atruicardona.xyz/s/s7cSiMAtmdLZAqx/download" type="video/mp4"></video></p>
+<div class="iframe-container"><iframe width="1328" height="747" src="https://www.youtube.com/embed/T_X13AXiAiY?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Cook" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
 ]]></content:encoded>
     </item>
     <item>
@@ -1557,7 +1553,7 @@ Nota 2: Puedes encontrar los IDs <a href="https://github.com/jie65535/Grasscutte
 </div>
 <h3> Auto Destruir Objetos te permite destruir objetos como cofres, plantas, escudos, minerales y más automaticamente con rangos personalizados.</h3>
 <h2> Video de Ejemplo:</h2>
-<p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/34xYZt5G5Aid4zk/preview"><source src="https://nextcloud.atruicardona.xyz/s/34xYZt5G5Aid4zk/download" type="video/mp4"></video></p>
+<div class="iframe-container"><iframe width="1328" height="747" src="https://www.youtube.com/embed/3ML6s3SR8nE?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Destroy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
 <blockquote>
 <p>Nota: El valor recomendado es por debajo de <code>20m</code>, no se recomienda usar al rango máximo (<code>40m</code>)</p>
 </blockquote>
@@ -1576,7 +1572,7 @@ Nota 2: Puedes encontrar los IDs <a href="https://github.com/jie65535/Grasscutte
 </div>
 <h3> Auto Pescar permite que te saltes la animación de pesca.</h3>
 <h2> Video de Ejemplo:</h2>
-<p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/A5RxPpHs7mqYgtb/preview"><source src="https://nextcloud.atruicardona.xyz/s/A5RxPpHs7mqYgtb/download" type="video/mp4"></video></p>
+<div class="iframe-container"><iframe width="1328" height="747" src="https://www.youtube.com/embed/K_l4Tg-81iQ?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Fish" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
 <blockquote>
 <p>Nota: Auto Re-lanza caña no funciona por ahora.</p>
 </blockquote>
@@ -1592,7 +1588,7 @@ Nota 2: Puedes encontrar los IDs <a href="https://github.com/jie65535/Grasscutte
       <pubDate>Sat, 16 Dec 2023 17:06:44 GMT</pubDate>
       <content:encoded><![CDATA[<h2> Auto Recoger te permite recoger materiales como plantas, cofres, drops y más con rangos y retrasos personalizados.</h2>
 <h2> Video de Ejemplo:</h2>
-<p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/ekNmga3Ffe9TxDN/preview"><source src="https://nextcloud.atruicardona.xyz/s/ekNmga3Ffe9TxDN/download" type="video/mp4"></video></p>
+<div class="iframe-container"><iframe width="1328" height="747" src="https://www.youtube.com/embed/wUyI2XO_Z4E?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Loot" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
 <blockquote>
 <p>Nota: Se recomienda usar por debajo de <code>10m</code> para uso normal y menos de <code>20m</code> si usas teletransportes personalizados.
 Nota 2: Mayor la distancia mayor el retraso.</p>
@@ -1609,7 +1605,7 @@ Nota 2: Mayor la distancia mayor el retraso.</p>
       <pubDate>Sat, 16 Dec 2023 17:06:44 GMT</pubDate>
       <content:encoded><![CDATA[<h2> Auto Seelie quita la necesidad de seguir al seelie hasta su estatua, ira sola cuando te acerques.</h2>
 <h2> Video de Ejemplo:</h2>
-<p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/f3Z4wMqM4d8dERo/preview"><source src="https://nextcloud.atruicardona.xyz/s/f3Z4wMqM4d8dERo/download" type="video/mp4"></video></p>
+<div class="iframe-container"><iframe width="1328" height="747" src="https://www.youtube.com/embed/uETIJ4KS39M?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Seelie" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
 ]]></content:encoded>
     </item>
     <item>
@@ -1657,7 +1653,7 @@ Nota 2: Mayor la distancia mayor el retraso.</p>
 <p>Nota: Puede dar pantalla negra a veces.</p>
 </blockquote>
 <h2> Video de Ejemplo:</h2>
-<p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/7ceaQqesRBQcqxr/preview"><source src="https://nextcloud.atruicardona.xyz/s/7ceaQqesRBQcqxr/download" type="video/mp4"></video></p>
+<div class="iframe-container"><iframe width="1328" height="747" src="https://www.youtube.com/embed/IS0BvLLO1xc?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - AutoTalk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
 ]]></content:encoded>
     </item>
     <item>
@@ -1674,7 +1670,7 @@ Nota 2: Mayor la distancia mayor el retraso.</p>
 <hr>
 <h3> Auto Madera permite golpear arboles cercanos para conseguir madera con rango, golpes y retraso personalizado.</h3>
 <h2> Video de Ejemplo:</h2>
-<p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/2fctdnkH4q98yNo/preview"><source src="https://nextcloud.atruicardona.xyz/s/2fctdnkH4q98yNo/download" type="video/mp4"></video></p>
+<div class="iframe-container"><iframe width="1328" height="747" src="https://www.youtube.com/embed/v95_NOxc4do?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Tree Farm" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
 <blockquote>
 <p>Nota: No se recomienda cambiar los valores.</p>
 </blockquote>
@@ -1694,7 +1690,7 @@ Nota 2: Mayor la distancia mayor el retraso.</p>
 <hr>
 <h3> Aura Elemental aplica elementos a ti mismo, monstruos u objetos cercanos, tanto los elementos, el rango y el retraso se pueden personalizar, se puede usar más de un elemento.</h3>
 <h2> Video de Ejemplo:</h2>
-<p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/mjfe6J4Q5Ja6ipN/preview"><source src="https://nextcloud.atruicardona.xyz/s/mjfe6J4Q5Ja6ipN/download" type="video/mp4"></video></p>
+<div class="iframe-container"><iframe width="1328" height="747" src="https://www.youtube.com/embed/FskTJiknOgQ?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Elemental Aura (Sponsor)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
 <blockquote>
 <p>Nota: Un retraso bajo aumentara la probabilidad de detección.</p>
 </blockquote>
@@ -1713,7 +1709,7 @@ Nota 2: Mayor la distancia mayor el retraso.</p>
 <p>Note: Not recommended to use outside of menus, or in general.</p>
 </blockquote>
 <h2> Video de Ejemplo:</h2>
-<p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/5r8a7BqXMBbSWry/preview"><source src="https://nextcloud.atruicardona.xyz/s/5r8a7BqXMBbSWry/download" type="video/mp4"></video></p>
+<div class="iframe-container"><iframe width="1328" height="747" src="https://www.youtube.com/embed/MzXhudYkaDg?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Game Speed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
 ]]></content:encoded>
     </item>
     <item>
@@ -1763,7 +1759,7 @@ Nota 2: No se recomienda usar.</p>
 <li>Elegir si atacar solo a enemigos agresivos o a todos</li>
 </ul>
 <h2> Video de Ejemplo:</h2>
-<p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/CW5fzAXWC3CPfdN/preview"><source src="https://nextcloud.atruicardona.xyz/s/CW5fzAXWC3CPfdN/download" type="video/mp4"></video></p>
+<div class="iframe-container"><iframe width="1328" height="747" src="https://www.youtube.com/embed/NiAh00VBy-w?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Kill Aura" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
 ]]></content:encoded>
     </item>
     <item>
@@ -1779,7 +1775,7 @@ Nota 2: No se recomienda usar.</p>
 </div>
 <h2> Succión de Mobs acerca a los enemigos con un rango y velocidad personalizados.</h2>
 <h2> Video de Ejemplo:</h2>
-<p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/fpQcNirHFpYreRy/preview"><source src="https://nextcloud.atruicardona.xyz/s/fpQcNirHFpYreRy/download" type="video/mp4"></video></p>
+<div class="iframe-container"><iframe width="1328" height="747" src="https://www.youtube.com/embed/KNzVgG_V10I?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Mob Vacuum" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
 <blockquote>
 <p>Nota: Se recomienda usar por debajo de <code>20m</code>.</p>
 </blockquote>
@@ -1798,7 +1794,7 @@ Nota 2: No se recomienda usar.</p>
 </div>
 <h2> Succión de Botín acerca a los drops con un rango y velocidad personalizados.</h2>
 <h2> Video de Ejemplo:</h2>
-<p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/iTnSNmWWgqApwLr/preview"><source src="https://nextcloud.atruicardona.xyz/s/iTnSNmWWgqApwLr/download" type="video/mp4"></video></p>
+<div class="iframe-container"><iframe width="1328" height="747" src="https://www.youtube.com/embed/iMElTsNF77c?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Vacuum Loot" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
 <blockquote>
 <p>Nota: Se recomienda usar por debajo de <code>20m</code>.</p>
 </blockquote>
@@ -1959,7 +1955,6 @@ Nota 2: No se recomienda usar.</p>
       <category>Guía</category>
       <pubDate>Tue, 12 Dec 2023 01:00:59 GMT</pubDate>
       <content:encoded><![CDATA[<h2> Tutorial de Verificación</h2>
-<p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/dEnSM8gwYdDwbnD/preview"><source src="https://nextcloud.atruicardona.xyz/s/dEnSM8gwYdDwbnD/download" type="video/mp4"></video></p>
 <div class="hint-container danger">
 <p class="hint-container-title">Si tienes una suscripción activa no vincules ninguna otra suscripción o perderás tu suscripción activa, si vinculas cualquier otra suscripción también perderás la compensación para Sponsor.</p>
 </div>
@@ -2106,7 +2101,7 @@ Para poder usar skins personalizadas en Korepi tendremos que descargar la aplica
 <p class="hint-container-title">Solo funciona para la version Local(V)</p>
 </div>
 <hr>
-<p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/a3K6SK5bHyxfmZw/preview"><source src="https://nextcloud.atruicardona.xyz/s/a3K6SK5bHyxfmZw/download" type="video/mp4"></video></p>
+<div class="iframe-container"><iframe width="1328" height="747" src="https://www.youtube.com/embed/pSAxKoneT64?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Multi-Instance V (Updated)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
 ]]></content:encoded>
     </item>
     <item>

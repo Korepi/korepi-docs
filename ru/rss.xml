@@ -6,8 +6,8 @@
     <link>https://korepi.com/ru/</link>
     <description>Помощь по Korepi</description>
     <language>ru-RU</language>
-    <pubDate>Thu, 11 Apr 2024 06:50:13 GMT</pubDate>
-    <lastBuildDate>Thu, 11 Apr 2024 06:50:13 GMT</lastBuildDate>
+    <pubDate>Tue, 23 Apr 2024 15:49:23 GMT</pubDate>
+    <lastBuildDate>Tue, 23 Apr 2024 15:49:23 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Seller</category>
@@ -76,8 +76,7 @@
 <h3> Freeze Enemies</h3>
 <h3> Permanent Elemental Sight</h3>
 <h1> Video:</h1>
-<p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/5qrXm8Bzsj7pJsM/preview"><source src="https://nextcloud.atruicardona.xyz/s/5qrXm8Bzsj7pJsM/download" type="video/mp4"></video></p>
-]]></content:encoded>
+<div class="iframe-container"><iframe width="1328" height="747" src="https://www.youtube.com/embed/Pq0OiHN-DPg?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - World/Others" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>]]></content:encoded>
     </item>
     <item>
       <title>Map Manager</title>
@@ -88,14 +87,13 @@
       <category>Features</category>
       <pubDate>Wed, 07 Feb 2024 20:25:33 GMT</pubDate>
       <content:encoded><![CDATA[<h3> Map Manager allows the player to unlock Statues of the Seven or Waypoints automatically without moving from the place, great to create reroll accounts.</h3>
-<p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/5qrXm8Bzsj7pJsM/preview"><source src="https://nextcloud.atruicardona.xyz/s/5qrXm8Bzsj7pJsM/download" type="video/mp4"></video></p>
-]]></content:encoded>
+<div class="iframe-container"><iframe width="1328" height="747" src="https://www.youtube.com/embed/jOY5Gm2z8To?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Map Manager - Korepi" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>]]></content:encoded>
     </item>
     <item>
-      <title>Auto Domain</title>
+      <title>Auto Domain (WIP)</title>
       <link>https://korepi.com/ru/features/World/auto-domain.html</link>
       <guid>https://korepi.com/ru/features/World/auto-domain.html</guid>
-      <source url="https://korepi.com/ru/rss.xml">Auto Domain</source>
+      <source url="https://korepi.com/ru/rss.xml">Auto Domain (WIP)</source>
       <description>Soon.</description>
       <category>Features</category>
       <pubDate>Wed, 07 Feb 2024 13:27:26 GMT</pubDate>
@@ -114,10 +112,10 @@
 ]]></content:encoded>
     </item>
     <item>
-      <title>Stats Modifier</title>
+      <title>Stats Modifier (WIP)</title>
       <link>https://korepi.com/ru/features/Player/stats-modifer.html</link>
       <guid>https://korepi.com/ru/features/Player/stats-modifer.html</guid>
-      <source url="https://korepi.com/ru/rss.xml">Stats Modifier</source>
+      <source url="https://korepi.com/ru/rss.xml">Stats Modifier (WIP)</source>
       <description>Soon.</description>
       <category>Features</category>
       <pubDate>Wed, 07 Feb 2024 13:14:17 GMT</pubDate>
@@ -133,7 +131,7 @@
       <category>Руководство</category>
       <pubDate>Wed, 07 Feb 2024 00:26:57 GMT</pubDate>
       <content:encoded><![CDATA[<h2> Как получить бесплатную лицензию для Korepi.</h2>
-<p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/6Lq9c23qJFPYdcZ/preview"><source src="https://nextcloud.atruicardona.xyz/s/6Lq9c23qJFPYdcZ/download" type="video/mp4"></video></p>
+<div class="iframe-container"><iframe width="1328" height="747" src="https://www.youtube.com/embed/kydnZ0QR2eQ" title="How to Update Korepi and How to Renew the Key" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
 <h3> Шаг 1:</h3>
 <ul>
 <li>
@@ -589,13 +587,13 @@
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Auto Domain</td>
+<td>Auto Domain (WIP)</td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Stats Modifier</td>
+<td>Stats Modifier (WIP)</td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:green;">✓</span></td>
@@ -799,7 +797,6 @@ pass korepi</p>
       <category>Руководство</category>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
       <content:encoded><![CDATA[<h2> Руководство по верификации</h2>
-<p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/dEnSM8gwYdDwbnD/preview"><source src="https://nextcloud.atruicardona.xyz/s/dEnSM8gwYdDwbnD/download" type="video/mp4"></video></p>
 <div class="hint-container danger">
 <p class="hint-container-title">Если у вас есть активная подписка, не привязывайте другую карту, иначе вы потеряете текущую подписку. Если вы привяжете другую карту, вы не сможете получить компенсацию от спонсора.</p>
 </div>
@@ -1417,8 +1414,7 @@ pass korepi</p>
 <p>Примечание: Пожалуйста, подождите не менее 15 секунд между телепортациями в целях обеспечения безопасности.</p>
 </blockquote>
 <h2> Пример видео:</h2>
-<p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/i4b27NoW8i4mNxn/preview"><source src="https://nextcloud.atruicardona.xyz/s/i4b27NoW8i4mNxn/download" type="video/mp4"></video></p>
-]]></content:encoded>
+<div class="iframe-container"><iframe width="1328" height="747" src="https://www.youtube.com/embed/j2Yu31J7Yh4?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Oculi/ChestTeleport" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>]]></content:encoded>
     </item>
     <item>
       <title>Телепорт к сундукам</title>
@@ -1434,8 +1430,7 @@ pass korepi</p>
 <p>Примечание: Подождите не менее 15 секунд между телепортациями в целях обеспечения безопасности.</p>
 </blockquote>
 <h2> Пример видео:</h2>
-<p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/i4b27NoW8i4mNxn/preview"><source src="https://nextcloud.atruicardona.xyz/s/i4b27NoW8i4mNxn/download" type="video/mp4"></video></p>
-]]></content:encoded>
+<div class="iframe-container"><iframe width="1328" height="747" src="https://www.youtube.com/embed/j2Yu31J7Yh4?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Oculi/ChestTeleport" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>]]></content:encoded>
     </item>
     <item>
       <title>Пользовательская  телепортация</title>
@@ -1490,7 +1485,7 @@ pass korepi</p>
 <li>Отключает экран загрузки в определенном радиусе во время телепортации.</li>
 </ul>
 <h2> Пример в действии:</h2>
-<p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/x8LsMBL3iX2fbRe/preview"><source src="https://nextcloud.atruicardona.xyz/s/x8LsMBL3iX2fbRe/download" type="video/mp4"></video></p>
+<div class="iframe-container"><iframe width="1328" height="747" src="https://www.youtube.com/embed/Xm3mTEbIE9g?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Map TP/Fast TP" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
 ]]></content:encoded>
     </item>
     <item>
@@ -1506,7 +1501,7 @@ pass korepi</p>
 <li>Для использования этой функции, вам необходимо сначала выбрать квест, а затем нажать горячую клавишу Телепорт к заданию (Quest Teleports).</li>
 </ul>
 <h2> Пример видео:</h2>
-<p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/bHDsLK6ktT7sqn7/preview"><source src="https://nextcloud.atruicardona.xyz/s/bHDsLK6ktT7sqn7/download" type="video/mp4"></video></p>
+<div class="iframe-container"><iframe width="1328" height="747" src="https://www.youtube.com/embed/HNdQu39G2Tc?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - QuestTP" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
 ]]></content:encoded>
     </item>
     <item>
@@ -1730,8 +1725,7 @@ pass korepi</p>
 <li>Скрывает панель здоровья команды только на вкладке персонажа.</li>
 </ul>
 <h1> Video:</h1>
-<p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/tRDjSriLiqs6QWq/preview"><source src="https://nextcloud.atruicardona.xyz/s/tRDjSriLiqs6QWq/download" type="video/mp4"></video></p>
-]]></content:encoded>
+<div class="iframe-container"><iframe width="1328" height="747" src="https://www.youtube.com/embed/EtRT95qEW6Y?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Hide UI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>]]></content:encoded>
     </item>
     <item>
       <title>Увеличение карты</title>
@@ -1795,7 +1789,7 @@ pass korepi</p>
 <h3> Отсутствие следов ног</h3>
 <h3> Отсутствие анимации выстрела</h3>
 <h2> Пример видео:</h2>
-<p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/eMP6xMRxWbfSqti/preview"><source src="https://nextcloud.atruicardona.xyz/s/eMP6xMRxWbfSqti/download" type="video/mp4"></video></p>
+<div class="iframe-container"><iframe width="1328" height="747" src="https://www.youtube.com/embed/AjkJ8S8NHsI?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Visuals/Other" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
 ]]></content:encoded>
     </item>
     <item>
@@ -1867,7 +1861,7 @@ pass korepi</p>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
       <content:encoded><![CDATA[<h3> Функция авто-приготовления позволяет вам приготовить указанное количество выбранных блюд высокого качества на странице приготовления. Это учитывается при использовании встроенной функции автоматического разблокирования авто-приготовления (Auto unlock auto cook).</h3>
 <h2> Пример видео:</h2>
-<p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/s7cSiMAtmdLZAqx/preview"><source src="https://nextcloud.atruicardona.xyz/s/s7cSiMAtmdLZAqx/download" type="video/mp4"></video></p>
+<div class="iframe-container"><iframe width="1328" height="747" src="https://www.youtube.com/embed/T_X13AXiAiY?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Cook" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
 ]]></content:encoded>
     </item>
     <item>
@@ -1929,7 +1923,7 @@ pass korepi</p>
       <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
       <content:encoded><![CDATA[<h2> Автоматический поиск избавляет игрока от необходимости постоянно следовать за поисковиком, отправляясь в назначенное место назначения.</h2>
 <h2> Пример видео:</h2>
-<p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/f3Z4wMqM4d8dERo/preview"><source src="https://nextcloud.atruicardona.xyz/s/f3Z4wMqM4d8dERo/download" type="video/mp4"></video></p>
+<div class="iframe-container"><iframe width="1328" height="747" src="https://www.youtube.com/embed/uETIJ4KS39M?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Seelie" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
 ]]></content:encoded>
     </item>
     <item>
@@ -1977,7 +1971,7 @@ pass korepi</p>
 <p>Примечание: Возможно появление черного экрана при использовании.</p>
 </blockquote>
 <h2> Пример видео:</h2>
-<p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/7ceaQqesRBQcqxr/preview"><source src="https://nextcloud.atruicardona.xyz/s/7ceaQqesRBQcqxr/download" type="video/mp4"></video></p>
+<div class="iframe-container"><iframe width="1328" height="747" src="https://www.youtube.com/embed/IS0BvLLO1xc?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - AutoTalk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
 ]]></content:encoded>
     </item>
     <item>
