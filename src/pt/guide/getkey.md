@@ -12,8 +12,6 @@ order: 1
 
 ## Tutorial de verificação
 
-<video controls preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/Y3ECm4LcH3i9n2d/preview"><source src="https://nextcloud.atruicardona.xyz/s/Y3ECm4LcH3i9n2d/download" type="video/mp4"></video>
-
 ::: Cuidado, se você tiver uma assinatura ativa, não vincule nenhum outro cartão ou perderá sua assinatura atual. Se você vincular qualquer outro cartão, não poderá reivindicar a compensação do patrocinador. :::
 
 ### Passo 1:

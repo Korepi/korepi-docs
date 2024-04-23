@@ -12,7 +12,7 @@ order: 1
 
 ## チュートリアル
 
-<video controls preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/dEnSM8gwYdDwbnD/preview"><source src="https://nextcloud.atruicardona.xyz/s/dEnSM8gwYdDwbnD/download" type="video/mp4"></video>
+
 
 ::: danger アクティブなサブスク契約を結んでいる場合、サブスクカード以外をバインドしないでください。他のカードをバインドすると、サブスクカードを入手することができなくなります。
 :::

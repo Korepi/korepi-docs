@@ -11,7 +11,7 @@ order: 1
 
 ## Руководство по верификации
 
-<video controls preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/dEnSM8gwYdDwbnD/preview"><source src="https://nextcloud.atruicardona.xyz/s/dEnSM8gwYdDwbnD/download" type="video/mp4"></video>
+
 
 ::: danger Если у вас есть активная подписка, не привязывайте другую карту, иначе вы потеряете текущую подписку. Если вы привяжете другую карту, вы не сможете получить компенсацию от спонсора.
 :::

@@ -12,7 +12,7 @@ order: 2
 
 ## كيفية الحصول على ترخيص مجاني لـKorepi.
 
-<video controls preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/6Lq9c23qJFPYdcZ/preview"><source src="https://nextcloud.atruicardona.xyz/s/6Lq9c23qJFPYdcZ/download" type="video/mp4"></video>
+<div class="iframe-container"><iframe width="1328" height="747" src="https://www.youtube.com/embed/kydnZ0QR2eQ" title="How to Update Korepi and How to Renew the Key" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 
 ### الخطوة 1:
 - اعثر على قناة `★⋅micah-bot-verify⋅★`  [رابط مباشر](https://discord.com/channels/1069057220802781265/1203687333107335198)

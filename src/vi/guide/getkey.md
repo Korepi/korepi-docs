@@ -12,7 +12,7 @@ order: 1
 
 ## Hướng Dẫn Xác Thực Key
 
-<video controls preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/dEnSM8gwYdDwbnD/preview"><source src="https://nextcloud.atruicardona.xyz/s/dEnSM8gwYdDwbnD/download" type="video/mp4"></video>
+
 
 ::: danger Nếu như bạn đang có sẵn một gói đăng ký (subscription), đừng gắn (bind) bất kỳ card nào khác nếu không bạn sẽ mất gói đăng ký hiện tại. Đồng thời nếu bạn chọn bind bất kỳ card nào khác, bạn cũng sẽ không thể nhận đền bù 3 tháng miễn phí dành cho Nhà Tài Trợ.
 :::
