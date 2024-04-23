@@ -1,10 +1,10 @@
 ---
-title: Stats Modifier
+title: Stats Modifier (WIP)
 icon: bolt
 category:
   - Features
 tag:
-  - Stats Modifier
+  - Stats Modifier (WIP)
 author: Schvis
 order: 12
 ---
