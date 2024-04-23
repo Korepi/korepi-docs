@@ -1,10 +1,10 @@
 ---
-title: Auto Domain
+title: Auto Domain (WIP)
 icon: bolt
 category:
   - Features
 tag:
-  - Auto Domain
+  - Auto Domain (WIP)
 author: Schvis
 order: 12
 ---

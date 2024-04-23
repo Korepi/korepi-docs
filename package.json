@@ -20,7 +20,7 @@
   "dependencies": {
     "@vuepress/plugin-docsearch": "2.0.0-rc.0",
     "@vuepress/plugin-google-analytics": "2.0.0-rc.0",
-    "pnpm": "^8.15.4",
+    "pnpm": "^8.15.7",
     "vuepress-plugin-redirect": "2.0.0-rc.0"
   }
 }

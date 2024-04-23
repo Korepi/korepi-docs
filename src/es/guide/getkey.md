@@ -11,7 +11,7 @@ order: 1
 ---
 ## Tutorial de Verificación
 
-<video controls preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/dEnSM8gwYdDwbnD/preview"><source src="https://nextcloud.atruicardona.xyz/s/dEnSM8gwYdDwbnD/download" type="video/mp4"></video>
+
 
 ::: danger Si tienes una suscripción activa no vincules ninguna otra suscripción o perderás tu suscripción activa, si vinculas cualquier otra suscripción también perderás la compensación para Sponsor.
 :::

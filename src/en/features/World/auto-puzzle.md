@@ -9,4 +9,7 @@ author: Schvis
 order: 12
 ---
 
-## Soon.
+## Auto Puzzle will complete the selected puzzles automatically within the provided range and delay.
+
+## Example Video:
+Soon...
