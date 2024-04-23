@@ -16,6 +16,6 @@ order: 10
 
 ## Video Demonstrasi:
 
-<video controls preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/mjfe6J4Q5Ja6ipN/preview"><source src="https://nextcloud.atruicardona.xyz/s/mjfe6J4Q5Ja6ipN/download" type="video/mp4"></video>
+<div class="iframe-container"><iframe width="1328" height="747" src="https://www.youtube.com/embed/FskTJiknOgQ?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Elemental Aura (Sponsor)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 
 > Catatan: Menggunakan waktu tunda yang singkat dapat meningkatkan risiko Anda terdeteksi.

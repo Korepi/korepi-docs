@@ -9,4 +9,7 @@ author: Schvis
 order: 12
 ---
 
-## Próximamente.
+## Auto Puzzle completara los puzzles seleccionados en el intervalo elegido y el rango seleccionado automaticamente.
+
+## Video de Ejemplo:
+Proximamente...

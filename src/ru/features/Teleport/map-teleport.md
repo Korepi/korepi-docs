@@ -21,4 +21,4 @@ order: 4
 
 ## Пример в действии:
 
-<video controls preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/x8LsMBL3iX2fbRe/preview"><source src="https://nextcloud.atruicardona.xyz/s/x8LsMBL3iX2fbRe/download" type="video/mp4"></video>
+<div class="iframe-container"><iframe width="1328" height="747" src="https://www.youtube.com/embed/Xm3mTEbIE9g?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Map TP/Fast TP" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
