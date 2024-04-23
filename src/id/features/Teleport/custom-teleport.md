@@ -4,20 +4,23 @@ icon: person-rays
 category:
   - Fitur
 tag:
+  - Teleport
   - Custom Teleport
-author: Schvis, Natsume, RodanZ
+author: Schvis, NatsumeAoii, RodanZ
 order: 3
 ---
 
-## Custom Teleport: Memungkinkan pemain untuk teleportasi ke lokasi yang dipilih yang telah didesain di file `.json`.
+## Custom Teleport:
 
-### Interpolation Speed:
-- Mengontrol kecepatan animasi teleportasi, atur ke `0.1` untuk menghindari masalah.
-### Auto Teleport:
-- Melakukan teleportasi secara otomatis mengikuti urutan file `.json` yang diberikan.
-  - Teleport Next: Teleportasi ke lokasi berikutnya setelah menekan tombol pintas yang dipilih.
-  - Teleport Previous: Teleportasi ke lokasi sebelumnya setelah menekan tombol pintas yang dipilih.
+Custom Teleport memberikan kemampuan kepada pemain untuk melakukan teleportasi ke lokasi yang telah ditentukan sebelumnya dan disimpan dalam file `.json`. Fitur ini memungkinkan navigasi cepat ke lokasi-lokasi penting atau favorit dengan mudah.
 
-> Catatan: Tunggu `>15 detik` antara teleportasi untuk keamanan.
+### Fitur Utama:
+- **Interpolation Speed**: Atur kecepatan animasi teleportasi. Nilai `0.1` disarankan untuk menghindari masalah.
+- **Auto Teleport**: Navigasi otomatis melalui lokasi yang ditentukan dalam file `.json`.
+  - **Teleport Next**: Pindah ke lokasi berikutnya dengan menekan tombol pintas yang ditentukan.
+  - **Teleport Previous**: Kembali ke lokasi sebelumnya dengan menekan tombol pintas yang ditentukan.
 
-# Anda bisa temukan lebih lanjut cara menggunakan fitur ini [disini](../.././guide/custom-tp-setting.md)
+> Catatan: Untuk menjaga keamanan, disarankan untuk menunggu lebih dari 15 detik antara setiap aksi teleportasi.
+
+### Panduan Penggunaan:
+Untuk informasi lebih lanjut tentang cara mengatur dan menggunakan Custom Teleport, Anda dapat mengunjungi [panduan penggunaan fitur ini](../.././guide/custom-tp-setting.md).

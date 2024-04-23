@@ -4,35 +4,45 @@ icon: bolt
 category:
   - Fitur
 tag:
+  - Player
   - Extra Movements
-author: Schvis, Natsume
+author: Schvis, NatsumeAoii
 order: 5
 ---
-::: info Hanya Untuk Sponsor!
+::: info Eksklusif untuk Sponsor!
 :::
 ---
-## Extra Movements: Modifikasi/Meningkatkan beberapa tindakan tertentu untuk pemain.
-### Run On Water:
-- Memungkinkan kemampuan untuk berjalan di atas air.
-### Run Boost:
-- Meningkatkan kecepatan saat pemain berlari.
-> Catatan: Tidak disarankan untuk mengubah nilai bawaan.
-### Jump Boost:
-- Meningkatkan tinggi loncatan pemain.
-    - Apply Mid Air: Mengaktifkan loncatan saat sedang tidak di tanah.
-> Catatan: Tidak disarankan untuk mengubah nilai bawaan.
-### Fly Boost:
-- Meningkatkan kecepatan saat pemain sedang melayang.
-> Catatan: Tidak disarankan untuk mengubah nilai bawaan.
-### Swim Boost: 
-- Meningkatkan kecepatan saat pemain sedang berenang.
-> Catatan: Tidak disarankan untuk mengubah nilai bawaan.
-### Dive Boost:
-- Meningkatkan kecepatan saat pemain sedang menyelam.
-> Catatan: Tidak disarankan untuk mengubah nilai bawaan.
-### Blink:
-- Memungkinkan pemain untuk bergerak dengan jarak tertentu setelah menekan hotkey.
+## Extra Movements:
 
-## Video Contoh:
+Extra Movements memberikan pemain kemampuan untuk memodifikasi dan meningkatkan berbagai tindakan mobilitas, memberikan keleluasaan lebih dalam eksplorasi dan pertempuran.
+
+### Run On Water:
+- Berikan kemampuan luar biasa untuk berjalan di atas air.
+
+### Run Boost:
+- Tingkatkan kecepatan lari pemain.
+  > Catatan: Pengaturan bawaan sudah optimal.
+
+### Jump Boost:
+- Tingkatkan ketinggian lompatan pemain.
+  - **Apply Mid Air**: Izinkan lompatan tambahan di udara.
+  > Catatan: Pengaturan bawaan sudah optimal.
+
+### Fly Boost:
+- Tingkatkan kecepatan terbang pemain.
+  > Catatan: Pengaturan bawaan sudah optimal.
+
+### Swim Boost: 
+- Tingkatkan kecepatan berenang pemain.
+  > Catatan: Pengaturan bawaan sudah optimal.
+
+### Dive Boost:
+- Tingkatkan kecepatan menyelam pemain.
+  > Catatan: Pengaturan bawaan sudah optimal.
+
+### Blink:
+- Berikan kemampuan untuk berpindah instan ke lokasi dekat dengan menekan hotkey.
+
+## Demonstrasi Extra Movements:
 
 <video controls preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/RsLzFEcNLJKqtLC/preview"><source src="https://nextcloud.atruicardona.xyz/s/RsLzFEcNLJKqtLC/download" type="video/mp4"></video>

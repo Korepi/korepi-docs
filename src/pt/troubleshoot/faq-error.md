@@ -141,21 +141,21 @@ Depois disso, reinicie seu computador e verifique se funciona.
 
 Se não funcionar, será necessário reinstalar o Windows.
 
-### Current data does not exist or server error.
+### Dados atuais não existem ou erro de servidor.
 
 ![](/assets/images/docs/202312/error.png)
 
-Unpause your license and try again.
+Despausa sua licença e tente novamente.
 
-### Cannot verify current timestamp.
+### Não é possível verificar o carimbo de data/hora atual.
 
 ![](/assets/images/docs/202402/timestamp.png)
 
-Case 1:
-- You might get this error while using a VPN, please disable it and try again.
+Caso 1:
+- Você pode receber este erro ao usar uma VPN, por favor desative-a e tente novamente.
 
-Case 2:
-- Check that your PC time is set to automatic sync.
+Caso 2:
+- Verifique se o horário do seu PC está configurado para sincronização automática.
 
-::: info If you are from Iran you might need to use a VPN instead.
+::: info Se você é do Irã, talvez precise usar uma VPN em vez disso.
 :::

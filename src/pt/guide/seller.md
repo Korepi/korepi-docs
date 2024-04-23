@@ -1,17 +1,18 @@
 ---
-title: Where to buy?
+title: Onde comprar?
 icon: info-circle
 category:
-  - Guide
+  - Guia
 tag:
-  - Start
-author: Schvis
+  - Início
+author: Ryuzeen, Sky
 order: 3
 ---
 
-## Where can i buy PERTAMAX version?
+## Onde posso assinar a versão PERTAMAX?
 
-You can find our official sellers on our discord server.
-- You can find the currency that suits you in [Sellers](https://discord.com/channels/1069057220802781265/1204755981834129439).
-- If you don't find your currency, you can buy from the global sellers(USD)
-- If you can't find a payment method that suits you, you can ask on this [channel](https://discord.com/channels/1069057220802781265/1205143920577880074), and a seller will provide you help if possible.
+Vocẽ pode encontrar vendedores no nosso servidor oficial.
+- Você pode encontrar vendedores na sua moeda em [vendedores](https://discord.com/channels/1069057220802781265/1204755981834129439).
+- Para comprar no PIX, em reais (BR) você encontra em [Naty Store](https://discord.com/channels/1069057220802781265/1205375720671412285)
+- Caso não encontre algum na sua moeda, você pode comprar com vendedores global (USD)
+- Se não encontrar um método de pagamento que te agrade, peça ajuda nesse [canal](https://discord.com/channels/1069057220802781265/1205143920577880074), e um vendedor te ajudará, caso seja possível.

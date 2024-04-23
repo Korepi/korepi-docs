@@ -2,14 +2,15 @@
 title: Fake Time
 icon: clock
 category:
-  - Features
+  - Fitur
 tag:
   - Fake Time
-author: Schvis, Kaede, RodanZ
+  - Visual
+author: Schvis, Kaede, RodanZ, NatsumeAoii
 order: 9
 ---
-::: info Hanya Untuk Sponsor!
+::: info Eksklusif Untuk Sponsor!
 :::
 ---
 ## Fake Time:
-- Mengubah waktu (jam dan menit) dalam game.
+- Memungkinkan Anda untuk mengubah waktu (jam dan menit) dalam game.

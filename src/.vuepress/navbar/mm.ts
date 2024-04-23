@@ -5,7 +5,7 @@ export const mmNavbar = navbar([
   "/mm/guide/",
   "/mm/start/",
   {
-    text: "Guide",
+    text: "လမ်းညွှန်ချက်များ",
     icon: "lightbulb",
     prefix: "/mm/",
     children: [

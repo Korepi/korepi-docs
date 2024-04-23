@@ -4,51 +4,46 @@ icon: tower-broadcast
 category:
   - Fitur
 tag:
+  - Player
   - Remote Utility
-author: Schvis, Natsume, RodanZ
+author: Schvis, NatsumeAoii, RodanZ
 order: 11
 ---
-::: info Hanya Untuk PERTAMAX!
+::: info Eksklusif untuk PERTAMAX!
 :::
 ---
-## Remote Utility:
-### Claim Daily Commision Reward:
-- Mengklaim hadiah komisi harian saat 4 komisi telah selesai dilakukan.
-### Custom Talk:
-- Memulai percakapan menggunakan ID percakapan, beberapa percakapan mungkin tidak berfungsi.
-> Catatan: Fitur ini berbahaya.
-> Catatan 2: Untuk mendapatkan ID percakapan, aktifkan `Debug Talk`, ID akan ditampilkan di `cmd`.
-### Spawn Gadget:
-- Memunculkan `Gadget` yang dipilih berdasarkan ID, beberapa di antaranya mungkin tidak berfungsi.
-> Catatan: Fitur ini berbahaya.
-> Catatan 2: Anda dapat menenemukan `Gadget` ID [disini](https://github.com/jie65535/GrasscutterCommandGenerator/blob/main/Source/GrasscutterTools/Resources/en-us/Gadget.txt)
-### Crafting:
-- Condensed Resin: Membuat `Condensed Resin` jika Anda memiliki resin dan bahan-bahannya.
-- Spawn Alchemy Table: Memunculkan Alchemy Table. 
-- Spawn Forging Table: Memunculkan Forging Table.
-- Custom Combine: Akan mencoba menggabungkan barang yang dipilih menggunakan karakter saat ini.
-    > Catatan: Jika berhasil, tidak akan ada peringatan. Periksa `inventory`.
-    > Catatan 2: Anda dapat menemukan `Combine` ID [disini](https://github.com/jie65535/GrasscutterCommandGenerator/blob/main/Source/GrasscutterTools/Resources/en-us/Item.txt)
-### Summon NPC:
-- Memunculkan NPC yang dipilih berdasarkan ID
-> Catatan: Katheryne, Wagner, dan Prince sudah termasuk.
-### Summon Monster:
-- Memunculkan monster yang dipilih dengan parameter yang dipilih berdasarkan ID.
-> Catatan: Anda tidak bisa membunuh mereka.
-> Catatan 2: Anda bisa menemukan ID monster [disini](https://github.com/jie65535/GrasscutterCommandGenerator/blob/main/Source/GrasscutterTools/Resources/en-us/Monsters.txt)
-### Summon Item:
-- Memunculkan item yang dipilih berdasarkan ID.
-> Catatan: Beberapa barang mungkin tidak berfungsi.
-> Catatan 2: Anda dapat menemukan ID barang [disini](https://github.com/jie65535/GrasscutterCommandGenerator/blob/main/Source/GrasscutterTools/Resources/en-us/Item.txt)
-### Open UI Page:
-- Open Paimon Menu Page: Membuka menu.
-- Open Cooking Page: Membuka halaman memasak.
-    > Catatan: Perlu membuka halaman memasak sekali sebelum menggunakan fitur ini.
-### Worship Statue:
-- Akan berdoa pada `Statue of the Seven` yang dipilih dengan jumlah yang dipilih, perlu memiliki `oculus` untuk melakukannya.
-### Change Traveler Element:
-- Memungkinkan pemain mengubah elemen `traveler` di mana saja.
+## Remote Utility: Kemudahan Akses dan Kontrol
 
-### Contoh Video:
+Remote Utility menyediakan berbagai fungsi yang memudahkan pemain untuk mengakses dan mengontrol aspek-aspek tertentu dalam permainan.
+
+### Fitur Utama Remote Utility:
+- **Claim Daily Commision Reward**: Klaim hadiah komisi harian setelah menyelesaikan 4 komisi.
+- **Custom Talk**: Mulai percakapan dengan ID tertentu; beberapa mungkin tidak berfungsi.
+  > Catatan: Fitur ini berisiko.
+  >
+  > Catatan 2: Untuk ID percakapan, aktifkan `Debug Talk` dan ID akan ditampilkan di `cmd`.
+- **Spawn Gadget**: Munculkan Gadget berdasarkan ID; beberapa mungkin tidak berfungsi.
+  > Catatan: Fitur ini berisiko.
+  >
+  > Catatan 2: ID Gadget dapat ditemukan [di sini](https://github.com/jie65535/GrasscutterCommandGenerator/blob/main/Source/GrasscutterTools/Resources/en-us/Gadget.txt).
+- **Crafting**: Buat `Condensed Resin`, munculkan Alchemy Table, Forging Table, atau gabungkan item dengan Custom Combine.
+  > Catatan: Periksa `inventory` untuk hasil.
+  >
+  > Catatan 2: ID Combine dapat ditemukan [di sini](https://github.com/jie65535/GrasscutterCommandGenerator/blob/main/Source/GrasscutterTools/Resources/en-us/Item.txt).
+- **Summon NPC**: Munculkan NPC dengan ID tertentu; termasuk Katheryne, Wagner, dan Prince.
+- **Summon Monster**: Munculkan monster dengan parameter tertentu berdasarkan ID.
+  > Catatan: Monster tidak dapat dibunuh.
+  >
+  > Catatan 2: ID monster dapat ditemukan [di sini](https://github.com/jie65535/GrasscutterCommandGenerator/blob/main/Source/GrasscutterTools/Resources/en-us/Monsters.txt).
+- **Summon Item**: Munculkan item dengan ID tertentu.
+  > Catatan: Beberapa item mungkin tidak berfungsi.
+  >
+  > Catatan 2: ID item dapat ditemukan [di sini](https://github.com/jie65535/GrasscutterCommandGenerator/blob/main/Source/GrasscutterTools/Resources/en-us/Item.txt).
+- **Open UI Page**: Buka menu Paimon atau halaman memasak.
+  > Catatan: Buka halaman memasak sekali sebelum menggunakan fitur ini.
+- **Worship Statue**: Berdoa pada `Statue of the Seven` dengan jumlah tertentu; memerlukan `oculus`.
+- **Change Traveler Element**: Ubah elemen `traveler` di mana saja.
+
+### Contoh Video Remote Utility:
 
 <video controls preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/TrwzrHqCr2sMyS4/preview"><source src="https://nextcloud.atruicardona.xyz/s/TrwzrHqCr2sMyS4/download" type="video/mp4"></video>

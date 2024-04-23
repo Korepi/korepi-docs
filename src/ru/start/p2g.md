@@ -23,10 +23,10 @@ order: 1
 
 - **Moheta (discord: moheta)**
   - *Россия*
-  - [Подробнее Moheta](https://cis.korepi.com/Moheta)
+  - [Подробнее Moheta](https://cis.korepi.com/moheta)
 
 - **adwin (discord: adwinsx)**
   - *Россия*
-  - [Подробнее Moheta](https://cis.korepi.com/Moheta)
+  - [Подробнее adwin](https://cis.korepi.com/adwin)
 
 Если у вас есть вопросы по продажам, обращайтесь к одному из наших продавцов.

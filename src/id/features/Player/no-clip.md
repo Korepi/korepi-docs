@@ -4,25 +4,23 @@ icon: person-walking-dashed-line-arrow-right
 category:
   - Fitur
 tag:
+  - Player
   - No Clip
-author: Schvis, Natsume
+author: Schvis, NatsumeAoii
 order: 9
 ---
 
-## No Clip akan memungkinkanmu bergerak tanpa adanya hambatan, bergerak lebih cepat, dan terbang!.
-### No Animation:
-- Ketika diaktifkan, akan menonaktifkan animasi karakter saat menggunakan `No Clip`.
-### Camera-relative movement:
-- Ketika diaktifkan, karakter akan bergerak berdasarkan pandangan kamera daripada arah yang dilihat karakter.
-### Alternate No-Clip:
-- Ketika diaktifkan, kecepatan `No Clip` akan berubah setelah menekan hotkey yang dipilih pada kecepatan yang ditentukan.
-### Use Custom Keys:
-- Mengaktifkan opsi untuk mengubah kontrol arah dari `No Clip`.
-### DragBack Bypass:
-- Mencegah server menarik karakter kembali karena kecepatan yang berlebihan.
+## No Clip:
+No Clip memberikan kemampuan untuk bergerak bebas melalui objek, meningkatkan kecepatan pergerakan, dan terbang tanpa hambatan.
 
-> Catatan: Tidak disarankan menggunakan nilai diatas `20`.
+### Fitur No Clip:
+- **No Animation**: Nonaktifkan animasi karakter selama No Clip aktif.
+- **Camera-relative movement**: Gerakkan karakter berdasarkan arah pandang kamera.
+- **Alternate No-Clip**: Ubah kecepatan No Clip dengan hotkey yang ditentukan.
+- **Use Custom Keys**: Sesuaikan kontrol arah No Clip.
+- **DragBack Bypass**: Cegah server menarik karakter Anda kembali saat bergerak terlalu cepat.
+  > Catatan: Hindari menggunakan kecepatan di atas `20`.
 
-## Video Contoh:
+## Lihat No Clip dalam Aksi:
 
 <video controls preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/rPa8iA5zkAQyZni/preview"><source src="https://nextcloud.atruicardona.xyz/s/rPa8iA5zkAQyZni/download" type="video/mp4"></video>

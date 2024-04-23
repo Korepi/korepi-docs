@@ -2,13 +2,14 @@
 title: Animation Changer
 icon: people-arrows
 category:
-  - Features
+  - Fitur
 tag:
   - Animation Changer
-author: Schvis, RodanZ
+  - Visual
+author: Schvis, RodanZ, NatsumeAoii
 order: 1
 ---
-::: info Hanya Untuk PERTAMAX!
+::: info Eksklusif Untuk PERTAMAX!
 :::
 ---
-## Animation Changer, Memperbolehkan pemain mengganti animasi karakter ke animasi yang dipilih.
+## Animation Changer memungkinkan pemain untuk mengganti animasi karakter dengan animasi yang telah dipilih.

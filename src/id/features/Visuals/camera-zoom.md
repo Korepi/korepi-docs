@@ -2,11 +2,12 @@
 title: Camera Zoom
 icon: camera
 category:
-  - Features
+  - Fitur
 tag:
   - Camera Zoom
-author: Schvis, Kaede, Chloe
+  - Visual
+author: Schvis, Kaede, Chloe, NatsumeAoii
 order: 2
 ---
 
-## Camera zoom Memperbolehkan pemain mengganti perbesaran kamera ke nilai yang diinginkan.
+## Camera Zoom memungkinkan pemain untuk menyesuaikan tingkat perbesaran kamera sesuai dengan nilai yang diinginkan.

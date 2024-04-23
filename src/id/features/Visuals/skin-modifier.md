@@ -2,13 +2,14 @@
 title: Skin Modifier
 icon: list
 category:
-  - Features
+  - Fitur
 tag:
   - Skin Modifier
-author: Schvis, Kaede, RodanZ
+  - Visual
+author: Schvis, Kaede, RodanZ, NatsumeAoii
 order: 14
 ---
-::: info Hanya Untuk PERTAMAX!
+::: info Eksklusif Untuk PERTAMAX!
 :::
 ---
-## Skin Modifier memperbolehkan pemain menggunakan skin dari game dengan gratis.
+## Skin Modifier memungkinkan pemain untuk menggunakan skin dari game secara gratis.

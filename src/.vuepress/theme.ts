@@ -1,6 +1,34 @@
-import { hopeTheme } from "vuepress-theme-hope";
-import { enNavbar, zhNavbar, ruNavbar, idNavbar, esNavbar, mxNavbar, mmNavbar, viNavbar, ptNavbar, arNavbar, jpNavbar, trNavbar, koNavbar } from "./navbar/index.js";
-import { enSidebar, zhSidebar, ruSidebar, idSidebar, esSidebar, mxSidebar, mmSidebar, viSidebar, ptSidebar, arSidebar, jpSidebar, trSidebar, koSidebar } from "./sidebar/index.js";
+import {hopeTheme} from "vuepress-theme-hope";
+import {
+    enNavbar,
+    zhNavbar,
+    ruNavbar,
+    idNavbar,
+    esNavbar,
+    mxNavbar,
+    mmNavbar,
+    viNavbar,
+    ptNavbar,
+    arNavbar,
+    jpNavbar,
+    trNavbar,
+    koNavbar
+} from "./navbar/index.js";
+import {
+    enSidebar,
+    zhSidebar,
+    ruSidebar,
+    idSidebar,
+    esSidebar,
+    mxSidebar,
+    mmSidebar,
+    viSidebar,
+    ptSidebar,
+    arSidebar,
+    jpSidebar,
+    trSidebar,
+    koSidebar
+} from "./sidebar/index.js";
 
 
 export default hopeTheme({
@@ -239,9 +267,9 @@ export default hopeTheme({
                     },
                     {
                         path: "/id/",
-                        title: "Contribute Your Skills",
+                        title: "Kontribusikan Keahlian Kamu",
                         content:
-                            "If you have experience in <b>web front-end development</b> and <b>document management</b>, and would like to apply it to this documentation project, you are welcome to <a href='https://github.com/Korepi/korepi-docs'>join us in writing the documentation</a>",
+                            "Jika kamu memiliki pengalaman dalam <b>pengembangan situs front-end</b> dan <b>manajemen dokumen</b>, dan ingin menerapkannya pada proyek dokumentasi ini, kamu dapat <a href='https://github.com/Korepi/korepi-docs'>bergabung dengan kami untuk menulis dokumentasi</a>",
                         fullscreen: false,
                         showOnce: false,
                     },
@@ -288,17 +316,17 @@ export default hopeTheme({
                 ],
             },
         },
-        feed: { rss: true },
+        feed: {rss: true},
         sitemap: {
             changefreq: "always",
         },
         // You should generate and use your own comment service
         comment: {
             provider: "Giscus",
-            repo: "vuepress-theme-hope/giscus-discussions",
-            repoId: "R_kgDOG_Pt2A",
+            repo: "Korepi/korepi-docs",
+            repoId: "R_kgDOKvs_ww",
             category: "Announcements",
-            categoryId: "DIC_kwDOG_Pt2M4COD69",
+            categoryId: "DIC_kwDOKvs_w84Cd8Xr",
         },
 
         // All features are enabled for demo, only preserve features you need here

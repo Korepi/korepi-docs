@@ -4,17 +4,23 @@ icon: person-rays
 category:
   - Fitur
 tag:
+  - Teleport
   - Map Teleport
-author: Schvis, Natsume, RodanZ
+author: Schvis, NatsumeAoii, RodanZ
 order: 4
 ---
 
-## Map Teleport memungkinkan pemain untuk berpindah ke mana saja di peta.
-- Untuk menggunakan teleport peta, Anda harus mengaktifkannya, dan pilih tombol pintas yang akan Anda gunakan.
-- Untuk melakukan teleportasi, tahan tombol pintas saat membuka peta dan klik di mana Anda ingin melakukan teleportasi.
+## Map Teleport:
+
+Map Teleport memberikan pemain kemampuan untuk berpindah ke lokasi mana pun di peta dengan mudah. Fitur ini memungkinkan navigasi cepat dan efisien, memudahkan pemain untuk mencapai tujuan atau mengeksplorasi area baru.
+
+### Cara Menggunakan Map Teleport:
+- **Aktivasi**: Aktifkan fitur teleport peta dan tentukan tombol pintas yang akan digunakan.
+- **Teleportasi**: Saat membuka peta, tahan tombol pintas dan klik lokasi tujuan untuk melakukan teleportasi.
+
 ### Fast Teleport (<span style='color:yellow;'>Sponsor!</span>):
-- Menonaktifkan `Loading Screen` dalam jarak yang dipilih saat melakukan teleportasi.
-- 
-## Video Contoh:
+- **Loading Screen**: Fitur ini menonaktifkan layar pemuatan dalam jarak tertentu saat melakukan teleportasi, membuat perpindahan lokasi menjadi lebih cepat dan lancar.
+
+## Demonstrasi Map Teleport:
 
 <video controls preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/x8LsMBL3iX2fbRe/preview"><source src="https://nextcloud.atruicardona.xyz/s/x8LsMBL3iX2fbRe/download" type="video/mp4"></video>

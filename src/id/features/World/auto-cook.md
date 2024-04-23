@@ -5,14 +5,15 @@ category:
   - Fitur
 tag:
   - Auto Cook
-author: Schvis, Natsume, RodanZ
+  - Dunia
+author: Schvis, NatsumeAoii, RodanZ
 order: 3
 ---
-::: info Hanya Untuk PERTAMAX!
+::: info Eksklusif Untuk PERTAMAX!
 :::
 ---
-### Auto Cook memungkinkan Anda untuk memasak dalam jumlah dan kualitas makanan yang dipilih secara otomatis di halaman memasak, dilengkapi dengan keahlian otomatis (Auto unlock auto cook) bawaan.
+### Fitur Auto Cook memungkinkan Anda untuk secara otomatis memasak makanan dalam jumlah dan kualitas yang Anda pilih di halaman memasak, termasuk kemampuan untuk membuka kunci resep secara otomatis (Auto unlock auto cook).
 
-## Video contoh:
+## Video Demonstrasi:
 
 <video controls preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/s7cSiMAtmdLZAqx/preview"><source src="https://nextcloud.atruicardona.xyz/s/s7cSiMAtmdLZAqx/download" type="video/mp4"></video>

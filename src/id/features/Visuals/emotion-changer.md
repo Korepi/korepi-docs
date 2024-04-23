@@ -2,13 +2,14 @@
 title: Emotion Changer
 icon: face-smile
 category:
-  - Features
+  - Fitur
 tag:
   - Emotion Changer
-author: Schvis, Kaede, RodanZ
+  - Visual
+author: Schvis, Kaede, RodanZ, NatsumeAoii
 order: 6
 ---
-::: info Hanya Untuk PERTAMAX!
+::: info Eksklusif Untuk PERTAMAX!
 :::
 ---
-## Emotion Changer Memperbolehkan pemain mengganti ekspresi wajah karakter.
+## Emotion Changer memungkinkan pemain untuk mengganti ekspresi wajah karakter sesuai dengan keinginan.

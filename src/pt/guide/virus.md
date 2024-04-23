@@ -1,40 +1,40 @@
 ---
-title: How to add to exclusion list
+title: Como adicionar na lista de exclusão
 icon: info-circle
 category:
-  - Guide
+  - Guia
 tag:
-  - Start
-author: Schvis
+  - Início
+author: Ryuzeen, Sky
 order: 7
 ---
 
-::: info Other antivirus will have similar steps, adapt depending on the antivirus you are using.
+::: Informação: outros anti-virus possuem etapas parecidas, adpte o procedimento para o seu próprio.
 :::
 ---
-## How to add Korepi to antivirus exclusion list (Windows Defender)
+## Como botar o Korepi como esclusão no (Windows Defender)
 
-### Step 1: Open the antivirus
+### Passo 1: abra o Windows Defender
 
-Open the windows search bar and search for `Windows Security` and open it.
+Abra a aba de pesquisa do windows e pesquise `Windows Security` e abra-o.
 
 ![](/assets/images/docs/202312/security.png)
 
-We click on `Virus & threat protection`.
+Clique em `Virus & threat protection`.
 
 ![](/assets/images/docs/202312/virus1.png)
 
-Then we scroll till we find `Virus & threat protection settings` and click on `Manage settings`.
+Desça a página até `Virus & threat protection settings` e clique em `Manage settings`.
 
 ![](/assets/images/docs/202312/virus3.png)
 
-### Step 2: Adding to the exclusion list
+### Passo 2: adicionando na lista de exclusão
 
-After following the last step, we will scroll until we find `Exclusions` and then we click on `Add or remove exclusions`.
+Após seguir o passo anterior, desça a página até `Exclusions` e clique em `Add or remove exclusions`.
 
 ![](/assets/images/docs/202312/virus4.png)
 
-Click yes to the popup, after that we click on `Add an Exclusion` and select folder, then we select our Korepi folder.
+Pressione `yes` no aplicativo que aparecer, então clique em `Add an Exclusion` e selecione a pasta em que o Korepi está localizado.
 
 ## Video
 

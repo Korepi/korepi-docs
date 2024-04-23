@@ -5,36 +5,37 @@ category:
   - Panduan
 tag:
   - Buku Pemula
-author: rekiihype, Chloe, Natsume
+  - Mulai
+author: rekiihype, Chloe, NatsumeAoii
 order: 2
 ---
 
-Untuk menjaga keamanan server, sangat penting bagi Anda untuk melakukan verifikasi akun pada bot server. Jika tidak, akun Anda dapat diusir dari server secara otomatis oleh bot jika tidak diverifikasi dalam waktu yang ditentukan.
+Melakukan verifikasi akun pada bot server merupakan langkah krusial untuk memastikan keamanan server Anda. Tanpa verifikasi, akun Anda berisiko dihapus secara otomatis oleh bot jika melewati batas waktu yang ditentukan untuk verifikasi.
 
-### Langkah-langkah Verifikasi Akun:
+### Cara Verifikasi Akun:
 
-1. **Buka Channel Rules**
+1. **Akses Channel Aturan**
 
-   Klik pada channel rules di server.
+   Buka channel aturan yang tersedia di server Anda.
 
-   ![Verify](/assets/images/docs/202312/verify1.png)
+   ![Verifikasi](/assets/images/docs/202312/verify1.png)
 
-2. **Klik Tombol 'Verify'**
+2. **Tekan Tombol 'Verifikasi'**
 
-   Setelah membuka channel rules, klik tombol 'verify'. Kemudian, akan muncul pesan dari bot, klik 'click here'.
+   Setelah masuk ke channel aturan, cari dan tekan tombol 'verifikasi'. Selanjutnya, Anda akan menerima pesan dari bot, klik pada 'klik di sini'.
 
-   ![Verify](/assets/images/docs/202312/verify2.png)
+   ![Verifikasi](/assets/images/docs/202312/verify2.png)
 
-3. **Klik 'Login to Verify'**
+3. **Pilih 'Login untuk Verifikasi'**
 
-   Klik 'login to verify' untuk melanjutkan proses.
+   Tekan pada 'login untuk verifikasi' untuk melanjutkan dengan proses verifikasi.
 
-   ![Verify](/assets/images/docs/202312/verify3.png)
+   ![Verifikasi](/assets/images/docs/202312/verify3.png)
 
 4. **Tahan Tombol Verifikasi**
 
-   Di halaman selanjutnya, tahan tombol verifikasi sampai muncul pesan yang menyatakan bahwa Anda telah berhasil melakukan verifikasi.
+   Pada halaman berikutnya, tahan tombol verifikasi hingga muncul notifikasi yang mengonfirmasi bahwa verifikasi Anda telah berhasil.
 
-   ![Verify](/assets/images/docs/202312/verify4.png)
+   ![Verifikasi](/assets/images/docs/202312/verify4.png)
 
-Setelah berhasil diverifikasi, bot akan memberikan Anda role `Newcomer`. Dengan role ini, Anda tidak akan diusir oleh bot tanpa alasan yang jelas. Silakan lanjut ke langkah berikutnya.
+Setelah proses verifikasi berhasil, bot akan memberikan Anda status `Newcomer`. Dengan status ini, Anda akan terlindungi dari penghapusan otomatis oleh bot tanpa alasan yang jelas. Silakan melanjutkan ke tahap berikutnya.

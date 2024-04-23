@@ -1,5 +1,5 @@
 ---
-title: Verification Tutorial
+title: အတည်ပြုခြင်း သင်ခန်းစာ
 icon: key
 category:
   - Guide
