@@ -6,8 +6,8 @@
     <link>https://korepi.com/pt/</link>
     <description>Ajuda em Korepi</description>
     <language>pt-BR</language>
-    <pubDate>Fri, 26 Apr 2024 15:32:54 GMT</pubDate>
-    <lastBuildDate>Fri, 26 Apr 2024 15:32:54 GMT</lastBuildDate>
+    <pubDate>Fri, 26 Apr 2024 15:33:01 GMT</pubDate>
+    <lastBuildDate>Fri, 26 Apr 2024 15:33:01 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Guia</category>
@@ -75,10 +75,10 @@
 ]]></content:encoded>
     </item>
     <item>
-      <title>Auto Puzzle</title>
+      <title>Puzzle automático</title>
       <link>https://korepi.com/pt/features/World/auto-puzzle.html</link>
       <guid>https://korepi.com/pt/features/World/auto-puzzle.html</guid>
-      <source url="https://korepi.com/pt/rss.xml">Auto Puzzle</source>
+      <source url="https://korepi.com/pt/rss.xml">Puzzle automático</source>
       <description>Em breve.</description>
       <category>Features</category>
       <pubDate>Wed, 07 Feb 2024 13:27:26 GMT</pubDate>
