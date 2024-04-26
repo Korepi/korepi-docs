@@ -1,18 +1,18 @@
 ---
-title: Kill Aura
+title: Aura mortal
 icon: street-view
 category:
   - Funções
 tag:
-  - Kill Aura
-author: Ryuzeen
+  - Aura mortal
+author: Sky
 order: 11
 ---
 
-::: danger Esta función tiene alto riesgo de ban!
+::: danger Essa função possui alto risco de ban!
 :::
 ---
-## Kill Aura: Inflige dano aos inimigos próximos
+## Aura mortal: Inflige dano aos inimigos próximos
 ### Modo de dano de queda:
 - Inflige dano aos inimigos próximos com classificações, atrasos e danos personalizados.
 > Nota: Não é recomendado usar valores muito altos.
