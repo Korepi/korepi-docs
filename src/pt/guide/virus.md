@@ -9,10 +9,10 @@ author: Ryuzeen, Sky
 order: 7
 ---
 
-::: Informação: outros anti-virus possuem etapas parecidas, adpte o procedimento para o seu próprio.
+::: Info outros anti-virus possuem etapas parecidas, adapte o procedimento para o seu próprio.
 :::
 ---
-## Como botar o Korepi como esclusão no (Windows Defender)
+## Como botar o Korepi como exclusão no (Windows Defender)
 
 ### Passo 1: abra o Windows Defender
 
