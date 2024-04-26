@@ -6,8 +6,8 @@
     <link>https://korepi.com/pt/</link>
     <description>Ajuda em Korepi</description>
     <language>pt-BR</language>
-    <pubDate>Fri, 26 Apr 2024 15:33:26 GMT</pubDate>
-    <lastBuildDate>Fri, 26 Apr 2024 15:33:26 GMT</lastBuildDate>
+    <pubDate>Fri, 26 Apr 2024 15:33:46 GMT</pubDate>
+    <lastBuildDate>Fri, 26 Apr 2024 15:33:46 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Guia</category>
@@ -1888,12 +1888,12 @@ Para usar skins personalizadas no Korepi, você precisará baixar o aplicativo</
 <h3> Passo 2:</h3>
 <p>Para a versão grátis, siga isso <a href="/pt/guide/free.html" target="blank">link</a>.</p>
 <div class="hint-container tip">
-<p class="hint-container-title">If you already got an active subscription, please click on stack card instead, to merge with your current subscription.</p>
+<p class="hint-container-title">Se você já tem uma assinatura ativa, clique em `stack card`, para aumentar os dias de sua chave.</p>
 </div>
 <p>Se você comprou a chave por um revendedor, clique em <code>bind card str</code> e cole a sua chave.</p>
 <h3> Passo 3:</h3>
 <div class="hint-container info">
-<p class="hint-container-title">If you already got a enc.json delete it before opening the program</p>
+<p class="hint-container-title">Se você já tem um arquivo enc.json, apague ele antes de abrir o programa</p>
 </div>
 <p>Clique em <code>Get Verification File</code>, e então preencha o  <code>HWID (device ID)</code> que você recebeu após abrir o injetor.
 -Você vai receber um arquivo do bot, instale ele e coloque na pasta do Korepi. Confira se o nome está como <code>enc.json</code>.</p>
@@ -1955,7 +1955,7 @@ Para usar skins personalizadas no Korepi, você precisará baixar o aplicativo</
 <h3> Passo 2: vá ao canal <code>★⋅korepi-download⋅★</code></h3>
 <p>Encontre o canal <code>★⋅korepi-download⋅★</code> e entre no link para instalar o programa.</p>
 <h3> Passo 3: pronto!</h3>
-<p>Coloque o .rar em umap asta e adicione ela em <a href="/pt/guide/virus.html" target="blank">exclusões</a>, e então siga este <a href="/pt/guide/getkey.html" target="blank">guia</a></p>
+<p>Coloque o .rar em uma pasta e adicione ela em <a href="/pt/guide/virus.html" target="blank">exclusões</a>, e então siga este <a href="/pt/guide/getkey.html" target="blank">guia</a></p>
 ]]></content:encoded>
     </item>
     <item>
