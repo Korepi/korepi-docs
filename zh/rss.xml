@@ -6,8 +6,8 @@
     <link>https://korepi.com/zh/</link>
     <description>Korepi 中文文档介绍</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 26 Apr 2024 15:33:46 GMT</pubDate>
-    <lastBuildDate>Fri, 26 Apr 2024 15:33:46 GMT</lastBuildDate>
+    <pubDate>Fri, 26 Apr 2024 15:33:59 GMT</pubDate>
+    <lastBuildDate>Fri, 26 Apr 2024 15:33:59 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Features</category>
@@ -2362,8 +2362,8 @@ C1: ?  C2: ?  C3: ?  C4: ?  C5: ?  C6: ?</li>
 <p>现在错误应该会消失。</p>
 <h2> 如果我无法进入Korepi怎么办</h2>
 <p>前往您的 Korepi 文件夹，找到 <code>cfg.json</code>，点击 <code>CTRL + F</code>，输入 <code>bypass</code> 并搜索，将值设置为 <code>false</code>，然后打开 Korepi。</p>
-<h3> Method 3</h3>
-<p>Go to the game launcher and click on repair files. After that log into the game without Korepi. If everything works fine, try opening with Korepi once again.</p>
+<h3> 方法3</h3>
+<p>去游戏启动器，然后点修复档案，之后别开korepi进游戏。如果所有东西都可以用，再尝试用korepi开。</p>
 <h2> 如果什么都不起作用怎么办</h2>
 <p>您必须重新安装游戏。</p>
 ]]></content:encoded>
