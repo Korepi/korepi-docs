@@ -1,10 +1,10 @@
 ---
-title: Auto Puzzle
+title: Puzzle automático
 icon: bolt
 category:
   - Features
 tag:
-  - Auto Puzzle
+  - Puzzle automático
 author: Schvis
 order: 12
 ---
