@@ -6,8 +6,8 @@
     <link>https://korepi.com/pt/</link>
     <description>Ajuda em Korepi</description>
     <language>pt-BR</language>
-    <pubDate>Fri, 26 Apr 2024 15:32:46 GMT</pubDate>
-    <lastBuildDate>Fri, 26 Apr 2024 15:32:46 GMT</lastBuildDate>
+    <pubDate>Fri, 26 Apr 2024 15:32:54 GMT</pubDate>
+    <lastBuildDate>Fri, 26 Apr 2024 15:32:54 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Guia</category>
@@ -1690,18 +1690,18 @@ Nota 2: Quanto maior a distância, maior o atraso.</p>
 ]]></content:encoded>
     </item>
     <item>
-      <title>Kill Aura</title>
+      <title>Aura mortal</title>
       <link>https://korepi.com/pt/features/World/kill-aura.html</link>
       <guid>https://korepi.com/pt/features/World/kill-aura.html</guid>
-      <source url="https://korepi.com/pt/rss.xml">Kill Aura</source>
-      <description>Esta función tiene alto riesgo de ban! Kill Aura: Inflige dano aos inimigos próximos Modo de dano de queda: Inflige dano aos inimigos próximos com classificações, atrasos e dano...</description>
+      <source url="https://korepi.com/pt/rss.xml">Aura mortal</source>
+      <description>Essa função possui alto risco de ban! Aura mortal: Inflige dano aos inimigos próximos Modo de dano de queda: Inflige dano aos inimigos próximos com classificações, atrasos e dan...</description>
       <category>Funções</category>
       <pubDate>Mon, 18 Dec 2023 04:22:05 GMT</pubDate>
       <content:encoded><![CDATA[<div class="hint-container danger">
-<p class="hint-container-title">Esta función tiene alto riesgo de ban!</p>
+<p class="hint-container-title">Essa função possui alto risco de ban!</p>
 </div>
 <hr>
-<h2> Kill Aura: Inflige dano aos inimigos próximos</h2>
+<h2> Aura mortal: Inflige dano aos inimigos próximos</h2>
 <h3> Modo de dano de queda:</h3>
 <ul>
 <li>Inflige dano aos inimigos próximos com classificações, atrasos e danos personalizados.</li>
