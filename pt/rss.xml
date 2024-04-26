@@ -6,8 +6,8 @@
     <link>https://korepi.com/pt/</link>
     <description>Ajuda em Korepi</description>
     <language>pt-BR</language>
-    <pubDate>Tue, 23 Apr 2024 15:49:23 GMT</pubDate>
-    <lastBuildDate>Tue, 23 Apr 2024 15:49:23 GMT</lastBuildDate>
+    <pubDate>Fri, 26 Apr 2024 15:32:46 GMT</pubDate>
+    <lastBuildDate>Fri, 26 Apr 2024 15:32:46 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Guia</category>
@@ -34,10 +34,10 @@
 ]]></content:encoded>
     </item>
     <item>
-      <title>Others</title>
+      <title>Outros</title>
       <link>https://korepi.com/pt/features/World/others.html</link>
       <guid>https://korepi.com/pt/features/World/others.html</guid>
-      <source url="https://korepi.com/pt/rss.xml">Others</source>
+      <source url="https://korepi.com/pt/rss.xml">Outros</source>
       <description>Outras funções: Abrir time imediatamente Pular animação de encantamento Inimigos burros Congelar inimigos Aura elemental permanente</description>
       <category>Features</category>
       <pubDate>Wed, 14 Feb 2024 21:50:28 GMT</pubDate>
