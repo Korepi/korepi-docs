@@ -6,8 +6,8 @@
     <link>https://korepi.com/pt/</link>
     <description>Ajuda em Korepi</description>
     <language>pt-BR</language>
-    <pubDate>Fri, 26 Apr 2024 15:33:09 GMT</pubDate>
-    <lastBuildDate>Fri, 26 Apr 2024 15:33:09 GMT</lastBuildDate>
+    <pubDate>Fri, 26 Apr 2024 15:33:26 GMT</pubDate>
+    <lastBuildDate>Fri, 26 Apr 2024 15:33:26 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Guia</category>
@@ -123,7 +123,7 @@
 <img src="/assets/images/docs/202312/success.png" alt="" loading="lazy"></p>
 <h3> Passo 4:</h3>
 <div class="hint-container info">
-<p class="hint-container-title">If you already got a enc.json delete it before opening the program</p>
+<p class="hint-container-title">Se você já tem um arquivo enc.json, apague ele antes de abrir o programa</p>
 </div>
 <p>Abra o injetor para receber seu  <code>HWID</code>, e então vá em <code>★⋅micah-bot-verify⋅★</code> novamente e clique em  <code>Get verification file</code> e cole o seu <code>HWID</code>.</p>
 <p>Depois de clicar em <code>submit</code> você receberá um arquivo do bot, instale ele e ponha na pasta do Korepi. Confira se o nome do arquivo está como <code>enc.json</code>.</p>
