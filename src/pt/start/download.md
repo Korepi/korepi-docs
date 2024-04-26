@@ -29,6 +29,6 @@ Encontre o canal `★⋅korepi-download⋅★` e entre no link para instalar o p
 
 ### Passo 3: pronto!
 
-Coloque o .rar em umap asta e adicione ela em [exclusões](../guide/virus.md), e então siga este [guia](../guide/getkey.md)
+Coloque o .rar em uma pasta e adicione ela em [exclusões](../guide/virus.md), e então siga este [guia](../guide/getkey.md)
 
 
