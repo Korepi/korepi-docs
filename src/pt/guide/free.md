@@ -28,7 +28,7 @@ Se a mensagem de conexão aparecer `Success`, você recebeu a licença com suces
 ![](/assets/images/docs/202312/success.png)
 
 ### Passo 4:
-::: info If you already got a enc.json delete it before opening the program
+::: info Se você já tem um arquivo enc.json, apague ele antes de abrir o programa
 :::
 Abra o injetor para receber seu  `HWID`, e então vá em `★⋅micah-bot-verify⋅★` novamente e clique em  `Get verification file` e cole o seu `HWID`.
 
