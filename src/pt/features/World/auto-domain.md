@@ -1,11 +1,11 @@
 ---
-title: Auto Domain (WIP)
+title: Domínio automático (WIP)
 icon: bolt
 category:
   - Features
 tag:
-  - Auto Domain (WIP)
-author: Schvis
+  - Domínio automático (WIP)
+author: Sky
 order: 12
 ---
 
