@@ -6,8 +6,8 @@
     <link>https://korepi.com/pt/</link>
     <description>Ajuda em Korepi</description>
     <language>pt-BR</language>
-    <pubDate>Fri, 26 Apr 2024 15:33:01 GMT</pubDate>
-    <lastBuildDate>Fri, 26 Apr 2024 15:33:01 GMT</lastBuildDate>
+    <pubDate>Fri, 26 Apr 2024 15:33:09 GMT</pubDate>
+    <lastBuildDate>Fri, 26 Apr 2024 15:33:09 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Guia</category>
@@ -64,10 +64,10 @@
 ]]></content:encoded>
     </item>
     <item>
-      <title>Auto Domain (WIP)</title>
+      <title>Domínio automático (WIP)</title>
       <link>https://korepi.com/pt/features/World/auto-domain.html</link>
       <guid>https://korepi.com/pt/features/World/auto-domain.html</guid>
-      <source url="https://korepi.com/pt/rss.xml">Auto Domain (WIP)</source>
+      <source url="https://korepi.com/pt/rss.xml">Domínio automático (WIP)</source>
       <description>Em breve.</description>
       <category>Features</category>
       <pubDate>Wed, 07 Feb 2024 13:27:26 GMT</pubDate>
@@ -581,12 +581,12 @@
       <link>https://korepi.com/pt/guide/virus.html</link>
       <guid>https://korepi.com/pt/guide/virus.html</guid>
       <source url="https://korepi.com/pt/rss.xml">Como adicionar na lista de exclusão</source>
-      <description>outros anti-virus possuem etapas parecidas, adpte o procedimento para o seu próprio. Como botar o Korepi como esclusão no (Windows Defender) Passo 1: abra o Windows Defender Abr...</description>
+      <description>outros anti-virus possuem etapas parecidas, adapte o procedimento para o seu próprio. Como botar o Korepi como exclusão no (Windows Defender) Passo 1: abra o Windows Defender Ab...</description>
       <category>Guia</category>
       <pubDate>Sat, 23 Dec 2023 17:10:07 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> ::: Informação: outros anti-virus possuem etapas parecidas, adpte o procedimento para o seu próprio.
+      <content:encoded><![CDATA[<h2> ::: Info outros anti-virus possuem etapas parecidas, adapte o procedimento para o seu próprio.
 :::</h2>
-<h2> Como botar o Korepi como esclusão no (Windows Defender)</h2>
+<h2> Como botar o Korepi como exclusão no (Windows Defender)</h2>
 <h3> Passo 1: abra o Windows Defender</h3>
 <p>Abra a aba de pesquisa do windows e pesquise <code>Windows Security</code> e abra-o.</p>
 <p><img src="/assets/images/docs/202312/security.png" alt="" loading="lazy"></p>
