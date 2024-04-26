@@ -1,10 +1,10 @@
 ---
-title: Others
+title: Outros
 icon: magnet
 category:
   - Features
 tag:
-  - Others
+  - Outros
 author: Sky
 order: 16
 ---
