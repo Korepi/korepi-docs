@@ -22,13 +22,13 @@ order: 1
 ### Passo 2:
 Para a versão grátis, siga isso [link](free.md).
 
-::: tip If you already got an active subscription, please click on stack card instead, to merge with your current subscription.
+::: tip Se você já tem uma assinatura ativa, clique em `stack card`, para aumentar os dias de sua chave.
 :::
 
 Se você comprou a chave por um revendedor, clique em `bind card str` e cole a sua chave.
 
 ### Passo 3:
-::: info If you already got a enc.json delete it before opening the program
+::: info Se você já tem um arquivo enc.json, apague ele antes de abrir o programa
 :::
 Clique em `Get Verification File`, e então preencha o  `HWID (device ID)` que você recebeu após abrir o injetor.
 -Você vai receber um arquivo do bot, instale ele e coloque na pasta do Korepi. Confira se o nome está como `enc.json`.
