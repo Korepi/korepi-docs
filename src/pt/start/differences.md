@@ -21,14 +21,14 @@ order: 6
 |Estamina infinita|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
 |Sem colisão|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
 |Velocida do jogador|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
-|Desafio automáticp|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
+|Desafio automático|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
 |Saque automático|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
 |Seelie automático|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
 |Conversa automática|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
 |Inimigos burros|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
 |Visão elemental|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
 |ESP|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
-|COngelar inimigos|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
+|Congelar inimigos|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
 |Velocidade do jogo|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
 |Abrir equipe imediatamente|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
 |Pular animação de aprimoramento|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
