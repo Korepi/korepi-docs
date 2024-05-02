@@ -1,5 +1,5 @@
 ---
-title: Where to buy?
+title: 購入方法
 icon: info-circle
 category:
   - Guide
@@ -9,9 +9,9 @@ author: Schvis
 order: 3
 ---
 
-## Where can i buy PERTAMAX version?
+## PERTAMAX版はどこから購入できますか？
 
-You can find our official sellers on our discord server.
-- You can find the currency that suits you in [Sellers](https://discord.com/channels/1069057220802781265/1204755981834129439).
-- If you don't find your currency, you can buy from the global sellers(USD)
-- If you can't find a payment method that suits you, you can ask on this [channel](https://discord.com/channels/1069057220802781265/1205143920577880074), and a seller will provide you help if possible.
+公式代理販売者は私たちのDiscordサーバーから探せます！
+- あなたに最適な通貨を[ここ](https://discord.com/channels/1069057220802781265/1204755981834129439)から探せます
+- あなたの国の通貨がない場合は、代理販売者(USD)から購入してください
+- あなたに最適な支払い方法がなければ、この[チャンネル](https://discord.com/channels/1069057220802781265/1205143920577880074)で問い合わせてください。販売者ができる限り手助けをします
