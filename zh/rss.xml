@@ -6,8 +6,8 @@
     <link>https://korepi.com/zh/</link>
     <description>Korepi 中文文档介绍</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 26 Apr 2024 15:33:59 GMT</pubDate>
-    <lastBuildDate>Fri, 26 Apr 2024 15:33:59 GMT</lastBuildDate>
+    <pubDate>Tue, 07 May 2024 13:25:54 GMT</pubDate>
+    <lastBuildDate>Tue, 07 May 2024 13:25:54 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Features</category>
@@ -2461,18 +2461,18 @@ C1: ?  C2: ?  C3: ?  C4: ?  C5: ?  C6: ?</li>
 <p><img src="/assets/images/docs/202312/error4.png" alt="" loading="lazy"></p>
 <p>重新启动您的计算机，重新启动您的路由器。</p>
 <p>如果没有用，尝试使用VPN。</p>
-<h3> Current data does not exist or server error.</h3>
+<h3> 当前数据不存在或服务器错误</h3>
 <p><img src="/assets/images/docs/202312/error.png" alt="" loading="lazy"></p>
-<p>Unpause your license and try again.</p>
-<h3> Cannot verify current timestamp.</h3>
+<p>解除暂停您的卡蜜再试一次</p>
+<h3> 无法验证当前时间戳</h3>
 <p><img src="/assets/images/docs/202402/timestamp.png" alt="" loading="lazy"></p>
-<p>Case 1:</p>
+<p>情况一:</p>
 <ul>
-<li>You might get this error while using a VPN, please disable it and try again.</li>
+<li>您可能在使用VPN时得到此错误，请关掉再试一遍</li>
 </ul>
-<p>Case 2:</p>
+<p>情况二:</p>
 <ul>
-<li>Check that your PC time is set to automatic sync.</li>
+<li>确定您的计算机时间是设定为自动同步</li>
 </ul>
 <div class="hint-container info">
 <p class="hint-container-title">If you are from Iran you might need to use a VPN instead.</p>
