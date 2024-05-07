@@ -6,8 +6,8 @@
     <link>https://korepi.com/pt/</link>
     <description>Ajuda em Korepi</description>
     <language>pt-BR</language>
-    <pubDate>Tue, 07 May 2024 13:25:54 GMT</pubDate>
-    <lastBuildDate>Tue, 07 May 2024 13:25:54 GMT</lastBuildDate>
+    <pubDate>Tue, 07 May 2024 13:26:14 GMT</pubDate>
+    <lastBuildDate>Tue, 07 May 2024 13:26:14 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Guia</category>
@@ -201,7 +201,7 @@
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Desafio automáticp</td>
+<td>Desafio automático</td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
@@ -243,7 +243,7 @@
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>COngelar inimigos</td>
+<td>Congelar inimigos</td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>

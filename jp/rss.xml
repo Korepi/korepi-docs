@@ -6,8 +6,8 @@
     <link>https://korepi.com/jp/</link>
     <description>Korepiに関するヘルプ</description>
     <language>ja-JP</language>
-    <pubDate>Tue, 07 May 2024 13:25:54 GMT</pubDate>
-    <lastBuildDate>Tue, 07 May 2024 13:25:54 GMT</lastBuildDate>
+    <pubDate>Tue, 07 May 2024 13:26:14 GMT</pubDate>
+    <lastBuildDate>Tue, 07 May 2024 13:26:14 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Guide</category>
@@ -16,19 +16,19 @@
     <category>トラブルシュート</category>
     <category>FAQ</category>
     <item>
-      <title>Where to buy?</title>
+      <title>購入方法</title>
       <link>https://korepi.com/jp/guide/seller.html</link>
       <guid>https://korepi.com/jp/guide/seller.html</guid>
-      <source url="https://korepi.com/jp/rss.xml">Where to buy?</source>
-      <description>Where can i buy PERTAMAX version? You can find our official sellers on our discord server. You can find the currency that suits you in Sellers (https://discord.com/channels/1069...</description>
+      <source url="https://korepi.com/jp/rss.xml">購入方法</source>
+      <description>PERTAMAX版はどこから購入できますか？ 公式代理販売者は私たちのDiscordサーバーから探せます！ あなたに最適な通貨をここ (https://discord.com/channels/1069057220802781265/1204755981834129439)から探せます; あなたの国の通貨がない場合は、代理販売者(USD)から購入してく...</description>
       <category>Guide</category>
       <pubDate>Thu, 29 Feb 2024 23:14:22 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Where can i buy PERTAMAX version?</h2>
-<p>You can find our official sellers on our discord server.</p>
+      <content:encoded><![CDATA[<h2> PERTAMAX版はどこから購入できますか？</h2>
+<p>公式代理販売者は私たちのDiscordサーバーから探せます！</p>
 <ul>
-<li>You can find the currency that suits you in <a href="https://discord.com/channels/1069057220802781265/1204755981834129439" target="_blank" rel="noopener noreferrer">Sellers</a>.</li>
-<li>If you don't find your currency, you can buy from the global sellers(USD)</li>
-<li>If you can't find a payment method that suits you, you can ask on this <a href="https://discord.com/channels/1069057220802781265/1205143920577880074" target="_blank" rel="noopener noreferrer">channel</a>, and a seller will provide you help if possible.</li>
+<li>あなたに最適な通貨を<a href="https://discord.com/channels/1069057220802781265/1204755981834129439" target="_blank" rel="noopener noreferrer">ここ</a>から探せます</li>
+<li>あなたの国の通貨がない場合は、代理販売者(USD)から購入してください</li>
+<li>あなたに最適な支払い方法がなければ、この<a href="https://discord.com/channels/1069057220802781265/1205143920577880074" target="_blank" rel="noopener noreferrer">チャンネル</a>で問い合わせてください。販売者ができる限り手助けをします</li>
 </ul>
 ]]></content:encoded>
     </item>
@@ -700,12 +700,12 @@
       <link>https://korepi.com/jp/guide/getkey.html</link>
       <guid>https://korepi.com/jp/guide/getkey.html</guid>
       <source url="https://korepi.com/jp/rss.xml">キーの入手方法</source>
-      <description>チュートリアル アクティブなサブスク契約を結んでいる場合、サブスクカード以外をバインドしないでください。他のカードをバインドすると、サブスクカードを入手することができなくなります。 ステップ 1: ★⋅micah-bot-verify⋅★チャンネルを見つける リンク (https://discord.com/channels/1069057220802...</description>
+      <description>チュートリアル 有効なサブスクをお持ちの方は、他カードを発行するとサブスクが失効になるためしないでください。もし他カードを発行するとスポンサー補填を受け取れなくなります ステップ 1: ★⋅micah-bot-verify⋅★チャンネルを見つける リンク (https://discord.com/channels/1069057220802781265...</description>
       <category>ガイド</category>
       <pubDate>Wed, 03 Jan 2024 06:45:45 GMT</pubDate>
       <content:encoded><![CDATA[<h2> チュートリアル</h2>
 <div class="hint-container danger">
-<p class="hint-container-title">アクティブなサブスク契約を結んでいる場合、サブスクカード以外をバインドしないでください。他のカードをバインドすると、サブスクカードを入手することができなくなります。</p>
+<p class="hint-container-title">有効なサブスクをお持ちの方は、他カードを発行するとサブスクが失効になるためしないでください。もし他カードを発行するとスポンサー補填を受け取れなくなります</p>
 </div>
 <h3> ステップ 1:</h3>
 <ul>
@@ -720,9 +720,9 @@
 <h3> ステップ 2:</h3>
 <p>無料版はこの<a href="/jp/guide/free.html" target="blank">リンク</a>から。</p>
 <div class="hint-container tip">
-<p class="hint-container-title">すでにアクティブなサブスクをお持ちの場合は、代わりにスタックカードをクリックして、現在のサブスクと統合してください。</p>
+<p class="hint-container-title">既に有効なサブスクをお持ちの方は、代わりにstack cardをクリックして現在お持ちのサブスクと統合してください</p>
 </div>
-<p>販売業者からキーを購入した場合は、<code>bind card str</code> をクリックし、キーを貼り付けます。</p>
+<p>代理販売者からキーを購入した場合は、<code>bind card str</code> をクリックし、キーを貼り付けてください</p>
 <h3> ステップ 3:</h3>
 <div class="hint-container info">
 <p class="hint-container-title">すでにenc.jsonをお持ちの場合は、プログラムを開く前に削除してください。</p>
@@ -732,8 +732,8 @@
 <li>botからファイルが送られてくるので、それをダウンロードしてKorepiフォルダに置いてください。ファイル名が<code>enc.json</code>であることを確認してください。</li>
 </ul>
 <p>また、<code>View Subscription Information</code>をクリックすると、サブスク情報を見ることができます。</p>
-<h2> キーを一時停止する方法</h2>
-<p><code>Pause Card</code>をクリックし、<code>YES</code>と入力すれば一時停止します。いつでも一時停止を解除することができます。</p>
+<h2> キーを一時利用停止にする方法</h2>
+<p><code>Pause Card</code>をクリックし、<code>YES</code>と入力すれば一時利用停止になります。いつでも一時利用停止を解除することができます。</p>
 <div class="hint-container info">
 <p class="hint-container-title">キーを一時停止できるのは30日に1度だけです。</p>
 </div>
@@ -749,16 +749,16 @@
       <enclosure url="https://korepi.com/assets/images/docs/202402/verify-1.png" type="image/png"/>
     </item>
     <item>
-      <title>マルチインスタンスの方法</title>
+      <title>多重起動のやり方</title>
       <link>https://korepi.com/jp/guide/multi-instance.html</link>
       <guid>https://korepi.com/jp/guide/multi-instance.html</guid>
-      <source url="https://korepi.com/jp/rss.xml">マルチインスタンスの方法</source>
-      <description>マルチインスタンスのやり方（2つのゲームウィンドウを同時に開く） Local(V)バージョンでのみ動作します</description>
+      <source url="https://korepi.com/jp/rss.xml">多重起動のやり方</source>
+      <description>多重起動のやり方（2つのゲームウィンドウを同時に開く） Local(V)版でのみ動作します</description>
       <category>ガイド</category>
       <pubDate>Wed, 03 Jan 2024 06:45:45 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> マルチインスタンスのやり方（2つのゲームウィンドウを同時に開く）</h2>
+      <content:encoded><![CDATA[<h2> 多重起動のやり方（2つのゲームウィンドウを同時に開く）</h2>
 <div class="hint-container info">
-<p class="hint-container-title">Local(V)バージョンでのみ動作します</p>
+<p class="hint-container-title">Local(V)版でのみ動作します</p>
 </div>
 <hr>
 <div class="iframe-container"><iframe width="1328" height="747" src="https://www.youtube.com/embed/pSAxKoneT64?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Multi-Instance V (Updated)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
