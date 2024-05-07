@@ -118,21 +118,21 @@ order: 2
 
 如果没有用，尝试使用VPN。
 
-### Current data does not exist or server error.
+### 当前数据不存在或服务器错误
 
 ![](/assets/images/docs/202312/error.png)
 
-Unpause your license and try again.
+解除暂停您的卡蜜再试一次
 
-### Cannot verify current timestamp.
+### 无法验证当前时间戳
 
 ![](/assets/images/docs/202402/timestamp.png)
 
-Case 1:
-- You might get this error while using a VPN, please disable it and try again.
+情况一:
+- 您可能在使用VPN时得到此错误，请关掉再试一遍
 
-Case 2:
-- Check that your PC time is set to automatic sync.
+情况二:
+- 确定您的计算机时间是设定为自动同步
 
 ::: info If you are from Iran you might need to use a VPN instead.
 :::
