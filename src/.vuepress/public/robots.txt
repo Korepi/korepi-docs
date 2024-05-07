@@ -1,24 +1,3 @@
 Sitemap: https://korepi.com/sitemap.xml
 
 User-agent: *
-
-# Разрешение индексации RSS-каналов для всех
-# Allowing RSS feed indexing for all
-Allow: /ru/rss.xml
-Allow: /en/rss.xml
-Allow: /zh/rss.xml
-Allow: /id/rss.xml
-Allow: /es/rss.xml
-Allow: /mx/rss.xml
-Allow: /mm/rss.xml
-Allow: /vi/rss.xml
-Allow: /pt/rss.xml
-Allow: /ar/rss.xml
-Allow: /jp/rss.xml
-Allow: /ko/rss.xml
-
-# for debugging
-Allow: /rss.xml
-
-
-Allow: /
