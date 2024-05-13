@@ -14,7 +14,7 @@ order: 1
 
 
 
-::: danger If you got an active subscription, don't bind any other card or you will lose your current subscription. If you bind any other card, you wont be able to claim your sponsor compensation.
+::: danger إذا كان لديك اشتراك نشط، فلا تربط أي بطاقة أخرى وإلا ستفقد اشتراكك الحالي. إذا قمت بربط أي بطاقة أخرى، فلن تتمكن من المطالبة بتعويض الراعي الخاص بك.
 :::
 
 ### الخطوة 1:
@@ -25,7 +25,7 @@ order: 1
 ### الخطوة 2:
 للحصول على نسخة مجانية اتبع هذا [الرابط](free.md).
 
-::: tip If you already got an active subscription, please click on stack card instead, to merge with your current subscription.
+::: tip إذا كنت قد حصلت بالفعل على اشتراك نشط، الرجاء الضغط على stack card بدلاً من ذلك، للدمج مع اشتراكك الحالي.
 :::
 
 إذا قمت بشراء مفتاح من أحد الموزعين، فانقر فوق `bind card str` والصق المفتاح الخاص بك.
