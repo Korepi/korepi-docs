@@ -6,8 +6,8 @@
     <link>https://korepi.com/ar/</link>
     <description>للمساعدة Korepi</description>
     <language>ar</language>
-    <pubDate>Tue, 07 May 2024 13:29:45 GMT</pubDate>
-    <lastBuildDate>Tue, 07 May 2024 13:29:45 GMT</lastBuildDate>
+    <pubDate>Wed, 15 May 2024 16:49:23 GMT</pubDate>
+    <lastBuildDate>Wed, 15 May 2024 16:49:23 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Guide</category>
@@ -17,19 +17,19 @@
     <category>FAQ</category>
     <category>المميزات</category>
     <item>
-      <title>Where to buy?</title>
+      <title>من أين أشتري؟</title>
       <link>https://korepi.com/ar/guide/seller.html</link>
       <guid>https://korepi.com/ar/guide/seller.html</guid>
-      <source url="https://korepi.com/ar/rss.xml">Where to buy?</source>
-      <description>Where can i buy PERTAMAX version? You can find our official sellers on our discord server. You can find the currency that suits you in Sellers (https://discord.com/channels/1069...</description>
+      <source url="https://korepi.com/ar/rss.xml">من أين أشتري؟</source>
+      <description>أين يمكنني شراء نسخةPERTAMAX? يمكنك العثور على البائعين الرسميين لدينا على خادم Discord الخاص بنا. يمكنك العثور على العملة التي تناسبك Sellers (https://discord.com/channels/1069...</description>
       <category>Guide</category>
       <pubDate>Thu, 29 Feb 2024 23:14:22 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Where can i buy PERTAMAX version?</h2>
-<p>You can find our official sellers on our discord server.</p>
+      <content:encoded><![CDATA[<h2> أين يمكنني شراء نسخةPERTAMAX?</h2>
+<p>يمكنك العثور على البائعين الرسميين لدينا على خادم Discord الخاص بنا.</p>
 <ul>
-<li>You can find the currency that suits you in <a href="https://discord.com/channels/1069057220802781265/1204755981834129439" target="_blank" rel="noopener noreferrer">Sellers</a>.</li>
-<li>If you don't find your currency, you can buy from the global sellers(USD)</li>
-<li>If you can't find a payment method that suits you, you can ask on this <a href="https://discord.com/channels/1069057220802781265/1205143920577880074" target="_blank" rel="noopener noreferrer">channel</a>, and a seller will provide you help if possible.</li>
+<li>يمكنك العثور على العملة التي تناسبك <a href="https://discord.com/channels/1069057220802781265/1204755981834129439" target="_blank" rel="noopener noreferrer">Sellers</a>.</li>
+<li>إذا لم تجد عملتك، يمكنك الشراء من البائعين العالميين(USD)</li>
+<li>إذا لم تتمكن من العثور على طريقة الدفع التي تناسبك، يمكنك أن تسأل عن ذلك <a href="https://discord.com/channels/1069057220802781265/1205143920577880074" target="_blank" rel="noopener noreferrer">channel</a>, وسيقدم لك البائع المساعدة إن أمكن.</li>
 </ul>
 ]]></content:encoded>
     </item>
@@ -727,12 +727,12 @@
       <link>https://korepi.com/ar/guide/getkey.html</link>
       <guid>https://korepi.com/ar/guide/getkey.html</guid>
       <source url="https://korepi.com/ar/rss.xml">كيفية الحصول على المفتاح</source>
-      <description>شرح التحقق If you got an active subscription, don&amp;apos;t bind any other card or you will lose your current subscription. If you bind any other card, you wont be able to claim your sp...</description>
+      <description>شرح التحقق إذا كان لديك اشتراك نشط، فلا تربط أي بطاقة أخرى وإلا ستفقد اشتراكك الحالي. إذا قمت بربط أي بطاقة أخرى، فلن تتمكن من المطالبة بتعويض الراعي الخاص بك. الخطوة 1: أعثر عل...</description>
       <category>Guide</category>
       <pubDate>Fri, 22 Dec 2023 11:31:21 GMT</pubDate>
       <content:encoded><![CDATA[<h2> شرح التحقق</h2>
 <div class="hint-container danger">
-<p class="hint-container-title">If you got an active subscription, don't bind any other card or you will lose your current subscription. If you bind any other card, you wont be able to claim your sponsor compensation.</p>
+<p class="hint-container-title">إذا كان لديك اشتراك نشط، فلا تربط أي بطاقة أخرى وإلا ستفقد اشتراكك الحالي. إذا قمت بربط أي بطاقة أخرى، فلن تتمكن من المطالبة بتعويض الراعي الخاص بك.</p>
 </div>
 <h3> الخطوة 1:</h3>
 <ul>
@@ -747,7 +747,7 @@
 <h3> الخطوة 2:</h3>
 <p>للحصول على نسخة مجانية اتبع هذا <a href="/ar/guide/free.html" target="blank">الرابط</a>.</p>
 <div class="hint-container tip">
-<p class="hint-container-title">If you already got an active subscription, please click on stack card instead, to merge with your current subscription.</p>
+<p class="hint-container-title">إذا كنت قد حصلت بالفعل على اشتراك نشط، الرجاء الضغط على stack card بدلاً من ذلك، للدمج مع اشتراكك الحالي.</p>
 </div>
 <p>إذا قمت بشراء مفتاح من أحد الموزعين، فانقر فوق <code>bind card str</code> والصق المفتاح الخاص بك.</p>
 <h3> الخطوه 3:</h3>

@@ -6,17 +6,35 @@
     <link>https://korepi.com/zh/</link>
     <description>Korepi 中文文档介绍</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 07 May 2024 13:29:45 GMT</pubDate>
-    <lastBuildDate>Tue, 07 May 2024 13:29:45 GMT</lastBuildDate>
+    <pubDate>Wed, 15 May 2024 16:49:23 GMT</pubDate>
+    <lastBuildDate>Wed, 15 May 2024 16:49:23 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+    <category>指南</category>
     <category>Features</category>
     <category>其他</category>
-    <category>指南</category>
     <category>功能</category>
     <category>问题解答</category>
     <category>Guide</category>
     <category>Troubleshoot</category>
+    <item>
+      <title>如何购买Korepi</title>
+      <link>https://korepi.com/zh/start/buy-korpei.html</link>
+      <guid>https://korepi.com/zh/start/buy-korpei.html</guid>
+      <source url="https://korepi.com/zh/rss.xml">如何购买Korepi</source>
+      <description>寻找seller (https://discordapp.com/channels/1069057220802781265/1204755981834129439)频道，点击进入即可。里面有代理商的售卖，可根据相应地区购买卡密。 目前中国区售卖者的小店链接： 1. Micah小店链接 ( https://fk.535888.xyz/) 2. 清桧小店链...</description>
+      <category>指南</category>
+      <pubDate>Wed, 15 May 2024 15:10:31 GMT</pubDate>
+      <content:encoded><![CDATA[<h3> 寻找<a href="https://discordapp.com/channels/1069057220802781265/1204755981834129439" target="_blank" rel="noopener noreferrer">seller</a>频道，点击进入即可。里面有代理商的售卖，可根据相应地区购买卡密。</h3>
+<h3> 目前中国区售卖者的小店链接：</h3>
+<ol>
+<li><a href="https://fk.535888.xyz/" target="_blank" rel="noopener noreferrer">Micah小店链接</a></li>
+<li><a href="https://c.fakamiao.com/shopDetail/195" target="_blank" rel="noopener noreferrer">清桧小店链接</a></li>
+<li><a href="https://c.fakamiao.com/shopDetail/591" target="_blank" rel="noopener noreferrer">九月小店链接</a></li>
+</ol>
+<h3> <span style="color:red;">如有代理商想挂代理小店链接可联系Double，写入文档，或自己写入。</span></h3>
+]]></content:encoded>
+    </item>
     <item>
       <title>自动秘境</title>
       <link>https://korepi.com/zh/features/2.%E4%B8%96%E7%95%8C%E5%8A%9F%E8%83%BD/auto-domain.html</link>
@@ -1389,7 +1407,11 @@ C1: 🟦  C2: 🟦 C3: 🟥 C4: 🟥 C5: 🟥 C6: 🟦</li>
 <li>芙宁娜
 C1: 🟦  C2: 🟦  C3: 🟥  C4: 🟥  C5: 🟥  C6: 🟥</li>
 <li>娜维娅
-C1: ?  C2: ?  C3: ?  C4: ?  C5: ?  C6: ?</li>
+C1: ?  C2: 🟦 C3:  🟥 C4: 🟥C5: 🟥 C6: 🟦</li>
+<li>千织
+C1: 🟦  C2: 🟥   C3: 🟥 C4: 🟥 C5: 🟥 C6: 🟥</li>
+<li>仆人
+C1: 🟨  C2: 🟦  C3: 🟥  C4: 🟦  C5: 🟥  C6: 🟨</li>
 </ul>
 <h2> 四星</h2>
 <ul>
@@ -1400,11 +1422,11 @@ C1: 🟦 C2: 🟦 C3: 🟥 C4: 🟥 C5: 🟥 C6: 🟦</li>
 <li>夏洛蒂
 C1: 🟥  C2: 🟥  C3: 🟥  C4: 🟥  C5: 🟥  C6: 🟦</li>
 <li>夏沃蕾
-C1: ?  C2: ?  C3: ?  C4: ?  C5: ?  C6: ?</li>
+C1: 🟦 C2: ？ C3: 🟥 C4: 🟦 C5: 🟥 C6: 🟦</li>
 </ul>
-<h3> 更新日志 - <code>8/11 GMT+8 0000</code></h3>
+<h3> 更新日志 - <code>2024/5/15 GMT+8 0000</code></h3>
 <ul>
-<li>没有什么更新变化，只是把修改有效命座的颜色从🟩变成了🟦，这是因为色盲的人很难区分红色和绿色，所以这里有一点关于有效命座颜色的更新</li>
+<li>增加仆人命座效果。</li>
 </ul>
 ]]></content:encoded>
     </item>
@@ -2748,26 +2770,17 @@ C1: ?  C2: ?  C3: ?  C4: ?  C5: ?  C6: ?</li>
       <link>https://korepi.com/zh/start/</link>
       <guid>https://korepi.com/zh/start/</guid>
       <source url="https://korepi.com/zh/rss.xml">开始</source>
-      <description>目录加入服务器 (join.md); 验证 (verify.md); 下载 (download.md); 如何设置Korepi中文 (setting-language-zh.md); Korepi中文公告 (news.md);</description>
+      <description>目录加入服务器 (join.md); 验证 (verify.md); 下载 (download.md); 如何设置Korepi中文 (setting-language-zh.md); Korepi中文公告 (news.md); korepi购买网址 (buy-korpei.md);</description>
       <category>指南</category>
       <pubDate>Fri, 24 Nov 2023 14:31:46 GMT</pubDate>
       <content:encoded><![CDATA[<h2> 目录</h2>
 <ul>
-<li>
-<p><a href="/zh/start/join.html" target="blank">加入服务器</a></p>
-</li>
-<li>
-<p><a href="/zh/start/verify.html" target="blank">验证</a></p>
-</li>
-<li>
-<p><a href="/zh/start/download.html" target="blank">下载</a></p>
-</li>
-<li>
-<p><a href="/zh/start/setting-language-zh.html" target="blank">如何设置Korepi中文</a></p>
-</li>
-<li>
-<p><a href="/zh/start/news.html" target="blank">Korepi中文公告</a></p>
-</li>
+<li><a href="/zh/start/join.html" target="blank">加入服务器</a></li>
+<li><a href="/zh/start/verify.html" target="blank">验证</a></li>
+<li><a href="/zh/start/download.html" target="blank">下载</a></li>
+<li><a href="/zh/start/setting-language-zh.html" target="blank">如何设置Korepi中文</a></li>
+<li><a href="/zh/start/news.html" target="blank">Korepi中文公告</a></li>
+<li><a href="/zh/start/buy-korpei.html" target="blank">korepi购买网址</a></li>
 </ul>
 ]]></content:encoded>
     </item>
