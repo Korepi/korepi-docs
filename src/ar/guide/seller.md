@@ -1,5 +1,5 @@
 ---
-title: Where to buy?
+title: من أين أشتري؟
 icon: info-circle
 category:
   - Guide
@@ -9,9 +9,9 @@ author: Schvis
 order: 3
 ---
 
-## Where can i buy PERTAMAX version?
+## أين يمكنني شراء نسخةPERTAMAX?
 
-You can find our official sellers on our discord server.
-- You can find the currency that suits you in [Sellers](https://discord.com/channels/1069057220802781265/1204755981834129439).
-- If you don't find your currency, you can buy from the global sellers(USD)
-- If you can't find a payment method that suits you, you can ask on this [channel](https://discord.com/channels/1069057220802781265/1205143920577880074), and a seller will provide you help if possible.
+يمكنك العثور على البائعين الرسميين لدينا على خادم Discord الخاص بنا.
+- يمكنك العثور على العملة التي تناسبك [Sellers](https://discord.com/channels/1069057220802781265/1204755981834129439).
+- إذا لم تجد عملتك، يمكنك الشراء من البائعين العالميين(USD)
+- إذا لم تتمكن من العثور على طريقة الدفع التي تناسبك، يمكنك أن تسأل عن ذلك [channel](https://discord.com/channels/1069057220802781265/1205143920577880074), وسيقدم لك البائع المساعدة إن أمكن.
