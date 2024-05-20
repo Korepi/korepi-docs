@@ -71,7 +71,6 @@ Berikut adalah tabel yang memperlihatkan fitur-fitur yang tersedia di berbagai v
 |Animation Changer|<span style='color:red;'>X</span>|<span style='color:red;'>X</span>|<span style='color:green;'>✓</span>|
 |Auto Cook|<span style='color:red;'>X</span>|<span style='color:red;'>X</span>|<span style='color:green;'>✓</span>|
 |Auto Destroy|<span style='color:red;'>X</span>|<span style='color:red;'>X</span>|<span style='color:green;'>✓</span>|
-|Auto Fish|<span style='color:red;'>X</span>|<span style='color:red;'>X</span>|<span style='color:green;'>✓</span>|
 |Auto Tree Farm|<span style='color:red;'>X</span>|<span style='color:red;'>X</span>|<span style='color:green;'>✓</span>|
 |Constellation Modifier|<span style='color:red;'>X</span>|<span style='color:red;'>X</span>|<span style='color:green;'>✓</span>|
 |Custom Weather|<span style='color:red;'>X</span>|<span style='color:red;'>X</span>|<span style='color:green;'>✓</span>|
