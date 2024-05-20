@@ -6,8 +6,8 @@
     <link>https://korepi.com/vi/</link>
     <description>Trợ giúp về Korepi</description>
     <language>vi-VN</language>
-    <pubDate>Wed, 15 May 2024 16:49:23 GMT</pubDate>
-    <lastBuildDate>Wed, 15 May 2024 16:49:23 GMT</lastBuildDate>
+    <pubDate>Mon, 20 May 2024 12:35:02 GMT</pubDate>
+    <lastBuildDate>Mon, 20 May 2024 12:35:02 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Hướng Dẫn</category>
@@ -1869,25 +1869,6 @@ Lưu ý 2: Bạn có thể tìm ID vật phẩm <a href="https://github.com/jie6
 <div class="iframe-container"><iframe width="1328" height="747" src="https://www.youtube.com/embed/3ML6s3SR8nE?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Destroy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
 <blockquote>
 <p>Note: Recommended value is below <code>20m</code>, not recommended to use at max range (<code>40m</code>)</p>
-</blockquote>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Tự Động Câu Cá</title>
-      <link>https://korepi.com/vi/features/World/auto-fish.html</link>
-      <guid>https://korepi.com/vi/features/World/auto-fish.html</guid>
-      <source url="https://korepi.com/vi/rss.xml">Tự Động Câu Cá</source>
-      <description>Chỉ có ở phiên bản PERTAMAX Tự Động Câu Cá cho phép bạn bỏ qua hoạt ảnh câu cá, giúp giảm thời gian câu. Video Minh Hoạ: Note: Auto Recast is not working at the time creating th...</description>
-      <category>Tính Năng</category>
-      <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
-      <content:encoded><![CDATA[<div class="hint-container info">
-<p class="hint-container-title">Chỉ có ở phiên bản PERTAMAX</p>
-</div>
-<h3> Tự Động Câu Cá cho phép bạn bỏ qua hoạt ảnh câu cá, giúp giảm thời gian câu.</h3>
-<h2> Video Minh Hoạ:</h2>
-<div class="iframe-container"><iframe width="1328" height="747" src="https://www.youtube.com/embed/K_l4Tg-81iQ?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Fish" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
-<blockquote>
-<p>Note: Auto Recast is not working at the time creating this post.</p>
 </blockquote>
 ]]></content:encoded>
     </item>

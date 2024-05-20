@@ -6,8 +6,8 @@
     <link>https://korepi.com/ar/</link>
     <description>للمساعدة Korepi</description>
     <language>ar</language>
-    <pubDate>Wed, 15 May 2024 16:49:23 GMT</pubDate>
-    <lastBuildDate>Wed, 15 May 2024 16:49:23 GMT</lastBuildDate>
+    <pubDate>Mon, 20 May 2024 12:35:02 GMT</pubDate>
+    <lastBuildDate>Mon, 20 May 2024 12:35:02 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Guide</category>
@@ -406,12 +406,6 @@
 </tr>
 <tr>
 <td>Auto Destroy</td>
-<td><span style="color:red;">X</span></td>
-<td><span style="color:red;">X</span></td>
-<td><span style="color:green;">✓</span></td>
-</tr>
-<tr>
-<td>Auto Fish</td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:green;">✓</span></td>
@@ -1950,22 +1944,6 @@
 <div class="iframe-container"><iframe width="1328" height="747" src="https://www.youtube.com/embed/3ML6s3SR8nE?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Destroy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
 <blockquote>
 <p>Note: القيمة الموصى بها أقل من <code>20 مترًا</code>، ولا يُنصح باستخدامها في النطاق الأقصى (<code>40 مترًا</code>)</p>
-</blockquote>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Auto Fish</title>
-      <link>https://korepi.com/ar/features/World/auto-fish.html</link>
-      <guid>https://korepi.com/ar/features/World/auto-fish.html</guid>
-      <source url="https://korepi.com/ar/rss.xml">Auto Fish</source>
-      <description>يتيح لك الصيد التلقائي تخطي الرسوم المتحركة الخاصة بصيد الأسماك، مما سيقلل من الوقت اللازم لاصطياد السمكة. فيديو المثال: Note: إعادة رمي السنارة لا تعمل في وقت إنشاء هذا المنشور.</description>
-      <category>Features</category>
-      <pubDate>Fri, 22 Dec 2023 11:31:21 GMT</pubDate>
-      <content:encoded><![CDATA[<h3> يتيح لك الصيد التلقائي تخطي الرسوم المتحركة الخاصة بصيد الأسماك، مما سيقلل من الوقت اللازم لاصطياد السمكة.</h3>
-<h2> فيديو المثال:</h2>
-<div class="iframe-container"><iframe width="1328" height="747" src="https://www.youtube.com/embed/K_l4Tg-81iQ?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Fish" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
-<blockquote>
-<p>Note: إعادة رمي السنارة لا تعمل في وقت إنشاء هذا المنشور.</p>
 </blockquote>
 ]]></content:encoded>
     </item>

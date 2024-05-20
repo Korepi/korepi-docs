@@ -6,8 +6,8 @@
     <link>https://korepi.com/pt/</link>
     <description>Ajuda em Korepi</description>
     <language>pt-BR</language>
-    <pubDate>Wed, 15 May 2024 16:49:23 GMT</pubDate>
-    <lastBuildDate>Wed, 15 May 2024 16:49:23 GMT</lastBuildDate>
+    <pubDate>Mon, 20 May 2024 12:35:02 GMT</pubDate>
+    <lastBuildDate>Mon, 20 May 2024 12:35:02 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Guia</category>
@@ -1536,22 +1536,6 @@ Nota 2: Você pode encontrar os IDs <a href="https://github.com/jie65535/Grasscu
 <div class="iframe-container"><iframe width="1328" height="747" src="https://www.youtube.com/embed/3ML6s3SR8nE?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Destroy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
 <blockquote>
 <p>Note: Valor recomendado menos de <code>20m</code>, não recomendado usar no máximo. (<code>40m</code>)</p>
-</blockquote>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Auto Pescar</title>
-      <link>https://korepi.com/pt/features/World/auto-fish.html</link>
-      <guid>https://korepi.com/pt/features/World/auto-fish.html</guid>
-      <source url="https://korepi.com/pt/rss.xml">Auto Pescar</source>
-      <description>Auto Pescar permite que você pule a animação de pesca. Video de Exemplo: Nota: Auto Re-lanza caña no funciona por ahora.</description>
-      <category>Funções</category>
-      <pubDate>Mon, 18 Dec 2023 04:22:05 GMT</pubDate>
-      <content:encoded><![CDATA[<h3> Auto Pescar permite que você pule a animação de pesca.</h3>
-<h2> Video de Exemplo:</h2>
-<div class="iframe-container"><iframe width="1328" height="747" src="https://www.youtube.com/embed/K_l4Tg-81iQ?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Fish" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
-<blockquote>
-<p>Nota: Auto Re-lanza caña no funciona por ahora.</p>
 </blockquote>
 ]]></content:encoded>
     </item>

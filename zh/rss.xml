@@ -6,8 +6,8 @@
     <link>https://korepi.com/zh/</link>
     <description>Korepi 中文文档介绍</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 15 May 2024 16:49:23 GMT</pubDate>
-    <lastBuildDate>Wed, 15 May 2024 16:49:23 GMT</lastBuildDate>
+    <pubDate>Mon, 20 May 2024 12:35:02 GMT</pubDate>
+    <lastBuildDate>Mon, 20 May 2024 12:35:02 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>指南</category>
@@ -2084,20 +2084,6 @@ C1: 🟦 C2: ？ C3: 🟥 C4: 🟦 C5: 🟥 C6: 🟦</li>
 <p class="hint-container-title">bug</p>
 <p>此功能中摧毁护盾不能与杀戮光环一起使用。</p>
 </div>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>自动钓鱼</title>
-      <link>https://korepi.com/zh/features/2.%E4%B8%96%E7%95%8C%E5%8A%9F%E8%83%BD/auto-fish.html</link>
-      <guid>https://korepi.com/zh/features/2.%E4%B8%96%E7%95%8C%E5%8A%9F%E8%83%BD/auto-fish.html</guid>
-      <source url="https://korepi.com/zh/rss.xml">自动钓鱼</source>
-      <description>自动钓鱼：通过“自动钓鱼”可以跳过钓鱼的动画，这将减少钓鱼所需的时间。 注意: 重新抛竿是不生效的。</description>
-      <category>功能</category>
-      <pubDate>Sun, 17 Dec 2023 05:01:05 GMT</pubDate>
-      <content:encoded><![CDATA[<h3> 自动钓鱼：通过“自动钓鱼”可以跳过钓鱼的动画，这将减少钓鱼所需的时间。</h3>
-<blockquote>
-<p>注意: 重新抛竿是不生效的。</p>
-</blockquote>
 ]]></content:encoded>
     </item>
     <item>
