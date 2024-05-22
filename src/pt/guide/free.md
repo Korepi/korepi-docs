@@ -18,6 +18,7 @@ order: 2
 - Encontre o canal `★⋅micah-bot-verify⋅★` [link direto](https://discord.com/channels/1069057220802781265/1203687333107335198)
 
   ![img.png](/assets/images/docs/202402/verify-1.png)
+
 - Encontre a mensagem enviada por Micah-bot
 
 ### Passo 2:
@@ -25,6 +26,7 @@ Clique em `Bind free card`, clique no link enviado pelo bot após isso, então a
 
 ### Passo 3:
 Se a mensagem de conexão aparecer `Success`, você recebeu a licença com sucesso, se não aparecer `Success`, repita o primeiro passo.
+
 ![](/assets/images/docs/202312/success.png)
 
 ### Passo 4:

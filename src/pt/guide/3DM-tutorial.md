@@ -17,6 +17,7 @@ order: 4
 ## Como usar skins personalizadas em Korepi
 
 ![](/assets/images/docs/202312/example.png)
+
 Para usar skins personalizadas no Korepi, você precisará baixar o aplicativo 
 
 `3DMigoto(GIMI)`.
