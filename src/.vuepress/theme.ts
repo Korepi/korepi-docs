@@ -5,7 +5,6 @@ import {
     ruNavbar,
     idNavbar,
     esNavbar,
-    mxNavbar,
     mmNavbar,
     viNavbar,
     ptNavbar,
@@ -20,7 +19,6 @@ import {
     ruSidebar,
     idSidebar,
     esSidebar,
-    mxSidebar,
     mmSidebar,
     viSidebar,
     ptSidebar,
@@ -99,19 +97,6 @@ export default hopeTheme({
             footer:
                 "Proporciona la mejor experiencia de juego para jugadores de PC en Genshin Impact.",
             displayFooter: true,
-            metaLocales: {
-                editLink: "Edita esta pagina en GitHub",
-            },
-        },
-        "/mx/": {
-            navbar: mxNavbar,
-            sidebar: mxSidebar,
-            footer:
-                "Proporciona la mejor experiencia de juego para jugadores de PC en Genshin Impact.",
-            displayFooter: true,
-            navbarLocales: {
-                langName: "Español Latino",
-            },
             metaLocales: {
                 editLink: "Edita esta pagina en GitHub",
             },
