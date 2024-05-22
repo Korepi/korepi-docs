@@ -35,11 +35,6 @@ export default defineUserConfig({
             title: "Korepi",
             description: "Ayuda en Korepi"
         },
-        "/mx/": {
-            lang: "es-MX",
-            title: "Korepi",
-            description: "Ayuda en Korepi"
-        },
         "/mm/": {
             lang: "my-MM",
             title: "Korepi",

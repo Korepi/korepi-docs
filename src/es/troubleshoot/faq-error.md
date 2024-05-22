@@ -124,8 +124,11 @@ Actualiza tu mod siguiendo [estos](../start/download.md) pasos.
 ---
 ### File ok
 
-Borra tu `cfg.json`, algo esta mal con el archivo.
+1. A veces tienes que abrirlo unas cuantas veces para que funcione.
 
+2. Borra tu `cfg.json`, algo esta mal con el archivo.
+
+3. Si eso no lo resuelve sigue [esto](https://discord.com/channels/1069057220802781265/1213319789964038184/1242491428441952256).
 ---
 ### UserAssembly.dll isn't initialized, waiting for 2 sec.
 
@@ -153,6 +156,7 @@ Quita la pausa de tu licencia e inténtalo de nuevo.
 
 Caso 1:
 - Si estas usando una VPN, desactivado e inténtalo de nuevo.
+- Si no estas utilizando VPN, prueba a utilizar un VPN.
 
 Caso 2:
 - Comprueba que tienes el tiempo del ordenador puesto en sincronización automática.

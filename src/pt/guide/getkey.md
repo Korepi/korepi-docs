@@ -18,6 +18,7 @@ order: 1
 - Encontre o canal `★⋅micah-bot-verify⋅★` [link direto](https://discord.com/channels/1069057220802781265/1203687333107335198)
 
   ![img.png](/assets/images/docs/202402/verify-1.png)
+  
 - Encontre a mensagem enviada por micah bot
 ### Passo 2:
 Para a versão grátis, siga isso [link](free.md).

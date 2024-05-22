@@ -130,7 +130,11 @@ Update your program, follow the steps [here](../start/download.md)
 ---
 ### File ok
 
-Delete your cfg.json, something might be wrong with the file.
+1. Sometimes you have to open the launcher few times before it gets to work.
+
+2. Delete your cfg.json, something might be wrong with the file.
+
+3. If that doesn't solve it please refer to [this](https://discord.com/channels/1069057220802781265/1213319789964038184/1242491428441952256).
 
 ---
 ### UserAssembly.dll isn't initialized, waiting for 2 sec.
@@ -159,6 +163,7 @@ Unpause your license and try again.
 
 Case 1:
 - You might get this error while using a VPN, please disable it and try again.
+- If you are not using a VPN and getting this error, try using a VPN.
 
 Case 2:
 - Check that your PC time is set to automatic sync.
