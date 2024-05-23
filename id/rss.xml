@@ -6,8 +6,8 @@
     <link>https://korepi.com/id/</link>
     <description>Bantuan tentang Korepi</description>
     <language>id-ID</language>
-    <pubDate>Thu, 23 May 2024 14:17:44 GMT</pubDate>
-    <lastBuildDate>Thu, 23 May 2024 14:17:44 GMT</lastBuildDate>
+    <pubDate>Thu, 23 May 2024 14:21:23 GMT</pubDate>
+    <lastBuildDate>Thu, 23 May 2024 14:21:23 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Panduan</category>
@@ -682,15 +682,12 @@
       <link>https://korepi.com/id/troubleshoot/faq.html</link>
       <guid>https://korepi.com/id/troubleshoot/faq.html</guid>
       <source url="https://korepi.com/id/rss.xml">FAQ</source>
-      <description>Daftar FAQ Apakah Korepi gratis? Ya, Korepi memiliki versi gratis yang dapat digunakan dengan mengikuti tautan ini (../guide/free.md). Apa kata sandi dari file .rar/.zip? Kata s...</description>
+      <description>Daftar FAQ Apakah Korepi gratis? Ya, Korepi memiliki versi gratis yang dapat digunakan dengan mengikuti tautan ini (../guide/free.md). Kenapa konfigurasi saya tidak tersimpan? P...</description>
       <category>FAQ</category>
       <pubDate>Tue, 19 Dec 2023 17:09:24 GMT</pubDate>
       <content:encoded><![CDATA[<h2> Daftar FAQ</h2>
 <h3> Apakah Korepi gratis?</h3>
 <p>Ya, Korepi memiliki versi gratis yang dapat digunakan dengan mengikuti <a href="/id/guide/free.html" target="blank">tautan ini</a>.</p>
-<hr>
-<h3> Apa kata sandi dari file .rar/.zip?</h3>
-<p>Kata sandinya adalah <code>1234</code>. Harap membaca postingan unduhan dengan saksama di lain waktu.</p>
 <hr>
 <h3> Kenapa konfigurasi saya tidak tersimpan?</h3>
 <p>Pastikan Anda telah mengekstrak file <code>.rar/.zip</code> ke dalam folder baru. Jika konfigurasi masih tidak tersimpan, silakan hubungi pengarah mana pun di server untuk mendapatkan bantuan.</p>
@@ -699,12 +696,6 @@
 <p>Tema untuk Korepi dapat ditemukan di <code>community share</code>, atau Anda dapat membuatnya sendiri melalui pengaturan Korepi.</p>
 <p><img src="/assets/images/docs/202312/theme-settings.png" alt="" loading="lazy"></p>
 <p>Lihat di <code>Theme Customization</code> untuk mulai membuat tema Anda.</p>
-<hr>
-<h3> Kenapa /start beruntun saya terulang?</h3>
-<p>Anda mungkin telah melewati batas waktu harian yang ditetapkan. Jika Anda melewatkan satu hari, maka beruntun akan dimulai dari awal lagi.</p>
-<div class="hint-container info">
-<p class="hint-container-title">Waktu reset adalah pukul 23.00 WIB (GMT/UTC+8 00:00) setiap hari. Silakan sesuaikan dengan zona waktu Anda.</p>
-</div>
 <hr>
 <h3> Bisakah saya menggunakan Korepi saat pembaruan datang?</h3>
 <p>Tidak, Anda harus menunggu Korepi diperbarui ke versi terbaru.</p>
@@ -715,7 +706,7 @@
 <h3> Kenapa menu Korepi tidak muncul?</h3>
 <p>Pastikan Anda telah menonaktifkan semua overlay (MSI Afterburner, GeForce Experience, dll.) sebelum membuka Korepi.</p>
 <hr>
-<h3> Di mana saya bisa mendapatkan Sponsor dan berapa harganya?</h3>
+<h3> Di mana saya bisa mendapatkan <span style="color:yellow;">Sponsor</span> dan berapa harganya?</h3>
 <p>Harga untuk menjadi sponsor adalah $5. Informasi lebih lanjut tentang cara menjadi sponsor dapat dilihat <a href="/id/start/sponsor.html" target="blank">di sini</a>.</p>
 <hr>
 <h3> Kenapa game saya crash saat loading?</h3>
@@ -1965,7 +1956,7 @@ Catatan 2: Penggunaan fitur ini tidak disarankan.</p>
 <p>Jika Anda tidak bisa masuk ke dalam game menggunakan Korepi, buka folder Korepi Anda, cari file <code>cfg.json</code> dan tekan <code>CTRL + F</code>, ketik <code>bypass</code> dan cari. Ubah nilai tersebut menjadi <code>false</code> dan coba buka game menggunakan Korepi lagi.</p>
 <h3> Metode 3</h3>
 <p>Buka launcher game dan pilih opsi <code>Repair Files</code>. Setelah proses perbaikan selesai, coba masuk ke dalam game tanpa menggunakan Korepi. Jika semuanya berjalan lancar, coba buka game dengan Korepi sekali lagi.</p>
-<h1> Bagaimana Jika Tidak Ada Solusi yang Berhasil?</h1>
+<h2> Bagaimana Jika Tidak Ada Solusi yang Berhasil?</h2>
 <p>Jika semua metode di atas tidak berhasil, Anda mungkin perlu menginstal ulang game Anda.</p>
 ]]></content:encoded>
       <enclosure url="https://korepi.com/assets/images/docs/202312/31-4302.png" type="image/png"/>
@@ -2048,9 +2039,35 @@ Jika tidak berhasil, buka cmd sebagai administrator dan ketik <code>sfc /scannow
 <p><img src="/assets/images/docs/202312/error4.png" alt="" loading="lazy"></p>
 <p>Ulang nyalakan komputer, ulang nyalakan router.</p>
 <p>Jika tidak berhasil, coba menggunakan VPN.</p>
+<hr>
+<h3> Failed to detect game version</h3>
+<p>Perbarui aplikasimu, ikuti langkah-langkah <a href="/id/start/download.html" target="blank">di sini</a></p>
+<hr>
+<h3> File ok</h3>
+<ol>
+<li>
+<p>Terkadang kamu harus membuka launcher beberapa kali agar bisa digunakan.</p>
+</li>
+<li>
+<p>Hapus cfg.sjon kamu, mungkin ada yang salah dengan filenya.</p>
+</li>
+<li>
+<p>Jika itu masih tidak memperbaiki masalahnya ikuti <a href="https://discord.com/channels/1069057220802781265/1213319789964038184/1242491428441952256" target="_blank" rel="noopener noreferrer">ini</a>.</p>
+</li>
+</ol>
+<hr>
+<h3> UserAssembly.dll isn't initialized, waiting for 2 sec.</h3>
+<p>Jika aplikasi kamu crash setelah baris ini, coba ikuti langkah berikut:</p>
+<p>Matikan semua antivirus di komputermu.</p>
+<p>Jika itu tidak membantu, coba gunakan perintah <code>sfc /scannow</code> di Command Prompt sebagai administrator.</p>
+<p>JIka ditemukan masalah setelah mengecek dan Windows tidak bisa memperbaikinya, gunakan perintah <code>DISM.exe /Online /Cleanup-Image /RestoreHealth</code>.</p>
+<p>Setelah mengecek, restart komputer kamu dan coba jalankan colorpicker lagi.</p>
+<p>Jika masalah terus berlanjut, kamu bisa coba reset atau install ulang Windows.</p>
+<hr>
 <h3> Current data does not exist or server error.</h3>
 <p><img src="/assets/images/docs/202312/error.png" alt="" loading="lazy"></p>
 <p>Unpause lisensi kamu dan coba lagi.</p>
+<hr>
 <h3> Cannot verify current timestamp.</h3>
 <p><img src="/assets/images/docs/202402/timestamp.png" alt="" loading="lazy"></p>
 <p>Kasus 1:</p>
