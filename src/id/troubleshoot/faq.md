@@ -16,11 +16,6 @@ order: 1
 Ya, Korepi memiliki versi gratis yang dapat digunakan dengan mengikuti [tautan ini](../guide/free.md).
 
 ---
-### Apa kata sandi dari file .rar/.zip?
-
-Kata sandinya adalah `1234`. Harap membaca postingan unduhan dengan saksama di lain waktu.
-
----
 ### Kenapa konfigurasi saya tidak tersimpan?
 
 Pastikan Anda telah mengekstrak file `.rar/.zip` ke dalam folder baru. Jika konfigurasi masih tidak tersimpan, silakan hubungi pengarah mana pun di server untuk mendapatkan bantuan.
@@ -33,14 +28,6 @@ Tema untuk Korepi dapat ditemukan di `community share`, atau Anda dapat membuatn
 ![](/assets/images/docs/202312/theme-settings.png)
 
 Lihat di `Theme Customization` untuk mulai membuat tema Anda.
-
----
-### Kenapa /start beruntun saya terulang?
-
-Anda mungkin telah melewati batas waktu harian yang ditetapkan. Jika Anda melewatkan satu hari, maka beruntun akan dimulai dari awal lagi.
-
-::: info Waktu reset adalah pukul 23.00 WIB (GMT/UTC+8 00:00) setiap hari. Silakan sesuaikan dengan zona waktu Anda.
-:::
 
 ---
 ### Bisakah saya menggunakan Korepi saat pembaruan datang?
@@ -56,7 +43,7 @@ Tidak, Anda harus menunggu Korepi diperbarui ke versi terbaru.
 Pastikan Anda telah menonaktifkan semua overlay (MSI Afterburner, GeForce Experience, dll.) sebelum membuka Korepi.
 
 ---
-### Di mana saya bisa mendapatkan Sponsor dan berapa harganya?
+### Di mana saya bisa mendapatkan <span style='color:yellow;'>Sponsor</span> dan berapa harganya?
 
 Harga untuk menjadi sponsor adalah $5. Informasi lebih lanjut tentang cara menjadi sponsor dapat dilihat [di sini](../start/sponsor.md).
 
