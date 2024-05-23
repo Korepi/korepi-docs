@@ -118,12 +118,43 @@ Ulang nyalakan komputer, ulang nyalakan router.
 
 Jika tidak berhasil, coba menggunakan VPN.
 
+---
+### Failed to detect game version
+
+Perbarui aplikasimu, ikuti langkah-langkah [di sini](../start/download.md)
+
+---
+### File ok
+
+1. Terkadang kamu harus membuka launcher beberapa kali agar bisa digunakan.
+
+2. Hapus cfg.sjon kamu, mungkin ada yang salah dengan filenya.
+
+3. Jika itu masih tidak memperbaiki masalahnya ikuti [ini](https://discord.com/channels/1069057220802781265/1213319789964038184/1242491428441952256).
+
+---
+### UserAssembly.dll isn't initialized, waiting for 2 sec.
+
+Jika aplikasi kamu crash setelah baris ini, coba ikuti langkah berikut:
+
+Matikan semua antivirus di komputermu.
+
+Jika itu tidak membantu, coba gunakan perintah `sfc /scannow` di Command Prompt sebagai administrator.
+
+JIka ditemukan masalah setelah mengecek dan Windows tidak bisa memperbaikinya, gunakan perintah `DISM.exe /Online /Cleanup-Image /RestoreHealth`.
+
+Setelah mengecek, restart komputer kamu dan coba jalankan colorpicker lagi.
+
+Jika masalah terus berlanjut, kamu bisa coba reset atau install ulang Windows.
+
+___
 ### Current data does not exist or server error.
 
 ![](/assets/images/docs/202312/error.png)
 
 Unpause lisensi kamu dan coba lagi.
 
+___
 ### Cannot verify current timestamp.
 
 ![](/assets/images/docs/202402/timestamp.png)
