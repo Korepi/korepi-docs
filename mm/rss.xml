@@ -6,8 +6,8 @@
     <link>https://korepi.com/mm/</link>
     <description>Korepi တွင်ကူညီပါ။</description>
     <language>my-MM</language>
-    <pubDate>Mon, 20 May 2024 12:35:02 GMT</pubDate>
-    <lastBuildDate>Mon, 20 May 2024 12:35:02 GMT</lastBuildDate>
+    <pubDate>Thu, 23 May 2024 14:17:44 GMT</pubDate>
+    <lastBuildDate>Thu, 23 May 2024 14:17:44 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Guide</category>
@@ -998,16 +998,12 @@ If after restarting it did not help or no errors were found, write this command:
       <link>https://korepi.com/mm/troubleshoot/faq.html</link>
       <guid>https://korepi.com/mm/troubleshoot/faq.html</guid>
       <source url="https://korepi.com/mm/rss.xml">FAQ</source>
-      <description>List of FAQs Is Korepi free? Yes, Korepi has a free version which you can use easily following this guide (../guide/free.md). What is the .rar/.zip password? ... Its 1234, pleas...</description>
+      <description>List of FAQs Is Korepi free? Yes, Korepi has a free version which you can use easily following this guide (../guide/free.md). Why my config doesn&amp;apos;t save? Keep in mind you have t...</description>
       <category>FAQ</category>
       <pubDate>Wed, 07 Feb 2024 23:18:47 GMT</pubDate>
       <content:encoded><![CDATA[<h2> List of FAQs</h2>
 <h3> Is Korepi free?</h3>
 <p>Yes, Korepi has a free version which you can use easily following this <a href="/mm/guide/free.html" target="blank">guide</a>.</p>
-<hr>
-<h3> What is the .rar/.zip password?</h3>
-<p>...</p>
-<p>Its <code>1234</code>, please read the download post next time.</p>
 <hr>
 <h3> Why my config doesn't save?</h3>
 <p>Keep in mind you have to extract the <code>.rar/.zip</code> file you got in another folder.</p>
@@ -1017,12 +1013,6 @@ If after restarting it did not help or no errors were found, write this command:
 <p>You can find themes for your Korepi on <code>community share</code> or you can make your own in Korepi settings.</p>
 <p><img src="/assets/images/docs/202312/theme-settings.png" alt="" loading="lazy"></p>
 <p>Check <code>Theme Customization</code> to start making your own theme.</p>
-<hr>
-<h3> Why did my /start streak reset?</h3>
-<p>Most likely you surpassed the reset time, it resets daily, if you skip 1 day it will reset entirely</p>
-<div class="hint-container info">
-<p class="hint-container-title">Reset time is at GMT/UTC+8 00:00 everyday. Please convert to your timezone.</p>
-</div>
 <hr>
 <h3> Can i use Korepi when a new update comes?</h3>
 <p>No, you need to wait till a new Korepi version gets released.</p>

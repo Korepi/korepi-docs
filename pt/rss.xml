@@ -6,8 +6,8 @@
     <link>https://korepi.com/pt/</link>
     <description>Ajuda em Korepi</description>
     <language>pt-BR</language>
-    <pubDate>Mon, 20 May 2024 12:35:02 GMT</pubDate>
-    <lastBuildDate>Mon, 20 May 2024 12:35:02 GMT</lastBuildDate>
+    <pubDate>Thu, 23 May 2024 14:17:44 GMT</pubDate>
+    <lastBuildDate>Thu, 23 May 2024 14:17:44 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Guia</category>
@@ -119,8 +119,8 @@
 <h3> Passo 2:</h3>
 <p>Clique em <code>Bind free card</code>, clique no link enviado pelo bot após isso, então assista o AD e pule ele.</p>
 <h3> Passo 3:</h3>
-<p>Se a mensagem de conexão aparecer <code>Success</code>, você recebeu a licença com sucesso, se não aparecer <code>Success</code>, repita o primeiro passo.
-<img src="/assets/images/docs/202312/success.png" alt="" loading="lazy"></p>
+<p>Se a mensagem de conexão aparecer <code>Success</code>, você recebeu a licença com sucesso, se não aparecer <code>Success</code>, repita o primeiro passo.</p>
+<p><img src="/assets/images/docs/202312/success.png" alt="" loading="lazy"></p>
 <h3> Passo 4:</h3>
 <div class="hint-container info">
 <p class="hint-container-title">Se você já tem um arquivo enc.json, apague ele antes de abrir o programa</p>
@@ -1782,8 +1782,8 @@ Nota 2: Não é recomendado usar.</p>
 </div>
 <hr>
 <h2> Como usar skins personalizadas em Korepi</h2>
-<p><img src="/assets/images/docs/202312/example.png" alt="" loading="lazy">
-Para usar skins personalizadas no Korepi, você precisará baixar o aplicativo</p>
+<p><img src="/assets/images/docs/202312/example.png" alt="" loading="lazy"></p>
+<p>Para usar skins personalizadas no Korepi, você precisará baixar o aplicativo</p>
 <p><code>3DMigoto(GIMI)</code>.</p>
 <h2> <span style="color:blue;">Método 1</span></h2>
 <h3> Passo 1: Baixar <code>GIMI</code></h3>
