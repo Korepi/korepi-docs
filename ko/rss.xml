@@ -6,8 +6,8 @@
     <link>https://korepi.com/ko/</link>
     <description>Korepi 도움말</description>
     <language>ko-KR</language>
-    <pubDate>Sat, 25 May 2024 07:02:17 GMT</pubDate>
-    <lastBuildDate>Sat, 25 May 2024 07:02:17 GMT</lastBuildDate>
+    <pubDate>Sat, 25 May 2024 23:06:13 GMT</pubDate>
+    <lastBuildDate>Sat, 25 May 2024 23:06:13 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Guide</category>
@@ -1894,6 +1894,7 @@ Note 2: You can find the items IDs <a href="https://github.com/jie65535/Grasscut
       <category>가이드</category>
       <pubDate>Tue, 19 Dec 2023 11:43:03 GMT</pubDate>
       <content:encoded><![CDATA[<h2> 인증 튜토리얼</h2>
+<div class="iframe-container"><iframe width="1280" height="720" src="https://www.youtube.com/embed/ST9akMsGJog" title="How to activate your key - Korepi" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
 <div class="hint-container danger">
 <p class="hint-container-title">If you got an active subscription, don't bind any other card or you will lose your current subscription. If you bind any other card, you wont be able to claim your sponsor compensation.</p>
 </div>

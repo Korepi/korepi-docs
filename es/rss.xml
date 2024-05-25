@@ -6,8 +6,8 @@
     <link>https://korepi.com/es/</link>
     <description>Ayuda en Korepi</description>
     <language>es-ES</language>
-    <pubDate>Sat, 25 May 2024 07:02:17 GMT</pubDate>
-    <lastBuildDate>Sat, 25 May 2024 07:02:17 GMT</lastBuildDate>
+    <pubDate>Sat, 25 May 2024 23:06:13 GMT</pubDate>
+    <lastBuildDate>Sat, 25 May 2024 23:06:13 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Guía</category>
@@ -1947,6 +1947,7 @@ Nota 2: No se recomienda usar.</p>
       <category>Guía</category>
       <pubDate>Tue, 12 Dec 2023 01:00:59 GMT</pubDate>
       <content:encoded><![CDATA[<h2> Tutorial de Verificación</h2>
+<div class="iframe-container"><iframe width="1280" height="720" src="https://www.youtube.com/embed/ST9akMsGJog" title="How to activate your key - Korepi" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
 <div class="hint-container danger">
 <p class="hint-container-title">Si tienes una suscripción activa no vincules ninguna otra suscripción o perderás tu suscripción activa, si vinculas cualquier otra suscripción también perderás la compensación para Sponsor.</p>
 </div>

@@ -6,8 +6,8 @@
     <link>https://korepi.com/id/</link>
     <description>Bantuan tentang Korepi</description>
     <language>id-ID</language>
-    <pubDate>Sat, 25 May 2024 07:02:17 GMT</pubDate>
-    <lastBuildDate>Sat, 25 May 2024 07:02:17 GMT</lastBuildDate>
+    <pubDate>Sat, 25 May 2024 23:06:13 GMT</pubDate>
+    <lastBuildDate>Sat, 25 May 2024 23:06:13 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Panduan</category>
@@ -1887,6 +1887,7 @@ Catatan 2: Penggunaan fitur ini tidak disarankan.</p>
       <category>Panduan</category>
       <pubDate>Thu, 14 Dec 2023 11:12:15 GMT</pubDate>
       <content:encoded><![CDATA[<h2> Tutorial Verifikasi</h2>
+<div class="iframe-container"><iframe width="1280" height="720" src="https://www.youtube.com/embed/ST9akMsGJog" title="How to activate your key - Korepi" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
 <div class="hint-container danger">
 <p class="hint-container-title">Jika Anda memiliki langganan yang sedang aktif, jangan hubungkan dengan kartu lain atau Anda akan kehilangan langganan saat ini. Jika Anda menghubungkan kartu lain, Anda tidak dapat klaim kompensasi sponsor.</p>
 </div>

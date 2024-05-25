@@ -6,8 +6,8 @@
     <link>https://korepi.com/en/</link>
     <description>Help on Korepi</description>
     <language>en-US</language>
-    <pubDate>Sat, 25 May 2024 07:02:17 GMT</pubDate>
-    <lastBuildDate>Sat, 25 May 2024 07:02:17 GMT</lastBuildDate>
+    <pubDate>Sat, 25 May 2024 23:06:13 GMT</pubDate>
+    <lastBuildDate>Sat, 25 May 2024 23:06:13 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Guide</category>
@@ -1937,6 +1937,7 @@ If after restarting it did not help or no errors were found, write this command:
       <category>Guide</category>
       <pubDate>Mon, 11 Dec 2023 23:46:39 GMT</pubDate>
       <content:encoded><![CDATA[<h2> Verification Tutorial</h2>
+<div class="iframe-container"><iframe width="1280" height="720" src="https://www.youtube.com/embed/ST9akMsGJog" title="How to activate your key - Korepi" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
 <div class="hint-container danger">
 <p class="hint-container-title">If you got an active subscription, don't bind any other card or you will lose your current subscription. If you bind any other card, you wont be able to claim your sponsor compensation.</p>
 </div>

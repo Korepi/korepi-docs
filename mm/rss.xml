@@ -6,8 +6,8 @@
     <link>https://korepi.com/mm/</link>
     <description>Korepi တွင်ကူညီပါ။</description>
     <language>my-MM</language>
-    <pubDate>Sat, 25 May 2024 07:02:17 GMT</pubDate>
-    <lastBuildDate>Sat, 25 May 2024 07:02:17 GMT</lastBuildDate>
+    <pubDate>Sat, 25 May 2024 23:06:13 GMT</pubDate>
+    <lastBuildDate>Sat, 25 May 2024 23:06:13 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Guide</category>
@@ -215,6 +215,7 @@ In order to use custom skins in we will need to download:</p>
       <category>Guide</category>
       <pubDate>Wed, 07 Feb 2024 23:18:47 GMT</pubDate>
       <content:encoded><![CDATA[<h2> Verification Tutorial</h2>
+<div class="iframe-container"><iframe width="1280" height="720" src="https://www.youtube.com/embed/ST9akMsGJog" title="How to activate your key - Korepi" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
 <div class="hint-container danger">
 <p class="hint-container-title">If you got an active subscription, don't bind any other card or you will lose your current subscription. If you bind any other card, you wont be able to claim your sponsor compensation.</p>
 </div>
