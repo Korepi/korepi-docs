@@ -13,7 +13,7 @@ order: 7
 
 # Download
 
-<video controls preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/c3EGqsxpMEzraZM/preview"><source src="https://nextcloud.atruicardona.xyz/s/c3EGqsxpMEzraZM/download" type="video/mp4"></video>
+<video controls preload="none" width="100%" poster="https://drive.google.com/file/d/1lIzEH6vxro2iOJTQaMgWN8wq-BlD98zx/view?usp=sharing"><source src="https://drive.google.com/file/d/1lIzEH6vxro2iOJTQaMgWN8wq-BlD98zx/view?usp=sharing" type="video/mp4"></video>
 
 ## Introdução
 
