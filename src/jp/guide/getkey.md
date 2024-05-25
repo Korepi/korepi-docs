@@ -12,7 +12,7 @@ order: 1
 
 ## チュートリアル
 
-
+<div class="iframe-container"><iframe width="1280" height="720" src="https://www.youtube.com/embed/ST9akMsGJog" title="How to activate your key - Korepi" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 
 ::: danger 有効なサブスクをお持ちの方は、他カードを発行するとサブスクが失効になるためしないでください。もし他カードを発行するとスポンサー補填を受け取れなくなります
 :::

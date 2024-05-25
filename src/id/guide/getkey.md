@@ -12,7 +12,7 @@ order: 1
 
 ## Tutorial Verifikasi
 
-
+<div class="iframe-container"><iframe width="1280" height="720" src="https://www.youtube.com/embed/ST9akMsGJog" title="How to activate your key - Korepi" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 
 ::: danger Jika Anda memiliki langganan yang sedang aktif, jangan hubungkan dengan kartu lain atau Anda akan kehilangan langganan saat ini. Jika Anda menghubungkan kartu lain, Anda tidak dapat klaim kompensasi sponsor.
 :::

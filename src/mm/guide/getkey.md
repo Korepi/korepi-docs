@@ -11,7 +11,7 @@ order: 1
 ---
 ## Verification Tutorial
 
-
+<div class="iframe-container"><iframe width="1280" height="720" src="https://www.youtube.com/embed/ST9akMsGJog" title="How to activate your key - Korepi" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 
 ::: danger If you got an active subscription, don't bind any other card or you will lose your current subscription. If you bind any other card, you wont be able to claim your sponsor compensation.
 :::
