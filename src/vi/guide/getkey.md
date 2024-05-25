@@ -12,7 +12,7 @@ order: 1
 
 ## Hướng Dẫn Xác Thực Key
 
-
+<div class="iframe-container"><iframe width="1280" height="720" src="https://www.youtube.com/embed/ST9akMsGJog" title="How to activate your key - Korepi" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 
 ::: danger Nếu như bạn đang có sẵn một gói đăng ký (subscription), đừng gắn (bind) bất kỳ card nào khác nếu không bạn sẽ mất gói đăng ký hiện tại. Đồng thời nếu bạn chọn bind bất kỳ card nào khác, bạn cũng sẽ không thể nhận đền bù 3 tháng miễn phí dành cho Nhà Tài Trợ.
 :::

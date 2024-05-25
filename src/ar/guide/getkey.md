@@ -12,7 +12,7 @@ order: 1
 
 ## شرح التحقق
 
-
+<div class="iframe-container"><iframe width="1280" height="720" src="https://www.youtube.com/embed/ST9akMsGJog" title="How to activate your key - Korepi" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 
 ::: danger إذا كان لديك اشتراك نشط، فلا تربط أي بطاقة أخرى وإلا ستفقد اشتراكك الحالي. إذا قمت بربط أي بطاقة أخرى، فلن تتمكن من المطالبة بتعويض الراعي الخاص بك.
 :::

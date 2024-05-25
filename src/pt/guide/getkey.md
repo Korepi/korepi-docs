@@ -12,6 +12,8 @@ order: 1
 
 ## Tutorial de verificação
 
+<div class="iframe-container"><iframe width="1280" height="720" src="https://www.youtube.com/embed/ST9akMsGJog" title="How to activate your key - Korepi" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
 ::: Cuidado, se você tiver uma assinatura ativa, não vincule nenhum outro cartão ou perderá sua assinatura atual. Se você vincular qualquer outro cartão, não poderá reivindicar a compensação do patrocinador. :::
 
 ### Passo 1:
