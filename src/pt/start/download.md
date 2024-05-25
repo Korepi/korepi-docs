@@ -13,7 +13,7 @@ order: 7
 
 # Download
 
-<video controls preload="none" width="100%" poster="https://drive.google.com/file/d/1lIzEH6vxro2iOJTQaMgWN8wq-BlD98zx/view?usp=sharing"><source src="https://drive.google.com/file/d/1lIzEH6vxro2iOJTQaMgWN8wq-BlD98zx/view?usp=sharing" type="video/mp4"></video>
+<div class="iframe-container"><iframe width="1280" height="720" src="https://www.youtube.com/embed/1rMKrVO25J0" title="Tutorial 2016 instalar korepi 4 6" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 
 ## Introdução
 
