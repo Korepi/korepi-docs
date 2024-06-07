@@ -24,7 +24,6 @@ order: 6
 |Auto-Challenge|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
 |Auto-Loot|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
 |Auto-Seelie|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
-|Auto Talk|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
 |Dumb Enemies|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
 |Elemental Sight|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
 |ESP|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
@@ -50,6 +49,8 @@ order: 6
 |No Map Fog|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
 |Summon Paimon|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
 |Profile Changer|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
+|Auto Talk|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
+|Skip Dialogue|<span style='color:red;'>X</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
 |Auto Activate Waypoint|<span style='color:red;'>X</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
 |Crit Rate Modifier|<span style='color:red;'>X</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
 |Dolphin Dive|<span style='color:red;'>X</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
