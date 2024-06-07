@@ -24,7 +24,6 @@ order: 6
 |Auto Desafiós|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
 |Auto Recoger|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
 |Auto Seelie|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
-|Auto Conversar|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
 |Enemigos Tontos|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
 |Visión Elemental|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
 |ESP|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
@@ -50,6 +49,8 @@ order: 6
 |Sin Niebla de Mapa|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
 |Invocar Paimon|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
 |Perfil Personalizado|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
+|Auto Conversar|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
+|Saltar Dialogo|<span style='color:red;'>X</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
 |Auto Activar Teletransporte|<span style='color:red;'>X</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
 |Modificador de Critico|<span style='color:red;'>X</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
 |Modo Delfín|<span style='color:red;'>X</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
