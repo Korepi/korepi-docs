@@ -6,8 +6,8 @@
     <link>https://korepi.com/mm/</link>
     <description>Korepi တွင်ကူညီပါ။</description>
     <language>my-MM</language>
-    <pubDate>Sat, 25 May 2024 23:14:18 GMT</pubDate>
-    <lastBuildDate>Sat, 25 May 2024 23:14:18 GMT</lastBuildDate>
+    <pubDate>Fri, 07 Jun 2024 22:00:23 GMT</pubDate>
+    <lastBuildDate>Fri, 07 Jun 2024 22:00:23 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Guide</category>
@@ -399,12 +399,6 @@ In order to use custom skins in we will need to download:</p>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Auto Talk</td>
-<td><span style="color:green;">✓</span></td>
-<td><span style="color:green;">✓</span></td>
-<td><span style="color:green;">✓</span></td>
-</tr>
-<tr>
 <td>Dumb Enemies</td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
@@ -551,6 +545,18 @@ In order to use custom skins in we will need to download:</p>
 <tr>
 <td>Profile Changer</td>
 <td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Auto Talk</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Skip Dialogue</td>
+<td><span style="color:red;">X</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
