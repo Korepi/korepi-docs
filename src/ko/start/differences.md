@@ -81,5 +81,3 @@ order: 6
 |드랍템 모으기|<span style='color:red;'>X</span>|<span style='color:red;'>X</span>|<span style='color:green;'>✓</span>|
 |스킨 편집|<span style='color:red;'>X</span>|<span style='color:red;'>X</span>|<span style='color:green;'>✓</span>|
 |자동 기믹|<span style='color:red;'>X</span>|<span style='color:red;'>X</span>|<span style='color:green;'>✓</span>|
-|자동 비경|<span style='color:red;'>X</span>|<span style='color:red;'>X</span>|<span style='color:green;'>✓</span>|
-|스탯 편집|<span style='color:red;'>X</span>|<span style='color:red;'>X</span>|<span style='color:green;'>✓</span>|

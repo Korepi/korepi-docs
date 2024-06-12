@@ -83,5 +83,3 @@ Berikut adalah tabel yang memperlihatkan fitur-fitur yang tersedia di berbagai v
 |Vacuum Loot|<span style='color:red;'>X</span>|<span style='color:red;'>X</span>|<span style='color:green;'>✓</span>|
 |Skin Modifier|<span style='color:red;'>X</span>|<span style='color:red;'>X</span>|<span style='color:green;'>✓</span>|
 |Auto Puzzle|<span style='color:red;'>X</span>|<span style='color:red;'>X</span>|<span style='color:green;'>✓</span>|
-|Auto Domain (WIP)|<span style='color:red;'>X</span>|<span style='color:red;'>X</span>|<span style='color:green;'>✓</span>|
-|Stats Modifier (WIP)|<span style='color:red;'>X</span>|<span style='color:red;'>X</span>|<span style='color:green;'>✓</span>|
