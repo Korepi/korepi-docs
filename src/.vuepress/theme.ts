@@ -11,7 +11,9 @@ import {
     arNavbar,
     jpNavbar,
     trNavbar,
-    koNavbar
+    koNavbar,
+    thNavbar
+    
 } from "./navbar/index.js";
 import {
     enSidebar,
@@ -25,7 +27,9 @@ import {
     arSidebar,
     jpSidebar,
     trSidebar,
-    koSidebar
+    koSidebar,
+    thSidebar
+    
 } from "./sidebar/index.js";
 
 
@@ -187,6 +191,18 @@ export default hopeTheme({
                 editLink: "Github에서 수정",
             },
         },
+        "/th/": {
+            navbar: thNavbar,
+            sidebar: thSidebar,
+            footer:
+                "มอบประสบการณ์การเล่นเกมที่ดีที่สุดสำหรับผู้เล่นพีซีใน Genshin Impact",
+
+            displayFooter: true,
+
+            metaLocales: {
+                editLink: "แก้ไขหน้านี้บน GitHub",
+            },
+        },
     },
 
     plugins: {
@@ -287,6 +303,14 @@ export default hopeTheme({
                         title: "Yeteneklerinizle Katkıda Bulunun",
                         content:
                             "Eğer şu alanlarda deneyiminiz varsa <b>WEB FRONT-END Geliştirme</b> Ve <b>Belge Yönetimi</b>, ve bu dokümantasyon projesine uygulamak istiyorsanız, aşağıdaki adrese başvurabilirsiniz <a href='https://github.com/Korepi/korepi-docs'>dokümantasyon yazımında bize katılın</a>",
+                        fullscreen: false,
+                        showOnce: false,
+                    },
+                    {
+                        path: "/th/",
+                        title: "แบ่งปันทักษะของคุณ",
+                        content:
+                            "หากคุณมีประสบการณ์ด้าน <b>web front-end development</b> และ <b>document management</b>, และต้องการจะนำไปใช้กับ documentation project นี้, เรายินดีต้อนรับคุณ <a href='https://github.com/Korepi/korepi-docs'>มาร่วมเขียนเอกสารนี้กับเรา</a>",
                         fullscreen: false,
                         showOnce: false,
                     },

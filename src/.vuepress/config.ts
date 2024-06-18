@@ -71,6 +71,11 @@ export default defineUserConfig({
             title: "Korepi",
             description: "Korepi Yardım Bölümü",
         },
+        "/th/": {
+            lang: "th",
+            title: "Korepi",
+            description: "ความช่วยเหลือบน Korepi",
+        },
     },
     plugins: [
         docsearchPlugin({
@@ -570,6 +575,47 @@ export default defineUserConfig({
                         },
                     },
                 },
+                "/th/": {
+                    placeholder: "ค้นหา",
+                    translations: {
+                        button: {
+                            buttonText: "ค้นหา",
+                            buttonAriaLabel: "ค้นหา",
+                        },
+                        modal: {
+                            searchBox: {
+                                resetButtonTitle: "ล้างเกณฑ์การค้นหา",
+                                resetButtonAriaLabel: "ล้างเกณฑ์การค้นหา",
+                                cancelButtonText: "ย้อนกลับ",
+                                cancelButtonAriaLabel: "ย้อนกลับ",
+                            },
+                            startScreen: {
+                                recentSearchesTitle: "ประวัติการค้นหา",
+                                noRecentSearchesText: "ไม่มีประวัติการค้นหา",
+                                saveRecentSearchButtonTitle: "บันทึกไปที่ประวัติการค้นหา",
+                                removeRecentSearchButtonTitle: "ลบออกจากประวัติการค้นหา",
+                                favoriteSearchesTitle: "รายการโปรด",
+                                removeFavoriteSearchButtonTitle: "ลบออกจากรายการโปรด",
+                            },
+                            errorScreen: {
+                                titleText: "ไม่สามารถค้นหาผลลัพธ์ได้",
+                                helpText: "ตรวจสอบการเชื่อมต่ออินเตอร์เน็ต และ ทรัพยากรที่ร้องขอ",
+                            },
+                            footer: {
+                                selectText: "เลือก",
+                                navigateText: "เปิด/ปิด",
+                                closeText: "ปิด",
+                                searchByText: "ค้นหา:",
+                            },
+                            noResultsScreen: {
+                                noResultsText: "ไม่พบผลลัพธ์ที่ค้นหา:",
+                                suggestedQueryText: "คุณสามารถค้นหาใหม่",
+                                reportMissingResultsText: "คุณคิดว่าคำค้นหานี้จะได้ผลลัพธ์อะไร :> ?",
+                                reportMissingResultsLinkText: "ติดต่อเรา",
+                            },
+                        },
+                    },
+                },
             },
         }),
         redirectPlugin({
@@ -588,6 +634,7 @@ export default defineUserConfig({
                 "/tr/": ["tr", "tr-TR"],
                 "/jp/": ["ja-JP","jp-JP", "jp"],
                 "/ar/": ["ar", "ar-MA", "ar-SA", "ar-PS", "ar-DZ", "ar-BH", "ar-TD", "ar-KM", "ar-JO", "ar-EG", "ar-IQ", "ar-KW", "ar-LB", "ar-LY", "ar-MR", "ar-OM", "ar-QA", "ar-SO", "ar-SD", "ar-SY", "ar-TN", "ar-AE", "ar-YE",],
+                "/th/": ["th-TH", "th"],
             },
         }),
         googleAnalyticsPlugin({
