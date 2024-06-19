@@ -6,8 +6,8 @@
     <link>https://korepi.com/zh/</link>
     <description>Korepi 中文文档介绍</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 19 Jun 2024 16:23:08 GMT</pubDate>
-    <lastBuildDate>Wed, 19 Jun 2024 16:23:08 GMT</lastBuildDate>
+    <pubDate>Wed, 19 Jun 2024 16:25:50 GMT</pubDate>
+    <lastBuildDate>Wed, 19 Jun 2024 16:25:50 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>指南</category>
@@ -22,15 +22,16 @@
       <link>https://korepi.com/zh/start/buy-korpei.html</link>
       <guid>https://korepi.com/zh/start/buy-korpei.html</guid>
       <source url="https://korepi.com/zh/rss.xml">如何购买Korepi</source>
-      <description>寻找seller (https://discordapp.com/channels/1069057220802781265/1204755981834129439)频道，点击进入即可。里面有代理商的售卖，可根据相应地区购买卡密。 目前中国区售卖者的小店链接： 1. Micah小店链接 ( https://fk.535888.xyz/) 2. 清桧小店链...</description>
+      <description>寻找🔑｜buy-pertamax (https://discord.com/channels/1069057220802781265/1204755981834129439)频道，点击进入即可。里面有代理商的售卖，可根据相应地区购买卡密。 目前中国区售卖者的小店链接： 1. Micah小店链接 ( https://fk.535888.xyz/) 2....</description>
       <category>指南</category>
       <pubDate>Wed, 15 May 2024 15:10:31 GMT</pubDate>
-      <content:encoded><![CDATA[<h3> 寻找<a href="https://discordapp.com/channels/1069057220802781265/1204755981834129439" target="_blank" rel="noopener noreferrer">seller</a>频道，点击进入即可。里面有代理商的售卖，可根据相应地区购买卡密。</h3>
+      <content:encoded><![CDATA[<h3> 寻找<a href="https://discord.com/channels/1069057220802781265/1204755981834129439" target="_blank" rel="noopener noreferrer">🔑｜buy-pertamax</a>频道，点击进入即可。里面有代理商的售卖，可根据相应地区购买卡密。</h3>
 <h3> 目前中国区售卖者的小店链接：</h3>
 <ol>
 <li><a href="https://fk.535888.xyz/" target="_blank" rel="noopener noreferrer">Micah小店链接</a></li>
 <li><a href="https://c.fakamiao.com/shopDetail/195" target="_blank" rel="noopener noreferrer">清桧小店链接</a></li>
 <li><a href="https://c.fakamiao.com/shopDetail/591" target="_blank" rel="noopener noreferrer">九月小店链接</a></li>
+<li><a href="https://yna.imiku.net/?" target="_blank" rel="noopener noreferrer">小店链接</a></li>
 </ol>
 <h3> <span style="color:red;">如有代理商想挂代理小店链接可联系Double，写入文档，或自己写入。</span></h3>
 ]]></content:encoded>
@@ -909,11 +910,11 @@
       <link>https://korepi.com/zh/start/news.html</link>
       <guid>https://korepi.com/zh/start/news.html</guid>
       <source url="https://korepi.com/zh/rss.xml">Korepi中文公告</source>
-      <description>Korepi中文公告 1.找到role频道，选择点击Chinese pings。 2.找到Korepi中文公告频道，即可获取Korepi中文公告信息。</description>
+      <description>Korepi中文公告 1.找到频道中的频道和身分组，选择点击Chinese pings。 2.找到Korepi中文公告频道，即可获取Korepi中文公告信息。</description>
       <category>指南</category>
       <pubDate>Thu, 11 Jan 2024 11:32:33 GMT</pubDate>
       <content:encoded><![CDATA[<h2> Korepi中文公告</h2>
-<p>1.找到role频道，选择点击Chinese pings。</p>
+<p>1.找到频道中的频道和身分组，选择点击Chinese pings。</p>
 <p>2.找到Korepi中文公告频道，即可获取Korepi中文公告信息。</p>
 ]]></content:encoded>
     </item>
@@ -979,13 +980,14 @@ VPN并非专为翻墙而生，而机场是专门的翻墙节点服务商。</p>
       <link>https://korepi.com/zh/guide/Multi-korepi.html</link>
       <guid>https://korepi.com/zh/guide/Multi-korepi.html</guid>
       <source url="https://korepi.com/zh/rss.xml">如何多开Korepi</source>
-      <description>1.下载Korepi。 2.打开Korepi所在文件夹，打开cfj.ini。 3.找到Multi korepi=，将false改为true。 展示视频：</description>
+      <description>1.下载Korepi。 2.打开Korepi所在文件夹，打开cfj.ini。 3.找到Multi korepi=，将false改为true。 目前多开已坏，无法多开。 展示视频：</description>
       <category>指南</category>
       <pubDate>Mon, 25 Dec 2023 07:31:38 GMT</pubDate>
       <content:encoded><![CDATA[<hr>
 <h2> 1.下载Korepi。</h2>
 <h2> 2.打开Korepi所在文件夹，打开<code>cfj.ini</code>。</h2>
 <h2> 3.找到Multi korepi=，将<code>false</code>改为<code>true</code>。</h2>
+<h2> <span style="color:red;">目前多开已坏，无法多开。</span></h2>
 <h2> 展示视频：</h2>
  <div class="iframe-container"><iframe width="1328" height="747" src="https://www.youtube.com/embed/pSAxKoneT64?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Multi-Instance V (Updated)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
 ]]></content:encoded>
@@ -1022,12 +1024,12 @@ VPN并非专为翻墙而生，而机场是专门的翻墙节点服务商。</p>
       <link>https://korepi.com/zh/troubleshoot/faq.html</link>
       <guid>https://korepi.com/zh/troubleshoot/faq.html</guid>
       <source url="https://korepi.com/zh/rss.xml">问题解答</source>
-      <description>问题列表 1.Korepi是免费的吗？ Yes, Korepi has a free version which you can use easily following this guide (../guide/key-use.md). 2.为什么我的配置不保存? 请记住，您必须提取另一个文件夹中的“.rar/.zip”文件。 如果在该步骤之后仍然没...</description>
+      <description>问题列表 1.Korepi是免费的吗？ 是的，korepi拥有免费版本，你可以在这看到使用教程 (../guide/key-use.md). 2.为什么我的配置不保存? 请记住，您必须提取另一个文件夹中的“.rar/.zip”文件。 如果在该步骤之后仍然没有保存配置，请与服务器中的任何帮助者联系以获取更多帮助。 你的配置文件一般是cfg.json，只要...</description>
       <category>问题解答</category>
       <pubDate>Tue, 19 Dec 2023 17:09:24 GMT</pubDate>
       <content:encoded><![CDATA[<h2> 问题列表</h2>
 <h2> 1.Korepi是免费的吗？</h2>
-<h2> Yes, Korepi has a free version which you can use easily following this <a href="/zh/guide/key-use.html" target="blank">guide</a>.</h2>
+<h2> 是的，korepi拥有免费版本，你可以在这看到<a href="/zh/guide/key-use.html" target="blank">使用教程</a>.</h2>
 <h2> 2.为什么我的配置不保存?</h2>
 <p>请记住，您必须提取另一个文件夹中的“.rar/.zip”文件。</p>
 <p>如果在该步骤之后仍然没有保存配置，请与服务器中的任何帮助者联系以获取更多帮助。</p>
@@ -2217,10 +2219,10 @@ C1: 🟦 C2: ？ C3: 🟥 C4: 🟦 C5: 🟥 C6: 🟦</li>
       <link>https://korepi.com/zh/features/2.%E4%B8%96%E7%95%8C%E5%8A%9F%E8%83%BD/kill-aura.html</link>
       <guid>https://korepi.com/zh/features/2.%E4%B8%96%E7%95%8C%E5%8A%9F%E8%83%BD/kill-aura.html</guid>
       <source url="https://korepi.com/zh/rss.xml">杀戮光环</source>
-      <description>杀死光环：对周围敌人造成伤害。 坠伤模式： 对周围敌人造成指定值、延迟和范围的掉落伤害。; 注意：不建议使用非常高的值。 百分比模式： 杀死敌人所需的命中次数。; 注意：建议使用“3”或更高的值。 剩余HP： 将周围怪物血量击打到你所设置的剩余血量。; 即死模式： 会试让光环范围内的敌人直接死亡。; 注意：可能会对一些boss没有效果。 不建议使用。 ...</description>
+      <description>杀戮光环：对周围敌人造成伤害。 坠伤模式： 对周围敌人造成指定值、延迟和范围的掉落伤害。; 注意：不建议使用非常高的值。 百分比模式： 杀死敌人所需的命中次数。; 注意：建议使用“3”或更高的值。 剩余HP： 将周围怪物血量击打到你所设置的剩余血量。; 即死模式： 会试让光环范围内的敌人直接死亡。; 注意：可能会对一些boss没有效果。 不建议使用。 ...</description>
       <category>功能</category>
       <pubDate>Sun, 17 Dec 2023 05:01:05 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> 杀死光环：对周围敌人造成伤害。</h2>
+      <content:encoded><![CDATA[<h2> 杀戮光环：对周围敌人造成伤害。</h2>
 <h1> <span style="color:red;">注意：此功能的危险性很高</span></h1>
 <h3> 坠伤模式：</h3>
 <ul>
@@ -2392,20 +2394,20 @@ C1: 🟦 C2: ？ C3: 🟥 C4: 🟦 C5: 🟥 C6: 🟦</li>
       <link>https://korepi.com/zh/troubleshoot/faq-error.html</link>
       <guid>https://korepi.com/zh/troubleshoot/faq-error.html</guid>
       <source url="https://korepi.com/zh/rss.xml">常见错误列表</source>
-      <description>常见错误列表 为什么我的Korepi消失了？ 确保您的防病毒软件已停用，创建一个新文件夹并将其添加到排除列表中。 在排除列表中解压Korepi并重新运行。 状态：未发现活跃订阅，无效的许可密钥 您需要从“⁠★⋅micah-bot-verify⋅★”处获取一个新密钥 (../guide/key-use.md)，如果无法获取密钥或密钥无效，您必须等待密钥到...</description>
+      <description>常见错误列表 1.为什么我的Korepi消失了？ 确保您的防病毒软件已停用，创建一个新文件夹并将其添加到排除列表中。 在排除列表中解压Korepi并重新运行。 2.状态：未发现活跃订阅，无效的许可密钥 您需要从“⁠★⋅micah-bot-verify⋅★”处获取一个新密钥 (../guide/key-use.md)，如果无法获取密钥或密钥无效，您必须等...</description>
       <category>Guide</category>
       <pubDate>Wed, 13 Dec 2023 18:38:23 GMT</pubDate>
       <content:encoded><![CDATA[<h2> 常见错误列表</h2>
-<h3> 为什么我的Korepi消失了？</h3>
+<h3> 1.为什么我的Korepi消失了？</h3>
 <p>确保您的防病毒软件已停用，创建一个新文件夹并将其添加到排除列表中。</p>
 <p><img src="/assets/images/docs/202312/virus.png" alt="" loading="lazy"></p>
 <p>在排除列表中解压Korepi并重新运行。</p>
 <hr>
-<h3> 状态：未发现活跃订阅，无效的许可密钥</h3>
+<h3> 2.状态：未发现活跃订阅，无效的许可密钥</h3>
 <p>您需要从“⁠★⋅micah-bot-verify⋅★”处<a href="/zh/guide/key-use.html" target="blank">获取一个新密钥</a>，如果无法获取密钥或密钥无效，您必须等待密钥到期。</p>
 <p><code>赞助商可以使用 F:Reset Key 代替</code></p>
 <hr>
-<h3> [DLL注入] 进程崩溃，退出码为0xc000005</h3>
+<h3> 3.[DLL注入] 进程崩溃，退出码为0xc000005</h3>
 <p>以管理员身份打开命令提示符并输入以下命令：</p>
 <p><code>sfc /scannow</code></p>
 <p>之后，如果发现错误，请重新启动计算机并检查。
@@ -2414,27 +2416,27 @@ C1: 🟦 C2: ？ C3: 🟥 C4: 🟦 C5: 🟥 C6: 🟦</li>
 <p>检查完成后，重新启动计算机并检查。</p>
 <p>如果这样无法解决问题，请重新安装Windows。</p>
 <hr>
-<h3> ImGUI：DirectX11后端初始化成功。</h3>
+<h3> 4.ImGUI：DirectX11后端初始化成功。</h3>
 <p>错误是因为主题，清空主题文件夹。</p>
 <hr>
-<h3> 系统未检测到MSVCP140.dll</h3>
+<h3> 5.系统未检测到MSVCP140.dll</h3>
 <p>更新<a href="https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170#visual-studio-2015-2017-2019-and-2022" target="_blank" rel="noopener noreferrer">Microsoft Visual Studio C++</a></p>
 <p>更新<a href="https://www.microsoft.com/en-us/download/details.aspx?id=35" target="_blank" rel="noopener noreferrer">DirectX</a></p>
 <hr>
-<h3> 文件损坏！该程序已被篡改，可能已被感染。</h3>
+<h3> 6.文件损坏！该程序已被篡改，可能已被感染。</h3>
 <p><img src="/assets/images/docs/202312/virus2.png" alt="" loading="lazy"></p>
 <p>在这种情况下，您可以尝试使用<code>Malware Bytes</code>或<code>Dr.Web</code>进行全面扫描，如果发现任何病毒，请将其删除，然后重新启动并重试。如果这样也无效，则重新安装Windows是解决此问题的最简单方法。</p>
 <hr>
-<h3> 超时</h3>
+<h3> 7.超时</h3>
 <p><img src="/assets/images/docs/202312/error1.png" alt="" loading="lazy"></p>
 <p>重新启动路由器。
 关闭所有影响防火墙的应用程序。如果这些方法都无效，可能是您的网络出现了一些问题。
 某个防病毒软件可能正在阻止连接，请确保它不在任务管理器中运行。</p>
 <hr>
-<h3> DLL注入失败</h3>
+<h3> 8.DLL注入失败</h3>
 <p>卸载颜色选择器文件夹，然后重新下载颜色选择器。</p>
 <hr>
-<h3> Windows无法访问指定的设备、路径或文件</h3>
+<h3> 9.Windows无法访问指定的设备、路径或文件</h3>
 <p><img src="/assets/images/docs/202312/error2.png" alt="" loading="lazy"></p>
 <p>首先转到<a href="https://support.microsoft.com/en-us/topic/-windows-cannot-access-the-specified-device-path-or-file-error-when-you-try-to-install-update-or-start-a-program-or-file-46361133-47ed-6967-c13e-e75d3cc29657" target="_blank" rel="noopener noreferrer">此处</a>，并按照帖子中的步骤操作。</p>
 <p>在尝试上述解决方案后，下载一个防病毒软件并进行全系统检查！</p>
@@ -2445,22 +2447,22 @@ C1: 🟦 C2: ？ C3: 🟥 C4: 🟦 C5: 🟥 C6: 🟦</li>
 <p>检查完成后，重新启动计算机并检查。</p>
 <p>如果这样无法解决问题，请重新安装Windows。</p>
 <hr>
-<h3> 签名校验和失败</h3>
+<h3> 10.签名校验和失败</h3>
 <p><img src="/assets/images/docs/202312/checksum.png" alt="" loading="lazy"></p>
 <p>服务器宕机或已关闭，请等待服务器重新上线。</p>
 <hr>
-<h3> 无法创建游戏进程，出现错误5</h3>
+<h3> 11.无法创建游戏进程，出现错误5</h3>
 <p><img src="/assets/images/docs/202312/error3.png" alt="" loading="lazy"></p>
 <p>删除<code>cfg.ini</code>。</p>
 <hr>
-<h3> SSL连接错误</h3>
+<h3> 12.SSL连接错误</h3>
 <p><img src="/assets/images/docs/202312/error4.png" alt="" loading="lazy"></p>
 <p>重新启动您的计算机，重新启动您的路由器。</p>
 <p>如果没有用，尝试使用VPN。</p>
-<h3> 当前数据不存在或服务器错误</h3>
+<h3> 13.当前数据不存在或服务器错误</h3>
 <p><img src="/assets/images/docs/202312/error.png" alt="" loading="lazy"></p>
 <p>解除暂停您的卡蜜再试一次</p>
-<h3> 无法验证当前时间戳</h3>
+<h3> 14.无法验证当前时间戳</h3>
 <p><img src="/assets/images/docs/202402/timestamp.png" alt="" loading="lazy"></p>
 <p>情况一:</p>
 <ul>
@@ -2470,9 +2472,17 @@ C1: 🟦 C2: ？ C3: 🟥 C4: 🟦 C5: 🟥 C6: 🟦</li>
 <ul>
 <li>确定您的计算机时间是设定为自动同步</li>
 </ul>
-<div class="hint-container info">
-<p class="hint-container-title">If you are from Iran you might need to use a VPN instead.</p>
-</div>
+<h3> 15.为什么我的korpei打开后闪退</h3>
+<p>情况一：</p>
+<ul>
+<li>korepi的文件夹名称有中文或者其他符号，请改为英文路径。<span style="color:red;">例如：D:\korepi</span></li>
+<li>原神路径文件夹名称有中文或者其他符号，请改为英文路径。<span style="color:red;">例如：D:\Genshin Impact\Genshin Impact Game\GenshinImpact.exe</span></li>
+</ul>
+<p>情况二：</p>
+<ul>
+<li>电脑hosts文件缺失，如果C:\Windows\System32\drivers\etc中没有hosts文件，KP就无法运行，因此它是KP运行的必要条件。hosts文件路径：<span style="color:red;">C:\Windows\System32\drivers\etc</span>。</li>
+<li><a href="https://discord.com/channels/1069057220802781265/1158263313369677824/1221410399765659658" target="_blank" rel="noopener noreferrer">hosts下载</a> 如果无法通过链接进入，请在频道中频道和身分组哪里点击领取Chinese Ping身份，然后在点击上面的hosts下载。</li>
+</ul>
 ]]></content:encoded>
       <enclosure url="https://korepi.com/assets/images/docs/202312/virus.png" type="image/png"/>
     </item>
@@ -2611,6 +2621,11 @@ C1: 🟦 C2: ？ C3: 🟥 C4: 🟦 C5: 🟥 C6: 🟦</li>
 </ul>
 <h2> 上不了discord,谷歌等</h2>
 <p><a href="/zh/others/ap.html" target="blank">梯子推荐</a></p>
+<h2> 与bot交互失败</h2>
+<ul>
+<li>请在<a href="https://discord.com/channels/1069057220802781265/1075789470789546024" target="_blank" rel="noopener noreferrer">rule频道</a>点击verify验证，bot就不会显示交互失败。
+</li>
+</ul>
 ]]></content:encoded>
     </item>
     <item>
