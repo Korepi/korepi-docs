@@ -1,0 +1,2175 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="https://korepi.com/th/rss.xsl"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <atom:link href="https://korepi.com/th/rss.xml" rel="self" type="application/rss+xml"/>
+    <title>Korepi</title>
+    <link>https://korepi.com/th/</link>
+    <description>ความช่วยเหลือบน Korepi</description>
+    <language>th</language>
+    <pubDate>Wed, 19 Jun 2024 16:23:08 GMT</pubDate>
+    <lastBuildDate>Wed, 19 Jun 2024 16:23:08 GMT</lastBuildDate>
+    <generator>vuepress-plugin-feed2</generator>
+    <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+    <category>Features</category>
+    <category>Guide</category>
+    <category>Troubleshoot</category>
+    <category>FAQ</category>
+    <item>
+      <title>รายการคุณสมบัติ</title>
+      <link>https://korepi.com/th/features/</link>
+      <guid>https://korepi.com/th/features/</guid>
+      <source url="https://korepi.com/th/rss.xml">รายการคุณสมบัติ</source>
+      <category>Features</category>
+      <pubDate>Tue, 18 Jun 2024 11:02:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>ESP</title>
+      <link>https://korepi.com/th/features/esp.html</link>
+      <guid>https://korepi.com/th/features/esp.html</guid>
+      <source url="https://korepi.com/th/rss.xml">ESP</source>
+      <description>ESP สามารถทำให้ผู้เล่นติดตามและดูวัตถุที่เลือก ทะลุผ่านวัตถุอื่นๆได้จากฟิลเตอร์พร้อมเอฟเฟกต์ภาพที่ปรับแต่งได้ โน้ต: ระยะ, วัตถุ, การมองเห็น ทั้งหมดสามารถปรับแต่งได้ วีดีโอตัวอย่...</description>
+      <category>Features</category>
+      <pubDate>Tue, 18 Jun 2024 11:02:56 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> ESP สามารถทำให้ผู้เล่นติดตามและดูวัตถุที่เลือก ทะลุผ่านวัตถุอื่นๆได้จากฟิลเตอร์พร้อมเอฟเฟกต์ภาพที่ปรับแต่งได้</h2>
+<blockquote>
+<p>โน้ต: ระยะ, วัตถุ, การมองเห็น ทั้งหมดสามารถปรับแต่งได้</p>
+</blockquote>
+<h2> วีดีโอตัวอย่าง:</h2>
+<h3> เร็วๆนี้...</h3>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>ติดตั้งสกิน</title>
+      <link>https://korepi.com/th/guide/3DM-skin.html</link>
+      <guid>https://korepi.com/th/guide/3DM-skin.html</guid>
+      <source url="https://korepi.com/th/rss.xml">ติดตั้งสกิน</source>
+      <description>วิธีติดตั้งสกินแบบกำหนดเองใน GIMI ขั้นตอนที่ 1: ดาวน์โหลดสกิน เข้าไปที่ Gamebanana (https://gamebanana.com/games/8552) และดาวน์โหลดสกินที่คุณจะใช้ ขั้นตอนที่ 2: ติดตั้งสกิน เข้า...</description>
+      <category>Guide</category>
+      <pubDate>Tue, 18 Jun 2024 11:02:56 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> วิธีติดตั้งสกินแบบกำหนดเองใน <code>GIMI</code></h2>
+<h3> ขั้นตอนที่ 1: ดาวน์โหลดสกิน</h3>
+<p>เข้าไปที่ <a href="https://gamebanana.com/games/8552" target="_blank" rel="noopener noreferrer">Gamebanana</a> และดาวน์โหลดสกินที่คุณจะใช้</p>
+<h3> ขั้นตอนที่ 2: ติดตั้งสกิน</h3>
+<p>เข้าไปที่โฟลเดอร์ <code>GIMI</code> แล้วมองหาโฟลเดอร์ <code>Mods</code> ภายในโฟลเดอร์นั้น จากนั้นแตกไฟล์ที่เราเพิ่งดาวน์โหลดมาลงในโฟลเดอร์นี้</p>
+<h3> ขั้นตอนที่ 3: ใช้งานสกิน</h3>
+<p>หากคุณอยู่ในเกมอยู่แล้ว เราจะใช้ปุ่ม <code>F10</code> เพื่อโหลดสกินใหม่ ถ้าไม่ใช่เราจะเปิดเกมตาม <a href="/th/guide/3DM-tutorial.html" target="blank">โพสต์ล่าสุด</a> และสกินควรจะนำไปใช้</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>วิธีใช้สกินแบบกำหนดเอง</title>
+      <link>https://korepi.com/th/guide/3DM-tutorial.html</link>
+      <guid>https://korepi.com/th/guide/3DM-tutorial.html</guid>
+      <source url="https://korepi.com/th/rss.xml">วิธีใช้สกินแบบกำหนดเอง</source>
+      <description>หาก GIMI แสดง &amp;apos;echo off&amp;apos; บน cmd, คุณสามารถกด Numpad 0 เพื่อลบออกได้, และคุณยังสามารถปิดได้โดยการแก้ไข d3dx.iniและค้นหา hunting= และตั้งค่าเป็น 0 วิธีใช้สกินแบบกำหนดเองใน Korepi ...</description>
+      <category>Guide</category>
+      <pubDate>Tue, 18 Jun 2024 11:02:56 GMT</pubDate>
+      <content:encoded><![CDATA[<div class="hint-container info">
+<p class="hint-container-title">หาก GIMI แสดง 'echo off' บน cmd, คุณสามารถกด `Numpad 0` เพื่อลบออกได้, และคุณยังสามารถปิดได้โดยการแก้ไข `d3dx.ini`และค้นหา `hunting=` และตั้งค่าเป็น `0`</p>
+</div>
+<hr>
+<h2> วิธีใช้สกินแบบกำหนดเองใน Korepi</h2>
+<p><img src="/assets/images/docs/202312/example.png" alt="" loading="lazy">
+ในการที่จะใช้สกินแบบกำหนดเอง เราจะต้องดาวน์โหลด:</p>
+<p><code>3DMigoto(GIMI)</code>.</p>
+<h2> <span style="color:blue;">วิธีที่ 1</span></h2>
+<h3> ขั้นตอนที่ 1: ดาวน์โหลด <code>GIMI</code></h3>
+<p>ดาวน์โหลด <code>GIMI</code> ใน <a href="https://github.com/SilentNightSound/GI-Model-Importer/releases/tag/v7.0" target="_blank" rel="noopener noreferrer">Github</a> และดาวน์โหลดไฟล์ที่ชื่อ: <code>3dmigoto-GIMI-for-playing-mods.zip</code></p>
+<p><img src="/assets/images/docs/202312/3dm-1.png" alt="" loading="lazy"></p>
+<h3> ขั้นตอนที่ 2: แตกไฟล์ <code>GIMI</code> ลงในโฟลเดอร์</h3>
+<p>หลังจากดาวน์โหลด <code>GIMI</code> เราจะต้องแยกมันลงในโฟลเดอร์ที่คุณเลือก ภายในโฟลเดอร์นั้นคุณจะพบ <code>d3d11.dll</code> เราจะคัดลอกpathและเพิ่ม <code>/d3d11.dll</code> ที่ส่วนท้าย สำหรับตัวอย่าง:</p>
+<p><code>"path/d3d11.dll"</code></p>
+<h3> ขั้นตอนที่ 3: เพิ่ม <code>GIMI</code> ลงใน Korepi</h3>
+<p>ในการดำเนินการนี้ เราจะต้องเพิ่มบรรทัดถัดไปใน <code>cfg.ini</code> ภายในโฟลเดอร์ korepi</p>
+<p><img src="/assets/images/docs/202312/3dm-2.png" alt="" loading="lazy"></p>
+<p>ใน <code>DllPath</code> เราจะวางpathที่เราคัดลอกไว้ในขั้นตอนสุดท้าย</p>
+<p><img src="/assets/images/docs/202312/3dm-3.png" alt="" loading="lazy"></p>
+<h3> ขั้นตอนที่ 4: เปิด Korepi</h3>
+<p>หากคุณทำตามขั้นตอนถูกต้อง Korepi ควรเปิดด้วย <code>GIMI</code> ทุกครั้ง</p>
+<h2> <span style="color:blue;">วิธีที่ 2</span></h2>
+<h3> ขั้นตอนที่ 1: ดาวน์โหลด <code>GIMI</code></h3>
+<p>ดาวน์โหลด <code>GIMI</code> ใน <a href="https://github.com/SilentNightSound/GI-Model-Importer/releases/tag/v7.0" target="_blank" rel="noopener noreferrer">Github</a> และดาวน์โหลดไฟล์ที่ชื่อ: <code>3dmigoto-GIMI-for-playing-mods.zip</code></p>
+<p><img src="/assets/images/docs/202312/3dm-1.png" alt="" loading="lazy"></p>
+<h3> ขั้นตอนที่ 2: แตกไฟล์ <code>GIMI</code> ลงในโฟลเดอร์</h3>
+<p>หลังจากดาวน์โหลด <code>GIMI</code> แล้วแตกไฟล์ลงในโฟลเดอร์ที่คุณเลือก ภายในโฟลเดอร์นั้นคุณจะพบ <code>3DMigoto Loader.exe</code> เราจะRunไฟล์นี้ก่อน</p>
+<h3> ขั้นตอนที่ 4: เปิด Korepi</h3>
+<p>หลังจากRun <code>GIMI</code> แล้วเราจะRun <code>Korepi</code> ต่อ หลังจากนั้น <code>GIMI</code> จะถูกโหลดด้วย Korepi และคุณจะต้องทำซ้ำขั้นตอนเหล่านี้ทุกครั้งที่คุณต้องการเปิดใช้งาน Korepi ด้วย <code>GIMI</code></p>
+]]></content:encoded>
+      <enclosure url="https://korepi.com/assets/images/docs/202312/example.png" type="image/png"/>
+    </item>
+    <item>
+      <title>คู่มือ</title>
+      <link>https://korepi.com/th/guide/</link>
+      <guid>https://korepi.com/th/guide/</guid>
+      <source url="https://korepi.com/th/rss.xml">คู่มือ</source>
+      <category>Guide</category>
+      <pubDate>Tue, 18 Jun 2024 11:02:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>วิธีใช้เทเลพอร์ตแบบกำหนดเอง</title>
+      <link>https://korepi.com/th/guide/custom-tp-setting.html</link>
+      <guid>https://korepi.com/th/guide/custom-tp-setting.html</guid>
+      <source url="https://korepi.com/th/rss.xml">วิธีใช้เทเลพอร์ตแบบกำหนดเอง</source>
+      <description>วิธีใช้เทเลพอร์ตแบบกำหนดเอง ขั้นตอนที่ 1: การตั้งค่าที่จะใช้ เราจะใช้การตั้งค่าต่อไปนี้ แนะนำให้ใช้ดีเลย์ &amp;gt;15s. ขั้นตอนที่ 2: ดาวน์โหลดไฟล์ .json สำหรับการเทเลพอร์ตแบบกำหนดเอง เ...</description>
+      <category>Guide</category>
+      <pubDate>Tue, 18 Jun 2024 11:02:56 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> วิธีใช้เทเลพอร์ตแบบกำหนดเอง</h2>
+<h3> ขั้นตอนที่ 1: การตั้งค่าที่จะใช้</h3>
+<p>เราจะใช้การตั้งค่าต่อไปนี้</p>
+<p><img src="/assets/images/docs/202312/teleport1.png" alt="" loading="lazy"></p>
+<p>แนะนำให้ใช้ดีเลย์ &gt;15s.</p>
+<h3> ขั้นตอนที่ 2: ดาวน์โหลดไฟล์ <code>.json</code> สำหรับการเทเลพอร์ตแบบกำหนดเอง</h3>
+<p>เราสามารถค้นหาไฟล์เหล่านี้ได้ในโพสต์ปักหมุด <code>community-share</code> ในเซิร์ฟเวอร์และดาวน์โหลดสิ่งที่ตรงกับความต้องการของคุณ</p>
+<h3> ขั้นตอนที่ 3: เลือกไฟล์เทเลพอร์ต</h3>
+<p>ไปที่การตั้งค่าเทเลพอร์ตแบบกำหนดเองแล้วไปที่ส่วนนี้:</p>
+<p><img src="/assets/images/docs/202312/teleport2.png" alt="" loading="lazy"></p>
+<p>คลิกที่ Path และเลือกโฟลเดอร์ที่มีไฟล์เทเลพอร์ตที่คุณต้องการใช้</p>
+<h3> ขั้นตอนที่ 4: วิธีเริ่มเทเลพอร์ต</h3>
+<p>หลังจากเลือกโฟลเดอร์แล้ว ให้ทำเครื่องหมายในช่องนี้:</p>
+<p><img src="/assets/images/docs/202312/teleport3.png" alt="" loading="lazy"></p>
+<p>หลังจากนั้นกดคลิกที่ <code>เลือก</code>:</p>
+<p><img src="/assets/images/docs/202312/teleport4.png" alt="" loading="lazy"></p>
+<h3> ขั้นตอนที่ 5: เพลิดเพลินกับการเดินทาง</h3>
+<p>การเทเลพอร์ตจะเริ่มต้นโดยอัตโนมัติ, ถ้าคุณมี <a href="/th/start/sponsor.html" target="blank">Sponsor</a>, คุณจะสามารถดูความคืบหน้าและเวลาที่เหลืออยู่ได้</p>
+<h2> วีดีโอตัวอย่าง</h2>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/1ft6xYr2EmM" title="Part 1 - How to Use 'Custom Teleports' in Colorpicker or Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+]]></content:encoded>
+      <enclosure url="https://korepi.com/assets/images/docs/202312/teleport1.png" type="image/png"/>
+    </item>
+    <item>
+      <title>เวอร์ชันฟรี</title>
+      <link>https://korepi.com/th/guide/free.html</link>
+      <guid>https://korepi.com/th/guide/free.html</guid>
+      <source url="https://korepi.com/th/rss.xml">เวอร์ชันฟรี</source>
+      <description>วิธีรับคีย์ฟรีสำหรับ Korepi ขั้นตอนที่ 1: หาช่อง 🔑 | micah-bot-verify (https://discord.com/channels/1069057220802781265/1203687333107335198) หรือหากใช้ไม่ได้ ให้ใช้ verify-bak ...</description>
+      <category>Guide</category>
+      <pubDate>Tue, 18 Jun 2024 11:02:56 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> วิธีรับคีย์ฟรีสำหรับ Korepi</h2>
+<div class="iframe-container"><iframe width="1328" height="747" src="https://www.youtube.com/embed/kydnZ0QR2eQ" title="How to Update Korepi and How to Renew the Key" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
+<h3> ขั้นตอนที่ 1:</h3>
+<ul>
+<li>
+<p>หาช่อง <a href="https://discord.com/channels/1069057220802781265/1203687333107335198" target="_blank" rel="noopener noreferrer"><code>🔑 | micah-bot-verify</code></a> หรือหากใช้ไม่ได้ ให้ใช้ <a href="https://discord.com/channels/1069057220802781265/1238877451174678558" target="_blank" rel="noopener noreferrer"><code>verify-bak</code></a></p>
+<p><img src="/assets/images/docs/202402/verify-1.png" alt="img.png" loading="lazy"></p>
+</li>
+<li>
+<p>หาข้อความที่ส่งโดย Micah-bot หรือ Micah-verify-bot-bak</p>
+</li>
+</ul>
+<h3> ขั้นตอนที่ 2:</h3>
+<p>กดที่ <code>Bind free card</code>, ทำตามลิงก์ที่ให้โดยบอทหลังจากคลิกแล้ว ดูโฆษณาและข้ามไป</p>
+<h3> Step 3:</h3>
+<p>หากข้อความBindขึ้นว่า <code>Success</code> แสดงว่าคุณรับคีย์ฟรีสำเร็จแล้ว, ถ้าไม่ให้เริ่มใหม่ตั้งแต่ขั้งตอนที่ 1</p>
+<p><img src="/assets/images/docs/202312/success.png" alt="" loading="lazy"></p>
+<h3> ขั้นตอนที่ 4:</h3>
+<div class="hint-container info">
+<p class="hint-container-title">หากคุณมี enc.json อยู่แล้วให้ลบออกก่อนที่จะเปิดโปรแกรม</p>
+</div>
+<p>เปิดโปรแกรมเพื่อรับ<code>HWID</code>ของคุณ, หลังจากนั้นไปที่ <a href="https://discord.com/channels/1069057220802781265/1203687333107335198" target="_blank" rel="noopener noreferrer"><code>🔑 | micah-bot-verify</code></a> หรือ <a href="https://discord.com/channels/1069057220802781265/1238877451174678558" target="_blank" rel="noopener noreferrer"><code>verify-bak</code></a> อีกครั้ง และกดที่ <code>Get verification file</code> และวาง<code>HWID</code>ของคุณ</p>
+<p>หลังจากคลิกส่ง คุณจะได้รับไฟล์จากบอท ให้ดาวน์โหลดและวางลงในโฟลเดอร์ Korepi ของคุณ ตรวจสอบให้แน่ใจว่าชื่อเป็น <code>enc.json</code></p>
+<h3> ขั้นตอนที่ 5:</h3>
+<p>เปิดโปรแกรมอีกครั้งและเลือกPathที่อยู่เกมของคุณหากยังไม่ได้แลือก หลังจากนั้น Korepi จะเปิดตัวเกมและInjectเข้าไปเอง</p>
+<p>ขอให้สนุกกับ Korepi!</p>
+]]></content:encoded>
+      <enclosure url="https://korepi.com/assets/images/docs/202402/verify-1.png" type="image/png"/>
+    </item>
+    <item>
+      <title>วิธีการยืนยันตัวตน</title>
+      <link>https://korepi.com/th/guide/getkey.html</link>
+      <guid>https://korepi.com/th/guide/getkey.html</guid>
+      <source url="https://korepi.com/th/rss.xml">วิธีการยืนยันตัวตน</source>
+      <description>วิธีการยืนยันตัวตน หากคุณมีการสมัครสมาชิกที่ใช้งานอยู่, อย่า Bind การ์ดอื่นๆ มิฉะนั้นคุณจะสูญเสียการสมัครสมาชิกปัจจุบันของคุณ หากคุณ bind การ์ดอื่นๆแล้ว คุณจะไม่สามารถรับการ์ด s...</description>
+      <category>Guide</category>
+      <pubDate>Tue, 18 Jun 2024 11:02:56 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> วิธีการยืนยันตัวตน</h2>
+<div class="iframe-container"><iframe width="1280" height="720" src="https://www.youtube.com/embed/ST9akMsGJog" title="How to activate your key - Korepi" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
+<div class="hint-container danger">
+<p class="hint-container-title">หากคุณมีการสมัครสมาชิกที่ใช้งานอยู่, อย่า Bind การ์ดอื่นๆ มิฉะนั้นคุณจะสูญเสียการสมัครสมาชิกปัจจุบันของคุณ หากคุณ bind การ์ดอื่นๆแล้ว คุณจะไม่สามารถรับการ์ด sponsor ได้อีก</p>
+</div>
+<h3> ขั้นตอนที่ 1:</h3>
+<ul>
+<li>
+<p>หาช่อง <a href="https://discord.com/channels/1069057220802781265/1203687333107335198" target="_blank" rel="noopener noreferrer"><code>🔑 | micah-bot-verify</code></a> หรือหากใช้ไม่ได้ ให้ใช้ <a href="https://discord.com/channels/1069057220802781265/1238877451174678558" target="_blank" rel="noopener noreferrer"><code>verify-bak</code></a></p>
+<p><img src="/assets/images/docs/202402/verify-1.png" alt="img.png" loading="lazy"></p>
+</li>
+<li>
+<p>หาข้อความที่ส่งโดย Micah-bot หรือ Micah-verify-bot-bak</p>
+</li>
+</ul>
+<h3> Step 2:</h3>
+<p>สำหรับเวอร์ชันฟรีทำตาม<a href="/th/guide/free.html" target="blank">ลิงค์นี้</a></p>
+<div class="hint-container tip">
+<p class="hint-container-title">หากคุณมีการสมัครสมาชิกที่ใช้งานอยู่, กรุณากดที่ stack card แทน, เพื่อรวมเข้ากับการสมัครปัจจุบันของคุณ</p>
+</div>
+<p>หากคุณซื้อคีย์จากตัวแทนจำหน่าย, คลิกที่ <code>bind card str</code> และวางคีย์ของคุณ</p>
+<h3> ขั้นตอนที่ 3:</h3>
+<div class="hint-container info">
+<p class="hint-container-title">หากคุณมี enc.json อยู่แล้วให้ลบออกก่อนที่จะเปิดโปรแกรม</p>
+</div>
+<p>เปิดโปรแกรมเพื่อรับ<code>HWID</code>ของคุณ, หลังจากนั้นไปที่ <a href="https://discord.com/channels/1069057220802781265/1203687333107335198" target="_blank" rel="noopener noreferrer"><code>🔑 | micah-bot-verify</code></a> หรือ <a href="https://discord.com/channels/1069057220802781265/1238877451174678558" target="_blank" rel="noopener noreferrer"><code>verify-bak</code></a> อีกครั้ง และกดที่ <code>Get verification file</code> และวาง<code>HWID</code>ของคุณ
+หลังจากคลิกส่ง คุณจะได้รับไฟล์จากบอท ให้ดาวน์โหลดและวางลงในโฟลเดอร์ Korepi ของคุณ ตรวจสอบให้แน่ใจว่าชื่อเป็น <code>enc.json</code></p>
+<p>คุณยังสามารถกด <code>View Subscription Information</code> เพื่อดูข้อมูลการสมัครสมาชิกของคุณ</p>
+<h2> วิธีพักคีย์ชั่วคราว</h2>
+<p>กดที่ <code>Pause Card</code> และพิมพ์ <code>YES</code> เพื่อพักคีย์ชั่วคราว. คุณสามารถยกเลิกพักชั่วคราวได้ตลอดเวลาและการสมัครของคุณจะดำเนินต่อไป</p>
+<div class="hint-container info">
+<p class="hint-container-title">คุณสามารถหยุดคีย์ชั่วคราวได้ทุกๆ 30 วันเท่านั้น</p>
+</div>
+<h2> วิธีการเปลี่ยน HWID (Device ID)</h2>
+<p>กดที่ <code>ID(Change HWID)</code>, และวาง <code>HWID</code> อันใหม่ที่คุณได้จากการเปิดโปรแกรม, หลังจากนั้นดาวน์โหลดไฟล์ใหม่และวางลงในโฟลเดอร์ Korepi ของคุณ</p>
+<div class="hint-container info">
+<p class="hint-container-title">คุณสามารถรีเซ็ต HWID ได้ทุกๆ 7 วันเท่านั้น</p>
+</div>
+<h2> ปัญหาการยืนยัน MD5</h2>
+<p>ทุกครั้งที่คุณได้รับ <code>enc.json</code> อีกครั้ง, ไฟล์ <code>enc.json</code> อันเก่าจะเสียในทันที</p>
+<p>หากอันใหม่ยังใช้ไม่ได้, กรุณารับไฟล์อีกครั้ง. หากยังไม่ได้อีกให้รอสักครู่แล้วลองอีกครั้ง</p>
+]]></content:encoded>
+      <enclosure url="https://korepi.com/assets/images/docs/202402/verify-1.png" type="image/png"/>
+    </item>
+    <item>
+      <title>วิธีทำหลายinstance</title>
+      <link>https://korepi.com/th/guide/multi-instance.html</link>
+      <guid>https://korepi.com/th/guide/multi-instance.html</guid>
+      <source url="https://korepi.com/th/rss.xml">วิธีทำหลายinstance</source>
+      <description>วิธีทำหลายinstance (เปิด 2 หน้าต่างเกมพร้อมกัน) ใช้งานได้กับเวอร์ชัน Local(V) เท่านั้น</description>
+      <category>Guide</category>
+      <pubDate>Tue, 18 Jun 2024 11:02:56 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> วิธีทำหลายinstance (เปิด 2 หน้าต่างเกมพร้อมกัน)</h2>
+<div class="hint-container info">
+<p class="hint-container-title">ใช้งานได้กับเวอร์ชัน Local(V) เท่านั้น</p>
+</div>
+<hr>
+<div class="iframe-container"><iframe width="1328" height="747" src="https://www.youtube.com/embed/pSAxKoneT64?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Multi-Instance V (Updated)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>จะซื้อได้ที่ไหน</title>
+      <link>https://korepi.com/th/guide/seller.html</link>
+      <guid>https://korepi.com/th/guide/seller.html</guid>
+      <source url="https://korepi.com/th/rss.xml">จะซื้อได้ที่ไหน</source>
+      <description>ฉันจะซื้อเวอร์ชัน PERTAMAX ได้ที่ไหน คุณสามารถค้นหาผู้ขายอย่างเป็นทางการได้บนเซิร์ฟเวอร์ Discord ของเรา คุณสามารถค้นหาสกุลเงินที่เหมาะกับคุณได้ใน 🔑｜buy-pertamax (https://discor...</description>
+      <category>Guide</category>
+      <pubDate>Tue, 18 Jun 2024 11:02:56 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> ฉันจะซื้อเวอร์ชัน PERTAMAX ได้ที่ไหน</h2>
+<p>คุณสามารถค้นหาผู้ขายอย่างเป็นทางการได้บนเซิร์ฟเวอร์ Discord ของเรา</p>
+<ul>
+<li>คุณสามารถค้นหาสกุลเงินที่เหมาะกับคุณได้ใน <a href="https://discord.com/channels/1069057220802781265/1204755981834129439" target="_blank" rel="noopener noreferrer">🔑｜buy-pertamax</a>.</li>
+<li>หากคุณไม่พบสกุลเงินของคุณ คุณสามารถซื้อจากผู้ขายแบบ Global(USD)</li>
+<li>หากคุณไม่พบวิธีการชำระเงินที่เหมาะกับคุณ คุณสามารถสอบถามได้ที่ <a href="https://discord.com/channels/1069057220802781265/1205143920577880074" target="_blank" rel="noopener noreferrer">chat-sellar</a>, และผู้ขายจะให้ความช่วยเหลือคุณหากเป็นไปได้</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>วิธีเพิ่มรายการยกเว้น(Exclusion list)</title>
+      <link>https://korepi.com/th/guide/virus.html</link>
+      <guid>https://korepi.com/th/guide/virus.html</guid>
+      <source url="https://korepi.com/th/rss.xml">วิธีเพิ่มรายการยกเว้น(Exclusion list)</source>
+      <description>โปรแกรมป้องกันไวรัสอื่นๆ ก็มีขั้นตอนคล้ายกัน โดยจะปรับตามโปรแกรมป้องกันไวรัสที่คุณใช้ วิธีเพิ่ม Korepi เข้าในรายการยกเว้น(Exclusion list)ของโปรแกรมป้องกันไวรัส (Windows Defender...</description>
+      <category>Guide</category>
+      <pubDate>Tue, 18 Jun 2024 11:02:56 GMT</pubDate>
+      <content:encoded><![CDATA[<div class="hint-container info">
+<p class="hint-container-title">โปรแกรมป้องกันไวรัสอื่นๆ ก็มีขั้นตอนคล้ายกัน โดยจะปรับตามโปรแกรมป้องกันไวรัสที่คุณใช้</p>
+</div>
+<hr>
+<h2> วิธีเพิ่ม Korepi เข้าในรายการยกเว้น(Exclusion list)ของโปรแกรมป้องกันไวรัส (Windows Defender)</h2>
+<h3> ขั้นตอนที่ 1: เปิดโปรแกรมป้องกันไวรัส</h3>
+<p>เปิดแถบค้นหาของ Windows และค้นหา <code>Windows Security</code> แล้วเปิดขึ้นมา</p>
+<p><img src="/assets/images/docs/202312/security.png" alt="" loading="lazy"></p>
+<p>และกดที่ <code>การป้องกันไวรัสและภัยคุกคาม</code> / <code>Virus &amp; threat protection</code></p>
+<p><img src="/assets/images/docs/202312/virus1.png" alt="" loading="lazy"></p>
+<p>จากนั้นเลื่อนไปจนพบ <code>การตั้งค่าการป้องกันไวรัสและภัยคุกคาม</code> / <code>Virus &amp; threat protection</code> และกดที่ <code>จัดการการตั้งค่า</code> / <code>Manage settings</code></p>
+<p><img src="/assets/images/docs/202312/virus3.png" alt="" loading="lazy"></p>
+<h3> ขั้นตอนที่ 2: การเพิ่มลงในรายการยกเว้น(Exclusion list)</h3>
+<p>หลังจากทำตามขั้นตอนสุดท้ายแล้วเราจะเลื่อนไปจนพบ <code>รายการยกเว้น</code> / <code>Exclusion list</code> แล้ว ให้กดที่ <code>เพิ่มหรือลบรายการยกเว้น</code> / <code>Add or remove exclusions</code>.</p>
+<p><img src="/assets/images/docs/202312/virus4.png" alt="" loading="lazy"></p>
+<p>กดใช้ที่หน้าต่าง popup, หลังจากนั้นกดที่ <code>เพิ่มหรือลบรายการยกเว้น</code> / <code>Add or remove exclusions</code> และเลือกโฟลเดอร์ Korepi</p>
+<h2> วีดีโอตัวอย่าง</h2>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/BonLkFNnO9w" title="How to Exclude a File or Folder from Windows Defender Scan In Windows 10 [Tutorial]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+]]></content:encoded>
+      <enclosure url="https://korepi.com/assets/images/docs/202312/security.png" type="image/png"/>
+    </item>
+    <item>
+      <title>แคตตาล็อก</title>
+      <link>https://korepi.com/th/start/</link>
+      <guid>https://korepi.com/th/start/</guid>
+      <source url="https://korepi.com/th/rss.xml">แคตตาล็อก</source>
+      <category>Guide</category>
+      <pubDate>Tue, 18 Jun 2024 11:02:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>ความแตกต่างระหว่างเวอร์ชัน</title>
+      <link>https://korepi.com/th/start/differences.html</link>
+      <guid>https://korepi.com/th/start/differences.html</guid>
+      <source url="https://korepi.com/th/rss.xml">ความแตกต่างระหว่างเวอร์ชัน</source>
+      <description>คุณสมบัติที่มีระหว่างเวอร์ชัน เวอร์ชัน ฟรี Sponsor PERTAMAX ---------------------------- ----------------------------------- ----------------------------------- ----------------...</description>
+      <category>Guide</category>
+      <pubDate>Tue, 18 Jun 2024 11:02:56 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> คุณสมบัติที่มีระหว่างเวอร์ชัน</h2>
+<table>
+<thead>
+<tr>
+<th>เวอร์ชัน</th>
+<th>ฟรี</th>
+<th>Sponsor</th>
+<th>PERTAMAX</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>เอฟเฟกต์การโจมตี</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>วิ่งอัตโนมัติ</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>คูลดาวน์เอฟเฟกต์</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>ควบคุมการตก</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>โหมดอมตะ</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Staminaไม่จำกัด</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>No-Clip</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>ความเร็วผู้เล่น</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Challenge อัตโนมัติ</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Loot ของอัตโนมัติ</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Seelie อัตโนมัติ</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>ศัตรูโง่</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>การมองเห็นธาตุ</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>ESP</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>แช่แข็ง ศัตรู</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>ความเร็วเกม</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>เปิดตั้งค่าทีมทันที</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>ข้ามแอนิเมชั่น Enhance ทันที</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>เทเลพอร์ตไปหากล่อง</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>0culi เทเลพอร์ต</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>แผนที่เทเลพอร์ต</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>เทเลพอร์ตภารกิจ</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>เทเลพอร์ตแบบกำหนดเอง</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>แผนที่โต้ตอบ</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>ซูมกล้อง</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>ตัวเปลี่ยน Fov</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>ตัวชี้หีบสมบัติ</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>ตัวถอดการเซ็นเซอร์</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>ปลดล็อก FPS</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>ซ่อน UI</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>ซูมแผนที่</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>ไม่มีหมอก</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>ไม่มีหญ้า</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>ไม่มีหมอกในแผนที่</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Paimon ติดตาม</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>เปลี่ยนโปรไฟล์</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>คุยอัตโนมัติ</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>ข้ามบทสนทนา</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>เปิดเสาเทเลพอร์ตอัตโนมัติ</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>ตัวปรับอัตราคริติคอล</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Dolphin Dive</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Aura ธาตุ</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>การเคลื่อนไหวเพิ่มเติม</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>การตั้งค่าการมองเห็นพิเศษ</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>ปลอมแปลงเวลา</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>กล้องอิสระ</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>ไอคอน GM</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>เปลี่ยนมอนสเตอร์</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>ไม่มีกล้องเบลอ</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>ไม่มีกล้องสั่น</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>ไม่มีรอยเท้า</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>ไม่มีแอนิเมชั่นอันติ</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Debug</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>เปลี่ยนแอนิเมชั่น</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>ทำอาหารอัตโนมัติ</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>ทำลายวัตถุอัตโนมัติ</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>ฟาร์มต้นไม้อัตโนมัติ</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>ตัวแก้ไขกลุ่มดาว</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>สภาพอากาศที่กำหนดเอง</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>เปลี่ยนอารมณ์</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>ปรับแต่งสกินเครื่องร่อน</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Kill Aura</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>ตัวจัดการแผนที่</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>การดูดMobs</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>ยูทิลิตี้ระยะไกล</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>การดูดLoot</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>ตัวปรับแต่งสกิน</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>แก้ puzzle อัตโนมัติ</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+</tbody>
+</table>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>ดาวน์โหลด</title>
+      <link>https://korepi.com/th/start/download.html</link>
+      <guid>https://korepi.com/th/start/download.html</guid>
+      <source url="https://korepi.com/th/rss.xml">ดาวน์โหลด</source>
+      <description>เกริ่นนำ ยินดีต้อนรับสู่ชุมชนของเรา! หากต้องการผ่านการตรวจสอบบอทและรับบทบาท Newcomer ให้ทำตามขั้นตอนเหล่านี้ ขั้นตอนที่ 1: เข้าร่วมเซิร์ฟเวอร์ของเราและรับบทบาท Newcomer หากคุณยั...</description>
+      <category>Guide</category>
+      <pubDate>Tue, 18 Jun 2024 11:02:56 GMT</pubDate>
+      <content:encoded><![CDATA[<h1> ดาวน์โหลด</h1>
+<p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/HFYfj2E25cFYnYC/preview"><source src="https://nextcloud.atruicardona.xyz/s/HFYfj2E25cFYnYC/download" type="video/mp4"></video></p>
+<h2> เกริ่นนำ</h2>
+<p>ยินดีต้อนรับสู่ชุมชนของเรา! หากต้องการผ่านการตรวจสอบบอทและรับบทบาท <code>Newcomer</code> ให้ทำตามขั้นตอนเหล่านี้</p>
+<h3> ขั้นตอนที่ 1: เข้าร่วมเซิร์ฟเวอร์ของเราและรับบทบาท <code>Newcomer</code></h3>
+<p>หากคุณยังไม่ได้เข้าร่วมเซิร์ฟเวอร์ โปรดอ่านโพสต์การยืนยัน ซึ่งอธิบายวิธีการเข้าร่วมเซิร์ฟเวอร์และรับบทบาท <code>Newcomer</code></p>
+<h3> ขั้นตอนที่ 2: ไปที่ช่อง <code>📂 | korepi-download</code></h3>
+<p>หาช่อง <code>📂 | korepi-download</code> และทำตามลิงค์เพื่อดาวน์โหลดโปรแกรม</p>
+<h3> ขั้นตอนที่ 3: พร้อมใช้งาน!</h3>
+<p>วาง .zip ไฟล์ในโฟลเดอร์ และเพิ่มโฟลเดอร์ไปใน<a href="/th/guide/virus.html" target="blank">รายการยกเว้น(Exclusion list)</a> ที่โปรแกรมป้องกันไวรัส, หลังจากนั้นแตกไฟล์และทำตามขั้นตอน<a href="/th/guide/getkey.html" target="blank">ขั้นตอนที่นี้</a></p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>การเข้าร่วมเซิร์ฟเวอร์</title>
+      <link>https://korepi.com/th/start/join.html</link>
+      <guid>https://korepi.com/th/start/join.html</guid>
+      <source url="https://korepi.com/th/rss.xml">การเข้าร่วมเซิร์ฟเวอร์</source>
+      <description>เกริ่นนำ ยินดีต้อนรับสู่ชุมชนของเรา! หากต้องการเข้าร่วมเซิร์ฟเวอร์ Discord และเริ่มใช้ Korepi ให้ทำตามขั้นตอนเหล่านี้ ขั้นตอนที่ 1: สร้างบัญชี Discord ถ้าคุณยังไม่มีบัญชี Discor...</description>
+      <category>Guide</category>
+      <pubDate>Tue, 18 Jun 2024 11:02:56 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> เกริ่นนำ</h2>
+<p>ยินดีต้อนรับสู่ชุมชนของเรา! หากต้องการเข้าร่วมเซิร์ฟเวอร์ Discord และเริ่มใช้ Korepi ให้ทำตามขั้นตอนเหล่านี้</p>
+<h3> ขั้นตอนที่ 1: สร้างบัญชี Discord</h3>
+<p>ถ้าคุณยังไม่มีบัญชี Discord, เริ่มต้นด้วยการสร้างอันใหม่ โดยเข้าไปที่ <a href="https://discord.com/" target="_blank" rel="noopener noreferrer">official Discord website</a> และทำตามขั้นตอนในการลงทะเบียน</p>
+<h3> ขั้นตอนที่ 2: ดาวน์โหลดและติดตั้ง Discord</h3>
+<p>หลังจากสร้างบัญชีแล้ว, ให้ดาวน์โหลด <a href="https://discord.com/download" target="_blank" rel="noopener noreferrer">Discord client</a> สำหรับระบบปฏิบัติการของคุณ ติดตั้งไคลเอนต์โดยทำตามคำแนะนำบนหน้าจอ</p>
+<h3> ขั้นตอนที่ 3: เข้าร่วมเซิร์ฟเวอร์</h3>
+<p><a href="https://discord.gg/cottonbuds" target="_blank" rel="noopener noreferrer">กดที่นี้เพื่อเข้าร่วมเซิร์ฟเวอร์</a></p>
+<p>หากลิงก์คำเชิญไม่ถูกต้อง เซิร์ฟเวอร์อาจปิดชั่วคราว กรุณารอให้มันเปิดอีกครั้ง ตอนนี้คุณสามารถไปยังขั้นตอนต่อไปได้</p>
+<p>///// ทำไม่เราต้องมีหน้านี้ด้วยเนี้ยยยย</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>การเป็นSponsor</title>
+      <link>https://korepi.com/th/start/sponsor.html</link>
+      <guid>https://korepi.com/th/start/sponsor.html</guid>
+      <source url="https://korepi.com/th/rss.xml">การเป็นSponsor</source>
+      <description>Sponsors เป็นบทบาทเก่าที่ไม่สามารถรับได้อีกแล้ว, ผู้ที่มีบทบาทนี้มีสิทธิ์ได้รับฟังก์ชันพิเศษในซอฟต์แวร์โดยไม่ต้องจ่ายเงินอีก, พวกเขายังได้รับสิทธิพิเศษเพิ่มเติมในเซิร์ฟเวอร์/ซอฟ...</description>
+      <category>Guide</category>
+      <pubDate>Tue, 18 Jun 2024 11:02:56 GMT</pubDate>
+      <content:encoded><![CDATA[<ul>
+<li>Sponsors เป็นบทบาทเก่าที่ไม่สามารถรับได้อีกแล้ว, ผู้ที่มีบทบาทนี้มีสิทธิ์ได้รับฟังก์ชันพิเศษในซอฟต์แวร์โดยไม่ต้องจ่ายเงินอีก, พวกเขายังได้รับสิทธิพิเศษเพิ่มเติมในเซิร์ฟเวอร์/ซอฟต์แวร์อีกด้วย, <a href="/th/start/differences.html" target="blank">ความแตกต่าง</a></li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>ยืนยันตัวตน</title>
+      <link>https://korepi.com/th/start/verify.html</link>
+      <guid>https://korepi.com/th/start/verify.html</guid>
+      <source url="https://korepi.com/th/rss.xml">ยืนยันตัวตน</source>
+      <description>เกริ่นนำ ยินดีต้อนรับสู่ชุมชนของเรา! หากต้องการผ่านการตรวจสอบบอทและรับบทบาท Newcomer ให้ทำตามขั้นตอนเหล่านี้ ขั้นตอนที่ 1: เข้าร่วมเซิร์ฟเวอร์ของเรา หากคุณยังไม่ได้เข้าร่วม หากค...</description>
+      <category>Guide</category>
+      <pubDate>Tue, 18 Jun 2024 11:02:56 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> เกริ่นนำ</h2>
+<p>ยินดีต้อนรับสู่ชุมชนของเรา! หากต้องการผ่านการตรวจสอบบอทและรับบทบาท <code>Newcomer</code> ให้ทำตามขั้นตอนเหล่านี้</p>
+<h3> ขั้นตอนที่ 1: เข้าร่วมเซิร์ฟเวอร์ของเรา หากคุณยังไม่ได้เข้าร่วม</h3>
+<p>หากคุณยังไม่ได้อยู่ในเซิร์ฟเวอร์ของเรา, โปรดอ่าน<a href="/th/start/join.html" target="blank">โพสต์ก่อนหน้านี้</a> ซึ่งมีคำอธิบายวิธีการเข้าร่วมเซิร์ฟเวอร์</p>
+<h3> ขั้นตอนที่ 2: ถ้าคุณอยู่ในเซิร์ฟเวอร์แล้ว</h3>
+<p>ตอนนี้คุณอยู่ในเซิร์ฟเวอร์แล้ว ให้ไปที่ช่อง <a href="https://discord.com/channels/1069057220802781265/1075789470789546024" target="_blank" rel="noopener noreferrer">📌 | rules</a></p>
+<h3> ขั้นตอนที่ 3: ช่อง 📌 | rule</h3>
+<p>ในช่องกฎ ให้ทำความคุ้นเคยกับกฎและเข้ารับการตรวจสอบเพื่อยืนยันว่าคุณไม่ใช่บอท ค้นหาปุ่ม "Verify" และคลิกที่มัน จากนั้นบอทจะส่งลิงก์ที่คุณต้องกดตามและยืนยันว่าคุณไม่ใช่บอท</p>
+<h3> ขั้นตอนที่ 4: หลังจากได้รับบทบาท "Newcomer" แล้ว</h3>
+<p>หลังจากการยืนยันสำเร็จ บอทจะให้บทบาท "Newcomer" ให้กับคุณ ด้วยบทบาทนี้ คุณจะไม่ถูกเตะโดยบอทโดยไม่มีเหตุผลอันสมควร</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>ข้อผิดพลาด 31-4302</title>
+      <link>https://korepi.com/th/troubleshoot/31-4302.html</link>
+      <guid>https://korepi.com/th/troubleshoot/31-4302.html</guid>
+      <source url="https://korepi.com/th/rss.xml">ข้อผิดพลาด 31-4302</source>
+      <description>วิธีการแก้ไขข้อผิดพลาด 31-4302 วิธีที่ 1 หากโฟลเดอร์เกมของคุณมีไฟล์ที่ไม่ใช่ต้นฉบับ ข้อความนี้อาจปรากฏขึ้นสำหรับคุณ ตรวจสอบว่ามีเพียงไฟล์ต้นฉบับตามตัวอย่างดังต่อไปนี้: หากคุณยัง...</description>
+      <category>Guide</category>
+      <pubDate>Tue, 18 Jun 2024 11:02:56 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> วิธีการแก้ไขข้อผิดพลาด <code>31-4302</code></h2>
+<p><img src="/assets/images/docs/202312/31-4302.png" alt="" loading="lazy"></p>
+<h3> วิธีที่ 1</h3>
+<p>หากโฟลเดอร์เกมของคุณมีไฟล์ที่ไม่ใช่ต้นฉบับ ข้อความนี้อาจปรากฏขึ้นสำหรับคุณ ตรวจสอบว่ามีเพียงไฟล์ต้นฉบับตามตัวอย่างดังต่อไปนี้:</p>
+<p><img src="/assets/images/docs/202312/launcher.png" alt="" loading="lazy"></p>
+<p><img src="/assets/images/docs/202312/folder1.png" alt="" loading="lazy"></p>
+<p>หากคุณยังคงได้รับข้อผิดพลาดในเกมแม้ว่าจะลบไฟล์ไปแล้ว โปรดอ่านต่อ</p>
+<h3> วิธีที่ 2</h3>
+<p>ไปที่ Korepi แล้วไปที่ "การตั้งค่า --&gt; อื่นๆ"</p>
+<p><img src="/assets/images/docs/202312/settings1.png" alt="" loading="lazy"></p>
+<p>หา <code>Bypass Intengrity</code> และกดเช็กออก</p>
+<p><img src="/assets/images/docs/202312/settings2.png" alt="" loading="lazy"></p>
+<p>และข้อผิดพลาดควรจะหายไป</p>
+<h2> ถ้าหากฉันไม่สามารถเข้า Korepi ได้</h2>
+<p>ไปที่โฟลเดอร์ Korepi ของคุณแล้วหา <code>cfg.json</code>, และกด <code>CTRL + F</code>, พิมพ์ <code>bypass</code> และค้นหา , แล้วตั้งค่าเป็น "false" และเปิด Korepi</p>
+<h3> วิธีที่ 3</h3>
+<p>ไปที่ game launcher และกดที่ repair files หลังจากนั้นเข้าเกมโดยไม่ใช้ Korepi หากทุกอย่างใช้ได้ปกติ, ลองเปิดด้วย Korepi อีกครั้ง</p>
+<h2> หากใช้งานไม่ได้สักอย่าง</h2>
+<p>คุณต้องติดตั้งเกมใหม่</p>
+]]></content:encoded>
+      <enclosure url="https://korepi.com/assets/images/docs/202312/31-4302.png" type="image/png"/>
+    </item>
+    <item>
+      <title>รายการข้อผิดพลาด</title>
+      <link>https://korepi.com/th/troubleshoot/</link>
+      <guid>https://korepi.com/th/troubleshoot/</guid>
+      <source url="https://korepi.com/th/rss.xml">รายการข้อผิดพลาด</source>
+      <category>Troubleshoot</category>
+      <pubDate>Tue, 18 Jun 2024 11:02:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>ข้อผิดพลาดทั่วไป</title>
+      <link>https://korepi.com/th/troubleshoot/faq-error.html</link>
+      <guid>https://korepi.com/th/troubleshoot/faq-error.html</guid>
+      <source url="https://korepi.com/th/rss.xml">ข้อผิดพลาดทั่วไป</source>
+      <description>รายการข้อผิดพลาดทั่วไป ทำไม Korepi ของฉันถึงหายไป? ตรวจสอบให้แน่ใจว่าคุณได้ปิดการใช้งานโปรแกรมป้องกันไวรัส, สร้างโฟลเดอร์ใหม่และเพิ่มลงในการยกเว้น(Exclusion list) แตกไฟล์ korepi...</description>
+      <category>Troubleshoot</category>
+      <pubDate>Tue, 18 Jun 2024 11:02:56 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> รายการข้อผิดพลาดทั่วไป</h2>
+<h3> ทำไม Korepi ของฉันถึงหายไป?</h3>
+<p>ตรวจสอบให้แน่ใจว่าคุณได้ปิดการใช้งานโปรแกรมป้องกันไวรัส, สร้างโฟลเดอร์ใหม่และเพิ่มลงในการยกเว้น(Exclusion list)</p>
+<p><img src="/assets/images/docs/202312/virus.png" alt="" loading="lazy"></p>
+<p>แตกไฟล์ korepi ภายในโฟลเดอร์ที่เพิ่มลงในการยกเว้น(Exclusion list) แล้วรันอีกครั้ง</p>
+<hr>
+<h3> สถานะ: No active subscription(s) found, Invalid license key</h3>
+<p>คุณต้อง<a href="/th/guide/getkey.html" target="blank">รับคีย์ใหม่</a> จาก <a href="https://discord.com/channels/1069057220802781265/1203687333107335198" target="_blank" rel="noopener noreferrer"><code>🔑 | micah-bot-verify</code></a> หรือ <a href="https://discord.com/channels/1069057220802781265/1238877451174678558" target="_blank" rel="noopener noreferrer"><code>verify-bak</code></a>, ถ้าคุณไม่สามารถรับคีย์ได้หรือคีย์ไม่สามารถใช้งานได้, คุณต้องรอจนกว่าคีย์จะหมดอายุ</p>
+<p><code>Sponsors สามารถใช้ F:รีเซ็ตคีย์แทนได้</code></p>
+<h3> [DLL injection]  Process crashed, exit code 0xc000005</h3>
+<p>เปิด <code>cmd</code> ในฐานะผู้ดูแลระบบและเขียนคำสั่งนี้:</p>
+<p><code>sfc /scannow</code></p>
+<p>หลังจากนั้นหากพบข้อผิดพลาด ให้รีสตาร์ทคอมพิวเตอร์และตรวจสอบ
+หากหลังจากรีสตาร์ทแล้วมันไม่ช่วยหรือไม่พบข้อผิดพลาด ให้เขียนคำสั่งนี้:
+<code>DISM.exe /Online /Cleanup-Image /RestoreHealth</code></p>
+<p>หลังจากตรวจสอบเสร็จแล้ว ให้รีสตาร์ทคอมพิวเตอร์และตรวจสอบ</p>
+<p>หากไม่ได้ผล, ให้ลองสอบถามในเซิร์ฟเวอร์</p>
+<hr>
+<h3> ImGUI: DirectX11 backend initialized successfully.</h3>
+<p>เกิดข้อผิดพลาดเนื่องจากการติดตั้งธีม, ให้ลบไฟล์ในโฟลเดอร์ "themes"</p>
+<hr>
+<h3> The system did not detect MSVCP140.dll</h3>
+<p>อัปเดต <a href="https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170#visual-studio-2015-2017-2019-and-2022" target="_blank" rel="noopener noreferrer">Microsoft Visual Studio C++</a></p>
+<p>อัปเดต <a href="https://www.microsoft.com/en-us/download/details.aspx?id=35" target="_blank" rel="noopener noreferrer">DirectX</a></p>
+<hr>
+<h3> File corrupted! This program has been manipulated and maybe it's infected.</h3>
+<p><img src="/assets/images/docs/202312/virus2.png" alt="" loading="lazy"></p>
+<p>ในกรณีนี้ ให้ลองใช้ <code>Malware Bytes</code> หรือ <code>Dr.Web</code> เพื่อทำการสแกนแบบเต็ม, หากพบไวรัส, ให้ลบออก รีสตาร์ทแล้วลองอีกครั้ง, หากไม่ได้ผล, ให้ติดตั้ง Windows ใหม่เป็นวิธีที่ง่ายที่สุดในการแก้ปัญหานี้</p>
+<hr>
+<h3> Timeout was reached</h3>
+<p><img src="/assets/images/docs/202312/error1.png" alt="" loading="lazy"></p>
+<p>รีบูตเราเตอร์อินเทอร์เน็ตของคุณ</p>
+<p>โปรแกรมป้องกันไวรัสอาจบล็อกการเชื่อมต่อ, ตรวจสอบให้แน่ใจว่ามันไม่ได้อยู่ในตัวจัดการงาน(Task Manager)</p>
+<p>ลองใช้ VPN แล้วลองอีกครั้ง</p>
+<p>ปิดแอปพลิเคชันทั้งหมดที่ส่งผลต่อไฟร์วอลล์ หากไม่มีอะไรใช้ได้, แสดงว่าคุณอาจประสบปัญหากับเครือข่าย</p>
+<hr>
+<h3> DLL Injection failed</h3>
+<p>ถอนการติดตั้งโฟลเดอร์ colorpicker และดาวน์โหลด colorpicker อีกครั้ง</p>
+<hr>
+<h3> Windows cannot access the specified device, path, or file</h3>
+<p><img src="/assets/images/docs/202312/error2.png" alt="" loading="lazy"></p>
+<p>อย่างแรก<a href="https://support.microsoft.com/en-us/topic/-windows-cannot-access-the-specified-device-path-or-file-error-when-you-try-to-install-update-or-start-a-program-or-file-46361133-47ed-6967-c13e-e75d3cc29657" target="_blank" rel="noopener noreferrer">ไปที่นี้</a> และทำตามขั้นตอนในโพสต์นั้น</p>
+<p>แล้วก็หลังจากไปที่วิธีแก้ปัญหาในโพสต์แล้ว ให้ดาวน์โหลดโปรแกรมป้องกันไวรัสเช่น <code>Dr.Web</code> หรือ <code>Malware bytes</code> และทำการทำการสแกนแบบเต็ม!</p>
+<p>หากไม่ได้ผล, เปิด <code>cmd</code> ในฐานะผู้ดูแลระบบและเขียนคำสั่งนี้:</p>
+<p><code>sfc /scannow</code></p>
+<p>หลังจากนั้นหากพบข้อผิดพลาด ให้รีสตาร์ทคอมพิวเตอร์และตรวจสอบ
+หากหลังจากรีสตาร์ทแล้วมันไม่ช่วยหรือไม่พบข้อผิดพลาด ให้เขียนคำสั่งนี้:
+<code>DISM.exe /Online /Cleanup-Image /RestoreHealth</code></p>
+<p>หลังจากตรวจสอบเสร็จแล้ว ให้รีสตาร์ทคอมพิวเตอร์และตรวจสอบ</p>
+<p>หากไม่ได้ผล, ให้ลองสอบถามในเซิร์ฟเวอร์</p>
+<hr>
+<h3> Signature checksum failed</h3>
+<p><img src="/assets/images/docs/202312/checksum.png" alt="" loading="lazy"></p>
+<p>เซิร์ฟเวอร์ล่มหรือปิดตัวลง, รอให้เซิร์ฟเวอร์กลับมาออนไลน์อีกครั้ง</p>
+<hr>
+<h3> Failed to create game process with Error 5</h3>
+<p><img src="/assets/images/docs/202312/error3.png" alt="" loading="lazy"></p>
+<p>ลบ <code>cfg.ini</code>.</p>
+<hr>
+<h3> SSL connect error</h3>
+<p><img src="/assets/images/docs/202312/error4.png" alt="" loading="lazy"></p>
+<p>รีสตาร์ทพีซีของคุณ, รีสตาร์ทเราเตอร์ของคุณ</p>
+<p>ลองใช้ VPN หากไม่ได้ผล</p>
+<hr>
+<h3> Failed to detect game version</h3>
+<p>อัพเดตโปรแกรมของคุณ ทำตามขั้นตอน<a href="/th/start/download.html" target="blank">ที่นี้</a></p>
+<hr>
+<h3> File ok</h3>
+<ol>
+<li>
+<p>บางครั้งคุณต้องเปิด Launcher สักสองสามครั้งก่อนจึงจะใช้งานได้</p>
+</li>
+<li>
+<p>ลบ cfg.json ของคุณ, อาจมีข้อผิดพลาดเกิดขึ้นกับไฟล์</p>
+</li>
+<li>
+<p>หากยังไม่สามารถแก้ปัญหาได้โปรดอ้างอิงถึง<a href="https://discord.com/channels/1069057220802781265/1213319789964038184/1242491428441952256" target="_blank" rel="noopener noreferrer">ที่นี้</a>.</p>
+</li>
+</ol>
+<hr>
+<h3> UserAssembly.dll isn't initialized, waiting for 2 sec.</h3>
+<p>หากโปรแกรมของคุณ crashes หลังจากบรรทัดนี้ ให้ลองทำตามขั้นตอนต่อไปนี้:</p>
+<p>ปิดโปรแกรมป้องกันไวรัสทั้งหมดในพีซี</p>
+<p>หากไม่ได้ผล, เปิด <code>cmd</code> ในฐานะผู้ดูแลระบบและเขียนคำสั่งนี้:</p>
+<p><code>sfc /scannow</code></p>
+<p>หลังจากนั้นหากพบข้อผิดพลาด ให้รีสตาร์ทคอมพิวเตอร์และตรวจสอบ
+หากหลังจากรีสตาร์ทแล้วมันไม่ช่วยหรือไม่พบข้อผิดพลาด ให้เขียนคำสั่งนี้:
+<code>DISM.exe /Online /Cleanup-Image /RestoreHealth</code></p>
+<p>หลังจากตรวจสอบแล้วให้รีสตาร์ทคอมพิวเตอร์แล้วลองเรียกใช้ colorpicker อีกครั้ง</p>
+<p>หากเกิดข้อผิดพลาดซ้ำ, คุณต้องรีเซ็ต Windows เป็นค่าเริ่มต้นจากโรงงาน</p>
+<h3> Current data does not exist or server error.</h3>
+<p><img src="/assets/images/docs/202312/error.png" alt="" loading="lazy"></p>
+<p>หยุดการพักชั่วคราวและลองอีกครั้ง</p>
+<h3> Cannot verify current timestamp.</h3>
+<p><img src="/assets/images/docs/202402/timestamp.png" alt="" loading="lazy"></p>
+<p>กรณีที่ 1:</p>
+<ul>
+<li>คุณอาจได้รับข้อผิดพลาดนี้ขณะใช้ VPN โปรดปิดการใช้งานแล้วลองอีกครั้ง</li>
+<li>หากคุณไม่ได้ใช้ VPN และได้รับข้อผิดพลาดนี้ ให้ลองใช้ VPN</li>
+</ul>
+<p>กรณีที่ 2:</p>
+<ul>
+<li>ตรวจสอบว่าเวลาพีซีของคุณถูกตั้งเวลาให้ซิงค์อัตโนมัติ</li>
+</ul>
+<div class="hint-container info">
+<p class="hint-container-title">หากคุณมาจากอิหร่าน คุณอาจจำเป็นต้องใช้ VPN แทน</p>
+</div>
+]]></content:encoded>
+      <enclosure url="https://korepi.com/assets/images/docs/202312/virus.png" type="image/png"/>
+    </item>
+    <item>
+      <title>FAQ</title>
+      <link>https://korepi.com/th/troubleshoot/faq.html</link>
+      <guid>https://korepi.com/th/troubleshoot/faq.html</guid>
+      <source url="https://korepi.com/th/rss.xml">FAQ</source>
+      <description>รายการคำถามที่พบบ่อย Korepi ฟรีหรือเปล่า? ใช่ Korepi มีเวอร์ชันฟรีซึ่งคุณสามารถทำตามคำแนะนำ (../guide/free.md)นี้ได้อย่างง่ายดาย. ทำไมการตั้งค่าของฉันจึงไม่ถูกบันทึก โปรดทราบว่า...</description>
+      <category>FAQ</category>
+      <pubDate>Tue, 18 Jun 2024 11:02:56 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> รายการคำถามที่พบบ่อย</h2>
+<h3> Korepi ฟรีหรือเปล่า?</h3>
+<p>ใช่ Korepi มีเวอร์ชันฟรีซึ่งคุณสามารถทำตาม<a href="/th/guide/free.html" target="blank">คำแนะนำ</a>นี้ได้อย่างง่ายดาย.</p>
+<hr>
+<h3> ทำไมการตั้งค่าของฉันจึงไม่ถูกบันทึก</h3>
+<p>โปรดทราบว่าคุณต้องแตกไฟล์ <code>.rar/.zip</code> ของคุณไปอยู่ในโฟลเดอร์อื่น</p>
+<h2> หากการตั้งค่ายังคงไม่บันทึกหลังจากขั้นตอนนี้, โปรดติดต่อผู้ช่วยเหลือในเซิร์ฟเวอร์เพื่อขอความช่วยเหลือเพิ่มเติม</h2>
+<h3> ฉันจะหาธีมได้ที่ไหน?</h3>
+<p>คุณสามารถค้นหาธีมสำหรับ Korepi ของคุณได้จาก 'community share' หรือคุณสามารถสร้างธีมของคุณเองในการตั้งค่า Korepi</p>
+<p><img src="/assets/images/docs/202312/theme-settings.png" alt="" loading="lazy"></p>
+<p>ตรวจสอบ <code>Theme Customization</code> เพื่อเริ่มสร้างธีมของคุณเอง</p>
+<hr>
+<h3> ฉันสามารถใช้ Korepi เมื่อเกมมีการอัพเดตใหม่ได้หรือไม่</h3>
+<p>ไม่, คุณต้องรอจนกว่า Korepi เวอร์ชันใหม่จะปล่อย</p>
+<div class="hint-container info">
+<p class="hint-container-title">การใช้โปรแกรมเวอร์ชันเก่าจะไม่สามารถใช้ได้, การอัพเดต Korepi จะใช้เวลาประมาณ 1-2 สัปดาห์โดยประมาณ</p>
+</div>
+<hr>
+<h3> ทำไมเมนูถึงไม่ปรากฏในเกม?</h3>
+<p>ตรวจสอบให้แน่ใจว่าคุณได้ปิดการใช้งานแอพ overlay ทั้งหมด(เช่น MSI Afterburner, GeForce Experience, ฯลฯ) ก่อนจะเปิด Korepi</p>
+<hr>
+<h3> ฉันจะรับ <span style="color:green;">PERTAMAX</span> ได้จากที่ไหน และราคาเท่าไร</h3>
+<p>คุณสามารถรับ <a href="/th/guide/seller.html" target="blank">PERTAMAX</a> ได้จากลิงค์นี้</p>
+<h2> ราคาประมาณ ~ 220 บาท +-</h2>
+<h3> ทำไมเกมของฉัน crash ที่หน้่าโหลด</h3>
+<p>หากคุณได้รับข้อผิดพลาดเช่นนี้:</p>
+<p><code>atidxx64.dll caused an Access Violation (0xc0000005) in module atidxx64.dll at 0033:43d1356c.</code></p>
+<p>ลองอัปเดตไดรเวอร์ของคุณแล้วลองอีกครั้ง</p>
+<p>หากคุณไม่ได้รับข้อผิดพลาดดังกล่าว ให้ลองตั้งค่าการหน่วงเวลาให้มากขึ้นในการเปิด Korepi ใน <code>cfg.ini</code></p>
+]]></content:encoded>
+      <enclosure url="https://korepi.com/assets/images/docs/202312/theme-settings.png" type="image/png"/>
+    </item>
+    <item>
+      <title>เอฟเฟกต์การโจมตี</title>
+      <link>https://korepi.com/th/features/Player/attack-effects.html</link>
+      <guid>https://korepi.com/th/features/Player/attack-effects.html</guid>
+      <source url="https://korepi.com/th/rss.xml">เอฟเฟกต์การโจมตี</source>
+      <description>เอฟเฟกต์การโจมตี: ปรับเปลี่ยนการโจมตีของคุณ โหมด Multi-Hit: โหมด One Punch: พยายามฆ่าเป้าหมายด้วยการโจมตี 1 ครั้ง; โน้ต: ไม่แนะนำให้ใช้ แก้ไขจำนวนการโจมตีที่เป้าหมายได้รับ; โน้ต...</description>
+      <category>Features</category>
+      <pubDate>Tue, 18 Jun 2024 11:02:56 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> เอฟเฟกต์การโจมตี: ปรับเปลี่ยนการโจมตีของคุณ</h2>
+<h3> โหมด Multi-Hit:</h3>
+<ul>
+<li>โหมด One Punch: พยายามฆ่าเป้าหมายด้วยการโจมตี 1 ครั้ง</li>
+</ul>
+<blockquote>
+<p>โน้ต: ไม่แนะนำให้ใช้</p>
+</blockquote>
+<ul>
+<li>แก้ไขจำนวนการโจมตีที่เป้าหมายได้รับ</li>
+</ul>
+<blockquote>
+<p>โน้ต: ไม่แนะนำให้ใช้เกิน <code>5</code></p>
+</blockquote>
+<h3> Multi-Target:</h3>
+<ul>
+<li>โจมตีเป้าหมายทั้งหมดภายในรัศมีที่</li>
+</ul>
+<blockquote>
+<p>โน้ต: ไม่แนะนำให้เปลี่ยนค่าเริ่มต้น</p>
+</blockquote>
+<h3> Multi-Animation:</h3>
+<ul>
+<li>แก้ไขจำนวนครั้งที่ตัวละครทำ action.</li>
+</ul>
+<blockquote>
+<p>โน้ต: ไม่แนะนำให้ใช้</p>
+</blockquote>
+<h3> ความเร็วการโจมตี:</h3>
+<ul>
+<li>แก้ไขความเร็วของการโจมตีปกติของผู้เล่น</li>
+</ul>
+<blockquote>
+<p>โน้ต: ไม่แนะนำให้ใช้เกิน <code>1.5</code></p>
+</blockquote>
+<h3> ธาตุกำหนดเอง:</h3>
+<ul>
+<li>แก้ไขธาตุของการโจมตีขาออกทั้งหมด</li>
+</ul>
+<h3> Infuse ธาตุ:</h3>
+<ul>
+<li>ปรับเปลี่ยนธาตุของการโจมตีปกติจากดาบ, polearms และ claymore.</li>
+</ul>
+<h3> จุดอ่อนอัตโนมัติ:</h3>
+<ul>
+<li>โจมตีที่จุดอ่อนของเป้าหมายโดยอัตโนมัติ ใช้ได้เฉพาะธนูเท่านั้น</li>
+</ul>
+<h3> ติดคริติคอล (<span style="color:yellow;">Sponsor</span>):</h3>
+<ul>
+<li>เปลี่ยนโอกาศของการโจมตีแบบคริติคอล</li>
+</ul>
+<h3> ลบล้างธาตุ:</h3>
+<ul>
+<li>จะทำให้ธาตุที่โจมตีเข้ามาเป็นโมฆะและเปลี่ยนเป็นความเสียหายทางกายภาพแทน</li>
+</ul>
+<h2> วีดีโอตัวอย่าง:</h2>
+<div class="iframe-container"><iframe width="1328" height="747" src="https://www.youtube.com/embed/pSAxKoneT64?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Multi-Instance V (Updated)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>วิ่งอัตโนมัติ</title>
+      <link>https://korepi.com/th/features/Player/auto-run.html</link>
+      <guid>https://korepi.com/th/features/Player/auto-run.html</guid>
+      <source url="https://korepi.com/th/rss.xml">วิ่งอัตโนมัติ</source>
+      <description>วิ่งอัตโนมัติจะเคลื่อนผู้เล่นไปยังทิศทางที่ผู้เล่นหันหน้าไปโดยอัตโนมัติ วีดีโอตัวอย่าง:</description>
+      <category>Features</category>
+      <pubDate>Tue, 18 Jun 2024 11:02:56 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> วิ่งอัตโนมัติจะเคลื่อนผู้เล่นไปยังทิศทางที่ผู้เล่นหันหน้าไปโดยอัตโนมัติ</h2>
+<h2> วีดีโอตัวอย่าง:</h2>
+<div class="iframe-container"><iframe width="1328" height="747" src="https://www.youtube.com/embed/BLDhPBMs7Es?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Run" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Bunny Hop</title>
+      <link>https://korepi.com/th/features/Player/bunny-hop.html</link>
+      <guid>https://korepi.com/th/features/Player/bunny-hop.html</guid>
+      <source url="https://korepi.com/th/rss.xml">Bunny Hop</source>
+      <description>Sponsor เท่านั้น Bunny Hop จะกระโดดโดยอัตโนมัติหลังจากเริ่มกระโดดครั้งแรก วีดีโอตัวอย่าง:</description>
+      <category>Features</category>
+      <pubDate>Tue, 18 Jun 2024 11:02:56 GMT</pubDate>
+      <content:encoded><![CDATA[<div class="hint-container info">
+<p class="hint-container-title">Sponsor เท่านั้น</p>
+</div>
+<hr>
+<h2> Bunny Hop จะกระโดดโดยอัตโนมัติหลังจากเริ่มกระโดดครั้งแรก</h2>
+<h2> วีดีโอตัวอย่าง:</h2>
+<div class="iframe-container"><iframe width="1328" height="747" src="https://www.youtube.com/embed/Gh2GX23E6dw?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Bunnyhop (Sponsor)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>คูลดาวน์เอฟเฟกต์</title>
+      <link>https://korepi.com/th/features/Player/cooldown-effects.html</link>
+      <guid>https://korepi.com/th/features/Player/cooldown-effects.html</guid>
+      <source url="https://korepi.com/th/rss.xml">คูลดาวน์เอฟเฟกต์</source>
+      <description>แก้ไขเวลาคูลดาวน์ของการกระทำต่างๆ พลังงานท่าไม้ตายสูงสุด: ลบความต้องการที่ต้องใช้สำหรับท่าไม้ตาย; โน้ต: ฟองพลังงานอาจดูเหมือนไม่สมบูรณ์แต่จะยังคงใช้งานได้ ไม่มีอวาตาร์สกิลคูลดาว...</description>
+      <category>Features</category>
+      <pubDate>Tue, 18 Jun 2024 11:02:56 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> แก้ไขเวลาคูลดาวน์ของการกระทำต่างๆ</h2>
+<h3> พลังงานท่าไม้ตายสูงสุด:</h3>
+<ul>
+<li>ลบความต้องการที่ต้องใช้สำหรับท่าไม้ตาย</li>
+</ul>
+<blockquote>
+<p>โน้ต: ฟองพลังงานอาจดูเหมือนไม่สมบูรณ์แต่จะยังคงใช้งานได้</p>
+</blockquote>
+<h3> ไม่มีอวาตาร์สกิลคูลดาวน์ :  ลบคูลดาวน์สำหรับสกิลตัวละครและท่าไม้ตาย</h3>
+<ul>
+<li>ลดคูลดาวน์ สกิล/ท่าไม้ตาย เมื่อเปิดใช้งานแทนที่จะลบคูลดาวน์ มันจะถูกตั้งเป็นค่าที่เลือกหากคูลดาวน์สูงกว่าค่าที่เลือก</li>
+</ul>
+<blockquote>
+<p>โน้ต: คุณสามารถใช้ค่าใดก็ได้สำหรับ CD, แต่อย่าสแปมมันแรงเกินไป <code>เช่น 40 ครั้งใน 1 นาที</code></p>
+</blockquote>
+<h3> ไม่มีคูลดาวน์การวิ่ง:</h3>
+<ul>
+<li>ลบดีเลย์ระหว่างการวิ่ง</li>
+</ul>
+<h3> ชาร์จการโจมตีทันที:</h3>
+<ul>
+<li>ธนู: ลบเวลาในการชาร์จสำหรับธนู</li>
+<li>อื่นๆ: ลบเวลาในการชาร์จสำหรับอาวุธอื่นๆ</li>
+</ul>
+<h3> ไม่มีคูลดาวน์สกิลยานพาหนะ:</h3>
+<ul>
+<li>ลบคูลดาวน์ของสกิลเรือ</li>
+</ul>
+<h2> วีดีโอตัวอย่าง:</h2>
+<div class="iframe-container"><iframe width="1328" height="747" src="https://www.youtube.com/embed/qv5ykSL3Ojw?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Cooldown Effects" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>การเคลื่อนไหวเพิ่มเติม</title>
+      <link>https://korepi.com/th/features/Player/extra-movements.html</link>
+      <guid>https://korepi.com/th/features/Player/extra-movements.html</guid>
+      <source url="https://korepi.com/th/rss.xml">การเคลื่อนไหวเพิ่มเติม</source>
+      <description>Sponsor เท่านั้น การเคลื่อนไหวเพิ่มเติม: ปรับเปลี่ยน/ปรับปรุง การกระทำบางอย่างสำหรับผู้เล่น. วิ่งบนน้ำ: ทำให้สามารถเดินบนน้ำได้.; บูสต์วิ่ง: ช่วยเพิ่มความเร็วเมื่อผู้เล่นกำลังวิ...</description>
+      <category>Features</category>
+      <pubDate>Tue, 18 Jun 2024 11:02:56 GMT</pubDate>
+      <content:encoded><![CDATA[<div class="hint-container info">
+<p class="hint-container-title">Sponsor เท่านั้น</p>
+</div>
+<hr>
+<h2> การเคลื่อนไหวเพิ่มเติม: ปรับเปลี่ยน/ปรับปรุง การกระทำบางอย่างสำหรับผู้เล่น.</h2>
+<h3> วิ่งบนน้ำ:</h3>
+<ul>
+<li>ทำให้สามารถเดินบนน้ำได้.</li>
+</ul>
+<h3> บูสต์วิ่ง:</h3>
+<ul>
+<li>ช่วยเพิ่มความเร็วเมื่อผู้เล่นกำลังวิ่ง</li>
+</ul>
+<blockquote>
+<p>โน้ต: ไม่แนะนำให้เปลี่ยนค่าเริ่มต้น</p>
+</blockquote>
+<h3> Jump Boost:</h3>
+<ul>
+<li>ช่วยเพิ่มความสูงของการกระโดดให้กับผู้เล่น
+<ul>
+<li>ใช้กลางอากาศ: เปิดใช้งานการกระโดดในขณะที่ไม่ได้อยู่บนพื้น</li>
+</ul>
+</li>
+</ul>
+<blockquote>
+<p>โน้ต: ไม่แนะนำให้เปลี่ยนค่าเริ่มต้น</p>
+</blockquote>
+<h3> บิน (Boost):</h3>
+<ul>
+<li>ช่วยเพิ่มความเร็วเมื่อผู้เล่นกำลังใช้เครื่องร่อน</li>
+</ul>
+<blockquote>
+<p>โน้ต: ไม่แนะนำให้เปลี่ยนค่าเริ่มต้น</p>
+</blockquote>
+<h3> Swim Boost:</h3>
+<ul>
+<li>ช่วยเพิ่มความเร็วของผู้เล่นเมื่อว่ายน้ำ</li>
+</ul>
+<blockquote>
+<p>โน้ต: ไม่แนะนำให้เปลี่ยนค่าเริ่มต้น</p>
+</blockquote>
+<h3> Dive Boost:</h3>
+<ul>
+<li>ช่วยเพิ่มความเร็วของผู้เล่นเมื่อดิ่ง</li>
+</ul>
+<blockquote>
+<p>โน้ต: ไม่แนะนำให้เปลี่ยนค่าเริ่มต้น</p>
+</blockquote>
+<h3> Blink:</h3>
+<ul>
+<li>ทำให้ผู้เล่นเคลื่อนไปในระยะทางหนึ่งอย่างรวดเร็วเมื่อกดปุ่มลัด</li>
+</ul>
+<h2> วีดีโอตัวอย่าง:</h2>
+<div class="iframe-container"><iframe width="1328" height="747" src="https://www.youtube.com/embed/wMd9icqhFQg?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Extra Movement (Sponsor)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>ควบคุมการตก</title>
+      <link>https://korepi.com/th/features/Player/fall-control.html</link>
+      <guid>https://korepi.com/th/features/Player/fall-control.html</guid>
+      <source url="https://korepi.com/th/rss.xml">ควบคุมการตก</source>
+      <description>ควบคุมการตก ทำให้คุณเคลื่อนที่ด้วยความเร็วที่กำหนดขณะตก วีดีโอตัวอย่าง:</description>
+      <category>Features</category>
+      <pubDate>Tue, 18 Jun 2024 11:02:56 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> ควบคุมการตก ทำให้คุณเคลื่อนที่ด้วยความเร็วที่กำหนดขณะตก</h2>
+<h2> วีดีโอตัวอย่าง:</h2>
+<div class="iframe-container"><iframe width="1328" height="747" src="https://www.youtube.com/embed/BHiabtwSSNc?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Fall Control" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>โหมดอมตะ</title>
+      <link>https://korepi.com/th/features/Player/god-mode.html</link>
+      <guid>https://korepi.com/th/features/Player/god-mode.html</guid>
+      <source url="https://korepi.com/th/rss.xml">โหมดอมตะ</source>
+      <description>โหมดอมตะ จะลบความเสียหายที่เข้ามาทั้งหมด Undead: เมื่อเปิดใช้งาน โหมดอมตะจะเปิดเฉพาะเมื่อความเสียหายถึงตาย; มีเงื่อนไข: เมื่อเปิดใช้งาน โหมดอมตะจะเปิดเฉพาะถ้าHPตัวละครต่ำกว่าค่า...</description>
+      <category>Features</category>
+      <pubDate>Tue, 18 Jun 2024 11:02:56 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> โหมดอมตะ จะลบความเสียหายที่เข้ามาทั้งหมด</h2>
+<h3> Undead:</h3>
+<ul>
+<li>เมื่อเปิดใช้งาน โหมดอมตะจะเปิดเฉพาะเมื่อความเสียหายถึงตาย</li>
+</ul>
+<h3> มีเงื่อนไข:</h3>
+<ul>
+<li>เมื่อเปิดใช้งาน โหมดอมตะจะเปิดเฉพาะถ้าHPตัวละครต่ำกว่าค่าที่กำหนด</li>
+</ul>
+<blockquote>
+<p>โน้ต: แนะนำให้ใช้แบบมีเงื่อนไขกับabyss</p>
+</blockquote>
+<h2> วีดีโอตัวอย่าง:</h2>
+<div class="iframe-container"><iframe width="1328" height="747" src="https://www.youtube.com/embed/42utUUYNHRE?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - God Mode" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Staminaไม่จำกัด</title>
+      <link>https://korepi.com/th/features/Player/infinite-stamina.html</link>
+      <guid>https://korepi.com/th/features/Player/infinite-stamina.html</guid>
+      <source url="https://korepi.com/th/rss.xml">Staminaไม่จำกัด</source>
+      <description>Staminaไม่จำกัด ปิดการใช้งานStaminaสำหรับการกระทำทั้งหมด แก้ไขแพ็กเก็ตการใช้Stamina: เมื่อเปิดใช้งาน และ Staminaไม่จำกัดถูกปิด, จะป้องกันการส่งแพ็กเก็ตการใช้Staminaไปยังเซิร์ฟเว...</description>
+      <category>Features</category>
+      <pubDate>Tue, 18 Jun 2024 11:02:56 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Staminaไม่จำกัด ปิดการใช้งานStaminaสำหรับการกระทำทั้งหมด</h2>
+<h3> แก้ไขแพ็กเก็ตการใช้Stamina:</h3>
+<ul>
+<li>เมื่อเปิดใช้งาน และ Staminaไม่จำกัดถูกปิด, จะป้องกันการส่งแพ็กเก็ตการใช้Staminaไปยังเซิร์ฟเวอร์ เช่น วิ่ง ปีนเขา ว่ายน้ำ ฯลฯ</li>
+</ul>
+<blockquote>
+<p>โน้ต: แนะนำให้ใช้แก้ไขแพ็กเก็ตการใช้Stamina</p>
+</blockquote>
+<h2> วีดีโอตัวอย่าง:</h2>
+<div class="iframe-container"><iframe width="1328" height="747" src="https://www.youtube.com/embed/NZhfaMOLuY0?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Infinite Stamina" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>]]></content:encoded>
+    </item>
+    <item>
+      <title>No Clip</title>
+      <link>https://korepi.com/th/features/Player/no-clip.html</link>
+      <guid>https://korepi.com/th/features/Player/no-clip.html</guid>
+      <source url="https://korepi.com/th/rss.xml">No Clip</source>
+      <description>No Clip จะทำให้คุณไม่มีการชนกับวัตถุ, เคลื่อนที่เร็วขึ้น และบินได้ ไม่มีอนิเมชั่น: เมื่อเปิดใช้งานจะไม่มีอนิเมชั่นของตัวละครในขณะที่ No Clip; การเคลื่อนไหวของมุมกล้อง: เมื่อเปิด...</description>
+      <category>Features</category>
+      <pubDate>Tue, 18 Jun 2024 11:02:56 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> No Clip จะทำให้คุณไม่มีการชนกับวัตถุ, เคลื่อนที่เร็วขึ้น และบินได้</h2>
+<h3> ไม่มีอนิเมชั่น:</h3>
+<ul>
+<li>เมื่อเปิดใช้งานจะไม่มีอนิเมชั่นของตัวละครในขณะที่ No Clip</li>
+</ul>
+<h3> การเคลื่อนไหวของมุมกล้อง:</h3>
+<ul>
+<li>เมื่อเปิดใช้งาน, ตัวละครจะเคลื่อนที่ตามมุมมองกล้องแทนที่ด้านหน้าตัวละคร</li>
+</ul>
+<h3> No-Clip ทางเลือก:</h3>
+<ul>
+<li>เมื่อเปิดใช้งาน, ความเร็วจะเปลี่ยนหลังจากกดปุ่มลัดที่เลือกตามความเร็วที่ตั้งค่าไว้</li>
+</ul>
+<h3> ใช้คีย์แบบกำหนดเอง:</h3>
+<ul>
+<li>เปิดใช้งานตัวเลือกในการเปลี่ยนปุ่มควบคุมทิศทางแบบ No Clip</li>
+</ul>
+<h3> บายพาส DragBack:</h3>
+<ul>
+<li>ป้องกันไม่ให้เซิร์ฟเวอร์ดึงตัวละครกลับเนื่องจากความเร็วมากเกินไป</li>
+</ul>
+<blockquote>
+<p>โน้ต: ไม่แนะนำให้ใช้เกิน <code>20</code></p>
+</blockquote>
+<h2> วีดีโอตัวอย่าง:</h2>
+<div class="iframe-container"><iframe width="1328" height="747" src="https://www.youtube.com/embed/nPdq-yzBt3k?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - NoClip" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>ความเร็วผู้เล่น</title>
+      <link>https://korepi.com/th/features/Player/player-speed.html</link>
+      <guid>https://korepi.com/th/features/Player/player-speed.html</guid>
+      <source url="https://korepi.com/th/rss.xml">ความเร็วผู้เล่น</source>
+      <description>ความเร็วผู้เล่น จะเปลี่ยน ความเร็วของผู้เล่น. ของจริง ไม่โม้ โน้ต: แนะนำให้ใช้ค่าต่ำกว่า 1.5. โน้ต 2: การเคลื่อนไหวเพิ่มเติม (extra-movements.md) แนะนำให้ใช้เพราะเนื่องจากจะซิงค...</description>
+      <category>Features</category>
+      <pubDate>Tue, 18 Jun 2024 11:02:56 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> ความเร็วผู้เล่น จะเปลี่ยน ความเร็วของผู้เล่น. ของจริง ไม่โม้</h2>
+<blockquote>
+<p>โน้ต: แนะนำให้ใช้ค่าต่ำกว่า <code>1.5</code>.
+โน้ต 2: <a href="/th/features/Player/extra-movements.html" target="blank">การเคลื่อนไหวเพิ่มเติม</a> แนะนำให้ใช้เพราะเนื่องจากจะซิงค์กับเซิร์ฟเวอร์ได้ดีขึ้น(ปลอดภัย)(Sponsor เท่านั้น)</p>
+</blockquote>
+<h2> วีดีโอตัวอย่าง:</h2>
+<div class="iframe-container"><iframe width="1328" height="747" src="https://www.youtube.com/embed/HCxmOUMFRs8?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Player Speed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>ยูทิลิตี้ระยะไกล</title>
+      <link>https://korepi.com/th/features/Player/remote-utility.html</link>
+      <guid>https://korepi.com/th/features/Player/remote-utility.html</guid>
+      <source url="https://korepi.com/th/rss.xml">ยูทิลิตี้ระยะไกล</source>
+      <description>PERTAMAX เท่านั้น ยูทิลิตี้ระยะไกล: รับรางวัลคอมมิชชั่นรายวัน: รับรางวัลคอมมิชชั่นรายวันเมื่อครบทั้ง 4 คอมมิชชั่น; บทสนทนาแบบกำหนดเอง: เริ่มการสนทนาโดยใช้ ID บทสนทนา, บทสนทนาบาง...</description>
+      <category>Features</category>
+      <pubDate>Tue, 18 Jun 2024 11:02:56 GMT</pubDate>
+      <content:encoded><![CDATA[<div class="hint-container info">
+<p class="hint-container-title">PERTAMAX เท่านั้น</p>
+</div>
+<hr>
+<h2> ยูทิลิตี้ระยะไกล:</h2>
+<h3> รับรางวัลคอมมิชชั่นรายวัน:</h3>
+<ul>
+<li>รับรางวัลคอมมิชชั่นรายวันเมื่อครบทั้ง 4 คอมมิชชั่น</li>
+</ul>
+<h3> บทสนทนาแบบกำหนดเอง:</h3>
+<ul>
+<li>เริ่มการสนทนาโดยใช้ ID บทสนทนา, บทสนทนาบางรายการอาจใช้งานไม่ได้</li>
+</ul>
+<blockquote>
+<p>โน้ต: คุณสมบัตินี้เป็นอันตราย
+โน้ต: เพื่อรับ ID บทสนทนา ให้เปิด <code>Debug พูดคุย</code> ID จะแสดงใน <code>cmd</code></p>
+</blockquote>
+<h3> เสก Gadget:</h3>
+<ul>
+<li>เสกGadgetที่เลือกตามID บางส่วนอาจจะไม่ทำงาน</li>
+</ul>
+<blockquote>
+<p>โน้ต: คุณสมบัตินี้เป็นอันตราย
+โน้ต 2: คุณสามารถหา Gadget ID <a href="https://github.com/jie65535/GrasscutterCommandGenerator/blob/main/Source/GrasscutterTools/Resources/en-us/Gadget.txt" target="_blank" rel="noopener noreferrer">ได้ที่นี้</a></p>
+</blockquote>
+<h3> Crafting:</h3>
+<ul>
+<li>Condensed Resin: สร้าง condensed resin ถ้าคุณมี resin และไอเทมพร้อม</li>
+<li>Spawn Alchemy Table: เสก Alchemy Table.</li>
+<li>Spawn Forging Table: เสก Forging Table.</li>
+<li>การผสานแบบกำหนดเอง: จะพยายามผสานไอเทมโดยใช้ตัวละครปัจจุบัน
+<blockquote>
+<p>โน้ต: ถ้าสำเร็จ, จะไม่มีการแจ้งเตือน. กรุณาตรวจสอบกระเป๋าของคุณ.
+โน้ต 2: คุณสามารถหา IDเพื่อผสาน<a href="https://github.com/jie65535/GrasscutterCommandGenerator/blob/main/Source/GrasscutterTools/Resources/en-us/Item.txt" target="_blank" rel="noopener noreferrer">ได้ที่นี้</a></p>
+</blockquote>
+</li>
+</ul>
+<h3> เสก NPC:</h3>
+<ul>
+<li>เสก NPC ที่เลือกตามID</li>
+</ul>
+<blockquote>
+<p>โน้ต: Katheryne, Wagner และ Prince รวมอยู่แล้ว</p>
+</blockquote>
+<h3> เสกมอนสเตอร์:</h3>
+<ul>
+<li>เสกมอนสเตอร์ที่เลือกตาม ID</li>
+</ul>
+<blockquote>
+<p>โน้ต: คุณไม่สามารถฆ่าพวกมันได้
+โน้ต 2: คุณสามารถหา มอนสเตอร์ID<a href="https://github.com/jie65535/GrasscutterCommandGenerator/blob/main/Source/GrasscutterTools/Resources/en-us/Monsters.txt" target="_blank" rel="noopener noreferrer">ได้ที่นี้</a></p>
+</blockquote>
+<h3> เสกไอเทม:</h3>
+<ul>
+<li>เสกไอเทมที่เลือกตามID</li>
+</ul>
+<blockquote>
+<p>โน้ต: บางไอเทมอาจจะใช้ไม่ได้
+โน้ต 2: คุณสามารถหา ไอเทมID <a href="https://github.com/jie65535/GrasscutterCommandGenerator/blob/main/Source/GrasscutterTools/Resources/en-us/Item.txt" target="_blank" rel="noopener noreferrer">ได้ที่นี้</a></p>
+</blockquote>
+<h3> เปิดหน้า UI:</h3>
+<ul>
+<li>เปิดหน้าเมนู Paimon</li>
+<li>เปิดหน้าปรุงอาหาร
+<blockquote>
+<p>โน้ต: ต้องเปิดหน้าปรุงอาหารหนึ่งครั้งก่อนที่จะใช้คุณสมบัตินี้</p>
+</blockquote>
+</li>
+</ul>
+<h3> บูชารูปปั้น:</h3>
+<ul>
+<li>จะบูชารูปปั้นที่เลือกตามจำนวนของoculusที่มี</li>
+</ul>
+<h3> เปลี่ยนธาตุ นักเดินทาง:</h3>
+<ul>
+<li>อนุญาตให้ผู้เล่นเปลี่ยนธาตุของนักเดินทางได้ทุกที่</li>
+</ul>
+<h2> วีดีโอตัวอย่าง:</h2>
+<div class="iframe-container"><iframe width="1328" height="747" src="https://www.youtube.com/embed/XGztUEy82sE?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Remote Utilities (Sponsor)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>ตัวแก้ไขStats (WIP)</title>
+      <link>https://korepi.com/th/features/Player/stats-modifer.html</link>
+      <guid>https://korepi.com/th/features/Player/stats-modifer.html</guid>
+      <source url="https://korepi.com/th/rss.xml">ตัวแก้ไขStats (WIP)</source>
+      <description>เร็วๆนี้.</description>
+      <category>Features</category>
+      <pubDate>Tue, 18 Jun 2024 11:02:56 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> เร็วๆนี้.</h2>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>0culi เทเลพอร์ต</title>
+      <link>https://korepi.com/th/features/Teleport/0culi-teleport.html</link>
+      <guid>https://korepi.com/th/features/Teleport/0culi-teleport.html</guid>
+      <source url="https://korepi.com/th/rss.xml">0culi เทเลพอร์ต</source>
+      <description>Oculi เทเลพอร์ต จะเทเลพอร์ตผู้เล่นไปหาตำแหน่งของ Oculi ที่ใกล้ระยะการrenderมากที่สุดเมื่อกดปุ่มลัด โน้ต: รอ &amp;gt;15s ระหว่างการเทเลพอร์ตเพื่อความปลอดภัย วีดีโอตัวอย่าง:</description>
+      <category>Features</category>
+      <pubDate>Tue, 18 Jun 2024 11:02:56 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Oculi เทเลพอร์ต จะเทเลพอร์ตผู้เล่นไปหาตำแหน่งของ Oculi ที่ใกล้ระยะการrenderมากที่สุดเมื่อกดปุ่มลัด</h2>
+<blockquote>
+<p>โน้ต: รอ <code>&gt;15s</code> ระหว่างการเทเลพอร์ตเพื่อความปลอดภัย</p>
+</blockquote>
+<h2> วีดีโอตัวอย่าง:</h2>
+<div class="iframe-container"><iframe width="1328" height="747" src="https://www.youtube.com/embed/j2Yu31J7Yh4?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Oculi/ChestTeleport" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>]]></content:encoded>
+    </item>
+    <item>
+      <title>หีบสมบัติ เทเลพอร์ต</title>
+      <link>https://korepi.com/th/features/Teleport/chest-teleport.html</link>
+      <guid>https://korepi.com/th/features/Teleport/chest-teleport.html</guid>
+      <source url="https://korepi.com/th/rss.xml">หีบสมบัติ เทเลพอร์ต</source>
+      <description>หีบสมบัติ เทเลพอร์ต จะเทเลพอร์ตผู้เล่นไปหาตำแหน่งของหีบสมบัติที่ใกล้ระยะการrenderมากที่สุดเมื่อกดปุ่มลัด โน้ต: รอ &amp;gt;15s ระหว่างการเทเลพอร์ตเพื่อความปลอดภัย วีดีโอตัวอย่าง:</description>
+      <category>Features</category>
+      <pubDate>Tue, 18 Jun 2024 11:02:56 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> หีบสมบัติ เทเลพอร์ต  จะเทเลพอร์ตผู้เล่นไปหาตำแหน่งของหีบสมบัติที่ใกล้ระยะการrenderมากที่สุดเมื่อกดปุ่มลัด</h2>
+<blockquote>
+<p>โน้ต: รอ <code>&gt;15s</code> ระหว่างการเทเลพอร์ตเพื่อความปลอดภัย</p>
+</blockquote>
+<h2> วีดีโอตัวอย่าง:</h2>
+<div class="iframe-container"><iframe width="1328" height="747" src="https://www.youtube.com/embed/j2Yu31J7Yh4?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Oculi/ChestTeleport" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>]]></content:encoded>
+    </item>
+    <item>
+      <title>เทเลพอร์ตแบบกำหนดเอง</title>
+      <link>https://korepi.com/th/features/Teleport/custom-teleport.html</link>
+      <guid>https://korepi.com/th/features/Teleport/custom-teleport.html</guid>
+      <source url="https://korepi.com/th/rss.xml">เทเลพอร์ตแบบกำหนดเอง</source>
+      <description>เทเลพอร์ตแบบกำหนดเอง: อนุญาตให้ผู้เล่นเทเลพอร์ตไปยังจุดที่เลือกโดยใช้ไฟล์ .json ความเร็วสอดแทรก: ควบคุมความเร็วของแอนิเมชันการเทเลพอร์ต ตั้งค่าเป็น 0.1 เพื่อหลีกเลี่ยงปัญหา; เทเ...</description>
+      <category>Features</category>
+      <pubDate>Tue, 18 Jun 2024 11:02:56 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> เทเลพอร์ตแบบกำหนดเอง: อนุญาตให้ผู้เล่นเทเลพอร์ตไปยังจุดที่เลือกโดยใช้ไฟล์ <code>.json</code></h2>
+<h3> ความเร็วสอดแทรก:</h3>
+<ul>
+<li>ควบคุมความเร็วของแอนิเมชันการเทเลพอร์ต ตั้งค่าเป็น <code>0.1</code> เพื่อหลีกเลี่ยงปัญหา</li>
+</ul>
+<h3> เทเลพอร์ตอัตโนมัติ:</h3>
+<ul>
+<li>เทเลพอร์ตโดยอัตโนมัติตามลำดับของไฟล์ <code>.json</code> ที่ให้มา
+<ul>
+<li>เทเลพอร์ตถัดไป: เทเลพอร์ตไปยังตำแหน่งถัดไปหลังจากกดปุ่มลัด</li>
+<li>เทเลพอร์ตก่อนหน้า: เทเลพอร์ตไปยังตำแหน่งก่อนหน้าหลังจากกดปุ่มลัด</li>
+</ul>
+</li>
+</ul>
+<blockquote>
+<p>โน้ต: แนะนำให้ตั้งค่าให้สูงกว่า '15s' เพื่อความปลอดภัย</p>
+</blockquote>
+<h1> คุณสามารถหาข้อมูลเพิ่มเติมเกี่ยวกับวิธีใช้คุณสมบัตินี้<a href="/th/guide/custom-tp-setting.html" target="blank">ได้ที่นี้</a></h1>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>แผนที่เทเลพอร์ต</title>
+      <link>https://korepi.com/th/features/Teleport/map-teleport.html</link>
+      <guid>https://korepi.com/th/features/Teleport/map-teleport.html</guid>
+      <source url="https://korepi.com/th/rss.xml">แผนที่เทเลพอร์ต</source>
+      <description>แผนที่เทเลพอร์ต ทำให้คุณสามารถเทเลพอร์ตไปยังที่ใดก็ได้บนแผนที่ หากต้องการใช้แผนที่เทเลพอร์ต คุณต้องเปิดใช้งานและเลือกปุ่มลัดที่คุณจะใช้; เพื่อเทเลพอร์ต, กดปุ่มลัดค้างไว้ขณะเปิดแ...</description>
+      <category>Features</category>
+      <pubDate>Tue, 18 Jun 2024 11:02:56 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> แผนที่เทเลพอร์ต ทำให้คุณสามารถเทเลพอร์ตไปยังที่ใดก็ได้บนแผนที่</h2>
+<ul>
+<li>หากต้องการใช้แผนที่เทเลพอร์ต คุณต้องเปิดใช้งานและเลือกปุ่มลัดที่คุณจะใช้</li>
+<li>เพื่อเทเลพอร์ต, กดปุ่มลัดค้างไว้ขณะเปิดแผนที่แล้วคลิกตำแหน่งที่คุณต้องการเทเลพอร์ต</li>
+</ul>
+<h3> เทเลพอร์ตอย่างรวจเร็ว (<span style="color:yellow;">Sponsor</span>):</h3>
+<ul>
+<li>ปิดการใช้งานหน้าจอการโหลดขณะเทเลพอร์ต</li>
+</ul>
+<h2> วีดีโอตัวอย่าง:</h2>
+<div class="iframe-container"><iframe width="1328" height="747" src="https://www.youtube.com/embed/Xm3mTEbIE9g?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Map TP/Fast TP" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>เทเลพอร์ตภารกิจ</title>
+      <link>https://korepi.com/th/features/Teleport/quest-teleport.html</link>
+      <guid>https://korepi.com/th/features/Teleport/quest-teleport.html</guid>
+      <source url="https://korepi.com/th/rss.xml">เทเลพอร์ตภารกิจ</source>
+      <description>เทเลพอร์ตภารกิจ ช่วยให้คุณสามารถเทเลพอร์ตไปยังตำแหน่งภารกิจที่กำลังดำเนินอยู่ในปัจจุบัน หากต้องการใช้คุณสมบัตินี้, คุณต้องคลิกปุ่มลัดการนำทางของคุณก่อน จากนั้นกดที่คีย์ลัดเพื่อ ...</description>
+      <category>Features</category>
+      <pubDate>Tue, 18 Jun 2024 11:02:56 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> เทเลพอร์ตภารกิจ ช่วยให้คุณสามารถเทเลพอร์ตไปยังตำแหน่งภารกิจที่กำลังดำเนินอยู่ในปัจจุบัน</h2>
+<ul>
+<li>หากต้องการใช้คุณสมบัตินี้, คุณต้องคลิกปุ่มลัดการนำทางของคุณก่อน จากนั้นกดที่คีย์ลัดเพื่อ เทเลพอร์ตภารกิจ</li>
+</ul>
+<h2> วีดีโอตัวอย่าง:</h2>
+<div class="iframe-container"><iframe width="1328" height="747" src="https://www.youtube.com/embed/HNdQu39G2Tc?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - QuestTP" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>เปลี่ยนแอนิเมชั่น</title>
+      <link>https://korepi.com/th/features/Visuals/animation-changer.html</link>
+      <guid>https://korepi.com/th/features/Visuals/animation-changer.html</guid>
+      <source url="https://korepi.com/th/rss.xml">เปลี่ยนแอนิเมชั่น</source>
+      <description>PERTAMAX เท่านั้น เปลี่ยนแอนิเมชั่น, อนุญาตให้ผู้เล่นเปลี่ยนแอนิเมชั่นตัวละครปัจจุบันเป็นแอนิเมชั่นที่เลือก</description>
+      <category>Features</category>
+      <pubDate>Tue, 18 Jun 2024 11:02:56 GMT</pubDate>
+      <content:encoded><![CDATA[<div class="hint-container info">
+<p class="hint-container-title">PERTAMAX เท่านั้น</p>
+</div>
+<h2> เปลี่ยนแอนิเมชั่น, อนุญาตให้ผู้เล่นเปลี่ยนแอนิเมชั่นตัวละครปัจจุบันเป็นแอนิเมชั่นที่เลือก</h2>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>ซูมกล้อง</title>
+      <link>https://korepi.com/th/features/Visuals/camera-zoom.html</link>
+      <guid>https://korepi.com/th/features/Visuals/camera-zoom.html</guid>
+      <source url="https://korepi.com/th/rss.xml">ซูมกล้อง</source>
+      <description>ซูมกล้อง ทำให้ผู้ใช้สามารถเปลี่ยนการซูมของกล้องเป็นค่าที่ต้องการได้</description>
+      <category>Features</category>
+      <pubDate>Tue, 18 Jun 2024 11:02:56 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> ซูมกล้อง ทำให้ผู้ใช้สามารถเปลี่ยนการซูมของกล้องเป็นค่าที่ต้องการได้</h2>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>ตัวแก้ไขกลุ่มดาว</title>
+      <link>https://korepi.com/th/features/Visuals/constellation-modifier.html</link>
+      <guid>https://korepi.com/th/features/Visuals/constellation-modifier.html</guid>
+      <source url="https://korepi.com/th/rss.xml">ตัวแก้ไขกลุ่มดาว</source>
+      <description>PERTAMAX เท่านั้น ตัวแก้ไขกลุ่มดาว, จะเปลี่ยนกลุ่มดาวตัวละครที่ใช้งานอยู่หากเลือก, ตามที่แสดงและบางอันก็จะใช้งานได้จริง คุณสามารถดูข้อมูลเพิ่มเติมเกี่ยวกับรายการเหล่านี้ได้ที่ #...</description>
+      <category>Features</category>
+      <pubDate>Tue, 18 Jun 2024 11:02:56 GMT</pubDate>
+      <content:encoded><![CDATA[<div class="hint-container info">
+<p class="hint-container-title">PERTAMAX เท่านั้น</p>
+</div>
+<hr>
+<h2> ตัวแก้ไขกลุ่มดาว, จะเปลี่ยนกลุ่มดาวตัวละครที่ใช้งานอยู่หากเลือก, ตามที่แสดงและบางอันก็จะใช้งานได้จริง</h2>
+<ul>
+<li>คุณสามารถดูข้อมูลเพิ่มเติมเกี่ยวกับรายการเหล่านี้ได้ที่ <code>#⁠cons-check</code> ในเซิร์ฟเวอร์ดิสคอร์ด</li>
+</ul>
+<div class="hint-container tip">
+<p class="hint-container-title">คุณต้องสลับไปที่ตัวละครแต่ละตัวที่คุณต้องการเปิดใช้งานกลุ่มดาวก่อนแล้วจึงเทเลพอร์ตออกไปที่ไกลๆเพื่อเปิดใช้งาน</p>
+</div>
+<hr>
+<h2> วีดีโอตัวอย่าง:</h2>
+<div class="iframe-container"><iframe width="1328" height="747" src="https://www.youtube.com/embed/S9-g5weE9l8?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Constellation Modifier (Sponsor)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>โปรไฟล์ที่กำหนดเอง</title>
+      <link>https://korepi.com/th/features/Visuals/custom-profile.html</link>
+      <guid>https://korepi.com/th/features/Visuals/custom-profile.html</guid>
+      <source url="https://korepi.com/th/rss.xml">โปรไฟล์ที่กำหนดเอง</source>
+      <description>โปรไฟล์ที่กำหนดเอง: UID: เลือก UID ที่คุณต้องการให้แสดง; ชื่อเล่น: เลือกชื่อเล่นที่คุณต้องการให้แสดง; Level: เลือกเลเวลที่คุณต้องการให้แสดง; EXP: เลือก EXP ที่คุณต้องการให้แสดง;...</description>
+      <category>Features</category>
+      <pubDate>Tue, 18 Jun 2024 11:02:56 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> โปรไฟล์ที่กำหนดเอง:</h2>
+<h3> UID:</h3>
+<ul>
+<li>เลือก UID ที่คุณต้องการให้แสดง</li>
+</ul>
+<h3> ชื่อเล่น:</h3>
+<ul>
+<li>เลือกชื่อเล่นที่คุณต้องการให้แสดง</li>
+</ul>
+<h3> Level:</h3>
+<ul>
+<li>เลือกเลเวลที่คุณต้องการให้แสดง</li>
+</ul>
+<h3> EXP:</h3>
+<ul>
+<li>เลือก EXP ที่คุณต้องการให้แสดง</li>
+</ul>
+<h3> ระดับโลก:</h3>
+<ul>
+<li>เลือกระดับโลกที่คุณต้องการให้แสดง</li>
+</ul>
+<h3> รูป Avatar:</h3>
+<ul>
+<li>ใช้ PNG ที่กำหนดเองเป็นรูป Avatar</li>
+</ul>
+<h3> รูปภาพการ์ด:</h3>
+<ul>
+<li>ใช้ PNG แบบกำหนดเองเป็นรูปภาพการ์ด</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>สภาพอากาศกำหนดเอง</title>
+      <link>https://korepi.com/th/features/Visuals/custom-weather.html</link>
+      <guid>https://korepi.com/th/features/Visuals/custom-weather.html</guid>
+      <source url="https://korepi.com/th/rss.xml">สภาพอากาศกำหนดเอง</source>
+      <description>PERTAMAX เท่านั้น สภาพอากาศกำหนดเอง ให้คุณเปลี่ยนสภาพอากาศได้เองตามใจชอบ</description>
+      <category>Features</category>
+      <pubDate>Tue, 18 Jun 2024 11:02:56 GMT</pubDate>
+      <content:encoded><![CDATA[<div class="hint-container info">
+<p class="hint-container-title">PERTAMAX เท่านั้น</p>
+</div>
+<h2> สภาพอากาศกำหนดเอง ให้คุณเปลี่ยนสภาพอากาศได้เองตามใจชอบ</h2>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>เปลี่ยนอารมณ์</title>
+      <link>https://korepi.com/th/features/Visuals/emotion-changer.html</link>
+      <guid>https://korepi.com/th/features/Visuals/emotion-changer.html</guid>
+      <source url="https://korepi.com/th/rss.xml">เปลี่ยนอารมณ์</source>
+      <description>PERTAMAX เท่านั้น เปลี่ยนอารมณ์ อนุญาตให้ผู้เล่นเปลี่ยนอารมณ์ตัวละครปัจจุบันเป็นอารมณ์ที่เลือกได้</description>
+      <category>Features</category>
+      <pubDate>Tue, 18 Jun 2024 11:02:56 GMT</pubDate>
+      <content:encoded><![CDATA[<div class="hint-container info">
+<p class="hint-container-title">PERTAMAX เท่านั้น</p>
+</div>
+<h2> เปลี่ยนอารมณ์ อนุญาตให้ผู้เล่นเปลี่ยนอารมณ์ตัวละครปัจจุบันเป็นอารมณ์ที่เลือกได้</h2>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>การตั้งค่าการมองเห็นพิเศษ</title>
+      <link>https://korepi.com/th/features/Visuals/extra-visual-settings.html</link>
+      <guid>https://korepi.com/th/features/Visuals/extra-visual-settings.html</guid>
+      <source url="https://korepi.com/th/rss.xml">การตั้งค่าการมองเห็นพิเศษ</source>
+      <description>การตั้งค่าการมองเห็นพิเศษ: Gamma: อนุญาตให้คุณเปลี่ยนค่าGammaของเกมได้; ความกว้าง Outline: อนุญาตให้คุณเปลี่ยนความกว้างของโครงร่างตัวละครทุกตัวในเกมได้; Anti-Aliasing: อนุญาตให้...</description>
+      <category>Features</category>
+      <pubDate>Tue, 18 Jun 2024 11:02:56 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> การตั้งค่าการมองเห็นพิเศษ:</h2>
+<h3> Gamma:</h3>
+<ul>
+<li>อนุญาตให้คุณเปลี่ยนค่าGammaของเกมได้</li>
+</ul>
+<h3> ความกว้าง Outline:</h3>
+<ul>
+<li>อนุญาตให้คุณเปลี่ยนความกว้างของโครงร่างตัวละครทุกตัวในเกมได้</li>
+</ul>
+<h3> Anti-Aliasing:</h3>
+<ul>
+<li>อนุญาตให้คุณเปลี่ยนโหมด anti-aliasing module ที่ใช้, รวมถึงที่ไม่มีในเกม</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>ปลอมแปลงเวลา</title>
+      <link>https://korepi.com/th/features/Visuals/fake-time.html</link>
+      <guid>https://korepi.com/th/features/Visuals/fake-time.html</guid>
+      <source url="https://korepi.com/th/rss.xml">ปลอมแปลงเวลา</source>
+      <description>ปลอมแปลงเวลา: เปลี่ยนแปลงเวลาเล่นเกม (ชั่วโมงและนาที);</description>
+      <category>Features</category>
+      <pubDate>Tue, 18 Jun 2024 11:02:56 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> ปลอมแปลงเวลา:</h2>
+<ul>
+<li>เปลี่ยนแปลงเวลาเล่นเกม (ชั่วโมงและนาที)</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>ปรับแต่งสกินเครื่องร่อน</title>
+      <link>https://korepi.com/th/features/Visuals/flycloak-modifier.html</link>
+      <guid>https://korepi.com/th/features/Visuals/flycloak-modifier.html</guid>
+      <source url="https://korepi.com/th/rss.xml">ปรับแต่งสกินเครื่องร่อน</source>
+      <description>PERTAMAX เท่านั้น ปรับแต่งสกินเครื่องร่อน อนุญาตให้ผู้เล่นเปลี่ยนสกินเครื่องร่อนแม้ว่าคุณจะไม่ได้เป็นเจ้าของก็ตาม</description>
+      <category>Features</category>
+      <pubDate>Tue, 18 Jun 2024 11:02:56 GMT</pubDate>
+      <content:encoded><![CDATA[<div class="hint-container info">
+<p class="hint-container-title">PERTAMAX เท่านั้น</p>
+</div>
+<h2> ปรับแต่งสกินเครื่องร่อน อนุญาตให้ผู้เล่นเปลี่ยนสกินเครื่องร่อนแม้ว่าคุณจะไม่ได้เป็นเจ้าของก็ตาม</h2>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>ปลดล็อก FPS</title>
+      <link>https://korepi.com/th/features/Visuals/fps-unlock.html</link>
+      <guid>https://korepi.com/th/features/Visuals/fps-unlock.html</guid>
+      <source url="https://korepi.com/th/rss.xml">ปลดล็อก FPS</source>
+      <description>ปลดล็อก FPS. ปลดล็อก FPSเย้.ปลดล็อก FPSว้าววววว จำกัด FPS พื้นหลัง: ตั้งค่าfpsสูงสุดของเกมเมื่อไม่ได้โฟกัส;</description>
+      <category>Features</category>
+      <pubDate>Tue, 18 Jun 2024 11:02:56 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> ปลดล็อก FPS. ปลดล็อก FPSเย้.ปลดล็อก FPSว้าววววว</h2>
+<h3> จำกัด FPS พื้นหลัง:</h3>
+<ul>
+<li>ตั้งค่าfpsสูงสุดของเกมเมื่อไม่ได้โฟกัส</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>กล้องอิสระ</title>
+      <link>https://korepi.com/th/features/Visuals/free-camera.html</link>
+      <guid>https://korepi.com/th/features/Visuals/free-camera.html</guid>
+      <source url="https://korepi.com/th/rss.xml">กล้องอิสระ</source>
+      <description>กล้องอิสระ: ขยับกล้องได้อย่างอิสระโดยไม่ล็อคอยู่กับตัวละคร; แช่แข็งแอนิเมชันตัวละคร: แช่แข็งแอนิเมชันตัวละคร; ทำให้ตัวละครล่องหน: ก็ทำให้ตัวละครล่องหนไง; บล็อกการป้อนข้อมูลของผู...</description>
+      <category>Features</category>
+      <pubDate>Tue, 18 Jun 2024 11:02:56 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> กล้องอิสระ:</h2>
+<ul>
+<li>ขยับกล้องได้อย่างอิสระโดยไม่ล็อคอยู่กับตัวละคร</li>
+</ul>
+<h3> แช่แข็งแอนิเมชันตัวละคร:</h3>
+<ul>
+<li>แช่แข็งแอนิเมชันตัวละคร</li>
+</ul>
+<h3> ทำให้ตัวละครล่องหน:</h3>
+<ul>
+<li>ก็ทำให้ตัวละครล่องหนไง</li>
+</ul>
+<h3> บล็อกการป้อนข้อมูลของผู้ใช้:</h3>
+<ul>
+<li>บล็อกการป้อนข้อมูลของผู้ใช้ ดังนั้นตัวละครจะไม่เคลื่อนไหวขณะเคลื่อนย้ายกล้อง</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>ซ่อน UI</title>
+      <link>https://korepi.com/th/features/Visuals/hide-ui.html</link>
+      <guid>https://korepi.com/th/features/Visuals/hide-ui.html</guid>
+      <source url="https://korepi.com/th/rss.xml">ซ่อน UI</source>
+      <description>ซ่อน UI: ซ่อนหน้าจอ UI ทั้งหมด; ซ่อนปิง: (Sponsor) ซ่อน ping เท่านั้น; ซ่อนแถบ HP: (Sponsor) ซ่อนแถบ HP ของตัวละครปัจจุบันเท่านั้น; ซ่อนแถบ HP ของทีม: (Sponsor) ซ่อนแถบ HP ของที...</description>
+      <category>Features</category>
+      <pubDate>Tue, 18 Jun 2024 11:02:56 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> ซ่อน UI:</h2>
+<ul>
+<li>ซ่อนหน้าจอ UI ทั้งหมด</li>
+</ul>
+<h3> ซ่อนปิง: (<span style="color:yellow;">Sponsor</span>)</h3>
+<ul>
+<li>ซ่อน ping เท่านั้น</li>
+</ul>
+<h3> ซ่อนแถบ HP: (<span style="color:yellow;">Sponsor</span>)</h3>
+<ul>
+<li>ซ่อนแถบ HP ของตัวละครปัจจุบันเท่านั้น</li>
+</ul>
+<h3> ซ่อนแถบ HP ของทีม: (<span style="color:yellow;">Sponsor</span>)</h3>
+<ul>
+<li>ซ่อนแถบ HP ของทีมบนแท็บตัวละคร</li>
+</ul>
+<h1> วีดีโอตัวอย่าง:</h1>
+<div class="iframe-container"><iframe width="1328" height="747" src="https://www.youtube.com/embed/EtRT95qEW6Y?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Hide UI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>]]></content:encoded>
+    </item>
+    <item>
+      <title>ซูมแผนที่</title>
+      <link>https://korepi.com/th/features/Visuals/map-zoom.html</link>
+      <guid>https://korepi.com/th/features/Visuals/map-zoom.html</guid>
+      <source url="https://korepi.com/th/rss.xml">ซูมแผนที่</source>
+      <description>เปลี่ยนค่าการซูมแผนที่</description>
+      <category>Features</category>
+      <pubDate>Tue, 18 Jun 2024 11:02:56 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> เปลี่ยนค่าการซูมแผนที่</h2>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>เปลี่ยนมอนสเตอร์</title>
+      <link>https://korepi.com/th/features/Visuals/monster-changer.html</link>
+      <guid>https://korepi.com/th/features/Visuals/monster-changer.html</guid>
+      <source url="https://korepi.com/th/rss.xml">เปลี่ยนมอนสเตอร์</source>
+      <description>เปลี่ยนมอนสเตอร์: เมื่อเปิดใช้งาน, มอนสเตอร์ที่เรนเดอร์ใหม่ทั้งหมดจะถูกเปลี่ยนเป็นมอนสเตอร์ที่เลือก; ยกเว้นสัตว์: เปิดหรือปิดการเปลี่ยนสัตว์; ID มอนสเตอร์ที่กำหนดเอง: ใช้ ID แทน...</description>
+      <category>Features</category>
+      <pubDate>Tue, 18 Jun 2024 11:02:56 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> เปลี่ยนมอนสเตอร์:</h2>
+<ul>
+<li>เมื่อเปิดใช้งาน, มอนสเตอร์ที่เรนเดอร์ใหม่ทั้งหมดจะถูกเปลี่ยนเป็นมอนสเตอร์ที่เลือก</li>
+</ul>
+<h3> ยกเว้นสัตว์:</h3>
+<ul>
+<li>เปิดหรือปิดการเปลี่ยนสัตว์</li>
+</ul>
+<h3> ID มอนสเตอร์ที่กำหนดเอง:</h3>
+<ul>
+<li>ใช้ ID แทนรายการที่ให้ไว้</li>
+</ul>
+<h3> สุ่มมอนสเตอร์:</h3>
+<ul>
+<li>การเปลี่ยนแปลงจะเป็นการสุ่ม</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>อื่นๆ</title>
+      <link>https://korepi.com/th/features/Visuals/others.html</link>
+      <guid>https://korepi.com/th/features/Visuals/others.html</guid>
+      <source url="https://korepi.com/th/rss.xml">อื่นๆ</source>
+      <description>คุณสมบัติอื่น ๆ: แสดงตัวชี้หีบสมบัติ เปิดใช้งาน Peeking ไม่มีจอดำ ไม่มีหมอก ไม่มีหญ้า ไม่มีหมอกในแผนที่ Paimon ติดตาม Dolphin Dive ไอคอน GM ตัวปลดล็อคเมนู Sponsor เท่านั้น ไม่มี...</description>
+      <category>Features</category>
+      <pubDate>Tue, 18 Jun 2024 11:02:56 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> คุณสมบัติอื่น ๆ:</h2>
+<h3> แสดงตัวชี้หีบสมบัติ</h3>
+<h3> เปิดใช้งาน Peeking</h3>
+<h3> ไม่มีจอดำ</h3>
+<h3> ไม่มีหมอก</h3>
+<h3> ไม่มีหญ้า</h3>
+<h3> ไม่มีหมอกในแผนที่</h3>
+<h3> Paimon ติดตาม</h3>
+<h3> Dolphin Dive</h3>
+<h3> ไอคอน GM</h3>
+<h3> ตัวปลดล็อคเมนู</h3>
+<h2> <span style="color:yellow;">Sponsor เท่านั้น</span></h2>
+<h3> ไม่มีกล้องเบลอ</h3>
+<h3> ไม่มีกล้องสั่น</h3>
+<h3> ไม่มีรอยเท้า</h3>
+<h3> ไม่มีแอนิเมชั่นอันติ</h3>
+<h2> วีดีโอตัวอย่าง:</h2>
+<div class="iframe-container"><iframe width="1328" height="747" src="https://www.youtube.com/embed/AjkJ8S8NHsI?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Visuals/Other" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>]]></content:encoded>
+    </item>
+    <item>
+      <title>ตัวปรับแต่งสกิน</title>
+      <link>https://korepi.com/th/features/Visuals/skin-modifier.html</link>
+      <guid>https://korepi.com/th/features/Visuals/skin-modifier.html</guid>
+      <source url="https://korepi.com/th/rss.xml">ตัวปรับแต่งสกิน</source>
+      <description>PERTAMAX เท่านั้น ตัวปรับแต่งสกิน อนุญาตให้ผู้เล่นใช้สกินในเกมได้ฟรี</description>
+      <category>Features</category>
+      <pubDate>Tue, 18 Jun 2024 11:02:56 GMT</pubDate>
+      <content:encoded><![CDATA[<div class="hint-container info">
+<p class="hint-container-title">PERTAMAX เท่านั้น</p>
+</div>
+<h2> ตัวปรับแต่งสกิน อนุญาตให้ผู้เล่นใช้สกินในเกมได้ฟรี</h2>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>ตัวเปลี่ยนพื้นผิว</title>
+      <link>https://korepi.com/th/features/Visuals/texture-changer.html</link>
+      <guid>https://korepi.com/th/features/Visuals/texture-changer.html</guid>
+      <source url="https://korepi.com/th/rss.xml">ตัวเปลี่ยนพื้นผิว</source>
+      <description>มันดีกว่าถ้าใช้ GIMI (../../guide/3DM-tutorial.md) สำหรับการเปลี่ยนพื้นผิว ตัวเปลี่ยนพื้นผิว อนุญาตให้สลับส่วนของตัวละครเป็นไฟล์ .png ที่ให้มา</description>
+      <category>Features</category>
+      <pubDate>Tue, 18 Jun 2024 11:02:56 GMT</pubDate>
+      <content:encoded><![CDATA[<div class="hint-container info">
+<p class="hint-container-title">Info</p>
+<p>มันดีกว่าถ้าใช้ <a href="/th/guide/3DM-tutorial.html" target="blank">GIMI</a> สำหรับการเปลี่ยนพื้นผิว</p>
+</div>
+<hr>
+<h2> ตัวเปลี่ยนพื้นผิว อนุญาตให้สลับส่วนของตัวละครเป็นไฟล์ .png ที่ให้มา</h2>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>เปิดใช้งานเสาเทเลพอร์ตอัตโนมัติ</title>
+      <link>https://korepi.com/th/features/World/auto-activate-tp.html</link>
+      <guid>https://korepi.com/th/features/World/auto-activate-tp.html</guid>
+      <source url="https://korepi.com/th/rss.xml">เปิดใช้งานเสาเทเลพอร์ตอัตโนมัติ</source>
+      <description>Sponsor เท่านั้น เปิดใช้งานเสาเทเลพอร์ตอัตโนมัติ เปิดใช้งานเสาเทเลพอร์ตรอบๆ 50m วีดีโอตัวอย่าง:</description>
+      <category>Features</category>
+      <pubDate>Tue, 18 Jun 2024 11:02:56 GMT</pubDate>
+      <content:encoded><![CDATA[<div class="hint-container info">
+<p class="hint-container-title">Sponsor เท่านั้น</p>
+</div>
+<hr>
+<h3> เปิดใช้งานเสาเทเลพอร์ตอัตโนมัติ เปิดใช้งานเสาเทเลพอร์ตรอบๆ 50m</h3>
+<h2> วีดีโอตัวอย่าง:</h2>
+<div class="iframe-container"><iframe width="1328" height="747" src="https://www.youtube.com/embed/qstBErr9mJ0?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - AutoActivateTP (Sponsor)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Challenge อัตโนมัติ</title>
+      <link>https://korepi.com/th/features/World/auto-challenge.html</link>
+      <guid>https://korepi.com/th/features/World/auto-challenge.html</guid>
+      <source url="https://korepi.com/th/rss.xml">Challenge อัตโนมัติ</source>
+      <description>Challenge อัตโนมัติ ช่วยให้คุณทำChallengeปัจจุบันให้เสร็จสิ้นภายในเวลาที่คุณกำหนด ค่าเหล่านี้สามารถตั้งได้ตามที่คุณต้องการ วีดีโอตัวอย่าง: โน้ต: ไม่แนะนำให้ใช้กับดีเลย์ต่ำและระย...</description>
+      <category>Features</category>
+      <pubDate>Tue, 18 Jun 2024 11:02:56 GMT</pubDate>
+      <content:encoded><![CDATA[<h3> Challenge อัตโนมัติ ช่วยให้คุณทำChallengeปัจจุบันให้เสร็จสิ้นภายในเวลาที่คุณกำหนด ค่าเหล่านี้สามารถตั้งได้ตามที่คุณต้องการ</h3>
+<h2> วีดีโอตัวอย่าง:</h2>
+<div class="iframe-container"><iframe width="1328" height="747" src="https://www.youtube.com/embed/7JNegfQiK2U?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Challenge" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
+<blockquote>
+<p>โน้ต: ไม่แนะนำให้ใช้กับดีเลย์ต่ำและระยะไกล</p>
+</blockquote>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>ปรุงอาหารอัตโนมัติ</title>
+      <link>https://korepi.com/th/features/World/auto-cook.html</link>
+      <guid>https://korepi.com/th/features/World/auto-cook.html</guid>
+      <source url="https://korepi.com/th/rss.xml">ปรุงอาหารอัตโนมัติ</source>
+      <description>PERTAMAX เท่านั้น ปรุงอาหารอัตโนมัติ ให้คุณปรุงอาหารตามจำนวนและคุณภาพที่กำหนดบนหน้าปรุงอาหาร, รวมถึงมีชำนาญการปรุงอาหารอัตโนมิติ (ปลดล็อกการปรุงอัตโนมัติ)อีกด้วย วีดีโอตัวอย่าง:</description>
+      <category>Features</category>
+      <pubDate>Tue, 18 Jun 2024 11:02:56 GMT</pubDate>
+      <content:encoded><![CDATA[<div class="hint-container info">
+<p class="hint-container-title">PERTAMAX เท่านั้น</p>
+</div>
+<h3> ปรุงอาหารอัตโนมัติ ให้คุณปรุงอาหารตามจำนวนและคุณภาพที่กำหนดบนหน้าปรุงอาหาร, รวมถึงมีชำนาญการปรุงอาหารอัตโนมิติ (ปลดล็อกการปรุงอัตโนมัติ)อีกด้วย</h3>
+<h2> วีดีโอตัวอย่าง:</h2>
+<div class="iframe-container"><iframe width="1328" height="747" src="https://www.youtube.com/embed/T_X13AXiAiY?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Cook" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>ทำลายวัตถุอัตโนมัติ</title>
+      <link>https://korepi.com/th/features/World/auto-destroy.html</link>
+      <guid>https://korepi.com/th/features/World/auto-destroy.html</guid>
+      <source url="https://korepi.com/th/rss.xml">ทำลายวัตถุอัตโนมัติ</source>
+      <description>PERTAMAX เท่านั้น ทำลายวัตถุอัตโนมัติ ให้คุณเลือกว่าจะทำลายวัตถุใดบ้างในระยะที่กำหนด ได้แก่ แร่ พืช กองหิน หีบ วัตถุพิเศษ โล่ ฯลฯ วีดีโอตัวอย่าง: โน้ต: แนะนำตั้งต่ำกว่า 20m, ไม่...</description>
+      <category>Features</category>
+      <pubDate>Tue, 18 Jun 2024 11:02:56 GMT</pubDate>
+      <content:encoded><![CDATA[<div class="hint-container info">
+<p class="hint-container-title">PERTAMAX เท่านั้น</p>
+</div>
+<h3> ทำลายวัตถุอัตโนมัติ ให้คุณเลือกว่าจะทำลายวัตถุใดบ้างในระยะที่กำหนด ได้แก่ แร่ พืช กองหิน หีบ วัตถุพิเศษ โล่ ฯลฯ</h3>
+<h2> วีดีโอตัวอย่าง:</h2>
+<div class="iframe-container"><iframe width="1328" height="747" src="https://www.youtube.com/embed/3ML6s3SR8nE?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Destroy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
+<blockquote>
+<p>โน้ต: แนะนำตั้งต่ำกว่า <code>20m</code>, ไม่แนะนำให้ใช้ระยะเกิน (<code>40m</code>)</p>
+</blockquote>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Domain อัตโนมัติ (WIP)</title>
+      <link>https://korepi.com/th/features/World/auto-domain.html</link>
+      <guid>https://korepi.com/th/features/World/auto-domain.html</guid>
+      <source url="https://korepi.com/th/rss.xml">Domain อัตโนมัติ (WIP)</source>
+      <description>เร็วๆนี้.</description>
+      <category>Features</category>
+      <pubDate>Tue, 18 Jun 2024 11:02:56 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> เร็วๆนี้.</h2>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Loot ของอัตโนมัติ</title>
+      <link>https://korepi.com/th/features/World/auto-loot.html</link>
+      <guid>https://korepi.com/th/features/World/auto-loot.html</guid>
+      <source url="https://korepi.com/th/rss.xml">Loot ของอัตโนมัติ</source>
+      <description>Loot ของอัตโนมัติ ช่วยให้คุณสามารถรวบรวมของอัตโนมัติภายในระยะและดีเลย์ที่กำหนด ของlootที่จะถูกรวบรวมนั้นสามารถปรับแต่งได้ รวมถึงหีบ, ม็อบดรอป และอื่นๆ วีดีโอตัวอย่าง: โน้ต: แนะน...</description>
+      <category>Features</category>
+      <pubDate>Tue, 18 Jun 2024 11:02:56 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Loot ของอัตโนมัติ ช่วยให้คุณสามารถรวบรวมของอัตโนมัติภายในระยะและดีเลย์ที่กำหนด ของlootที่จะถูกรวบรวมนั้นสามารถปรับแต่งได้ รวมถึงหีบ, ม็อบดรอป และอื่นๆ</h2>
+<h2> วีดีโอตัวอย่าง:</h2>
+<div class="iframe-container"><iframe width="1328" height="747" src="https://www.youtube.com/embed/wUyI2XO_Z4E?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Loot" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
+<blockquote>
+<p>โน้ต: แนะนำต่ำกว่า <code>10m</code> สำหรับใช้ทั่วไป และ <code>20m</code> ถ้าใช้ tp แบบกำหนดเอง
+โน้ต 2: ระยะที่ไกลขึ้นควรใช้กับเวลาดีเลย์ที่สูงขึ้นด้วย</p>
+</blockquote>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>แก้ puzzle อัตโนมัติ</title>
+      <link>https://korepi.com/th/features/World/auto-puzzle.html</link>
+      <guid>https://korepi.com/th/features/World/auto-puzzle.html</guid>
+      <source url="https://korepi.com/th/rss.xml">แก้ puzzle อัตโนมัติ</source>
+      <description>แก้ puzzle อัตโนมัติ จะแก้ puzzle ที่เลือกจนเสร็จโดยอัตโนมัติตามระยะและดีเลย์ที่กำหนด วีดีโอตัวอย่าง: เร็วๆนี้...</description>
+      <category>Features</category>
+      <pubDate>Tue, 18 Jun 2024 11:02:56 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> แก้ puzzle อัตโนมัติ จะแก้ puzzle ที่เลือกจนเสร็จโดยอัตโนมัติตามระยะและดีเลย์ที่กำหนด</h2>
+<h2> วีดีโอตัวอย่าง:</h2>
+<p>เร็วๆนี้...</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Seelie อัตโนมัติ</title>
+      <link>https://korepi.com/th/features/World/auto-seelie.html</link>
+      <guid>https://korepi.com/th/features/World/auto-seelie.html</guid>
+      <source url="https://korepi.com/th/rss.xml">Seelie อัตโนมัติ</source>
+      <description>Seelie อัตโนมัติ จะลบความจำเป็นของผู้เล่นในการติดตาม seelie อย่างต่อเนื่อง, seelie จะไปยังจุดหมายปลายทางที่ออกแบบไว้เมื่อผู้เล่นเข้าใกล้ วีดีโอตัวอย่าง:</description>
+      <category>Features</category>
+      <pubDate>Tue, 18 Jun 2024 11:02:56 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Seelie อัตโนมัติ จะลบความจำเป็นของผู้เล่นในการติดตาม seelie อย่างต่อเนื่อง, seelie จะไปยังจุดหมายปลายทางที่ออกแบบไว้เมื่อผู้เล่นเข้าใกล้</h2>
+<h2> วีดีโอตัวอย่าง:</h2>
+<div class="iframe-container"><iframe width="1328" height="747" src="https://www.youtube.com/embed/uETIJ4KS39M?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Seelie" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>คุยอัตโนมัติ</title>
+      <link>https://korepi.com/th/features/World/auto-talk.html</link>
+      <guid>https://korepi.com/th/features/World/auto-talk.html</guid>
+      <source url="https://korepi.com/th/rss.xml">คุยอัตโนมัติ</source>
+      <description>คุยอัตโนมัติ: พูดคุยกับ NPC โดยอัตโนมัติ Dialog อย่างรวดเร็ว: เพิ่มความเร็วของเกมด้วยค่าที่เลือกเพื่อทำให้ Dialogโต้ตอบเร็วขึ้น; โน้ต: ไม่แนะนำให้ใช้เกิน 5 ข้าม Dialog (Sponsor)...</description>
+      <category>Features</category>
+      <pubDate>Tue, 18 Jun 2024 11:02:56 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> คุยอัตโนมัติ: พูดคุยกับ NPC โดยอัตโนมัติ</h2>
+<h3> Dialog อย่างรวดเร็ว:</h3>
+<ul>
+<li>เพิ่มความเร็วของเกมด้วยค่าที่เลือกเพื่อทำให้ Dialogโต้ตอบเร็วขึ้น</li>
+</ul>
+<blockquote>
+<p>โน้ต: ไม่แนะนำให้ใช้เกิน <code>5</code></p>
+</blockquote>
+<h3> ข้าม Dialog (Sponsor):</h3>
+<ul>
+<li>ข้าม Dialogโต้ตอบโดยมีดีเลย์ตามเวลาที่เลือก, ปลอดภัยกว่าDialog อย่างรวดเร็ว</li>
+</ul>
+<blockquote>
+<p>โน้ต: ไม่แนะนำให้ใช้ต่ำกว่า <code>200ms</code></p>
+</blockquote>
+<h3> Cutscene อย่างรวดเร็ว:</h3>
+<ul>
+<li>เพิ่มความเร็วของเกมด้วยค่าที่เลือกเพื่อทำให้คัตซีนเร็วขึ้น</li>
+</ul>
+<blockquote>
+<p>โน้ต: ไม่แนะนำให้ใช้เกิน <code>5</code></p>
+</blockquote>
+<h3> ข้ามฉากพูดคุย:</h3>
+<ul>
+<li>ข้ามฉากพูดคุยเมื่อถูกtriggerหรือดำเนินอยู่</li>
+</ul>
+<blockquote>
+<p>โน้ต: อาจจอดำขณะใช้งาน</p>
+</blockquote>
+<h3> ข้าม Cutscene:</h3>
+<ul>
+<li>ข้าม Cutscene เมื่อถูกtriggerหรือดำเนินอยู่</li>
+</ul>
+<blockquote>
+<p>โน้ต: อาจจอดำขณะใช้งาน</p>
+</blockquote>
+<h2> วีดีโอตัวอย่าง:</h2>
+<div class="iframe-container"><iframe width="1328" height="747" src="https://www.youtube.com/embed/IS0BvLLO1xc?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - AutoTalk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>ฟาร์มต้นไม้อัตโนมัติ</title>
+      <link>https://korepi.com/th/features/World/auto-tree-farm.html</link>
+      <guid>https://korepi.com/th/features/World/auto-tree-farm.html</guid>
+      <source url="https://korepi.com/th/rss.xml">ฟาร์มต้นไม้อัตโนมัติ</source>
+      <description>PERTAMAX เท่านั้น ฟาร์มต้นไม้อัตโนมัติ ให้คุณต่อยต้นไม้ใกล้เคียงตามค่าและดีเลย์ที่เลือก และเก็บไม้จากต้นไม้ใกล้เคียงโดยอัตโนมัติ วีดีโอตัวอย่าง: โน้ต: ไม่แนะนำให้เปลี่ยนค่าเริ่มต้น</description>
+      <category>Features</category>
+      <pubDate>Tue, 18 Jun 2024 11:02:56 GMT</pubDate>
+      <content:encoded><![CDATA[<div class="hint-container info">
+<p class="hint-container-title">PERTAMAX เท่านั้น</p>
+</div>
+<hr>
+<h3> ฟาร์มต้นไม้อัตโนมัติ ให้คุณต่อยต้นไม้ใกล้เคียงตามค่าและดีเลย์ที่เลือก และเก็บไม้จากต้นไม้ใกล้เคียงโดยอัตโนมัติ</h3>
+<h2> วีดีโอตัวอย่าง:</h2>
+<div class="iframe-container"><iframe width="1328" height="747" src="https://www.youtube.com/embed/v95_NOxc4do?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Tree Farm" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
+<blockquote>
+<p>โน้ต: ไม่แนะนำให้เปลี่ยนค่าเริ่มต้น</p>
+</blockquote>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Aura ธาตุ</title>
+      <link>https://korepi.com/th/features/World/elemental-aura.html</link>
+      <guid>https://korepi.com/th/features/World/elemental-aura.html</guid>
+      <source url="https://korepi.com/th/rss.xml">Aura ธาตุ</source>
+      <description>Sponsor เท่านั้น Aura ธาตุ จะใช้งานธาตุตามธาตุ,ระยะและดีเลย์ที่กำหนดไปยังเป้าหมาย,วัตถุหรือตัวคุณเอง สามารถใช้งานหลายๆธาตุกับเป้าหมายใกล้เคียงได้ วีดีโอตัวอย่าง: โน้ต: ดีเลย์ที่...</description>
+      <category>Features</category>
+      <pubDate>Tue, 18 Jun 2024 11:02:56 GMT</pubDate>
+      <content:encoded><![CDATA[<div class="hint-container info">
+<p class="hint-container-title">Sponsor เท่านั้น</p>
+</div>
+<hr>
+<h3> Aura ธาตุ จะใช้งานธาตุตามธาตุ,ระยะและดีเลย์ที่กำหนดไปยังเป้าหมาย,วัตถุหรือตัวคุณเอง สามารถใช้งานหลายๆธาตุกับเป้าหมายใกล้เคียงได้</h3>
+<h2> วีดีโอตัวอย่าง:</h2>
+<div class="iframe-container"><iframe width="1328" height="747" src="https://www.youtube.com/embed/FskTJiknOgQ?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Elemental Aura (Sponsor)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
+<blockquote>
+<p>โน้ต: ดีเลย์ที่ต่ำจะเพิ่มโอกาสในการถูกตรวจจับ</p>
+</blockquote>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>ความเร็วเกม</title>
+      <link>https://korepi.com/th/features/World/game-speed.html</link>
+      <guid>https://korepi.com/th/features/World/game-speed.html</guid>
+      <source url="https://korepi.com/th/rss.xml">ความเร็วเกม</source>
+      <description>ความเร็วเกม. จะเร่งหรือลดความเร็วลง. ยังไงก็ได้ โน้ต: ไม่แนะนำให้ใช้นอกเมนูหรือโดยทั่วไป วีดีโอตัวอย่าง:</description>
+      <category>Features</category>
+      <pubDate>Tue, 18 Jun 2024 11:02:56 GMT</pubDate>
+      <content:encoded><![CDATA[<h3> ความเร็วเกม. จะเร่งหรือลดความเร็วลง. ยังไงก็ได้</h3>
+<blockquote>
+<p>โน้ต: ไม่แนะนำให้ใช้นอกเมนูหรือโดยทั่วไป</p>
+</blockquote>
+<h2> วีดีโอตัวอย่าง:</h2>
+<div class="iframe-container"><iframe width="1328" height="747" src="https://www.youtube.com/embed/MzXhudYkaDg?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Game Speed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Kill Aura</title>
+      <link>https://korepi.com/th/features/World/kill-aura.html</link>
+      <guid>https://korepi.com/th/features/World/kill-aura.html</guid>
+      <source url="https://korepi.com/th/rss.xml">Kill Aura</source>
+      <description>PERTAMAX เท่านั้น คุณสมบัตินี้มีความเสี่ยงสูงที่จะถูกแบน Kill Aura: สร้างความเสียหายให้กับศัตรูที่อยู่รอบๆ โหมดการโจมตีแบบทำลาย: สร้างความเสียหายการตกจากที่สูงต่อศัตรูที่อยู่รอบ...</description>
+      <category>Features</category>
+      <pubDate>Tue, 18 Jun 2024 11:02:56 GMT</pubDate>
+      <content:encoded><![CDATA[<div class="hint-container info">
+<p class="hint-container-title">PERTAMAX เท่านั้น</p>
+</div>
+<div class="hint-container danger">
+<p class="hint-container-title">คุณสมบัตินี้มีความเสี่ยงสูงที่จะถูกแบน</p>
+</div>
+<hr>
+<h2> Kill Aura: สร้างความเสียหายให้กับศัตรูที่อยู่รอบๆ</h2>
+<h3> โหมดการโจมตีแบบทำลาย:</h3>
+<ul>
+<li>สร้างความเสียหายการตกจากที่สูงต่อศัตรูที่อยู่รอบๆ ด้วยค่า ดีเลย์ และระยะที่กำหนด</li>
+</ul>
+<blockquote>
+<p>โน้ต: ไม่แนะนำให้ใช้ค่าที่สูง</p>
+</blockquote>
+<h3> โหมดเปอร์เซ็นต์:</h3>
+<ul>
+<li>จำนวนครั้งการโจมตีที่ต้องใช้ฆ่าศัตรู</li>
+</ul>
+<blockquote>
+<p>โน้ต: แนะนำให้ใช้ <code>3</code> หรือมากกว่า</p>
+</blockquote>
+<h3> เหลือHP:</h3>
+<ul>
+<li>ยังไงก็ตาม หรือ ไม่ทิ้ง HP ตามจำนวนที่กำหนดให้กับศัตรูที่อยู่รอบๆ</li>
+</ul>
+<h3> โหมด ตายทันที:</h3>
+<ul>
+<li>จะพยายามทำให้ศัตรูหายไป</li>
+</ul>
+<blockquote>
+<p>โน้ต: อาจจะเกิดปัญหากับบอสบางตัว
+โน้ต 2: ไม่แนะนำให้ใช้</p>
+</blockquote>
+<h3> เฉพาะศัตรู/Aggro:</h3>
+<ul>
+<li>ไม่ว่ายังไงก็ตามจะล็อกเป้าหมายเฉพาะศัตรูเท่านั้น</li>
+</ul>
+<h2> วีดีโอตัวอย่าง:</h2>
+<div class="iframe-container"><iframe width="1328" height="747" src="https://www.youtube.com/embed/NiAh00VBy-w?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Kill Aura" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>ตัวจัดการแผนที่</title>
+      <link>https://korepi.com/th/features/World/map-manager.html</link>
+      <guid>https://korepi.com/th/features/World/map-manager.html</guid>
+      <source url="https://korepi.com/th/rss.xml">ตัวจัดการแผนที่</source>
+      <description>ตัวจัดการแผนที่ ทำให้ผู้เล่นสามารถปลดล็อกรูปปั้นทั้ง7ได้และWaypoint โดยอัตโนมัติโดยไม่ต้องย้ายจากสถานที่,เหมาะสำหรับการรีโรลบัญชี</description>
+      <category>Features</category>
+      <pubDate>Tue, 18 Jun 2024 11:02:56 GMT</pubDate>
+      <content:encoded><![CDATA[<h3> ตัวจัดการแผนที่ ทำให้ผู้เล่นสามารถปลดล็อกรูปปั้นทั้ง7ได้และWaypoint โดยอัตโนมัติโดยไม่ต้องย้ายจากสถานที่,เหมาะสำหรับการรีโรลบัญชี</h3>
+<div class="iframe-container"><iframe width="1328" height="747" src="https://www.youtube.com/embed/jOY5Gm2z8To?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Map Manager - Korepi" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>การดูดMobs</title>
+      <link>https://korepi.com/th/features/World/mob-vacuum.html</link>
+      <guid>https://korepi.com/th/features/World/mob-vacuum.html</guid>
+      <source url="https://korepi.com/th/rss.xml">การดูดMobs</source>
+      <description>PERTAMAX เท่านั้น การดูดMobs ขยับMobsใกล้เคียงไปหาผู้เล่นด้วยความเร็วและระยะที่เลือก สามารถปรับเลือกMobsที่จะดูดได้ วีดีโอตัวอย่าง: โน้ต: แนะนำให้ต่ำกว่า 20m</description>
+      <category>Features</category>
+      <pubDate>Tue, 18 Jun 2024 11:02:56 GMT</pubDate>
+      <content:encoded><![CDATA[<div class="hint-container info">
+<p class="hint-container-title">PERTAMAX เท่านั้น</p>
+</div>
+<h2> การดูดMobs ขยับMobsใกล้เคียงไปหาผู้เล่นด้วยความเร็วและระยะที่เลือก สามารถปรับเลือกMobsที่จะดูดได้</h2>
+<h2> วีดีโอตัวอย่าง:</h2>
+<div class="iframe-container"><iframe width="1328" height="747" src="https://www.youtube.com/embed/KNzVgG_V10I?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Mob Vacuum" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
+<blockquote>
+<p>โน้ต: แนะนำให้ต่ำกว่า <code>20m</code></p>
+</blockquote>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>อื่นๆ</title>
+      <link>https://korepi.com/th/features/World/others.html</link>
+      <guid>https://korepi.com/th/features/World/others.html</guid>
+      <source url="https://korepi.com/th/rss.xml">อื่นๆ</source>
+      <description>คุณสมบัติอื่น ๆ: เปิดตั้งค่าทีมทันที ข้ามแอนิเมชั่น Enhance ทันที ศัตรูโง่ แช่แข็ง ศัตรู ธาตุ Sight ถาวร</description>
+      <category>Features</category>
+      <pubDate>Tue, 18 Jun 2024 11:02:56 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> คุณสมบัติอื่น ๆ:</h2>
+<h3> เปิดตั้งค่าทีมทันที</h3>
+<h3> ข้ามแอนิเมชั่น Enhance ทันที</h3>
+<h3> ศัตรูโง่</h3>
+<h3> แช่แข็ง ศัตรู</h3>
+<h3> ธาตุ Sight ถาวร</h3>
+<h1> วีดีโอตัวอย่าง:</h1>
+<div class="iframe-container"><iframe width="1328" height="747" src="https://www.youtube.com/embed/Pq0OiHN-DPg?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - World/Others" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>]]></content:encoded>
+    </item>
+    <item>
+      <title>การดูดLoot</title>
+      <link>https://korepi.com/th/features/World/vacuum-loot.html</link>
+      <guid>https://korepi.com/th/features/World/vacuum-loot.html</guid>
+      <source url="https://korepi.com/th/rss.xml">การดูดLoot</source>
+      <description>PERTAMAX เท่านั้น การดูดLoot ย้ายดรอปใกล้เคียงไปหาผู้เล่นด้วยระยะและดีเลย์ที่กำหนด วีดีโอตัวอย่าง: โน้ต: แนะนำให้ต่ำกว่า 20m</description>
+      <category>Features</category>
+      <pubDate>Tue, 18 Jun 2024 11:02:56 GMT</pubDate>
+      <content:encoded><![CDATA[<div class="hint-container info">
+<p class="hint-container-title">PERTAMAX เท่านั้น</p>
+</div>
+<h2> การดูดLoot ย้ายดรอปใกล้เคียงไปหาผู้เล่นด้วยระยะและดีเลย์ที่กำหนด</h2>
+<h2> วีดีโอตัวอย่าง:</h2>
+<div class="iframe-container"><iframe width="1328" height="747" src="https://www.youtube.com/embed/iMElTsNF77c?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Vacuum Loot" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
+<blockquote>
+<p>โน้ต: แนะนำให้ต่ำกว่า <code>20m</code></p>
+</blockquote>
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>
