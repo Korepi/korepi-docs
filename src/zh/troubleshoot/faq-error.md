@@ -10,7 +10,7 @@ order: 2
 ---
 ## 常见错误列表
 
-### 为什么我的Korepi消失了？
+### 1.为什么我的Korepi消失了？
 
 确保您的防病毒软件已停用，创建一个新文件夹并将其添加到排除列表中。
 
@@ -19,14 +19,14 @@ order: 2
 在排除列表中解压Korepi并重新运行。
 
 ---
-### 状态：未发现活跃订阅，无效的许可密钥
+### 2.状态：未发现活跃订阅，无效的许可密钥
 
 您需要从“⁠★⋅micah-bot-verify⋅★”处[获取一个新密钥](../guide/key-use.md)，如果无法获取密钥或密钥无效，您必须等待密钥到期。
 
 `赞助商可以使用 F:Reset Key 代替`
 
 ---
-### [DLL注入] 进程崩溃，退出码为0xc000005
+### 3.[DLL注入] 进程崩溃，退出码为0xc000005
 
 以管理员身份打开命令提示符并输入以下命令：
 
@@ -42,26 +42,26 @@ order: 2
 如果这样无法解决问题，请重新安装Windows。
 
 ---
-### ImGUI：DirectX11后端初始化成功。
+### 4.ImGUI：DirectX11后端初始化成功。
 
 错误是因为主题，清空主题文件夹。
 
 ---
-### 系统未检测到MSVCP140.dll
+### 5.系统未检测到MSVCP140.dll
 
 更新[Microsoft Visual Studio C++](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170#visual-studio-2015-2017-2019-and-2022)
 
 更新[DirectX](https://www.microsoft.com/en-us/download/details.aspx?id=35)
 
 ---
-### 文件损坏！该程序已被篡改，可能已被感染。
+### 6.文件损坏！该程序已被篡改，可能已被感染。
 
 ![](/assets/images/docs/202312/virus2.png)
 
 在这种情况下，您可以尝试使用`Malware Bytes`或`Dr.Web`进行全面扫描，如果发现任何病毒，请将其删除，然后重新启动并重试。如果这样也无效，则重新安装Windows是解决此问题的最简单方法。
 
 ---
-### 超时
+### 7.超时
 
 ![](/assets/images/docs/202312/error1.png)
 
@@ -70,12 +70,12 @@ order: 2
 某个防病毒软件可能正在阻止连接，请确保它不在任务管理器中运行。
 
 ---
-### DLL注入失败
+### 8.DLL注入失败
 
 卸载颜色选择器文件夹，然后重新下载颜色选择器。
 
 ---
-### Windows无法访问指定的设备、路径或文件
+### 9.Windows无法访问指定的设备、路径或文件
 
 ![](/assets/images/docs/202312/error2.png)
 
@@ -96,21 +96,21 @@ order: 2
 如果这样无法解决问题，请重新安装Windows。
 
 ---
-### 签名校验和失败
+### 10.签名校验和失败
 
 ![](/assets/images/docs/202312/checksum.png)
 
 服务器宕机或已关闭，请等待服务器重新上线。
 
 ---
-### 无法创建游戏进程，出现错误5
+### 11.无法创建游戏进程，出现错误5
 
 ![](/assets/images/docs/202312/error3.png)
 
 删除`cfg.ini`。
 
 ---
-### SSL连接错误
+### 12.SSL连接错误
 
 ![](/assets/images/docs/202312/error4.png)
 
@@ -118,13 +118,13 @@ order: 2
 
 如果没有用，尝试使用VPN。
 
-### 当前数据不存在或服务器错误
+### 13.当前数据不存在或服务器错误
 
 ![](/assets/images/docs/202312/error.png)
 
 解除暂停您的卡蜜再试一次
 
-### 无法验证当前时间戳
+### 14.无法验证当前时间戳
 
 ![](/assets/images/docs/202402/timestamp.png)
 
@@ -134,5 +134,13 @@ order: 2
 情况二:
 - 确定您的计算机时间是设定为自动同步
 
-::: info If you are from Iran you might need to use a VPN instead.
-:::
+### 15.为什么我的korpei打开后闪退
+
+情况一：
+- korepi的文件夹名称有中文或者其他符号，请改为英文路径。<span style="color:red;">例如：D:\korepi</span>
+- 原神路径文件夹名称有中文或者其他符号，请改为英文路径。<span style="color:red;">例如：D:\Genshin Impact\Genshin Impact Game\GenshinImpact.exe</span>
+
+情况二：
+- 电脑hosts文件缺失，如果C:\Windows\System32\drivers\etc中没有hosts文件，KP就无法运行，因此它是KP运行的必要条件。hosts文件路径：<span style="color:red;">C:\Windows\System32\drivers\etc</span>。
+- [hosts下载](https://discord.com/channels/1069057220802781265/1158263313369677824/1221410399765659658) 如果无法通过链接进入，请在频道中频道和身分组哪里点击领取Chinese Ping身份，然后在点击上面的hosts下载。
+
