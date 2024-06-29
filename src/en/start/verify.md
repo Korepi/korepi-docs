@@ -19,11 +19,16 @@ If you are not on the server yet, please read the previous post, where it is des
 
 ### Step 2: So, you are on the server
 
-Now that you are on the server, choose the necessary channels and roles from the list, then go to the ★⋅rules⋅★ channel.
+Now that you are on the server, choose the necessary channels and roles from the list, then go to the `📌 | rules` channel.
 
-### Step 3: ★⋅rules⋅★ channel
+![Verify](/assets/images/docs/202406/verify1.png)
 
-In the rules channel, familiarize yourself with the rules and undergo verification to confirm that you are not a bot. Find the "Verify" button, click on it, and the bot will send you a link that you need to follow and confirm that you are not a bot.
+### Step 3: `📌 | rules` channel
+
+In the rules channel, familiarize yourself with the rules and undergo verification to confirm that you are not a bot. Find the "Verify" button, click on it, verification form will popout, you need to type `YES` and click "Submit".
+
+![Verify](/assets/images/docs/202406/verify2.png)
+![Verify](/assets/images/docs/202406/verify3.png)
 
 ### Step 4: After receiving the "Newcomer" role
 
