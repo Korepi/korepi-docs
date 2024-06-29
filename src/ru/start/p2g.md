@@ -25,8 +25,5 @@ order: 1
   - *Россия*
   - [Подробнее Moheta](https://cis.korepi.com/moheta)
 
-- **adwin (discord: adwinsx)**
-  - *Россия*
-  - [Подробнее adwin](https://cis.korepi.com/adwin)
 
 Если у вас есть вопросы по продажам, обращайтесь к одному из наших продавцов.
