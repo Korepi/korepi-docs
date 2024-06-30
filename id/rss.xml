@@ -6,8 +6,8 @@
     <link>https://korepi.com/id/</link>
     <description>Bantuan tentang Korepi</description>
     <language>id-ID</language>
-    <pubDate>Sat, 29 Jun 2024 17:42:13 GMT</pubDate>
-    <lastBuildDate>Sat, 29 Jun 2024 17:42:13 GMT</lastBuildDate>
+    <pubDate>Sun, 30 Jun 2024 07:06:10 GMT</pubDate>
+    <lastBuildDate>Sun, 30 Jun 2024 07:06:10 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Panduan</category>
@@ -2269,27 +2269,18 @@ Jika tidak berhasil, buka cmd sebagai administrator dan ketik <code>sfc /scannow
 <li>
 <p><strong>Akses Channel Aturan</strong></p>
 <p>Buka channel aturan yang tersedia di server Anda.</p>
-<p><img src="/assets/images/docs/202312/verify1.png" alt="Verifikasi" loading="lazy"></p>
+<p><img src="/assets/images/docs/202406/verify1.png" alt="Verifikasi" loading="lazy"></p>
 </li>
 <li>
 <p><strong>Tekan Tombol 'Verifikasi'</strong></p>
-<p>Setelah masuk ke channel aturan, cari dan tekan tombol 'verifikasi'. Selanjutnya, Anda akan menerima pesan dari bot, klik pada 'klik di sini'.</p>
-<p><img src="/assets/images/docs/202312/verify2.png" alt="Verifikasi" loading="lazy"></p>
-</li>
-<li>
-<p><strong>Pilih 'Login untuk Verifikasi'</strong></p>
-<p>Tekan pada 'login untuk verifikasi' untuk melanjutkan dengan proses verifikasi.</p>
-<p><img src="/assets/images/docs/202312/verify3.png" alt="Verifikasi" loading="lazy"></p>
-</li>
-<li>
-<p><strong>Tahan Tombol Verifikasi</strong></p>
-<p>Pada halaman berikutnya, tahan tombol verifikasi hingga muncul notifikasi yang mengonfirmasi bahwa verifikasi Anda telah berhasil.</p>
-<p><img src="/assets/images/docs/202312/verify4.png" alt="Verifikasi" loading="lazy"></p>
+<p>Setelah masuk ke channel aturan, cari dan tekan tombol 'verifikasi'. Selanjutnya, Anda akan menerima formulir dari bot, isi dengan "YES" lalu klik "Submit".</p>
+<p><img src="/assets/images/docs/202406/verify2.png" alt="Verifikasi" loading="lazy">
+<img src="/assets/images/docs/202406/verify3.png" alt="Verifikasi" loading="lazy"></p>
 </li>
 </ol>
 <p>Setelah proses verifikasi berhasil, bot akan memberikan Anda status <code>Newcomer</code>. Dengan status ini, Anda akan terlindungi dari penghapusan otomatis oleh bot tanpa alasan yang jelas. Silakan melanjutkan ke tahap berikutnya.</p>
 ]]></content:encoded>
-      <enclosure url="https://korepi.com/assets/images/docs/202312/verify1.png" type="image/png"/>
+      <enclosure url="https://korepi.com/assets/images/docs/202406/verify1.png" type="image/png"/>
     </item>
   </channel>
 </rss>

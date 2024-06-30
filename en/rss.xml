@@ -6,8 +6,8 @@
     <link>https://korepi.com/en/</link>
     <description>Help on Korepi</description>
     <language>en-US</language>
-    <pubDate>Sat, 29 Jun 2024 17:42:13 GMT</pubDate>
-    <lastBuildDate>Sat, 29 Jun 2024 17:42:13 GMT</lastBuildDate>
+    <pubDate>Sun, 30 Jun 2024 07:06:10 GMT</pubDate>
+    <lastBuildDate>Sun, 30 Jun 2024 07:06:10 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Guide</category>
@@ -2159,12 +2159,16 @@ In order to use custom skins in we will need to download:</p>
 <h3> Step 1: Join our server if you haven't already</h3>
 <p>If you are not on the server yet, please read the previous post, where it is described how to join the server.</p>
 <h3> Step 2: So, you are on the server</h3>
-<p>Now that you are on the server, choose the necessary channels and roles from the list, then go to the ★⋅rules⋅★ channel.</p>
-<h3> Step 3: ★⋅rules⋅★ channel</h3>
-<p>In the rules channel, familiarize yourself with the rules and undergo verification to confirm that you are not a bot. Find the "Verify" button, click on it, and the bot will send you a link that you need to follow and confirm that you are not a bot.</p>
+<p>Now that you are on the server, choose the necessary channels and roles from the list, then go to the <code>📌 | rules</code> channel.</p>
+<p><img src="/assets/images/docs/202406/verify1.png" alt="Verify" loading="lazy"></p>
+<h3> Step 3: <code>📌 | rules</code> channel</h3>
+<p>In the rules channel, familiarize yourself with the rules and undergo verification to confirm that you are not a bot. Find the "Verify" button, click on it, verification form will popout, you need to type <code>YES</code> and click "Submit".</p>
+<p><img src="/assets/images/docs/202406/verify2.png" alt="Verify" loading="lazy">
+<img src="/assets/images/docs/202406/verify3.png" alt="Verify" loading="lazy"></p>
 <h3> Step 4: After receiving the "Newcomer" role</h3>
 <p>After successful verification, the bot will assign you the "Newcomer" role. With this role, you will not be kicked by the bot without valid reasons. Now proceed to the next step.</p>
 ]]></content:encoded>
+      <enclosure url="https://korepi.com/assets/images/docs/202406/verify1.png" type="image/png"/>
     </item>
     <item>
       <title>Guides</title>
