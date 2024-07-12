@@ -6,8 +6,8 @@
     <link>https://korepi.com/ru/</link>
     <description>Помощь по Korepi</description>
     <language>ru-RU</language>
-    <pubDate>Fri, 12 Jul 2024 12:21:40 GMT</pubDate>
-    <lastBuildDate>Fri, 12 Jul 2024 12:21:40 GMT</lastBuildDate>
+    <pubDate>Fri, 12 Jul 2024 18:26:22 GMT</pubDate>
+    <lastBuildDate>Fri, 12 Jul 2024 18:26:22 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Seller</category>
@@ -23,24 +23,17 @@
       <link>https://korepi.com/ru/start/p2g.html</link>
       <guid>https://korepi.com/ru/start/p2g.html</guid>
       <source url="https://korepi.com/ru/rss.xml">Реселлеры Korepi в СНГ</source>
-      <description>Надежные реселлеры Korepi в странах СНГ: butterbrodskiy (discord: butterbrodskiy); Украина; Подробнее butterbrodskiy (https://cis.korepi.com/butterbrodskiy); QweRez (discord: qw...</description>
+      <description>Надежные реселлеры Korepi в странах СНГ: QweRez (discord: qwerezon); Россия/Казахстан/Украина/Беларусь/Прочие постсоветские страны; Подробнее QweRez (https://www.qwemarket.com/)...</description>
       <category>Seller</category>
       <pubDate>Fri, 23 Feb 2024 14:10:24 GMT</pubDate>
       <content:encoded><![CDATA[<h1> Реселлеры Korepi в СНГ</h1>
 <p><strong>Надежные реселлеры Korepi в странах СНГ:</strong></p>
 <ul>
 <li>
-<p><strong>butterbrodskiy (discord: butterbrodskiy)</strong></p>
-<ul>
-<li><em>Украина</em></li>
-<li><a href="https://cis.korepi.com/butterbrodskiy" target="_blank" rel="noopener noreferrer">Подробнее butterbrodskiy</a></li>
-</ul>
-</li>
-<li>
 <p><strong>QweRez (discord: qwerezon)</strong></p>
 <ul>
-<li><em>Россия/Казахстан</em></li>
-<li><a href="https://cis.korepi.com/qwerez" target="_blank" rel="noopener noreferrer">Подробнее QweRez</a></li>
+<li><em>Россия/Казахстан/Украина/Беларусь/Прочие постсоветские страны</em></li>
+<li><a href="https://www.qwemarket.com/" target="_blank" rel="noopener noreferrer">Подробнее QweRez</a></li>
 </ul>
 </li>
 <li>
