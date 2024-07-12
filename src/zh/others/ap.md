@@ -29,7 +29,7 @@ order: 1
 
 ### 只因云
 
-- 机场地址：[点我跳转](https://ji.korepi.com/)
+- 机场地址：[点我跳转1](https://jb.korepi.com/) [点我跳转2](https://ji2.korepi.com/)
 - korepi作者保证, 快速稳定不跑路
 - 流量不限时间 随用随停 轻量用户备用首选
 - 全平台支持
