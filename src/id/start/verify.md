@@ -18,24 +18,14 @@ Melakukan verifikasi akun pada bot server merupakan langkah krusial untuk memast
 
    Buka channel aturan yang tersedia di server Anda.
 
-   ![Verifikasi](/assets/images/docs/202312/verify1.png)
+   ![Verifikasi](/assets/images/docs/202406/verify1.png)
 
 2. **Tekan Tombol 'Verifikasi'**
 
-   Setelah masuk ke channel aturan, cari dan tekan tombol 'verifikasi'. Selanjutnya, Anda akan menerima pesan dari bot, klik pada 'klik di sini'.
+   Setelah masuk ke channel aturan, cari dan tekan tombol 'verifikasi'. Selanjutnya, Anda akan menerima formulir dari bot, isi dengan "YES" lalu klik "Submit".
 
-   ![Verifikasi](/assets/images/docs/202312/verify2.png)
+   ![Verifikasi](/assets/images/docs/202406/verify2.png)
+   ![Verifikasi](/assets/images/docs/202406/verify3.png)
 
-3. **Pilih 'Login untuk Verifikasi'**
-
-   Tekan pada 'login untuk verifikasi' untuk melanjutkan dengan proses verifikasi.
-
-   ![Verifikasi](/assets/images/docs/202312/verify3.png)
-
-4. **Tahan Tombol Verifikasi**
-
-   Pada halaman berikutnya, tahan tombol verifikasi hingga muncul notifikasi yang mengonfirmasi bahwa verifikasi Anda telah berhasil.
-
-   ![Verifikasi](/assets/images/docs/202312/verify4.png)
 
 Setelah proses verifikasi berhasil, bot akan memberikan Anda status `Newcomer`. Dengan status ini, Anda akan terlindungi dari penghapusan otomatis oleh bot tanpa alasan yang jelas. Silakan melanjutkan ke tahap berikutnya.

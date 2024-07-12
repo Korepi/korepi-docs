@@ -188,3 +188,7 @@ __**6. 打开korepi，即可使用。**__
 ## 上不了discord,谷歌等
 
 [梯子推荐](../others/ap.md)
+
+## 与bot交互失败
+- 请在[rule频道](https://discord.com/channels/1069057220802781265/1075789470789546024)点击verify验证，bot就不会显示交互失败。
+  ![](images\验证.png)

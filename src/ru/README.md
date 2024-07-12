@@ -14,7 +14,7 @@ actions:
     icon: download
     link: ./start/download
     type: primary
-  - text: Быстрый старт
+  - text: Быстрое начало
     icon: lightbulb
     link: ./start/
   - text: Гайды

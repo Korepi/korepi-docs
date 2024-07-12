@@ -5,7 +5,7 @@ category:
   - 指南
 tag:
   - 开始
-author: QweRez，Double
+author: Double
 order: 2
 ---
 ---
