@@ -32,7 +32,7 @@ highlights:
       - title: Chế độ khám phá cho phép bạn tập trung hơn vào trò chơi!
       - title: Hỗ trợ đa ngôn ngữ!
 
-  - header: Công cụ thiết thực, tiện lợi và tương tác với Genshin Impact
+  - header: Công cụ thiết thực, tiện lợi và tương tác với G⚪nshin Impact
     description: Tính năng độc đáo, sử dụng miễn phí
     image: /assets/images/web/markdown.svg
     bgImage: https://theme-hope-assets.vuejs.press/bg/2-light.svg

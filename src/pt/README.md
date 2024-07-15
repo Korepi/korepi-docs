@@ -30,7 +30,7 @@ highlights:
       - title: Desbloqueie localizações inexploradas
       - title: Abra todos os baús do mapa com apenas alguns cliques!
 
-  - header: Prático, Conveniente, Interação Tecnológica em Genshin
+  - header: Prático, Conveniente, Interação Tecnológica em G⚪nshin
     description: Funcionalidades exclusivas, gratuitas para usar
     image: /assets/images/web/markdown.svg
     bgImage: https://theme-hope-assets.vuejs.press/bg/2-light.svg

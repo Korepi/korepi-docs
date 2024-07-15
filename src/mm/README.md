@@ -32,7 +32,7 @@ highlights:
     - title: Exploration မုဒ်၊ ဂိမ်းအပေါ် ပိုမိုအာရုံစိုက်မယ်။
     - title: ဘာသာစကားမျိုးစုံအတွက် ပံ့ပိုးမှုရှိသည်။
 
-- header: Practical, Convenient, Interactive Tech with Genshin
+- header: Practical, Convenient, Interactive Tech with G⚪nshin
   description: Unique functionalities, free of charge
   image: /assets/images/web/markdown.svg
   bgImage: https://theme-hope-assets.vuejs.press/bg/2-light.svg

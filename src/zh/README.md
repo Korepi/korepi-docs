@@ -32,7 +32,7 @@ highlights:
       - title: 探索模式，让你更专注于游戏！
       - title: 支持多种语言！
 
-  - header: 实用、便捷、与原神互动技术
+  - header: 实用、便捷、与⚪神互动技术
     description: 独特的功能，免费使用
     image: /assets/images/web/markdown.svg
     bgImage: https://theme-hope-assets.vuejs.press/bg/2-light.svg

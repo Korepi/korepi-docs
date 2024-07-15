@@ -138,7 +138,7 @@ order: 2
 
 情况一：
 - korepi的文件夹名称有中文或者其他符号，请改为英文路径。<span style="color:red;">例如：D:\korepi</span>
-- 原神路径文件夹名称有中文或者其他符号，请改为英文路径。<span style="color:red;">例如：D:\Genshin Impact\Genshin Impact Game\GenshinImpact.exe</span>
+- ⚪神路径文件夹名称有中文或者其他符号，请改为英文路径。<span style="color:red;">例如：D:\G⚪nshin Impact\G⚪nshin Impact Game\G⚪nshinImpact.exe</span>
 
 情况二：
 - 电脑hosts文件缺失，如果C:\Windows\System32\drivers\etc中没有hosts文件，KP就无法运行，因此它是KP运行的必要条件。hosts文件路径：<span style="color:red;">C:\Windows\System32\drivers\etc</span>。

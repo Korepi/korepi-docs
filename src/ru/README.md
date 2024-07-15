@@ -30,7 +30,7 @@ highlights:
       - title: Разблокируйте неиследованные локации
       - title: Откройте все сундуки на карте всего в пару нажатий!
 
-  - header: Практичная, удобная технология взаимодействия с Genshin Impact
+  - header: Практичная, удобная технология взаимодействия с G⚪nshin Impact
     description: Эксклюзивный функционал, бесплатный в использовании
     image: /assets/images/web/markdown.svg
     bgImage: https://theme-hope-assets.vuejs.press/bg/2-light.svg

@@ -32,7 +32,7 @@ highlights:
     - title: 探索モードで、ゲームにもっと集中しよう！
     - title: 多言語に対応！
 
-- header: 実用的で便利な原神用テクノロジー
+- header: 実用的で便利な⚪神用テクノロジー
   description: 独自の機能を無料で提供しています
   image: /assets/images/web/markdown.svg
   bgImage: https://theme-hope-assets.vuejs.press/bg/2-light.svg

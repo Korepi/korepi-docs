@@ -32,7 +32,7 @@ highlights:
       - title: Modo Exploración, céntrate más en el juego!
       - title: Disponible en múltiples idiomas!
 
-  - header: Práctico, Conveniente, Tecnología Interactiva con Genshin
+  - header: Práctico, Conveniente, Tecnología Interactiva con G⚪nshin
     description: Funcionalidades únicas y gratuitas
     image: /assets/images/web/markdown.svg
     bgImage: https://theme-hope-assets.vuejs.press/bg/2-light.svg

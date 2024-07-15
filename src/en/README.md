@@ -32,7 +32,7 @@ highlights:
     - title: Exploration Mode, Focus More on the Game!
     - title: Support for Multiple Languages!
 
-- header: Practical, Convenient, Interactive Tech with Genshin
+- header: Practical, Convenient, Interactive Tech with G⚪nshin
   description: Unique functionalities, free of charge
   image: /assets/images/web/markdown.svg
   bgImage: https://theme-hope-assets.vuejs.press/bg/2-light.svg

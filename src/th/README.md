@@ -32,7 +32,7 @@ highlights:
     - title: โหมดสำรวจ โฟกัสไปที่เกมมากขึ้น!
     - title: รองรับหลายภาษา!
 
-- header: ใช้งานได้จริง,สะดวก,เทคโนโลยีโต้ตอบกับ Genshin
+- header: ใช้งานได้จริง,สะดวก,เทคโนโลยีโต้ตอบกับ G⚪nshin
   description: ฟังก์ชันพิเศษที่ไม่ซ้ำใครและไม่มีค่าใช้จ่าย
   image: /assets/images/web/markdown.svg
   bgImage: https://theme-hope-assets.vuejs.press/bg/2-light.svg

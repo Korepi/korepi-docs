@@ -32,7 +32,7 @@ highlights:
       - title: Mode Eksplorasi untuk pengalaman bermain yang lebih imersif!
       - title: Dukungan multibahasa!
 
-  - header: Sistem Interaksi Genshin yang Intuitif dan Menyenangkan
+  - header: Sistem Interaksi G⚪nshin yang Intuitif dan Menyenangkan
     description: Nikmati fitur eksklusif yang gratis untuk digunakan
     image: /assets/images/web/markdown.svg
     bgImage: https://theme-hope-assets.vuejs.press/bg/2-light.svg

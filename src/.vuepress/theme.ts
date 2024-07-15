@@ -51,7 +51,7 @@ export default hopeTheme({
       navbar: enNavbar,
       sidebar: enSidebar,
       footer:
-        "Provides the best gaming experience for PC players in Genshin Impact.",
+        "Provides the best gaming experience for PC players in G⚪nshin Impact.",
       displayFooter: true,
       metaLocales: {
         editLink: "Edit this page on GitHub",
@@ -62,7 +62,7 @@ export default hopeTheme({
       navbar: ruNavbar,
       sidebar: ruSidebar,
       footer:
-        "Обеспечивает лучший игровой опыт для игроков на ПК в Genshin Impact",
+        "Обеспечивает лучший игровой опыт для игроков на ПК в G⚪nshin Impact",
       displayFooter: true,
       metaLocales: {
         editLink: "Редактировать страницу на GitHub",
@@ -73,7 +73,7 @@ export default hopeTheme({
       navbar: idNavbar,
       sidebar: idSidebar,
       footer:
-        "Memberikan pengalaman bermain game terbaik untuk pemain PC di Genshin Impact.",
+        "Memberikan pengalaman bermain game terbaik untuk pemain PC di G⚪nshin Impact.",
       displayFooter: true,
       metaLocales: {
         editLink: "Edit halaman ini di GitHub",
@@ -82,7 +82,7 @@ export default hopeTheme({
     "/zh/": {
       navbar: zhNavbar,
       sidebar: zhSidebar,
-      footer: "为原神 PC 端玩家带来最好的游戏体验",
+      footer: "为⚪神 PC 端玩家带来最好的游戏体验",
       displayFooter: true,
       navbarLocales: {
         selectLangAriaLabel: "简体中文",
@@ -96,7 +96,7 @@ export default hopeTheme({
       navbar: esNavbar,
       sidebar: esSidebar,
       footer:
-        "Proporciona la mejor experiencia de juego para jugadores de PC en Genshin Impact.",
+        "Proporciona la mejor experiencia de juego para jugadores de PC en G⚪nshin Impact.",
       displayFooter: true,
       metaLocales: {
         editLink: "Edita esta pagina en GitHub",
@@ -106,7 +106,7 @@ export default hopeTheme({
       navbar: mmNavbar,
       sidebar: mmSidebar,
       footer:
-        "Genshin Impact ရှိ ကစားသမားများအတွက် အကောင်းဆုံး gaming အတွေ့အကြုံကို ပေးသည်။",
+        "G⚪nshin Impact ရှိ ကစားသမားများအတွက် အကောင်းဆုံး gaming အတွေ့အကြုံကို ပေးသည်။",
       displayFooter: true,
       navbarLocales: {
         langName: "Burmese",
@@ -123,7 +123,7 @@ export default hopeTheme({
         langName: "Tiếng Việt",
       },
       footer:
-        "Cung cấp trải nghiệm chơi game tốt nhất cho người chơi Genshin Impact trên PC.",
+        "Cung cấp trải nghiệm chơi game tốt nhất cho người chơi G⚪nshin Impact trên PC.",
       displayFooter: true,
       metaLocales: {
         editLink: "Chỉnh sửa trang này trên GitHub",
@@ -133,7 +133,7 @@ export default hopeTheme({
       navbar: ptNavbar,
       sidebar: ptSidebar,
       footer:
-        "Fornece a melhor experiência de jogo para jogadores de PC em Genshin Impact.",
+        "Fornece a melhor experiência de jogo para jogadores de PC em G⚪nshin Impact.",
       displayFooter: true,
       metaLocales: {
         editLink: "Edite esta pagina em GitHub",
@@ -154,7 +154,7 @@ export default hopeTheme({
     "/jp/": {
       navbar: jpNavbar,
       sidebar: jpSidebar,
-      footer: "Genshin ImpactのPCプレイヤーに最高のゲーム体験を提供。",
+      footer: "G⚪nshin ImpactのPCプレイヤーに最高のゲーム体験を提供。",
 
       displayFooter: true,
 
@@ -166,7 +166,7 @@ export default hopeTheme({
       navbar: trNavbar,
       sidebar: trSidebar,
       footer:
-        "Genshin Impact PC oyuncuları için en iyi oyun deneyimini sağlar.",
+        "G⚪nshin Impact PC oyuncuları için en iyi oyun deneyimini sağlar.",
 
       displayFooter: true,
 
@@ -194,7 +194,7 @@ export default hopeTheme({
       },
 
       footer:
-        "มอบประสบการณ์การเล่นเกมที่ดีที่สุดสำหรับผู้เล่นพีซีใน Genshin Impact",
+        "มอบประสบการณ์การเล่นเกมที่ดีที่สุดสำหรับผู้เล่นพีซีใน G⚪nshin Impact",
 
       displayFooter: true,
 

@@ -32,7 +32,7 @@ highlights:
     - title: Keşif Modu, Oyuna Daha Fazla Odaklanın!
     - title: Birden Fazla Dil Desteği!
 
-- header: Genshin ile Pratik, Kullanışlı, İnteraktif Teknoloji
+- header: G⚪nshin ile Pratik, Kullanışlı, İnteraktif Teknoloji
   description: Ücretsiz benzersiz işlevler
   image: /assets/images/web/markdown.svg
   bgImage: https://theme-hope-assets.vuejs.press/bg/2-light.svg
