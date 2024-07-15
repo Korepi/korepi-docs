@@ -168,3 +168,7 @@ Kasus 2:
 ### Unable to open file to write public key:
 
 - This error might happen if you got your game installed in other drive other than your main drive `C:/` , to solve it you can reinstall the game to the main drive and run Korepi again.
+
+### Failed to get response from https://md5c...
+
+- This error might happen if your conection is not stable or your conection to the website its blocked, please copy the link and check if you can access it. If you can't access the website, using a VPN might help.
