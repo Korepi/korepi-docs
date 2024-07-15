@@ -13,7 +13,7 @@ order: 7
 
 # Descargar
 
-<video controls preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/HFYfj2E25cFYnYC/preview"><source src="https://nextcloud.atruicardona.xyz/s/HFYfj2E25cFYnYC/download" type="video/mp4"></video>
+<div class="iframe-container"><iframe width="1280" height="720" src="https://www.youtube.com/embed/Mxspp5FsVEE" title="How to download Korepi" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 
 ## Introducción
 
@@ -21,7 +21,7 @@ order: 7
 
 ### Paso 1: Únete a nuestro servidor y obtén el rol de `Newcomer`
 
-Si aún no te has unido al servidor, por favor, lee la publicación de verificación, que explica cómo unirse al servidor el rol de `Newcomer`
+Si aún no te has unido al servidor, por favor, lee la publicación de [verificación](./verify.md), que explica cómo unirse al servidor el rol de `Newcomer`
 
 ### Paso 2: Ve al canal de `⁠★⋅korepi-download⋅★`
 

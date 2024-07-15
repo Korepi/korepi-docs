@@ -12,7 +12,7 @@ order: 3
 
 # Unduh
 
-<video controls preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/HFYfj2E25cFYnYC/preview"><source src="https://nextcloud.atruicardona.xyz/s/HFYfj2E25cFYnYC/download" type="video/mp4"></video>
+<div class="iframe-container"><iframe width="1280" height="720" src="https://www.youtube.com/embed/Mxspp5FsVEE" title="How to download Korepi" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 
 ## Pendahuluan
 
@@ -20,7 +20,7 @@ Selamat datang di komunitas kami! Untuk lulus pemeriksaan bot dan menerima role 
 
 ### Langkah 1: Bergabunglah dengan server kami dan dapatkan `Newcomer` role
 
-Jika Anda belum bergabung dengan server, silakan baca pos verifikasi, yang menjelaskan cara bergabung dengan server dan mendapatkan peran `Newcomer`.
+Jika Anda belum bergabung dengan server, silakan baca pos [verifikasi](./verify.md), yang menjelaskan cara bergabung dengan server dan mendapatkan peran `Newcomer`.
 
 ### Langkah 2: Buka saluran `★⋅korepi-download⋅★`
 

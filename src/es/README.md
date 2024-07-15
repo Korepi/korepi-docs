@@ -95,24 +95,9 @@ highlights:
     bgImage: https://theme-hope-assets.vuejs.press/bg/1-light.svg
     bgImageDark: https://theme-hope-assets.vuejs.press/bg/1-dark.svg
     features:
-      - title: Auto Seleccionar Dialogo es un poco más rápido ahora
+      - title: Se añádio Gestor de Mapa
         icon: comment
-        details: Se aumento ligeramente la velocidad con que los diálogos son seleccionados.
-      - title: Zoom de Mapa
-        icon: search-plus
-        details: Nueva funcionalidad de zoom en el mapa.
-      - title: Ataque Cargado Instantáneo (Ahora Configurable)
-        icon: bolt
-        details: Ahora puedes configurar a que armas le afecta el cargado instantáneo.
-      - title: Saltar Dialogo
-        icon: arrow-right
-        details: Salta el dialogo instantáneamente.
-      - title: Invocar NPC
-        icon: user
-        details: Problema al invocar a determinados NPCs fue solucionado.
-      - title: Interactuar con la Estatua
-        icon: hands
-        details: Problema con Estatuas solucionado
+        details: Esta función desbloqueara el los teletransportes del mapa automaticamente.
 
   - header: Nuestras Ventajas
     description: Lo que ofrecemos...

@@ -11,7 +11,7 @@ order: 2
 
 ## Introducción
 
-Bienvenid@ a nuestra comunidad! Para completar la verificación del bot y obtener el rol de "Fans", sigue los siguientes pasos.
+Bienvenid@ a nuestra comunidad! Para completar la verificación del bot, sigue los siguientes pasos.
 
 ### Paso 1: Únete a nuestro servidor si aun no lo has hecho
 
@@ -19,7 +19,7 @@ Si aun no estas en nuestro servidor, por favor lee la publicación anterior, don
 
 ### Paso 2: Asi que estas en el servidor
 
-Ahora que estas ene el servidor, elige los canales y roles necesarios de la lista, después ve al canal de ★⋅rules⋅★./
+Ahora que estas ene el servidor, elige los canales y roles necesarios de la lista, después ve al canal de ★⋅rules⋅★.
 
 ### Paso 3: Canal de ★⋅rules⋅★
 
