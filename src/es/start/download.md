@@ -21,7 +21,7 @@ order: 7
 
 ### Paso 1: Únete a nuestro servidor y obtén el rol de `Newcomer`
 
-Si aún no te has unido al servidor, por favor, lee la publicación de verificación, que explica cómo unirse al servidor el rol de `Newcomer`
+Si aún no te has unido al servidor, por favor, lee la publicación de [verificación](./verify.md), que explica cómo unirse al servidor el rol de `Newcomer`
 
 ### Paso 2: Ve al canal de `⁠★⋅korepi-download⋅★`
 
