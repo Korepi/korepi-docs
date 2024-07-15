@@ -144,3 +144,7 @@ order: 2
 - 电脑hosts文件缺失，如果C:\Windows\System32\drivers\etc中没有hosts文件，KP就无法运行，因此它是KP运行的必要条件。hosts文件路径：<span style="color:red;">C:\Windows\System32\drivers\etc</span>。
 - [hosts下载](https://discord.com/channels/1069057220802781265/1158263313369677824/1221410399765659658) 如果无法通过链接进入，请在频道中频道和身分组哪里点击领取Chinese Ping身份，然后在点击上面的hosts下载。
 
+
+### 16.Unable to open file to write public key:
+
+- This error might happen if you got your game installed in other drive other than your main drive `C:/` , to solve it you can reinstall the game to the main drive and run Korepi again.

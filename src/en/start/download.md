@@ -13,7 +13,7 @@ order: 7
 
 # Download
 
-<video controls preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/HFYfj2E25cFYnYC/preview"><source src="https://nextcloud.atruicardona.xyz/s/HFYfj2E25cFYnYC/download" type="video/mp4"></video>
+<div class="iframe-container"><iframe width="1280" height="720" src="https://www.youtube.com/embed/Mxspp5FsVEE" title="How to download Korepi" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 
 ## Introduction
 
@@ -21,7 +21,7 @@ Welcome to our community! To pass the bot check and receive the `Newcomer` role,
 
 ### Step 1: Join our server and obtain the `Newcomer` role
 
-If you haven't joined the server yet, please read the verification post, which describes how to join the server and obtain the `Newcomer`.
+If you haven't joined the server yet, please read the verification [post](./verify.md), which describes how to join the server and obtain the `Newcomer`.
 
 ### Step 2: Go to the channel `★⋅korepi-download⋅★`
 
@@ -29,4 +29,4 @@ Locate the channel `★⋅korepi-download⋅★` and follow the link to download
 
 ### Step 3: Ready!
 
-Place the .rar in a folder and add it to [exclusions](../guide/virus.md), after that extract it and follow this [guide](../guide/getkey.md)
+Place the .rar in a folder and add it to [exclusions](../guide/virus.md), after that extract it and follow this [guide](../guide/free.md)

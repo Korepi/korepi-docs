@@ -163,3 +163,8 @@ Caso 2:
 
 ::: info Si eres de Iran puede que tengas que usar una VPN para que funcione.
 :::
+
+
+### Unable to open file to write public key:
+
+- Este error puede aparecer cuando tienes el juego instalado en otro disco, puedes resolverlo instalando el juego en el disco principal `C:/`.

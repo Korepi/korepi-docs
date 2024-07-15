@@ -159,3 +159,7 @@ Caso 2:
 
 ::: info Se você é do Irã, talvez precise usar uma VPN em vez disso.
 :::
+
+### Unable to open file to write public key:
+
+- This error might happen if you got your game installed in other drive other than your main drive `C:/` , to solve it you can reinstall the game to the main drive and run Korepi again.
