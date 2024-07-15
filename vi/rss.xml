@@ -6,8 +6,8 @@
     <link>https://korepi.com/vi/</link>
     <description>Trợ giúp về Korepi</description>
     <language>vi-VN</language>
-    <pubDate>Mon, 15 Jul 2024 18:05:13 GMT</pubDate>
-    <lastBuildDate>Mon, 15 Jul 2024 18:05:13 GMT</lastBuildDate>
+    <pubDate>Mon, 15 Jul 2024 20:51:11 GMT</pubDate>
+    <lastBuildDate>Mon, 15 Jul 2024 20:51:11 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Hướng Dẫn</category>
@@ -104,7 +104,7 @@
       <category>Hướng Dẫn</category>
       <pubDate>Wed, 07 Feb 2024 00:26:57 GMT</pubDate>
       <content:encoded><![CDATA[<h2> Hướng Dẫn Lấy Key Korepi Miễn Phí</h2>
-<div class="iframe-container"><iframe width="1328" height="747" src="https://www.youtube.com/embed/kydnZ0QR2eQ" title="How to Update Korepi and How to Renew the Key" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
+<div class="iframe-container"><iframe width="1280" height="720" src="https://www.youtube.com/embed/SWI-GeqKx1g" title="How to use Korepi for free" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
 <h3> Bước 1:</h3>
 <ul>
 <li>
@@ -969,6 +969,18 @@ Nếu như việc khởi động lại máy không giúp ích được gì hoặ
 <div class="hint-container info">
 <p class="hint-container-title">Đối với người dùng tại Iran, bạn cần bật VPN để có thể sử dụng Korepi.</p>
 </div>
+<h3> Unable to open file to write public key:</h3>
+<ul>
+<li>This error might happen if you got your game installed in other drive other than your main drive <code>C:/</code> , to solve it you can reinstall the game to the main drive and run Korepi again.</li>
+</ul>
+<h3> Failed to get response from https://md5c...</h3>
+<ul>
+<li>This error might happen if your conection is not stable or your conection to the website its blocked, please copy the link and check if you can access it. If you can't access the website, using a VPN might help.</li>
+</ul>
+<h3> Received code is not 200 from https://md5c...</h3>
+<ul>
+<li>This Error will appear if your key is paused, please head to <code>★⋅micah-bot-verify⋅★</code> and click on <code>Unpause Key</code> and type <code>Yes</code> on the pop-up.</li>
+</ul>
 ]]></content:encoded>
       <enclosure url="https://korepi.com/assets/images/docs/202312/virus.png" type="image/png"/>
     </item>
@@ -2108,7 +2120,7 @@ Lưu ý 2: Không khuyến khích sử dụng chức năng này.</p>
       <category>Hướng Dẫn</category>
       <pubDate>Thu, 30 Nov 2023 15:50:40 GMT</pubDate>
       <content:encoded><![CDATA[<h1> Tải Xuống</h1>
-<p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/HFYfj2E25cFYnYC/preview"><source src="https://nextcloud.atruicardona.xyz/s/HFYfj2E25cFYnYC/download" type="video/mp4"></video></p>
+<div class="iframe-container"><iframe width="1280" height="720" src="https://www.youtube.com/embed/Mxspp5FsVEE" title="How to download Korepi" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
 <h2> Giới Thiệu</h2>
 <p>Chào mừng bạn đến với cộng đồng của chúng tôi! Để vượt qua sự kiểm tra của bot và nhận vai trò <code>Newcomer</code>, vui lòng làm các bước sau đây.</p>
 <h3> Bước 1: Tham Gia Server Và Nhận Vai Trò <code>Newcomer</code></h3>

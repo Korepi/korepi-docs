@@ -6,8 +6,8 @@
     <link>https://korepi.com/zh/</link>
     <description>Korepi 中文文档介绍</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 15 Jul 2024 18:05:13 GMT</pubDate>
-    <lastBuildDate>Mon, 15 Jul 2024 18:05:13 GMT</lastBuildDate>
+    <pubDate>Mon, 15 Jul 2024 20:51:11 GMT</pubDate>
+    <lastBuildDate>Mon, 15 Jul 2024 20:51:11 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>指南</category>
@@ -2483,6 +2483,18 @@ C1: 🟦 C2: ？ C3: 🟥 C4: 🟦 C5: 🟥 C6: 🟦</li>
 <li>电脑hosts文件缺失，如果C:\Windows\System32\drivers\etc中没有hosts文件，KP就无法运行，因此它是KP运行的必要条件。hosts文件路径：<span style="color:red;">C:\Windows\System32\drivers\etc</span>。</li>
 <li><a href="https://discord.com/channels/1069057220802781265/1158263313369677824/1221410399765659658" target="_blank" rel="noopener noreferrer">hosts下载</a> 如果无法通过链接进入，请在频道中频道和身分组哪里点击领取Chinese Ping身份，然后在点击上面的hosts下载。</li>
 </ul>
+<h3> 16.Unable to open file to write public key:</h3>
+<ul>
+<li>This error might happen if you got your game installed in other drive other than your main drive <code>C:/</code> , to solve it you can reinstall the game to the main drive and run Korepi again.</li>
+</ul>
+<h3> 17.Failed to get response from https://md5c...</h3>
+<ul>
+<li>This error might happen if your conection is not stable or your conection to the website its blocked, please copy the link and check if you can access it. If you can't access the website, using a VPN might help.</li>
+</ul>
+<h3> 18.Received code is not 200 from https://md5c...</h3>
+<ul>
+<li>This Error will appear if your key is paused, please head to <code>★⋅micah-bot-verify⋅★</code> and click on <code>Unpause Key</code> and type <code>Yes</code> on the pop-up.</li>
+</ul>
 ]]></content:encoded>
       <enclosure url="https://korepi.com/assets/images/docs/202312/virus.png" type="image/png"/>
     </item>
@@ -2733,7 +2745,7 @@ C1: 🟦 C2: ？ C3: 🟥 C4: 🟦 C5: 🟥 C6: 🟦</li>
       <category>指南</category>
       <pubDate>Thu, 30 Nov 2023 10:24:26 GMT</pubDate>
       <content:encoded><![CDATA[<h1> 下载</h1>
-<p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/HFYfj2E25cFYnYC/preview"><source src="https://nextcloud.atruicardona.xyz/s/HFYfj2E25cFYnYC/download" type="video/mp4"></video></p>
+<div class="iframe-container"><iframe width="1280" height="720" src="https://www.youtube.com/embed/Mxspp5FsVEE" title="How to download Korepi" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
 <h2> 介绍</h2>
 <p>欢迎来到我们的社区！要通过机器人检查并获得<code>Newcomer</code>角色，请按照以下步骤进行。</p>
 <h2> 1.加入我们的服务器并获得<code>Newcomer</code>角色</h2>

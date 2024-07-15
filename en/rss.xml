@@ -6,8 +6,8 @@
     <link>https://korepi.com/en/</link>
     <description>Help on Korepi</description>
     <language>en-US</language>
-    <pubDate>Mon, 15 Jul 2024 18:05:13 GMT</pubDate>
-    <lastBuildDate>Mon, 15 Jul 2024 18:05:13 GMT</lastBuildDate>
+    <pubDate>Mon, 15 Jul 2024 20:51:11 GMT</pubDate>
+    <lastBuildDate>Mon, 15 Jul 2024 20:51:11 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Guide</category>
@@ -104,7 +104,7 @@
       <category>Guide</category>
       <pubDate>Wed, 07 Feb 2024 00:26:57 GMT</pubDate>
       <content:encoded><![CDATA[<h2> How to get the free license for Korepi.</h2>
-<div class="iframe-container"><iframe width="1328" height="747" src="https://www.youtube.com/embed/kydnZ0QR2eQ" title="How to Update Korepi and How to Renew the Key" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
+<div class="iframe-container"><iframe width="1280" height="720" src="https://www.youtube.com/embed/SWI-GeqKx1g" title="How to use Korepi for free" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
 <h3> Step 1:</h3>
 <ul>
 <li>
@@ -1919,6 +1919,18 @@ If after restarting it did not help or no errors were found, write this command:
 <div class="hint-container info">
 <p class="hint-container-title">If you are from Iran you might need to use a VPN instead.</p>
 </div>
+<h3> Unable to open file to write public key:</h3>
+<ul>
+<li>This error might happen if you got your game installed in other drive other than your main drive <code>C:/</code> , to solve it you can reinstall the game to the main drive and run Korepi again.</li>
+</ul>
+<h3> Failed to get response from https://md5c...</h3>
+<ul>
+<li>This error might happen if your conection is not stable or your conection to the website its blocked, please copy the link and check if you can access it. If you can't access the website, using a VPN might help.</li>
+</ul>
+<h3> Received code is not 200 from https://md5c...</h3>
+<ul>
+<li>This Error will appear if your key is paused, please head to <code>★⋅micah-bot-verify⋅★</code> and click on <code>Unpause Key</code> and type <code>Yes</code> on the pop-up.</li>
+</ul>
 ]]></content:encoded>
       <enclosure url="https://korepi.com/assets/images/docs/202312/virus.png" type="image/png"/>
     </item>
@@ -2090,15 +2102,15 @@ In order to use custom skins in we will need to download:</p>
       <category>Guide</category>
       <pubDate>Thu, 30 Nov 2023 10:24:26 GMT</pubDate>
       <content:encoded><![CDATA[<h1> Download</h1>
-<p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/HFYfj2E25cFYnYC/preview"><source src="https://nextcloud.atruicardona.xyz/s/HFYfj2E25cFYnYC/download" type="video/mp4"></video></p>
+<div class="iframe-container"><iframe width="1280" height="720" src="https://www.youtube.com/embed/Mxspp5FsVEE" title="How to download Korepi" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
 <h2> Introduction</h2>
 <p>Welcome to our community! To pass the bot check and receive the <code>Newcomer</code> role, follow these steps.</p>
 <h3> Step 1: Join our server and obtain the <code>Newcomer</code> role</h3>
-<p>If you haven't joined the server yet, please read the verification post, which describes how to join the server and obtain the <code>Newcomer</code>.</p>
+<p>If you haven't joined the server yet, please read the verification <a href="/en/start/verify.html" target="blank">post</a>, which describes how to join the server and obtain the <code>Newcomer</code>.</p>
 <h3> Step 2: Go to the channel <code>★⋅korepi-download⋅★</code></h3>
 <p>Locate the channel <code>★⋅korepi-download⋅★</code> and follow the link to download the program.</p>
 <h3> Step 3: Ready!</h3>
-<p>Place the .rar in a folder and add it to <a href="/en/guide/virus.html" target="blank">exclusions</a>, after that extract it and follow this <a href="/en/guide/getkey.html" target="blank">guide</a></p>
+<p>Place the .rar in a folder and add it to <a href="/en/guide/virus.html" target="blank">exclusions</a>, after that extract it and follow this <a href="/en/guide/free.html" target="blank">guide</a></p>
 ]]></content:encoded>
     </item>
     <item>

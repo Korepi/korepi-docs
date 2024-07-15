@@ -6,8 +6,8 @@
     <link>https://korepi.com/pt/</link>
     <description>Ajuda em Korepi</description>
     <language>pt-BR</language>
-    <pubDate>Mon, 15 Jul 2024 18:05:13 GMT</pubDate>
-    <lastBuildDate>Mon, 15 Jul 2024 18:05:13 GMT</lastBuildDate>
+    <pubDate>Mon, 15 Jul 2024 20:51:11 GMT</pubDate>
+    <lastBuildDate>Mon, 15 Jul 2024 20:51:11 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Guia</category>
@@ -2124,6 +2124,18 @@ Nota 2: Não é recomendado usar.</p>
 <div class="hint-container info">
 <p class="hint-container-title">Se você é do Irã, talvez precise usar uma VPN em vez disso.</p>
 </div>
+<h3> Unable to open file to write public key:</h3>
+<ul>
+<li>This error might happen if you got your game installed in other drive other than your main drive <code>C:/</code> , to solve it you can reinstall the game to the main drive and run Korepi again.</li>
+</ul>
+<h3> Failed to get response from https://md5c...</h3>
+<ul>
+<li>This error might happen if your conection is not stable or your conection to the website its blocked, please copy the link and check if you can access it. If you can't access the website, using a VPN might help.</li>
+</ul>
+<h3> Received code is not 200 from https://md5c...</h3>
+<ul>
+<li>This Error will appear if your key is paused, please head to <code>★⋅micah-bot-verify⋅★</code> and click on <code>Unpause Key</code> and type <code>Yes</code> on the pop-up.</li>
+</ul>
 ]]></content:encoded>
       <enclosure url="https://korepi.com/assets/images/docs/202312/virus.png" type="image/png"/>
     </item>

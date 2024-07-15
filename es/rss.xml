@@ -6,8 +6,8 @@
     <link>https://korepi.com/es/</link>
     <description>Ayuda en Korepi</description>
     <language>es-ES</language>
-    <pubDate>Mon, 15 Jul 2024 18:05:13 GMT</pubDate>
-    <lastBuildDate>Mon, 15 Jul 2024 18:05:13 GMT</lastBuildDate>
+    <pubDate>Mon, 15 Jul 2024 20:51:11 GMT</pubDate>
+    <lastBuildDate>Mon, 15 Jul 2024 20:51:11 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Guía</category>
@@ -104,7 +104,7 @@
       <category>Guía</category>
       <pubDate>Wed, 07 Feb 2024 00:26:57 GMT</pubDate>
       <content:encoded><![CDATA[<h2> Como obtener la licencia gratis de Korepi.</h2>
-<div class="iframe-container"><iframe width="1328" height="747" src="https://www.youtube.com/embed/kydnZ0QR2eQ" title="How to Update Korepi and How to Renew the Key" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
+<div class="iframe-container"><iframe width="1280" height="720" src="https://www.youtube.com/embed/SWI-GeqKx1g" title="How to use Korepi for free" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
 <h3> Paso 1:</h3>
 <ul>
 <li>
@@ -1929,6 +1929,18 @@ Nota 2: No se recomienda usar.</p>
 <div class="hint-container info">
 <p class="hint-container-title">Si eres de Iran puede que tengas que usar una VPN para que funcione.</p>
 </div>
+<h3> Unable to open file to write public key:</h3>
+<ul>
+<li>Este error puede aparecer cuando tienes el juego instalado en otro disco, puedes resolverlo instalando el juego en el disco principal <code>C:/</code>.</li>
+</ul>
+<h3> Failed to get response from https://md5c...</h3>
+<ul>
+<li>Este error puede ocurrir cuando tu conexión no es estable o el acceso a la pagina esta bloqueado, intenta visitar la pagina para ver si lo puedes acceder, si no puedes, usar un VPN puede ser tu solución.</li>
+</ul>
+<h3> Received code is not 200 from https://md5c...</h3>
+<ul>
+<li>Este error aparecera si tienes tu licencia pausada, ve a <code>★⋅micah-bot-verify⋅★</code> y dale click a <code>Unpause Key</code> y escribe <code>Yes</code> en la ventana que aparecera.</li>
+</ul>
 ]]></content:encoded>
       <enclosure url="https://korepi.com/assets/images/docs/202312/virus.png" type="image/png"/>
     </item>
@@ -2100,11 +2112,11 @@ Para poder usar skins personalizadas en Korepi tendremos que descargar la aplica
       <category>Guía</category>
       <pubDate>Thu, 30 Nov 2023 10:24:26 GMT</pubDate>
       <content:encoded><![CDATA[<h1> Descargar</h1>
-<p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/HFYfj2E25cFYnYC/preview"><source src="https://nextcloud.atruicardona.xyz/s/HFYfj2E25cFYnYC/download" type="video/mp4"></video></p>
+<div class="iframe-container"><iframe width="1280" height="720" src="https://www.youtube.com/embed/Mxspp5FsVEE" title="How to download Korepi" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
 <h2> Introducción</h2>
 <p>¡Bienvenid@ a nuestra comunidad! Para pasar la verificación del bot y recibir el rol de <code>Newcomer</code>, sigue los siguientes pasos.</p>
 <h3> Paso 1: Únete a nuestro servidor y obtén el rol de <code>Newcomer</code></h3>
-<p>Si aún no te has unido al servidor, por favor, lee la publicación de verificación, que explica cómo unirse al servidor el rol de <code>Newcomer</code></p>
+<p>Si aún no te has unido al servidor, por favor, lee la publicación de <a href="/es/start/verify.html" target="blank">verificación</a>, que explica cómo unirse al servidor el rol de <code>Newcomer</code></p>
 <h3> Paso 2: Ve al canal de <code>⁠★⋅korepi-download⋅★</code></h3>
 <p>Localiza el canal <code>⁠★⋅korepi-download⋅★</code> y sigue el enlace para descargar el programa.</p>
 <h3> Paso 4: ¡Listo!</h3>
@@ -2170,15 +2182,15 @@ Para poder usar skins personalizadas en Korepi tendremos que descargar la aplica
       <link>https://korepi.com/es/start/verify.html</link>
       <guid>https://korepi.com/es/start/verify.html</guid>
       <source url="https://korepi.com/es/rss.xml">Verificación</source>
-      <description>Introducción Bienvenid@ a nuestra comunidad! Para completar la verificación del bot y obtener el rol de &amp;quot;Fans&amp;quot;, sigue los siguientes pasos. Paso 1: Únete a nuestro servidor si a...</description>
+      <description>Introducción Bienvenid@ a nuestra comunidad! Para completar la verificación del bot, sigue los siguientes pasos. Paso 1: Únete a nuestro servidor si aun no lo has hecho Si aun n...</description>
       <category>Guía</category>
       <pubDate>Wed, 29 Nov 2023 17:50:00 GMT</pubDate>
       <content:encoded><![CDATA[<h2> Introducción</h2>
-<p>Bienvenid@ a nuestra comunidad! Para completar la verificación del bot y obtener el rol de "Fans", sigue los siguientes pasos.</p>
+<p>Bienvenid@ a nuestra comunidad! Para completar la verificación del bot, sigue los siguientes pasos.</p>
 <h3> Paso 1: Únete a nuestro servidor si aun no lo has hecho</h3>
 <p>Si aun no estas en nuestro servidor, por favor lee la publicación anterior, donde se explica como se puede unir al servidor.</p>
 <h3> Paso 2: Asi que estas en el servidor</h3>
-<p>Ahora que estas ene el servidor, elige los canales y roles necesarios de la lista, después ve al canal de ★⋅rules⋅★./</p>
+<p>Ahora que estas ene el servidor, elige los canales y roles necesarios de la lista, después ve al canal de ★⋅rules⋅★.</p>
 <h3> Paso 3: Canal de ★⋅rules⋅★</h3>
 <p>En el canal de reglas, deberás familiarizarte con las reglas y con la verificación para confirmar de que no eres un bot. Encuentra el botón de "Verify", dale click, y el bot the enviara un link que tendrás que seguir y confirmar de que no eres un bot</p>
 <h3> Paso 4: Después de recibir el rol de "Newcomer"</h3>

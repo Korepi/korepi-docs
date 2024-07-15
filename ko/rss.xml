@@ -6,8 +6,8 @@
     <link>https://korepi.com/ko/</link>
     <description>Korepi 도움말</description>
     <language>ko-KR</language>
-    <pubDate>Mon, 15 Jul 2024 18:05:13 GMT</pubDate>
-    <lastBuildDate>Mon, 15 Jul 2024 18:05:13 GMT</lastBuildDate>
+    <pubDate>Mon, 15 Jul 2024 20:51:11 GMT</pubDate>
+    <lastBuildDate>Mon, 15 Jul 2024 20:51:11 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Guide</category>
@@ -1216,7 +1216,7 @@ Note 2: You can find the items IDs <a href="https://github.com/jie65535/Grasscut
       <category>가이드</category>
       <pubDate>Mon, 12 Feb 2024 04:04:43 GMT</pubDate>
       <content:encoded><![CDATA[<h2> Korepi 무료 라이선스 획득 방법</h2>
-<div class="iframe-container"><iframe width="1328" height="747" src="https://www.youtube.com/embed/kydnZ0QR2eQ" title="How to Update Korepi and How to Renew the Key" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
+<div class="iframe-container"><iframe width="1280" height="720" src="https://www.youtube.com/embed/SWI-GeqKx1g" title="How to use Korepi for free" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
 <h3> 1단계:</h3>
 <ul>
 <li>
@@ -1960,7 +1960,7 @@ Note 2: You can find the items IDs <a href="https://github.com/jie65535/Grasscut
       <category>가이드</category>
       <pubDate>Tue, 19 Dec 2023 11:43:03 GMT</pubDate>
       <content:encoded><![CDATA[<h1> Download</h1>
-<p><video controls="" preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/HFYfj2E25cFYnYC/preview"><source src="https://nextcloud.atruicardona.xyz/s/HFYfj2E25cFYnYC/download" type="video/mp4"></video></p>
+<div class="iframe-container"><iframe width="1280" height="720" src="https://www.youtube.com/embed/Mxspp5FsVEE" title="How to download Korepi" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
 <h2> 소개</h2>
 <p>환영합니다! 봇 체크를 통과하고 'Newcomer' 역할을 받으려면 아래 절차를 따라주세요.</p>
 <h3> 1단계: 서버에 가입하여 <code>Newcomer</code> 역할 획득</h3>
@@ -2165,6 +2165,18 @@ Note 2: You can find the items IDs <a href="https://github.com/jie65535/Grasscut
 <div class="hint-container info">
 <p class="hint-container-title">If you are from Iran you might need to use a VPN instead.</p>
 </div>
+<h3> Unable to open file to write public key:</h3>
+<ul>
+<li>This error might happen if you got your game installed in other drive other than your main drive <code>C:/</code> , to solve it you can reinstall the game to the main drive and run Korepi again.</li>
+</ul>
+<h3> Failed to get response from https://md5c...</h3>
+<ul>
+<li>This error might happen if your conection is not stable or your conection to the website its blocked, please copy the link and check if you can access it. If you can't access the website, using a VPN might help.</li>
+</ul>
+<h3> Received code is not 200 from https://md5c...</h3>
+<ul>
+<li>This Error will appear if your key is paused, please head to <code>★⋅micah-bot-verify⋅★</code> and click on <code>Unpause Key</code> and type <code>Yes</code> on the pop-up.</li>
+</ul>
 ]]></content:encoded>
     </item>
   </channel>
