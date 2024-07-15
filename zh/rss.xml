@@ -6,8 +6,8 @@
     <link>https://korepi.com/zh/</link>
     <description>Korepi 中文文档介绍</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 12 Jul 2024 18:26:22 GMT</pubDate>
-    <lastBuildDate>Fri, 12 Jul 2024 18:26:22 GMT</lastBuildDate>
+    <pubDate>Mon, 15 Jul 2024 18:05:13 GMT</pubDate>
+    <lastBuildDate>Mon, 15 Jul 2024 18:05:13 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>指南</category>
@@ -1045,7 +1045,7 @@ VPN并非专为翻墙而生，而机场是专门的翻墙节点服务商。</p>
 <h2> 4.当有新的更新时，我可以使用Korepi吗?</h2>
 <p>不，你需要等到Korepi的新版本发布。</p>
 <div class="hint-container info">
-<p class="hint-container-title">使用旧的注入器是没有用的，例如：1.1.0的Korepi只适配4.2的原神。Korepi更新大约需要1-2周。</p>
+<p class="hint-container-title">使用旧的注入器是没有用的，例如：1.1.0的Korepi只适配4.2的⚪神。Korepi更新大约需要1-2周。</p>
 </div>
 <hr>
 <h2> 5.为什么我启动游戏没有菜单，只有防欺诈警告?</h2>
@@ -2476,7 +2476,7 @@ C1: 🟦 C2: ？ C3: 🟥 C4: 🟦 C5: 🟥 C6: 🟦</li>
 <p>情况一：</p>
 <ul>
 <li>korepi的文件夹名称有中文或者其他符号，请改为英文路径。<span style="color:red;">例如：D:\korepi</span></li>
-<li>原神路径文件夹名称有中文或者其他符号，请改为英文路径。<span style="color:red;">例如：D:\Genshin Impact\Genshin Impact Game\GenshinImpact.exe</span></li>
+<li>⚪神路径文件夹名称有中文或者其他符号，请改为英文路径。<span style="color:red;">例如：D:\G⚪nshin Impact\G⚪nshin Impact Game\G⚪nshinImpact.exe</span></li>
 </ul>
 <p>情况二：</p>
 <ul>
@@ -2641,11 +2641,11 @@ C1: 🟦 C2: ？ C3: 🟥 C4: 🟦 C5: 🟥 C6: 🟦</li>
 <p><a href="https://d3dxskinmanage.numlinka.com/#/downloads/d3dx-skin-manage" target="_blank" rel="noopener noreferrer">3DM链接</a></p>
 <h1> 2.打开3dm并且运行，如下图：</h1>
 <p></p>
-<h1> 3.选择原神图标并且点击Login加载。</h1>
+<h1> 3.选择⚪神图标并且点击Login加载。</h1>
 <p></p>
 <h1> 4.进入后，找到运行环境，并且点击</h1>
 <p></p>
-<h1> 5.找到用户设置，先设置3dm版本，建议使用playing版本，然后设置游戏路径，点击文件选择工具选择自己的原神文件夹位置。最后在自定义选项中选择korepi的文件位置。</h1>
+<h1> 5.找到用户设置，先设置3dm版本，建议使用playing版本，然后设置游戏路径，点击文件选择工具选择自己的⚪神文件夹位置。最后在自定义选项中选择korepi的文件位置。</h1>
 <p></p>
 <h1> 6.点击启动3dm。</h1>
 <p></p>
