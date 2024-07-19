@@ -6,8 +6,8 @@
     <link>https://korepi.com/id/</link>
     <description>Bantuan tentang Korepi</description>
     <language>id-ID</language>
-    <pubDate>Fri, 19 Jul 2024 16:30:54 GMT</pubDate>
-    <lastBuildDate>Fri, 19 Jul 2024 16:30:54 GMT</lastBuildDate>
+    <pubDate>Fri, 19 Jul 2024 16:31:59 GMT</pubDate>
+    <lastBuildDate>Fri, 19 Jul 2024 16:31:59 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Panduan</category>
@@ -2070,17 +2070,17 @@ Jika tidak berhasil, buka cmd sebagai administrator dan ketik <code>sfc /scannow
 <hr>
 <h3> Unable to open file to write public key:</h3>
 <ul>
-<li>This error might happen if you got your game installed in other drive other than your main drive <code>C:/</code> , to solve it you can reinstall the game to the main drive and run Korepi again.</li>
+<li>Eror ini mungkin terjadi jika game kamu terpasang di <em>drive</em> lain dan bukan di <em>drive</em> utama kamu (<code>C:\</code>), untuk memperbaikinya kamu bisa coba pasang ulang (<em>reinstall</em>) game nya ke <em>drive</em> utama kamu dan coba jalankan Korepi lagi.</li>
 </ul>
 <hr>
 <h3> Failed to get response from https://md5c...</h3>
 <ul>
-<li>This error might happen if your conection is not stable or your conection to the website its blocked, please copy the link and check if you can access it. If you can't access the website, using a VPN might help.</li>
+<li>Eror ini mungkin terjadi jika koneksimu tidak stabil atau koneksimu ke websitenya terblokir, coba <em>copy link</em>-nya dan cek apa kamu bisa mengaksesnya. Jika kamu tidak bisa mengakses websitenya, menggunakan VPN mungkin dapat membantu.</li>
 </ul>
 <hr>
 <h3> Received code is not 200 from https://md5c...</h3>
 <ul>
-<li>This Error will appear if your key is paused, please head to <code>★⋅micah-bot-verify⋅★</code> and click on <code>Unpause Key</code> and type <code>Yes</code> on the pop-up.</li>
+<li>Eror ini akan muncul jika <em>key</em> kamu di<em>pause</em>, harap ke channel <code>★⋅micah-bot-verify⋅★</code> dan klik pada <code>Unpause Key</code> dan ketik <code>Yes</code> di pop-up.</li>
 </ul>
 ]]></content:encoded>
       <enclosure url="https://korepi.com/assets/images/docs/202312/virus.png" type="image/png"/>
