@@ -6,8 +6,8 @@
     <link>https://korepi.com/ar/</link>
     <description>للمساعدة Korepi</description>
     <language>ar</language>
-    <pubDate>Mon, 15 Jul 2024 20:51:11 GMT</pubDate>
-    <lastBuildDate>Mon, 15 Jul 2024 20:51:11 GMT</lastBuildDate>
+    <pubDate>Fri, 19 Jul 2024 16:30:54 GMT</pubDate>
+    <lastBuildDate>Fri, 19 Jul 2024 16:30:54 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Guide</category>
@@ -986,9 +986,11 @@
 <p>إذا تم العثور على أخطاء بعد التحقق ولم يتمكن Windows من حلها، فاستخدم امر <code>DISM.exe /Online /Cleanup-Image /RestoreHealth</code>.</p>
 <p>بعد التحقق، قم بإعادة تشغيل جهاز الكمبيوتر الخاص بك وحاول تشغيل Colorpicker مرة أخرى.</p>
 <p>إذا تكرر الخطأ، يمكنك إجراء إعادة ضبط المصنع لنظام التشغيل Windows.</p>
+<hr>
 <h3> Current data does not exist or server error.</h3>
 <p><img src="/assets/images/docs/202312/error.png" alt="" loading="lazy"></p>
 <p>Unpause your license and try again.</p>
+<hr>
 <h3> Cannot verify current timestamp.</h3>
 <p><img src="/assets/images/docs/202402/timestamp.png" alt="" loading="lazy"></p>
 <p>Case 1:</p>
@@ -1002,14 +1004,17 @@
 <div class="hint-container info">
 <p class="hint-container-title">If you are from Iran you might need to use a VPN instead.</p>
 </div>
+<hr>
 <h3> Unable to open file to write public key:</h3>
 <ul>
 <li>This error might happen if you got your game installed in other drive other than your main drive <code>C:/</code> , to solve it you can reinstall the game to the main drive and run Korepi again.</li>
 </ul>
+<hr>
 <h3> Failed to get response from https://md5c...</h3>
 <ul>
 <li>This error might happen if your conection is not stable or your conection to the website its blocked, please copy the link and check if you can access it. If you can't access the website, using a VPN might help.</li>
 </ul>
+<hr>
 <h3> Received code is not 200 from https://md5c...</h3>
 <ul>
 <li>This Error will appear if your key is paused, please head to <code>★⋅micah-bot-verify⋅★</code> and click on <code>Unpause Key</code> and type <code>Yes</code> on the pop-up.</li>

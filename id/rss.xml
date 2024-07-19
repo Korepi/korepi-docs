@@ -6,8 +6,8 @@
     <link>https://korepi.com/id/</link>
     <description>Bantuan tentang Korepi</description>
     <language>id-ID</language>
-    <pubDate>Mon, 15 Jul 2024 20:51:11 GMT</pubDate>
-    <lastBuildDate>Mon, 15 Jul 2024 20:51:11 GMT</lastBuildDate>
+    <pubDate>Fri, 19 Jul 2024 16:30:54 GMT</pubDate>
+    <lastBuildDate>Fri, 19 Jul 2024 16:30:54 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Panduan</category>
@@ -2067,14 +2067,17 @@ Jika tidak berhasil, buka cmd sebagai administrator dan ketik <code>sfc /scannow
 <ul>
 <li>Cek waktu jam PC kamu sudah diatur sinkron otomatis.</li>
 </ul>
+<hr>
 <h3> Unable to open file to write public key:</h3>
 <ul>
 <li>This error might happen if you got your game installed in other drive other than your main drive <code>C:/</code> , to solve it you can reinstall the game to the main drive and run Korepi again.</li>
 </ul>
+<hr>
 <h3> Failed to get response from https://md5c...</h3>
 <ul>
 <li>This error might happen if your conection is not stable or your conection to the website its blocked, please copy the link and check if you can access it. If you can't access the website, using a VPN might help.</li>
 </ul>
+<hr>
 <h3> Received code is not 200 from https://md5c...</h3>
 <ul>
 <li>This Error will appear if your key is paused, please head to <code>★⋅micah-bot-verify⋅★</code> and click on <code>Unpause Key</code> and type <code>Yes</code> on the pop-up.</li>

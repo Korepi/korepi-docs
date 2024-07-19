@@ -6,8 +6,8 @@
     <link>https://korepi.com/ru/</link>
     <description>Помощь по Korepi</description>
     <language>ru-RU</language>
-    <pubDate>Mon, 15 Jul 2024 20:51:11 GMT</pubDate>
-    <lastBuildDate>Mon, 15 Jul 2024 20:51:11 GMT</lastBuildDate>
+    <pubDate>Fri, 19 Jul 2024 16:30:54 GMT</pubDate>
+    <lastBuildDate>Fri, 19 Jul 2024 16:30:54 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Seller</category>
@@ -150,7 +150,7 @@
       <link>https://korepi.com/ru/start/differences.html</link>
       <guid>https://korepi.com/ru/start/differences.html</guid>
       <source url="https://korepi.com/ru/rss.xml">Разница версий</source>
-      <description>Доступные функции в разных версиях. Функции/Версия Free SponsorPERTAMAX --------------------------- Attack Effects✓✓✓ Auto Run✓✓✓ Cooldown Effects✓✓✓ Fall Control✓✓✓ God Mode✓✓✓...</description>
+      <description>Доступные функции в разных версиях. Функции/Версия Free SponsorPERTAMAX --------------------------- Настройки атаки✓✓✓ Автоматический бег✓✓✓ Настройки перезарядки✓✓✓ Контроль па...</description>
       <category>Guide</category>
       <pubDate>Sat, 13 Jan 2024 00:53:24 GMT</pubDate>
       <content:encoded><![CDATA[<h2> Доступные функции в разных версиях.</h2>
@@ -165,37 +165,37 @@
 </thead>
 <tbody>
 <tr>
-<td>Attack Effects</td>
+<td>Настройки атаки</td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Auto Run</td>
+<td>Автоматический бег</td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Cooldown Effects</td>
+<td>Настройки перезарядки</td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Fall Control</td>
+<td>Контроль падения</td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>God Mode</td>
+<td>Бессмертие</td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Infinite Stamina</td>
+<td>Бесконечная выносливость</td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
@@ -207,43 +207,43 @@
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Player Speed</td>
+<td>Скорость игрока</td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Auto-Challenge</td>
+<td>Автоматическое выполнение испытаний</td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Auto-Loot</td>
+<td>Авто-Лут</td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Auto-Seelie</td>
+<td>Авто-Феи</td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Auto Talk</td>
+<td>Авто-Разговор</td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Dumb Enemies</td>
+<td>Тупые мобы</td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Elemental Sight</td>
+<td>Бесконечное чувство стихий</td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
@@ -255,313 +255,313 @@
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Freeze Enemies</td>
+<td>Заморозка врагов</td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Game Speed</td>
+<td>Скорость игры</td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Open Team Immediately</td>
+<td>Мгновенное открытие отряда</td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Skip Enhance Animation</td>
+<td>Пропуск анимации улучшения</td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Chest Teleport</td>
+<td>Телепорт к сундукам</td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Oculi Teleport</td>
+<td>Телепорт к окулам</td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Map Teleport</td>
+<td>Телепорт по карте</td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Quest Teleport</td>
+<td>Телепорт к заданиям</td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Custom Teleport</td>
+<td>Пользовательский телепорт</td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Interactive Map</td>
+<td>Интерактивная карта</td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Camera Zoom</td>
+<td>Приближение камеры</td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>FOV Changer</td>
+<td>Изменение FOV</td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Chest Indicator</td>
+<td>Индикатор сундуков</td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Censor Remover</td>
+<td>Удаление цензуры</td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>FPS Unlock</td>
+<td>Разблокировка FPS</td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Hide UI</td>
+<td>Скрытие интерфейса</td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Map Zoom</td>
+<td>Приближение карты</td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>No Fog</td>
+<td>Без тумана</td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>No Grass</td>
+<td>Без травы</td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>No Map Fog</td>
+<td>Без тумана на карте</td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Summon Paimon</td>
+<td>Призыв Паймон</td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Profile Changer</td>
+<td>Изменение профиля</td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Auto Activate Waypoint</td>
+<td>Автоматическая активация точкек телепортации</td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Crit Rate Modifier</td>
+<td>Изменение шанса крита</td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Dolphin Dive</td>
+<td>Плавание дельфином</td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Elemental Aura</td>
+<td>Элементальная аура</td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Extra Movement</td>
+<td>Изменение передвижения</td>
+<td></td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Разблокировка визуальных настроек</td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Extra Visual Settings</td>
+<td>Редактор времени</td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Fake Time</td>
+<td>Свободная камера</td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Free Camera</td>
+<td>Иконка GM</td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>GM Icon</td>
+<td>Изменение монстров</td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Monster Changer</td>
+<td>Без блюра камеры</td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>No Camera Blur</td>
+<td>Без тряски камеры</td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>No Camera Shake</td>
+<td>Без следов</td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>No Footprints</td>
+<td>Без анимации навыков</td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:green;">✓</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>No Skill Animation</td>
-<td><span style="color:red;">X</span></td>
-<td><span style="color:green;">✓</span></td>
-<td><span style="color:green;">✓</span></td>
-</tr>
-<tr>
-<td>Debug</td>
+<td>Отладка</td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Animation Changer</td>
+<td>Изменение анимации</td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Auto Cook</td>
+<td>Автоматическая готовка</td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Auto Destroy</td>
+<td>Автоматическое разрушение объектов</td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Auto Tree Farm</td>
+<td>Авто-фарм древесины</td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Constellation Modifier</td>
+<td>Редактор созвездий</td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Custom Weather</td>
+<td>Редактор погоды</td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Emotion Changer</td>
+<td>Изменение эмоций</td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Flycloak Modifier</td>
+<td>Редактор крыльев</td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Kill Aura</td>
+<td>Киллаура</td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Map Manager</td>
+<td>Открытие всех точек телепортации и статуй архонтов</td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Mob Vacuum</td>
+<td>Притягивание мобов</td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Remote Utilities</td>
+<td>Удаленный доступ</td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Vacuum Loot</td>
+<td>Притягивание вещей</td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Skin Modifier</td>
+<td>Редактор скина</td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:green;">✓</span></td>
 </tr>
 <tr>
-<td>Auto Puzzle</td>
+<td>Автоголоволомки</td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:green;">✓</span></td>
@@ -951,33 +951,37 @@ pass korepi</p>
 <p>Если после проверки найдены ошибки и Windows не может их устранить, используйте команду <code>DISM.exe /Online /Cleanup-Image /RestoreHealth</code>.</p>
 <p>После проверки перезагрузите компьютер и попробуйте запустить инжектор снова.</p>
 <p>Если ошибка повторяется, вы можете выполнить сброс до заводских настроек Windows.</p>
-<h3> Current data does not exist or server error.</h3>
+<hr>
+<h2> Current data does not exist or server error.</h2>
 <p><img src="/assets/images/docs/202312/error.png" alt="" loading="lazy"></p>
-<p>Unpause your license and try again.</p>
-<h3> Cannot verify current timestamp.</h3>
+<p>Снимите с паузы ключ и повторите попытку.</p>
+<hr>
+<h2> Cannot verify current timestamp.</h2>
 <p><img src="/assets/images/docs/202402/timestamp.png" alt="" loading="lazy"></p>
-<p>Case 1:</p>
+<p>Способ 1:</p>
 <ul>
-<li>You might get this error while using a VPN, please disable it and try again.</li>
+<li>Вы можете получить эту ошибку при использовании VPN, пожалуйста, отключите его и попробуйте снова.</li>
 </ul>
-<p>Case 2:</p>
+<p>Способ 2:</p>
 <ul>
-<li>Check that your PC time is set to automatic sync.</li>
+<li>Настройте время на вашем компьютере на автоматическую синхронизацию.</li>
 </ul>
-<div class="hint-container info">
-<p class="hint-container-title">If you are from Iran you might need to use a VPN instead.</p>
-</div>
-<h3> Unable to open file to write public key:</h3>
+<p>::: Если вы из Ирана, возможно, вам придется использовать VPN.
+:::</p>
+<hr>
+<h2> Unable to open file to write public key:</h2>
 <ul>
-<li>This error might happen if you got your game installed in other drive other than your main drive <code>C:/</code> , to solve it you can reinstall the game to the main drive and run Korepi again.</li>
+<li>Эта ошибка может возникнуть, если вы установили игру не на основной диск <code>C:/</code>, чтобы решить ее, вы можете переустановить игру на основной диск и снова запустить Корепи.</li>
 </ul>
-<h3> Failed to get response from https://md5c...</h3>
+<hr>
+<h2> Failed to get response from https://md5c...</h2>
 <ul>
-<li>This error might happen if your conection is not stable or your conection to the website its blocked, please copy the link and check if you can access it. If you can't access the website, using a VPN might help.</li>
+<li>Эта ошибка может возникнуть, если ваше соединение нестабильно или соединение с сайтом заблокировано, пожалуйста, скопируйте ссылку и проверьте, можете ли вы получить к ней доступ. Если вы не можете получить доступ к сайту, вам может помочь использование VPN/отключение VPN.</li>
 </ul>
-<h3> Received code is not 200 from https://md5c...</h3>
+<hr>
+<h2> Received code is not 200 from https://md5c...</h2>
 <ul>
-<li>This Error will appear if your key is paused, please head to <code>★⋅micah-bot-verify⋅★</code> and click on <code>Unpause Key</code> and type <code>Yes</code> on the pop-up.</li>
+<li>TОшибка появится, если ваш ключ приостановлен, пожалуйста, перейдите в раздел <code>★⋅micah-bot-verify⋅★</code>, нажмите на <code>Unpause Key</code> и введите <code>Yes</code>.</li>
 </ul>
 ]]></content:encoded>
       <enclosure url="https://korepi.com/assets/images/docs/202312/virus.png" type="image/png"/>

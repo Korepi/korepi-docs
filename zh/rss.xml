@@ -6,8 +6,8 @@
     <link>https://korepi.com/zh/</link>
     <description>Korepi 中文文档介绍</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 15 Jul 2024 20:51:11 GMT</pubDate>
-    <lastBuildDate>Mon, 15 Jul 2024 20:51:11 GMT</lastBuildDate>
+    <pubDate>Fri, 19 Jul 2024 16:30:54 GMT</pubDate>
+    <lastBuildDate>Fri, 19 Jul 2024 16:30:54 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>指南</category>
@@ -2459,9 +2459,11 @@ C1: 🟦 C2: ？ C3: 🟥 C4: 🟦 C5: 🟥 C6: 🟦</li>
 <p><img src="/assets/images/docs/202312/error4.png" alt="" loading="lazy"></p>
 <p>重新启动您的计算机，重新启动您的路由器。</p>
 <p>如果没有用，尝试使用VPN。</p>
+<hr>
 <h3> 13.当前数据不存在或服务器错误</h3>
 <p><img src="/assets/images/docs/202312/error.png" alt="" loading="lazy"></p>
 <p>解除暂停您的卡蜜再试一次</p>
+<hr>
 <h3> 14.无法验证当前时间戳</h3>
 <p><img src="/assets/images/docs/202402/timestamp.png" alt="" loading="lazy"></p>
 <p>情况一:</p>
@@ -2472,6 +2474,7 @@ C1: 🟦 C2: ？ C3: 🟥 C4: 🟦 C5: 🟥 C6: 🟦</li>
 <ul>
 <li>确定您的计算机时间是设定为自动同步</li>
 </ul>
+<hr>
 <h3> 15.为什么我的korpei打开后闪退</h3>
 <p>情况一：</p>
 <ul>
@@ -2483,14 +2486,17 @@ C1: 🟦 C2: ？ C3: 🟥 C4: 🟦 C5: 🟥 C6: 🟦</li>
 <li>电脑hosts文件缺失，如果C:\Windows\System32\drivers\etc中没有hosts文件，KP就无法运行，因此它是KP运行的必要条件。hosts文件路径：<span style="color:red;">C:\Windows\System32\drivers\etc</span>。</li>
 <li><a href="https://discord.com/channels/1069057220802781265/1158263313369677824/1221410399765659658" target="_blank" rel="noopener noreferrer">hosts下载</a> 如果无法通过链接进入，请在频道中频道和身分组哪里点击领取Chinese Ping身份，然后在点击上面的hosts下载。</li>
 </ul>
+<hr>
 <h3> 16.Unable to open file to write public key:</h3>
 <ul>
 <li>This error might happen if you got your game installed in other drive other than your main drive <code>C:/</code> , to solve it you can reinstall the game to the main drive and run Korepi again.</li>
 </ul>
+<hr>
 <h3> 17.Failed to get response from https://md5c...</h3>
 <ul>
 <li>This error might happen if your conection is not stable or your conection to the website its blocked, please copy the link and check if you can access it. If you can't access the website, using a VPN might help.</li>
 </ul>
+<hr>
 <h3> 18.Received code is not 200 from https://md5c...</h3>
 <ul>
 <li>This Error will appear if your key is paused, please head to <code>★⋅micah-bot-verify⋅★</code> and click on <code>Unpause Key</code> and type <code>Yes</code> on the pop-up.</li>

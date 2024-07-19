@@ -6,8 +6,8 @@
     <link>https://korepi.com/pt/</link>
     <description>Ajuda em Korepi</description>
     <language>pt-BR</language>
-    <pubDate>Mon, 15 Jul 2024 20:51:11 GMT</pubDate>
-    <lastBuildDate>Mon, 15 Jul 2024 20:51:11 GMT</lastBuildDate>
+    <pubDate>Fri, 19 Jul 2024 16:30:54 GMT</pubDate>
+    <lastBuildDate>Fri, 19 Jul 2024 16:30:54 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Guia</category>
@@ -2108,9 +2108,11 @@ Nota 2: Não é recomendado usar.</p>
 <p>Se foram encontrados erros e o Windows não puder corrigi-los, use <code>DISM.exe /Online /Cleanup-Image /RestoreHealth</code> no <code>cmd</code>.</p>
 <p>Depois disso, reinicie seu computador e verifique se funciona.</p>
 <p>Se não funcionar, será necessário reinstalar o Windows.</p>
+<hr>
 <h3> Dados atuais não existem ou erro de servidor.</h3>
 <p><img src="/assets/images/docs/202312/error.png" alt="" loading="lazy"></p>
 <p>Despausa sua licença e tente novamente.</p>
+<hr>
 <h3> Não é possível verificar o carimbo de data/hora atual.</h3>
 <p><img src="/assets/images/docs/202402/timestamp.png" alt="" loading="lazy"></p>
 <p>Caso 1:</p>
@@ -2124,14 +2126,17 @@ Nota 2: Não é recomendado usar.</p>
 <div class="hint-container info">
 <p class="hint-container-title">Se você é do Irã, talvez precise usar uma VPN em vez disso.</p>
 </div>
+<hr>
 <h3> Unable to open file to write public key:</h3>
 <ul>
 <li>This error might happen if you got your game installed in other drive other than your main drive <code>C:/</code> , to solve it you can reinstall the game to the main drive and run Korepi again.</li>
 </ul>
+<hr>
 <h3> Failed to get response from https://md5c...</h3>
 <ul>
 <li>This error might happen if your conection is not stable or your conection to the website its blocked, please copy the link and check if you can access it. If you can't access the website, using a VPN might help.</li>
 </ul>
+<hr>
 <h3> Received code is not 200 from https://md5c...</h3>
 <ul>
 <li>This Error will appear if your key is paused, please head to <code>★⋅micah-bot-verify⋅★</code> and click on <code>Unpause Key</code> and type <code>Yes</code> on the pop-up.</li>

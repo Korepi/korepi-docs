@@ -6,8 +6,8 @@
     <link>https://korepi.com/es/</link>
     <description>Ayuda en Korepi</description>
     <language>es-ES</language>
-    <pubDate>Mon, 15 Jul 2024 20:51:11 GMT</pubDate>
-    <lastBuildDate>Mon, 15 Jul 2024 20:51:11 GMT</lastBuildDate>
+    <pubDate>Fri, 19 Jul 2024 16:30:54 GMT</pubDate>
+    <lastBuildDate>Fri, 19 Jul 2024 16:30:54 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Guía</category>
@@ -1912,9 +1912,11 @@ Nota 2: No se recomienda usar.</p>
 <p>Si se encontraron errores y Windows no lo puede solucionar, una <code>DISM.exe /Online /Cleanup-Image /RestoreHealth</code> en el <code>cmd</code>.</p>
 <p>Después de eso reiniciar tu ordenador y comprueba si funciona.</p>
 <p>Si no funciona, tendrás que reinstalar windows.</p>
+<hr>
 <h3> Current data does not exist or server error.</h3>
 <p><img src="/assets/images/docs/202312/error.png" alt="" loading="lazy"></p>
 <p>Quita la pausa de tu licencia e inténtalo de nuevo.</p>
+<hr>
 <h3> Cannot verify current timestamp.</h3>
 <p><img src="/assets/images/docs/202402/timestamp.png" alt="" loading="lazy"></p>
 <p>Caso 1:</p>
@@ -1929,14 +1931,17 @@ Nota 2: No se recomienda usar.</p>
 <div class="hint-container info">
 <p class="hint-container-title">Si eres de Iran puede que tengas que usar una VPN para que funcione.</p>
 </div>
+<hr>
 <h3> Unable to open file to write public key:</h3>
 <ul>
 <li>Este error puede aparecer cuando tienes el juego instalado en otro disco, puedes resolverlo instalando el juego en el disco principal <code>C:/</code>.</li>
 </ul>
+<hr>
 <h3> Failed to get response from https://md5c...</h3>
 <ul>
 <li>Este error puede ocurrir cuando tu conexión no es estable o el acceso a la pagina esta bloqueado, intenta visitar la pagina para ver si lo puedes acceder, si no puedes, usar un VPN puede ser tu solución.</li>
 </ul>
+<hr>
 <h3> Received code is not 200 from https://md5c...</h3>
 <ul>
 <li>Este error aparecera si tienes tu licencia pausada, ve a <code>★⋅micah-bot-verify⋅★</code> y dale click a <code>Unpause Key</code> y escribe <code>Yes</code> en la ventana que aparecera.</li>
