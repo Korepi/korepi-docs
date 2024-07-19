@@ -13,70 +13,70 @@ order: 6
 
 |Функции/Версия | Free |Sponsor|PERTAMAX|
 |-----|--------|--------|------|
-|Attack Effects|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
-|Auto Run|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
-|Cooldown Effects|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
-|Fall Control|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
-|God Mode|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
-|Infinite Stamina|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
+|Настройки атаки|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
+|Автоматический бег|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
+|Настройки перезарядки|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
+|Контроль падения|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
+|Бессмертие|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
+|Бесконечная выносливость|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
 |No-Clip|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
-|Player Speed|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
-|Auto-Challenge|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
-|Auto-Loot|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
-|Auto-Seelie|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
-|Auto Talk|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
-|Dumb Enemies|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
-|Elemental Sight|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
+|Скорость игрока|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
+|Автоматическое выполнение испытаний|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
+|Авто-Лут|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
+|Авто-Феи|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
+|Авто-Разговор|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
+|Тупые мобы|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
+|Бесконечное чувство стихий|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
 |ESP|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
-|Freeze Enemies|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
-|Game Speed|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
-|Open Team Immediately|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
-|Skip Enhance Animation|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
-|Chest Teleport|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
-|Oculi Teleport|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
-|Map Teleport|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
-|Quest Teleport|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
-|Custom Teleport|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
-|Interactive Map|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
-|Camera Zoom|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
-|FOV Changer|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
-|Chest Indicator|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
-|Censor Remover|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
-|FPS Unlock|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
-|Hide UI|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
-|Map Zoom|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
-|No Fog|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
-|No Grass|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
-|No Map Fog|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
-|Summon Paimon|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
-|Profile Changer|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
-|Auto Activate Waypoint|<span style='color:red;'>X</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
-|Crit Rate Modifier|<span style='color:red;'>X</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
-|Dolphin Dive|<span style='color:red;'>X</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
-|Elemental Aura|<span style='color:red;'>X</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
-|Extra Movement|<span style='color:red;'>X</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
-|Extra Visual Settings|<span style='color:red;'>X</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
-|Fake Time|<span style='color:red;'>X</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
-|Free Camera|<span style='color:red;'>X</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
-|GM Icon|<span style='color:red;'>X</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
-|Monster Changer|<span style='color:red;'>X</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
-|No Camera Blur|<span style='color:red;'>X</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
-|No Camera Shake|<span style='color:red;'>X</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
-|No Footprints|<span style='color:red;'>X</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
-|No Skill Animation|<span style='color:red;'>X</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
-|Debug|<span style='color:red;'>X</span>|<span style='color:red;'>X</span>|<span style='color:green;'>✓</span>|
-|Animation Changer|<span style='color:red;'>X</span>|<span style='color:red;'>X</span>|<span style='color:green;'>✓</span>|
-|Auto Cook|<span style='color:red;'>X</span>|<span style='color:red;'>X</span>|<span style='color:green;'>✓</span>|
-|Auto Destroy|<span style='color:red;'>X</span>|<span style='color:red;'>X</span>|<span style='color:green;'>✓</span>|
-|Auto Tree Farm|<span style='color:red;'>X</span>|<span style='color:red;'>X</span>|<span style='color:green;'>✓</span>|
-|Constellation Modifier|<span style='color:red;'>X</span>|<span style='color:red;'>X</span>|<span style='color:green;'>✓</span>|
-|Custom Weather|<span style='color:red;'>X</span>|<span style='color:red;'>X</span>|<span style='color:green;'>✓</span>|
-|Emotion Changer|<span style='color:red;'>X</span>|<span style='color:red;'>X</span>|<span style='color:green;'>✓</span>|
-|Flycloak Modifier|<span style='color:red;'>X</span>|<span style='color:red;'>X</span>|<span style='color:green;'>✓</span>|
-|Kill Aura|<span style='color:red;'>X</span>|<span style='color:red;'>X</span>|<span style='color:green;'>✓</span>|
-|Map Manager|<span style='color:red;'>X</span>|<span style='color:red;'>X</span>|<span style='color:green;'>✓</span>|
-|Mob Vacuum|<span style='color:red;'>X</span>|<span style='color:red;'>X</span>|<span style='color:green;'>✓</span>|
-|Remote Utilities|<span style='color:red;'>X</span>|<span style='color:red;'>X</span>|<span style='color:green;'>✓</span>|
-|Vacuum Loot|<span style='color:red;'>X</span>|<span style='color:red;'>X</span>|<span style='color:green;'>✓</span>|
-|Skin Modifier|<span style='color:red;'>X</span>|<span style='color:red;'>X</span>|<span style='color:green;'>✓</span>|
-|Auto Puzzle|<span style='color:red;'>X</span>|<span style='color:red;'>X</span>|<span style='color:green;'>✓</span>|
+|Заморозка врагов|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
+|Скорость игры|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
+|Мгновенное открытие отряда|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
+|Пропуск анимации улучшения|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
+|Телепорт к сундукам|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
+|Телепорт к окулам|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
+|Телепорт по карте|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
+|Телепорт к заданиям|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
+|Пользовательский телепорт|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
+|Интерактивная карта|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
+|Приближение камеры|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
+|Изменение FOV|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
+|Индикатор сундуков|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
+|Удаление цензуры|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
+|Разблокировка FPS|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
+|Скрытие интерфейса|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
+|Приближение карты|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
+|Без тумана|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
+|Без травы|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
+|Без тумана на карте|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
+|Призыв Паймон|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
+|Изменение профиля|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
+|Автоматическая активация точкек телепортации|<span style='color:red;'>X</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
+|Изменение шанса крита|<span style='color:red;'>X</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
+|Плавание дельфином|<span style='color:red;'>X</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
+|Элементальная аура|<span style='color:red;'>X</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
+|Изменение передвижения||<span style='color:red;'>X</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
+|Разблокировка визуальных настроек|<span style='color:red;'>X</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
+|Редактор времени|<span style='color:red;'>X</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
+|Свободная камера|<span style='color:red;'>X</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
+|Иконка GM|<span style='color:red;'>X</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
+|Изменение монстров|<span style='color:red;'>X</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
+|Без блюра камеры|<span style='color:red;'>X</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
+|Без тряски камеры|<span style='color:red;'>X</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
+|Без следов|<span style='color:red;'>X</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
+|Без анимации навыков|<span style='color:red;'>X</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
+|Отладка|<span style='color:red;'>X</span>|<span style='color:red;'>X</span>|<span style='color:green;'>✓</span>|
+|Изменение анимации|<span style='color:red;'>X</span>|<span style='color:red;'>X</span>|<span style='color:green;'>✓</span>|
+|Автоматическая готовка|<span style='color:red;'>X</span>|<span style='color:red;'>X</span>|<span style='color:green;'>✓</span>|
+|Автоматическое разрушение объектов|<span style='color:red;'>X</span>|<span style='color:red;'>X</span>|<span style='color:green;'>✓</span>|
+|Авто-фарм древесины|<span style='color:red;'>X</span>|<span style='color:red;'>X</span>|<span style='color:green;'>✓</span>|
+|Редактор созвездий|<span style='color:red;'>X</span>|<span style='color:red;'>X</span>|<span style='color:green;'>✓</span>|
+|Редактор погоды|<span style='color:red;'>X</span>|<span style='color:red;'>X</span>|<span style='color:green;'>✓</span>|
+|Изменение эмоций|<span style='color:red;'>X</span>|<span style='color:red;'>X</span>|<span style='color:green;'>✓</span>|
+|Редактор крыльев|<span style='color:red;'>X</span>|<span style='color:red;'>X</span>|<span style='color:green;'>✓</span>|
+|Киллаура|<span style='color:red;'>X</span>|<span style='color:red;'>X</span>|<span style='color:green;'>✓</span>|
+|Открытие всех точек телепортации и статуй архонтов|<span style='color:red;'>X</span>|<span style='color:red;'>X</span>|<span style='color:green;'>✓</span>|
+|Притягивание мобов|<span style='color:red;'>X</span>|<span style='color:red;'>X</span>|<span style='color:green;'>✓</span>|
+|Удаленный доступ|<span style='color:red;'>X</span>|<span style='color:red;'>X</span>|<span style='color:green;'>✓</span>|
+|Притягивание вещей|<span style='color:red;'>X</span>|<span style='color:red;'>X</span>|<span style='color:green;'>✓</span>|
+|Редактор скина|<span style='color:red;'>X</span>|<span style='color:red;'>X</span>|<span style='color:green;'>✓</span>|
+|Автоголоволомки|<span style='color:red;'>X</span>|<span style='color:red;'>X</span>|<span style='color:green;'>✓</span>|

@@ -147,12 +147,14 @@ Kontrol ettikten sonra bilgisayarınızı yeniden başlatın ve calculator'u tek
 
 Hata tekrar ederse Windows'u fabrika ayarlarına sıfırlayabilirsiniz.
 
+---
 ### Current data does not exist or server error.
 
 ![](/assets/images/docs/202312/error.png)
 
 Unpause your license and try again.
 
+---
 ### Cannot verify current timestamp.
 
 ![](/assets/images/docs/202402/timestamp.png)
@@ -166,14 +168,17 @@ Case 2:
 ::: info If you are from Iran you might need to use a VPN instead.
 :::
 
+---
 ### Unable to open file to write public key:
 
 - This error might happen if you got your game installed in other drive other than your main drive `C:/` , to solve it you can reinstall the game to the main drive and run Korepi again.
 
+---
 ### Failed to get response from https://md5c...
 
 - This error might happen if your conection is not stable or your conection to the website its blocked, please copy the link and check if you can access it. If you can't access the website, using a VPN might help.
 
+---
 ### Received code is not 200 from https://md5c...
 
 - This Error will appear if your key is paused, please head to `★⋅micah-bot-verify⋅★` and click on `Unpause Key` and type `Yes` on the pop-up.

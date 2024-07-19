@@ -129,6 +129,7 @@ Actualiza tu mod siguiendo [estos](../start/download.md) pasos.
 2. Borra tu `cfg.json`, algo esta mal con el archivo.
 
 3. Si eso no lo resuelve sigue [esto](https://discord.com/channels/1069057220802781265/1213319789964038184/1242491428441952256).
+
 ---
 ### UserAssembly.dll isn't initialized, waiting for 2 sec.
 
@@ -144,12 +145,14 @@ Después de eso reiniciar tu ordenador y comprueba si funciona.
 
 Si no funciona, tendrás que reinstalar windows.
 
+---
 ### Current data does not exist or server error.
 
 ![](/assets/images/docs/202312/error.png)
 
 Quita la pausa de tu licencia e inténtalo de nuevo.
 
+---
 ### Cannot verify current timestamp.
 
 ![](/assets/images/docs/202402/timestamp.png)
@@ -164,15 +167,17 @@ Caso 2:
 ::: info Si eres de Iran puede que tengas que usar una VPN para que funcione.
 :::
 
-
+---
 ### Unable to open file to write public key:
 
 - Este error puede aparecer cuando tienes el juego instalado en otro disco, puedes resolverlo instalando el juego en el disco principal `C:/`.
 
+---
 ### Failed to get response from https://md5c...
 
 - Este error puede ocurrir cuando tu conexión no es estable o el acceso a la pagina esta bloqueado, intenta visitar la pagina para ver si lo puedes acceder, si no puedes, usar un VPN puede ser tu solución.
 
+---
 ### Received code is not 200 from https://md5c...
 
 - Este error aparecera si tienes tu licencia pausada, ve a `★⋅micah-bot-verify⋅★` y dale click a `Unpause Key` y escribe `Yes` en la ventana que aparecera.

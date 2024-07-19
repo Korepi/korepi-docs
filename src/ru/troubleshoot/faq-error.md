@@ -151,33 +151,38 @@ description: "Частые ошибки."
 
 Если ошибка повторяется, вы можете выполнить сброс до заводских настроек Windows.
 
-### Current data does not exist or server error.
+---
+## Current data does not exist or server error.
 
 ![](/assets/images/docs/202312/error.png)
 
-Unpause your license and try again.
+Снимите с паузы ключ и повторите попытку.
 
-### Cannot verify current timestamp.
+---
+## Cannot verify current timestamp.
 
 ![](/assets/images/docs/202402/timestamp.png)
 
-Case 1:
-- You might get this error while using a VPN, please disable it and try again.
+Способ 1:
+- Вы можете получить эту ошибку при использовании VPN, пожалуйста, отключите его и попробуйте снова.
 
-Case 2:
-- Check that your PC time is set to automatic sync.
+Способ 2:
+- Настройте время на вашем компьютере на автоматическую синхронизацию.
 
-::: info If you are from Iran you might need to use a VPN instead.
+::: Если вы из Ирана, возможно, вам придется использовать VPN.
 :::
 
-### Unable to open file to write public key:
+---
+## Unable to open file to write public key:
 
-- This error might happen if you got your game installed in other drive other than your main drive `C:/` , to solve it you can reinstall the game to the main drive and run Korepi again.
+- Эта ошибка может возникнуть, если вы установили игру не на основной диск `C:/`, чтобы решить ее, вы можете переустановить игру на основной диск и снова запустить Корепи.
 
-### Failed to get response from https://md5c...
+---
+## Failed to get response from https://md5c...
 
-- This error might happen if your conection is not stable or your conection to the website its blocked, please copy the link and check if you can access it. If you can't access the website, using a VPN might help.
+- Эта ошибка может возникнуть, если ваше соединение нестабильно или соединение с сайтом заблокировано, пожалуйста, скопируйте ссылку и проверьте, можете ли вы получить к ней доступ. Если вы не можете получить доступ к сайту, вам может помочь использование VPN/отключение VPN. 
 
-### Received code is not 200 from https://md5c...
+---
+## Received code is not 200 from https://md5c...
 
-- This Error will appear if your key is paused, please head to `★⋅micah-bot-verify⋅★` and click on `Unpause Key` and type `Yes` on the pop-up.
+- TОшибка появится, если ваш ключ приостановлен, пожалуйста, перейдите в раздел `★⋅micah-bot-verify⋅★`, нажмите на `Unpause Key` и введите `Yes`.
