@@ -118,12 +118,14 @@ order: 2
 
 如果没有用，尝试使用VPN。
 
+---
 ### 13.当前数据不存在或服务器错误
 
 ![](/assets/images/docs/202312/error.png)
 
 解除暂停您的卡蜜再试一次
 
+---
 ### 14.无法验证当前时间戳
 
 ![](/assets/images/docs/202402/timestamp.png)
@@ -134,6 +136,7 @@ order: 2
 情况二:
 - 确定您的计算机时间是设定为自动同步
 
+---
 ### 15.为什么我的korpei打开后闪退
 
 情况一：
@@ -144,15 +147,17 @@ order: 2
 - 电脑hosts文件缺失，如果C:\Windows\System32\drivers\etc中没有hosts文件，KP就无法运行，因此它是KP运行的必要条件。hosts文件路径：<span style="color:red;">C:\Windows\System32\drivers\etc</span>。
 - [hosts下载](https://discord.com/channels/1069057220802781265/1158263313369677824/1221410399765659658) 如果无法通过链接进入，请在频道中频道和身分组哪里点击领取Chinese Ping身份，然后在点击上面的hosts下载。
 
-
+---
 ### 16.Unable to open file to write public key:
 
 - This error might happen if you got your game installed in other drive other than your main drive `C:/` , to solve it you can reinstall the game to the main drive and run Korepi again.
 
+---
 ### 17.Failed to get response from https://md5c...
 
 - This error might happen if your conection is not stable or your conection to the website its blocked, please copy the link and check if you can access it. If you can't access the website, using a VPN might help.
 
+---
 ### 18.Received code is not 200 from https://md5c...
 
 - This Error will appear if your key is paused, please head to `★⋅micah-bot-verify⋅★` and click on `Unpause Key` and type `Yes` on the pop-up.

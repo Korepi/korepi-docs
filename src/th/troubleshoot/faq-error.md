@@ -154,12 +154,14 @@ order: 2
 
 หากเกิดข้อผิดพลาดซ้ำ, คุณต้องรีเซ็ต Windows เป็นค่าเริ่มต้นจากโรงงาน
 
+---
 ### Current data does not exist or server error.
 
 ![](/assets/images/docs/202312/error.png)
 
 หยุดการพักชั่วคราวและลองอีกครั้ง
 
+---
 ### Cannot verify current timestamp.
 
 ![](/assets/images/docs/202402/timestamp.png)
@@ -174,14 +176,17 @@ order: 2
 ::: info หากคุณมาจากอิหร่าน คุณอาจจำเป็นต้องใช้ VPN แทน
 :::
 
+---
 ### Unable to open file to write public key:
 
 - This error might happen if you got your game installed in other drive other than your main drive `C:/` , to solve it you can reinstall the game to the main drive and run Korepi again.
 
+---
 ### Failed to get response from https://md5c...
 
 - This error might happen if your conection is not stable or your conection to the website its blocked, please copy the link and check if you can access it. If you can't access the website, using a VPN might help.
 
+---
 ### Received code is not 200 from https://md5c...
 
 - This Error will appear if your key is paused, please head to `★⋅micah-bot-verify⋅★` and click on `Unpause Key` and type `Yes` on the pop-up.

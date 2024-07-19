@@ -154,6 +154,7 @@ Nếu như lỗi vẫn tiếp diễn, bạn nên cài lại Windows.
 
 Hãy ngưng tạm dừng key (unpause) rồi thử lại.
 
+---
 ### Cannot verify current timestamp.
 
 ![](/assets/images/docs/202402/timestamp.png)
@@ -167,14 +168,17 @@ Trường hợp 2:
 ::: info Đối với người dùng tại Iran, bạn cần bật VPN để có thể sử dụng Korepi.
 :::
 
+---
 ### Unable to open file to write public key:
 
 - This error might happen if you got your game installed in other drive other than your main drive `C:/` , to solve it you can reinstall the game to the main drive and run Korepi again.
 
+---
 ### Failed to get response from https://md5c...
 
 - This error might happen if your conection is not stable or your conection to the website its blocked, please copy the link and check if you can access it. If you can't access the website, using a VPN might help.
 
+---
 ### Received code is not 200 from https://md5c...
 
 - This Error will appear if your key is paused, please head to `★⋅micah-bot-verify⋅★` and click on `Unpause Key` and type `Yes` on the pop-up.
