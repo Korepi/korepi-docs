@@ -6,8 +6,8 @@
     <link>https://korepi.com/ru/</link>
     <description>Помощь по Korepi</description>
     <language>ru-RU</language>
-    <pubDate>Fri, 19 Jul 2024 16:31:59 GMT</pubDate>
-    <lastBuildDate>Fri, 19 Jul 2024 16:31:59 GMT</lastBuildDate>
+    <pubDate>Mon, 22 Jul 2024 14:38:13 GMT</pubDate>
+    <lastBuildDate>Mon, 22 Jul 2024 14:38:13 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Seller</category>
@@ -850,8 +850,8 @@ pass korepi</p>
 <p>Теперь ошибка должна исчезнуть.</p>
 <h2> Что делать, если я не могу войти в Korepi</h2>
 <p>Перейдите в папку Korepi, найдите файл <code>cfg.json</code>, нажмите <code>CTRL + F</code>, введите <code>bypass</code> и выполните поиск, установите значение <code>false</code>, после чего откройте Korepi.</p>
-<h3> Method 3</h3>
-<p>Go to the game launcher and click on repair files. After that log into the game without Korepi. If everything works fine, try opening with Korepi once again.</p>
+<h3> Метод 3</h3>
+<p>Перейдите в лаунчер игры и нажмите на кнопку "Починить файлы". После этого войдите в игру без Korepi. Если всё работает нормально, попробуйте открыть игру с Korepi снова.</p>
 <h2> Что, если ничего не помогает?</h2>
 <p>Придется выполнить переустановку игры.</p>
 ]]></content:encoded>
