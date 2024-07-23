@@ -68,6 +68,7 @@ order: 6
 |Изменение анимации|<span style='color:red;'>X</span>|<span style='color:red;'>X</span>|<span style='color:green;'>✓</span>|
 |Автоматическая готовка|<span style='color:red;'>X</span>|<span style='color:red;'>X</span>|<span style='color:green;'>✓</span>|
 |Автоматическое разрушение объектов|<span style='color:red;'>X</span>|<span style='color:red;'>X</span>|<span style='color:green;'>✓</span>|
+|Auto Fish|<span style='color:red;'>X</span>|<span style='color:red;'>X</span>|<span style='color:green;'>✓</span>|
 |Авто-фарм древесины|<span style='color:red;'>X</span>|<span style='color:red;'>X</span>|<span style='color:green;'>✓</span>|
 |Редактор созвездий|<span style='color:red;'>X</span>|<span style='color:red;'>X</span>|<span style='color:green;'>✓</span>|
 |Редактор погоды|<span style='color:red;'>X</span>|<span style='color:red;'>X</span>|<span style='color:green;'>✓</span>|

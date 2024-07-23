@@ -68,6 +68,7 @@ Berikut adalah tabel yang memperlihatkan fitur-fitur yang tersedia di berbagai v
 |No Footprints|<span style='color:red;'>X</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
 |No Skill Animation|<span style='color:red;'>X</span>|<span style='color:green;'>✓</span>|<span style='color:green;'>✓</span>|
 |Debug|<span style='color:red;'>X</span>|<span style='color:red;'>X</span>|<span style='color:green;'>✓</span>|
+|Auto Fish|<span style='color:red;'>X</span>|<span style='color:red;'>X</span>|<span style='color:green;'>✓</span>|
 |Animation Changer|<span style='color:red;'>X</span>|<span style='color:red;'>X</span>|<span style='color:green;'>✓</span>|
 |Auto Cook|<span style='color:red;'>X</span>|<span style='color:red;'>X</span>|<span style='color:green;'>✓</span>|
 |Auto Destroy|<span style='color:red;'>X</span>|<span style='color:red;'>X</span>|<span style='color:green;'>✓</span>|
