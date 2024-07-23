@@ -6,8 +6,8 @@
     <link>https://korepi.com/id/</link>
     <description>Bantuan tentang Korepi</description>
     <language>id-ID</language>
-    <pubDate>Mon, 22 Jul 2024 14:38:13 GMT</pubDate>
-    <lastBuildDate>Mon, 22 Jul 2024 14:38:13 GMT</lastBuildDate>
+    <pubDate>Tue, 23 Jul 2024 17:05:18 GMT</pubDate>
+    <lastBuildDate>Tue, 23 Jul 2024 17:05:18 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Panduan</category>
@@ -540,6 +540,12 @@
 </tr>
 <tr>
 <td>Debug</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Auto Fish</td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:red;">X</span></td>
 <td><span style="color:green;">✓</span></td>
