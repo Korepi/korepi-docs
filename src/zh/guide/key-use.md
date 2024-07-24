@@ -59,12 +59,13 @@ __**5. 打开korepi，即可使用。**__
 
 :::tip sponsor的密钥时间为7天，过期后请删除旧的enc.json文件，重新获取新的。
 :::
-
-__**1. 点击〖1️⃣ 赞助者补偿(三个月)(Sponsor compensation(three months))〗**__
+:::danger 注意：sponsor身份已不再发放。
+:::
+__**1. 点击〖1️⃣ 绑定赞助者密钥(Bind sponsor card)〗**__
 
 ![](images/verify-2.png)
 
-- ##  如果你已经获得过补偿,或者因为操作失误,导致无法获得补偿,请直接点击〖1️⃣ 绑定赞助者卡密(bind sponsor card)〗
+- 然后进入链接，自动绑定赞助密钥。
 
 ___**2. 打开你所下载的korepi，它会自动复制你的hwid码。**__
    :::tip 在你使用前看看你的korepi文件夹中是否有过期的enc.json文件，如果有的话，请删除。
@@ -81,9 +82,9 @@ __**4. 下载enc.json文件，将文件放在korepi文件夹中。**__
 
 __**5. 打开korepi，即可使用。**__
 
-:::tip 视频教程
+:::tip 视频教程 待更新！
 :::
-<iframe width="560" height="315" src="https://www.youtube.com/embed/k44z8yl7wLY?si=IwkpFWbR-tJw4xAw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 
 ## 免费版使用教程
 
