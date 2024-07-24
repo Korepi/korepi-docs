@@ -6,8 +6,8 @@
     <link>https://korepi.com/id/</link>
     <description>Bantuan tentang Korepi</description>
     <language>id-ID</language>
-    <pubDate>Wed, 24 Jul 2024 05:33:04 GMT</pubDate>
-    <lastBuildDate>Wed, 24 Jul 2024 05:33:04 GMT</lastBuildDate>
+    <pubDate>Wed, 24 Jul 2024 19:16:14 GMT</pubDate>
+    <lastBuildDate>Wed, 24 Jul 2024 19:16:14 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Panduan</category>
@@ -1647,6 +1647,26 @@
 <div class="iframe-container"><iframe width="1328" height="747" src="https://www.youtube.com/embed/3ML6s3SR8nE?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Destroy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
 <blockquote>
 <p>Catatan: Jarak yang direkomendasikan adalah di bawah 20 meter. Penggunaan jarak jangkau di atas maksimal (40 meter) tidak disarankan.</p>
+</blockquote>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Auto Fish</title>
+      <link>https://korepi.com/id/features/World/auto-fish.html</link>
+      <guid>https://korepi.com/id/features/World/auto-fish.html</guid>
+      <source url="https://korepi.com/id/rss.xml">Auto Fish</source>
+      <description>Eksklusif Untuk PERTAMAX! Fitur Auto Fish memungkinkan Anda untuk menghilangkan animasi penangkapan ikan, yang tentunya dapat mempercepat proses memancing Anda. Video Demonstras...</description>
+      <category>Fitur</category>
+      <pubDate>Fri, 15 Dec 2023 14:22:50 GMT</pubDate>
+      <content:encoded><![CDATA[<div class="hint-container info">
+<p class="hint-container-title">Eksklusif Untuk PERTAMAX!</p>
+</div>
+<hr>
+<h3> Fitur Auto Fish memungkinkan Anda untuk menghilangkan animasi penangkapan ikan, yang tentunya dapat mempercepat proses memancing Anda.</h3>
+<h2> Video Demonstrasi:</h2>
+<div class="iframe-container"><iframe width="1328" height="747" src="https://www.youtube.com/embed/K_l4Tg-81iQ?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Fish" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
+<blockquote>
+<p>Catatan: Fitur Auto Recast tidak berfungsi pada saat pembuatan catatan ini.</p>
 </blockquote>
 ]]></content:encoded>
     </item>

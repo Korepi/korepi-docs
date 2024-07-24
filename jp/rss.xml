@@ -6,8 +6,8 @@
     <link>https://korepi.com/jp/</link>
     <description>Korepiに関するヘルプ</description>
     <language>ja-JP</language>
-    <pubDate>Wed, 24 Jul 2024 05:33:04 GMT</pubDate>
-    <lastBuildDate>Wed, 24 Jul 2024 05:33:04 GMT</lastBuildDate>
+    <pubDate>Wed, 24 Jul 2024 19:16:14 GMT</pubDate>
+    <lastBuildDate>Wed, 24 Jul 2024 19:16:14 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Guide</category>
@@ -1942,6 +1942,22 @@
 <div class="iframe-container"><iframe width="1328" height="747" src="https://www.youtube.com/embed/3ML6s3SR8nE?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Destroy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
 <blockquote>
 <p>注：推奨値<code>は</code>20m以下、最大レンジ(<code>40m</code>)での使用は推奨しない。</p>
+</blockquote>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>自動釣り</title>
+      <link>https://korepi.com/jp/features/World/auto-fish.html</link>
+      <guid>https://korepi.com/jp/features/World/auto-fish.html</guid>
+      <source url="https://korepi.com/jp/rss.xml">自動釣り</source>
+      <description>自動釣りは、魚をキャッチするアニメーションをスキップすることができ、魚をキャッチするのに必要な時間を短縮することができます。 ビデオ 注：この記事を作成している時点では、自動リキャストは機能していません。</description>
+      <category>機能</category>
+      <pubDate>Wed, 03 Jan 2024 06:45:45 GMT</pubDate>
+      <content:encoded><![CDATA[<h3> 自動釣りは、魚をキャッチするアニメーションをスキップすることができ、魚をキャッチするのに必要な時間を短縮することができます。</h3>
+<h2> ビデオ</h2>
+<div class="iframe-container"><iframe width="1328" height="747" src="https://www.youtube.com/embed/K_l4Tg-81iQ?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Fish" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
+<blockquote>
+<p>注：この記事を作成している時点では、自動リキャストは機能していません。</p>
 </blockquote>
 ]]></content:encoded>
     </item>

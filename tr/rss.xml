@@ -6,8 +6,8 @@
     <link>https://korepi.com/tr/</link>
     <description>Korepi Yardım Bölümü</description>
     <language>tr</language>
-    <pubDate>Wed, 24 Jul 2024 05:33:04 GMT</pubDate>
-    <lastBuildDate>Wed, 24 Jul 2024 05:33:04 GMT</lastBuildDate>
+    <pubDate>Wed, 24 Jul 2024 19:16:14 GMT</pubDate>
+    <lastBuildDate>Wed, 24 Jul 2024 19:16:14 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Guide</category>
@@ -1930,6 +1930,22 @@ Note 2: Öğelerin ID'lerini <a href="https://github.com/jie65535/GrasscutterCom
 <div class="iframe-container"><iframe width="1328" height="747" src="https://www.youtube.com/embed/3ML6s3SR8nE?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Destroy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
 <blockquote>
 <p>Note: Recommended value is below <code>20m</code>, not recommended to use at max range (<code>40m</code>)</p>
+</blockquote>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Auto Fish</title>
+      <link>https://korepi.com/tr/features/World/auto-fish.html</link>
+      <guid>https://korepi.com/tr/features/World/auto-fish.html</guid>
+      <source url="https://korepi.com/tr/rss.xml">Auto Fish</source>
+      <description>Auto fish lets you skip the catching fish animation, which will reduce the time needed to catch a fish. Example Video: Note: Auto Recast is not working at the time creating this...</description>
+      <category>Features</category>
+      <pubDate>Tue, 19 Dec 2023 12:28:02 GMT</pubDate>
+      <content:encoded><![CDATA[<h3> Auto fish lets you skip the catching fish animation, which will reduce the time needed to catch a fish.</h3>
+<h2> Example Video:</h2>
+<div class="iframe-container"><iframe width="1328" height="747" src="https://www.youtube.com/embed/K_l4Tg-81iQ?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Fish" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
+<blockquote>
+<p>Note: Auto Recast is not working at the time creating this post.</p>
 </blockquote>
 ]]></content:encoded>
     </item>

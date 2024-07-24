@@ -6,8 +6,8 @@
     <link>https://korepi.com/ru/</link>
     <description>Помощь по Korepi</description>
     <language>ru-RU</language>
-    <pubDate>Wed, 24 Jul 2024 05:33:04 GMT</pubDate>
-    <lastBuildDate>Wed, 24 Jul 2024 05:33:04 GMT</lastBuildDate>
+    <pubDate>Wed, 24 Jul 2024 19:16:14 GMT</pubDate>
+    <lastBuildDate>Wed, 24 Jul 2024 19:16:14 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Seller</category>
@@ -1870,6 +1870,21 @@ pass korepi</p>
 <h2> Пример видео:</h2>
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/3ML6s3SR8nE?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Автоматическое уничтожение" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 ]]></content:encoded>
+    </item>
+    <item>
+      <title>Авто-рыбалка</title>
+      <link>https://korepi.com/ru/features/World/auto-fish.html</link>
+      <guid>https://korepi.com/ru/features/World/auto-fish.html</guid>
+      <source url="https://korepi.com/ru/rss.xml">Авто-рыбалка</source>
+      <description>Авто-рыбалка позволяет пропустить анимацию ловли рыбы, что сократит время, необходимое для её улова. Примечание: На момент создания этого сообщения функция Авто-рыбалка не работ...</description>
+      <category>Особенности</category>
+      <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
+      <content:encoded><![CDATA[<h3> Авто-рыбалка позволяет пропустить анимацию ловли рыбы, что сократит время, необходимое для её улова.</h3>
+<blockquote>
+<p>Примечание: На момент создания этого сообщения функция Авто-рыбалка не работает.</p>
+</blockquote>
+<h2> Пример видео:</h2>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/K_l4Tg-81iQ?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Авто-рыбалка" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>]]></content:encoded>
     </item>
     <item>
       <title>Авто Сбор</title>
