@@ -1,19 +1,13 @@
 ---
-title: Auto Fish
-icon: fish-fins
+title: 自动钓鱼
+icon: power-off
 category:
-  - Features
+  - 功能
 tag:
-  - Auto Fish
-author: Schvis
-order: 5
+  - 自动挑战
+author: Double
+order: 2
 ---
-::: info PERTAMAX Only
-:::
-### Auto fish lets you skip the catching fish animation, which will reduce the time needed to catch a fish.
 
-## Example Video:
-
-<div class="iframe-container"><iframe width="1328" height="747" src="https://www.youtube.com/embed/K_l4Tg-81iQ?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Fish" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
-
-> Note: Auto Recast is not working at the time creating this post.
+### 自动钓鱼：可以让你快速钓鱼。
+- 无法和akebi一样吸鱼。
