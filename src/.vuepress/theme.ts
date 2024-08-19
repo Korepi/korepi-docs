@@ -42,7 +42,7 @@ export default hopeTheme({
 
   logo: "/logo.svg",
 
-  repo: "Korepi/korepi-docs",
+  repo: "boreki/korepi-docs",
 
   docsDir: "src",
 
@@ -213,7 +213,7 @@ export default hopeTheme({
             path: "/zh/",
             title: "贡献力量",
             content:
-              "如果你有<b>网页前端</b>，<b>文档管理</b>的经验，并希望将其施展于当前文档项目中，欢迎<a href='https://github.com/Korepi/korepi-docs'>参与文档编写</a>",
+              "如果你有<b>网页前端</b>，<b>文档管理</b>的经验，并希望将其施展于当前文档项目中，欢迎<a href='https://github.com/boreki/korepi-docs'>参与文档编写</a>",
             fullscreen: false,
             showOnce: false,
           },
@@ -221,7 +221,7 @@ export default hopeTheme({
             path: "/en/",
             title: "Contribute Your Skills",
             content:
-              "If you have experience in <b>web front-end development</b> and <b>document management</b>, and would like to apply it to this documentation project, you are welcome to <a href='https://github.com/Korepi/korepi-docs'>join us in writing the documentation</a>",
+              "If you have experience in <b>web front-end development</b> and <b>document management</b>, and would like to apply it to this documentation project, you are welcome to <a href='https://github.com/boreki/korepi-docs'>join us in writing the documentation</a>",
             fullscreen: false,
             showOnce: false,
           },
@@ -229,7 +229,7 @@ export default hopeTheme({
             path: "/ko/",
             title: "당신의 능력으로 기여하세요.",
             content:
-              "당신이 <b>웹 프론트엔드 개발</b>과 <b>문서 관리</b>에 대한 경험이 있고, 이 문서 프로젝트에 기여하고 싶다면, 당신이 <a href='https://github.com/Korepi/korepi-docs'>우리 문서를 작성</a>하는 것을 환영합니다.",
+              "당신이 <b>웹 프론트엔드 개발</b>과 <b>문서 관리</b>에 대한 경험이 있고, 이 문서 프로젝트에 기여하고 싶다면, 당신이 <a href='https://github.com/boreki/korepi-docs'>우리 문서를 작성</a>하는 것을 환영합니다.",
             fullscreen: false,
             showOnce: false,
           },
@@ -237,7 +237,7 @@ export default hopeTheme({
             path: "/ru/",
             title: "Помощь",
             content:
-              "Если у вас есть опыт работы в разработке <b> web Front-End </b> и <b> управления документами </b>, и вы хотели бы применить его к этому проекту документации, вы можете помочь в написании документации и ее переводу <a href = 'https://github.com/korepi/korepi-docs'> </a>",
+              "Если у вас есть опыт работы в разработке <b> web Front-End </b> и <b> управления документами </b>, и вы хотели бы применить его к этому проекту документации, вы можете помочь в написании документации и ее переводу <a href = 'https://github.com/boreki/korepi-docs'> </a>",
             fullscreen: false,
             showOnce: false,
           },
@@ -245,7 +245,7 @@ export default hopeTheme({
             path: "/es/",
             title: "Ayuda con tu talento",
             content:
-              "Si tienes experiencia en <b>desarrollo front-end</b> y <b>gestión de documentos</b>, y te gustaría aplicarlo en este proyecto, eres bienvenid@ a <a href='https://github.com/Korepi/korepi-docs'>unirte a ayudarnos con la documentación</a>",
+              "Si tienes experiencia en <b>desarrollo front-end</b> y <b>gestión de documentos</b>, y te gustaría aplicarlo en este proyecto, eres bienvenid@ a <a href='https://github.com/boreki/korepi-docs'>unirte a ayudarnos con la documentación</a>",
             fullscreen: false,
             showOnce: false,
           },
@@ -253,7 +253,7 @@ export default hopeTheme({
             path: "/mm/",
             title: "Contribute Your Skills",
             content:
-              "If you have experience in <b>web front-end development</b> and <b>document management</b>, and would like to apply it to this documentation project, you are welcome to <a href='https://github.com/Korepi/korepi-docs'>join us in writing the documentation</a>",
+              "If you have experience in <b>web front-end development</b> and <b>document management</b>, and would like to apply it to this documentation project, you are welcome to <a href='https://github.com/boreki/korepi-docs'>join us in writing the documentation</a>",
             fullscreen: false,
             showOnce: false,
           },
@@ -261,7 +261,7 @@ export default hopeTheme({
             path: "/id/",
             title: "Kontribusikan Keahlian Kamu",
             content:
-              "Jika kamu memiliki pengalaman dalam <b>pengembangan situs front-end</b> dan <b>manajemen dokumen</b>, dan ingin menerapkannya pada proyek dokumentasi ini, kamu dapat <a href='https://github.com/Korepi/korepi-docs'>bergabung dengan kami untuk menulis dokumentasi</a>",
+              "Jika kamu memiliki pengalaman dalam <b>pengembangan situs front-end</b> dan <b>manajemen dokumen</b>, dan ingin menerapkannya pada proyek dokumentasi ini, kamu dapat <a href='https://github.com/boreki/korepi-docs'>bergabung dengan kami untuk menulis dokumentasi</a>",
             fullscreen: false,
             showOnce: false,
           },
@@ -269,7 +269,7 @@ export default hopeTheme({
             path: "/pt/",
             title: "Contribute Your Skills",
             content:
-              "If you have experience in <b>web front-end development</b> and <b>document management</b>, and would like to apply it to this documentation project, you are welcome to <a href='https://github.com/Korepi/korepi-docs'>join us in writing the documentation</a>",
+              "If you have experience in <b>web front-end development</b> and <b>document management</b>, and would like to apply it to this documentation project, you are welcome to <a href='https://github.com/boreki/korepi-docs'>join us in writing the documentation</a>",
             fullscreen: false,
             showOnce: false,
           },
@@ -277,7 +277,7 @@ export default hopeTheme({
             path: "/vi/",
             title: "Đóng Góp Kỹ Năng Của Bạn",
             content:
-              "Nếu như bạn có kinh nghiệm về <b>phát triển web front-end</b> cùng với <b>quản lý tài liệu</b>, và mong muốn tham gia dự án tài liệu này, bạn luôn được chào đón <a href='https://github.com/Korepi/korepi-docs'>tham gia viết tài liệu</a>",
+              "Nếu như bạn có kinh nghiệm về <b>phát triển web front-end</b> cùng với <b>quản lý tài liệu</b>, và mong muốn tham gia dự án tài liệu này, bạn luôn được chào đón <a href='https://github.com/boreki/korepi-docs'>tham gia viết tài liệu</a>",
             fullscreen: false,
             showOnce: false,
           },
@@ -285,7 +285,7 @@ export default hopeTheme({
             path: "/ar/",
             title: "ساهم بمهاراتك",
             content:
-              "إذا كانت لديك خبرة في <b>تطوير واجهة الويب الأمامية</b> و<b>إدارة المستندات</b>، وترغب في تطبيقها على مشروع التوجيه هذا، فنحن نرحب بك في <a href='https ://github.com/Korepi/korepi-docs'>انضم إلينا في كتابة الوثائق</a>",
+              "إذا كانت لديك خبرة في <b>تطوير واجهة الويب الأمامية</b> و<b>إدارة المستندات</b>، وترغب في تطبيقها على مشروع التوجيه هذا، فنحن نرحب بك في <a href='https ://github.com/boreki/korepi-docs'>انضم إلينا في كتابة الوثائق</a>",
             fullscreen: false,
             showOnce: false,
           },
@@ -293,7 +293,7 @@ export default hopeTheme({
             path: "/jp/",
             title: "あなたのスキルを活かそう！",
             content:
-              "<b>ウェブフロントエンド開発</b> と <b>ドキュメント管理</b>の経験をお持ちの方で、このドキュメンテーション・プロジェクトにそれを活かしたい方は、 <a href='https://github.com/Korepi/korepi-docs'>ぜひ私たちと一緒に活動してください</a>",
+              "<b>ウェブフロントエンド開発</b> と <b>ドキュメント管理</b>の経験をお持ちの方で、このドキュメンテーション・プロジェクトにそれを活かしたい方は、 <a href='https://github.com/boreki/korepi-docs'>ぜひ私たちと一緒に活動してください</a>",
             fullscreen: false,
             showOnce: false,
           },
@@ -301,7 +301,7 @@ export default hopeTheme({
             path: "/tr/",
             title: "Yeteneklerinizle Katkıda Bulunun",
             content:
-              "Eğer şu alanlarda deneyiminiz varsa <b>WEB FRONT-END Geliştirme</b> Ve <b>Belge Yönetimi</b>, ve bu dokümantasyon projesine uygulamak istiyorsanız, aşağıdaki adrese başvurabilirsiniz <a href='https://github.com/Korepi/korepi-docs'>dokümantasyon yazımında bize katılın</a>",
+              "Eğer şu alanlarda deneyiminiz varsa <b>WEB FRONT-END Geliştirme</b> Ve <b>Belge Yönetimi</b>, ve bu dokümantasyon projesine uygulamak istiyorsanız, aşağıdaki adrese başvurabilirsiniz <a href='https://github.com/boreki/korepi-docs'>dokümantasyon yazımında bize katılın</a>",
             fullscreen: false,
             showOnce: false,
           },
@@ -309,7 +309,7 @@ export default hopeTheme({
             path: "/th/",
             title: "แบ่งปันทักษะของคุณ",
             content:
-              "หากคุณมีประสบการณ์ด้าน <b>web front-end development</b> และ <b>document management</b>, และต้องการจะนำไปใช้กับ documentation project นี้, เรายินดีต้อนรับคุณ <a href='https://github.com/Korepi/korepi-docs'>มาร่วมเขียนเอกสารนี้กับเรา</a>",
+              "หากคุณมีประสบการณ์ด้าน <b>web front-end development</b> และ <b>document management</b>, และต้องการจะนำไปใช้กับ documentation project นี้, เรายินดีต้อนรับคุณ <a href='https://github.com/boreki/korepi-docs'>มาร่วมเขียนเอกสารนี้กับเรา</a>",
             fullscreen: false,
             showOnce: false,
           },
@@ -323,7 +323,7 @@ export default hopeTheme({
     // You should generate and use your own comment service
     comment: {
       provider: "Giscus",
-      repo: "Korepi/korepi-docs",
+      repo: "boreki/korepi-docs",
       repoId: "R_kgDOKvs_ww",
       category: "Announcements",
       categoryId: "DIC_kwDOKvs_w84Cd8Xr",
