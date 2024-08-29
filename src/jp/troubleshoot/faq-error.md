@@ -22,7 +22,7 @@ order: 2
 ---
 ### ステータス: ライセンスキーが無効です。
 
-新しく [キーを取得する](../guide/getkey.md) 必要があります。`⁠★⋅micah-bot-verify⋅★`, キーが手に入らなかったり、キーが使えなかったりした場合は、キーの有効期限が切れるまで待たなければなりません。
+新しく [キーを取得する](../guide/getkey.md) 必要があります。`⁠🔐｜verification`, キーが手に入らなかったり、キーが使えなかったりした場合は、キーの有効期限が切れるまで待たなければなりません。
 
 `スポンサーは、F:リセットキーを使用することができます。`
 
@@ -180,4 +180,4 @@ PCのウイルス対策ソフトをすべてオフにします。
 ---
 ### Received code is not 200 from https://md5c...
 
-- This Error will appear if your key is paused, please head to `★⋅micah-bot-verify⋅★` and click on `Unpause Key` and type `Yes` on the pop-up.
+- This Error will appear if your key is paused, please head to `🔐｜verification` and click on `Unpause Key` and type `Yes` on the pop-up.

@@ -21,7 +21,7 @@ order: 2
 
 ---
 
-`⁠★⋅micah-bot-verify⋅★`에서 [새로운 키](../guide/getkey.md)를 획득해야 합니다. 키를 얻을 수 없거나 키가 작동하지 않으면 키가 만료될 때까지 기다려야 합니다.
+`⁠🔐｜verification`에서 [새로운 키](../guide/getkey.md)를 획득해야 합니다. 키를 얻을 수 없거나 키가 작동하지 않으면 키가 만료될 때까지 기다려야 합니다.
 
 `스폰서는 F:Reset Key를 사용할 수 있습니다.`
 
@@ -179,4 +179,4 @@ Case 2:
 ---
 ### Received code is not 200 from https://md5c...
 
-- This Error will appear if your key is paused, please head to `★⋅micah-bot-verify⋅★` and click on `Unpause Key` and type `Yes` on the pop-up.
+- This Error will appear if your key is paused, please head to `🔐｜verification` and click on `Unpause Key` and type `Yes` on the pop-up.

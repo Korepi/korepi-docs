@@ -22,7 +22,7 @@ Ekstrak Korepi di dalam folder yang sudah dikecualikan dan jalankan kembali.
 ---
 ### Status: No active subscription(s) found, Invalid license key
 
-Anda harus [mengambil Key baru](../guide/getkey.md) di `⁠★⋅micah-bot-verify⋅★`. Jika Anda tidak dapat mengambil Key atau Key tidak berfungsi, maka Anda harus menunggu hingga masa berlaku Key berakhir.
+Anda harus [mengambil Key baru](../guide/getkey.md) di `⁠🔐｜verification`. Jika Anda tidak dapat mengambil Key atau Key tidak berfungsi, maka Anda harus menunggu hingga masa berlaku Key berakhir.
 
 `Sponsors dapat menggunakan F:Reset Key sebagai alternatif`
 
@@ -178,4 +178,4 @@ Kasus 2:
 ---
 ### Received code is not 200 from https://md5c...
 
-- Eror ini akan muncul jika *key* kamu di*pause*, harap ke channel `★⋅micah-bot-verify⋅★` dan klik pada `Unpause Key` dan ketik `Yes` di pop-up.
+- Eror ini akan muncul jika *key* kamu di*pause*, harap ke channel `🔐｜verification` dan klik pada `Unpause Key` dan ketik `Yes` di pop-up.

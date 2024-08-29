@@ -21,7 +21,7 @@ order: 2
 ---
 ### 2.状态：未发现活跃订阅，无效的许可密钥
 
-您需要从“⁠★⋅micah-bot-verify⋅★”处[获取一个新密钥](../guide/key-use.md)，如果无法获取密钥或密钥无效，您必须等待密钥到期。
+您需要从“⁠🔐｜verification”处[获取一个新密钥](../guide/key-use.md)，如果无法获取密钥或密钥无效，您必须等待密钥到期。
 
 `赞助商可以使用 F:Reset Key 代替`
 
@@ -160,4 +160,4 @@ order: 2
 ---
 ### 18.Received code is not 200 from https://md5c...
 
-- This Error will appear if your key is paused, please head to `★⋅micah-bot-verify⋅★` and click on `Unpause Key` and type `Yes` on the pop-up.
+- This Error will appear if your key is paused, please head to `🔐｜verification` and click on `Unpause Key` and type `Yes` on the pop-up.

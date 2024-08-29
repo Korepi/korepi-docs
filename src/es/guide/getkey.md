@@ -17,7 +17,7 @@ order: 1
 :::
 
 ### Paso 1:
-- Encuentra el canal de `★⋅micah-bot-verify⋅★` [Link Directo](https://discord.com/channels/1069057220802781265/1203687333107335198)
+- Encuentra el canal de `🔐｜verification` [Link Directo](https://discord.com/channels/1069057220802781265/1203687333107335198)
 
   ![img.png](/assets/images/docs/202402/verify-1.png)
 - Encuentra el mensaje mandado por Micah-Bot.

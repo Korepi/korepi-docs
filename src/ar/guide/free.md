@@ -15,7 +15,7 @@ order: 2
 <div class="iframe-container"><iframe width="1280" height="720" src="https://www.youtube.com/embed/SWI-GeqKx1g" title="How to use Korepi for free" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 
 ### الخطوة 1:
-- اعثر على قناة `★⋅micah-bot-verify⋅★`  [رابط مباشر](https://discord.com/channels/1069057220802781265/1203687333107335198)
+- اعثر على قناة `🔐｜verification`  [رابط مباشر](https://discord.com/channels/1069057220802781265/1203687333107335198)
 
   ![img.png](/assets/images/docs/202402/verify-1.png)
 - ابحث عن الرسالة المرسلة من `★Micah-bot★`
@@ -30,7 +30,7 @@ order: 2
 
 =======
 ### الخطوة 4:
-افتح برنامج الهاك للحصول على `HWID` الخاص بك, بعد ذلك توجه إلى `★⋅micah-bot-verify⋅★` مرة أخرى وانقر على `Get verification file` ولصق `HWID`الخاص بك.
+افتح برنامج الهاك للحصول على `HWID` الخاص بك, بعد ذلك توجه إلى `🔐｜verification` مرة أخرى وانقر على `Get verification file` ولصق `HWID`الخاص بك.
 
 بعد النقر على إرسال، ستتلقى ملفًا من الروبوت، قم بتنزيله ووضعه في مجلد Korepi الخاص بك. تأكد من ان اسمه `enc.json`.
 

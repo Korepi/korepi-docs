@@ -17,7 +17,7 @@ order: 1
 :::
 
 ### Step 1:
-- Find the `★⋅micah-bot-verify⋅★` channel [direct link](https://discord.com/channels/1069057220802781265/1203687333107335198)
+- Find the `🔐｜verification` channel [direct link](https://discord.com/channels/1069057220802781265/1203687333107335198)
 
   ![img.png](/assets/images/docs/202402/verify-1.png)
 - Find the message sent by Micah-bot

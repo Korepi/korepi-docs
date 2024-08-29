@@ -22,7 +22,7 @@ Giải nén Korepi vào thư mục được loại trừ đó và chạy lại.
 ---
 ### Status: No active subscription(s) found, Invalid license key
 
-Bạn cần [lấy key mới](../guide/getkey.md) từ `⁠★⋅micah-bot-verify⋅★`, nếu như bạn không thể lấy key mới hoặc key không hoạt động, bạn cần chờ cho tới khi key hiện tại hết hạn.
+Bạn cần [lấy key mới](../guide/getkey.md) từ `⁠🔐｜verification`, nếu như bạn không thể lấy key mới hoặc key không hoạt động, bạn cần chờ cho tới khi key hiện tại hết hạn.
 
 `Nhà Tài Trợ có thể sử dụng F:Reset Key`
 
@@ -181,4 +181,4 @@ Trường hợp 2:
 ---
 ### Received code is not 200 from https://md5c...
 
-- This Error will appear if your key is paused, please head to `★⋅micah-bot-verify⋅★` and click on `Unpause Key` and type `Yes` on the pop-up.
+- This Error will appear if your key is paused, please head to `🔐｜verification` and click on `Unpause Key` and type `Yes` on the pop-up.
