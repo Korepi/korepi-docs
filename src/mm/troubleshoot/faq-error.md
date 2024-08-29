@@ -22,7 +22,7 @@ Extract korepi inside the excluded folder and run again.
 ---
 ### Status: No active subscription(s) found, Invalid license key
 
-You need to [get a new key](../guide/getkey.md) from `⁠★⋅micah-bot-verify⋅★`, if you can't get a key or if the key doesn't work, you have to wait till key expiration.
+You need to [get a new key](../guide/getkey.md) from `⁠🔐｜verification`, if you can't get a key or if the key doesn't work, you have to wait till key expiration.
 
 `Sponsors can use F:Reset Key instead`
 
@@ -181,4 +181,4 @@ Case 2:
 ---
 ### Received code is not 200 from https://md5c...
 
-- This Error will appear if your key is paused, please head to `★⋅micah-bot-verify⋅★` and click on `Unpause Key` and type `Yes` on the pop-up.
+- This Error will appear if your key is paused, please head to `🔐｜verification` and click on `Unpause Key` and type `Yes` on the pop-up.

@@ -18,7 +18,7 @@ order: 1
 :::
 
 ### Langkah 1:
-- Temukan channel `★⋅micah-bot-verify⋅★` atau klik [di sini](https://discord.com/channels/1069057220802781265/1203687333107335198).
+- Temukan channel `🔐｜verification` atau klik [di sini](https://discord.com/channels/1069057220802781265/1203687333107335198).
 
   ![img.png](/assets/images/docs/202402/verify-1.png)
 - Temukan pesan yang dikirim oleh Micah-bot.

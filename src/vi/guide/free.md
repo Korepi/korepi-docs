@@ -15,7 +15,7 @@ order: 2
 <div class="iframe-container"><iframe width="1280" height="720" src="https://www.youtube.com/embed/SWI-GeqKx1g" title="How to use Korepi for free" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 
 ### Bước 1:
-- Đi đến kênh `★⋅micah-bot-verify⋅★` trong server Discord: [Link trực tiếp](https://discord.com/channels/1069057220802781265/1203687333107335198)
+- Đi đến kênh `🔐｜verification` trong server Discord: [Link trực tiếp](https://discord.com/channels/1069057220802781265/1203687333107335198)
 
   ![img.png](/assets/images/docs/202402/verify-1.png)
 - Tìm tin nhắn được gửi bởi Micah-bot
@@ -32,7 +32,7 @@ Nếu như tin nhắn gắn thẻ (bind message) hiển thị `Success` có ngh�
 ### Bước 4:
 ::: info Nếu trong thư mục chứa Korepi đã tồn tại một file enc.json, hãy xoá nó trước khi mở Korepi
 :::
-Mở Korepi để lấy `HWID`, sau đó đi đến kênh `★⋅micah-bot-verify⋅★` và click vào `Get verification file` rồi sau đó dán `HWID` của bạn vào.
+Mở Korepi để lấy `HWID`, sau đó đi đến kênh `🔐｜verification` và click vào `Get verification file` rồi sau đó dán `HWID` của bạn vào.
 
 Sau khi nhấn xác nhận, bạn sẽ nhận được một file từ bot. Sau đó tải và đặt file đó vào thư mục chứa Korepi. Hãy đảm bảo rằng tên file là `enc.json`.
 

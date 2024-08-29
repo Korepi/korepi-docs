@@ -17,7 +17,7 @@ order: 1
 ::: Cuidado, se você tiver uma assinatura ativa, não vincule nenhum outro cartão ou perderá sua assinatura atual. Se você vincular qualquer outro cartão, não poderá reivindicar a compensação do patrocinador. :::
 
 ### Passo 1:
-- Encontre o canal `★⋅micah-bot-verify⋅★` [link direto](https://discord.com/channels/1069057220802781265/1203687333107335198)
+- Encontre o canal `🔐｜verification` [link direto](https://discord.com/channels/1069057220802781265/1203687333107335198)
 
   ![img.png](/assets/images/docs/202402/verify-1.png)
   

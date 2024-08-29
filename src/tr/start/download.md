@@ -24,9 +24,9 @@ Welcome to our community! To pass the bot check and receive the `Newcomer` role,
 
 If you haven't joined the server yet, please read the verification post, which describes how to join the server and obtain the `Newcomer`.
 
-### Step 2: Go to the channel `★⋅korepi-download⋅★`
+### Step 2: Go to the channel `💿｜download`
 
-Locate the channel `★⋅korepi-download⋅★` and follow the link to download the program.
+Locate the channel `💿｜download` and follow the link to download the program.
 
 ### Step 3: Ready!
 

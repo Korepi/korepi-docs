@@ -16,7 +16,7 @@ order: 2
 <div class="iframe-container"><iframe width="1280" height="720" src="https://www.youtube.com/embed/SWI-GeqKx1g" title="How to use Korepi for free" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 
 ### Langkah 1:
-- Temukan saluran `★⋅micah-bot-verify⋅★` atau klik [di sini](https://discord.com/channels/1069057220802781265/1203687333107335198).
+- Temukan saluran `🔐｜verification` atau klik [di sini](https://discord.com/channels/1069057220802781265/1203687333107335198).
 
   ![img.png](/assets/images/docs/202402/verify-1.png)
 - Cari pesan yang dikirim oleh Micah-bot.
@@ -32,7 +32,7 @@ Jika pesan pengikatan menunjukkan `Sukses`, Anda telah berhasil mengklaim lisens
 ### Langkah 4:
 ::: info Jika kamu sudah memiliki `enc.json`, hapus terlebih dahulu sebelum membuka injektor.
 :::
-Jalankan injektor untuk mendapatkan `HWID` Anda, kemudian buka `★⋅micah-bot-verify⋅★` lagi dan klik `Get verification file`, lalu tempelkan `HWID` Anda.
+Jalankan injektor untuk mendapatkan `HWID` Anda, kemudian buka `🔐｜verification` lagi dan klik `Get verification file`, lalu tempelkan `HWID` Anda.
 
 Setelah mengklik kirim, Anda akan menerima file dari bot. Unduh dan letakkan file tersebut di folder Korepi Anda. Pastikan file tersebut bernama `enc.json`.
 

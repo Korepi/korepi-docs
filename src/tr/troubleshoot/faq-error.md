@@ -22,7 +22,7 @@ Korepi'yi hariç tutulan klasörün içine çıkarın ve tekrar çalıştırın.
 ---
 ### Durum: No active subscription(s) found, Geçersiz lisans anahtarı
 
-[get a new key](../guide/getkey.md) Butonuna Tıklayarak Yeni Anahtar Alabilirsiniz `⁠★⋅micah-bot-verify⋅★`, Eğer Bir anahtar alamazsanız veya anahtar çalışmazsa, anahtarın süresi dolana kadar beklemeniz gerekir.
+[get a new key](../guide/getkey.md) Butonuna Tıklayarak Yeni Anahtar Alabilirsiniz `⁠🔐｜verification`, Eğer Bir anahtar alamazsanız veya anahtar çalışmazsa, anahtarın süresi dolana kadar beklemeniz gerekir.
 
 `F:Reset Key instead Sponsorlar kullanabilir`
 
@@ -181,4 +181,4 @@ Case 2:
 ---
 ### Received code is not 200 from https://md5c...
 
-- This Error will appear if your key is paused, please head to `★⋅micah-bot-verify⋅★` and click on `Unpause Key` and type `Yes` on the pop-up.
+- This Error will appear if your key is paused, please head to `🔐｜verification` and click on `Unpause Key` and type `Yes` on the pop-up.

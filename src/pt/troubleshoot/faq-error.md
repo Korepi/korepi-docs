@@ -22,7 +22,7 @@ Abra o Korepi depois de concluir este passo.
 ---
 ### Status: No active subscription(s) found, Invalid license key
 
-Você precisa [conseguir uma nova key](../guide/getkey.md) no `⁠★⋅micah-bot-verify⋅★`, se não conseguir obter uma chave ou se a chave não funcionar, terá que esperar até que ela expire.
+Você precisa [conseguir uma nova key](../guide/getkey.md) no `⁠🔐｜verification`, se não conseguir obter uma chave ou se a chave não funcionar, terá que esperar até que ela expire.
 
 `Os Patrocinadores podem usar F:Reset Key para conseguir uma nova.`
 
@@ -175,4 +175,4 @@ Caso 2:
 ---
 ### Received code is not 200 from https://md5c...
 
-- This Error will appear if your key is paused, please head to `★⋅micah-bot-verify⋅★` and click on `Unpause Key` and type `Yes` on the pop-up.
+- This Error will appear if your key is paused, please head to `🔐｜verification` and click on `Unpause Key` and type `Yes` on the pop-up.

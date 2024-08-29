@@ -15,7 +15,7 @@ order: 2
 <div class="iframe-container"><iframe width="1280" height="720" src="https://www.youtube.com/embed/SWI-GeqKx1g" title="How to use Korepi for free" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 
 ### Step 1:
-- Find the `★⋅micah-bot-verify⋅★` channel [direct link](https://discord.com/channels/1069057220802781265/1203687333107335198)
+- Find the `🔐｜verification` channel [direct link](https://discord.com/channels/1069057220802781265/1203687333107335198)
 
   ![img.png](/assets/images/docs/202402/verify-1.png)
 - Find the message sent by Micah-bot
@@ -30,7 +30,7 @@ If the bind message shows `Success`, you have successfully finished claiming the
 ### Step 4:
 ::: info If you already got a enc.json delete it before opening the program
 :::
-Launch the program to obtain your `HWID`, after that head to `★⋅micah-bot-verify⋅★` again and click on `Get verification file` and paste in your `HWID`.
+Launch the program to obtain your `HWID`, after that head to `🔐｜verification` again and click on `Get verification file` and paste in your `HWID`.
 
 After clicking on submit you will receive a file from the bot, download it and place it on your Korepi folder. Make sure the name is `enc.json`.
 

@@ -18,7 +18,7 @@ order: 1
 :::
 
 ### Bước 1:
-- Đi tới kênh `★⋅micah-bot-verify⋅★` ở server Discord: [Link trực tiếp](https://discord.com/channels/1069057220802781265/1203687333107335198)
+- Đi tới kênh `🔐｜verification` ở server Discord: [Link trực tiếp](https://discord.com/channels/1069057220802781265/1203687333107335198)
 
   ![img.png](/assets/images/docs/202402/verify-1.png)
 - Tìm tin nhắn được gửi bởi Micah-bot

@@ -17,7 +17,7 @@ order: 1
 :::
 
 ### 1단계:
-- [링크](https://discord.com/channels/1069057220802781265/1203687333107335198)`에서 ★⋅micah-bot-verify⋅★` 채널을 찾습니다. 
+- [링크](https://discord.com/channels/1069057220802781265/1203687333107335198)`에서 🔐｜verification` 채널을 찾습니다. 
 
   ![img.png](/assets/images/docs/202402/verify-1.png)
 - Micah-bot이 보낸 메세지를 찾습니다.

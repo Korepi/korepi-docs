@@ -23,9 +23,9 @@ Bem vindo à nossa comunidade! Para passar a verificação do bot e receber o ca
 
 Se você ainda não entrou no servidor, por favor, leia o post de verificação, que descreve como entrar nele e obter o cargo `Newcomer`.
 
-### Passo 2: vá ao canal `★⋅korepi-download⋅★`
+### Passo 2: vá ao canal `💿｜download`
 
-Encontre o canal `★⋅korepi-download⋅★` e entre no link para instalar o programa.
+Encontre o canal `💿｜download` e entre no link para instalar o programa.
 
 ### Passo 3: pronto!
 

@@ -189,4 +189,4 @@ order: 2
 ---
 ### Received code is not 200 from https://md5c...
 
-- This Error will appear if your key is paused, please head to `★⋅micah-bot-verify⋅★` and click on `Unpause Key` and type `Yes` on the pop-up.
+- This Error will appear if your key is paused, please head to `🔐｜verification` and click on `Unpause Key` and type `Yes` on the pop-up.

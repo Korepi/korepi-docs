@@ -23,9 +23,9 @@ order: 7
 
 Si aún no te has unido al servidor, por favor, lee la publicación de [verificación](./verify.md), que explica cómo unirse al servidor el rol de `Newcomer`
 
-### Paso 2: Ve al canal de `⁠★⋅korepi-download⋅★`
+### Paso 2: Ve al canal de `⁠💿｜download`
 
-Localiza el canal `⁠★⋅korepi-download⋅★` y sigue el enlace para descargar el programa.
+Localiza el canal `⁠💿｜download` y sigue el enlace para descargar el programa.
 
 ### Paso 4: ¡Listo!
 

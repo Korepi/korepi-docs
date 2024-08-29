@@ -22,7 +22,7 @@ order: 2
 ---
 ### Status: No active subscription(s) found, Invalid license key
 
-أنت بحاجه إلى [الحصول على مفتاح جديد](../guide/getkey.md) من `⁠★⋅micah-bot-verify⋅★`, إذا لم تتمكن من الحصول على المفتاح أو إذا كان المفتاح لا يعمل، عليك الانتظار حتى انتهاء صلاحية المفتاح.
+أنت بحاجه إلى [الحصول على مفتاح جديد](../guide/getkey.md) من `⁠🔐｜verification`, إذا لم تتمكن من الحصول على المفتاح أو إذا كان المفتاح لا يعمل، عليك الانتظار حتى انتهاء صلاحية المفتاح.
 
 `يمكن للداعمين استخدام مفتاح F:Reset بدلاً من ذلك`
 
@@ -181,4 +181,4 @@ Case 2:
 ---
 ### Received code is not 200 from https://md5c...
 
-- This Error will appear if your key is paused, please head to `★⋅micah-bot-verify⋅★` and click on `Unpause Key` and type `Yes` on the pop-up.
+- This Error will appear if your key is paused, please head to `🔐｜verification` and click on `Unpause Key` and type `Yes` on the pop-up.

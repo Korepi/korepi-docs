@@ -22,9 +22,9 @@ Selamat datang di komunitas kami! Untuk lulus pemeriksaan bot dan menerima role 
 
 Jika Anda belum bergabung dengan server, silakan baca pos [verifikasi](./verify.md), yang menjelaskan cara bergabung dengan server dan mendapatkan peran `Newcomer`.
 
-### Langkah 2: Buka saluran `★⋅korepi-download⋅★`
+### Langkah 2: Buka saluran `💿｜download`
 
-Cari saluran `★⋅korepi-download⋅★` dan ikuti tautan untuk mengunduh program.
+Cari saluran `💿｜download` dan ikuti tautan untuk mengunduh program.
 
 ### Langkah 3: Siap!
 

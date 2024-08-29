@@ -24,9 +24,9 @@ Chào mừng bạn đến với cộng đồng của chúng tôi! Để vượt 
 
 Nếu như bạn chưa tham gia server Discord, vui lòng xem bài đăng về Xác Thực trước. Bạn sẽ tìm thấy thông tin về cách tham gia server Discord và lấy vai trò `Newcomer`.
 
-### Bước 2: Đi Tới Kênh `★⋅korepi-download⋅★`
+### Bước 2: Đi Tới Kênh `💿｜download`
 
-Đi tới kênh `★⋅korepi-download⋅★` và tải Korepi theo đường link được cung cấp.
+Đi tới kênh `💿｜download` và tải Korepi theo đường link được cung cấp.
 
 ### Bước 3: Sẵn Sàng Để Sử Dụng!
 
