@@ -6,14 +6,28 @@
     <link>https://korepi.com/th/</link>
     <description>ความช่วยเหลือบน Korepi</description>
     <language>th</language>
-    <pubDate>Mon, 19 Aug 2024 17:08:33 GMT</pubDate>
-    <lastBuildDate>Mon, 19 Aug 2024 17:08:33 GMT</lastBuildDate>
+    <pubDate>Thu, 29 Aug 2024 21:28:06 GMT</pubDate>
+    <lastBuildDate>Thu, 29 Aug 2024 21:28:06 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Features</category>
     <category>Guide</category>
     <category>Troubleshoot</category>
     <category>FAQ</category>
+    <item>
+      <title>Echo Modifer</title>
+      <link>https://korepi.com/th/features/Visuals/echo-modifier.html</link>
+      <guid>https://korepi.com/th/features/Visuals/echo-modifier.html</guid>
+      <source url="https://korepi.com/th/rss.xml">Echo Modifer</source>
+      <description>PERTAMAX Only Echo Modifier allows the user to apply any Echo to any of their characters.</description>
+      <category>Features</category>
+      <pubDate>Thu, 29 Aug 2024 21:24:33 GMT</pubDate>
+      <content:encoded><![CDATA[<div class="hint-container info">
+<p class="hint-container-title">PERTAMAX Only</p>
+</div>
+<h2> Echo Modifier allows the user to apply any Echo to any of their characters.</h2>
+]]></content:encoded>
+    </item>
     <item>
       <title>Auto Fish</title>
       <link>https://korepi.com/th/features/World/auto-fish.html</link>
@@ -985,7 +999,7 @@
 <hr>
 <h3> Received code is not 200 from https://md5c...</h3>
 <ul>
-<li>This Error will appear if your key is paused, please head to <code>★⋅micah-bot-verify⋅★</code> and click on <code>Unpause Key</code> and type <code>Yes</code> on the pop-up.</li>
+<li>This Error will appear if your key is paused, please head to <code>🔐｜verification</code> and click on <code>Unpause Key</code> and type <code>Yes</code> on the pop-up.</li>
 </ul>
 ]]></content:encoded>
       <enclosure url="https://korepi.com/assets/images/docs/202312/virus.png" type="image/png"/>

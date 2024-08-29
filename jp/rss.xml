@@ -6,15 +6,30 @@
     <link>https://korepi.com/jp/</link>
     <description>Korepiに関するヘルプ</description>
     <language>ja-JP</language>
-    <pubDate>Mon, 19 Aug 2024 17:08:33 GMT</pubDate>
-    <lastBuildDate>Mon, 19 Aug 2024 17:08:33 GMT</lastBuildDate>
+    <pubDate>Thu, 29 Aug 2024 21:28:06 GMT</pubDate>
+    <lastBuildDate>Thu, 29 Aug 2024 21:28:06 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+    <category>Features</category>
     <category>Guide</category>
     <category>機能</category>
     <category>ガイド</category>
     <category>トラブルシュート</category>
     <category>FAQ</category>
+    <item>
+      <title>Echo Modifer</title>
+      <link>https://korepi.com/jp/features/Visuals/echo-modifier.html</link>
+      <guid>https://korepi.com/jp/features/Visuals/echo-modifier.html</guid>
+      <source url="https://korepi.com/jp/rss.xml">Echo Modifer</source>
+      <description>PERTAMAX Only Echo Modifier allows the user to apply any Echo to any of their characters.</description>
+      <category>Features</category>
+      <pubDate>Thu, 29 Aug 2024 21:24:33 GMT</pubDate>
+      <content:encoded><![CDATA[<div class="hint-container info">
+<p class="hint-container-title">PERTAMAX Only</p>
+</div>
+<h2> Echo Modifier allows the user to apply any Echo to any of their characters.</h2>
+]]></content:encoded>
+    </item>
     <item>
       <title>購入方法</title>
       <link>https://korepi.com/jp/guide/seller.html</link>
@@ -99,7 +114,7 @@
       <link>https://korepi.com/jp/guide/free.html</link>
       <guid>https://korepi.com/jp/guide/free.html</guid>
       <source url="https://korepi.com/jp/rss.xml">無料版</source>
-      <description>Korepiの無料ライセンス取得方法。 ステップ 1: ★⋅micah-bot-verify⋅★ チャンネルを探す リンク (https://discord.com/channels/1069057220802781265/1203687333107335198); img.png Micah-botが送信したメッセージを探す; ステップ 2: Bin...</description>
+      <description>Korepiの無料ライセンス取得方法。 ステップ 1: 🔐｜verification チャンネルを探す リンク (https://discord.com/channels/1069057220802781265/1203687333107335198); img.png Micah-botが送信したメッセージを探す; ステップ 2: Bind fre...</description>
       <category>ガイド</category>
       <pubDate>Wed, 07 Feb 2024 00:26:57 GMT</pubDate>
       <content:encoded><![CDATA[<h2> Korepiの無料ライセンス取得方法。</h2>
@@ -107,7 +122,7 @@
 <h3> ステップ 1:</h3>
 <ul>
 <li>
-<p><code>★⋅micah-bot-verify⋅★</code> チャンネルを探す <a href="https://discord.com/channels/1069057220802781265/1203687333107335198" target="_blank" rel="noopener noreferrer">リンク</a></p>
+<p><code>🔐｜verification</code> チャンネルを探す <a href="https://discord.com/channels/1069057220802781265/1203687333107335198" target="_blank" rel="noopener noreferrer">リンク</a></p>
 <p><img src="/assets/images/docs/202402/verify-1.png" alt="img.png" loading="lazy"></p>
 </li>
 <li>
@@ -123,7 +138,7 @@
 <div class="hint-container info">
 <p class="hint-container-title">すでにenc.jsonをお持ちの場合は、プログラムを開く前に削除してください。</p>
 </div>
-<p>インジェクターを起動してHWIDを取得した後、再び <code>★⋅micah-bot-verify⋅★</code> にアクセスし <code>Get verification file</code> をクリックして <code>HWID</code>をペーストする。</p>
+<p>インジェクターを起動してHWIDを取得した後、再び <code>🔐｜verification</code> にアクセスし <code>Get verification file</code> をクリックして <code>HWID</code>をペーストする。</p>
 <p>submitをクリックするとボットからファイルが送られてくるので、それをダウンロードしてKorepiフォルダに置いてください。ファイル名が <code>enc.json</code>であることを確認してください。</p>
 <h3> ステップ 5:</h3>
 <p>インジェクターを再度起動し、cmdの指示に従ってください。</p>
@@ -688,7 +703,7 @@
       <link>https://korepi.com/jp/guide/getkey.html</link>
       <guid>https://korepi.com/jp/guide/getkey.html</guid>
       <source url="https://korepi.com/jp/rss.xml">キーの入手方法</source>
-      <description>チュートリアル 有効なサブスクをお持ちの方は、他カードを発行するとサブスクが失効になるためしないでください。もし他カードを発行するとスポンサー補填を受け取れなくなります ステップ 1: ★⋅micah-bot-verify⋅★チャンネルを見つける リンク (https://discord.com/channels/1069057220802781265...</description>
+      <description>チュートリアル 有効なサブスクをお持ちの方は、他カードを発行するとサブスクが失効になるためしないでください。もし他カードを発行するとスポンサー補填を受け取れなくなります ステップ 1: 🔐｜verificationチャンネルを見つける リンク (https://discord.com/channels/1069057220802781265/1203...</description>
       <category>ガイド</category>
       <pubDate>Wed, 03 Jan 2024 06:45:45 GMT</pubDate>
       <content:encoded><![CDATA[<h2> チュートリアル</h2>
@@ -699,7 +714,7 @@
 <h3> ステップ 1:</h3>
 <ul>
 <li>
-<p><code>★⋅micah-bot-verify⋅★</code>チャンネルを見つける <a href="https://discord.com/channels/1069057220802781265/1203687333107335198" target="_blank" rel="noopener noreferrer">リンク</a></p>
+<p><code>🔐｜verification</code>チャンネルを見つける <a href="https://discord.com/channels/1069057220802781265/1203687333107335198" target="_blank" rel="noopener noreferrer">リンク</a></p>
 <p><img src="/assets/images/docs/202402/verify-1.png" alt="img.png" loading="lazy"></p>
 </li>
 <li>
@@ -795,7 +810,7 @@
       <link>https://korepi.com/jp/start/download.html</link>
       <guid>https://korepi.com/jp/start/download.html</guid>
       <source url="https://korepi.com/jp/rss.xml">ダウンロード</source>
-      <description>はじめに Korepiをダウンロードし使用を開始するには、以下の手順に従ってください。 ステップ 1: サーバーにログインし、Newcomerロールを取得します。 まだサーバーに参加されていない方は、サーバーへの参加方法とNewcomerの取得方法について書かれたページをお読みください。 ステップ 2: ★⋅korepi-download⋅★チャンネル...</description>
+      <description>はじめに Korepiをダウンロードし使用を開始するには、以下の手順に従ってください。 ステップ 1: サーバーにログインし、Newcomerロールを取得します。 まだサーバーに参加されていない方は、サーバーへの参加方法とNewcomerの取得方法について書かれたページをお読みください。 ステップ 2: 💿｜downloadチャンネルへ移動 💿｜d...</description>
       <category>ガイド</category>
       <pubDate>Wed, 03 Jan 2024 06:45:45 GMT</pubDate>
       <content:encoded><![CDATA[<h1> ダウンロード</h1>
@@ -804,8 +819,8 @@
 <p>Korepiをダウンロードし使用を開始するには、以下の手順に従ってください。</p>
 <h3> ステップ 1: サーバーにログインし、<code>Newcomer</code>ロールを取得します。</h3>
 <p>まだサーバーに参加されていない方は、サーバーへの参加方法と<code>Newcomer</code>の取得方法について書かれたページをお読みください。</p>
-<h3> ステップ 2: <code>★⋅korepi-download⋅★</code>チャンネルへ移動</h3>
-<p><code>★⋅korepi-download⋅★</code>チャンネルを探し、リンクをたどってソフトをダウンロードしてください。</p>
+<h3> ステップ 2: <code>💿｜download</code>チャンネルへ移動</h3>
+<p><code>💿｜download</code>チャンネルを探し、リンクをたどってソフトをダウンロードしてください。</p>
 <h3> ステップ 3: 準備完了！</h3>
 <p>.rarをフォルダに入れ、<a href="/jp/guide/virus.html" target="blank">除外リスト</a>に追加した後、解凍して以下の<a href="/jp/guide/getkey.html" target="blank">ガイド</a>に従ってください。</p>
 ]]></content:encoded>
@@ -911,7 +926,7 @@
       <link>https://korepi.com/jp/troubleshoot/faq-error.html</link>
       <guid>https://korepi.com/jp/troubleshoot/faq-error.html</guid>
       <source url="https://korepi.com/jp/rss.xml">インジェクターエラー</source>
-      <description>よくあるエラー korepiが消えてしまうのはなぜですか? ウイルス対策ソフトが無効になっていることを確認し、新しいフォルダを作成して除外項目に追加します。 除外フォルダ内にkorepiを展開し、再度実行する。 ステータス: ライセンスキーが無効です。 新しく キーを取得する (../guide/getkey.md) 必要があります。⁠★⋅micah-...</description>
+      <description>よくあるエラー korepiが消えてしまうのはなぜですか? ウイルス対策ソフトが無効になっていることを確認し、新しいフォルダを作成して除外項目に追加します。 除外フォルダ内にkorepiを展開し、再度実行する。 ステータス: ライセンスキーが無効です。 新しく キーを取得する (../guide/getkey.md) 必要があります。⁠🔐｜verif...</description>
       <category>トラブルシュート</category>
       <pubDate>Wed, 03 Jan 2024 06:45:45 GMT</pubDate>
       <content:encoded><![CDATA[<h2> よくあるエラー</h2>
@@ -921,7 +936,7 @@
 <p>除外フォルダ内にkorepiを展開し、再度実行する。</p>
 <hr>
 <h3> ステータス: ライセンスキーが無効です。</h3>
-<p>新しく <a href="/jp/guide/getkey.html" target="blank">キーを取得する</a> 必要があります。<code>⁠★⋅micah-bot-verify⋅★</code>, キーが手に入らなかったり、キーが使えなかったりした場合は、キーの有効期限が切れるまで待たなければなりません。</p>
+<p>新しく <a href="/jp/guide/getkey.html" target="blank">キーを取得する</a> 必要があります。<code>⁠🔐｜verification</code>, キーが手に入らなかったり、キーが使えなかったりした場合は、キーの有効期限が切れるまで待たなければなりません。</p>
 <p><code>スポンサーは、F:リセットキーを使用することができます。</code></p>
 <h3> [DLL インジェクション] プロセスがクラッシュ、終了コード 0xc000005</h3>
 <p><code>cmd</code> を管理者として開き、以下のコマンドを書く：</p>
@@ -1020,7 +1035,7 @@
 <hr>
 <h3> Received code is not 200 from https://md5c...</h3>
 <ul>
-<li>This Error will appear if your key is paused, please head to <code>★⋅micah-bot-verify⋅★</code> and click on <code>Unpause Key</code> and type <code>Yes</code> on the pop-up.</li>
+<li>This Error will appear if your key is paused, please head to <code>🔐｜verification</code> and click on <code>Unpause Key</code> and type <code>Yes</code> on the pop-up.</li>
 </ul>
 ]]></content:encoded>
       <enclosure url="https://korepi.com/assets/images/docs/202312/virus.png" type="image/png"/>

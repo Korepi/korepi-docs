@@ -6,14 +6,28 @@
     <link>https://korepi.com/en/</link>
     <description>Help on Korepi</description>
     <language>en-US</language>
-    <pubDate>Mon, 19 Aug 2024 17:08:33 GMT</pubDate>
-    <lastBuildDate>Mon, 19 Aug 2024 17:08:33 GMT</lastBuildDate>
+    <pubDate>Thu, 29 Aug 2024 21:28:06 GMT</pubDate>
+    <lastBuildDate>Thu, 29 Aug 2024 21:28:06 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-    <category>Guide</category>
     <category>Features</category>
+    <category>Guide</category>
     <category>FAQ</category>
     <category>Troubleshoot</category>
+    <item>
+      <title>Echo Modifer</title>
+      <link>https://korepi.com/en/features/Visuals/echo-modifier.html</link>
+      <guid>https://korepi.com/en/features/Visuals/echo-modifier.html</guid>
+      <source url="https://korepi.com/en/rss.xml">Echo Modifer</source>
+      <description>PERTAMAX Only Echo Modifier allows the user to apply any Echo to any of their characters.</description>
+      <category>Features</category>
+      <pubDate>Thu, 29 Aug 2024 21:24:33 GMT</pubDate>
+      <content:encoded><![CDATA[<div class="hint-container info">
+<p class="hint-container-title">PERTAMAX Only</p>
+</div>
+<h2> Echo Modifier allows the user to apply any Echo to any of their characters.</h2>
+]]></content:encoded>
+    </item>
     <item>
       <title>Where to buy?</title>
       <link>https://korepi.com/en/guide/seller.html</link>
@@ -100,7 +114,7 @@
       <link>https://korepi.com/en/guide/free.html</link>
       <guid>https://korepi.com/en/guide/free.html</guid>
       <source url="https://korepi.com/en/rss.xml">Free Version</source>
-      <description>How to get the free license for Korepi. Step 1: Find the ★⋅micah-bot-verify⋅★ channel direct link (https://discord.com/channels/1069057220802781265/1203687333107335198); img.png...</description>
+      <description>How to get the free license for Korepi. Step 1: Find the 🔐｜verification channel direct link (https://discord.com/channels/1069057220802781265/1203687333107335198); img.png Find...</description>
       <category>Guide</category>
       <pubDate>Wed, 07 Feb 2024 00:26:57 GMT</pubDate>
       <content:encoded><![CDATA[<h2> How to get the free license for Korepi.</h2>
@@ -108,7 +122,7 @@
 <h3> Step 1:</h3>
 <ul>
 <li>
-<p>Find the <code>★⋅micah-bot-verify⋅★</code> channel <a href="https://discord.com/channels/1069057220802781265/1203687333107335198" target="_blank" rel="noopener noreferrer">direct link</a></p>
+<p>Find the <code>🔐｜verification</code> channel <a href="https://discord.com/channels/1069057220802781265/1203687333107335198" target="_blank" rel="noopener noreferrer">direct link</a></p>
 <p><img src="/assets/images/docs/202402/verify-1.png" alt="img.png" loading="lazy"></p>
 </li>
 <li>
@@ -124,7 +138,7 @@
 <div class="hint-container info">
 <p class="hint-container-title">If you already got a enc.json delete it before opening the program</p>
 </div>
-<p>Launch the program to obtain your <code>HWID</code>, after that head to <code>★⋅micah-bot-verify⋅★</code> again and click on <code>Get verification file</code> and paste in your <code>HWID</code>.</p>
+<p>Launch the program to obtain your <code>HWID</code>, after that head to <code>🔐｜verification</code> again and click on <code>Get verification file</code> and paste in your <code>HWID</code>.</p>
 <p>After clicking on submit you will receive a file from the bot, download it and place it on your Korepi folder. Make sure the name is <code>enc.json</code>.</p>
 <h3> Step 5:</h3>
 <p>Launch the program again and select your game path if you didn't yet, after that Korepi will launch the game and inject itself.</p>
@@ -1848,7 +1862,7 @@ Note 2: Not recommended to use.</p>
 <p>Extract korepi inside the excluded folder and run again.</p>
 <hr>
 <h3> Status: No active subscription(s) found, Invalid license key</h3>
-<p>You need to <a href="/en/guide/getkey.html" target="blank">get a new key</a> from <code>⁠★⋅micah-bot-verify⋅★</code>, if you can't get a key or if the key doesn't work, you have to wait till key expiration.</p>
+<p>You need to <a href="/en/guide/getkey.html" target="blank">get a new key</a> from <code>⁠🔐｜verification</code>, if you can't get a key or if the key doesn't work, you have to wait till key expiration.</p>
 <p><code>Sponsors can use F:Reset Key instead</code></p>
 <h3> [DLL injection]  Process crashed, exit code 0xc000005</h3>
 <p>Open <code>cmd</code> as administrator and write the following command:</p>
@@ -1959,7 +1973,7 @@ If after restarting it did not help or no errors were found, write this command:
 <hr>
 <h3> Received code is not 200 from https://md5c...</h3>
 <ul>
-<li>This Error will appear if your key is paused, please head to <code>★⋅micah-bot-verify⋅★</code> and click on <code>Unpause Key</code> and type <code>Yes</code> on the pop-up.</li>
+<li>This Error will appear if your key is paused, please head to <code>🔐｜verification</code> and click on <code>Unpause Key</code> and type <code>Yes</code> on the pop-up.</li>
 </ul>
 ]]></content:encoded>
       <enclosure url="https://korepi.com/assets/images/docs/202312/virus.png" type="image/png"/>
@@ -1980,7 +1994,7 @@ If after restarting it did not help or no errors were found, write this command:
 <h3> Step 1:</h3>
 <ul>
 <li>
-<p>Find the <code>★⋅micah-bot-verify⋅★</code> channel <a href="https://discord.com/channels/1069057220802781265/1203687333107335198" target="_blank" rel="noopener noreferrer">direct link</a></p>
+<p>Find the <code>🔐｜verification</code> channel <a href="https://discord.com/channels/1069057220802781265/1203687333107335198" target="_blank" rel="noopener noreferrer">direct link</a></p>
 <p><img src="/assets/images/docs/202402/verify-1.png" alt="img.png" loading="lazy"></p>
 </li>
 <li>
@@ -2137,8 +2151,8 @@ In order to use custom skins in we will need to download:</p>
 <p>Welcome to our community! To pass the bot check and receive the <code>Newcomer</code> role, follow these steps.</p>
 <h3> Step 1: Join our server and obtain the <code>Newcomer</code> role</h3>
 <p>If you haven't joined the server yet, please read the verification <a href="/en/start/verify.html" target="blank">post</a>, which describes how to join the server and obtain the <code>Newcomer</code>.</p>
-<h3> Step 2: Go to the channel <code>★⋅korepi-download⋅★</code></h3>
-<p>Locate the channel <code>★⋅korepi-download⋅★</code> and follow the link to download the program.</p>
+<h3> Step 2: Go to the channel <code>💿｜download</code></h3>
+<p>Locate the channel <code>💿｜download</code> and follow the link to download the program.</p>
 <h3> Step 3: Ready!</h3>
 <p>Place the .rar in a folder and add it to <a href="/en/guide/virus.html" target="blank">exclusions</a>, after that extract it and follow this <a href="/en/guide/free.html" target="blank">guide</a></p>
 ]]></content:encoded>

@@ -6,18 +6,32 @@
     <link>https://korepi.com/ru/</link>
     <description>Помощь по Korepi</description>
     <language>ru-RU</language>
-    <pubDate>Mon, 19 Aug 2024 17:08:33 GMT</pubDate>
-    <lastBuildDate>Mon, 19 Aug 2024 17:08:33 GMT</lastBuildDate>
+    <pubDate>Thu, 29 Aug 2024 21:28:06 GMT</pubDate>
+    <lastBuildDate>Thu, 29 Aug 2024 21:28:06 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-    <category>Seller</category>
     <category>Features</category>
+    <category>Seller</category>
     <category>Руководство</category>
     <category>Guide</category>
     <category>FAQ</category>
     <category>Особенности</category>
     <category>Устранение Неполадок</category>
     <category>Гайд</category>
+    <item>
+      <title>Echo Modifer</title>
+      <link>https://korepi.com/ru/features/Visuals/echo-modifier.html</link>
+      <guid>https://korepi.com/ru/features/Visuals/echo-modifier.html</guid>
+      <source url="https://korepi.com/ru/rss.xml">Echo Modifer</source>
+      <description>PERTAMAX Only Echo Modifier allows the user to apply any Echo to any of their characters.</description>
+      <category>Features</category>
+      <pubDate>Thu, 29 Aug 2024 21:24:33 GMT</pubDate>
+      <content:encoded><![CDATA[<div class="hint-container info">
+<p class="hint-container-title">PERTAMAX Only</p>
+</div>
+<h2> Echo Modifier allows the user to apply any Echo to any of their characters.</h2>
+]]></content:encoded>
+    </item>
     <item>
       <title>Реселлеры Korepi в СНГ</title>
       <link>https://korepi.com/ru/start/p2g.html</link>
@@ -113,7 +127,7 @@
       <link>https://korepi.com/ru/guide/free.html</link>
       <guid>https://korepi.com/ru/guide/free.html</guid>
       <source url="https://korepi.com/ru/rss.xml">Бесплатная версия</source>
-      <description>Как получить бесплатную лицензию для Korepi. Шаг 1: Найдите канал ★⋅micah-bot-verify⋅★ ссылка (https://discord.com/channels/1069057220802781265/1203687333107335198); img.png Най...</description>
+      <description>Как получить бесплатную лицензию для Korepi. Шаг 1: Найдите канал 🔐｜verification ссылка (https://discord.com/channels/1069057220802781265/1203687333107335198); img.png Найдите ...</description>
       <category>Руководство</category>
       <pubDate>Wed, 07 Feb 2024 00:26:57 GMT</pubDate>
       <content:encoded><![CDATA[<h2> Как получить бесплатную лицензию для Korepi.</h2>
@@ -121,7 +135,7 @@
 <h3> Шаг 1:</h3>
 <ul>
 <li>
-<p>Найдите канал <code>★⋅micah-bot-verify⋅★</code> <a href="https://discord.com/channels/1069057220802781265/1203687333107335198" target="_blank" rel="noopener noreferrer">ссылка</a></p>
+<p>Найдите канал <code>🔐｜verification</code> <a href="https://discord.com/channels/1069057220802781265/1203687333107335198" target="_blank" rel="noopener noreferrer">ссылка</a></p>
 <p><img src="/assets/images/docs/202402/verify-1.png" alt="img.png" loading="lazy"></p>
 </li>
 <li>
@@ -137,7 +151,7 @@
 <div class="hint-container info">
 <p class="hint-container-title">If you already got a enc.json delete it before opening the program</p>
 </div>
-<p>Запустите инжектор, чтобы получить свой <code>HWID</code>, затем вернитесь в канал <code>★⋅micah-bot-verify⋅★</code> и нажмите <code>Get verification file</code>, вставьте свой <code>HWID</code>.</p>
+<p>Запустите инжектор, чтобы получить свой <code>HWID</code>, затем вернитесь в канал <code>🔐｜verification</code> и нажмите <code>Get verification file</code>, вставьте свой <code>HWID</code>.</p>
 <p>После нажатия на отправку вы получите файл от бота, загрузите его и поместите в папку Korepi. Убедитесь, что имя файла - <code>enc.json</code>.</p>
 <h3> Шаг 5:</h3>
 <p>Запустите инжектор снова и следуйте инструкциям в командной строке.</p>
@@ -778,7 +792,7 @@ pass korepi</p>
 <h3> Шаг 1:</h3>
 <ul>
 <li>
-<p>Найдите канал <code>★⋅micah-bot-verify⋅★</code> <a href="https://discord.com/channels/1069057220802781265/1203687333107335198" target="_blank" rel="noopener noreferrer">ссылка</a></p>
+<p>Найдите канал <code>🔐｜verification</code> <a href="https://discord.com/channels/1069057220802781265/1203687333107335198" target="_blank" rel="noopener noreferrer">ссылка</a></p>
 <p><img src="/assets/images/docs/202402/verify-1.png" alt="img.png" loading="lazy"></p>
 </li>
 <li>
@@ -887,7 +901,7 @@ pass korepi</p>
 <p>Распакуйте Korepi внутри исключенной папки и запустите снова.</p>
 <hr>
 <h2> Статус: No active subscription(s) found, Invalid license key</h2>
-<p>Вам нужно <a href="/ru/guide/getkey.html" target="blank">получить новый ключ</a> от <code>⁠★⋅micah-bot-verify⋅★</code>, если вы не можете получить ключ или ключ не работает, вам придется ждать истечения срока действия ключа.</p>
+<p>Вам нужно <a href="/ru/guide/getkey.html" target="blank">получить новый ключ</a> от <code>⁠🔐｜verification</code>, если вы не можете получить ключ или ключ не работает, вам придется ждать истечения срока действия ключа.</p>
 <h3> <code>Спонсоры могут использовать F:Reset Key вместо этого</code></h3>
 <hr>
 <h2> [DLL injection]  Process crashed, exit code 0xc000005</h2>
@@ -987,7 +1001,7 @@ pass korepi</p>
 <hr>
 <h2> Received code is not 200 from https://md5c...</h2>
 <ul>
-<li>TОшибка появится, если ваш ключ приостановлен, пожалуйста, перейдите в раздел <code>★⋅micah-bot-verify⋅★</code>, нажмите на <code>Unpause Key</code> и введите <code>Yes</code>.</li>
+<li>TОшибка появится, если ваш ключ приостановлен, пожалуйста, перейдите в раздел <code>🔐｜verification</code>, нажмите на <code>Unpause Key</code> и введите <code>Yes</code>.</li>
 </ul>
 ]]></content:encoded>
       <enclosure url="https://korepi.com/assets/images/docs/202312/virus.png" type="image/png"/>
@@ -2113,8 +2127,8 @@ pass korepi</p>
 <p>Добро пожаловать в наше сообщество! Чтобы пройти проверку бота и получить роль <code>Новичок</code>, выполните следующие шаги.</p>
 <h3> Шаг 1: Присоединитесь к нашему серверу и получите роль <code>Новичок</code></h3>
 <p>Если вы еще не присоединились к серверу, ознакомьтесь с сообщением о верификации, в котором описано, как присоединиться к серверу и получить роль <code>Новичок</code>.</p>
-<h3> Шаг 2: Перейдите в канал <code>★⋅korepi-download⋅★</code></h3>
-<p>Найдите канал <code>★⋅korepi-download⋅★</code> и следуйте по ссылке, чтобы скачать программу.</p>
+<h3> Шаг 2: Перейдите в канал <code>💿｜download</code></h3>
+<p>Найдите канал <code>💿｜download</code> и следуйте по ссылке, чтобы скачать программу.</p>
 <h3> Шаг 3: Готово!</h3>
 <p>Поместите файл .rar в папку и добавьте его в <a href="/ru/guide/virus.html" target="blank">Исключения</a>, после чего извлеките его и следуйте этому <a href="/ru/guide/getkey.html" target="blank">руководству</a>.</p>
 ]]></content:encoded>

@@ -6,16 +6,30 @@
     <link>https://korepi.com/ar/</link>
     <description>للمساعدة Korepi</description>
     <language>ar</language>
-    <pubDate>Mon, 19 Aug 2024 17:08:33 GMT</pubDate>
-    <lastBuildDate>Mon, 19 Aug 2024 17:08:33 GMT</lastBuildDate>
+    <pubDate>Thu, 29 Aug 2024 21:28:06 GMT</pubDate>
+    <lastBuildDate>Thu, 29 Aug 2024 21:28:06 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-    <category>Guide</category>
     <category>Features</category>
+    <category>Guide</category>
     <category>الميزات</category>
     <category>Troubleshoot</category>
     <category>FAQ</category>
     <category>المميزات</category>
+    <item>
+      <title>Echo Modifer</title>
+      <link>https://korepi.com/ar/features/Visuals/echo-modifier.html</link>
+      <guid>https://korepi.com/ar/features/Visuals/echo-modifier.html</guid>
+      <source url="https://korepi.com/ar/rss.xml">Echo Modifer</source>
+      <description>PERTAMAX Only Echo Modifier allows the user to apply any Echo to any of their characters.</description>
+      <category>Features</category>
+      <pubDate>Thu, 29 Aug 2024 21:24:33 GMT</pubDate>
+      <content:encoded><![CDATA[<div class="hint-container info">
+<p class="hint-container-title">PERTAMAX Only</p>
+</div>
+<h2> Echo Modifier allows the user to apply any Echo to any of their characters.</h2>
+]]></content:encoded>
+    </item>
     <item>
       <title>من أين أشتري؟</title>
       <link>https://korepi.com/ar/guide/seller.html</link>
@@ -524,7 +538,7 @@
       <link>https://korepi.com/ar/guide/free.html</link>
       <guid>https://korepi.com/ar/guide/free.html</guid>
       <source url="https://korepi.com/ar/rss.xml">النسخة المجانية</source>
-      <description>كيفية الحصول على ترخيص مجاني لـKorepi. الخطوة 1: اعثر على قناة ★⋅micah-bot-verify⋅★ رابط مباشر (https://discord.com/channels/1069057220802781265/1203687333107335198); img.png اب...</description>
+      <description>كيفية الحصول على ترخيص مجاني لـKorepi. الخطوة 1: اعثر على قناة 🔐｜verification رابط مباشر (https://discord.com/channels/1069057220802781265/1203687333107335198); img.png ابحث عن...</description>
       <category>Guide</category>
       <pubDate>Wed, 07 Feb 2024 00:26:57 GMT</pubDate>
       <content:encoded><![CDATA[<h2> كيفية الحصول على ترخيص مجاني لـKorepi.</h2>
@@ -532,7 +546,7 @@
 <h3> الخطوة 1:</h3>
 <ul>
 <li>
-<p>اعثر على قناة <code>★⋅micah-bot-verify⋅★</code>  <a href="https://discord.com/channels/1069057220802781265/1203687333107335198" target="_blank" rel="noopener noreferrer">رابط مباشر</a></p>
+<p>اعثر على قناة <code>🔐｜verification</code>  <a href="https://discord.com/channels/1069057220802781265/1203687333107335198" target="_blank" rel="noopener noreferrer">رابط مباشر</a></p>
 <p><img src="/assets/images/docs/202402/verify-1.png" alt="img.png" loading="lazy"></p>
 </li>
 <li>
@@ -546,7 +560,7 @@
 <p><img src="/assets/images/docs/202312/success.png" alt="" loading="lazy"></p>
 <p>=======</p>
 <h3> الخطوة 4:</h3>
-<p>افتح برنامج الهاك للحصول على <code>HWID</code> الخاص بك, بعد ذلك توجه إلى <code>★⋅micah-bot-verify⋅★</code> مرة أخرى وانقر على <code>Get verification file</code> ولصق <code>HWID</code>الخاص بك.</p>
+<p>افتح برنامج الهاك للحصول على <code>HWID</code> الخاص بك, بعد ذلك توجه إلى <code>🔐｜verification</code> مرة أخرى وانقر على <code>Get verification file</code> ولصق <code>HWID</code>الخاص بك.</p>
 <p>بعد النقر على إرسال، ستتلقى ملفًا من الروبوت، قم بتنزيله ووضعه في مجلد Korepi الخاص بك. تأكد من ان اسمه <code>enc.json</code>.</p>
 <p>=======</p>
 <h3> الخطوة 5:</h3>
@@ -720,7 +734,7 @@
 <h3> الخطوة 1:</h3>
 <ul>
 <li>
-<p>أعثر على قناة <code>★⋅micah-bot-verify⋅★</code> <a href="https://discord.com/channels/1069057220802781265/1203687333107335198" target="_blank" rel="noopener noreferrer">رابط مباشر</a></p>
+<p>أعثر على قناة <code>🔐｜verification</code> <a href="https://discord.com/channels/1069057220802781265/1203687333107335198" target="_blank" rel="noopener noreferrer">رابط مباشر</a></p>
 <p><img src="/assets/images/docs/202402/verify-1.png" alt="img.png" loading="lazy"></p>
 </li>
 <li>
@@ -799,8 +813,8 @@
 <p>أهلا بك في مجتمعنا! لاجتياز فحص الروبوت واستلام دور <code>Newcomer</code> اتبع هذه الخطوات.</p>
 <h3> الخطوة 1: انضم إلى خادمنا واحصل على دور <code>Newcomer</code></h3>
 <p>إذا لم تكن قد انضممت إلى الخادم بعد، فيرجى قراءة منشور التحقق الذي يوضح كيفية الانضمام إلى الخادم والحصول على <code>Newcomer</code>.</p>
-<h3> الخطوة الثانية: اذهب إلى القناة <code>★⋅korepi-download⋅★</code></h3>
-<p>اعثر على قناة <code>★⋅korepi-download⋅★</code> واتبع الرابط لتنزيل البرنامج.</p>
+<h3> الخطوة الثانية: اذهب إلى القناة <code>💿｜download</code></h3>
+<p>اعثر على قناة <code>💿｜download</code> واتبع الرابط لتنزيل البرنامج.</p>
 <h3> الخطوة 3: جاهز!</h3>
 <p>ضع ملف .rar في مجلد وأضفه إليه <a href="/ar/guide/virus.html" target="blank">exclusions</a>, بعد ذلك استخرجه واتبع هاده <a href="/ar/guide/getkey.html" target="blank">الخطوات</a></p>
 ]]></content:encoded>
@@ -917,7 +931,7 @@
 <p>قم باستخراج korepi داخل المجلد المستبعد وتشغيله مرة أخرى.</p>
 <hr>
 <h3> Status: No active subscription(s) found, Invalid license key</h3>
-<p>أنت بحاجه إلى <a href="/ar/guide/getkey.html" target="blank">الحصول على مفتاح جديد</a> من <code>⁠★⋅micah-bot-verify⋅★</code>, إذا لم تتمكن من الحصول على المفتاح أو إذا كان المفتاح لا يعمل، عليك الانتظار حتى انتهاء صلاحية المفتاح.</p>
+<p>أنت بحاجه إلى <a href="/ar/guide/getkey.html" target="blank">الحصول على مفتاح جديد</a> من <code>⁠🔐｜verification</code>, إذا لم تتمكن من الحصول على المفتاح أو إذا كان المفتاح لا يعمل، عليك الانتظار حتى انتهاء صلاحية المفتاح.</p>
 <p><code>يمكن للداعمين استخدام مفتاح F:Reset بدلاً من ذلك</code></p>
 <h3> [DLL injection]  Process crashed, exit code 0xc000005</h3>
 <p>افتح <code>cmd</code> كمسؤول واكتب الأمر التالي:</p>
@@ -1017,7 +1031,7 @@
 <hr>
 <h3> Received code is not 200 from https://md5c...</h3>
 <ul>
-<li>This Error will appear if your key is paused, please head to <code>★⋅micah-bot-verify⋅★</code> and click on <code>Unpause Key</code> and type <code>Yes</code> on the pop-up.</li>
+<li>This Error will appear if your key is paused, please head to <code>🔐｜verification</code> and click on <code>Unpause Key</code> and type <code>Yes</code> on the pop-up.</li>
 </ul>
 ]]></content:encoded>
       <enclosure url="https://korepi.com/assets/images/docs/202312/virus.png" type="image/png"/>

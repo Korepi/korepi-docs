@@ -6,16 +6,30 @@
     <link>https://korepi.com/ko/</link>
     <description>Korepi 도움말</description>
     <language>ko-KR</language>
-    <pubDate>Mon, 19 Aug 2024 17:08:33 GMT</pubDate>
-    <lastBuildDate>Mon, 19 Aug 2024 17:08:33 GMT</lastBuildDate>
+    <pubDate>Thu, 29 Aug 2024 21:28:06 GMT</pubDate>
+    <lastBuildDate>Thu, 29 Aug 2024 21:28:06 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-    <category>Guide</category>
     <category>Features</category>
+    <category>Guide</category>
     <category>기능</category>
     <category>가이드</category>
     <category>FAQ</category>
     <category>트러블슈팅</category>
+    <item>
+      <title>Echo Modifer</title>
+      <link>https://korepi.com/ko/features/%EC%8B%9C%EA%B0%81%20%ED%9A%A8%EA%B3%BC/echo-modifier.html</link>
+      <guid>https://korepi.com/ko/features/%EC%8B%9C%EA%B0%81%20%ED%9A%A8%EA%B3%BC/echo-modifier.html</guid>
+      <source url="https://korepi.com/ko/rss.xml">Echo Modifer</source>
+      <description>PERTAMAX Only Echo Modifier allows the user to apply any Echo to any of their characters.</description>
+      <category>Features</category>
+      <pubDate>Thu, 29 Aug 2024 21:24:33 GMT</pubDate>
+      <content:encoded><![CDATA[<div class="hint-container info">
+<p class="hint-container-title">PERTAMAX Only</p>
+</div>
+<h2> Echo Modifier allows the user to apply any Echo to any of their characters.</h2>
+]]></content:encoded>
+    </item>
     <item>
       <title>Where to buy?</title>
       <link>https://korepi.com/ko/guide/seller.html</link>
@@ -1231,7 +1245,7 @@ Note 2: You can find the items IDs <a href="https://github.com/jie65535/Grasscut
       <link>https://korepi.com/ko/guide/free.html</link>
       <guid>https://korepi.com/ko/guide/free.html</guid>
       <source url="https://korepi.com/ko/rss.xml">무료 버전</source>
-      <description>Korepi 무료 라이선스 획득 방법 1단계: 링크 (https://discord.com/channels/1069057220802781265/1203687333107335198)에서 ★⋅micah-bot-verify⋅★ 채널을 찾습니다. ; img.png Micah-bot이 보낸 메세지를 찾습니다.; 2단계: Bin...</description>
+      <description>Korepi 무료 라이선스 획득 방법 1단계: 링크 (https://discord.com/channels/1069057220802781265/1203687333107335198)에서 🔐｜verification 채널을 찾습니다. ; img.png Micah-bot이 보낸 메세지를 찾습니다.; 2단계: Bind fre...</description>
       <category>가이드</category>
       <pubDate>Mon, 12 Feb 2024 04:04:43 GMT</pubDate>
       <content:encoded><![CDATA[<h2> Korepi 무료 라이선스 획득 방법</h2>
@@ -1239,7 +1253,7 @@ Note 2: You can find the items IDs <a href="https://github.com/jie65535/Grasscut
 <h3> 1단계:</h3>
 <ul>
 <li>
-<p><a href="https://discord.com/channels/1069057220802781265/1203687333107335198" target="_blank" rel="noopener noreferrer">링크</a>에서 <code>★⋅micah-bot-verify⋅★</code> 채널을 찾습니다.</p>
+<p><a href="https://discord.com/channels/1069057220802781265/1203687333107335198" target="_blank" rel="noopener noreferrer">링크</a>에서 <code>🔐｜verification</code> 채널을 찾습니다.</p>
 <p><img src="/assets/images/docs/202402/verify-1.png" alt="img.png" loading="lazy"></p>
 </li>
 <li>
@@ -1255,7 +1269,7 @@ Note 2: You can find the items IDs <a href="https://github.com/jie65535/Grasscut
 <div class="hint-container info">
 <p class="hint-container-title">enc.json이 이미 있다면 프로그램을 실행하기 전에 삭제합니다.</p>
 </div>
-<p>프로그램을 실행하여 <code>HWID</code>를 얻었다면 <code>★⋅micah-bot-verify⋅★</code>로 이동하여 <code>Get verification file</code>을 클릭한 뒤 <code>HWID</code>를 붙여넣습니다.</p>
+<p>프로그램을 실행하여 <code>HWID</code>를 얻었다면 <code>🔐｜verification</code>로 이동하여 <code>Get verification file</code>을 클릭한 뒤 <code>HWID</code>를 붙여넣습니다.</p>
 <p>전송을 클릭한 뒤, 봇에게서 파일을 받아서 다운로드하고 Korepi 폴더에 넣습니다. <code>enc.json</code>인지 확인합니다.</p>
 <h3> 5단계:</h3>
 <p>프로그램을 다시 실행하고 게임 경로를 지정하면, Korepi가 게임을 실행한 뒤 인젝트됩니다.</p>
@@ -1908,7 +1922,7 @@ Note 2: You can find the items IDs <a href="https://github.com/jie65535/Grasscut
 <h3> 1단계:</h3>
 <ul>
 <li>
-<p><a href="https://discord.com/channels/1069057220802781265/1203687333107335198" target="_blank" rel="noopener noreferrer">링크</a><code>에서 ★⋅micah-bot-verify⋅★</code> 채널을 찾습니다.</p>
+<p><a href="https://discord.com/channels/1069057220802781265/1203687333107335198" target="_blank" rel="noopener noreferrer">링크</a><code>에서 🔐｜verification</code> 채널을 찾습니다.</p>
 <p><img src="/assets/images/docs/202402/verify-1.png" alt="img.png" loading="lazy"></p>
 </li>
 <li>
@@ -1975,7 +1989,7 @@ Note 2: You can find the items IDs <a href="https://github.com/jie65535/Grasscut
       <link>https://korepi.com/ko/start/download.html</link>
       <guid>https://korepi.com/ko/start/download.html</guid>
       <source url="https://korepi.com/ko/rss.xml">다운로드</source>
-      <description>소개 환영합니다! 봇 체크를 통과하고 &amp;apos;Newcomer&amp;apos; 역할을 받으려면 아래 절차를 따라주세요. 1단계: 서버에 가입하여 Newcomer 역할 획득 아직 서버에 가입하지 않으셨다면 &amp;apos;Newcomer&amp;apos;를 얻는 방법이 있는 인증 게시글을 읽어보세요. 2단계: ★⋅korepi-download⋅★ 채널로 이동 ★⋅kore...</description>
+      <description>소개 환영합니다! 봇 체크를 통과하고 &amp;apos;Newcomer&amp;apos; 역할을 받으려면 아래 절차를 따라주세요. 1단계: 서버에 가입하여 Newcomer 역할 획득 아직 서버에 가입하지 않으셨다면 &amp;apos;Newcomer&amp;apos;를 얻는 방법이 있는 인증 게시글을 읽어보세요. 2단계: 💿｜download 채널로 이동 💿｜download 채널...</description>
       <category>가이드</category>
       <pubDate>Tue, 19 Dec 2023 11:43:03 GMT</pubDate>
       <content:encoded><![CDATA[<h1> Download</h1>
@@ -1984,8 +1998,8 @@ Note 2: You can find the items IDs <a href="https://github.com/jie65535/Grasscut
 <p>환영합니다! 봇 체크를 통과하고 'Newcomer' 역할을 받으려면 아래 절차를 따라주세요.</p>
 <h3> 1단계: 서버에 가입하여 <code>Newcomer</code> 역할 획득</h3>
 <p>아직 서버에 가입하지 않으셨다면 'Newcomer'를 얻는 방법이 있는 인증 게시글을 읽어보세요.</p>
-<h3> 2단계: <code>★⋅korepi-download⋅★</code> 채널로 이동</h3>
-<p><code>★⋅korepi-download⋅★</code> 채널에 있는 링크를 통해 프로그램을 다운로드하세요.</p>
+<h3> 2단계: <code>💿｜download</code> 채널로 이동</h3>
+<p><code>💿｜download</code> 채널에 있는 링크를 통해 프로그램을 다운로드하세요.</p>
 <h3> 3단계: 준비!</h3>
 <p>.rar을 폴더에 넣고 <a href="/ko/guide/virus.html" target="blank">제외 리스트</a>에 추가한 뒤, 압축을 풀어 <a href="/ko/guide/getkey.html" target="blank">가이드</a>를 참고하세요.</p>
 ]]></content:encoded>
@@ -2090,7 +2104,7 @@ Note 2: You can find the items IDs <a href="https://github.com/jie65535/Grasscut
       <link>https://korepi.com/ko/troubleshoot/faq-error.html</link>
       <guid>https://korepi.com/ko/troubleshoot/faq-error.html</guid>
       <source url="https://korepi.com/ko/rss.xml">일반적인 프로그램 오류</source>
-      <description>일반적인 오류 목록 왜 Korepi가 사라지나요? 바이러스 백신을 비활성화하세요, 새로운 폴더를 만들고 제외 목록에 추가합니다. 제외한 폴더에 Korepi를 압축 해제하고 다시 실행합니다. ⁠★⋅micah-bot-verify⋅★에서 새로운 키 (../guide/getkey.md)를 획득해야 합니다. 키를 얻을 수 없...</description>
+      <description>일반적인 오류 목록 왜 Korepi가 사라지나요? 바이러스 백신을 비활성화하세요, 새로운 폴더를 만들고 제외 목록에 추가합니다. 제외한 폴더에 Korepi를 압축 해제하고 다시 실행합니다. ⁠🔐｜verification에서 새로운 키 (../guide/getkey.md)를 획득해야 합니다. 키를 얻을 수 없거나 키가...</description>
       <category>트러블슈팅</category>
       <pubDate>Tue, 19 Dec 2023 11:43:03 GMT</pubDate>
       <content:encoded><![CDATA[<h2> 일반적인 오류 목록</h2>
@@ -2099,7 +2113,7 @@ Note 2: You can find the items IDs <a href="https://github.com/jie65535/Grasscut
 <p></p>
 <p>제외한 폴더에 Korepi를 압축 해제하고 다시 실행합니다.</p>
 <hr>
-<p><code>⁠★⋅micah-bot-verify⋅★</code>에서 <a href="/ko/guide/getkey.html" target="blank">새로운 키</a>를 획득해야 합니다. 키를 얻을 수 없거나 키가 작동하지 않으면 키가 만료될 때까지 기다려야 합니다.</p>
+<p><code>⁠🔐｜verification</code>에서 <a href="/ko/guide/getkey.html" target="blank">새로운 키</a>를 획득해야 합니다. 키를 얻을 수 없거나 키가 작동하지 않으면 키가 만료될 때까지 기다려야 합니다.</p>
 <p><code>스폰서는 F:Reset Key를 사용할 수 있습니다.</code></p>
 <h3> [DLL injection]  Process crashed, exit code 0xc000005</h3>
 <p><code>cmd</code>를 관리자 권한으로 실행하고 아래 명령을 입력합니다:</p>
@@ -2198,7 +2212,7 @@ Note 2: You can find the items IDs <a href="https://github.com/jie65535/Grasscut
 <hr>
 <h3> Received code is not 200 from https://md5c...</h3>
 <ul>
-<li>This Error will appear if your key is paused, please head to <code>★⋅micah-bot-verify⋅★</code> and click on <code>Unpause Key</code> and type <code>Yes</code> on the pop-up.</li>
+<li>This Error will appear if your key is paused, please head to <code>🔐｜verification</code> and click on <code>Unpause Key</code> and type <code>Yes</code> on the pop-up.</li>
 </ul>
 ]]></content:encoded>
     </item>

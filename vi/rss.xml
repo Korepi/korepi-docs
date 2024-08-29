@@ -6,16 +6,31 @@
     <link>https://korepi.com/vi/</link>
     <description>Trợ giúp về Korepi</description>
     <language>vi-VN</language>
-    <pubDate>Mon, 19 Aug 2024 17:08:33 GMT</pubDate>
-    <lastBuildDate>Mon, 19 Aug 2024 17:08:33 GMT</lastBuildDate>
+    <pubDate>Thu, 29 Aug 2024 21:28:06 GMT</pubDate>
+    <lastBuildDate>Thu, 29 Aug 2024 21:28:06 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+    <category>Features</category>
     <category>Hướng Dẫn</category>
     <category>Tính Năng</category>
     <category>Tính năng</category>
     <category>Các Câu Hỏi Thường Gặp</category>
     <category>Khắc Phục Lỗi</category>
     <category>Hướng dẫn</category>
+    <item>
+      <title>Echo Modifer</title>
+      <link>https://korepi.com/vi/features/Visuals/echo-modifier.html</link>
+      <guid>https://korepi.com/vi/features/Visuals/echo-modifier.html</guid>
+      <source url="https://korepi.com/vi/rss.xml">Echo Modifer</source>
+      <description>PERTAMAX Only Echo Modifier allows the user to apply any Echo to any of their characters.</description>
+      <category>Features</category>
+      <pubDate>Thu, 29 Aug 2024 21:24:33 GMT</pubDate>
+      <content:encoded><![CDATA[<div class="hint-container info">
+<p class="hint-container-title">PERTAMAX Only</p>
+</div>
+<h2> Echo Modifier allows the user to apply any Echo to any of their characters.</h2>
+]]></content:encoded>
+    </item>
     <item>
       <title>Hướng Dẫn Mua</title>
       <link>https://korepi.com/vi/guide/seller.html</link>
@@ -100,7 +115,7 @@
       <link>https://korepi.com/vi/guide/free.html</link>
       <guid>https://korepi.com/vi/guide/free.html</guid>
       <source url="https://korepi.com/vi/rss.xml">Phiên Bản Miễn Phí</source>
-      <description>Hướng Dẫn Lấy Key Korepi Miễn Phí Bước 1: Đi đến kênh ★⋅micah-bot-verify⋅★ trong server Discord: Link trực tiếp (https://discord.com/channels/1069057220802781265/120368733310733...</description>
+      <description>Hướng Dẫn Lấy Key Korepi Miễn Phí Bước 1: Đi đến kênh 🔐｜verification trong server Discord: Link trực tiếp (https://discord.com/channels/1069057220802781265/1203687333107335198)...</description>
       <category>Hướng Dẫn</category>
       <pubDate>Wed, 07 Feb 2024 00:26:57 GMT</pubDate>
       <content:encoded><![CDATA[<h2> Hướng Dẫn Lấy Key Korepi Miễn Phí</h2>
@@ -108,7 +123,7 @@
 <h3> Bước 1:</h3>
 <ul>
 <li>
-<p>Đi đến kênh <code>★⋅micah-bot-verify⋅★</code> trong server Discord: <a href="https://discord.com/channels/1069057220802781265/1203687333107335198" target="_blank" rel="noopener noreferrer">Link trực tiếp</a></p>
+<p>Đi đến kênh <code>🔐｜verification</code> trong server Discord: <a href="https://discord.com/channels/1069057220802781265/1203687333107335198" target="_blank" rel="noopener noreferrer">Link trực tiếp</a></p>
 <p><img src="/assets/images/docs/202402/verify-1.png" alt="img.png" loading="lazy"></p>
 </li>
 <li>
@@ -125,7 +140,7 @@
 <div class="hint-container info">
 <p class="hint-container-title">Nếu trong thư mục chứa Korepi đã tồn tại một file enc.json, hãy xoá nó trước khi mở Korepi</p>
 </div>
-<p>Mở Korepi để lấy <code>HWID</code>, sau đó đi đến kênh <code>★⋅micah-bot-verify⋅★</code> và click vào <code>Get verification file</code> rồi sau đó dán <code>HWID</code> của bạn vào.</p>
+<p>Mở Korepi để lấy <code>HWID</code>, sau đó đi đến kênh <code>🔐｜verification</code> và click vào <code>Get verification file</code> rồi sau đó dán <code>HWID</code> của bạn vào.</p>
 <p>Sau khi nhấn xác nhận, bạn sẽ nhận được một file từ bot. Sau đó tải và đặt file đó vào thư mục chứa Korepi. Hãy đảm bảo rằng tên file là <code>enc.json</code>.</p>
 <p>=======</p>
 <h3> Bước 5:</h3>
@@ -774,7 +789,7 @@
 <h3> Bước 1:</h3>
 <ul>
 <li>
-<p>Đi tới kênh <code>★⋅micah-bot-verify⋅★</code> ở server Discord: <a href="https://discord.com/channels/1069057220802781265/1203687333107335198" target="_blank" rel="noopener noreferrer">Link trực tiếp</a></p>
+<p>Đi tới kênh <code>🔐｜verification</code> ở server Discord: <a href="https://discord.com/channels/1069057220802781265/1203687333107335198" target="_blank" rel="noopener noreferrer">Link trực tiếp</a></p>
 <p><img src="/assets/images/docs/202402/verify-1.png" alt="img.png" loading="lazy"></p>
 </li>
 <li>
@@ -883,7 +898,7 @@ Click vào <code>ID(Change HWID)</code> rồi sau đó nhập <code>HWID</code> 
 <p>Giải nén Korepi vào thư mục được loại trừ đó và chạy lại.</p>
 <hr>
 <h3> Status: No active subscription(s) found, Invalid license key</h3>
-<p>Bạn cần <a href="/vi/guide/getkey.html" target="blank">lấy key mới</a> từ <code>⁠★⋅micah-bot-verify⋅★</code>, nếu như bạn không thể lấy key mới hoặc key không hoạt động, bạn cần chờ cho tới khi key hiện tại hết hạn.</p>
+<p>Bạn cần <a href="/vi/guide/getkey.html" target="blank">lấy key mới</a> từ <code>⁠🔐｜verification</code>, nếu như bạn không thể lấy key mới hoặc key không hoạt động, bạn cần chờ cho tới khi key hiện tại hết hạn.</p>
 <p><code>Nhà Tài Trợ có thể sử dụng F:Reset Key</code></p>
 <h3> [DLL injection] Process crashed, exit code 0xc000005</h3>
 <p>Mở <code>cmd</code> dưới quyền quản trị viên (run as admin) và chạy dòng lệnh sau:</p>
@@ -983,7 +998,7 @@ Nếu như việc khởi động lại máy không giúp ích được gì hoặ
 <hr>
 <h3> Received code is not 200 from https://md5c...</h3>
 <ul>
-<li>This Error will appear if your key is paused, please head to <code>★⋅micah-bot-verify⋅★</code> and click on <code>Unpause Key</code> and type <code>Yes</code> on the pop-up.</li>
+<li>This Error will appear if your key is paused, please head to <code>🔐｜verification</code> and click on <code>Unpause Key</code> and type <code>Yes</code> on the pop-up.</li>
 </ul>
 ]]></content:encoded>
       <enclosure url="https://korepi.com/assets/images/docs/202312/virus.png" type="image/png"/>
@@ -2148,8 +2163,8 @@ Lưu ý 2: Không khuyến khích sử dụng chức năng này.</p>
 <p>Chào mừng bạn đến với cộng đồng của chúng tôi! Để vượt qua sự kiểm tra của bot và nhận vai trò <code>Newcomer</code>, vui lòng làm các bước sau đây.</p>
 <h3> Bước 1: Tham Gia Server Và Nhận Vai Trò <code>Newcomer</code></h3>
 <p>Nếu như bạn chưa tham gia server Discord, vui lòng xem bài đăng về Xác Thực trước. Bạn sẽ tìm thấy thông tin về cách tham gia server Discord và lấy vai trò <code>Newcomer</code>.</p>
-<h3> Bước 2: Đi Tới Kênh <code>★⋅korepi-download⋅★</code></h3>
-<p>Đi tới kênh <code>★⋅korepi-download⋅★</code> và tải Korepi theo đường link được cung cấp.</p>
+<h3> Bước 2: Đi Tới Kênh <code>💿｜download</code></h3>
+<p>Đi tới kênh <code>💿｜download</code> và tải Korepi theo đường link được cung cấp.</p>
 <h3> Bước 3: Sẵn Sàng Để Sử Dụng!</h3>
 <p>Hãy đặt file .rar mà bạn đã tải về vào trong một thư mục rồi thêm thư mục đó vào <a href="/vi/guide/virus.html" target="blank">Danh Sách Loại Trừ</a>. Tiếp theo hãy giải nén file đó ra và làm theo <a href="/vi/guide/getkey.html" target="blank">Hướng Dẫn</a></p>
 ]]></content:encoded>

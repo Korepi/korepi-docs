@@ -6,15 +6,29 @@
     <link>https://korepi.com/id/</link>
     <description>Bantuan tentang Korepi</description>
     <language>id-ID</language>
-    <pubDate>Mon, 19 Aug 2024 17:08:33 GMT</pubDate>
-    <lastBuildDate>Mon, 19 Aug 2024 17:08:33 GMT</lastBuildDate>
+    <pubDate>Thu, 29 Aug 2024 21:28:06 GMT</pubDate>
+    <lastBuildDate>Thu, 29 Aug 2024 21:28:06 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+    <category>Features</category>
     <category>Panduan</category>
     <category>Fitur</category>
-    <category>Features</category>
     <category>FAQ</category>
     <category>Solusi</category>
+    <item>
+      <title>Echo Modifer</title>
+      <link>https://korepi.com/id/features/Visuals/echo-modifier.html</link>
+      <guid>https://korepi.com/id/features/Visuals/echo-modifier.html</guid>
+      <source url="https://korepi.com/id/rss.xml">Echo Modifer</source>
+      <description>PERTAMAX Only Echo Modifier allows the user to apply any Echo to any of their characters.</description>
+      <category>Features</category>
+      <pubDate>Thu, 29 Aug 2024 21:24:33 GMT</pubDate>
+      <content:encoded><![CDATA[<div class="hint-container info">
+<p class="hint-container-title">PERTAMAX Only</p>
+</div>
+<h2> Echo Modifier allows the user to apply any Echo to any of their characters.</h2>
+]]></content:encoded>
+    </item>
     <item>
       <title>Dimana Tempat Membeli?</title>
       <link>https://korepi.com/id/guide/seller.html</link>
@@ -180,7 +194,7 @@
       <link>https://korepi.com/id/guide/free.html</link>
       <guid>https://korepi.com/id/guide/free.html</guid>
       <source url="https://korepi.com/id/rss.xml">Versi Gratis</source>
-      <description>Cara Mendapatkan Lisensi Gratis untuk Korepi Langkah 1: Temukan saluran ★⋅micah-bot-verify⋅★ atau klik di sini (https://discord.com/channels/1069057220802781265/1203687333107335...</description>
+      <description>Cara Mendapatkan Lisensi Gratis untuk Korepi Langkah 1: Temukan saluran 🔐｜verification atau klik di sini (https://discord.com/channels/1069057220802781265/1203687333107335198)....</description>
       <category>Panduan</category>
       <pubDate>Wed, 07 Feb 2024 00:26:57 GMT</pubDate>
       <content:encoded><![CDATA[<h2> Cara Mendapatkan Lisensi Gratis untuk Korepi</h2>
@@ -188,7 +202,7 @@
 <h3> Langkah 1:</h3>
 <ul>
 <li>
-<p>Temukan saluran <code>★⋅micah-bot-verify⋅★</code> atau klik <a href="https://discord.com/channels/1069057220802781265/1203687333107335198" target="_blank" rel="noopener noreferrer">di sini</a>.</p>
+<p>Temukan saluran <code>🔐｜verification</code> atau klik <a href="https://discord.com/channels/1069057220802781265/1203687333107335198" target="_blank" rel="noopener noreferrer">di sini</a>.</p>
 <p><img src="/assets/images/docs/202402/verify-1.png" alt="img.png" loading="lazy"></p>
 </li>
 <li>
@@ -204,7 +218,7 @@
 <div class="hint-container info">
 <p class="hint-container-title">Jika kamu sudah memiliki `enc.json`, hapus terlebih dahulu sebelum membuka injektor.</p>
 </div>
-<p>Jalankan injektor untuk mendapatkan <code>HWID</code> Anda, kemudian buka <code>★⋅micah-bot-verify⋅★</code> lagi dan klik <code>Get verification file</code>, lalu tempelkan <code>HWID</code> Anda.</p>
+<p>Jalankan injektor untuk mendapatkan <code>HWID</code> Anda, kemudian buka <code>🔐｜verification</code> lagi dan klik <code>Get verification file</code>, lalu tempelkan <code>HWID</code> Anda.</p>
 <p>Setelah mengklik kirim, Anda akan menerima file dari bot. Unduh dan letakkan file tersebut di folder Korepi Anda. Pastikan file tersebut bernama <code>enc.json</code>.</p>
 <h3> Langkah 5:</h3>
 <p>Jalankan injektor sekali lagi dan ikuti instruksi yang muncul di cmd.</p>
@@ -1908,7 +1922,7 @@ Catatan 2: Penggunaan fitur ini tidak disarankan.</p>
 <h3> Langkah 1:</h3>
 <ul>
 <li>
-<p>Temukan channel <code>★⋅micah-bot-verify⋅★</code> atau klik <a href="https://discord.com/channels/1069057220802781265/1203687333107335198" target="_blank" rel="noopener noreferrer">di sini</a>.</p>
+<p>Temukan channel <code>🔐｜verification</code> atau klik <a href="https://discord.com/channels/1069057220802781265/1203687333107335198" target="_blank" rel="noopener noreferrer">di sini</a>.</p>
 <p><img src="/assets/images/docs/202402/verify-1.png" alt="img.png" loading="lazy"></p>
 </li>
 <li>
@@ -1999,7 +2013,7 @@ Catatan 2: Penggunaan fitur ini tidak disarankan.</p>
 <p>Ekstrak Korepi di dalam folder yang sudah dikecualikan dan jalankan kembali.</p>
 <hr>
 <h3> Status: No active subscription(s) found, Invalid license key</h3>
-<p>Anda harus <a href="/id/guide/getkey.html" target="blank">mengambil Key baru</a> di <code>⁠★⋅micah-bot-verify⋅★</code>. Jika Anda tidak dapat mengambil Key atau Key tidak berfungsi, maka Anda harus menunggu hingga masa berlaku Key berakhir.</p>
+<p>Anda harus <a href="/id/guide/getkey.html" target="blank">mengambil Key baru</a> di <code>⁠🔐｜verification</code>. Jika Anda tidak dapat mengambil Key atau Key tidak berfungsi, maka Anda harus menunggu hingga masa berlaku Key berakhir.</p>
 <p><code>Sponsors dapat menggunakan F:Reset Key sebagai alternatif</code></p>
 <hr>
 <h3> [DLL injection]  Process crashed, exit code 0xc000005</h3>
@@ -2106,7 +2120,7 @@ Jika tidak berhasil, buka cmd sebagai administrator dan ketik <code>sfc /scannow
 <hr>
 <h3> Received code is not 200 from https://md5c...</h3>
 <ul>
-<li>Eror ini akan muncul jika <em>key</em> kamu di<em>pause</em>, harap ke channel <code>★⋅micah-bot-verify⋅★</code> dan klik pada <code>Unpause Key</code> dan ketik <code>Yes</code> di pop-up.</li>
+<li>Eror ini akan muncul jika <em>key</em> kamu di<em>pause</em>, harap ke channel <code>🔐｜verification</code> dan klik pada <code>Unpause Key</code> dan ketik <code>Yes</code> di pop-up.</li>
 </ul>
 ]]></content:encoded>
       <enclosure url="https://korepi.com/assets/images/docs/202312/virus.png" type="image/png"/>
@@ -2225,8 +2239,8 @@ Jika tidak berhasil, buka cmd sebagai administrator dan ketik <code>sfc /scannow
 <p>Selamat datang di komunitas kami! Untuk lulus pemeriksaan bot dan menerima role <code>Newcomer</code>, ikuti langkah-langkah berikut.</p>
 <h3> Langkah 1: Bergabunglah dengan server kami dan dapatkan <code>Newcomer</code> role</h3>
 <p>Jika Anda belum bergabung dengan server, silakan baca pos <a href="/id/start/verify.html" target="blank">verifikasi</a>, yang menjelaskan cara bergabung dengan server dan mendapatkan peran <code>Newcomer</code>.</p>
-<h3> Langkah 2: Buka saluran <code>★⋅korepi-download⋅★</code></h3>
-<p>Cari saluran <code>★⋅korepi-download⋅★</code> dan ikuti tautan untuk mengunduh program.</p>
+<h3> Langkah 2: Buka saluran <code>💿｜download</code></h3>
+<p>Cari saluran <code>💿｜download</code> dan ikuti tautan untuk mengunduh program.</p>
 <h3> Langkah 3: Siap!</h3>
 <p>Tempatkan .rar dalam folder dan tambahkan ke <a href="/id/guide/virus.html" target="blank">exclusions</a>, setelah itu ekstrak dan ikuti <a href="/id/guide/getkey.html" target="blank">guide</a> untuk memulai.</p>
 ]]></content:encoded>
