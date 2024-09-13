@@ -9,7 +9,7 @@ author: Ryuzeen
 order: 3
 ---
 
-### Auto Culinária permite que você cozinhe automaticamente a quantidade desejada do prato selecionado, podendo escolher qualidade, quantidade e completar a maestria.
+### Auto Cozinhar permite que você cozinhe automaticamente a quantidade desejada do prato selecionado, podendo escolher qualidade, quantidade e completar a maestria.
 
 ## Video de Exemplo:
 
