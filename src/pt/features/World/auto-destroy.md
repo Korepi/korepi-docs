@@ -9,7 +9,7 @@ author: Ryuzeen
 order: 4
 ---
 
-### Auto Destruir Objetos permite que você destrua objetos como baús, plantas, escudos, minerais e mais automaticamente com classificações personalizadas.
+### Auto Destruir Objetos permite que você destrua objetos como baús, plantas, escudos, minerios e mais automaticamente com classificações personalizadas.
 
 ## Video de Exemplo:
 
